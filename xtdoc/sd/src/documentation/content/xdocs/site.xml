@@ -28,8 +28,8 @@
     See http://forrest.apache.org/docs/linking.html for more info
     -->
 <site xmlns="http://apache.org/forrest/linkmap/1.0" href="" label="MyProj" tab="" >
-    <about label="About" tab="Home" >
-        <index   href="index.html" label="Index" description="Welcome to MyProj" />
+    <about label="Home" tab="Home" >
+        <index   href="index.html" label="Index" description="Welcome to divvun.no" />
         <changes href="changes.html" label="Changes" description="The projects history" />
         <todo    href="todo.html" label="Todo" description="The plan for the project" />
     </about>
