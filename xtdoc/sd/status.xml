@@ -15,7 +15,11 @@
   limitations under the License.
 --><status>
   <developers>
-    <person email="joe@joescompany.org" id="JB" name="Joe Bloggs" />
+    <person email="sjur.moshagen@kolumbus.fi" id="SNM" name="Sjur Nørstebø Moshagen" />
+    <person email="tomi.pieski@hum.uit.no" id="TP" name="Tomi Pieski" />
+    <person email="thomas.omma@samediggi.no" id="TO" name="Thomas Omma" />
+    <person email="maren.palismaa@samediggi.no" id="MP" name="Maaren Palismaa" />
+    <person email="boerre@skolelinux.no" id="BG" name="Børre Gaup" />
 <!-- Add more people here -->  </developers>
   <changes>
 <!-- Add new releases here -->    <release version="0.1" date="unreleased" >
