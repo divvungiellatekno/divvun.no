@@ -42,6 +42,16 @@
     <whole_site_pdf label="Whole Site PDF" href="wholesite.pdf"/>
       </all>
         -->
+    <adm label="Administration" tab="adm" href="adm/" >
+        <overview href="index.html" label="Index" description="Administrative documentation" />
+    </adm>
+
+    <monthly label="Monthly reports" tab="adm" href="adm/reports/" >
+        <overview href="monthoverview.html" label="Overview" description="Overview over monthly reports" />
+        <oct-dec04 href="monthly00.html" label="Oct-Dec '04" description="Report for October-December '04" />
+        <oct-dec04 href="monthly01.html" label="Jan '05" description="Report for January '05" />
+    </monthly>
+
     <external-refs>
         <disamb href="http://giellatekno.uit.no/" />
     </external-refs>

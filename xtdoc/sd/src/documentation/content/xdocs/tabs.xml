@@ -9,23 +9,18 @@
     -->
     <tab dir="" id="Home" label="Home" indexfile="index.html" >
         <tab dir="" id="northern-sami" label="Davvisámegiella" indexfile="index_sme.html" />
-        <tab dir="" id="lule-sami" label="Julevsámegiella" indexfile="index_smi.html" />
-        <tab dir="" id="norwegian" label="Norsk" indexfile="index_nb.html" />
-        <tab dir="" id="swedish" label="Svenska" indexfile="index_sv.html" />
-        <tab dir="" id="finnish" label="Suomeksi" indexfile="index_fi.html" />
+        <tab dir="" id="lule-sami"     label="Julevsámegiella" indexfile="index_smi.html" />
+        <tab dir="" id="norwegian"     label="Norsk"           indexfile="index_nb.html" />
+        <tab dir="" id="swedish"       label="Svenska"         indexfile="index_sv.html" />
+        <tab dir="" id="finnish"       label="Suomeksi"        indexfile="index_fi.html" />
     </tab>
-    <tab href="http://giellatekno.uit.no" label="Sami Disambiguation Project" >
-<!--
-    <tab href="http://forrest.apache.org" label="Forrest"></tab>
-
-    <tab href="http://xml.apache.org/xerces" label="Xerces"></tab>
-    -->
-    </tab>
+    <tab href="http://giellatekno.uit.no" label="Sami Disambiguation Project" />
 
     <xi:include href="doc/tabs-frag.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-    <!-- Add new tabs here, eg:
-       <tab label="How-Tos" dir="community/howto/"/>
-       <tab label="XML Site" dir="xml-site/"/>
-       -->
+    <tab id="adm" label="Administration" dir="adm" indexfile="index.html" >
+        <tab id="adm-gen" label="General" dir="adm" indexfile="index.html" />
+        <tab id="reports" label="Reports" dir="adm/reports" indexfile="monthoverview.html" />
+    </tab>
+
 </tabs>
