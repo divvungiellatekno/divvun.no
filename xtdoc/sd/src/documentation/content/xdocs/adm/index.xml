@@ -25,8 +25,8 @@
     <section>
       <title>Common administrative documentation</title>
 
-      <p>Administrative information common to the two projects can be found <a
-      href="../doc/admin/workplan.html"
+      <p>Administrative information common to or shared by the two projects
+      can be found <a href="../doc/admin/workplan.html"
       title="Index page for shared administrative info.">on another
       page</a>.</p>
     </section>
@@ -60,7 +60,10 @@
         title="Home page for SubEthaEdit">SubEthaEdit</a>. A chat application
         (<a class="fork" href="http://www.apple.com/ichat/"
         title="Home page for iChat">iChat</a>) is used as a supporting tool as
-        well.</p>
+        well. Later this year we will switch to using iChat instead of the
+        phone, as it will gain 4-way video and 10-way audio conferencing
+        included in the <a href="http://www.apple.com/macosx/"
+        title="Home page of MacOS X"> next major version of the MacOS</a>.</p>
       </section>
 
       <section>
@@ -68,7 +71,7 @@
 
         <p>There will be gatherings and workshops from time to time. No exact
         timetable or frequency of such meetings are defined, they will be held
-        accoring to need.</p>
+        according to need.</p>
       </section>
     </section>
 
@@ -96,6 +99,12 @@
         language section at the Sámi Parliament each month. The reports are
         available in a <a href="reports/monthoverview.html">separate
         section</a> on these pages. The reports are written in Norwegian.</p>
+
+        <dl>
+          <dt>Deadline:</dt>
+
+          <dd>the 10<sup>th</sup> each month</dd>
+        </dl>
       </section>
 
       <section>
@@ -105,6 +114,29 @@
         report of the project status will be made by the project manager well
         in advance of each meeting. The reports will be available here as they
         are made.</p>
+
+        <dl>
+          <dt>Deadline:</dt>
+
+          <dd>3 weeks ahead of the meeting</dd>
+        </dl>
+      </section>
+
+      <section>
+        <title>Yearly reports</title>
+
+        <p>The financing bodies want reports about the progress of the project
+        and its use of the money. The <strong>deadlines</strong> are:</p>
+
+        <dl>
+          <dt>NordPlus Sprog:</dt>
+
+          <dd>February 15.</dd>
+
+          <dt>Norwegian ministeries:</dt>
+
+          <dd>March 15.</dd>
+        </dl>
       </section>
 
       <section>
