@@ -23,16 +23,24 @@
 
   <body>
     <section>
+      <title>Common administrative documentation</title>
+
+      <p>Administrative information common to the two projects can be found <a
+      href="../doc/admin/workplan.html"
+      title="Index page for shared administrative info.">on another
+      page</a>.</p>
+    </section>
+
+    <section>
       <title>Meetings</title>
 
       <section>
         <title>Weekly meetings</title>
 
         <p>We have a project meeting once a week, normally on Mondays at 10 AM
-        Norwegian time. The meeting includes also members from the Tromsø
-        Language Technology project - at least Trond Trosterud as the project
-        lead - to ease communication and coordination between the two
-        projects.</p>
+        Norwegian time. The meeting includes also members from the Sámi
+        Disambiguation project - at least Trond Trosterud as the project lead
+        - to ease communication and coordination between the two projects.</p>
 
         <p>The memos from the meetings will soon be placed here [link
         forthcoming]. The memos are written in a <a
