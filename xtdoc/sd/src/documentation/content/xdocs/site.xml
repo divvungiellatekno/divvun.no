@@ -34,7 +34,7 @@
         <todo    href="todo.html" label="Todo" description="The plan for the project" />
     </about>
 
-    <xi:include href="doc/site-frag.xml#xpointer(/tech/*)" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab != 'how'])" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
     <!--
         The href must be wholesite.html/pdf  You can change the labels and node names <all label="All">
@@ -52,14 +52,9 @@
       <oct-dec04 href="monthly01.html" label="Jan '05" description="Report for January '05" />
     </monthly>
     
-    <how label="Howtos" tab="how" href="./" >
-      <forrest-setup href="doc/infra/forrest-howto.html" label="Howto setup forrest" />
-      <forrest-menu href="doc/tools/forrest.html" label="Howto make tabs and menus in a forrest site" />
-      <xxe-install href="doc/infra/install-xxe.html" label="Howto install the XMLMind XML Editor" />
-      <forrest-write href="doc/tools/xml-mind.html" label="Howto write forrest docs using XXE" />
-    </how>
+    <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab = 'how'])" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-    
+
     <external-refs>
       <disamb href="http://giellatekno.uit.no/" />
     </external-refs>
