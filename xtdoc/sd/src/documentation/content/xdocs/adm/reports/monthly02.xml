@@ -6,6 +6,9 @@
     <title>Framdriftsrapport for Divvun</title>
 
     <subtitle>Nr 3, februar 2005</subtitle>
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
   </header>
 
   <body>
@@ -85,6 +88,8 @@
       mindre over i mars, og dermed burde det ikkje få konsekvensar for
       prosjektet på lengre sikt. Alle delane av prosjektet burde igjen vera i
       rute til sommaren.</p>
+
+      <p class="last_modified">Last modified: $Date$, by $Author$</p>
     </section>
   </body>
 </document>

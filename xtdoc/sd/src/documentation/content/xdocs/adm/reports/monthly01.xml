@@ -6,6 +6,9 @@
     <title>Framdriftsrapport for Divvun</title>
 
     <subtitle>Nr 2, januar 2005</subtitle>
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
   </header>
 
   <body>
@@ -84,6 +87,8 @@
       terminologibasen. Dette gjeld prosjektplanen, og arbeidet med å skriva
       ein spesifikasjon for eksterne leverandørar for dei delane som skal
       leggjast ut.</p>
+
+      <p class="last_modified">Last modified: $Date$, by $Author$</p>
     </section>
   </body>
 </document>

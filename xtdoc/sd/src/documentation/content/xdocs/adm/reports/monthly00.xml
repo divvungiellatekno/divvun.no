@@ -6,6 +6,10 @@
     <title>Framdriftsrapport for Divvun</title>
 
     <subtitle>Nr 1, oktober-desember 2004</subtitle>
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+
   </header>
 
   <body>
@@ -95,6 +99,8 @@
 
       <p>Arbeidet i perioden oktober-desember var i samsvar med planane, og
       prosjektet var i rute ved årsskiftet.</p>
+
+      <p class="last_modified">Last modified: $Date$, by $Author$</p>
     </section>
   </body>
 </document>

@@ -19,6 +19,9 @@
 <document>
   <header>
     <title>Administration</title>
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
   </header>
 
   <body>
@@ -170,6 +173,7 @@
       <p>Some info about the plans and schedules here.</p>
 
       <fixme author="SNM">Write this section.</fixme>
+      <p class="last_modified">Last modified: $Date$, by $Author$</p>
     </section>
   </body>
 </document>
