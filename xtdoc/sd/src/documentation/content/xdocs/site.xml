@@ -28,14 +28,13 @@
     See http://forrest.apache.org/docs/linking.html for more info
     -->
 <site xmlns="http://apache.org/forrest/linkmap/1.0" href="" label="MyProj" tab="" >
-    <about xmlns="http://apache.org/forrest/linkmap/1.0" label="About" tab="Home" >
-        <index xmlns="http://apache.org/forrest/linkmap/1.0" href="index.html" label="Index" description="Welcome to MyProj" />
-        <changes xmlns="http://apache.org/forrest/linkmap/1.0" href="history.html" label="History" description="The projects history" />
-        <todo xmlns="http://apache.org/forrest/linkmap/1.0" href="plan.html" label="Time plan" description="The plan for the project" />
+    <about label="About" tab="Home" >
+        <index   href="index.html" label="Index" description="Welcome to MyProj" />
+        <changes href="history.html" label="History" description="The projects history" />
+        <todo    href="plan.html" label="Time plan" description="The plan for the project" />
     </about>
 
-
-    <xi:include href="doc/site-frag.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="doc/site-frag.xml#xpointer(/tech/*)" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
     <!--
         The href must be wholesite.html/pdf  You can change the labels and node names <all label="All">
@@ -43,8 +42,7 @@
     <whole_site_pdf label="Whole Site PDF" href="wholesite.pdf"/>
       </all>
         -->
-    <external-refs xmlns="http://apache.org/forrest/linkmap/1.0">
-        <disamb xmlns="http://apache.org/forrest/linkmap/1.0" href="http://giellatekno.uit.no/" >
-        </disamb>
+    <external-refs>
+        <disamb href="http://giellatekno.uit.no/" />
     </external-refs>
 </site>
