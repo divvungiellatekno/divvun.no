@@ -1,0 +1,8 @@
+ERROR   (2005-01-21) 17:16.46:154   [org.apache.jcs.auxiliary.disk.indexed.IndexedDiskCache] (Unknown-URI) Unknown-thread/LogKitLogger: Failure updating element, cacheName: main, key: PK_G-file-cocoon://book-index.html?pipelinehash=-6973062720990789601
+java.lang.InterruptedException
+	at EDU.oswego.cs.dl.util.concurrent.WriterPreferenceReadWriteLock$WriterLock.acquire(Unknown Source)
+	at org.apache.jcs.auxiliary.disk.indexed.IndexedDiskCache.doUpdate(IndexedDiskCache.java:362)
+	at org.apache.jcs.auxiliary.disk.AbstractDiskCache$MyCacheListener.handlePut(AbstractDiskCache.java:441)
+	at org.apache.jcs.engine.CacheEventQueue$PutEvent.doRun(CacheEventQueue.java:573)
+	at org.apache.jcs.engine.CacheEventQueue$AbstractCacheEvent.run(CacheEventQueue.java:489)
+	at org.apache.jcs.engine.CacheEventQueue$QProcessor.run(CacheEventQueue.java:461)
