@@ -3,17 +3,17 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
   <header>
-    <title>Framdriftsrapport for Divvun - 2</title>
+    <title>Framdriftsrapport for Divvun</title>
 
-    <subtitle>januar 2005</subtitle>
+    <subtitle>Nr 2, januar 2005</subtitle>
   </header>
 
   <body>
     <section>
       <title>Arbeid</title>
 
-      <p>Arbeidet i januar har kome godt i gang. Det har vore fordelt på desse
-      hovudpunkta:</p>
+      <p>Prosjektarbeidet har kome godt i gang i januar. Det har vore fordelt
+      på desse hovudpunkta:</p>
 
       <ul>
         <li>konvertering til Unicode: konverteringa er i praksis over, men det
