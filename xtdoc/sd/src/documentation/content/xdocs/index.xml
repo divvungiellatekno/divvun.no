@@ -24,6 +24,7 @@
             <title>Welcome</title>
             <p>The Norwegian Sámi Parliament started a project to make sámi proofing tools in october 2004. The proofing tools will be freely available, at no cost, for Microsoft Windows, Mac OS X and Linux.</p>
             <p>The proofing project will work tightly together with the Sámi language technology project at the University of Tromsø. Under the <a href="doc/intro.html">Tech. Doc</a> tab you will find the technical documentation our two projects have in common. If you would like to help us you are strongly adviced to read this documentation.</p>
+	    <p>Last changed $Id$</p>
         </section>
     </body>
 </document>
