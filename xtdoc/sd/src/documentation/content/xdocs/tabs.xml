@@ -14,7 +14,7 @@
         <tab dir="" id="swedish"       label="Svenska"         indexfile="index_sv.html" />
         <tab dir="" id="finnish"       label="Suomeksi"        indexfile="index_fi.html" />
     </tab>
-    <tab href="http://giellatekno.uit.no" label="Sami Disambiguation Project" />
+    <tab href="http://giellatekno.uit.no" label="Sami Disamb. Proj." />
 
     <xi:include href="doc/tabs-frag.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
@@ -22,5 +22,5 @@
         <tab id="adm-gen" label="General" dir="adm" indexfile="index.html" />
         <tab id="reports" label="Reports" dir="adm/reports" indexfile="monthoverview.html" />
     </tab>
-
+    <tab id="how" label="HowTos" dir="" indexfile="howtos.html" />
 </tabs>
