@@ -34,7 +34,8 @@
         <todo    href="todo.html" label="Todo" description="The plan for the project" />
     </about>
 
-    <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab != 'how'])" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab != 'how'])"
+                xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
     <!--
         The href must be wholesite.html/pdf  You can change the labels and node names <all label="All">
@@ -47,12 +48,14 @@
     </adm>
     
     <monthly label="Monthly reports" tab="adm" href="adm/reports/" >
-      <overview href="monthoverview.html" label="Overview" description="Overview over monthly reports" />
-      <oct-dec04 href="monthly00.html" label="Oct-Dec '04" description="Report for October-December '04" />
-      <oct-dec04 href="monthly01.html" label="Jan '05" description="Report for January '05" />
+      <overview  href="monthoverview.html" label="Overview"    description="Overview over monthly reports" />
+      <oct-dec04 href="monthly00.html"     label="Oct-Dec '04" description="Report for October-December '04" />
+      <jan05 href="monthly01.html" label="Jan '05" description="Report for January '05" />
+      <feb05 href="monthly02.html" label="Feb '05" description="Report for February '05" />
     </monthly>
     
-    <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab = 'how'])" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab = 'how'])"
+                xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
 
     <external-refs>
