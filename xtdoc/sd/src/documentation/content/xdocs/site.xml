@@ -30,8 +30,8 @@
 <site xmlns="http://apache.org/forrest/linkmap/1.0" href="" label="MyProj" tab="" >
     <about xmlns="http://apache.org/forrest/linkmap/1.0" label="About" tab="Home" >
         <index xmlns="http://apache.org/forrest/linkmap/1.0" href="index.html" label="Index" description="Welcome to MyProj" />
-        <changes xmlns="http://apache.org/forrest/linkmap/1.0" href="changes.html" label="Changes" description="History of Changes" />
-        <todo xmlns="http://apache.org/forrest/linkmap/1.0" href="todo.html" label="Todo" description="Todo List" />
+        <changes xmlns="http://apache.org/forrest/linkmap/1.0" href="history.html" label="History" description="The projects history" />
+        <todo xmlns="http://apache.org/forrest/linkmap/1.0" href="plan.html" label="Time plan" description="The plan for the project" />
     </about>
 
 
