@@ -35,7 +35,11 @@
             description="The projects history" />
         <todo href="plan.html" label="Plan" 
             description="The plan for the project" />
+	    tab="home" label="About" href="">
+	        <all_site label="Full HTML" href="wholesite.html"/>    
+		<all_sitePDF label="Full PDF" href="wholesite.pdf"/>  
     </about>
+<!-- the three lines before the closing about tag are mine, trond -->
 
     <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab != 'how'])"
                 xmlns:xi="http://www.w3.org/2001/XInclude"/>

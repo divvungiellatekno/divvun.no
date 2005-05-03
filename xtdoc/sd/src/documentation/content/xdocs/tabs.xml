@@ -9,7 +9,7 @@
     -->
     <tab dir="" id="Home" label="Home" indexfile="index.html" >
         <tab dir="" id="northern-sami" label="Davvisámegiella" indexfile="index_sme.html" />
-        <tab dir="" id="lule-sami"     label="Julevsámegiella" indexfile="index_smi.html" />
+        <tab dir="" id="lule-sami"     label="Julevsámegiella" indexfile="index_smj.html" />
         <tab dir="" id="norwegian"     label="Norsk"           indexfile="index_nb.html" />
         <tab dir="" id="swedish"       label="Svenska"         indexfile="index_sv.html" />
         <tab dir="" id="finnish"       label="Suomeksi"        indexfile="index_fi.html" />
