@@ -14,22 +14,33 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
-<document> 
-    <header> 
-        <title>Sámi proofing tools project</title>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header>
+    <title>Projekt samiskt rättstavningsprogram</title>
 
-	<authors>
-	  <person email="borregaup@samediggi.no" name="Børre Gaup" />
-	</authors>
+    <authors>
+      <person email="borregaup@samediggi.no" name="Børre Gaup" />
+    </authors>
+  </header>
 
-    </header> 
-    <body> 
-        <section>
-            <title>Välkommen</title>
-            <p>The Norwegian Sámi Parliament started a project to make sámi proofing tools in october 2004. The proofing tools will be freely available, at no cost, for Microsoft Windows, Mac OS X and Linux.</p>
-            <p>The proofing project will work tightly together with the Sámi language technology project at the University of Tromsø. Under the <a href="doc/intro.html">Tech. Doc</a> tab you will find the technical documentation our two projects have in common. If you would like to help us you are strongly adviced to read this documentation.</p>
-	    <p>Last modified: $Date$, by $Author$</p>
-        </section>
-    </body>
+  <body>
+    <section>
+      <title>Välkommen</title>
+
+      <p>Sametinget i Norge startade i oktober 2004 ett projekt med mål att
+      utveckla samiskt rättstavningsprogram. Rättstavningsprogrammet kommer
+      att vara gratis nedladdningsbart för Microsoft Windows, Mac OS X och
+      Linux.</p>
+
+      <p>Projektet samiskt rättstavningsprogram arbetar tätt tillsammans med
+      Samiskt språkteknologiskt projekt vid Tromsø universitet. Under denna
+      länk <a href="doc/intro.html">Tech. Doc</a> finner du teknisk
+      dokumentation som de två projekten delar. Om du skulle vilja hjälpa till
+      så rekommenderar vi dej att läsa denna dokumentation. </p>
+
+      <p>Last modified: $Date$, by $Author$</p>
+    </section>
+  </body>
 </document>
