@@ -14,22 +14,31 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
-<document> 
-    <header> 
-        <title>Sámi proofing tools project</title>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header>
+    <title>Sáme korrektuvrraprográmmaprosjekta</title>
 
-	<authors>
-	  <person email="borregaup@samediggi.no" name="Børre Gaup" />
-	</authors>
+    <authors>
+      <person email="borregaup@samediggi.no" name="Børre Gaup" />
+    </authors>
+  </header>
 
-    </header> 
-    <body> 
-        <section>
-            <title>Bures båahtin</title>
-            <p>The Norwegian Sámi Parliament started a project to make sámi proofing tools in october 2004. The proofing tools will be freely available, at no cost, for Microsoft Windows, Mac OS X and Linux.</p>
-            <p>The proofing project will work tightly together with the Sámi language technology project at the University of Tromsø. Under the <a href="doc/intro.html">Tech. Doc</a> tab you will find the technical documentation our two projects have in common. If you would like to help us you are strongly adviced to read this documentation.</p>
-	    <p>Last modified: $Date$, by $Author$</p>
-        </section>
-    </body>
+  <body>
+    <section>
+      <title>Suohtas la dijáv vuoinnet </title>
+
+      <p>Vuona sámedigge l gålgådismáno 2004 mano nali biedjam sáme
+      korrektuvrraprográmmaprosjevtav. Korrektuvrraprográmma l Microsoft
+      Windows, Mac OS X ja Linux diehti ja dav galggá mávso dagi oadtjot.
+      Korrektuvrraprográmmaprosjekta barggá lahkalakkoj aktan Sámi
+      giellateknoprosjevtajn Råmså universitehtan. Dánna gávna teknijkálasj
+      tjállagijt, ma li aktisattja prosjevtajda: <a
+      href="doc/intro.html">Tech. Doc</a>. Jus sidá viehkedit, de lulu låhkåt
+      teknikálasj tjállagijt. </p>
+
+      <p>Last modified: $Date$, by $Author$</p>
+    </section>
+  </body>
 </document>
