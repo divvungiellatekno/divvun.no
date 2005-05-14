@@ -88,7 +88,7 @@ which will be used to configure the chosen Forrest skin.
 <!-- The optional feedback element will be used to construct a
     feedback link in the footer with the page pathname appended:
     <a href="@href">{@to}</a>
-    -->  <feedback href="mailto:borre.gaup@samediggi.no?subject=Feedback " to="borre.gaup@samediggi.no" >
+    -->  <feedback href="mailto:divvun@samediggi.no?subject=Feedback " to="divvun@samediggi.no" >
     Send feedback about the website to:
   </feedback>
 <!--
