@@ -14,9 +14,9 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<catalogue xml:lang="nb">
+<catalogue xml:lang="no">
     <message key="About">Om</message>
-    <message key="Index">BørreIndeks</message>
+    <message key="Index">Indeks</message>
     <message key="Changes">Endringer</message>
     <message key="Todo">Oppgave liste</message>
     <message key="Samples">Eksempler</message>
