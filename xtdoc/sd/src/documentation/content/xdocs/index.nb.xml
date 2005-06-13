@@ -11,6 +11,7 @@
     </header> 
     <body> 
         <section>
+          <title></title>
 	    <p>Siste endring: $Date$, by $Author$</p>
         </section>
     </body>
