@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header>
+    <title>Sáme korrektuvrraprográmmaprosjekta</title>
+
+    <authors>
+      <person email="" name="" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Buorisboahtem</title>
+
+      <p>Vuona Sámedigge le gålgådismáno 2004 biedjam jåhtuj sáme
+      korrektuvrraprográmmaprosjevtav. Korrektuvrraprográmma le Microsoft
+      Windows, Mac OS X ja Linux diehti ja dav galggá nåvkå oadtjot.
+      Korrektuvrraprográmmaprosjekta barggá aktan lahkalakkoj Sámi
+      giellateknoprosjevtajn Råmså universitehtan. Dánna gávna teknihkalasj
+      tjállagijt, ma li aktisattja prosjevtajda: <a
+      href="doc/intro.html">Tech. Doc</a>. Jus sidá viehkedit, de lågåsta
+      teknihkalasj tjállagijt.</p>
+
+      <fixme author="bg">Translate last modified to Julev sámi</fixme>
+      <p>Last modified: $Date$, by $Author$</p>
+    </section>
+  </body>
+</document>

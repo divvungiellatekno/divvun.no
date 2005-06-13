@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
+<document> 
+    <header> 
+        <title></title>
+
+	<authors>
+	  <person email="" name="" />
+	</authors>
+
+    </header> 
+    <body> 
+        <section>
+	    <p>Siste endring: $Date$, by $Author$</p>
+        </section>
+    </body>
+</document>
