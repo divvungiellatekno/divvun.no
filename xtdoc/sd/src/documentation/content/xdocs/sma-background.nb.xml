@@ -1,17 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
-<document> 
-    <header> 
-        <title></title>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header>
+    <title>Stavekontroll for sørsamisk</title>
 
-	<authors>
-	  <person email="" name="" />
-	</authors>
+    <authors>
+      <person email="" name="" />
+    </authors>
+  </header>
 
-    </header> 
-    <body> 
-        <section>
-	    <p>Maŋemuš rievdaduvvon: $Date$, by $Author$</p>
-        </section>
-    </body>
+  <body>
+    <section>
+      <title>Forhistorie</title>
+
+      <p>Den opprinnelige planen for <em>divvun.no</em> var å lage
+      stavekontroll for tre språk, nord- lule og sørsamisk. I løpet av
+      planleggingsperioden gikk vi likevel inn for å utelate sørsamisk, av
+      følgende grunner: </p>
+
+      <ol>
+        <li>Den sørsamiske analysatoren (laget av Sjur N. Moshagen og Trond
+        Trosterud) har ikke hatt tilgang til ei liste over sørsamiske ord, med
+        stammeklasseinformasjon, i elektronisk form. Så lenge analysatoren
+        ikke har tilgang til ei slik liste, vil den forbli en demonstrator,
+        som ikkje kan brukes til praktiske formål</li>
+
+        <li>De grammatikkene som eksisterer for sørsamisk er ikke uttømmende
+        nok til å lage gode analysatorer, det er rett og slett for mange åpne
+        spørsmål.</li>
+
+        <li>Språkteknologiprosjektet ved Universitetet i Tromsø fikk avslag på
+        søknaden sin om å arbeide videre med den sørsamiske analysatoren, de
+        så det som viktigere å konsentrere seg om nord- og lulesamisk, der den
+        grunnleggende infrastrukturen var på plass. </li>
+      </ol>
+
+      <p>Den avgjørende faktoren var mangelen på ei sørsamisk ordliste. På
+      grunn av at den mangla, kom ikke arbeidet med sørsamisk i gang samtidig
+      med de andre språka, og det ble heller ikke med i andre prosjektfase ved
+      UiT. Hvor lang tid det vil ta å få en sørsamisk analysator på plass er
+      usikkert, og Sametinget kunne ikke gå inn for å ta med sørsamisk i
+      divvun-prosjektet når det var knytta så mye usikkerhet til analysatoren
+      </p>
+    </section>
+
+    <section>
+      <title>Planer for sørsamisk i framtida</title>
+
+      <p>Både Universitetet i Tromsø og Sametinget er i prinsippet innstilt på
+      å arbeide med sørsamisk språkteknologi. For å få framgang i arbeidet med
+      sørsamisk, må disse forutsetningene være på plass:</p>
+
+      <ol>
+        <li>Prosjektet må ha tilgang til ei liste over sørsamiske ord, med
+        stammeklasseinformasjon, i elektronisk form</li>
+
+        <li>Det trengs mer opplysninger om sørsamisk grammatikk, f.eks. i form
+        av en ny referenasegrammatikk. Eksempel på åpne spørsmål er
+        adjektivbøyinga, og behandlinga av lånord.</li>
+
+        <li>Noen må utvide den eksisterende sørsamiske analysatoren (<a
+        href="???">http://giellatekno.uit.no/a-sma.html</a>)</li>
+      </ol>
+    </section>
+
+    <section>
+      <p>Maŋemuš rievdaduvvon: $Date$, by $Author:
+      boerre $</p>
+    </section>
+  </body>
 </document>
