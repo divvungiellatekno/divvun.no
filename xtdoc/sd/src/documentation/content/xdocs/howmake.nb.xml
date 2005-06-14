@@ -5,13 +5,14 @@
         <title></title>
 
 	<authors>
-	  <person email="" name="" />
+	  <person email="borre.gaup@samediggi.no" name="Børre Gaup" />
 	</authors>
 
     </header> 
     <body> 
         <section>
-          <title></title>
+          <title>Hvordan stavekontrollen lages</title>
+	  <p></p>
 	    <p>Maŋemuš rievdaduvvon: $Date$, by $Author$</p>
         </section>
     </body>
