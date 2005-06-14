@@ -1,202 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-"http://forrest.apache.org/dtd/document-v20.dtd">
+                          "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
-  <header>
-    <title>Divvun - samiske korrekturverktøy</title>
+    <header>
+        <title>Divvun - samiske korrekturverktøy</title>
 
-    <authors>
-      <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
-    </authors>
-  </header>
+	<authors>
+	  <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
+	</authors>
 
-  <body>
-    <section>
-      <title>Hva er Divvun?</title>
+    </header>
+    <body>
+      <section>
+        <title>Hva er Divvun?</title>
+        <p>Divvun er et prosjekt under det norske Sametinget for å lage retteprogram
+           for samisk. I første omgang betyr det stavekontroll og orddeling for
+           nordsamisk, og staveontroll for lulesamisk - bakgrunnen for denne
+           prioriteringa kan du lese mere om <a href="sma-background.html">her</a>.
+           Verktøyene skal fungere
+           på Windows, Linux og Mac i de vanligste kontorprogrammene.</p>
+      </section>
 
-      <p>Divvun er et prosjekt under det norske Sametinget for å lage
-      retteprogram for samisk. I første omgang betyr det stavekontroll og
-      orddeling for nordsamisk, og staveontroll for lulesamisk - bakgrunnen
-      for at sørsamisk ikke er med kan du lese mere om <a
-      href="sma-background.nb.html">her</a>. Verktøyene skal fungere på
-      Windows, Linux og Mac i de vanligste kontorprogrammene.</p>
-    </section>
+      <section>
+        <title>Bakgrunn</title>
 
-    <section>
-      <title>Bakgrunn</title>
+        <p>Prosjektet ble først planlagt og deretter igangsatt etter et ønske fra
+           Sametinget om å gi samisktalende og andre som ønsker å skrive samisk de
+           samme verktøyene som norskspråklige. Dette er særlig viktig etter som det
+           er mange samisktalende som pga manglende skriveopplæring har vanskelig
+           for å uttrykke seg skriftlig på sitt eget morsmål. Prosjektet er således
+           en del av en strategi for å styrke samisk språk, og å øke bruken av samisk
+           som skriftspråk.</p>
 
-      <p>Prosjektet ble først planlagt og deretter igangsatt etter et ønske
-      fra Sametinget om å gi samisktalende og andre som ønsker å skrive samisk
-      de samme verktøyene som norskspråklige. Dette er særlig viktig etter som
-      det er mange samisktalende som pga. manglende skriveopplæring har
-      vanskelig for å uttrykke seg skriftlig på sitt eget morsmål. Prosjektet
-      er således en del av en strategi for å styrke samisk språk, og å øke
-      bruken av samisk som skriftspråk.</p>
+        <p>Prosjektet er finansiert av Sametinget og Kommunal- og regionaldepartementet,
+           Undervisnings- og forskningsdepartementet og Kultur- og kirkedepartementet.</p>
+      </section>
 
-      <p>Prosjektet er finansiert av Sametinget og Kommunal- og
-      regionaldepartementet, Undervisnings- og forskningsdepartementet og
-      Kultur- og kirkedepartementet.</p>
-    </section>
+      <section>
+        <title>Organisering</title>
 
-    <section>
-      <title>Organisering</title>
+        <p>Prosjektet er lagt under Sametingets språkavdeling. Prosjektet har et eget
+           prosjektstyre med medlemmer fra Sametinget, departementene og Universitetet i Tromsø.</p>
 
-      <p>Prosjektet er lagt under Sametingets språkavdeling. Prosjektet har et
-      eget prosjektstyre med medlemmer fra Sametinget, departementene og
-      Universitetet i Tromsø.</p>
+        <p>Det konkrete arbeidet i prosjektet gjøres av en gruppe på fem personer:</p>
 
-      <p>Det konkrete arbeidet i prosjektet gjøres av en gruppe på fem
-      personer:</p>
+        <ul>
+          <li>Børre Gaup (prosjektmedarbeider)</li>
+          <li>Sjur N. Moshagen (prosjektleder)</li>
+          <li>Thomas Omma (lingvist)</li>
+          <li>Maaren Palismaa (lingvist)</li>
+          <li>Tomi Pieski (programmerer)</li>
+        </ul>
 
-      <ul>
-        <li>Børre Gaup (prosjektmedarbeider)</li>
+        <p>Prosjektet bygger på arbeid ved Universitetet i Tromsø, og har et nært og daglig
+           samarbeid med det språkteknologiske miljøet der, så nært at vi har det meste av
+           infrastrukturen felles (se under fliken "<a href="http://giellatekno.uit.no">Samisk
+           disamb.</a>" over).</p>
+      </section>
 
-        <li>Sjur N. Moshagen (prosjektleder)</li>
+      <section>
+        <title>Ferdige korrekturverktøy</title>
 
-        <li>Thomas Omma (lingvist)</li>
+        <p>Når prosjektet er ferdig i september 2007, vil de ferdige korrekturverktøyene
+           være gratis tilgjengelige på prosjektets hjemmeside i form av installasjonsprogram
+           som enkelt installerer verktøyene på datamaskinen. Verktøyene vil fungere på samme
+           måten som tilsvarende verktøy for andre språk. Sametinget og Universitetet i Tromsø vil
+           beholde rettene til det meste av programmene, men tillater at alle interesserte kan bruke både
+           programmene og kildekoden deres vederlagsfritt (tilgang til kildekoden gjelder
+           ikke deler som er proprietære).</p>
 
-        <li>Maaren Palismaa (lingvist)</li>
+        <p>Den nøyaktige listen over ferdige program var ved prosjektstart:</p>
 
-        <li>Tomi Pieski (programmerer)</li>
-      </ul>
+        <table>
+          <caption>Tabell over planlagte produkt</caption>
+          <tr><th>Program/OS</th>      <th>Stavekontroll</th><th>Orddeling</th></tr>
+          <tr><td>MS Office/Win</td>   <td>x</td>            <td>x</td>        </tr>
+          <tr><td>MS Office/Mac</td>   <td>x</td>            <td>x</td>        </tr>
+          <tr><td>OpenOffice/Win</td>  <td>x</td>            <td>?</td>        </tr>
+          <tr><td>OpenOffice/Mac</td>  <td>x</td>            <td>?</td>        </tr>
+          <tr><td>OpenOffice/Linux</td><td>x</td>            <td>?</td>        </tr>
+          <tr><td>InDesign CS</td>     <td>-</td>            <td>x</td>        </tr>
+          <tr><td>Aspell (Win/Mac/Linux)</td><td>x</td>      <td></td>        </tr>
+        </table>
 
-      <p>Prosjektet bygger på arbeid ved Universitetet i Tromsø, og har et
-      nært og daglig samarbeid med det språkteknologiske miljøet der, så nært
-      at vi har det meste av infrastrukturen felles (se under fliken "<a
-      href="http://giellatekno.uit.no">Samisk disamb.</a>" over).</p>
-    </section>
+        <p>Denne listen kan komme til å justeres noe under prosjektets gang, men store forandringer
+           vil det sannsynligvis ikke bli.</p>
 
-    <section>
-      <title>Ferdige korrekturverktøy</title>
+        <p>Prosjektet vil tilby tidlige testversjoner (såkalte alfa- og betaversjoner) for
+           interesserte brukere (betatestere). Vi vil etter hvert som første testversjon blir
+           tilgjengelig legge ut mere informasjon om testing og bruk. En mere detaljert plan
+           med viktige milepæler for de ulike versjonene finnes <a href="timetable.html">her</a>,
+           og litt flere detaljer om hvordan arbeidet gjøres finner du <a href="howmake.html">her</a>.
+           Se forøvrig det siste avsnittet med nyttige lenker.</p>
+      </section>
 
-      <p>Når prosjektet er ferdig i september 2007, vil de ferdige
-      korrekturverktøyene være gratis tilgjengelige på prosjektets hjemmeside
-      i form av installasjonsprogram som enkelt installerer verktøyene på
-      datamaskinen. Verktøyene vil fungere på samme måten som tilsvarende
-      verktøy for andre språk. Sametinget og Universitetet i Tromsø vil
-      beholde rettene til programmene, men tillater at alle interesserte kan
-      bruke dem vederlagsfritt.</p>
+      <section>
+        <title>Prosjektets språkpolitikk</title>
 
-      <p>Den nøyaktige listen over ferdige program var ved prosjektstart:</p>
+        <p>Prosjektet er til sin natur flerspråklig, og vil derfor også være flerspråklig i
+           den dokumentasjonen vi produserer. For både å tilby viktig og grunnleggende informasjon
+           på relevante språk, og å unngå å drukne i oversettelsesarbeid, har vi definert
+           <a href="lang-policy.html">en egen språkpolitikk for prosjektets dokumentasjon</a>.</p>
 
-      <table>
-        <caption>Tabell over planlagte produkt</caption>
+        <p>Prosjektet har ingen egen politikk for normeringen av samiske skriftspråk, og vil
+           følge alle vedtak fra de samiske språknormerende organ. I tilfeller der vi mener
+           normeringen er uklar, vil vi be om en klargjøring fra disse organene.</p>
+      </section>
 
-        <tr>
-          <th>Program/OS</th>
+      <section>
+        <title>Nyttige lenker</title>
 
-          <th>Stavekontroll</th>
+        <ul>
+          <li><a href="">RSS-nyheter fra prosjektet</a></li>
+          <li><a href="mailto:divvun@samediggi.no">E-post til prosjektet</a></li>
+          <li><a href="">Aspell</a></li>
+          <li><a href="">Aspell for MacOS X</a></li>
+          <li><a href="">OpenOffice</a></li>
+          <li><a href="">Xerox FST-verktøy</a></li>
+          <li><a href="">E-post til prosjektet</a></li>
+          <li><a href="">...</a></li>
+        </ul>
 
-          <th>Orddeling</th>
-        </tr>
-
-        <tr>
-          <td>MS Office/Win</td>
-
-          <td>x</td>
-
-          <td>x</td>
-        </tr>
-
-        <tr>
-          <td>MS Office/Mac</td>
-
-          <td>x</td>
-
-          <td>x</td>
-        </tr>
-
-        <tr>
-          <td>OpenOffice/Win</td>
-
-          <td>x</td>
-
-          <td>?</td>
-        </tr>
-
-        <tr>
-          <td>OpenOffice/Mac</td>
-
-          <td>x</td>
-
-          <td>?</td>
-        </tr>
-
-        <tr>
-          <td>OpenOffice/Linux</td>
-
-          <td>x</td>
-
-          <td>?</td>
-        </tr>
-
-        <tr>
-          <td>InDesign CS</td>
-
-          <td>-</td>
-
-          <td>x</td>
-        </tr>
-
-        <tr>
-          <td>Aspell (Win/Mac/Linux)</td>
-
-          <td>x</td>
-
-          <td></td>
-        </tr>
-      </table>
-
-      <p>Denne listen kan komme til å justeres noe under prosjektets gang, men
-      store forandringer vil det sannsynligvis ikke bli.</p>
-
-      <p>Prosjektet vil tilby tidlige testversjoner (såkalte alfa- og
-      betaversjoner) for interesserte brukere (betatestere). Vi vil etter
-      hvert som første testversjon blir tilgjengelig legge ut mere informasjon
-      om testing og bruk. En mere detaljert plan med viktige milepæler for de
-      ulike versjonene finnes <a href="timetable.html">her</a>. Se forøvrig
-      det siste avsnittet med nyttige lenker.</p>
-    </section>
-
-    <section>
-      <title>Prosjektets språkpolitikk</title>
-
-      <p>Prosjektet er til sin natur flerspråklig, og vil derfor også være
-      flerspråklig i den dokumentasjonen vi produserer. For både å tilby
-      viktig og grunnleggende informasjon på relevante språk, og å unngå å
-      drukne i oversettelsesarbeid, har vi definert <a
-      href="lang-policy.html">en egen språkpolitikk for prosjektets
-      dokumentasjon</a>.</p>
-
-      <p>Prosjektet har ingen egen politikk for normeringen av samiske
-      skriftspråk, og vil følge alle vedtak fra de samiske språknormerende
-      organ. I tilfeller der vi mener normeringen er uklar, vil vi be om en
-      klargjøring fra disse organene.</p>
-    </section>
-
-    <section>
-      <title>Nyttige lenker</title>
-
-      <ul>
-        <li><a href="">RSS-nyheter fra prosjektet</a></li>
-
-        <li><a href="mailto:divvun@samediggi.no">E-post til
-        prosjektet</a></li>
-
-        <li><a href="">Aspell</a></li>
-
-        <li><a href="">Aspell for MacOS X</a></li>
-
-        <li><a href="">OpenOffice</a></li>
-
-        <li><a href="">Xerox FST-verktøy</a></li>
-
-        <li><a href="">E-post til prosjektet</a></li>
-
-        <li><a href="">...</a></li>
-      </ul>
-
-      <p>Siste endring: $Date$, by $Author$</p>
-    </section>
-  </body>
+        <p>Siste endring: $Date$, by $Author$</p>
+      </section>
+    </body>
 </document>
