@@ -6,7 +6,7 @@
     <title>Stavekontroll for sørsamisk</title>
 
     <authors>
-      <person email="" name="" />
+      <person email="trond.trosterud@hum.uit.no" name="Trond Trosterud" />
     </authors>
   </header>
 
@@ -24,11 +24,11 @@
       <ol>
         <li>I motsetning til de nord- og lulesamiske analysatorene, ble den
         sørsamiske analysatoren (laget av Sjur N. Moshagen og Trond Trosterud)
-        ikkje ferdig til divvun-programmet starta. <ul>
+        ikke ferdig til divvun-programmet starta. <ul>
             <li>UiT hadde ikke tilgang til ei liste over sørsamiske ord, med
             stammeklasseinformasjon, i elektronisk form. Så lenge analysatoren
             ikke har tilgang til ei slik liste, vil den forbli en
-            demonstrator, som ikkje kan brukes til praktiske formå</li>
+            demonstrator, som ikke kan brukes til praktiske formål</li>
 
             <li>De grammatikkene som eksisterer for sørsamisk er ikke
             uttømmende nok til å lage gode analysatorer, det trengs mer
@@ -44,13 +44,15 @@
 
       <p>I og med at den sørsamiske analysatoren ikke var ferdig, og det var
       usikkert hvor mye arbeid det ville innebære å gjøre den ferdig, kunne
-      Sametinget ikke gå inn for å ta med sørsamisk i divvun-prosjektet. </p>
+      Sametinget ikke gå inn for å ta med sørsamisk i divvun-prosjektet i
+      denne omgang, men vil komme tilbake til spørsmålet senere, jf neste
+      avsnitt.</p>
     </section>
 
     <section>
       <title>Planer for sørsamisk i framtida</title>
 
-      <p>Både Universitetet i Tromsø og Sametinget er i prinsippet innstilt på
+      <p>Både Universitetet i Tromsø og Sametinget er svært interessert i
       å arbeide med sørsamisk språkteknologi. For å få framgang i arbeidet med
       sørsamisk, må disse forutsetningene være på plass:</p>
 
@@ -60,7 +62,7 @@
 
         <li>Det trengs mer opplysninger om sørsamisk grammatikk, f.eks. i form
         av en ny referenasegrammatikk. Eksempel på åpne spørsmål er
-        adjektivbøyinga, og behandlinga av lånord.</li>
+        adjektivbøyinga, og behandlinga av låneord.</li>
 
         <li>Noen må utvide den eksisterende sørsamiske <a
         href="http://giellatekno.uit.no/a-sma.html">analysatoren</a> og <a
@@ -74,7 +76,7 @@
         stavekontrollprogram</li>
       </ol>
 
-      <p>For å få til dette trengs det målrettet samarbeid i arbeidet med
+      <p>For å få til dette trengs det målretta samarbeid i arbeidet med
       sørsamisk.</p>
     </section>
   </body>
