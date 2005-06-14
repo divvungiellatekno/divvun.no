@@ -11,38 +11,40 @@
   </header>
 
   <body>
+    <p>Dat dokumeantta <a href="sma-bakgrunn.se.html">davvisámegillii</a>.</p>
+
     <section>
       <title>Forhistorie</title>
 
       <p>Den opprinnelige planen for <em>divvun.no</em> var å lage
       stavekontroll for tre språk, nord- lule og sørsamisk. I løpet av
       planleggingsperioden gikk vi likevel inn for å utelate sørsamisk, av
-      følgende grunner: </p>
+      følgende grunner:</p>
 
       <ol>
-        <li>Den sørsamiske analysatoren (laget av Sjur N. Moshagen og Trond
-        Trosterud) har ikke hatt tilgang til ei liste over sørsamiske ord, med
-        stammeklasseinformasjon, i elektronisk form. Så lenge analysatoren
-        ikke har tilgang til ei slik liste, vil den forbli en demonstrator,
-        som ikkje kan brukes til praktiske formål</li>
+        <li>I motsetning til de nord- og lulesamiske analysatorene, ble den
+        sørsamiske analysatoren (laget av Sjur N. Moshagen og Trond Trosterud)
+        ikkje ferdig til divvun-programmet starta. <ul>
+            <li>UiT hadde ikke tilgang til ei liste over sørsamiske ord, med
+            stammeklasseinformasjon, i elektronisk form. Så lenge analysatoren
+            ikke har tilgang til ei slik liste, vil den forbli en
+            demonstrator, som ikkje kan brukes til praktiske formå</li>
 
-        <li>De grammatikkene som eksisterer for sørsamisk er ikke uttømmende
-        nok til å lage gode analysatorer, det er rett og slett for mange åpne
-        spørsmål.</li>
+            <li>De grammatikkene som eksisterer for sørsamisk er ikke
+            uttømmende nok til å lage gode analysatorer, det trengs mer
+            grunnforsking før vi vet nok om sørsamisk grammatikk.</li>
+          </ul></li>
 
         <li>Språkteknologiprosjektet ved Universitetet i Tromsø fikk avslag på
-        søknaden sin om å arbeide videre med den sørsamiske analysatoren, de
-        så det som viktigere å konsentrere seg om nord- og lulesamisk, der den
-        grunnleggende infrastrukturen var på plass. </li>
+        en søknad til Forskingsrådet om å arbeide videre med den sørsamiske
+        analysatoren, Forskingsrådet sine referenter så det som viktigere for
+        prosjektet å konsentrere seg om nord- og lulesamisk, der den
+        grunnleggende infrastrukturen var på plass.</li>
       </ol>
 
-      <p>Den avgjørende faktoren var mangelen på ei sørsamisk ordliste. På
-      grunn av at den mangla, kom ikke arbeidet med sørsamisk i gang samtidig
-      med de andre språka, og det ble heller ikke med i andre prosjektfase ved
-      UiT. Hvor lang tid det vil ta å få en sørsamisk analysator på plass er
-      usikkert, og Sametinget kunne ikke gå inn for å ta med sørsamisk i
-      divvun-prosjektet når det var knytta så mye usikkerhet til analysatoren
-      </p>
+      <p>I og med at den sørsamiske analysatoren ikke var ferdig, og det var
+      usikkert hvor mye arbeid det ville innebære å gjøre den ferdig, kunne
+      Sametinget ikke gå inn for å ta med sørsamisk i divvun-prosjektet. </p>
     </section>
 
     <section>
@@ -68,12 +70,12 @@
         Universitetet i Tromsø, i samarbeid med sørsamiske lingvister</li>
 
         <li>Deretter kan Sametingets divvun-prosjekt, i samarbeid med
-        sørsamisk språknemd, utvikle analysatoren til et stavekontrollprogram
-        </li>
+        sørsamisk språknemd, utvikle analysatoren til et
+        stavekontrollprogram</li>
       </ol>
 
-      <p>Det er ikke mange som arbeider med sørsamisk språk, så for at det
-      skal bli mulig må alle som gjør det samarbeide om felles mål.</p>
+      <p>For å få til dette trengs det målrettet samarbeid i arbeidet med
+      sørsamisk.</p>
     </section>
   </body>
 </document>
