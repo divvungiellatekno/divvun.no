@@ -5,13 +5,13 @@
         <title>Sámi proofing tools project</title>
 
 	<authors>
-	  <person email="" name="" />
+	  <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
 	</authors>
 
     </header> 
     <body> 
         <section>
-          <title></title>
+          <title>Divvun [en]</title>
 	    <p>Last modified: $Date$, by $Author$</p>
         </section>
     </body>
