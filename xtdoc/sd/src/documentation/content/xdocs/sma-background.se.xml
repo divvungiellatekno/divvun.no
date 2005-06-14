@@ -1,18 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
-<document> 
-    <header> 
-        <title></title>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header>
+    <title>Divvunprográmma lullisámegillii</title>
 
-	<authors>
-	  <person email="" name="" />
-	</authors>
+    <authors>
+      <person email="" name="" />
+    </authors>
+  </header>
 
-    </header> 
-    <body> 
-        <section>
-          <title></title>
-	    <p>Maŋemuš rievdaduvvon: $Date$, by $Author$</p>
-        </section>
-    </body>
+  <body>
+    <p>Dette dokumentet på <a href="sma-bakgrunn.nb.html">norsk</a>.</p>
+
+    <section>
+      <title>Ovdahistoriija</title>
+
+      <p>Vuosttaš plánaid...</p>
+
+      <p></p>
+
+      <ol>
+        <li>Lullisámi analysahtor..</li>
+
+        <li></li>
+
+        <li>'</li>
+      </ol>
+
+      <p>Dehalaš faktora...</p>
+    </section>
+
+    <section>
+      <title>Boahtteáiggi plánaid</title>
+    </section>
+
+    <p>Maŋemuš rievdaduvvon: $Date$, by $Author: boerre
+    $</p>
+  </body>
 </document>
