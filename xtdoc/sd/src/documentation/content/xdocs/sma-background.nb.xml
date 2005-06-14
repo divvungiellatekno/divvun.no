@@ -60,14 +60,20 @@
         av en ny referenasegrammatikk. Eksempel på åpne spørsmål er
         adjektivbøyinga, og behandlinga av lånord.</li>
 
-        <li>Noen må utvide den eksisterende sørsamiske analysatoren (<a
-        href="???">http://giellatekno.uit.no/a-sma.html</a>)</li>
-      </ol>
-    </section>
+        <li>Noen må utvide den eksisterende sørsamiske <a
+        href="http://giellatekno.uit.no/a-sma.html">analysatoren</a> og <a
+        href="http://giellatekno.uit.no/g-sma.html">generatoren</a> til en
+        fullverdig automat (i dag dekker den bare substantivbøying og lukkede
+        ordklasser). Dette kan f.eks. bli gjort som et prosjekt ved
+        Universitetet i Tromsø, i samarbeid med sørsamiske lingvister</li>
 
-    <section>
-      <p>Maŋemuš rievdaduvvon: $Date$, by $Author:
-      boerre $</p>
+        <li>Deretter kan Sametingets divvun-prosjekt, i samarbeid med
+        sørsamisk språknemd, utvikle analysatoren til et stavekontrollprogram
+        </li>
+      </ol>
+
+      <p>Det er ikke mange som arbeider med sørsamisk språk, så for at det
+      skal bli mulig må alle som gjør det samarbeide om felles mål.</p>
     </section>
   </body>
 </document>
