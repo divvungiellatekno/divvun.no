@@ -20,7 +20,7 @@
 	         form bøyde ord er i. Dette arbeidet brukes som grunnlag for å lage
 	         stavekontrollene.</p> 
 
-          <p>Programmererne legger til rette for at lingvistene skal kunne gå gjennom
+          <p>Programmererene legger til rette for at lingvistene skal kunne gå gjennom
              tekster, for å teste dekning (det at stavekontrollen kan kjenne igjen
              alle korrekte ord) og at ordbøyingen er rett. Lingvistene legger til
              ord som ikke finnes i leksikonene, og justerer grammatikken til
@@ -37,7 +37,7 @@
 
           <fixme author="bg">Legg til lenker der det behøves.</fixme>
 
-          <p>Sist endret: $Date$, by $Author$</p>
+          <p clacc="last_modified">Sist endret: $Date$, by $Author$</p>
         </section>
 
     </body>
