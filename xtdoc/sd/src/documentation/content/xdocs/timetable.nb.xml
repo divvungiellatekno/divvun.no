@@ -53,7 +53,7 @@
 	            tilgjengelig som frittståande komponent for Windows, Linux og MacOS X.</dd>
 
 	        <dt>InDesign:</dt>
-	        <dd>Orddeling integrert i Adobe InDesign for Mac (ev Windows)</dd>
+	        <dd>Orddeling integrert i Adobe InDesign for Mac (eventuelt Windows)</dd>
 
 	        <dt>MSOffice:</dt>
 	        <dd>Stavekontroll og orddeling integrert i Microsoft Office for Windows og
@@ -112,6 +112,8 @@
            driftsorganisasjon som kan ta ansvar for både språklige og tekniske
            oppdateringer. Andre oppgaver for den permanente driftsorganisasjonen
            vil være å sette i gang arbeidet med tilsvarende sørsamiske verktøy.</p>
+
+        </section>
 
         <p class="last_modified">Sist oppdatert: $Date$, av $Author$</p>
 
