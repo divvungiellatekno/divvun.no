@@ -132,13 +132,6 @@ which will be used to configure the chosen Forrest skin.
     p.last_modified {
       margin-left: 2em;
       padding: .5em;
-      background-color: #f0f0f0;
-      font-family: monospace;
-    }
-
-    p.cvslastupdate {
-      margin-left: 2em;
-      padding: .5em;
       color: #aaa;
       font-size: x-small;
     }
