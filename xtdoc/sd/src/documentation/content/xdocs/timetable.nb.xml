@@ -58,8 +58,8 @@
 	        <dd>Stavekontroll og orddeling integrert i Microsoft Office for Windows og
 	            Mac.</dd>
 
-	        <dt>OOffice:</dt>
-	        <dd>Stavekontroll, ev orddeling, integrert i OpenOffice, alle tre
+	        <dt>OpenOffice.org:</dt>
+	        <dd>Stavekontroll, ev orddeling, integrert i OpenOffice.org, alle tre
 	            operativsystem.</dd>
 	      </dl>
  
@@ -86,29 +86,28 @@
 
             <dt>1. jul. 2006:</dt>
             <dd>Første testversjon av nordsamisk og lulesamisk stavekontroll for
-                kontorprogram (MSOffice-ALFA, OOffice-ALFA), første testversjon
+                kontorprogram (MSOffice-ALFA, OpenOffice.org-ALFA), første testversjon
                 av nordsamisk orddeling (InDesign-ALFA). Tekstinnsamlinga er ferdig
                 og blir avsluttet.</dd>
 
             <dt>1. jan. 2007:</dt>
             <dd>Andre testversjon av alle korrekturprogrammene er ferdig (aSpell-BETA,
-                MSOffice-BETA, OOffice-BETA, InDesign-BETA).</dd>
+                MSOffice-BETA, OpenOffice.org-BETA, InDesign-BETA).</dd>
 
             <dt>1. jul. 2007:</dt>
             <dd>Korrekturverktøyene er ferdige, og versjon 1.0 blir offentlig
-                tilgjengelig (aSpell-FINAL, MSOffice-FINAL, OOffice-FINAL,
+                tilgjengelig (aSpell-FINAL, MSOffice-FINAL, OpenOffice.org-FINAL,
                 InDesign-FINAL).</dd>
 
             <dt>30. sep. 2007</dt>
             <dd>Prosjektet blir avsluttet, all dokumentasjon og prosjektinformasjon
                 er ferdig og blir overlevert en permanent vedlikeholdsorganisasjon.
-                Ev. feil og korrigeringer etter 1.0-versjonen er gjort.</dd>
+                Eventuelle feil og korrigeringer etter 1.0-versjonen er gjort.</dd>
 	      </dl>
 
         </section>
 
-        <p class="cvslastupdate"
-        >Sist oppdatert: $Date$, av $Author$</p>
+        <p class="last_modified">Sist oppdatert: $Date$, av $Author$</p>
 
     </body>
 </document>
