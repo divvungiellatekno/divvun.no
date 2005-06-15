@@ -32,20 +32,21 @@
 	      <dl>
 	        <dt>ALFA:</dt>
 	        <dd>Første funksjonelle versjon, er ikke lingvistisk komplett,
-	            man kan vente seg kræsj i korrekturprogrammet, og ev vertsprogrammene.
+	            man kan vente seg kræsj i korrekturprogrammet, og eventuelt vertsprogrammene.
 	            Brukerdokumentasjonen mer eller mindre uskrevet, og ikke oversatt.</dd>
 
 	        <dt>BETA:</dt>
-	        <dd>Korrekturprogrammene i hovedsak ferdige og stabile, brukerdokumentasjonen
+	        <dd>Korrekturprogrammene er i hovedsak ferdige og stabile, brukerdokumentasjonen
 	            komplett men ikke tilgjengelig på alle språk, ikke heller korrekturlest.
 	            Stort sett lingvistisk komplett,
-	            men det kan ennå finnes ord som mangler, særlig gjelder dette
+	            men det kan ennå finnes ord som mangler. Særlig gjelder dette
 	            lulesamisk.</dd>
 
 	        <dt>FINAL:</dt>
 	        <dd>Korrekturprogrammene er grundig testet, er komplette og stabile.
 	            Brukardokumentasjonen er korrekturlest og oversatt til alle
-	            språk, installeringspakkene er komplette og testede.</dd>
+	            språk, installeringspakkene er komplette og testede. Korrekturprogrammene
+	            er tilgjengelige for vanlig bruk.</dd>
 
 	        <dt>aSpell:</dt>
 	        <dd>Stavekontroll bygget på åpen kildekode, sannsynligvis aSpell,
@@ -59,7 +60,7 @@
 	            Mac.</dd>
 
 	        <dt>OpenOffice.org:</dt>
-	        <dd>Stavekontroll, ev orddeling, integrert i OpenOffice.org, alle tre
+	        <dd>Stavekontroll, eventuelt orddeling, integrert i OpenOffice.org, for alle tre
 	            operativsystem.</dd>
 	      </dl>
  
@@ -105,7 +106,12 @@
                 Eventuelle feil og korrigeringer etter 1.0-versjonen er gjort.</dd>
 	      </dl>
 
-        </section>
+        <p>Korrekturprogram vil alltid behøve oppdateringer, både språklige (språket
+           forandrer seg hele tiden) og tekniske (det kommer nye versjoner av
+           operativsystem og program). Det vil derfor være nødvendig å ha en permanent
+           driftsorganisasjon som kan ta ansvar for både språklige og tekniske
+           oppdateringer. Andre oppgaver for den permanente driftsorganisasjonen
+           vil være å sette i gang arbeidet med tilsvarende sørsamiske verktøy.</p>
 
         <p class="last_modified">Sist oppdatert: $Date$, av $Author$</p>
 
