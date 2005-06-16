@@ -21,7 +21,7 @@
 	       
 	       <p>The project was planned and thereafter started because the Sámi Parliament wanted to give Sámi speakers and other Sámi users the same writing aid tools as Norwegian speakers. This is especially important because many Sámi speakers never learned to write Sámi in school. The project is part of a larger policy to strengthen the Sámi languages, and to increase the use of Sámi as a written language.</p>
 	       
-	       The project is financed by <em>The Sámi Parliament</em>, og <em>Kommunal- og
+	   <p>    The project is financed by <em>The Sámi Parliament</em>, og <em>Kommunal- og
            regionaldepartementet</em>, <em>Undervisnings- og forskningsdepartementet</em>
            and <em>Kultur- og kirkedepartementet</em> (TODO: names in English), and the final programs will be accessible for all wanting to write in Sámi.</p>
            
@@ -48,6 +48,6 @@
 
 	  
 	    <p>Last modified: $Date$, by $Author$</p>
-        </section>
+
     </body>
 </document>
