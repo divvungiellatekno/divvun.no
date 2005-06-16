@@ -14,7 +14,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<catalogue xml:lang="no">
+<catalogue xml:lang="nb">
     <message key="About">Om</message>
     <message key="Index">Indeks</message>
     <message key="Changes">Endringer</message>
