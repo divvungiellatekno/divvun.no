@@ -17,9 +17,8 @@
 	  to make spell checkers for the Sámi languages. In the first
 	  phase of the project this means spell checkers and
 	  hyphenation for Northern Sámi, and spell checkers for Lule
-	  Sámi - the background for this prioritising is found <a
-	  href="sma-background.html">here</a> (in Norwegian or in
-	  Sámi). The tools will work on Windows, Linux and Mac, with
+	  Sámi - the background for this prioritising is found on these pages (in <a href="sma-background.nb.xml">Norwegian</a> or in
+	  <a href="sma-background.se.xml">Sámi</a>). The tools will work on Windows, Linux and Mac, with
 	  the usual office environment programs.</p>
 
 	   </section>
@@ -103,7 +102,7 @@
       <section>
         <title>The language policy of the projectet</title>
 
-        <p>The project is multilingual, and this will be true also for our written documentation, cf. <a href="lang-policy.html">The language policy of the projectet</a>.</p>
+        <p>The project is multilingual, and this will be true also for our written documentation, cf. <a href="lang-policy.en.html">The language policy of the projectet</a>.</p>
 
         <p>The project does not have its own policy for the standardisation of the Sámi written languages, and it will follow all decisions made by Sámi language bodies. When the decided norm is unclear, we will ask for a clarification from these bodies.</p>
       </section>
