@@ -1,18 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+                          "http://forrest.apache.org/dtd/document-v20.dtd">
 <document> 
     <header> 
-        <title></title>
+        <title>Divvun.no:a áigeplána</title>
 
 	<authors>
-	  <person email="" name="" />
+	  <person email="sjur.moshagen@samedigi.no" name="Sjur N. Moshagen" />
 	</authors>
 
     </header> 
     <body> 
         <section>
-          <title></title>
-	    <p>Maŋemuš rievdaduvvon: $Date$, by $Author$</p>
+          <title>Oversiktsplan</title>
+
+	      <ul>
+            <li>Vuosttáš alfaveršuvdna ođđajagemánu 2006  </li>
+            <li>Betaveršuvnnat ođđajagemánu 2007       </li>
+            <li>Loahpalaš veršuvdna suoidnemánu 2007       </li>
+            <li>Prošeakta loahppahuvvo čakčamánu 2007</li>
+	      </ul>
+
         </section>
+
+        <section>
+          <title>Bienalaš plána</title>
+
+	      <p>I tidsplanen nedenfor er de viktigste milepælene for produktene markert
+	         med koder. Dát kodat dulkojuvvojit ná:</p>
+
+	      <dl>
+	        <dt>ALFA:</dt>
+	        <dd>Første funksjonelle versjon, er ikke lingvistisk komplett,
+	            man kan vente seg kræsj i korrekturprogrammet, og eventuelt vertsprogrammene.
+	            Brukerdokumentasjonen mer eller mindre uskrevet, og ikke oversatt.</dd>
+
+	        <dt>BETA:</dt>
+	        <dd>Korrekturprogrammene er i hovedsak ferdige og stabile, brukerdokumentasjonen
+	            komplett men ikke tilgjengelig på alle språk, ikke heller korrekturlest.
+	            Stort sett lingvistisk komplett,
+	            men det kan ennå finnes ord som mangler. Særlig gjelder dette
+	            lulesamisk.</dd>
+
+	        <dt>FINAL:</dt>
+	        <dd>Korrekturprogrammene er grundig testet, er komplette og stabile.
+	            Brukardokumentasjonen er korrekturlest og oversatt til alle
+	            språk, installeringspakkene er komplette og testede. Korrekturprogrammene
+	            er tilgjengelige for vanlig bruk.</dd>
+
+	        <dt>aSpell:</dt>
+	        <dd>Stavekontroll bygget på åpen kildekode, sannsynligvis aSpell,
+	            tilgjengelig som frittståande komponent for Windows, Linux og MacOS X.</dd>
+
+	        <dt>InDesign:</dt>
+	        <dd>Orddeling integrert i Adobe InDesign for Mac (ev Windows)</dd>
+
+	        <dt>MSOffice:</dt>
+	        <dd>Stavekontroll og orddeling integrert i Microsoft Office for Windows og
+	            Mac.</dd>
+
+	        <dt>OpenOffice.org:</dt>
+	        <dd>Stavekontroll, eventuelt orddeling, integrert i OpenOffice.org, for alle tre
+	            operativsystem.</dd>
+	      </dl>
+ 
+	      <p>Den offisielle tidsplanen slik den ble vedtatt av prosjektstyret i desember
+	         2004, med start- og sluttdatoer, og milepæler for hvert halvår:</p>
+
+	      <dl>
+            <dt>1. okt. 2004:</dt>
+            <dd>Offisiell startdato, prosjektleder begynner.</dd>
+
+            <dt>1. jan. 2005:</dt>
+            <dd>Effektiv startdato, alle prosjektmedarbeiderne ansatt.</dd>
+
+            <dt>1. jul. 2005:</dt>
+            <dd>Frist for offentlige anbud på de deler av prosjektet som lyses ut.
+                Infrastrukturen er ferdig, prosjektorganisasjon og –kommunikasjon
+                fungerer tilfredsstillende.</dd>
+
+            <dt>1. jan. 2006:</dt>
+            <dd>Kontrakt med leverandører av eksterne tjenester er ferdigforhandlet og
+                underskrevet, samarbeidet med leverandørene har startet. Første versjon
+                av nordsamisk stavekontroll basert på åpen kildekode ferdig
+                (aSpell-ALFA).</dd>
+
+            <dt>1. jul. 2006:</dt>
+            <dd>Første testversjon av nordsamisk og lulesamisk stavekontroll for
+                kontorprogram (MSOffice-ALFA, OpenOffice.org-ALFA), første testversjon
+                av nordsamisk orddeling (InDesign-ALFA). Tekstinnsamlinga er ferdig
+                og blir avsluttet.</dd>
+
+            <dt>1. jan. 2007:</dt>
+            <dd>Andre testversjon av alle korrekturprogrammene er ferdig (aSpell-BETA,
+                MSOffice-BETA, OpenOffice.org-BETA, InDesign-BETA).</dd>
+
+            <dt>1. jul. 2007:</dt>
+            <dd>Korrekturverktøyene er ferdige, og versjon 1.0 blir offentlig
+                tilgjengelig (aSpell-FINAL, MSOffice-FINAL, OpenOffice.org-FINAL,
+                InDesign-FINAL).</dd>
+
+            <dt>30. sep. 2007</dt>
+            <dd>Prosjektet blir avsluttet, all dokumentasjon og prosjektinformasjon
+                er ferdig og blir overlevert en permanent vedlikeholdsorganisasjon.
+                Eventuelle feil og korrigeringer etter 1.0-versjonen er gjort.</dd>
+	      </dl>
+
+        <p>Korrekturprogram vil alltid behøve oppdateringer, både språklige (språket
+           forandrer seg hele tiden) og tekniske (det kommer nye versjoner av
+           operativsystem og program). Det vil derfor være nødvendig å ha en permanent
+           driftsorganisasjon som kan ta ansvar for både språklige og tekniske
+           oppdateringer. Andre oppgaver for den permanente driftsorganisasjonen
+           vil være å sette i gang arbeidet med tilsvarende sørsamiske verktøy.</p>
+
+        <p class="last_modified">Maŋemuš rievdaduvvon: $Date$, av $Author$</p>
+
     </body>
 </document>
