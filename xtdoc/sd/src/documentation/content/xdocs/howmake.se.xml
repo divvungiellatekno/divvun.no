@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version = '1.0' encoding = 'UTF-8'?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
-<document> 
-    <header> 
-        <title></title>
-
-	<authors>
-	  <person email="" name="" />
-	</authors>
-
-    </header> 
-    <body> 
+<document>
+    <header>
+        <title>Mo stávenprográmma ráhkaduvvo</title>
+        <authors>
+            <person email="borre.gaup@samediggi.no" name="Børre Gaup" />
+        </authors>
+    </header>
+    <body>
         <section>
-          <title></title>
-	    <p>Maŋemuš rievdaduvvon: $Date$, by $Author$</p>
+            <title>Mo stávenprográmma ráhkaduvvo</title>
+            <p>Stávenprográmma ráhkadaduvvo ovttas <a href="http://giellatekno.uit.no" >sámi giellateknologiijaprošeavttain</a>
+                <a href="http://uit.no/" >Romssa universitehtas</a>. Romssa universitehta prošeakta lea ráhkadan prográmma mii sáhttá sojahit sániid ja dulkot sojahuvvon sániid. Dát bargu geavahuvvo vuođđun go stávenprográmmat ráhkaduvvojit.</p>
+            <p>Prográmmerárat heivehit teavsttaid lingvisttaide nu ahte sii sáhttet gieđahallat teavsttaid, iskat jus prográmma dovdá buot sániid ja sátnehámiid. Lingvisttat lasihit sániid leksikonaide ja muddejit analisahtora grammatihka go lea dárbu. Dán láhkái leksikonat buoriduvvojit ja viiddiduvvojit dađistaga.</p>
+            <p>Dannego stávenprográmma galgá doaibmát sihke Windows:as, Linux:as ja Mac OS X:as, de ferte doarjut dáid vuogádagaid teknologiijaid. Prošeakta áigu ráhkadit prográmmaid mat konverterejit Romssa universitehta formáhtas daid sierra formáhtaide mat vuogádagat gáibidit.</p>
+            <p>Dađistága go prošeakta ovddiduvvo, de stávenprográmma geahččalanveršuvnnat álmmuhuvvojit. Daid sáhttá viežžat prošeavtta fierpmádatsiidduin vai lea vejoláš geahččalit daid.</p>
+            <p class="last_modified" >Maŋemuš rievdaduvvon: $Date$, by $Author$</p>
         </section>
     </body>
 </document>
