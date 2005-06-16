@@ -13,25 +13,54 @@
         <section>
           <title>What is Divvun?</title>
 	  
-	  <p>Divvun is a project run by the Sámi Parliament in order to make spell checkers for the Sámi languages. In the first phase of the project this means spell checkers and hyphenation for Northern Sámi, and spell checkers for Lule Sámi - the background for this prioritising is found  <a href="sma-background.html">here</a> (in Norwegian or in Sámi). The tools will work on Windows, Linux and Mac, with the usual office environment programs.</p>
+	  <p>Divvun is a project run by the Sámi Parliament in order
+	  to make spell checkers for the Sámi languages. In the first
+	  phase of the project this means spell checkers and
+	  hyphenation for Northern Sámi, and spell checkers for Lule
+	  Sámi - the background for this prioritising is found <a
+	  href="sma-background.html">here</a> (in Norwegian or in
+	  Sámi). The tools will work on Windows, Linux and Mac, with
+	  the usual office environment programs.</p>
+
 	   </section>
 	   
 	   <section>
 	       <title>Background</title>
 	       
-	       <p>The project was planned and thereafter started because the Sámi Parliament wanted to give Sámi speakers and other Sámi users the same writing aid tools as Norwegian speakers. This is especially important because many Sámi speakers never learned to write Sámi in school. The project is part of a larger policy to strengthen the Sámi languages, and to increase the use of Sámi as a written language.</p>
+	       <p>The project was planned and thereafter started
+	       because the Sámi Parliament wanted to give Sámi
+	       speakers and other Sámi users the same writing aid
+	       tools as Norwegian speakers. This is especially
+	       important because many Sámi speakers never learned to
+	       write Sámi in school. The project is part of a larger
+	       policy to strengthen the Sámi languages, and to
+	       increase the use of Sámi as a written language.</p>
 	       
-	   <p>    The project is financed by <em>The Sámi Parliament</em>, og <em>Kommunal- og
-           regionaldepartementet</em>, <em>Undervisnings- og forskningsdepartementet</em>
-           and <em>Kultur- og kirkedepartementet</em> (TODO: names in English), and the final programs will be accessible for all wanting to write in Sámi.</p>
+	   <p> The project is financed by <em>The Sámi
+	   Parliament</em>, og <em>Kommunal- og
+	   regionaldepartementet</em>, <em>Undervisnings- og
+	   forskningsdepartementet</em> and <em>Kultur- og
+	   kirkedepartementet</em> (TODO: names in English), and the
+	   final programs will be accessible for all wanting to write
+	   in Sámi.</p>
            
-           <p>We aim at making spell checkers that are geared towards Sámi as it is used both in Norway, Sweden and Finland. Since the project is run as a Norwegian project only, the final programs may have a Norwegian bias. If this will be the case, it is against our intentions, we want programs that may be used by all users, irrespective of country of origin.</p>
+           <p>We aim at making spell checkers that are geared towards
+           Sámi as it is used both in Norway, Sweden and
+           Finland. Since the project is run as a Norwegian project
+           only, the final programs may have a Norwegian bias. If this
+           will be the case, it is against our intentions, we want
+           programs that may be used by all users, irrespective of
+           country of origin.</p>
            </section>
            
            <section>
             <title>Organising</title>
             
-            <p>The project is run by the language department of the Sámi Parliament. It has its own board, with members from the Sámi Parliament, the Ministries, and the University of Tromsø. The work is conducted by a group of five members:</p>
+            <p>The project is run by the language department of the
+            Sámi Parliament. It has its own board, with members from
+            the Sámi Parliament, the Ministries, and the University of
+            Tromsø. The work is conducted by a group of five
+            members:</p>
             
             
         <ul>
@@ -42,11 +71,57 @@
           <li>Tomi Pieski (programmer, tomi punkt pieski at samediggi punkt no)</li>
         </ul>
 
-        <p>The project is based upon work done at the University of  Tromsø, and has a close and daily cooperation with the language technology group there, so close that most of our infrastructure is shared (cf. the tab  "<a href="http://giellatekno.uit.no">Samisk
-           disamb.</a>" above).</p>
-      </section>       
+        <p>The project is based upon work done at the University of
+        Tromsø, and has a close and daily cooperation with the
+        language technology group there, so close that most of our
+        infrastructure is shared (cf. the tab "<a
+        href="http://giellatekno.uit.no">Samisk disamb.</a>"
+        above).</p>
 
-	  
+
+
+        <p>At project kickoff, the detailed list of deliberable programs looked as follows:</p>
+
+        <table>
+          <caption>Overview over planned products</caption>
+          <tr><th>Program/OS</th>      <th>Spell checker</th><th>Hyphenation</th></tr>
+          <tr><td>MS Office/Win</td>   <td>x</td>            <td>x</td>        </tr>
+          <tr><td>MS Office/Mac</td>   <td>x</td>            <td>x</td>        </tr>
+          <tr><td>OpenOffice/Win</td>  <td>x</td>            <td>?</td>        </tr>
+          <tr><td>OpenOffice/Mac</td>  <td>x</td>            <td>?</td>        </tr>
+          <tr><td>OpenOffice/Linux</td><td>x</td>            <td>?</td>        </tr>
+          <tr><td>InDesign CS</td>     <td>-</td>            <td>x</td>        </tr>
+          <tr><td>Aspell (Win/Mac/Linux)</td><td>x</td>      <td></td>        </tr>
+        </table>
+
+        <p>This list may be adjusted during the course of the project, but there will probably not undergo substantial revisions.</p>
+
+        <p>The project will offer early test versions (so called alpha- and betaversions) for interested users (betatesters). When the firest test version is made accessible, we will publish more information on testing and usage. A more detailed project plan, with important milestones for the different projects may be found <a href="timetable.html">here</a>, and some more details on how the work is being conducted may be found <a href="howmake.html">here</a>.
+           See also the final section, containing useful links.</p>
+      </section>
+
+      <section>
+        <title>The language policy of the projectet</title>
+
+        <p>The project is multilingual, and this will be true also for our written documentation, cf. <a href="lang-policy.html">The language policy of the projectet</a>.</p>
+
+        <p>The project does not have its own policy for the standardisation of the Sámi written languages, and it will follow all decisions made by Sámi language bodies. When the decided norm is unclear, we will ask for a clarification from these bodies.</p>
+      </section>
+
+      <section>
+        <title>Useful links</title>
+
+        <ul>
+          <li><a href="">RSS news from the project</a></li>
+          <li><a href="mailto:divvun ved samediggi punkt no">E-mail to the project</a></li>
+          <li><a href="">Aspell</a></li>
+          <li><a href="">OpenOffice</a></li>
+          <li><a href="">Xerox FST-tools</a></li>
+          <li><a href="">E-mail to the project</a></li>
+          <li><a href="">...</a></li>
+        </ul>
+
+      </section>	  
 	    <p>Last modified: $Date$, by $Author$</p>
 
     </body>
