@@ -1,35 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
-<document> 
-    <header> 
-        <title>Divvun-projektin kielipolitiikka</title>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header>
+    <title> Divvun-projektin kielipolitiikka</title>
 
-	<authors>
-	  <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
-	</authors>
+    <authors>
+      <person email="" name="" />
+    </authors>
+  </header>
 
-    </header> 
-    <body> 
-        <section>
-          <title>Katsaus dokumentaation kielipolitiikkaan</title>
+  <body>
+    <section>
+      <title>Yleiskatsaus projektin kielipolitiikasta </title>
 
-	  <p>Projektilla on oma kielipolitiikka, joka määrää mikä
+      <p>Projektilla on oma kielipolitiikka, joka määrää mikä
 	  tieto on saatavilla millä kielellä.</p>
 
-        <dl>
+      <p></p>
+
+<dl>
           <dt>Yleinen tieto:</dt>
           <dd>pohjoissaameksi, luulajansaameksi, suomeksi, norjaksi ja englanniksi</dd>
           <dt>käyttäjämanuaali:</dt>
-          <dd>tuotteen saamen kieleksi, kielen kotimaan valtakieleksi, ja englanniksi</dd>
-          <dt>tekninen, projektisisäinen dokumentaatio</dt>
+          <dd> samalla saamen kielellä kuin oikolukuväline, maassa käytetyllä
+      valtaväestön kielellä, ja myös englanniksi.</dd>
+          <dt>tekninen, projektin sisäinen dokumentaatio</dt>
           <dd>englanniksi, poikkeuksellisesti myös muilla kielillä</dd>
         </dl>
 
-        <p>Toivotaan, että projektidokumentaation kielipolitiikka
-        antaa tietoja sopivalla kielellä kaikille käyttäjille ja
-        muuten asiasta kiinnostuneille.</p>
 
-	    <p>Maŋemuš rievdaduvvon: $Date$, by $Author$</p>
-        </section>
-    </body>
+
+      <p>Olemme sitä mieltä ja myös toivomme, että projektin dokumentoimista
+      koskeva kielipolitiikkamme jakaa tietoa mahdollisimman monelle eri
+      kielellä saavuttaa kaikki käyttäjät ja asiasta kiinnostuneet henkilöt.
+      </p>
+
+      <p>Päivitetty: $Date$, by $Author$</p>
+    </section>
+  </body>
 </document>
