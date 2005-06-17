@@ -10,15 +10,10 @@
     <body>
         <section>
             <title>Mii Divvun lea?</title>
-            <p>Divvun er et prosjekt under det norske Sametinget for å lage retteprogram
-           for samisk. I første omgang betyr det stavekontroll og orddeling for
-           nordsamisk, og staveontroll for lulesamisk - bakgrunnen for denne
-           prioriteringa kan du lese mere om <a href="sma-background.html" >her</a>.
-           Verktøyene skal fungere
-           på Windows, Linux og Mac i de vanligste kontorprogrammene.</p>
+            <p>Divvun lea prošeakta mii Norgga Sámediggi lea álggahan ráhkadandihte sámegielat stávenprográmmaid. Dál vuos ráhkaduvvojit stávenprográmma ja sátnejuohkkima davvi sámegiela várás, ja stávenprográmma julevsámegiela várás. Dán prioriterema birra logat eanet <a href="sma-background.html" >dáppe</a>. Reaiddut galget doaibmat dábáleamus kántuvraprográmmain Windows:as, Linux:as ja Mac:as</p>
         </section>
         <section>
-            <title>Bakgrunn</title>
+            <title>Duogáš</title>
             <p>Prosjektet ble først planlagt og deretter igangsatt etter et ønske fra
            Sametinget om å gi samisktalende og andre som ønsker å skrive samisk de
            samme verktøyene som norskspråklige. Dette er særlig viktig etter som det
