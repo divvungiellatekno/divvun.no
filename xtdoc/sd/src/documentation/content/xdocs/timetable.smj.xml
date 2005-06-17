@@ -1,18 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
-<document> 
-    <header> 
-        <title></title>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header>
+    <title>Divvuma ájggeplána</title>
 
-	<authors>
-	  <person email="" name="" />
-	</authors>
+    <authors>
+      <person email="" name="" />
+    </authors>
+  </header>
 
-    </header> 
-    <body> 
-        <section>
-          <title></title>
-	    <p>Maŋemuš rievdaduvvon: $Date$, by $Author$</p>
-        </section>
-    </body>
+  <body>
+    <section>
+      <title>Tjoahkke</title>
+
+      <ul>
+        <li>Vuostasj alfagiehtto ådåjakmáno 2006</li>
+
+        <li>Betagiehto ådåjakmáno 2007</li>
+
+        <li>Maŋemus giehtto snjilltjamáno 2007</li>
+
+        <li>Prosjækta gærggaduvvá ragátmáno 2007</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Dárkkelap plána</title>
+    </section>
+
+    <p>Ájggeplánan vuollelin le ájnnasamos åledusa dajda umass dahkusijda
+    mærkkum dáj kådaj:</p>
+
+    <dl>
+      <dt>ALFA:</dt>
+
+      <dd>Vuostasj doajmme giehtto ij la gielalattja ålles, hæhttu vuordet
+      ahte korrektuvrraprográmma ja iemeprográmma ej maná nåv gåk galggi.
+      Adnemdokumentasjuvnna ij la vil tjállum ja jårggålum.</dd>
+    </dl>
+
+    <dl>
+      <dt>BETA:</dt>
+
+      <dd>Korrektuvrraprográmma le buorre mudduj gárvvása ja stájggada,
+      adnemdokumentasjuvnna ålles, valla ij vil gárves fært giellaj ij ge la
+      divudum. Buorre mudduj gielalattja ålles, valla gán fájlluji ájn bágo.
+      Ájnasik dát guosská julevsábmáj.</dd>
+    </dl>
+
+    <dl>
+      <dt>FINAL:</dt>
+
+      <dd>Korrektuvrraprográmma le dárkkelit gæhttjalum, le ållåsa ja
+      stájggada. Adnemdokumentasjuvnna le divudum ja jårggålum fært giellaj,
+      installerimgurpe le ållåsa ja gæhttjalum. Korrektuvrraprográmma gávnnuji
+      juohkkabæjvvásasj adnuj.</dd>
+    </dl>
+
+    <dl>
+      <dt>aSpell:</dt>
+
+      <dd>Stávimkontrålla dahkkum rabás vuodokådajn, jáhkedahtte aSpellajn,
+      gávnnu luovas oassen Windows:aj, Linux:aj ja MacOS X:aj.</dd>
+    </dl>
+
+    <dl>
+      <dt>inDesign:</dt>
+
+      <dd>Báhkojuohkem Adobe inDesign sissŋelin Mac:aj (ja máhttelis
+      Windows:aj)</dd>
+    </dl>
+
+    <dl>
+      <dt>MSOffice:</dt>
+
+      <dd>Stávimkontrålla ja báhkojuohkem Microsoft Office sissŋelin Mac:aj
+      Windows:aj.</dd>
+    </dl>
+
+    <dl>
+      <dt>OpenOffice.org:</dt>
+
+      <dd>Stávimkontrålla, máhttelis báhkojuohkem, OpenOffice.org sissŋelin,
+      gajk gålmmå operativsystemaj.</dd>
+    </dl>
+
+    <table>
+      <tr>
+        <td></td>
+
+        <td></td>
+      </tr>
+
+      <tr>
+        <td></td>
+
+        <td></td>
+      </tr>
+    </table>
+
+    <p>Álmmolasj ájggeplána nåv gåk prosjæktastivrra dåhkkedij dav javllamáno
+    2004, álggo- ja maŋemus biejvvesajij, ja åledusa juohkka jahkebielláj:</p>
+
+    <dl>
+      <dt>Gålgådismáno 1b 2004:</dt>
+
+      <dd>Álmmolasj álggobiejvvesadje, prosjevta åvddåålmåj álggá.</dd>
+    </dl>
+
+    <dl>
+      <dt>Ådåjakmáno 1b. 2005:</dt>
+
+      <dd>Duohta álggobiejvvesadje, gajk prosjæktabargge bálkkedum.</dd>
+    </dl>
+
+    <dl>
+      <dt>Snjilltjamáno 1b. 2005:</dt>
+
+      <dd>Maŋemus biejvvesadje álmmolasj fállagijda dajda åsijda prosjevtas ma
+      oasstuji sisá. Infrastruktuvrra le gárves, vargga gajk
+      prosjæktaorganisasjuvnna ja -kommunikasjuvnna doajmmá buoragit.</dd>
+    </dl>
+
+    <dl>
+      <dt>Ådåjakmáno 1b. 2006:</dt>
+
+      <dd>Kontrákta ålgoldis dievnnobuktij le gárves rádádallum ja
+      vuolletjállum ja aktásasj barggo dievnnobuktij le álgám. Vuostasj
+      giiehtto rabás vuodokådasasj nuorttasáme stávimkontrållas le gárves
+      (aSpell-ALFA).</dd>
+    </dl>
+
+    <dl>
+      <dt>Snjilltjamáno 1b. 2006:</dt>
+
+      <dd>Vuostasj nuortta- ja julevsáme gæhttjalamgiehtto stávimkontrållaj
+      kontorprográmmajn (MSOffice-ALFA, OpenOffice.org-ALFA), vuostasj
+      nuorttasáme gæhttjalamgiehtto báhkojuohkemij (InDesign-ALFA).
+      Tekstatjoaggem le gærggadum.</dd>
+    </dl>
+
+    <dl>
+      <dt>Ådåjakmáno 1b. 2007:</dt>
+
+      <dd>Nubbe gæhttjalamgiehtto gajk korrektuvrraprográmmajs le gárves
+      (aSpell-BETA, MSOffice-BETA, OpenOffice.org-BETA, InDesign-BETA).</dd>
+    </dl>
+
+    <dl>
+      <dt>Snjilltjamáno 1b. 2007:</dt>
+
+      <dd>Korrektuvrranævvo le gárvása ja giehtto 1.0 ja gávnnu álmmolattjat
+      gajkkajda (aSpell-FINAL, MSOffice-FINAL, OpenOffice.org-FINAL,
+      InDesign-FINAL).</dd>
+    </dl>
+
+    <dl>
+      <dt>Ragátmáno 30b. 2007:</dt>
+
+      <dd>Prosjækta gærggaduvvá, gajk dokumentasjuvnna ja prosjæktadiedidibme
+      le gárves ja guodu permanænnta sujttimorganisasjuvna hállduj. Vige
+      1.0-giehton le divudum.</dd>
+    </dl>
+
+    <table>
+      <tr>
+        <td></td>
+
+        <td></td>
+      </tr>
+
+      <tr>
+        <td></td>
+
+        <td></td>
+      </tr>
+    </table>
+
+    <p>Korrektuvrraprográmmav dárbaha agev ådåstuhttet gielalattjat (giella
+    rievddá gætjo ájge) ja teknijkalattjat (boahti ådå giehto
+    operativsystemajs ja prográmmajs). Danen dárbaha permanænnta
+    suittimorganisasjuvnav mij åvdåsvásstet gielalasj ja teknijkalasj
+    ådåstuhttimijs. Ietjá barggo dasi le biedjat jåhtuj barggo dahkat
+    vásstediddje nævvojt oarjjelijsámegiellaj.</p>
+  </body>
 </document>
