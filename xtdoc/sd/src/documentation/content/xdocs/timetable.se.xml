@@ -19,16 +19,32 @@
         </section>
         <section>
             <title>Bienalaš plána</title>
-            <p>Áigeplánas dás vuolábealde leat dehálemus mihtomearit merkejuvvon kodaiguin. Dát kodat dulkojuvvojit ná:</p>
+            <p>
+                Áigeplánas dás vuolábealde leat dehálemus mihtomearit
+                merkejuvvon kodaiguin. Dát kodat dulkojuvvojit ná:</p>
             <dl>
                 <dt>ALFA:</dt>
-                <dd>Vuosttáš doaibmi veršuvdna, ii leat lingvistalaččat dievaslaš, stávenprográmma dáidá riekčanit, ja vela prográmma mii geavaha dan. Geavaheaddjedokumentašuvdna ii leat aibbas válmmas, iige jorgaluvvon.</dd>
+                <dd>
+                  Vuosttáš doaibmi veršuvdna, ii leat gielalaččat
+dievaslaš, stávenprográmma dáidá riekčanit, ja vela prográmma mii geavaha dan.
+Geavaheaddjedokumentašuvdna ii leat aibbas válmmas, iige jorgaluvvon.</dd>
                 <dt>BETA:</dt>
-                <dd>Stávenprográmmat leat goasii válbmasat ja stabiila, geavaheaddjedokumentašuvdna lea válmmas, muhto ii ollamuttus buot gielain, iige leat korrektuvra lohkon. Lingvistalaččat válmmas, vaikkoge váilot muhton sánit. Earenoamážit dát guoská julevsámegillii.</dd>
+                <dd>Stávenprográmmat leat buorre muddui válbmasat ja stabiila,
+geavaheaddjedokumentašuvdna lea válmmas, muhto ii ollamuttus buot gielain,
+iige leat korrektuvra lohkon. Lingvistalaččat válmmas, vaikkoge váilot muhton
+sánit. Earenoamážit dát guoská julevsámegillii.</dd>
                 <dt>FINAL:</dt>
-                <dd>Stávenprográmmat leat vuđolaččat geahččaluvvon, leat ollislaččat ja stabiila. Geavaheaddjedokumentašuvdna lea korrekturlohkon ja jorgaluvvon buot gielaide. Sajáiduhttinpáhkat leat válbmasat ja geahččaluvvon. Stávenprográmmat leat olamuttus buot geavaheddjiide.</dd>
+                <dd>
+                    Stávenprográmmat leat vuđolaččat geahččaluvvon, leat
+                    ollislaččat ja stabiila. Geavaheaddjedokumentašuvdna lea
+                    korrekturlohkon ja jorgaluvvon buot gielaide.
+                    Sajáiduhttinpáhkat leat válbmasat ja geahččaluvvon.
+                    Stávenprográmmat leat olamuttus buot geavaheddjiide.</dd>
                 <dt>aSpell:</dt>
-                <dd>Stávenprográmma huksejuvvon rabas prográmmagáldus. Olamuttus fridja oassin Windows:ii, Linux:ii og MacOS X:ii.</dd>
+                <dd>
+                  Stávenprográmma ráhkaduvvon rabas prográmmagáldus.
+                  Olamuttus fridja oassin Windows:ii, Linux:ii og
+                  MacOS X:ii.</dd>
                 <dt>InDesign:</dt>
                 <dd>Sátnejuohkkin integrerejuvvon Adobe InDesign prográmmii Mac várás (várra Windows:a várás maid)</dd>
                 <dt>MSOffice:</dt>
@@ -43,7 +59,9 @@
                 <dt>Ođđajagemanu 1. b. 2005:</dt>
                 <dd>Prošeavtta duohta álggahandáhton, buot prošeaktabargit leat álgán.</dd>
                 <dt>Suoidnemánu 1. b. 2005:</dt>
-                <dd>Frist for offentlige anbud på de deler av prosjektet som lyses ut. Infrastruktuvra lea válmmas, prošeaktaorganisašuvdna ja -kommunikašuvdna doaibmá nugo galgá.</dd>
+                <dd>Máŋemuš beaivesadji almmulaš fallagiidda daid osiide
+prošektii mat ostojuvvot sisa. Infrastruktuvra lea válmmas,
+prošeaktaorganisašuvdna ja -kommunikašuvdna doaibmá nugo galgá.</dd>
                 <dt>Ođđajagemánu 1. b. 2006:</dt>
                 <dd>Kontrakt med leverandører av eksterne tjenester er ferdigforhandlet og underskrevet, samarbeidet med leverandørene har startet. Davvi sámegielat stávenprográmma vuosttáš veršuvdna, vuođđoduvvon rabas gáldokodas, lea válmmas (aSpell-ALFA).</dd>
                 <dt>Suoidnemánu 1. b. 2006:</dt>
