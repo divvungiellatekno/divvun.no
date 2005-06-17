@@ -2,17 +2,102 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
 <document> 
     <header> 
-        <title></title>
+        <title>Divvun-projektin aikataulu</title>
 
 	<authors>
-	  <person email="" name="" />
+	  <person email="sjur.moshagen@samedigi.no" name="Sjur N. Moshagen" />
 	</authors>
 
     </header> 
     <body> 
-        <section>
-          <title></title>
-	    <p>Maŋemuš rievdaduvvon: $Date$, by $Author$</p>
+       <section>
+          <title>Yleiskatsaus</title>
+
+	      <ul>
+            <li>Ensimmäinen alfaversio tammikuussa 2006  </li>
+            <li>Betaversio tammikuussa 2007       </li>
+            <li>Lopullinen versio heinäkuussa 2007       </li>
+            <li>Projekti päättyy syyskuussa 2007</li>
+	      </ul>
+
         </section>
-    </body>
+          
+        <section>
+          <title>Yksityiskohtaisempi suunnitelma</title>
+
+	      <p>Alhaalla olevaan aikatauluun on merkitty tärkeimmät virstaanpylväät laitettujen koodien avulla. Koodeja pitää lukea näin:</p>
+
+	      <dl>
+	        <dt>ALFA:</dt>
+	        <dd>Ensimmäinen toimiva versio ei ole lingvistisesti täydellinen,
+	            oikolukuohjelman voi jumiutua, ja mahdollisesti myös emo-ohjelmat.
+	            Käyttäjämanuaali on vaillinainen, eikä vielä käännetty.</dd>
+
+	        <dt>BETA:</dt>
+	        <dd>Oikolukuohjelmat ovat pääosin valmiit ja toimivat, käyttäjämanuaali täydellinen, mutta eivät ole vielä valmiit kaikilla kielillä,  ei oikoluettu.
+	            Pääosin lingvistisesti täydellinen,
+	            mutta sanoja puuttunee. Tämä koskee eritysesti luulajansaamea.</dd>
+
+	        <dt>FINAL:</dt>
+	        <dd>Oikolukuohjelmat on perusteellisesti testattu, ovat täydelliset ja toimivat.
+	            Käyttäjämanuaalit on oikoluettu ja käännetty kaikille kielille, asentamispaketit ovat täydelliset ja testatut. Oikolukuohjelmat ovat valmiina tavalliseen käyttöön.</dd>
+
+	        <dt>aSpell:</dt>
+	        <dd>Oikoluku rakentuu avoimeen lähdekoodiin, todennäköisesti aSpelliin,
+	            saatavana erillisenä komponenttina Windowsin, Linuxin ja MacOS X:iin.</dd>
+
+	        <dt>InDesign:</dt>
+	        <dd>Oikoluku integroitu Macin Adobe InDesigniin (mahdollisesti Windowsiin)</dd>
+
+	        <dt>MSOffice:</dt>
+	        <dd>Oikoluku ja tavutusohjelma integroitu Windowsin Microsoft Officeen ja
+	            Maciin.</dd>
+
+	        <dt>OpenOffice.org:</dt>
+	        <dd>Oikolukuohjelma, mahdollisesti tavustusohjelma, integroitu  OpenOffice.orgiin, kaikkiin kolmeen käyttöjärjestelmiin.</dd>
+	      </dl>
+ 
+	      <p>Joulukuussa 2004 ohjausryhmän kokouksessa päätetty virallinen aikataulu jokaiselle puolivuotiskaudelle, alkamis- ja päättymispäivineen, ja virstanpylvineen:</p>
+
+	      <dl>
+            <dt>1. lokakuuta 2004:</dt>
+            <dd>Virallinen alkamispäivämäärä, projektin johtaja astuu virkaan.</dd>
+
+            <dt>1. tammikuuta 2005:</dt>
+            <dd>Varsinainen alkamispäivämäärä, kaikki projektityöntekijät on otettu työhön.</dd>
+
+            <dt>1. heinäkuuta 2005:</dt>
+            <dd>Ulkoistettujen töiden hakupäivä. Infrastruktuuri on valmis, projektiorganisaatio ja -kommunikaatio toimii moitteettomasti.</dd>
+
+            <dt>1. tammikuuta 2006:</dt>
+            <dd>Ulkoistettujen palvelujen alihankkijoiden työsopimukset ovat valmiiksi neuvoteltuja ja allekirjoitettuja, yhteistyö alihankkijoiden kanssa on aloitettu. Ensimmäinen avoimeen lähdekoodiin perustuva oikolukuohjelma on valmis. (aSpell-ALFA).</dd>
+
+            <dt>1. heinäkuuta 2006:</dt>
+            <dd>Ensimmäinen testiversio pohjois- ja luulajansaamen oikolukuohjelmista toimistoohjelmille  (MSOffice-ALFA, OpenOffice.org-ALFA), ensimmäinen testiversio pohjoissaamen tavutusohjelmasta  (InDesign-ALFA). Tekstien keräys on valmis ja päättyy.</dd>
+
+            <dt>1. tammikuuta 2007:</dt>
+            <dd>Toinen testiversio kaikista oikolukuvälineistä on valmis (aSpell-BETA,
+                MSOffice-BETA, OpenOffice.org-BETA, InDesign-BETA).</dd>
+
+            <dt>1. heinäkuuta 2007:</dt>
+            <dd>Oikolukuvälineet ovat valmiita, ja versio 1.0 julkisesti saatavilla. (aSpell-FINAL, MSOffice-FINAL, OpenOffice.org-FINAL,
+                InDesign-FINAL).</dd>
+
+            <dt>30. syyskuuta 2007</dt>
+            <dd>Projekti päättyy, dokumentaatio ja projektitieto on kirjoitettu ja annettu pysyvälle ylläpitojärjestölle. Mahdolliset korjaukset 1.0-version on jo tehty.</dd>
+	      </dl>
+
+        <p>Korjausohjelmat tarvitsevat aina päivityksiä, sekä kielellisiä (kieli muuttuu koko ajan) ja teknisiä (käyttöjärjestelmistä ja ohjelmista tulee jatkuvasti uusia versioita). Sen takia on tarpeellista perustaa pysyvä, vastuullinen järjestö, joka vastaa kielellisistä ja teknisistä päivityksistä. Toinen tehtävä tällaiselle ylläpitojärjestölle on vastaavien työkalujen tekeminen eteläsaamelle.
+       </p>
+
+        </section>
+
+         
+          
+          
+          
+          
+          
+	    <p>Päivitetty: $Date$, by $Author$</p>
+           </body>
 </document>
