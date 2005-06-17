@@ -1,20 +1,141 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
-<document> 
-    <header> 
-        <title>Divvun [fi]</title>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header>
+    <title>Divvun [saamen kielen oikolukuväline]</title>
 
-	<authors>
-	  <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
-	</authors>
+    <authors>
+      <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
 
-    </header> 
-    <body> 
-        <section>
-          <title>Divvun [fi]</title>
-		
-	    <fixme author="bg">Translate Last Modified to finnish</fixme>
-	    <p>Last modified: $Date$, by $Author$</p>
-        </section>
-    </body>
+  <body>
+    <section>
+      <title>Mikä Divvun on?</title>
+
+      <fixme author="bg">Translate Last Modified to finnish</fixme>
+
+      <p>Divvun on Norjan saamelaiskäräjien projekti, jonka tarkoituksena on
+      tuottaa saamen kielen oikolukuohjelma. Tämän projektin ensimmäisenä
+      vaiheena on tuottaa sekä oikoluku- ja tavutusohjelma pohjoissaamea
+      varten, että oikolukuohjelma luulajansaamea varten - voit lukea enemmän
+      ohjelman kieliä koskevista priorisoinnistamme: <a
+      href="sma-background.html">täältä: </a>.</p>
+
+      <p>Ohjelmat toimivat Windowsin, Linuxin ja Macin tavallisimmissa
+      ohjelmissa.</p>
+
+      <p></p>
+
+      <p><strong>Taustaa</strong></p>
+
+      <p>Projekti aluksi suunniteltiin ja sen jälkeen aloitettiin
+      saamelaiskäräjien toivomuksesta tarkoituksena antaa saamenkielisille ja
+      muille, jotka haluavat kirjoittaa saamea, samat välineet kirjoittamiseen
+      kuin mitä norjankielisillä on. Tämä on erityisen tärkeää, koska monet
+      saamelaiset eivät ole oppineet kirjoittamaan saamea. Projekti on siten
+      osa strategiasta vahvistaa saamen kieltä, ja lisätä saamen kielen
+      käyttämistä kirjoituskielenä.</p>
+
+      <p><em>Norjan Saamelaiskäräjät,</em><em>Kommunal- ja
+      regionaldepartementet</em>, <em>Undervisnings- ja
+      forskningsdepartementet</em> ja <em>Kulttuuri- ja kirkkoministeriö
+      (Kultur- og kirkedepartementet</em>) ovat rahoittaneet projektin ja
+      kaikki, jotka kirjoittavat saameksi, voivat vapaasti käyttää valmiita
+      ohjelmia.</p>
+
+      <p>Me panostamme sellaisen saamen kielen oikolukuohjelman tuottamiseen,
+      jota voidaan käyttää sekä Norjassa, Ruotsissa ja Suomessa. Koska
+      projekti toteutetaan Norjassa ja on puhtaasti norjalainen projekti, niin
+      se voi leimata valmista ohjelmaa, mutta me tulemme aktiivisesti tekemään
+      töitä sen eteen, että kaikki voivat ja tulevat näitä ohjelmia
+      käyttämään.</p>
+
+      <p></p>
+
+      <p><strong>Organisointi</strong></p>
+
+      <p>Projekti kuuluu Norjan saamelaiskäräjien alaisuuteen. Sillä on oma
+      ohjausryhmänsä, johon kuuluu jäseniä saamelaiskäräjiltä, ministeriöistä
+      ja Tromsan yliopistosta.</p>
+
+      <p>Konkreettinen työ tapahtuu viidestä henkilöstä koostuvassa
+      ryhmässä:</p>
+
+      <p>Børre Gaup (projektityöntekijä, borre.gaup samediggi punkt no)</p>
+
+      <p>Sjur N. Moshagen (projektin ohjaaja, sjur.moshagen samediggi punkt
+      no)</p>
+
+      <p>Thomas Omma (lingvisti, thomas.omma samediggi.no)</p>
+
+      <p>Maaren Palismaa (lingvisti, maren.palismaa samediggi.no)</p>
+
+      <p>Tomi Pieski (ohjelmoija, tomi.pieski samediggi.no)</p>
+
+      <p></p>
+
+      <p><strong>Valmis oikolukuväline</strong></p>
+
+      <p>Kun projekti on valmis syyskuussa 2007, tulevat valmiit
+      oikolukuohjelmat olemaan vapaasti käytettävissä (levitettävissä?)
+      projektin kotisivuilla latausohjelman muodossa, jonka voi helposti
+      ladata tietokoneelle. Ohjelmat tulevat toimimaan samalla tavalla kuin
+      muidenkin kielien ohjelmat toimivat. Saamelaiskäräjät ja Tromsan
+      yliopisto pidättävät oikeudet useisiin ohjelmiin, mutta sallii kaikkien
+      kiinnostuneiden käyttää sekä ohjelmiaan että kildekoden korvauksetta
+      (ti<strong>lgang til kildekoden gjelder ikke deler som er
+      proprietære</strong>).<strong> Tomi:</strong> in dieđe mii
+      oaivvilduvvo!</p>
+
+      <p>Projektin alkaessa tarlla lista valmiista ohjelmista näytti
+      seuraavalta:</p>
+
+      <p><em>Taulukko suunnitelluista tuotteista</em></p>
+
+      <p><strong>Tomi: </strong>tabealla váilu!!!</p>
+
+      <p>Tätä listaa tulemme tarkistamaan projektin aikana, mutta suurempia
+      muutoksi emme luultavasti tule tekemään.</p>
+
+      <p>Projekti tarjoaa jo varhaisessa vaiheessa testiversioita (niin
+      sanottuja alfa- ja betaversioita) kiinnostuneille käyttäjille
+      (betatestaajille). Me tulemme vähitellen, kun ensimmäinen testiversio on
+      käytettävissä, asettamaan esille enemmän informaatiota testaamisesta ja
+      käytöstä. Löydät eri versioiden yksityiskohtaisemmat suunnitelmat
+      tärkeine virstanpylväineen <a href="timetable.html">täältä</a>, ja
+      hieman enemmän yksityiskohtaisempia tietoja siitä, miten työskentelemme
+      löydät <a href="howmake.html">täältä</a>. Katso myös viimeistä
+      kappaletta, johon olemme keränneet hyödyllisiä linkkejä.</p>
+
+      <p></p>
+
+      <p><strong>Projektin kielipolitiikka</strong></p>
+
+      <p>Projekti on monikielinen, ja se tulee myös koskemaan tuottamiamme
+      dokumentaatioita, vertaa <a href="lang-policy.html">projektin
+      kielipolitiikka</a>.</p>
+
+      <p>Projektilla ei ole omaa politiikkaansa koskien saamen kielen
+      kirjakielen normittamista, ja me tulemme seuraamaan niitä määrättyjä
+      normeja, joita saamen kielen normittamista päättävä elin asettaa.
+      Epäselvissä tapauksissa pyydämme saamen kielten normittamisesta
+      vastaavilta elimiä suosituksia hyväksyttävästä kirjoitustavasta.</p>
+
+      <p></p>
+
+      <p></p>
+
+      <p><strong>Hyödyllisiä linkkejä</strong></p>
+
+      <p><strong>Tomi:</strong> linkit puuttuvat!</p>
+
+      <p></p>
+
+      <p></p>
+
+      <p>Päivitetty: $Date$, by $Author$</p>
+    </section>
+  </body>
 </document>
