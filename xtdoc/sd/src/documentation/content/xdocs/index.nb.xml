@@ -1,131 +1,215 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-                          "http://forrest.apache.org/dtd/document-v20.dtd">
+"http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
-    <header>
-        <title>Divvun - samiske korrekturverktøy</title>
+  <header>
+    <title>Divvun - samiske korrekturverktøy</title>
 
-	<authors>
-	  <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
-	</authors>
+    <authors>
+      <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
 
-    </header>
-    <body>
-      <section>
-        <title>Hva er Divvun?</title>
-        <p>Divvun er et prosjekt under det norske Sametinget for å lage retteprogram
-           for samisk. I første omgang betyr det stavekontroll og orddeling for
-           nordsamisk, og staveontroll for lulesamisk - bakgrunnen for denne
-           prioriteringa kan du lese mere om <a href="sma-background.html">her</a>.
-           Verktøyene skal fungere
-           på Windows, Linux og Mac i de vanligste kontorprogrammene.</p>
-      </section>
+  <body>
+    <section>
+      <title>Hva er Divvun?</title>
 
-      <section>
-        <title>Bakgrunn</title>
+      <p>Divvun er et prosjekt under det norske Sametinget for å lage
+      retteprogram for samisk. I første omgang betyr det stavekontroll og
+      orddeling for nordsamisk, og stavekontroll for lulesamisk - bakgrunnen
+      for denne prioriteringa kan du lese mere om <a
+      href="sma-background.html">her</a>. Verktøyene skal fungere på Windows,
+      Linux og Mac i de vanligste kontorprogrammene.</p>
+    </section>
 
-        <p>Prosjektet ble først planlagt og deretter igangsatt etter et ønske fra
-           Sametinget om å gi samisktalende og andre som ønsker å skrive samisk de
-           samme verktøyene som norskspråklige. Dette er særlig viktig etter som det
-           er mange samisktalende som ikke har lært å skrive samisk. Prosjektet er dermed
-           en del av en strategi for å styrke samisk språk, og å øke bruken av samisk
-           som skriftspråk.</p>
+    <section>
+      <title>Bakgrunn</title>
 
-        <p>Prosjektet er finansiert av <em>Sametinget</em>, og <em>Kommunal- og
-           regionaldepartementet</em>, <em>Undervisnings- og forskningsdepartementet</em>
-           og <em>Kultur- og kirkedepartementet</em>, og de ferdige programmene vil være 
-           tilgjengelig for alle som skriver samisk. </p>
-           
-           <p>Vi satser på å lage retteprogram som er tilpasset samisk slik det blir brukt både i 
-           Norge, Sverige og Finland. I og med at prosjektet blir gjennomført som et rent norsk 
-           prosjekt, kan det hende at de ferdige programmene vil bære preg av det, men vi vil 
-           aktivt gå inn for å lage programmene slik at de skal kunne brukes av alle, og
-           vil bli brukt av alle.</p>
-      </section>
+      <p>Prosjektet ble først planlagt og deretter igangsatt etter et ønske
+      fra Sametinget om å gi samisktalende og andre som ønsker å skrive samisk
+      de samme verktøyene som norskspråklige. Dette er særlig viktig i og med
+      at det er mange samisktalende som ikke har lært å skrive samisk.
+      Prosjektet er dermed en del av en strategi for å styrke samisk språk, og
+      å øke bruken av samisk som skriftspråk.</p>
 
-      <section>
-        <title>Organisering</title>
+      <p>Prosjektet er finansiert av <em>Sametinget</em>, og <em>Kommunal- og
+      regionaldepartementet</em>, <em>Undervisnings- og
+      forskningsdepartementet</em> og <em>Kultur- og kirkedepartementet</em>,
+      og de ferdige programmene vil være tilgjengelig for alle som skriver
+      samisk.</p>
 
-        <p>Prosjektet er lagt under Sametingets språkavdeling. Det har et eget
-           prosjektstyre med medlemmer fra Sametinget, departementene og Universitetet i Tromsø.</p>
+      <p>Vi satser på å lage retteprogram som er tilpasset samisk slik det
+      blir brukt både i Norge, Sverige og Finland. I og med at prosjektet blir
+      gjennomført som et rent norsk prosjekt, kan det hende at de ferdige
+      programmene vil bære preg av det, men vi vil aktivt gå inn for å lage
+      programmene slik at de skal kunne brukes av alle, og vil bli brukt av
+      alle.</p>
+    </section>
 
-        <p>Det konkrete arbeidet i prosjektet gjøres av en gruppe på fem personer:</p>
+    <section>
+      <title>Organisering</title>
 
-        <ul>
-          <li>Børre Gaup (prosjektmedarbeider, borre punkt gaup ved samediggi punkt no)</li>
-          <li>Sjur N. Moshagen (prosjektleder, sjur punkt moshagen ved samediggi punkt no)</li>
-          <li>Thomas Omma (lingvist, thomas punkt omma ved samediggi punkt no)</li>
-          <li>Maaren Palismaa (lingvist, maren punkt palismaa ved samediggi punkt no)</li>
-          <li>Tomi Pieski (programmerer, tomi punkt pieski ved samediggi punkt no)</li>
-        </ul>
+      <p>Prosjektet er lagt under Sametingets språkavdeling. Det har et eget
+      prosjektstyre med medlemmer fra Sametinget, departementene og
+      Universitetet i Tromsø.</p>
 
-        <p>Prosjektet bygger på arbeid ved Universitetet i Tromsø, og har et nært og daglig
-           samarbeid med det språkteknologiske miljøet der, så nært at vi har det meste av
-           infrastrukturen felles (se under fliken "<a href="http://giellatekno.uit.no">Samisk
-           disamb.</a>" over).</p>
-      </section>
+      <p>Det konkrete arbeidet i prosjektet gjøres av en gruppe på fem
+      personer:</p>
 
-      <section>
-        <title>Ferdige korrekturverktøy</title>
+      <ul>
+        <li>Børre Gaup (prosjektmedarbeider, borre punkt gaup ved samediggi
+        punkt no)</li>
 
-        <p>Når prosjektet er ferdig i september 2007, vil de ferdige korrekturverktøyene
-           være gratis tilgjengelige på prosjektets hjemmeside i form av installasjonsprogram
-           som enkelt installerer verktøyene på datamaskinen. Verktøyene vil fungere på samme
-           måten som tilsvarende verktøy for andre språk. Sametinget og Universitetet i Tromsø vil
-           beholde rettene til det meste av programmene, men tillater at alle interesserte kan bruke både
-           programmene og kildekoden deres vederlagsfritt (tilgang til kildekoden gjelder
-           ikke deler som er proprietære).</p>
+        <li>Sjur N. Moshagen (prosjektleder, sjur punkt moshagen ved samediggi
+        punkt no)</li>
 
-        <p>Den nøyaktige listen over ferdige program var ved prosjektstart:</p>
+        <li>Thomas Omma (lingvist, thomas punkt omma ved samediggi punkt
+        no)</li>
 
-        <table>
-          <caption>Tabell over planlagte produkt</caption>
-          <tr><th>Program/OS</th>      <th>Stavekontroll</th><th>Orddeling</th></tr>
-          <tr><td>MS Office/Win</td>   <td>x</td>            <td>x</td>        </tr>
-          <tr><td>MS Office/Mac</td>   <td>x</td>            <td>x</td>        </tr>
-          <tr><td>OpenOffice/Win</td>  <td>x</td>            <td>?</td>        </tr>
-          <tr><td>OpenOffice/Mac</td>  <td>x</td>            <td>?</td>        </tr>
-          <tr><td>OpenOffice/Linux</td><td>x</td>            <td>?</td>        </tr>
-          <tr><td>InDesign CS</td>     <td>-</td>            <td>x</td>        </tr>
-          <tr><td>Aspell (Win/Mac/Linux)</td><td>x</td>      <td></td>        </tr>
-        </table>
+        <li>Maaren Palismaa (lingvist, maren punkt palismaa ved samediggi
+        punkt no)</li>
 
-        <p>Denne listen kan komme til å justeres noe under prosjektets gang, men store forandringer
-           vil det sannsynligvis ikke bli.</p>
+        <li>Tomi Pieski (programmerer, tomi punkt pieski ved samediggi punkt
+        no)</li>
+      </ul>
 
-        <p>Prosjektet vil tilby tidlige testversjoner (såkalte alfa- og betaversjoner) for
-           interesserte brukere (betatestere). Vi vil etter hvert som første testversjon blir
-           tilgjengelig legge ut mere informasjon om testing og bruk. En mere detaljert plan
-           med viktige milepæler for de ulike versjonene finnes <a href="timetable.html">her</a>,
-           og litt flere detaljer om hvordan arbeidet gjøres finner du <a href="howmake.html">her</a>.
-           Se forøvrig det siste avsnittet med nyttige lenker.</p>
-      </section>
+      <p>Prosjektet bygger på arbeid ved Universitetet i Tromsø, og har et
+      nært og daglig samarbeid med det språkteknologiske miljøet der, så nært
+      at vi har det meste av infrastrukturen felles (se under fliken "<a
+      href="http://giellatekno.uit.no">Samisk disamb.</a>" over).</p>
+    </section>
 
-      <section>
-        <title>Prosjektets språkpolitikk</title>
+    <section>
+      <title>Ferdige korrekturverktøy</title>
 
-        <p>Prosjektet er flerspråklig, og det vil også gjelde dokumentasjonen vi produserer,
-           jf <a href="lang-policy.html">prosjektets språkpolitikk</a>.</p>
+      <p>Når prosjektet er ferdig i september 2007, vil de ferdige
+      korrekturverktøyene være gratis tilgjengelige på prosjektets hjemmeside
+      i form av installasjonsprogram som enkelt installerer verktøyene på
+      datamaskinen. Verktøyene vil fungere på samme måten som tilsvarende
+      verktøy for andre språk. Sametinget og Universitetet i Tromsø vil
+      beholde rettene til det meste av programmene, men tillater at alle
+      interesserte kan bruke både programmene og kildekoden deres
+      vederlagsfritt (tilgang til kildekoden gjelder ikke deler som er
+      proprietære).</p>
 
-        <p>Prosjektet har ingen egen politikk for normeringen av samiske skriftspråk, og vil
-           følge alle vedtak fra de samiske språknormerende organ. I tilfeller der vi mener
-           normeringen er uklar, vil vi be om en klargjøring fra disse organene.</p>
-      </section>
+      <p>Den nøyaktige listen over ferdige program var ved prosjektstart:</p>
 
-      <section>
-        <title>Nyttige lenker</title>
+      <table>
+        <caption>Tabell over planlagte produkt</caption>
 
-        <ul>
-          <li><a href="">RSS-nyheter fra prosjektet</a></li>
-          <li><a href="mailto:divvun ved samediggi punkt no">E-post til prosjektet</a></li>
-          <li><a href="">Aspell</a></li>
-          <li><a href="">OpenOffice</a></li>
-          <li><a href="">Xerox FST-verktøy</a></li>
-          <li><a href="">E-post til prosjektet</a></li>
-          <li><a href="">...</a></li>
-        </ul>
+        <tr>
+          <th>Program/OS</th>
 
-        <p class="last_modified">Siste endring: $Date$, by $Author$</p>
-      </section>
-    </body>
+          <th>Stavekontroll</th>
+
+          <th>Orddeling</th>
+        </tr>
+
+        <tr>
+          <td>MS Office/Win</td>
+
+          <td>x</td>
+
+          <td>x</td>
+        </tr>
+
+        <tr>
+          <td>MS Office/Mac</td>
+
+          <td>x</td>
+
+          <td>x</td>
+        </tr>
+
+        <tr>
+          <td>OpenOffice/Win</td>
+
+          <td>x</td>
+
+          <td>?</td>
+        </tr>
+
+        <tr>
+          <td>OpenOffice/Mac</td>
+
+          <td>x</td>
+
+          <td>?</td>
+        </tr>
+
+        <tr>
+          <td>OpenOffice/Linux</td>
+
+          <td>x</td>
+
+          <td>?</td>
+        </tr>
+
+        <tr>
+          <td>InDesign CS</td>
+
+          <td>-</td>
+
+          <td>x</td>
+        </tr>
+
+        <tr>
+          <td>Aspell (Win/Mac/Linux)</td>
+
+          <td>x</td>
+
+          <td></td>
+        </tr>
+      </table>
+
+      <p>Denne listen kan komme til å justeres noe under prosjektets gang, men
+      store forandringer vil det sannsynligvis ikke bli.</p>
+
+      <p>Prosjektet vil tilby tidlige testversjoner (såkalte alfa- og
+      betaversjoner) for interesserte brukere (betatestere). Vi vil etter
+      hvert som første testversjon blir tilgjengelig legge ut mere informasjon
+      om testing og bruk. En mere detaljert plan med viktige milepæler for de
+      ulike versjonene finnes <a href="timetable.html">her</a>, og litt flere
+      detaljer om hvordan arbeidet gjøres finner du <a
+      href="howmake.html">her</a>. Se forøvrig det siste avsnittet med nyttige
+      lenker.</p>
+    </section>
+
+    <section>
+      <title>Prosjektets språkpolitikk</title>
+
+      <p>Prosjektet er flerspråklig, og det vil også gjelde dokumentasjonen vi
+      produserer, jf <a href="lang-policy.html">prosjektets
+      språkpolitikk</a>.</p>
+
+      <p>Prosjektet har ingen egen politikk for normeringen av samiske
+      skriftspråk, og vil følge alle vedtak fra de samiske språknormerende
+      organ. I tilfeller der vi mener normeringen er uklar, vil vi be om en
+      klargjøring fra disse organene.</p>
+    </section>
+
+    <section>
+      <title>Nyttige lenker</title>
+
+      <ul>
+        <li><a href="">RSS-nyheter fra prosjektet</a></li>
+
+        <li><a href="mailto:divvun ved samediggi punkt no">E-post til
+        prosjektet</a></li>
+
+        <li><a href="">Aspell</a></li>
+
+        <li><a href="">OpenOffice</a></li>
+
+        <li><a href="">Xerox FST-verktøy</a></li>
+
+        <li><a href="">E-post til prosjektet</a></li>
+
+        <li><a href="">...</a></li>
+      </ul>
+
+      <p class="last_modified">Siste endring: $Date$, by
+      $Author$</p>
+    </section>
+  </body>
 </document>
