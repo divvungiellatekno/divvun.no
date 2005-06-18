@@ -13,28 +13,23 @@
       <p>Prosjevtan le giellapolitihkka ietjanis mij mearrit makkir diedo
       galggi liehket gen ga giellaj.</p>
 
-      <p></p>
+	<dl>
+      <dt>Iemelágásj diededibme:</dt>
 
-      <p><strong>Iemelágásj diededibme:</strong></p>
+      <dd>nuorttasábmáj, julevsábmáj, suomagiellaj, vuonadárruj ja
+      ieŋŋgisgiellaj</dd>
 
-      <p>nuorttasábmáj, julevsábmáj, suomagiellaj, vuonadárruj ja
-      ieŋŋgisgiellaj</p>
+      <dt>Addnedokumentásjåvnnå:</dt>
 
-      <p></p>
+      <dd>sæmmi giellaj gå nævvo, ieneplågogiellaj dan rijkan gånnå giella
+      aneduvvá, ja vil ieŋŋgisgiellaj</dd>
 
-      <p><strong>addnedokumentásjåvnnå:<strong><strong></strong></strong></strong></p>
+      <dt>Teknihka hárráj, prosjevta sissŋálasj
+      dokumentasjåvnnå:</dt>
 
-      <p>sæmmi giellaj gå nævvo, ieneplågogiellaj dan rijkan gånnå giella
-      aneduvvá, ja vil ieŋŋgisgiellaj</p>
+      <dd>ieŋŋgisgiellaj, ietjá gielajda dárbo milta</dd>
 
-      <p></p>
-
-      <p><strong><strong><strong><strong>teknihka hárráj, prosjevta sissŋálasj
-      dokumentasjåvnnå:</strong></strong></strong></strong></p>
-
-      <p>ieŋŋgisgiellaj, ietjá gielajda dárbo milta</p>
-
-      <p><strong><strong><strong><strong></strong></strong></strong></strong></p>
+</dl>
 
       <p>Mijá vuojnno le, ja doajvvop dát giellapolitihkka prosjevta
       dokumentásjåvnå hárráj buktá diedojt dajda gielajda ma li ájnnasa gajkka
@@ -42,7 +37,7 @@
 
       <p></p>
 
-      <p>Maŋemuš rievdaduvvon: $Date$, by $Author:
+      <p class="last_modified">Maŋemuš rievdaduvvon: $Date$, by $Author:
       boerre $</p>
     </section>
   </body>

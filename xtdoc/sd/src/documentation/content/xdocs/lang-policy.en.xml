@@ -33,7 +33,7 @@
         all users and persons otherwise interested.</p>
 
 
-	    <p>Maŋemuš rievdaduvvon: $Date$, by $Author$</p>
+	    <p class="last_modified">Last revised: $Date$, by $Author$</p>
         </section>
     </body>
 </document>

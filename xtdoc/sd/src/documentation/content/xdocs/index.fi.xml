@@ -50,7 +50,6 @@
       töitä sen eteen, että kaikki voivat ja tulevat näitä ohjelmia
       käyttämään.</p>
 
-      <p></p>
     </section>
     <section>
       <title>Organisointi</title>
@@ -135,9 +134,6 @@
       Epäselvissä tapauksissa pyydämme saamen kielten normittamisesta
       vastaavilta elimiä suosituksia hyväksyttävästä kirjoitustavasta.</p>
 
-      <p></p>
-
-      <p></p>
     </section>
     <section>
 
@@ -152,7 +148,7 @@
           <li><a href="">...</a></li>
         </ul>
 
-      <p>Päivitetty: $Date$, by $Author$</p>
+      <p class="last_modified">Päivitetty: $Date$, by $Author$</p>
     </section>
   </body>
 </document>

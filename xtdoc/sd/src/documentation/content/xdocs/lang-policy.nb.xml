@@ -3,7 +3,7 @@
                           "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
     <header> 
-        <title>Språkpolitikk for Divvun-prosjektet</title>
+        <title>Divvun-prošeavtta giellapolitihkka</title>
 
 	<authors>
 	  <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
@@ -12,27 +12,24 @@
     </header>
     <body>
         <section>
-          <title>Oversikt over språkpolitikken for dokumentasjonen</title>
+          <title>Divvun-prošeavtta giellapolitihkka</title>
 
           <p>Prosjektet har en egen språkpolitikk som bestemmer hvilken
              informasjon som skal være tilgjengelig på de forskjellige
              språkene.</p>
 
         <dl>
-          <dt>generell informasjon:</dt>
-          <dd>nordsamisk, lulesamisk, finsk, norsk og engelsk</dd>
-          <dt>brukerdokumentasjon:</dt>
-          <dd>på samme samiske språk som verktøyet, på majoritetsspråket
-              i de land språket brukes, samt engelsk</dd>
-          <dt>teknisk, prosjektintern dokumentasjon:</dt>
-          <dd>engelsk, unntaksvis på andre språk</dd>
+          <dt>Oppalaš dieđut:</dt>
+          <dd>Davvisámegillii, julevsámegiellii, suomagillii, dárogillii ja eŋgelasgillii</dd>
+          <dt>Geavaheaddejdokumentašuvdna:</dt>
+          <dd>Seamma gillii go reaidu, eanelohkogillii dan riikkas gos giella geavahuvvo ja eŋgelasgillii</dd>
+          <dt>Teknihkkálaš, prošeavttasiskkildas dokumentašuvdna:</dt>
+          <dd>eŋgelasgillii, eará gielaide dárbbu mielde</dd>
         </dl>
 
-        <p>Vi mener og håper denne språkpolitikken for prosjektets dokumentasjon
-           gir informasjon på relevante språk for alle brukere og intereserte
-           personer.</p>
+        <p>Mii oaivvildit, ja sávvat dát giellapolitihkka prošeavtta hárrái gokčá buot berošteddjiid ja geavaheddjiid dárbbuid, addá buohkáide dárbbašlaš dieđuid.</p>
 
-	    <p>Sist endret: $Date$, av $Author$</p>
+	    <p class="last_modified">Maŋemuš rievdaduvvun: $Date$, av $Author$</p>
         </section>
     </body>
 </document>

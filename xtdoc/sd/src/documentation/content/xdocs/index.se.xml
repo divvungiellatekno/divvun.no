@@ -2,7 +2,7 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
     <header>
-        <title>Divvun - sámi stávenreaiddut</title>
+        <title>Divvun - sámi korrektuvrareaiddut</title>
         <authors>
             <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
         </authors>
@@ -10,20 +10,19 @@
     <body>
         <section>
             <title>Mii Divvun lea?</title>
-            <p>Divvun lea prošeakta mii Norgga Sámediggi lea álggahan ráhkadandihte sámegielat stávenprográmmaid. Dál vuos ráhkaduvvojit stávenprográmma ja sátnejuohkkima davvi sámegiela várás, ja stávenprográmma julevsámegiela várás. Dán prioriterema birra logat eanet <a href="sma-background.html" >dáppe</a>. Reaiddut galget doaibmat dábáleamus kántuvraprográmmain Windows:as, Linux:as ja Mac:as</p>
+            <p>Divvun lea prošeakta mii Norgga Sámediggi lea álggahan. Ulbmil lea ráhkadit sámegielat korrektuvraprográmmaid. Dál vuos ráhkaduvvo korrektuvraprográmma ja sátnejuohkkima davvisámegiela várás, ja korrektuvraprográmma julevsámegiela várás. Dán prioriterema birra logat eanet <a href="sma-background.html" >dáppe</a>. Reaiddut galget doaibmat dábáleamus kántuvraprográmmain Windows:as, Linux:as ja Mac:as</p>
         </section>
         <section>
             <title>Duogáš</title>
-            <p>Prosjektet ble først planlagt og deretter igangsatt etter et ønske fra
-           Sametinget om å gi samisktalende og andre som ønsker å skrive samisk de
-           samme verktøyene som norskspråklige. Dette er særlig viktig etter som det
-           er mange samisktalende som ikke har lært å skrive samisk. Prosjektet er dermed
-           en del av en strategi for å styrke samisk språk, og å øke bruken av samisk
-           som skriftspråk.</p>
-            <p>Prosjektet er finansiert av <em>Sametinget</em>, og <em>Kommunal- og
-           regionaldepartementet</em>, <em>Undervisnings- og forskningsdepartementet</em>
-           og <em>Kultur- og kirkedepartementet</em>, og de ferdige programmene vil være 
+            <p>Prošeakta vuos plánejuvvui, ja de bidjoi johtui Sámedikki sávvama mielde addit sámegielagiidda ja earáide geat hálidit sámegiela čállit seamma reaidduid go dárogiellagiin lea. Erenoamážit dát lea dehálaš dannego ollu sámegielagat eai leat oahppan sámegiela čállit. Prošeakta lea danne oassi strategiijas nannet sámegiela, ja buoridit sámegiela eavttuid čállingiellan.</p>
+            <p><em>Sámediggi</em>, <em>Gielda- og
+           guovlodepartementa</em>, <em>Oahpahus- ja dutkandepartementa</em>
+           ja <em>Kultur- og girkodepartementa</em> leat ruhtadan prošeavtta, og de ferdige programmene vil være 
            tilgjengelig for alle som skriver samisk. </p>
+   <p>Prosjektet er finansiert av <em>Sametinget</em>, og <em>Kommunal- og
+		   regionaldepartementet</em>, <em>Undervisnings- og forskningsdepartementet</em>
+	   og <em>Kultur- og kirkedepartementet</em>, og de ferdige programmene vil være 
+	   tilgjengelig for alle som skriver samisk. </p>
             <p>Vi satser på å lage retteprogram som er tilpasset samisk slik det blir brukt både i 
            Norge, Sverige og Finland. I og med at prosjektet blir gjennomført som et rent norsk 
            prosjekt, kan det hende at de ferdige programmene vil bære preg av det, men vi vil 
@@ -31,16 +30,16 @@
            vil bli brukt av alle.</p>
         </section>
         <section>
-            <title>Organisering</title>
+            <title>Organiseren</title>
             <p>Prosjektet er lagt under Sametingets språkavdeling. Det har et eget
            prosjektstyre med medlemmer fra Sametinget, departementene og Universitetet i Tromsø.</p>
             <p>Det konkrete arbeidet i prosjektet gjøres av en gruppe på fem personer:</p>
             <ul>
-                <li>Børre Gaup (prosjektmedarbeider, borre punkt gaup ved samediggi punkt no)</li>
-                <li>Sjur N. Moshagen (prosjektleder, sjur punkt moshagen ved samediggi punkt no)</li>
-                <li>Thomas Omma (lingvist, thomas punkt omma ved samediggi punkt no)</li>
-                <li>Maaren Palismaa (lingvist, maren punkt palismaa ved samediggi punkt no)</li>
-                <li>Tomi Pieski (programmerer, tomi punkt pieski ved samediggi punkt no)</li>
+                <li>Børre Gaup (prošeaktamielbargi, borre punkt gaup ved samediggi punkt no)</li>
+                <li>Sjur N. Moshagen (prošeaktajođiheaddji, sjur punkt moshagen ved samediggi punkt no)</li>
+                <li>Thomas Omma (lingvista, thomas punkt omma ved samediggi punkt no)</li>
+                <li>Maaren Palismaa (lingvista, maren punkt palismaa ved samediggi punkt no)</li>
+                <li>Tomi Pieski (programmerejeaddji, tomi punkt pieski ved samediggi punkt no)</li>
             </ul>
             <p>Prosjektet bygger på arbeid ved Universitetet i Tromsø, og har et nært og daglig
            samarbeid med det språkteknologiske miljøet der, så nært at vi har det meste av
@@ -60,9 +59,9 @@
             <table>
                 <caption>Tabell over planlagte produkt</caption>
                 <tr>
-                    <th>Program/OS</th>
+                    <th>Prográmma/OV</th>
                     <th>Stavekontroll</th>
-                    <th>Orddeling</th>
+                    <th>Sátnejuohkkin</th>
                 </tr>
                 <tr>
                     <td>MS Office/Win</td>
@@ -75,17 +74,17 @@
                     <td>x</td>
                 </tr>
                 <tr>
-                    <td>OpenOffice/Win</td>
+                    <td>OpenOffice.org/Win</td>
                     <td>x</td>
                     <td>?</td>
                 </tr>
                 <tr>
-                    <td>OpenOffice/Mac</td>
+                    <td>OpenOffice.org/Mac</td>
                     <td>x</td>
                     <td>?</td>
                 </tr>
                 <tr>
-                    <td>OpenOffice/Linux</td>
+                    <td>OpenOffice.org/Linux</td>
                     <td>x</td>
                     <td>?</td>
                 </tr>
@@ -110,7 +109,7 @@
            Se forøvrig det siste avsnittet med nyttige lenker.</p>
         </section>
         <section>
-            <title>Prosjektets språkpolitikk</title>
+            <title>Proševtta giellapolitihkka</title>
             <p>Prosjektet er flerspråklig, og det vil også gjelde dokumentasjonen vi produserer,
            jf <a href="lang-policy.html" >prosjektets språkpolitikk</a>.</p>
             <p>Prosjektet har ingen egen politikk for normeringen av samiske skriftspråk, og vil
@@ -118,31 +117,28 @@
            normeringen er uklar, vil vi be om en klargjøring fra disse organene.</p>
         </section>
         <section>
-            <title>Nyttige lenker</title>
+            <title>Dárbbašlaš leaŋkkat</title>
             <ul>
                 <li>
-                    <a href="" >RSS-nyheter fra prosjektet</a>
+                    <a href="" >Proševtta RSS-gáldu</a>
                 </li>
                 <li>
-                    <a href="mailto:divvun ved samediggi punkt no" >E-post til prosjektet</a>
+                    <a href="mailto:divvun ved samediggi punkt no" >Prošeavtta e-boastačujuhus</a>
                 </li>
                 <li>
                     <a href="" >Aspell</a>
                 </li>
                 <li>
-                    <a href="" >OpenOffice</a>
+                    <a href="" >OpenOffice.org</a>
                 </li>
                 <li>
-                    <a href="" >Xerox FST-verktøy</a>
-                </li>
-                <li>
-                    <a href="" >E-post til prosjektet</a>
+                    <a href="" >Xerox FST-reaiddut</a>
                 </li>
                 <li>
                     <a href="" >...</a>
                 </li>
             </ul>
-            <p>Siste endring: $Date$, by $Author$</p>
+            <p class="last_modified">Maŋemuš rievdaduvvon: $Date$, by $Author$</p>
         </section>
     </body>
 </document>

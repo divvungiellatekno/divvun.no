@@ -121,7 +121,7 @@
         </ul>
 
       </section>	  
-	    <p>Last modified: $Date$, by $Author$</p>
+	    <p class="last_modified">Last modified: $Date$, by $Author$</p>
 
 
     </body>

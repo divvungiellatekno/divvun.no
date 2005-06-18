@@ -125,7 +125,7 @@
           <li><a href="">...</a></li>
         </ul>
 
-        <p>Siste endring: $Date$, by $Author$</p>
+        <p class="last_modified">Siste endring: $Date$, by $Author$</p>
       </section>
     </body>
 </document>

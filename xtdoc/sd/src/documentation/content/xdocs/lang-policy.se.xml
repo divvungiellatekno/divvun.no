@@ -1,18 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
-<document> 
-    <header> 
-        <title></title>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header>
+    <title>Divvun-prosjevta giellapolitihkka</title>
+  </header>
 
-	<authors>
-	  <person email="" name="" />
-	</authors>
+  <body>
+    <section>
+      <title>Giellapolitihkalasj tjoahkke dokumentásjåvnå hárráj</title>
 
-    </header> 
-    <body> 
-        <section>
-          <title></title>
-	    <p>Maŋemuš rievdaduvvon: $Date$, by $Author$</p>
-        </section>
-    </body>
+      <p>Prosjevtan le giellapolitihkka ietjanis mij mearrit makkir diedo
+      galggi liehket gen ga giellaj.</p>
+
+	<dl>
+      <dt>Iemelágásj diededibme:</dt>
+
+      <dd>nuorttasábmáj, julevsábmáj, suomagiellaj, vuonadárruj ja
+      ieŋŋgisgiellaj</dd>
+
+      <dt>Addnedokumentásjåvnnå:</dt>
+
+      <dd>sæmmi giellaj gå nævvo, ieneplågogiellaj dan rijkan gånnå giella
+      aneduvvá, ja vil ieŋŋgisgiellaj</dd>
+
+      <dt>Teknihka hárráj, prosjevta sissŋálasj
+      dokumentasjåvnnå:</dt>
+
+      <dd>ieŋŋgisgiellaj, ietjá gielajda dárbo milta</dd>
+
+</dl>
+
+      <p>Mijá vuojnno le, ja doajvvop dát giellapolitihkka prosjevta
+      dokumentásjåvnå hárráj buktá diedojt dajda gielajda ma li ájnnasa gajkka
+      berustiddjijda ja addnijda</p>
+
+      <p></p>
+
+      <p class="last_modified">Maŋemuš rievdaduvvon: $Date$, by $Author:
+      boerre $</p>
+    </section>
+  </body>
 </document>
