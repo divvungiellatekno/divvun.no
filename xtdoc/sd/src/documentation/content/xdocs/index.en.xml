@@ -76,7 +76,7 @@
 
 
 
-        <p>At project kickoff, the detailed list of deliberable programs looked as follows:</p>
+        <p>At project kickoff, the detailed list of deliverable programs looked as follows:</p>
 
         <table>
           <caption>Overview over planned products</caption>
@@ -92,7 +92,7 @@
 
         <p>This list may be adjusted during the course of the project, but there will probably not undergo substantial revisions.</p>
 
-        <p>The project will offer early test versions (so called alpha- and betaversions) for interested users (betatesters). When the firest test version is made accessible, we will publish more information on testing and usage. A more detailed project plan, with important milestones for the different projects may be found <a href="timetable.html">here</a>, and some more details on how the work is being conducted may be found <a href="howmake.html">here</a>.
+        <p>The project will offer early test versions (so called alpha- and betaversions) for interested users (betatesters). When the firest test version is made accessible, we will publish more information on testing and usage. A more detailed project plan, with important milestones for the different projects may be found <a href="timetable.en.html">here</a>, and some more details on how the work is being conducted may be found <a href="howmake.en.html">here</a>.
            See also the final section, containing useful links.</p>
       </section>
 
@@ -108,18 +108,13 @@
         <title>Useful links</title>
 
         <ul>
-          <li><a href="">RSS news from the project</a></li>
           <li><a href="mailto:divvun ved samediggi punkt no">E-mail to the project</a></li>
           <li><a href="">Aspell</a></li>
           <li><a href="">OpenOffice</a></li>
           <li><a href="">Xerox FST-tools</a></li>
-          <li><a href="">E-mail to the project</a></li>
-          <li><a href="">...</a></li>
         </ul>
-
-      </section>	  
-	    <p class="last_modified">Last modified: $Date$, by $Author$</p>
-
-
+	
+	<p class="last_modified">Last modified: $Date$, by $Author$</p>
+      </section>
     </body>
 </document>

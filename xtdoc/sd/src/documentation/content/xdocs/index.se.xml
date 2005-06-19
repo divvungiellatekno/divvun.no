@@ -10,20 +10,15 @@
     <body>
         <section>
             <title>Mii Divvun lea?</title>
-            <p>Divvun lea prošeakta mii Norgga Sámediggi lea álggahan. Ulbmil lea ráhkadit sámegielat korrektuvraprográmmaid. Dál vuos ráhkaduvvo korrektuvraprográmma ja sátnejuohkkima davvisámegiela várás, ja korrektuvraprográmma julevsámegiela várás. Dán prioriterema birra logat eanet <a href="sma-background.html" >dáppe</a>. Reaiddut galget doaibmat dábáleamus kántuvraprográmmain Windows:as, Linux:as ja Mac:as</p>
+            <p>Divvun lea prošeakta mii Norgga Sámediggi lea álggahan. Ulbmil lea ráhkadit sámegielat korrektuvraprográmmaid. Dál vuos ráhkaduvvo korrektuvraprográmma ja sátnejuohkkima davvisámegiela várás, ja korrektuvraprográmma julevsámegiela várás. Dán prioriterema birra logat eanet <a href="sma-background.se.html" >dáppe</a>. Reaiddut galget doaibmat dábáleamus kántuvraprográmmain Windows:as, Linux:as ja Mac:as</p>
         </section>
         <section>
             <title>Duogáš</title>
             <p>Prošeakta vuos plánejuvvui, ja de bidjoi johtui Sámedikki sávvama mielde addit sámegielagiidda ja earáide geat hálidit sámegiela čállit seamma reaidduid go dárogiellagiin lea. Erenoamážit dát lea dehálaš dannego ollu sámegielagat eai leat oahppan sámegiela čállit. Prošeakta lea danne oassi strategiijas nannet sámegiela, ja buoridit sámegiela eavttuid čállingiellan.</p>
             <p><em>Sámediggi</em>, <em>Gielda- og
            guovlodepartementa</em>, <em>Oahpahus- ja dutkandepartementa</em>
-           ja <em>Kultur- og girkodepartementa</em> leat ruhtadan prošeavtta, og de ferdige programmene vil være 
-           tilgjengelig for alle som skriver samisk. </p>
-   <p>Prosjektet er finansiert av <em>Sametinget</em>, og <em>Kommunal- og
-		   regionaldepartementet</em>, <em>Undervisnings- og forskningsdepartementet</em>
-	   og <em>Kultur- og kirkedepartementet</em>, og de ferdige programmene vil være 
-	   tilgjengelig for alle som skriver samisk. </p>
-            <p>Vi satser på å lage retteprogram som er tilpasset samisk slik det blir brukt både i 
+           ja <em>Kultur- og girkodepartementa</em> leat ruhtadan prošeavtta.</p>
+            <p>Mii áigut ráhkadit korrektuvraprográmmaid mat leat heivehuvvon sámegillii nugo čállo Norggas, Ruoŧaas ja Suomas. Vi satser på å lage retteprogram som er tilpasset samisk slik det blir brukt både i 
            Norge, Sverige og Finland. I og med at prosjektet blir gjennomført som et rent norsk 
            prosjekt, kan det hende at de ferdige programmene vil bære preg av det, men vi vil 
            aktivt gå inn for å lage programmene slik at de skal kunne brukes av alle, og
@@ -31,36 +26,29 @@
         </section>
         <section>
             <title>Organiseren</title>
-            <p>Prosjektet er lagt under Sametingets språkavdeling. Det har et eget
-           prosjektstyre med medlemmer fra Sametinget, departementene og Universitetet i Tromsø.</p>
-            <p>Det konkrete arbeidet i prosjektet gjøres av en gruppe på fem personer:</p>
+            <p>Prošeakta gullá Sámedikki giellaossodahkii. Das lea iežas prošeaktaštivra mas leat miellahtut Sámedikkis, departemeanttaid ja Romssa universitehta.</p>
+            <p>Vihtta olbmo barget dán prošeavttas:</p>
             <ul>
-                <li>Børre Gaup (prošeaktamielbargi, borre punkt gaup ved samediggi punkt no)</li>
-                <li>Sjur N. Moshagen (prošeaktajođiheaddji, sjur punkt moshagen ved samediggi punkt no)</li>
-                <li>Thomas Omma (lingvista, thomas punkt omma ved samediggi punkt no)</li>
-                <li>Maaren Palismaa (lingvista, maren punkt palismaa ved samediggi punkt no)</li>
-                <li>Tomi Pieski (programmerejeaddji, tomi punkt pieski ved samediggi punkt no)</li>
+                <li>Børre Gaup (prošeaktamielbargi, borre čuokkkis gaup smárfaalfa samediggi čuokkis no)</li>
+                <li>Sjur N. Moshagen (prošeaktajođiheaddji, sjur čuokkis moshagen smárfealfa samediggi čuokkis no)</li>
+                <li>Thomas Omma (lingvista, thomas čuokkis omma smárfealfa samediggi čuokkis no)</li>
+                <li>Maaren Palismaa (lingvista, maren čuokkis palismaa smárfealfa samediggi čuokkis no)</li>
+                <li>Tomi Pieski (programmerejeaddji, tomi čuokkis pieski smárfealfa samediggi čuokkis no)</li>
             </ul>
-            <p>Prosjektet bygger på arbeid ved Universitetet i Tromsø, og har et nært og daglig
-           samarbeid med det språkteknologiske miljøet der, så nært at vi har det meste av
-           infrastrukturen felles (se under fliken &quot;<a href="http://giellatekno.uit.no" >Samisk
-           disamb.</a>&quot; over).</p>
+            <p>Prošeakta vuođđun lea bargu mii lea dahkun Romssa universitehtas, ja prošeavttas ja Romssa universitehta giellateknologalaš birrasis lea lahka ja beaivvalaš ovttasbargu, nu lahka ahte mis lea oktasaš infrastruktuvra. (geahčča &quot;<a href="http://giellatekno.uit.no" >Sami disamb</a>&quot; gilkoris dás bajábealde.).</p>
         </section>
         <section>
-            <title>Ferdige korrekturverktøy</title>
-            <p>Når prosjektet er ferdig i september 2007, vil de ferdige korrekturverktøyene
-           være gratis tilgjengelige på prosjektets hjemmeside i form av installasjonsprogram
-           som enkelt installerer verktøyene på datamaskinen. Verktøyene vil fungere på samme
-           måten som tilsvarende verktøy for andre språk. Sametinget og Universitetet i Tromsø vil
+            <title>Gárvves korrektuvrareaiddut</title>
+            <p>Go prošeakta lea gárvvis čakčamánu 2007, galget gárvves korrektuvrareaiddut leat viežžanláhkái nuvttá prošeavtta ruovttosiiddus sajáiduhttin prográmma hámis, mii álkit bidjá reaidduid dihtorii. Reaiddut doibmet seammaláhkáigo dákkár reaiddut doibmet eará gielaide. Sametinget og Universitetet i Tromsø vil
            beholde rettene til det meste av programmene, men tillater at alle interesserte kan bruke både
            programmene og kildekoden deres vederlagsfritt (tilgang til kildekoden gjelder
            ikke deler som er proprietære).</p>
-            <p>Den nøyaktige listen over ferdige program var ved prosjektstart:</p>
+            <p>Prošeavtta álggus listu gárvvis prográmmain lea ná:</p>
             <table>
-                <caption>Tabell over planlagte produkt</caption>
+                <caption>Plánejuvvon buktagat</caption>
                 <tr>
                     <th>Prográmma/OV</th>
-                    <th>Stavekontroll</th>
+                    <th>Čállindárkkisteapmi</th>
                     <th>Sátnejuohkkin</th>
                 </tr>
                 <tr>
@@ -94,36 +82,24 @@
                     <td>x</td>
                 </tr>
                 <tr>
-                    <td>Aspell (Win/Mac/Linux)</td>
+                    <td>Aspell (Win/Mac/Linux)</td>j
                     <td>x</td>
                     <td/>
                 </tr>
             </table>
-            <p>Denne listen kan komme til å justeres noe under prosjektets gang, men store forandringer
-           vil det sannsynligvis ikke bli.</p>
-            <p>Prosjektet vil tilby tidlige testversjoner (såkalte alfa- og betaversjoner) for
-           interesserte brukere (betatestere). Vi vil etter hvert som første testversjon blir
-           tilgjengelig legge ut mere informasjon om testing og bruk. En mere detaljert plan
-           med viktige milepæler for de ulike versjonene finnes <a href="timetable.html" >her</a>,
-           og litt flere detaljer om hvordan arbeidet gjøres finner du <a href="howmake.html" >her</a>.
-           Se forøvrig det siste avsnittet med nyttige lenker.</p>
+            <p>Šáhttá šaddat rievdadusat prošeavtta áiggis, muhto eai dáidde stuorra rievdadusat šaddat.</p>
+	    <p>Prošeakta fallá árra geahččalanveršuvnnaid (nugohččoduvvun alfa- ja betaveršuvnnat) berošteddjiide. Go vuosttáš geahččalanveršuvdna lea gárvvis, mii fállat eanet dieđuid geahččaleami ja geavaheami birra. Min <a href="timetable.se.html">dárkilis plánas</a> gávnnat oladusaid sierra veršuvnnaid várás ja mis lea maid oanehis čilgehus <a href="howmake.se.html">mo mii ráhkadit</a> dáid reaidduid. Vel eanet dieđuid gávnnat dás vuolábealde.</p>
         </section>
         <section>
             <title>Proševtta giellapolitihkka</title>
-            <p>Prosjektet er flerspråklig, og det vil også gjelde dokumentasjonen vi produserer,
-           jf <a href="lang-policy.html" >prosjektets språkpolitikk</a>.</p>
-            <p>Prosjektet har ingen egen politikk for normeringen av samiske skriftspråk, og vil
-           følge alle vedtak fra de samiske språknormerende organ. I tilfeller der vi mener
-           normeringen er uklar, vil vi be om en klargjøring fra disse organene.</p>
+	    <p>Prošeakta lea moanágielat, ja dat <a href="lang-policy.se.html" >guoská maiddái</a> dokumentašuvdnii maid mii ráhkadit.</p>
+            <p>Prošeavttas ii leat iežaš politihkka sámi čállingiela hárrái, ja čuovvu buot giellanormeren orgánaid mierrádusaid. Jos mii dovdat normeren ii leat čielggas, mii dáhttut dáid orgánaid čielggadit dáid áššiid.</p>
         </section>
         <section>
             <title>Dárbbašlaš leaŋkkat</title>
             <ul>
                 <li>
-                    <a href="" >Proševtta RSS-gáldu</a>
-                </li>
-                <li>
-                    <a href="mailto:divvun ved samediggi punkt no" >Prošeavtta e-boastačujuhus</a>
+                    <a href="mailto:divvun smárfealfa samediggi čuokkis no" >Prošeavtta e-boastačujuhus</a>
                 </li>
                 <li>
                     <a href="" >Aspell</a>
@@ -133,9 +109,6 @@
                 </li>
                 <li>
                     <a href="" >Xerox FST-reaiddut</a>
-                </li>
-                <li>
-                    <a href="" >...</a>
                 </li>
             </ul>
             <p class="last_modified">Maŋemuš rievdaduvvon: $Date$, by $Author$</p>

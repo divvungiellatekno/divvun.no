@@ -11,7 +11,7 @@
   </header>
 
   <body>
-    <p>Dat dokumeantta <a href="sma-background.se.html">davvisámegillii</a>.</p>
+    <p>Dát dokumeantta <a href="sma-background.se.html">davvisámegillii</a>.</p>
 
     <section>
       <title>Forhistorie</title>
@@ -25,7 +25,7 @@
         <li>I motsetning til de nord- og lulesamiske analysatorene, ble den
         sørsamiske analysatoren (laget av Sjur N. Moshagen og Trond Trosterud)
         ikke ferdig til divvun-programmet starta. <ul>
-            <li>UiT hadde ikke tilgang til ei liste over sørsamiske ord, med
+            <li>UiTø hadde ikke tilgang til ei liste over sørsamiske ord, med
             stammeklasseinformasjon, i elektronisk form. Så lenge analysatoren
             ikke har tilgang til ei slik liste, vil den forbli en
             demonstrator, som ikke kan brukes til praktiske formål</li>
@@ -45,7 +45,7 @@
       <p>I og med at den sørsamiske analysatoren ikke var ferdig, og det var
       usikkert hvor mye arbeid det ville innebære å gjøre den ferdig, kunne
       Sametinget ikke gå inn for å ta med sørsamisk i divvun-prosjektet i
-      denne omgang, men vil komme tilbake til spørsmålet senere, jf neste
+      denne omgang, men vil komme tilbake til spørsmålet senere, jf. neste
       avsnitt.</p>
     </section>
 
@@ -61,7 +61,7 @@
         stammeklasseinformasjon, i elektronisk form</li>
 
         <li>Det trengs mer opplysninger om sørsamisk grammatikk, f.eks. i form
-        av en ny referenasegrammatikk. Eksempel på åpne spørsmål er
+        av en ny refereansegrammatikk. Eksempel på åpne spørsmål er
         adjektivbøyinga, og behandlinga av låneord.</li>
 
         <li>Noen må utvide den eksisterende sørsamiske <a
@@ -78,6 +78,8 @@
 
       <p>For å få til dette trengs det målretta samarbeid i arbeidet med
       sørsamisk.</p>
+
+<p class="last_modified">Siste endring: $Date$, by $Author$</p>
     </section>
   </body>
 </document>

@@ -6,7 +6,7 @@
     <title>Miten oikolukuohjelma tuotetaan?</title>
 
     <authors>
-      <person email="" name="" />
+	    <person email="borre.gaup@samediggi.no" name="Børre Gaup" />
     </authors>
   </header>
 
@@ -39,7 +39,7 @@
       testiversioita. Nämä laitetaan projektin nettisivuille, jotta asiasta
       kiinnostuneet voisivat ladata versiot ja testata niitä.</p>
 
-      <p>Päivitetty: $Date$, by $Author$</p>
+      <p class="last_modified">Päivitetty: $Date$, by $Author$</p>
     </section>
   </body>
 </document>

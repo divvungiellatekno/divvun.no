@@ -13,15 +13,15 @@
   <body>
     <section>
       <title>Mij le Divvun?</title>
-
+Pro
       <p>Divvun le prosjækta mij gullu vuona sámediggáj. Prosjevta ulmme le
       dahkat sámegiela korrektuvrraprográmmav. Dálla álgon sjaddá nuorttasáme
       stávimkontrålla ja báhkojuohkem ja julevsáme stávimkontrålla - dán
       prioriterima duoge birra manná ienebut låhkåt <a
-      href="sma-background.html">dánna</a>. Nævvojt galggá mannat adnet
+      href="sma-background.nb.html">dánna</a>. Nævvojt galggá mannat adnet
       Windows:an, Linux:an ja Mac:an ájnnasamos kontorprográmmajn.</p>
     </section>
-
+ss
     <section>
       <title>Duohke</title>
     </section>
@@ -72,8 +72,6 @@
 
     <section>
       <title>Gárves korretuvrranævvo</title>
-    </section>
-
     <p>Gå prosjækta le gárves ragátmáno 2007, galggi gárves
     korrektuvrranævvojt mannat nåvkå viedtjat prosjevta hæjmmasijdojs
     installerimprográmma hámen, mij álkket tsåggå nævvojt dátorij. Nævvo
@@ -182,21 +180,14 @@
       <title>Buorre liŋka</title>
 
       <ul>
-        <li><a href="">RSS-prosjæktaådåsa</a></li>
-
         <li><a href="mailto:divvun ved samediggi punkt no">E-post
         prosjæktaj</a></li>
-
         <li><a href="">Aspell</a></li>
-
         <li><a href="">OpenOffice</a></li>
-
         <li><a href="">Xerox FST-verktøy</a></li>
       </ul>
 
-      <p></p>
-
-      <p>Last modified: $Date$, by $Author$</p>
+      <p class="last_modified">Last modified: $Date$, by $Author$</p>
     </section>
   </body>
 </document>

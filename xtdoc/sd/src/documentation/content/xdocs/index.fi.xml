@@ -67,13 +67,12 @@
       <li>Sjur N. Moshagen (projektin ohjaaja, sjur.moshagen samediggi punkt
       no)</li>
 
-      <li>Thomas Omma (lingvisti, thomas.omma samediggi.no)</li>
+      <li>Thomas Omma (lingvisti, thomas piste omma samediggi piste no)</li>
 
-      <li>Maaren Palismaa (lingvisti, maren.palismaa samediggi.no)</li>
+      <li>Maaren Palismaa (lingvisti, maren piste palismaa samediggi piste no)</li>
 
-      <li>Tomi Pieski (ohjelmoija, tomi.pieski samediggi.no)</li>
+      <li>Tomi Pieski (ohjelmoija, tomi piste pieski samediggi piste no)</li>
 </ul>
-
     </section>
     <section>
 
@@ -118,8 +117,6 @@
       löydät <a href="howmake.fi.html">täältä</a>. Katso myös viimeistä
       kappaletta, johon olemme keränneet hyödyllisiä linkkejä.</p>
 
-      <p></p>
-
     </section>
     <section>
       <title>Projektin kielipolitiikka</title>
@@ -140,12 +137,10 @@
       <title>Hyödyllisiä linkkejä</title>
 
       <ul>
-          <li><a href="">RSS-uutisa projektistat</a></li>
           <li><a href="mailto:divvun ved samediggi punkt no">Sähköpostia projektille</a></li>
           <li><a href="">Aspell</a></li>
           <li><a href="">OpenOffice</a></li>
           <li><a href="">Xerox FST-työkaluja</a></li>
-          <li><a href="">...</a></li>
         </ul>
 
       <p class="last_modified">Päivitetty: $Date$, by $Author$</p>

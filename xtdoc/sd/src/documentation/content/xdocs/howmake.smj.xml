@@ -35,11 +35,7 @@
       korrektuvrraprográmmajs. Dá biejaduvvi prosjevta sijddasijdojda vaj
       berustiddje oadtju viedtjat ja gæhttjalit dajt.</p>
 
-      <p></p>
-
-      <fixme author="bg">Legg til lenker der det behøves.</fixme>
-
-      <p>Sist endret: $Date$, by $Author$</p>
+      <p class="last_modified">Sist endret: $Date$, by $Author$</p>
     </section>
   </body>
 </document>
