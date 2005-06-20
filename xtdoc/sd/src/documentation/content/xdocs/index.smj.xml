@@ -13,7 +13,7 @@
   <body>
     <section>
       <title>Mij le Divvun?</title>
-Pro
+
       <p>Divvun le prosjækta mij gullu vuona sámediggáj. Prosjevta ulmme le
       dahkat sámegiela korrektuvrraprográmmav. Dálla álgon sjaddá nuorttasáme
       stávimkontrålla ja báhkojuohkem ja julevsáme stávimkontrålla - dán
@@ -21,11 +21,10 @@ Pro
       href="sma-background.nb.html">dánna</a>. Nævvojt galggá mannat adnet
       Windows:an, Linux:an ja Mac:an ájnnasamos kontorprográmmajn.</p>
     </section>
-ss
+
     <section>
       <title>Duohke</title>
-    </section>
-
+  
     <p>Prosjækta álgon sulástuvaj ja de bieddjuj jåhtui Sámedikki sávadisá
     milta vaddet sámegielagijda ja ietjájda ma sihti tjállet sámev dajt sæmmá
     nævvojt degu dárogielagijn le. Ájnasik dát le buorre dajna gå le ållo
@@ -36,10 +35,10 @@ ss
     <p>Prosjevtav finasieriji <em>Sámedigge</em>, <em>Kommuvnna- ja
     guovlodepartemæntta, Åhpádus- ja åtsådusdepartemæntta</em> ja <em>Kultur-
     ja girkkodepartemæntta</em>.</p>
+  </section>
 
     <section>
       <title>Orgániserim</title>
-    </section>
 
     <p>Prosjækta le Sámedikki giellaåssudagá vuolen. Prosjevtan le ietjas
     stivrra manna le sebrulattja Sámedikkes, departementajs ja Råmså
@@ -69,6 +68,7 @@ ss
     fertbæjvvásasj væhkkálak barggo, nåv lahka ahte miján le aktásasj
     infrastuktuvrra (gtj. liŋka "<a href="http://giellatekno.uit.no">Sami
     disamb.</a> " badjelin).</p>
+    </section>
 
     <section>
       <title>Gárves korretuvrranævvo</title>
@@ -163,10 +163,10 @@ ss
     href="timetable.smj.html">dánna</a>, ja ienep diedo gåk barggo dahkku
     gávnnu <a href="howmake.smj.html">dánna</a>. Gehtja aj maŋemus oasev,
     gånnå le buorre liŋka.</p>
+    </section>
 
     <section>
       <title>Prosjevta giellapolitijkka</title>
-    </section>
 
     <p>Prosjækta le moattegielak, ja nåv aj dokumentasjuvnna mav mij tjállep,
     gtj. <a href="lang-policy.smj.html">prosjevta giellapolitijkka</a></p>
@@ -175,6 +175,7 @@ ss
     hárráj, ja tjuovvu gajk mierredusajt giellanormerijiddje orgánajs. Gå mij
     adnep ahte normerim ij le tjielgas, mij ádnop tjielgadimev dájs
     orgánajs.</p>
+    </section>
 
     <section>
       <title>Buorre liŋka</title>
@@ -188,6 +189,7 @@ ss
       </ul>
 
       <p class="last_modified">Last modified: $Date$, by $Author$</p>
+
     </section>
   </body>
 </document>
