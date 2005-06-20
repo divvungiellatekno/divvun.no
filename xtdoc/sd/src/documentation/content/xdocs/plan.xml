@@ -22,11 +22,16 @@
     <body> 
         <section>
             <title>Goals</title>
-            <p>When the project is ended ...</p>
+            <p>When the Divvun project is ended, there will be spell
+            checking tools available for everyone interested in using
+            them. A list can be found <a href="index.en.html">here</a></p>
         </section>
         <section>
             <title>Timetable</title>
-            <p>We plan to release alpha and beta versions of our proofing tools during the project period.</p>
+            <p>We plan to release alpha and beta versions of our
+            proofing tools during the project period. A more detailed
+            timetable is found
+            <a href="timetable.en.html">here</a>.</p>
        </section>
     </body>
 </document>
