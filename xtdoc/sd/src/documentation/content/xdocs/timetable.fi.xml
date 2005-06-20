@@ -29,32 +29,31 @@
 
 	      <dl>
 	        <dt>ALFA:</dt>
-	        <dd>Ensimmäinen toimiva versio ei ole lingvistisesti täydellinen,
-	            oikolukuohjelman voi jumiutua, ja mahdollisesti myös emo-ohjelmat.
+	        <dd>Ensimmäinen toimiva versio ei ole kieliopillisesti täydellinen,
+	            oikolukuohjelma ja mahdollisesti myös emo-ohjelmat, voivat jumiutua.
 	            Käyttäjämanuaali on vaillinainen, eikä vielä käännetty.</dd>
 
 	        <dt>BETA:</dt>
-	        <dd>Oikolukuohjelmat ovat pääosin valmiit ja toimivat, käyttäjämanuaali täydellinen, mutta eivät ole vielä valmiit kaikilla kielillä,  ei oikoluettu.
-	            Pääosin lingvistisesti täydellinen,
+	        <dd>Oikolukuohjelmat ovat pääosin valmiit ja toimivat, käyttäjämanuaali täydellinen, mutta ei vielä valmis kaikilla kielillä eikä oikoluettu.
+	            Pääosin kieliopillisesti täydellinen,
 	            mutta sanoja puuttunee. Tämä koskee eritysesti luulajansaamea.</dd>
 
 	        <dt>FINAL:</dt>
-	        <dd>Oikolukuohjelmat on perusteellisesti testattu, ovat täydelliset ja toimivat.
+	        <dd>Oikolukuohjelmat ovat perusteellisesti testatut ja ovat täydelliset ja toimivat.
 	            Käyttäjämanuaalit on oikoluettu ja käännetty kaikille kielille, asentamispaketit ovat täydelliset ja testatut. Oikolukuohjelmat ovat valmiina tavalliseen käyttöön.</dd>
 
 	        <dt>aSpell:</dt>
 	        <dd>Oikoluku rakentuu avoimeen lähdekoodiin, todennäköisesti aSpelliin,
-	            saatavana erillisenä komponenttina Windowsin, Linuxin ja MacOS X:iin.</dd>
+	            saatavana erillisenä komponenttina Windowsiin, Linuxiin ja MacOS X:ään.</dd>
 
 	        <dt>InDesign:</dt>
-	        <dd>Oikoluku integroitu Macin Adobe InDesigniin (mahdollisesti Windowsiin)</dd>
+	        <dd>Oikoluku integroitu Macin Adobe InDesigniin (mahdollisesti myös Windowsiin)</dd>
 
 	        <dt>MSOffice:</dt>
-	        <dd>Oikoluku ja tavutusohjelma integroitu Windowsin Microsoft Officeen ja
-	            Maciin.</dd>
+	        <dd>Oikoluku ja tavutusohjelma integroitu Microsoft Officeen.</dd>
 
 	        <dt>OpenOffice.org:</dt>
-	        <dd>Oikolukuohjelma, mahdollisesti tavustusohjelma, integroitu  OpenOffice.orgiin, kaikkiin kolmeen käyttöjärjestelmiin.</dd>
+	        <dd>Oikolukuohjelma, mahdollisesti tavustusohjelma, integroituna OpenOffice.orgiin, kaikkiin kolmeen käyttöjärjestelmään.</dd>
 	      </dl>
  
 	      <p>Joulukuussa 2004 ohjausryhmän kokouksessa päätetty virallinen aikataulu jokaiselle puolivuotiskaudelle, alkamis- ja päättymispäivineen, ja virstanpylvineen:</p>
@@ -70,10 +69,10 @@
             <dd>Ulkoistettujen töiden hakupäivä. Infrastruktuuri on valmis, projektiorganisaatio ja -kommunikaatio toimii moitteettomasti.</dd>
 
             <dt>1. tammikuuta 2006:</dt>
-            <dd>Ulkoistettujen palvelujen alihankkijoiden työsopimukset ovat valmiiksi neuvoteltuja ja allekirjoitettuja, yhteistyö alihankkijoiden kanssa on aloitettu. Ensimmäinen avoimeen lähdekoodiin perustuva oikolukuohjelma on valmis. (aSpell-ALFA).</dd>
+            <dd>Ulkoistettujen palvelujen alihankkijoiden työsopimukset ovat valmiiksi neuvoteltuja ja allekirjoitettua, yhteistyö alihankkijoiden kanssa on aloitettu. Ensimmäinen avoimeen lähdekoodiin perustuva oikolukuohjelma on valmis. (aSpell-ALFA).</dd>
 
             <dt>1. heinäkuuta 2006:</dt>
-            <dd>Ensimmäinen testiversio pohjois- ja luulajansaamen oikolukuohjelmista toimistoohjelmille  (MSOffice-ALFA, OpenOffice.org-ALFA), ensimmäinen testiversio pohjoissaamen tavutusohjelmasta  (InDesign-ALFA). Tekstien keräys on valmis ja päättyy.</dd>
+            <dd>Ensimmäinen testiversio pohjois- ja luulajansaamen oikolukuohjelmista toimisto-ohjelmille  (MSOffice-ALFA, OpenOffice.org-ALFA), ensimmäinen testiversio pohjoissaamen tavutusohjelmasta  (InDesign-ALFA). Tekstien keräys on valmis ja päättyy.</dd>
 
             <dt>1. tammikuuta 2007:</dt>
             <dd>Toinen testiversio kaikista oikolukuvälineistä on valmis (aSpell-BETA,
@@ -84,10 +83,10 @@
                 InDesign-FINAL).</dd>
 
             <dt>30. syyskuuta 2007</dt>
-            <dd>Projekti päättyy, dokumentaatio ja projektitieto on kirjoitettu ja annettu pysyvälle ylläpitojärjestölle. Mahdolliset korjaukset 1.0-version on jo tehty.</dd>
+            <dd>Projekti päättyy, dokumentaatio ja projektitieto on kirjoitettu ja annettu pysyvälle ylläpitojärjestölle. Mahdolliset korjaukset 1.0-versioon on jo tehty.</dd>
 	      </dl>
 
-        <p>Korjausohjelmat tarvitsevat aina päivityksiä, sekä kielellisiä (kieli muuttuu koko ajan) ja teknisiä (käyttöjärjestelmistä ja ohjelmista tulee jatkuvasti uusia versioita). Sen takia on tarpeellista perustaa pysyvä, vastuullinen järjestö, joka vastaa kielellisistä ja teknisistä päivityksistä. Toinen tehtävä tällaiselle ylläpitojärjestölle on vastaavien työkalujen tekeminen eteläsaamelle.
+        <p>Korjausohjelmat tarvitsevat aina päivityksiä, sekä kielellisiä (kieli muuttuu koko ajan) että teknisiä (käyttöjärjestelmistä ja ohjelmista tulee jatkuvasti uusia versioita). Sen takia on tarpeellista perustaa pysyvä, vastuullinen järjestö, joka vastaa kielellisistä ja teknisistä päivityksistä. Toinen tehtävä tällaiselle ylläpitojärjestölle on vastaavien työkalujen tekeminen eteläsaamelle.
        </p>
 
         </section>
