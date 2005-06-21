@@ -16,7 +16,7 @@
       xmlns="http://apache.org/forrest/linkmap/1.0"
       xmlns:xi="http://www.w3.org/2001/XInclude"
       xmlns:ns="http://apache.org/forrest/linkmap/1.0">
-  <about label="Home" tab="Home">
+  <about label="Davvisámegillii" tab="Home"> <!-- Davvisámegiella as label -->
     <index description="Bures boahttin divvun.no prošektii"
            href="index.se.html" label="Álgosiidu" />
 
@@ -42,7 +42,7 @@
 
   <!-- These four menus are needed until we have a working i18n solution -->
 
-  <lule label="Julevsámegiella" tab="lule-sami">
+  <lule label="Julevsámegiellaj" tab="lule-sami">
     <index href="index.smj.html" label="Álggosijdo" />
 
     <lang description="Prosjevta giellapolitihkka" href="lang-policy.smj.html"
@@ -58,7 +58,7 @@
            href="sma-background.nb.html" label="Oarjjilijsábme" />
   </lule>
 
-  <norsk label="Norsk" tab="norsk">
+  <norsk label="På norsk" tab="norsk">
     <index description="Velkommen til prosjektet divvun.no"
            href="index.nb.html" label="Startside" />
 
@@ -91,7 +91,7 @@
            href="sma-background.se.html" label="Eteläsaame" />
   </suomeksi>
 
-  <english label="English" tab="english">
+  <english label="In English" tab="english">
     <index description="Welcome to the divvun.no project" href="index.en.html"
            label="Start page" />
 
