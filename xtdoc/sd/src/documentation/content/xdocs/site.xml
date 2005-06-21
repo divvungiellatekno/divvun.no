@@ -1,5 +1,5 @@
-<?xml version = '1.0'?>
-  <!--
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
     Forrest site.xml
 
     This file contains an outline of the site's information content.  It is used to:
@@ -12,102 +12,135 @@
 
     See http://forrest.apache.org/docs/linking.html for more info
     -->
-<site xmlns="http://apache.org/forrest/linkmap/1.0" href="" label="MyProj" tab="" >
-    <about label="Home" tab="Home" >
-        <index href="index.se.html" label="Álgosiidu" 
-            description="Bures boahttin divvun.no prošektii" />
-        <lang href="lang-policy.se.html" label="Giellapolitihkka" 
-            description="Proseavtta giellapolitihkka" />
-        <timetable href="timetable.se.html" label="Plána" 
-            description="Prošeavtta plánat" />
-	<spelling href="howmake.se.html" label="Mo reaiddut ráhkaduvvot" 
-		  description="Mo reaiddut ráhkaduvvot" />
-	<matta href="sma-background.se.html" label="Máttasámegiella"
-	       description="Manne máttasámegiella ii leat oassi prošeavttas" />
-		<!--
+<site href="" label="MyProj" tab=""
+      xmlns="http://apache.org/forrest/linkmap/1.0"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:ns="http://apache.org/forrest/linkmap/1.0">
+  <about label="Home" tab="Home">
+    <index description="Bures boahttin divvun.no prošektii"
+           href="index.se.html" label="Álgosiidu" />
+
+    <lang description="Proseavtta giellapolitihkka" href="lang-policy.se.html"
+          label="Giellapolitihkka" />
+
+    <timetable description="Prošeavtta plánat" href="timetable.se.html"
+               label="Plána" />
+
+    <spelling description="Mo reaiddut ráhkaduvvot" href="howmake.se.html"
+              label="Mo reaiddut ráhkaduvvot" />
+
+    <matta description="Manne máttasámegiella ii leat oassi prošeavttas"
+           href="sma-background.se.html" label="Máttasámegiella" />
+
+    <!--
 	        <all_site label="Full HTML" href="wholesite.html"/>    
 		<all_sitePDF label="Full PDF" href="wholesite.pdf"/>  
 		-->
-    </about>
-<!-- the three lines before the closing about tag are mine, trond -->
+  </about>
 
-<!-- These four menus are needed until we have a working i18n solution -->
-	<lule label="Julevsámegiella" tab="lule-sami">
-		<index href="index.smj.html" label="Álgusiidu [smj]"/>
-		<lang href="lang-policy.smj.html" label="Giellapolitihkka [smj]" 
-		      description="Proseavtta giellapolitihkka" />
-		<timetable href="timetable.smj.html" label="Plána [smj]" 
-			   description="Prošeavtta plánat" />
-		<spelling href="howmake.smj.html" label="Mo reaiddut ráhkaduvvot [smj]" 
-			  description="Mo reaiddut ráhkaduvvot" />
-		<matta href="sma-background.nb.html" label="Sørsamisk"
-		       description="Hvorfor sørsamisk ikke er en del av prosjektet" />
-	</lule>
-	
-	<norsk label="Norsk" tab="norsk">
-		<index href="index.nb.html" label="Startside"
-		       description="Velkommen til prosjektet divvun.no"/>
-		<lang href="lang-policy.nb.html" label="Språkpolitikk" 
-		      description="Prosjektets språkpolitikk" />
-		<timetable href="timetable.nb.html" label="Plan" 
-			   description="Tidsplan" />
-		<spelling href="howmake.nb.html" label="Hvordan verktøyene lages" 
-			  description="Hvordan verktøyene lages" />
-		<matta href="sma-background.nb.html" label="Sørsamisk"
-		       description="Hvorfor sørsamisk ikke er en del av prosjektet" />
-	</norsk>
-	
-	<suomeksi label="Suomeksi" tab="suomeksi">
-		<index href="index.fi.html" label="Aloitussivu"
-		       description="Tervetuloa divvun.no projektiin"/>
-		<lang href="lang-policy.fi.html" label="Kielipolitiikka" 
-		      description="Projektin kielipolitiikka" />
-		<timetable href="timetable.fi.html" label="Suunnitelma" 
-			   description="Aikataulu" />
-		<spelling href="howmake.fi.html" label="Kuinka ohjelmistot tehdään" 
-			  description="Lyhyt kuvaus ohjelmistjen tekoprosessista" />
-		<matta href="sma-background.se.html" label="Eteläsaame"
-		       description="Miksi eteläsaame ei kuulu projektiin" />
-	</suomeksi>
-    
-	<english label="English" tab="english">
-		<index href="index.en.html" label="Start page"
-		       description="Welcome to the divvun.no project"/>
-		<lang href="lang-policy.en.html" label="Language policy" 
-		      description="The projects' language policy" />
-		<timetable href="timetable.en.html" label="Plan" 
-			   description="Time table" />
-		<spelling href="howmake.en.html" label="How the tools are made" 
-			  description="Short description on how the tools are made" />
-	</english>
-	
-<xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab != 'how'])"
-                xmlns:xi="http://www.w3.org/2001/XInclude"/>
+  <!-- the three lines before the closing about tag are mine, trond -->
 
-    <!--
+  <!-- These four menus are needed until we have a working i18n solution -->
+
+  <lule label="Julevsámegiella" tab="lule-sami">
+    <index href="index.smj.html" label="Álggosijdo" />
+
+    <lang description="Prosjevta giellapolitihkka" href="lang-policy.smj.html"
+          label="Giellapolitihkka " />
+
+    <timetable description="Prosjevta plána" href="timetable.smj.html"
+               label="Plána" />
+
+    <spelling description="Gåktu nævvo dagáduvvi" href="howmake.smj.html"
+              label="Gåktu nævvo dagáduvvi" />
+
+    <matta description="Manen oarjjilijsábme ij la oassen prosjevtas"
+           href="sma-background.nb.html" label="Oarjjilijsábme" />
+  </lule>
+
+  <norsk label="Norsk" tab="norsk">
+    <index description="Velkommen til prosjektet divvun.no"
+           href="index.nb.html" label="Startside" />
+
+    <lang description="Prosjektets språkpolitikk" href="lang-policy.nb.html"
+          label="Språkpolitikk" />
+
+    <timetable description="Tidsplan" href="timetable.nb.html" label="Plan" />
+
+    <spelling description="Hvordan verktøyene lages" href="howmake.nb.html"
+              label="Hvordan verktøyene lages" />
+
+    <matta description="Hvorfor sørsamisk ikke er en del av prosjektet"
+           href="sma-background.nb.html" label="Sørsamisk" />
+  </norsk>
+
+  <suomeksi label="Suomeksi" tab="suomeksi">
+    <index description="Tervetuloa divvun.no projektiin" href="index.fi.html"
+           label="Aloitussivu" />
+
+    <lang description="Projektin kielipolitiikka" href="lang-policy.fi.html"
+          label="Kielipolitiikka" />
+
+    <timetable description="Aikataulu" href="timetable.fi.html"
+               label="Suunnitelma" />
+
+    <spelling description="Lyhyt kuvaus ohjelmistjen tekoprosessista"
+              href="howmake.fi.html" label="Kuinka ohjelmistot tehdään" />
+
+    <matta description="Miksi eteläsaame ei kuulu projektiin"
+           href="sma-background.se.html" label="Eteläsaame" />
+  </suomeksi>
+
+  <english label="English" tab="english">
+    <index description="Welcome to the divvun.no project" href="index.en.html"
+           label="Start page" />
+
+    <lang description="The projects' language policy"
+          href="lang-policy.en.html" label="Language policy" />
+
+    <timetable description="Time table" href="timetable.en.html" label="Plan" />
+
+    <spelling description="Short description on how the tools are made"
+              href="howmake.en.html" label="How the tools are made" />
+  </english>
+
+  <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab != 'how'])" />
+
+  <!--
         The href must be wholesite.html/pdf  You can change the labels and node names <all label="All">
     <whole_site_html label="Whole Site HTML" href="wholesite.html"/>
     <whole_site_pdf label="Whole Site PDF" href="wholesite.pdf"/>
       </all>
         -->
-    <adm label="Administration" tab="adm" href="adm/" >
-      <overview href="index.html" label="Index" description="Administrative documentation" />
-    </adm>
-    
-    <monthly label="Monthly reports" tab="adm" href="adm/reports/" >
-      <overview href="monthoverview.html" label="Overview" description="Overview over monthly reports" />
-      <apr05 href="monthly04.html" label="Apr '05" description="Report for April '05"    />
-      <mar05 href="monthly03.html" label="Mar '05" description="Report for March '05"    />
-      <feb05 href="monthly02.html" label="Feb '05" description="Report for February '05" />
-      <jan05 href="monthly01.html" label="Jan '05" description="Report for January '05"  />
-      <ond04 href="monthly00.html" label="Oct-Dec '04" description="Report for October-December '04" />
-    </monthly>
-    
-    <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab = 'how'])"
-                xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
+  <adm href="adm/" label="Administration" tab="adm">
+    <overview description="Administrative documentation" href="index.html"
+              label="Index" />
+  </adm>
 
-    <external-refs>
-      <disamb href="http://giellatekno.uit.no/" />
-    </external-refs>
+  <monthly href="adm/reports/" label="Monthly reports" tab="adm">
+    <overview description="Overview over monthly reports"
+              href="monthoverview.html" label="Overview" />
+
+    <apr05 description="Report for April '05" href="monthly04.html"
+           label="Apr '05" />
+
+    <mar05 description="Report for March '05" href="monthly03.html"
+           label="Mar '05" />
+
+    <feb05 description="Report for February '05" href="monthly02.html"
+           label="Feb '05" />
+
+    <jan05 description="Report for January '05" href="monthly01.html"
+           label="Jan '05" />
+
+    <ond04 description="Report for October-December '04" href="monthly00.html"
+           label="Oct-Dec '04" />
+  </monthly>
+
+  <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab = 'how'])" />
+
+  <external-refs>
+    <disamb href="http://giellatekno.uit.no/" />
+  </external-refs>
 </site>
