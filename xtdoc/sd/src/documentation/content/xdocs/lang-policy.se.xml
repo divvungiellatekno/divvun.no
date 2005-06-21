@@ -1,33 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-                          "http://forrest.apache.org/dtd/document-v20.dtd">
+"http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
-    <header> 
-        <title>Divvun-prošeavtta giellapolitihkka</title>
+  <header>
+    <title>Divvun-prošeavtta giellapolitihkka</title>
 
-	<authors>
-	  <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
-	</authors>
+    <authors>
+      <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
 
-    </header>
-    <body>
-        <section>
-          <title>Divvun-prošeavtta giellapolitihkka</title>
+  <body>
+    <section>
+      <title>Divvun-prošeavtta giellapolitihkka</title>
 
-          <p>Prošeavttas lea iežas giellapolitihkka mii mearrida makkár dieđut galget guđetge gillii.</p>
+      <p>Prošeavttas lea iežas giellapolitihkka mii mearrida makkár dieđut
+      galget guđege gillii.</p>
 
-        <dl>
-          <dt>Oppalaš dieđut:</dt>
-          <dd>Davvisámegillii, julevsámegiellii, suomagillii, dárogillii ja eŋgelasgillii</dd>
-          <dt>Geavaheaddjedokumentašuvdna:</dt>
-          <dd>Seamma gillii go reaidu, eanelohkogillii dan riikkas gos giella geavahuvvo ja eŋgelasgillii</dd>
-          <dt>Teknihkkálaš, prošeavttasiskkildas dokumentašuvdna:</dt>
-          <dd>eŋgelasgillii, eará gielaide dárbbu mielde</dd>
-        </dl>
+      <dl>
+        <dt>Oppalaš dieđut:</dt>
 
-        <p>Mii oaivvildit, ja sávvat dát giellapolitihkka prošeavtta hárrái gokčá buot berošteddjiid ja geavaheddjiid dárbbuid, ja addá buohkáide dárbbašlaš dieđuid.</p>
+        <dd>Davvisámegillii, julevsámegiellii, suomagillii, dárogillii ja
+        eŋgelasgillii</dd>
 
-	    <p class="last_modified">Maŋemuš rievdaduvvun: $Date$, av $Author$</p>
-        </section>
-    </body>
+        <dt>Geavaheaddjedokumentašuvdna:</dt>
+
+        <dd>Seamma gillii go reaidu, eanetlohkogillii dan riikkas gos giella
+        geavahuvvo ja eŋgelasgillii</dd>
+
+        <dt>Teknihkálaš, prošeavttasiskkáldas dokumentašuvdna:</dt>
+
+        <dd>eŋgelasgillii, eará gielaide dárbbu mielde</dd>
+      </dl>
+
+      <p>Mii oaivvildit, ja sávvat dát giellapolitihkka prošeavtta hárrái
+      gokčá buot berošteddjiid ja geavaheddjiid dárbbuid, ja addá buohkáide
+      dárbbašlaš dieđuid.</p>
+
+      <p class="last_modified">Maŋemuš rievdaduvvun: $Date: 2005/06/19
+      23:42:09 $, av $Author$</p>
+    </section>
+  </body>
 </document>
