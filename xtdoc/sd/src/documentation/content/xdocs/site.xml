@@ -58,16 +58,16 @@
 	</norsk>
 	
 	<suomeksi label="Suomeksi" tab="suomeksi">
-		<index href="index.fi.html" label="Startside [fi]"
-		       description="Velkommen til prosjektet divvun.no"/>
-		<lang href="lang-policy.fi.html" label="Språkpolitikk [fi]" 
-		      description="Prosjektets språkpolitikk" />
-		<timetable href="timetable.fi.html" label="Plan [fi]" 
-			   description="Tidsplan" />
-		<spelling href="howmake.fi.html" label="Hvordan verktøyene lages [fi]" 
-			  description="Hvordan verktøyene lages" />
-		<matta href="sma-background.se.html" label="Sørsamisk [fi]"
-		       description="Hvorfor sørsamisk ikke er en del av prosjektet" />
+		<index href="index.fi.html" label="Aloitussivu"
+		       description="Tervetuloa divvun.no projektiin"/>
+		<lang href="lang-policy.fi.html" label="Kielipolitiikka" 
+		      description="Projektin kielipolitiikka" />
+		<timetable href="timetable.fi.html" label="Suunnitelma" 
+			   description="Aikataulu" />
+		<spelling href="howmake.fi.html" label="Kuinka ohjelmistot tehdään" 
+			  description="Lyhyt kuvaus ohjelmistjen tekoprosessista" />
+		<matta href="sma-background.se.html" label="Eteläsaame"
+		       description="Miksi eteläsaame ei kuulu projektiin" />
 	</suomeksi>
     
 	<english label="English" tab="english">
