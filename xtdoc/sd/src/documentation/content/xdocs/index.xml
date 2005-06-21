@@ -167,9 +167,9 @@
       <p>Prošeakta fállá árra geahččalanveršuvnnaid (nugohčoduvvun alfa- ja
       betaveršuvnnat) berošteddjiide. Go vuosttáš geahččalanveršuvdna lea
       gárvvis, mii fállat eanet dieđuid geahččaleami ja geavaheami birra. Min
-      <a href="timetable.se.html">dárkilis plánas</a> gávnnat oláhusaid sierra
+      <a href="timetable.html">dárkilis plánas</a> gávnnat oláhusaid sierra
       veršuvnnaid várás ja mis lea maid oanehis čilgehus <a
-      href="howmake.se.html">mo mii ráhkadit</a> dáid reaidduid. Vel eanet
+      href="howmake.html">mo mii ráhkadit</a> dáid reaidduid. Vel eanet
       dieđuid gávnnat dás vuolábealde.</p>
     </section>
 
@@ -177,7 +177,7 @@
       <title>Proševtta giellapolitihkka</title>
 
       <p>Prošeakta lea moanágielat, ja dat <a
-      href="lang-policy.se.html">guoská maiddái</a> dokumentašuvdnii maid mii
+      href="lang-policy.html">guoská maiddái</a> dokumentašuvdnii maid mii
       ráhkadit.</p>
 
       <p>Prošeavttas ii leat iežaš politihkka sámi čállingiela hárrái, ja
@@ -193,15 +193,16 @@
         <li><a href="mailto:divvun smárfealfa samediggi čuokkis no">Prošeavtta
         e-boastačujuhus</a></li>
 
-        <li><a href="">Aspell</a></li>
+	<li><a href="http://aspell.sourceforge.net/">Aspell</a></li>
 
-        <li><a href="">OpenOffice.org</a></li>
+        <li><a href="http://www.openoffice.org/">OpenOffice.org</a></li>
 
-        <li><a href="">Xerox FST-reaiddut</a></li>
+	<li><a href="http://www.xrce.xerox.com/competencies/content-analysis/fst/">Xerox FST-reaiddut</a></li>
       </ul>
 
       <p class="last_modified">Maŋemuš rievdaduvvon: $Date: 2005/06/19
-      23:42:09 $, by $Author$</p>
+		      23:42:09 $, by $Author$
+      </p>
     </section>
   </body>
 </document>

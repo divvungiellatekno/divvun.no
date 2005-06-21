@@ -16,61 +16,43 @@
     <section>
       <title>Ovdahistorjá</title>
 
-      <p>Álgovuolggálaš plána  <em>divvun.no</em> ovddas lei ráhkadit čállindárkkistánreaidduit golmma gielaid várás, dávvi-, julev- ja máttasámegiella. Plánenáigodagas guđiimet liikká máttasámegiela olggobeallái, dáid sivaid dihte:</p>
+      <p>Álgovuolggálaš plána  <em>divvun.no</em> ovddas lei ráhkadit čállindárkkistánreaidduit golmma gielaid várás, dávvi-, julev- ja máttasámegillii. Plánenáigodagas guđiimet liikká máttasámegiela olggobeallái, dáid sivaid dihte:</p>
 
       <ol>
         <li>Go divvun-prográmma álggahuvvui de ledje davvi- ja julevsámegielat analisáhtorat gárvvis, muhto ii máttasámegielat analisáhtor (maid Sjur N. Moshagen ja Trond Trosterud leaba ráhkadan).<ul>
-            <li>UiTø hadde ikke tilgang til ei liste over sørsamiske ord, med
-            stammeklasseinformasjon, elektruvnnalaš hámis. Nu guhkágo analisáhtoris ii leat dákkár listu, de dat lea dušše čájehanprográmma, maid ii sáhte geavahit praktihkalaččat.</li>
+            <li>UiTø:as ii lean máttasámegielat sátnelistu, mas leat doarvái grámmatihkalaš dieđut, elektruvnnalaš hámis. Jus ii gávdno analisáhtorii dákkár listtu, de dat lea dušše čájehanprográmma, maid ii sáhte geavahit praktihkalaččat.</li>
 
-            <li>De grammatikkene som eksisterer for sørsamisk er ikke
-            uttømmende nok til å lage gode analysatorer, dárbbašuvvo eanet vuođđodutkan ovdalgo leat doarvái buori dieđut máttasámegielat grámmatihkas.</li>
+            <li>Máttasámegielat grámmatihkain mat gávdnojit eai leat doarvái vuđolaš dieđuid ráhkadit buori analisáhtoriid. Dárbbašuvvo eanet vuođđodutkan ovdalgo leat doarvái buori dieđut máttasámegielat grámmatihkas.</li>
           </ul></li>
 
-        <li>Språkteknologiprosjektet ved Universitetet i Tromsø fikk avslag på
-        en søknad til Forskingsrådet om å arbeide videre med den sørsamiske
-        analysatoren, Forskingsrådet sine referenter så det som viktigere for
-        prosjektet å konsentrere seg om nord- og lulesamisk, der den
-        grunnleggende infrastrukturen var på plass.</li>
+        <li>Dutkanráđđi hilggui Romssa universitehta giellateknologiijaprošeavtta ohcama bargat viidáseapput máttasámi analisáhtoriin, dannego dutkanráđi anii dan dehálebbon joatkkit barggu davvi- ja julevsámegielain, gos vuođđostruktuvra juo gávdnui.</li>
       </ol>
 
-      <p>Dannego máttasámegielat analisáhtor ii lean gárvvis, ja lei eahpesihkkar man ollu bargu lea dan gárvvistit, de Sámediggi ii sáhttán váldit máttasámegiela fárrui divvun-prošektii dán háve, men vil komme tilbake til spørsmålet senere, gč. boahtte teakstabihtás.</p>
+      <p>Dannego máttasámegielat analisáhtor ii lean gárvvis, ja lei eahpesihkkar man ollu bargu lea dan gárvvistit, de Sámediggi ii sáhttán váldit máttasámegiela fárrui divvun-prošektii dán háve, muhto atná dan dehálažžan oažžogoahttit dan barggu johtui, gč. boahtte teakstabihtás.</p>
     </section>
 
     <section>
-      <title>Planer for sørsamisk i framtida</title>
+      <title>Boahtteáiggi plánat máttasámegiela várás</title>
 
-      <p>Både Universitetet i Tromsø og Sametinget er svært interessert i
-      å arbeide med sørsamisk språkteknologi. For å få framgang i arbeidet med
-      sørsamisk, må disse forutsetningene være på plass:</p>
+      <p>Sihke Sámedikki ja Romssa universitehta mielas lea miellagiddevaš bargat máttasámegielat giellateknologiijain. Vai oažžogaohtit dán barggu johtui, de dát eavttut fertet leat čielggaduvvon:</p>
 
       <ol>
-        <li>Prosjektet må ha tilgang til ei liste over sørsamiske ord, med
-        stammeklasseinformasjon, i elektronisk form</li>
+        <li>Prošeavttas ferte leat vejolašvuohta geavahit máttasámegielat elektruvnnalaš sátnelisttu, mas leat doarvái grámmatihkalaš dieđut</li>
 
-        <li>Det trengs mer opplysninger om sørsamisk grammatikk, f.eks. i form
-        av en ny referenasegrammatikk. Eksempel på åpne spørsmål er
-        adjektivbøyinga, og behandlinga av låneord.</li>
+        <li>Dárbbašuvvo eanet dieđuid máttasámegielat grámmatihkas, várra ođđa referánsagrámmatihkka. Ovdamearka dihte váilot dieđut adjektiivasojaheami birra ja mo loatnasánit gieđahuvvot.</li>
 
         <li>Giinu ferte buoridit dálá máttasámegielat <a
-        href="http://giellatekno.uit.no/a-sma.html">analisáhtora</a> og <a
-        href="http://giellatekno.uit.no/g-sma.html">generáhtora</a> ollislaš automáhtii (i dag dekker den bare substantivbøying og lukkede
-        ordklasser). Dette kan f.eks. bli gjort som et prosjekt ved
-        Universitetet i Tromsø, i samarbeid med sørsamiske lingvister</li>
+        href="http://giellatekno.uit.no/a-sma.html">analisáhtora</a> ja <a
+        href="http://giellatekno.uit.no/g-sma.html">generáhtora</a> ollislaš automáhtii (otne dat gokčá dušše substantiivasojaheami ja moadde smávit sátneluohkáid). Dán barggu sáhttá ovdamearka dihte dahkat Romssa universitehta bokte, ovttas máttasámegielat lingvisttaiguin.</li>
 
-        <li>Deretter kan Sametingets divvun-prosjekt, i samarbeid med
-        sørsamisk språknemd, utvikle analysatoren til et
-        stavekontrollprogram</li>
+        <li>Dan maŋŋá sáhttá Sámedikki divvun-prošeakta, ovttas máttasámegielat giellalávdegottiin, ráhkadišgoahtit analisáhtora čállindárkkistanprográmmii.</li>
       </ol>
 
-      <p>For å få til dette trengs det målretta samarbeid i arbeidet med
-      sørsamisk.</p>
-
        <section>
-      <title>Andre samiske språk</title>
-<p>I løpet av planleggingsfasen til dette prosjektet ble det ikke vurdert å lage stavekontrollprogram for enare-, skolte- eller kildinsamisk. Det norske sametinget har prioritert de samiske språka som blir snakka i Norge. Universitetet i Tromsø har analysatorer for disse språka, men bare skissemessige versjoner for enare- og skoltesamisk (se den <a href="doc/lang/smn/j-smn.html">enaresamiske</a> og <a href="doc/lang/sms/j-sms.html">skoltesamiske</a> dokumentasjonen). Ingenting har blitt gjort for kildinsamisk.</p>
+      <title>Eará sámegielat</title>
+<p>Dán prošeavtta plánenáigodagas eai vuoruhuvvon anár-, nuorta- ja gieldasámegielat. Norgga sámediggi vuorihii daid sámegielaid mat hubmejuvvot Norggas. Romssa universitehtas leat analisáhtorat dáid gielaid várás, muhto dušše oktageardánat veršuvnnat anár- ja nuortasámegiela várás (geahča <a href="doc/lang/smn/j-smn.html">anársámi</a> og <a href="doc/lang/sms/j-sms.html">nuortasámi</a> dokumentašuvnna). Ii mihkkiige lea dáhkkon gieldasámegielain.</p>
 
-<p>Infrastrukturen som blir laga for nord- og lulesamisk kan selvfølgelig brukes for arbeid med de andre samiske språka i framtida, så på den måten vil arbeidet som blir gjort nå være relevant for enare- skolte- og kildinsamisk også.</p>
+<p>Infrastruktuvrra mii ráhkdaduvvo davvi- ja julevsámegiela várás, sáhttá dieđusge geavahit eará sámegielaide boahtteáiggis, nu ahte dálá bargu lea maid ovttaláhkái relevánta anár- ja nuortasámegiela várás.</p>
     </section>
 
 <p class="last_modified">Maŋemuš rievdadus: $Date$, by $Author$</p>

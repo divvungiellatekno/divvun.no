@@ -109,9 +109,9 @@
 
         <ul>
           <li><a href="mailto:divvun ved samediggi punkt no">E-mail to the project</a></li>
-          <li><a href="">Aspell</a></li>
-          <li><a href="">OpenOffice</a></li>
-          <li><a href="">Xerox FST-tools</a></li>
+          <li><a href="http://aspell.sourceforge.net/">Aspell</a></li>
+          <li><a href="http://www.openoffice.org/">OpenOffice</a></li>
+	  <li><a href="http://www.xrce.xerox.com/competencies/content-analysis/fst/">Xerox FST-tools</a></li>
         </ul>
 	
 	<p class="last_modified">Last modified: $Date$, by $Author$</p>

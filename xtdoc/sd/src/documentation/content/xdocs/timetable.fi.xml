@@ -97,6 +97,6 @@
           
           
           
-	    <p>Päivitetty: $Date$, by $Author$</p>
+	    <p class="last_modified">Päivitetty: $Date$, by $Author$</p>
            </body>
 </document>
