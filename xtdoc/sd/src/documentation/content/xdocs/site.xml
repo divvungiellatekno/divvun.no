@@ -1,19 +1,4 @@
 <?xml version = '1.0'?>
-<!--
-    Copyright 2002-2004 The Apache Software Foundation
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-  -->
   <!--
     Forrest site.xml
 
@@ -29,19 +14,74 @@
     -->
 <site xmlns="http://apache.org/forrest/linkmap/1.0" href="" label="MyProj" tab="" >
     <about label="Home" tab="Home" >
-        <index href="index.html" label="Index" 
-            description="Welcome to divvun.no" />
-        <changes href="history.html" label="History" 
-            description="The projects history" />
-        <todo href="plan.html" label="Plan" 
-            description="The plan for the project" />
-	    tab="home" label="About" href="">
+        <index href="index.se.html" label="Álgosiidu" 
+            description="Bures boahttin divvun.no prošektii" />
+        <lang href="lang-policy.se.html" label="Giellapolitihkka" 
+            description="Proseavtta giellapolitihkka" />
+        <timetable href="timetable.se.html" label="Plána" 
+            description="Prošeavtta plánat" />
+	<spelling href="howmake.se.html" label="Mo reaiddut ráhkaduvvot" 
+		  description="Mo reaiddut ráhkaduvvot" />
+	<matta href="sma-background.se.html" label="Máttasámegiella"
+	       description="Manne máttasámegiella ii leat oassi prošeavttas" />
+		<!--
 	        <all_site label="Full HTML" href="wholesite.html"/>    
 		<all_sitePDF label="Full PDF" href="wholesite.pdf"/>  
+		-->
     </about>
 <!-- the three lines before the closing about tag are mine, trond -->
 
-    <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab != 'how'])"
+<!-- These four menus are needed until we have a working i18n solution -->
+	<lule label="Julevsámegiella" tab="lule-sami">
+		<index href="index.smj.html" label="Álgusiidu [smj]"/>
+		<lang href="lang-policy.smj.html" label="Giellapolitihkka [smj]" 
+		      description="Proseavtta giellapolitihkka" />
+		<timetable href="timetable.smj.html" label="Plána [smj]" 
+			   description="Prošeavtta plánat" />
+		<spelling href="howmake.smj.html" label="Mo reaiddut ráhkaduvvot [smj]" 
+			  description="Mo reaiddut ráhkaduvvot" />
+		<matta href="sma-background.nb.html" label="Sørsamisk"
+		       description="Hvorfor sørsamisk ikke er en del av prosjektet" />
+	</lule>
+	
+	<norsk label="Norsk" tab="norsk">
+		<index href="index.nb.html" label="Startside"
+		       description="Velkommen til prosjektet divvun.no"/>
+		<lang href="lang-policy.nb.html" label="Språkpolitikk" 
+		      description="Prosjektets språkpolitikk" />
+		<timetable href="timetable.nb.html" label="Plan" 
+			   description="Tidsplan" />
+		<spelling href="howmake.nb.html" label="Hvordan verktøyene lages" 
+			  description="Hvordan verktøyene lages" />
+		<matta href="sma-background.nb.html" label="Sørsamisk"
+		       description="Hvorfor sørsamisk ikke er en del av prosjektet" />
+	</norsk>
+	
+	<suomeksi label="Suomeksi" tab="suomeksi">
+		<index href="index.fi.html" label="Startside [fi]"
+		       description="Velkommen til prosjektet divvun.no"/>
+		<lang href="lang-policy.fi.html" label="Språkpolitikk [fi]" 
+		      description="Prosjektets språkpolitikk" />
+		<timetable href="timetable.fi.html" label="Plan [fi]" 
+			   description="Tidsplan" />
+		<spelling href="howmake.fi.html" label="Hvordan verktøyene lages [fi]" 
+			  description="Hvordan verktøyene lages" />
+		<matta href="sma-background.se.html" label="Sørsamisk [fi]"
+		       description="Hvorfor sørsamisk ikke er en del av prosjektet" />
+	</suomeksi>
+    
+	<english label="English" tab="english">
+		<index href="index.en.html" label="Start page"
+		       description="Welcome to the divvun.no project"/>
+		<lang href="lang-policy.en.html" label="Language policy" 
+		      description="The projects' language policy" />
+		<timetable href="timetable.en.html" label="Plan" 
+			   description="Time table" />
+		<spelling href="howmake.en.html" label="How the tools are made" 
+			  description="Short description on how the tools are made" />
+	</english>
+	
+<xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab != 'how'])"
                 xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
     <!--

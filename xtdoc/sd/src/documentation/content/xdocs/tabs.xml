@@ -20,7 +20,7 @@
         <tab id="reports" label="Raporttat" dir="adm/reports" indexfile="monthoverview.html" />
     </tab>
 
-    <tab href="http://giellatekno.uit.no" label="Sámi Disamb. Proj." />
+    <tab href="http://giellatekno.uit.no" label="Sámi disamb. proj." />
 
     <xi:include href="doc/tabs-frag.xml#xpointer(/tabs/tab[1])" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
