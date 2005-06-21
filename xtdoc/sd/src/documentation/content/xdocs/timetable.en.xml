@@ -39,82 +39,78 @@
 	        translated.</dd>
 
 	        <dt>BETA:</dt>
-	        <dd>Korrekturprogrammene is in hovedsak ferdige og stabile, brukerdokumentationen
-	            komplett men not tilgjengelig på alle språk, not heller korrekturlest.
-	            Stort sett lingvistically komplett,
-	            men det kan ennå finnes ord som mangler. Særlig gjelder dette
-	            lulesamisk.</dd>
+	        <dd>The spellcheckers are more or less finished and stable, user documentation
+	            is complete but not accessible in all languages, and not proofread.
+	            Linguistically the programs are more or less complete, but there may still
+	            be open issues, especially when it comes to Lule Sámi.</dd>
 
 	        <dt>FINAL:</dt>
-	        <dd>Korrekturprogrammene is grundig testet, is komplette og stabile.
-	            Brukardokumentationen is korrekturlest og oversatt til alle
-	            språk, installeringspakkene is komplette og testede. Korrekturprogrammene
-	            is tilgjengelige for vanlig bruk.</dd>
+	        <dd>The spellcheckers are thoroughly tested, they are complete and stable.
+	            User documentation is proofread and translated to all the relevant languages, 
+	            installation packages are complete and tested. The spellcheckers
+	            are accessible for ordinary usage.</dd>
 
 	        <dt>aSpell:</dt>
-	        <dd>Stavekontroll bygget på åpen kildekode, sannsynligvis aSpell,
-	            tilgjengelig som frittståande komponent for Windows, Linux og MacOS X.</dd>
+	        <dd>Spellchecker based upon open source code, probably aSpell,
+	            accessible as independent component for Windows, Linux and MacOS X.</dd>
 
 	        <dt>InDesign:</dt>
-	        <dd>Orddeling integrert in Adobe InDesign for Mac (eventuelt Windows)</dd>
+	        <dd>Hyphenation integrated in Adobe InDesign for Mac (eventually Windows as well)</dd>
 
 	        <dt>MSOffice:</dt>
-	        <dd>Stavekontroll og orddeling integrert in Microsoft Office for Windows og
+	        <dd>Spellchecker and hyphenation integrated in Microsoft Office for Windows and
 	            Mac.</dd>
 
 	        <dt>OpenOffice.org:</dt>
-	        <dd>Stavekontroll, eventuelt orddeling, integrert in OpenOffice.org, for alle tre
-	            operativsystem.</dd>
+	        <dd>Spellchecker, eventually hyphenation, integrated in OpenOffice.org, for all three 
+	            operative systems.</dd>
 	      </dl>
  
-	      <p>Den offisielle tidsplanen slik den ble vedtatt av prosjektstyret in desember
-	         2004, med start- og sluttdatoer, og milepæler for hvert halvår:</p>
+	      <p>The official timetable as it was decided by the project board in December  2004, with start- and enddates, and with milestones for every six months:</p>
 
 	      <dl>
-            <dt>1. okt. 2004:</dt>
-            <dd>Offisiell startdato, prosjektleder begynner.</dd>
+            <dt>Oct. 1st, 2004:</dt>
+            <dd>Official kickoff, the project leader is appointed.</dd>
 
-            <dt>1. jan. 2005:</dt>
-            <dd>Effektiv startdato, alle prosjektmedarbeiderne ansatt.</dd>
+            <dt>Jan. 1st, 2005:</dt>
+            <dd>Effective kickoff, all project workers employed.</dd>
 
-            <dt>1. jul. 2005:</dt>
-            <dd>Frist for offentlige anbud på de deler av project som lyses ut.
-                Infrastrukturen is ferdig, prosjektorganisation og –kommunikation
-                fungerer tilfredsstillende.</dd>
+            <dt>Jul. 1st, 2005:</dt>
+            <dd>Deadline for public tender on the parts of the project that shall be outsourced.
+                The infrastructure is ready, the project organsiation and communication work
+                in a satisfactory manner.</dd>
 
-            <dt>1. jan. 2006:</dt>
-            <dd>Kontrakt med leverandører av eksterne tjenester is ferdigforhandlet og
-                underskrevet, samarbeidet med leverandørene har startet. First version
-                av nordsamically stavekontroll basert på åpen kildekode ferdig
+            <dt>Jan. 1st, 2006:</dt>
+            <dd>Contract with subcontractor is negotiated and isgned, cooperation with 
+                the subcontractors has started. The first version of an open-source based
+                spellchecker for Northern Sámi is ready.
                 (aSpell-ALPHA).</dd>
 
-            <dt>1. jul. 2006:</dt>
-            <dd>First testversion av nordsamically og lulesamisk stavekontroll for
-                kontorprogram (MSOffice-ALPHA, OpenOffice.org-ALPHA), første testversion
-                av nordsamisk orddeling (InDesign-ALPHA). Tekstinnsamlinga is ferdig
-                og blir avsluttet.</dd>
+            <dt>Jul. 1st, 2006:</dt>
+            <dd>First testversion of Northern Sámi and Lule Sámi spellchecker for 
+                office programs (MSOffice-ALPHA, OpenOffice.org-ALPHA), first testversion
+                of Northern Sámi hyphenator (InDesign-ALPHA). Text collection is done.</dd>
 
-            <dt>1. jan. 2007:</dt>
-            <dd>Andre testversion av alle korrekturprogrammene is ferdig (aSpell-BETA,
+            <dt>Jan. 1st, 2007:</dt>
+            <dd>The second testversions of all the spellcheckers are ready (aSpell-BETA,
                 MSOffice-BETA, OpenOffice.org-BETA, InDesign-BETA).</dd>
 
-            <dt>1. jul. 2007:</dt>
-            <dd>Korrekturverktøyene is ferdige, og version 1.0 blir offentlig
-                tilgjengelig (aSpell-FINAL, MSOffice-FINAL, OpenOffice.org-FINAL,
+            <dt>Jul. 1st, 2007:</dt>
+            <dd>The spellchechers are ready, and version 1.0 is released
+                 (aSpell-FINAL, MSOffice-FINAL, OpenOffice.org-FINAL,
                 InDesign-FINAL).</dd>
 
-            <dt>30. sep. 2007</dt>
-            <dd>Project blir avsluttet, all dokumentation og prosjektinformation
-                is ferdig og blir overlevert en permanent vedlikeholdsorganisation.
-                Eventuelle feil og korrigeringer etter 1.0-versionen is gjort.</dd>
+            <dt>sep. 30tt, 2007</dt>
+            <dd>The project is terminated, all documentation and project information 
+                is finished and delivered to a permanent maintenance organisation.
+                Eventual errors from the 1.0 version are corrected.</dd>
 	      </dl>
 
-        <p>Korrekturprogram vil alltid behøve oppdateringer, både språklige (språket
-           forandrer seg hele tiden) og tekniske (det kommer nye versioner av
-           operativsystem og program). Det vil derfor være nødvendig å ha en permanent
-           driftsorganisation som kan ta ansvar for både språklige og tekniske
-           oppdateringer. Andre oppgaver for den permanente driftsorganisationen
-           vil være å sette in gang arbeidet med tilsvarende sørsamiske verktøy.</p>
+        <p>Spellcheckers will always need to be updated, both linguistically (the language
+           changes all the time) and technical (there are new versions of operative systems and programs).
+           There will thus be necessary to have a permanent maintenance organisation to take care of 
+           both linguistic and technical updatings. Other tasks for this permanent organisation
+	   include initiating work with similar tools for Southern Sámi.</p>
 
         </section>
 
