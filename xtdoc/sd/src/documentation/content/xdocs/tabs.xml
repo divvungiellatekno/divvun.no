@@ -5,10 +5,11 @@
        @indexfile gets appended to @dir if the tab is selected. Defaults to 'index.html'
        @href is not modified unless it is root-relative and obviously specifies a directory
         (ends in '/'), in which case /index.html will be added
-       If @id's are present, site.xml entries with a matching @tab will be in that tab.
+       If @id's are present, site.xml entries with a matching @label will be in that tab.
        Tabs can be embedded to a depth of two. The second level of tabs will only be displayed when their parent tab is selected.
     -->
-    <tab dir="" id="Home" label="Ruoktu" indexfile="index.se.html" >
+<!-- The label in site.xml and tab-id in tabs.xml has to be the same to show only the menu belonging to the id--> 
+    <tab dir="" id="Davvisámegiella" label="Ruoktu" indexfile="index.se.html" >
         <tab dir="" id="lule-sami"     label="Julevsámegiella" indexfile="index.smj.html" />
         <tab dir="" id="norwegian"     label="Norsk"           indexfile="index.nb.html" />
         <tab dir="" id="finnish"       label="Suomeksi"        indexfile="index.fi.html" />

@@ -16,7 +16,7 @@
       xmlns="http://apache.org/forrest/linkmap/1.0"
       xmlns:xi="http://www.w3.org/2001/XInclude"
       xmlns:ns="http://apache.org/forrest/linkmap/1.0">
-  <about label="Davvisámegillii" tab="Home"> <!-- Davvisámegiella as label -->
+  <about label="Davvisámegiella" tab="Home">
     <index description="Bures boahttin divvun.no prošektii"
            href="index.se.html" label="Álgosiidu" />
 
