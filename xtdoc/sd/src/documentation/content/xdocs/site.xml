@@ -16,7 +16,7 @@
       xmlns="http://apache.org/forrest/linkmap/1.0"
       xmlns:xi="http://www.w3.org/2001/XInclude"
       xmlns:ns="http://apache.org/forrest/linkmap/1.0">
-  <about label="Davvisámegiella" tab="Home">
+  <about label="Davvisámegiella" tab="Home"> <!-- The label in site.xml and tab-id in tabs.xml has to be the same to show only this menu --> 
     <index description="Bures boahttin divvun.no prošektii"
            href="index.se.html" label="Álgosiidu" />
 
@@ -32,7 +32,7 @@
     <matta description="Manne máttasámegiella ii leat oassi prošeavttas"
            href="sma-background.se.html" label="Máttasámegiella" />
 
-    <!--
+    <!-- Commented these out, as it will bring a lot of load on the server if these are used.
 	        <all_site label="Full HTML" href="wholesite.html"/>    
 		<all_sitePDF label="Full PDF" href="wholesite.pdf"/>  
 		-->
