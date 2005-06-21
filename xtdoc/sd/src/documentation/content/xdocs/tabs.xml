@@ -8,23 +8,20 @@
        If @id's are present, site.xml entries with a matching @tab will be in that tab.
        Tabs can be embedded to a depth of two. The second level of tabs will only be displayed when their parent tab is selected.
     -->
-    <tab dir="" id="Home" label="Home" indexfile="index.html" >
-        <tab dir="" id="northern-sami" label="Davvisámegiella" indexfile="index.se.html" />
+    <tab dir="" id="Home" label="Ruoktu" indexfile="index.se.html" >
         <tab dir="" id="lule-sami"     label="Julevsámegiella" indexfile="index.smj.html" />
         <tab dir="" id="norwegian"     label="Norsk"           indexfile="index.nb.html" />
         <tab dir="" id="finnish"       label="Suomeksi"        indexfile="index.fi.html" />
         <tab dir="" id="english"       label="English"         indexfile="index.en.html" />
     </tab>
 
-    <tab id="adm" label="Administration" dir="adm" indexfile="index.html" >
-        <tab id="adm-gen" label="General" dir="adm" indexfile="index.html" />
-        <tab id="reports" label="Reports" dir="adm/reports" indexfile="monthoverview.html" />
+    <tab id="adm" label="Administrašuvdna" dir="adm" indexfile="index.html" >
+        <tab id="adm-gen" label="Oppalaš" dir="adm" indexfile="index.html" />
+        <tab id="reports" label="Raporttat" dir="adm/reports" indexfile="monthoverview.html" />
     </tab>
 
-    <tab href="http://giellatekno.uit.no" label="Sami Disamb. Proj." />
+    <tab href="http://giellatekno.uit.no" label="Sámi Disamb. Proj." />
 
     <xi:include href="doc/tabs-frag.xml#xpointer(/tabs/tab[1])" xmlns:xi="http://www.w3.org/2001/XInclude"/>
-
-    <xi:include href="doc/tabs-frag.xml#xpointer(/tabs/tab[2])" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
 </tabs>
