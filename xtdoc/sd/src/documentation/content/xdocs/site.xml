@@ -18,12 +18,12 @@
       xmlns:ns="http://apache.org/forrest/linkmap/1.0">
   <about label="Davvisámegiella" tab="Ruoktu"> <!-- The label in site.xml and tab-id in tabs.xml has to be the same to show only this menu --> 
     <index description="Bures boahttin divvun.no prošektii"
-           href="index.html" label="Álgosiidu" />
-    <lang description="Proseavtta giellapolitihkka" href="lang-policy.html"
+           href="sami.html" label="Álgosiidu" />
+    <lang description="Proseavtta giellapolitihkka" href="lang-policy.se.html"
           label="Giellapolitihkka" />
-    <timetable description="Prošeavtta plánat" href="timetable.html"
+    <timetable description="Prošeavtta plánat" href="timetable.se.html"
                label="Plána" />
-    <spelling description="Mo reaiddut ráhkaduvvot" href="howmake.html"
+    <spelling description="Mo reaiddut ráhkaduvvot" href="howmake.se.html"
               label="Mo reaiddut ráhkaduvvot" />
     <matta description="Manne máttasámegiella ii leat oassi prošeavttas"
            href="sma-background.se.html" label="Máttasámegiella" />

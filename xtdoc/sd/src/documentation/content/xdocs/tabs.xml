@@ -9,7 +9,7 @@
        Tabs can be embedded to a depth of two. The second level of tabs will only be displayed when their parent tab is selected.
     -->
 <!-- The label in site.xml and tab-id in tabs.xml has to be the same to show only the menu belonging to the id--> 
-    <tab dir="" id="Ruoktu" label="Ruoktu" indexfile="index.html" >
+    <tab dir="" id="Ruoktu" label="Ruoktu" indexfile="sami.html" >
         <tab dir="" id="lule-sami"     label="Julevsámegiella" indexfile="index.smj.html" />
         <tab dir="" id="norwegian"     label="Norsk"           indexfile="index.nb.html" />
         <tab dir="" id="finnish"       label="Suomeksi"        indexfile="index.fi.html" />
