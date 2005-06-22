@@ -8,5 +8,11 @@
     <map:serialize type="xml"/>
    </map:match>
   </map:pipeline>
+  <map:pipeline>
+    <map:match pattern="">
+      <map:redirect-to uri="sami.html" />
+    </map:match>
+  </map:pipeline>
  </map:pipelines>
 </map:sitemap>
+
