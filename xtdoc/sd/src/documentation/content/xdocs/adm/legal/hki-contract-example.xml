@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header>
+    <title>Translation of Helsinki corpus text contract</title>
+  </header>
+
+  <body>
+    <p>This text is a translation of the document Sopimus tekstien
+    käyttöoikeuden luovuttamisesta, used by the <a
+    href="http://www.csc.fi/suomi/info/index.phtml.en">Finnish IT center for
+    science</a> for their <a
+    href="http://www.csc.fi/kielipankki/index.phtml.sv">Text bank</a>. Since
+    the text </p>
+
+    <section>
+      <title>Avtale om overføring av bruksrett for tekstar</title>
+
+      <section>
+        <title>1. Avtalepartnarar</title>
+
+        <section>
+          <title>1.1 Dei som overfører bruksrett
+          (<code>bruksrettsgjevar</code>)</title>
+
+          <ul>
+            <li>Opphagsrettsleg stilling</li>
+
+            <li>Namn</li>
+
+            <li>Adresse</li>
+
+            <li>Postnummer og -stad</li>
+          </ul>
+        </section>
+
+        <section>
+          <title>1.2 Den som får bruksrett
+          (<code>bruksrettsmottakar</code>)</title>
+
+          <ul>
+            <li>Helsingfors universitet, Institutionen för språkvetenskap</li>
+
+            <li>PB 4 (Fabiansgatan 28) 00014 Helsingfors universitet.</li>
+          </ul>
+        </section>
+      </section>
+
+      <section>
+        <title>2. Meininga med denne avtalen</title>
+
+        <p>2.1. Denne avtalen gjeld overføring av bruksrett for
+        <code>tekstar</code> som er eller blir overgørt til elektronisk form,
+        i den grad at teksten kan bli lagt til
+        <code>bruksrettsmottakaren</code> si <code>tekstsamling</code>, slik
+        at dei kan bli brukt som ein del av <code>tekstsamlinga</code> til
+        forskingsformål, etter vilkåra som blir sett opp i denne avtalen.</p>
+
+        <p>2.2 <code>Bruksrettsgjevarane</code> forsikrar at dei har rett til
+        å gje <code>bruksrettsmottakarane</code> dei <code>tekstane</code> som
+        denne kontrakten gjeld, til dei <code>bruksrettsmottakarane</code> som
+        er nemnd i førre paragraf.</p>
+      </section>
+
+      <section>
+        <title>3. Omfanget av bruksretten</title>
+
+        <p>3.1 <code>Tekstane</code> som får bruksretten sin overført blir
+        lista opp i Vedlegg 1 til denne kontrakten.</p>
+
+        <p>3.2 Opphavsretten og den immatrielle retten til desse
+        <code>tekstane</code> høyrer til <code>bruksrettsgjevaren</code>.</p>
+
+        <p>3.3 <code>Bruksrettsmottakaren</code> får fri rett til utan
+        kostnader å leggje <code>tekstane</code> til
+        <code>tekstsamlinga</code>. For å gjere dette kan tekstane bli
+        handsama både manuelt og maskinelt, men på ein slik måte at innhaldet
+        deira ikkje bli endra. Til <code>tekstane</code> er det likevel mogleg
+        å leggje til <code>koding</code> som trengst for den vitskaplege
+        granskinga, eller EDB-handsaminga, slik som informasjon om setningar,
+        avsnitt, ordklasse, og andre språklege eigenskaper eller anna
+        klassifisering.</p>
+
+        <p>3.4 <code>Bruksrettsgjevaren</code> får ikkje opphavsrett eller
+        andre immatrielle rettar til forskingsresultata som kjem som eit
+        resultat av handsaminga av <code>tekstane</code>. Dei som har vore med
+        og gjeve bidrag til <code>tekstsamlinga</code> skal likevel bli
+        presentert i brosjyrer og dokumentasjon for
+        <code>tekstsamlinga</code>.</p>
+
+        <p>3.5 <code>Bruksrettsmottakar</code> kan lagre <code>tekstane</code>
+        på eiga datamaskin og/eller plassere tekstane hos ekstern
+        EDB-avdeling, slik at <code>bruksrettsmottakar</code> forpliktar seg
+        til å sikre att <code>tekstane</code> si datatryggleik og vilkåra og
+        forpliktingane i denne kontrakten blir oppfylt.</p>
+
+        <p>3.6 <code>Bruksrettsmottakar</code> har ikkje rett til å gje
+        <code>tekstar</code>, kopiar av <code>tekstar</code> eller bruksrett
+        til <code>tekstar</code> til tredjepart, anna enn det som er nemnd i
+        paragraf 3.7.</p>
+
+        <p>3.7 <code>Bruksrettsmottakar</code> kan gje personleg bruksrett til
+        <code>tekstsamlinga</code> til personer som har skrive under på
+        bruksrettskontrakten i Vedlegg 2. <code>Bruksrettsmottakar</code> skal
+        ikkje gje bruksrett til <code>tekstsamlinga</code> til personar som
+        ein har grunn til å tru vil bryte vilkåra i kontrakten.
+        <code>Bruksrettsmottakar</code> forpliktar seg til å informere
+        <code>bruksrettsgjevar</code> med ein gong han får kjennskap til
+        mogleg brot på desse vilkåra.</p>
+
+        <p>3.8 Bruksrettsgjevar vel kor vid bruksrett han vil gje frå seg ved
+        å krysse av i ein av dei to rutene nedanfor:</p>
+
+        <p>___ a. Bruksrett gjeld rett til å utnytte (i samsvar med lov og
+        reglar for opphavsrett og med god vitskapleg skikk)</p>
+
+        <ul>
+          <li>tekstar for vitskapleg forsking</li>
+
+          <li>dei språktrekka (t.d. statistiske data, grammatikkreglar og
+          ordas semantiske skildring) som ein har komme fram til med hjelp av
+          å utforske tekstane, og</li>
+
+          <li>korte eksempelsitat frå tekstane</li>
+        </ul>
+
+        <p>___ b. Bruksrett gjeld rett til å utnytte tekstane (i samsvar med
+        lov og reglar for opphavsrett og med god vitskapleg skikk)</p>
+
+        <ul>
+          <li>for vitskapleg forsking</li>
+
+          <li>for slike kommersielle språkteknologiske eller tilsvarande
+          formål som ikkje bryt med opphavsrettslovar. </li>
+        </ul>
+
+        <p>3.9 <code>Bruksrettsmottakar</code> forpliktar seg til på si side å
+        følgje slike teksthandsamingsprinsipp at datatryggleik og -vern er
+        oppfylt.</p>
+
+        <p>3.10 Bruksrettsmottakar </p>
+      </section>
+    </section>
+  </body>
+</document>
