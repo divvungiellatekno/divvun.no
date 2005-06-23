@@ -16,7 +16,8 @@
       xmlns="http://apache.org/forrest/linkmap/1.0"
       xmlns:xi="http://www.w3.org/2001/XInclude"
       xmlns:ns="http://apache.org/forrest/linkmap/1.0">
-  <about label="Davvisámegiella" tab="Ruoktu"> <!-- The label in site.xml and tab-id in tabs.xml has to be the same to show only this menu --> 
+  <!-- The label in site.xml and tab-id in tabs.xml has to be the same to show only this menu --> 
+  <about label="Davvisámegiella" tab="Ruoktu">
     <index description="Bures boahttin divvun.no prošektii"
            href="sami.html" label="Álgosiidu" />
     <lang description="Proseavtta giellapolitihkka" href="lang-policy.se.html"
@@ -117,20 +118,14 @@
     <overview description="Overview over monthly reports"
               href="monthoverview.html" label="Overview" />
 
-    <apr05 description="Report for April '05" href="monthly04.html"
-           label="Apr '05" />
+    <may05 href="monthly05.html" label="May '05" description="Report for May '05" />
+    <apr05 href="monthly04.html" label="Apr '05" description="Report for April '05" />
+    <mar05 href="monthly03.html" label="Mar '05" description="Report for March '05" />
+    <feb05 href="monthly02.html" label="Feb '05" description="Report for February '05" />
+    <jan05 href="monthly01.html" label="Jan '05" description="Report for January '05" />
 
-    <mar05 description="Report for March '05" href="monthly03.html"
-           label="Mar '05" />
-
-    <feb05 description="Report for February '05" href="monthly02.html"
-           label="Feb '05" />
-
-    <jan05 description="Report for January '05" href="monthly01.html"
-           label="Jan '05" />
-
-    <ond04 description="Report for October-December '04" href="monthly00.html"
-           label="Oct-Dec '04" />
+    <ond04 href="monthly00.html" label="Oct-Dec '04"
+           description="Report for October-December '04" />
   </monthly>
 
   <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab = 'how'])" />
