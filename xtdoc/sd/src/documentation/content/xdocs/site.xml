@@ -12,12 +12,13 @@
 
     See http://forrest.apache.org/docs/linking.html for more info
     -->
-<site href="" label="MyProj" tab=""
+<site href="" label="Divvun" tab=""
       xmlns="http://apache.org/forrest/linkmap/1.0"
       xmlns:xi="http://www.w3.org/2001/XInclude"
       xmlns:ns="http://apache.org/forrest/linkmap/1.0">
   <!-- The label in site.xml and tab-id in tabs.xml has to be the same to show only this menu --> 
   <about label="Davvisámegiella" tab="Ruoktu">
+    <changes href="changes.html" label="Changes"/>
     <index description="Bures boahttin divvun.no prošektii"
            href="sami.html" label="Álgosiidu" />
     <lang description="Proseavtta giellapolitihkka" href="lang-policy.se.html"
