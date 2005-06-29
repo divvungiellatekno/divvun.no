@@ -37,7 +37,10 @@
         title="A page describing the JSPWiki features supported by Forrest">Wiki
         format</a> supported by <a class="fork"
         href="http://forrest.apache.org/"
-        title="Forrest home page">Forrest</a>, allowing a near-text memo       combined with instant publishing. We also have written an internal <a href="../doc/infra/jspwiki-howto.html" title="jspwiki howto">jspwiki howto</a>.</p>
+        title="Forrest home page">Forrest</a>, allowing a near-text memo
+        combined with instant publishing. We also have written an internal
+        <a href="../doc/infra/jspwiki-howto.html" title="jspwiki howto">jspwiki
+        howto</a>.</p>
 
 
         <p>The meetings are held as telephone meetings with simultaneous
@@ -155,7 +158,26 @@
       <p>Some info about the plans and schedules here.</p>
 
       <fixme author="SNM">Write this section.</fixme>
-      <p class="last_modified">Last modified: $Date$, by $Author$</p>
+
     </section>
+
+    <section>
+      <title>Legal tasks</title>
+
+      <p>This section contains an overview of the legal tasks and documents
+      required by the project, first and foremost the text licensing contract
+      to build a usable corpus.</p>
+
+      <ul>
+        <li>We have <a href="legal/hki-contract-example.html">an example from
+            Helsinki University, Linguistic Department</a></li>
+      </ul>
+
+      <fixme author="SNM">Write this section.</fixme>
+    </section>
+
+      <p class="last_modified">Last modified: $Date$,
+         by $Author$</p>
+
   </body>
 </document>
