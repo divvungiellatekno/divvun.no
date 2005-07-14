@@ -19,6 +19,7 @@
     <tab id="adm" label="Administrašuvdna" dir="adm" indexfile="index.html" >
         <tab id="adm-gen" label="Oppalaš" dir="adm" indexfile="index.html" />
         <tab id="reports" label="Raporttat" dir="adm/reports" indexfile="monthoverview.html" />
+        <tab id="board"   label="Styringsgruppa" dir="adm/board" indexfile="index.html" />
     </tab>
 
     <tab href="http://giellatekno.uit.no" label="Sámi disamb. proj." />

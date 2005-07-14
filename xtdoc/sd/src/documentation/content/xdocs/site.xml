@@ -113,7 +113,16 @@
   <adm href="adm/" label="Administration" tab="adm">
     <overview description="Administrative documentation" href="index.html"
               label="Index" />
+    <techspec description="Technical specification for the outsourced deliverables"
+              href="outsourcing/tech-spec.html"
+              label="Outsourced Tech-Spec" />
   </adm>
+
+  <board href="adm/board/" label="Styringsgruppa" tab="adm">
+    <overview description="Dokument for styringsgruppa" href="index.html" label="Index" />
+    <overview description="1. halvårsrapport" href="half-year-1.html" label="Index" />
+    <overview description="Permanent driftsorganisasjon" href="perm-maintenance.html" label="Index" />
+  </board>
 
   <monthly href="adm/reports/" label="Monthly reports" tab="adm">
     <overview description="Overview over monthly reports"
