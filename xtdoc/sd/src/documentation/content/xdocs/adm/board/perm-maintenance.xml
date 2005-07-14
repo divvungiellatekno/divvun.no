@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header>
+    <title>Permanent driftsorganisasjon</title>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <note>This document still to be written.
+    </note>
+
+    <p class="last_modified">Last modified: $Date$,
+    $Author$</p>
+  </body>
+</document>
