@@ -68,20 +68,6 @@
       <title>Reports</title>
 
       <section>
-        <title>Weekly reports</title>
-
-        <p>Each team member should write a short weekly report at the end of
-        each week, using the weekly report template. Since the infrastructure
-        is not yet in place (no template, no Forrest processing), the reports
-        will be given in the weekly meetings for the time being (see
-        above).</p>
-
-        <fixme author="SNM, BG">Add links to the reports, the template
-        documentation and instructions for writing as soon as the
-        infrastructure is in place.</fixme>
-      </section>
-
-      <section>
         <title>Monthly reports</title>
 
         <p>The project manager will make a summary report for the head of the
@@ -176,8 +162,23 @@
       <fixme author="SNM">Write this section.</fixme>
     </section>
 
-      <p class="last_modified">Last modified: $Date$,
-         by $Author$</p>
+    <section>
+      <title>Outsourcing</title>
+
+      <p>Parts of the project will be outsourced. More specifically, integration
+      with MS Office (Mac/Win) and InDesign will be done by external companies
+      after a public round of tender according to EU/EEC rules. There will be
+      some supporting documents:</p>
+
+      <ul>
+        <li><a href="outsourcing/tech-spec.html">Technical specification</a>
+            for the deliveries</li>
+      </ul>
+
+    </section>
+
+    <p class="last_modified">Last modified: $Date$,
+       by $Author$</p>
 
   </body>
 </document>
