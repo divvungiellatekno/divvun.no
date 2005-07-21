@@ -16,9 +16,7 @@
       xmlns="http://apache.org/forrest/linkmap/1.0"
       xmlns:xi="http://www.w3.org/2001/XInclude"
       xmlns:ns="http://apache.org/forrest/linkmap/1.0">
-  <!-- The label in site.xml and tab-id in tabs.xml has to be the same to show only this menu --> 
   <about label="Davvisámegiella" tab="Ruoktu">
-    <changes href="changes.html" label="Changes"/>
     <index description="Bures boahttin divvun.no prošektii"
            href="sami.html" label="Álgosiidu" />
     <lang description="Proseavtta giellapolitihkka" href="lang-policy.se.html"
@@ -34,8 +32,6 @@
 		<all_sitePDF label="Full PDF" href="wholesite.pdf"/>  
 		-->
   </about>
-
-  <!-- the three lines before the closing about tag are mine, trond -->
 
   <!-- These four menus are needed until we have a working i18n solution -->
 
