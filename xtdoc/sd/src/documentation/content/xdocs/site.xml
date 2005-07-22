@@ -133,6 +133,7 @@
     <overview description="Overview over monthly reports"
               href="monthoverview.html" label="Overview" />
 
+    <jun05 href="monthly06.html" label="Jun '05" description="Report for June '05" />
     <may05 href="monthly05.html" label="May '05" description="Report for May '05" />
     <apr05 href="monthly04.html" label="Apr '05" description="Report for April '05" />
     <mar05 href="monthly03.html" label="Mar '05" description="Report for March '05" />
