@@ -27,6 +27,10 @@
               label="Mo reaiddut ráhkaduvvot" />
     <matta description="Manne máttasámegiella ii leat oassi prošeavttas"
            href="sma-background.se.html" label="Máttasámegiella" />
+    <pr href="pr/" label="Preassadieđáhusat">
+	    <pr1 description="divvun.no almmuhus"
+		 href="pressrelease-20050613.se.html" label="PRD: 2005.06.13" />
+    </pr>
     <!-- Commented these out, as it will bring a lot of load on the server if these are used.
 	        <all_site label="Full HTML" href="wholesite.html"/>    
 		<all_sitePDF label="Full PDF" href="wholesite.pdf"/>  
@@ -37,34 +41,34 @@
 
   <lule label="Julevsámegiellaj" tab="lule-sami">
     <index href="index.smj.html" label="Álggosijdo" />
-
     <lang description="Prosjevta giellapolitihkka" href="lang-policy.smj.html"
           label="Giellapolitihkka " />
-
     <timetable description="Prosjevta plána" href="timetable.smj.html"
                label="Plána" />
-
     <spelling description="Gåktu nævvo dagáduvvi" href="howmake.smj.html"
               label="Gåktu nævvo dagáduvvi" />
-
     <matta description="Manen oarjjilijsábme ij la oassen prosjevtas"
            href="sma-background.nb.html" label="Oarjjilijsábme" />
+    <pr href="pr/" label="Præssadiededimet">
+	    <pr1 description="divvun.no diededibme"
+		 href="pressrelease-20050613.smj.html" label="PRD: 2005.06.13" />
+    </pr>
   </lule>
 
   <norsk label="På norsk" tab="norsk">
     <index description="Velkommen til prosjektet divvun.no"
            href="index.nb.html" label="Startside" />
-
     <lang description="Prosjektets språkpolitikk" href="lang-policy.nb.html"
           label="Språkpolitikk" />
-
     <timetable description="Tidsplan" href="timetable.nb.html" label="Plan" />
-
     <spelling description="Hvordan verktøyene lages" href="howmake.nb.html"
               label="Hvordan verktøyene lages" />
-
     <matta description="Hvorfor sørsamisk ikke er en del av prosjektet"
            href="sma-background.nb.html" label="Sørsamisk" />
+    <pr href="pr/" label="Pressemeldinger">
+	    <pr1 description="divvun.no offentliggjøring"
+		 href="pressrelease-20050613.nb.html" label="PRM: 2005.06.13" />
+    </pr>
   </norsk>
 
   <suomeksi label="Suomeksi" tab="suomeksi">
