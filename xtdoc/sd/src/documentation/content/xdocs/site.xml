@@ -27,6 +27,7 @@
               label="Mo reaiddut ráhkaduvvot" />
     <matta description="Manne máttasámegiella ii leat oassi prošeavttas"
            href="sma-background.se.html" label="Máttasámegiella" />
+    <changes href="changes.html" label="Rievdadusat (eŋgelasgillii)" />
     <pr href="pr/" label="Preassadieđáhusat">
 	    <pr1 description="divvun.no almmuhus"
 		 href="pressrelease-20050613.se.html" label="PRD: 2005.06.13" />
@@ -49,6 +50,7 @@
               label="Gåktu nævvo dagáduvvi" />
     <matta description="Manen oarjjilijsábme ij la oassen prosjevtas"
            href="sma-background.nb.html" label="Oarjjilijsábme" />
+    <changes href="changes.html" label="Rievdadusat (ieŋŋgisgielai)" />
     <pr href="pr/" label="Præssadiededimet">
 	    <pr1 description="divvun.no diededibme"
 		 href="pressrelease-20050613.smj.html" label="PRD: 2005.06.13" />
@@ -65,6 +67,7 @@
               label="Hvordan verktøyene lages" />
     <matta description="Hvorfor sørsamisk ikke er en del av prosjektet"
            href="sma-background.nb.html" label="Sørsamisk" />
+    <changes href="changes.html" label="Endringer (engelsk)" />
     <pr href="pr/" label="Pressemeldinger">
 	    <pr1 description="divvun.no offentliggjøring"
 		 href="pressrelease-20050613.nb.html" label="PRM: 2005.06.13" />
@@ -86,6 +89,7 @@
 
     <matta description="Miksi eteläsaame ei kuulu projektiin"
            href="sma-background.se.html" label="Eteläsaame" />
+    <changes href="changes.html" label="Rievdadusat (eŋgelasgillii)" />
   </suomeksi>
 
   <english label="In English" tab="english">
@@ -99,6 +103,7 @@
 
     <spelling description="Short description on how the tools are made"
               href="howmake.en.html" label="How the tools are made" />
+    <changes href="changes.html" label="Changes" />
   </english>
 
   <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab != 'how'])" />

@@ -17,11 +17,11 @@
 <!DOCTYPE status PUBLIC "-//APACHE//DTD Status V1.3//EN" "status-v13.dtd">
 <status>
   <developers>
-    <person email="sjur.moshagen@kolumbus.fi"   id="SNM" name="Sjur Nørstebø Moshagen" />
-    <person email="tomi.pieski@hum.uit.no"      id="TP"  name="Tomi Pieski" />
-    <person email="thomas.omma@samediggi.no"    id="TO"  name="Thomas Omma" />
-    <person email="maren.palismaa@samediggi.no" id="MP"  name="Maaren Palismaa" />
-    <person email="boerre@skolelinux.no"        id="BG"  name="Børre Gaup" />
+    <person email="sjur.moshagen@kolumbus.fi"	id="SNM" name="Sjur Nørstebø Moshagen" />
+    <person email="tomi.pieski@hum.uit.no"	id="TP"  name="Tomi Pieski" />
+    <person email="thomas.omma@samediggi.no"	id="TO"  name="Thomas Omma" />
+    <person email="maren.palismaa@samediggi.no"	id="MP"  name="Maaren Palismaa" />
+    <person email="borre.gaup@samediggi.no"	id="BG"  name="Børre Gaup" />
 <!-- Add more people here -->
   </developers>
 
@@ -45,7 +45,6 @@
         <p>This is the initial release of the project, as its project
            page goes public.</p>
       </notes>
-
 <!-- Some action types have associated images. By default, images are
       defined for 'add', 'fix', 'remove', 'update' and 'hack'. If you add
       src/documentation/resources/images/<foo>.jpg images, these will
@@ -61,6 +60,16 @@
         The Divvun project pages went public.
       </action>
 
+    </release>
+    
+    <release version="0.2" date="2005-07-22" >
+	    <notes>
+		    <p>The subtabs under the Teknihkalaš dok tab have correctly linked menus. This greatly affects the readability of the technical documentation.</p>
+	    </notes>
+	    
+	    <action context="docs" type="fix" importance="medium" dev="BG">
+		    Subtabs and their menus improved
+	    </action>
     </release>
   </changes>
 
