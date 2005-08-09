@@ -157,9 +157,10 @@
       <ul>
         <li>We have <a href="legal/hki-contract-example.html">an example from
             Helsinki University, Linguistic Department</a></li>
+    	<li>Another <a href="legal/oslo-standard-contract.html">example from the University of Oslo</a></li>
       </ul>
 
-      <fixme author="SNM">Write this section.</fixme>
+      <fixme author="SNM">Write this section. Short explanation of the models used in Helsinki and Oslo.</fixme>
     </section>
 
     <section>
