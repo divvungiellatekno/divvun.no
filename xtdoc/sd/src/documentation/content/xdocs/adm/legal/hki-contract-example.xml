@@ -24,15 +24,40 @@
           <title>1.1 Dei som overfører bruksrett
           (<code>bruksrettsgjevar</code>)</title>
 
-          <ul>
-            <li>Opphagsrettsleg stilling</li>
+          <table>
+            <tr><td width="30%">Opphagsrettsleg stilling</td><td>&nbsp;</td></tr>
+            <tr><td>Namn</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adresse</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Postnummer og -stad</td>     <td>&nbsp;</td></tr>
+          </table>
 
-            <li>Namn</li>
+          <p/>
 
-            <li>Adresse</li>
+          <table>
+            <tr><td width="30%">Opphagsrettsleg stilling</td><td>&nbsp;</td></tr>
+            <tr><td>Namn</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adresse</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Postnummer og -stad</td>     <td>&nbsp;</td></tr>
+          </table>
 
-            <li>Postnummer og -stad</li>
-          </ul>
+          <p/>
+
+          <table>
+            <tr><td width="30%">Opphagsrettsleg stilling</td><td>&nbsp;</td></tr>
+            <tr><td>Namn</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adresse</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Postnummer og -stad</td>     <td>&nbsp;</td></tr>
+          </table>
+
+          <p/>
+
+          <table>
+            <tr><td width="30%">Opphagsrettsleg stilling</td><td>&nbsp;</td></tr>
+            <tr><td>Namn</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adresse</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Postnummer og -stad</td>     <td>&nbsp;</td></tr>
+          </table>
+
         </section>
 
         <section>
@@ -40,9 +65,10 @@
           (<code>bruksrettsmottakar</code>)</title>
 
           <ul>
-            <li>Helsingfors universitet, Institutionen för språkvetenskap</li>
-
-            <li>PB 4 (Fabiansgatan 28) 00014 Helsingfors universitet.</li>
+            <li>Helsingfors universitet</li>
+            <li>Institutionen för språkvetenskap</li>
+            <li>PB 4 (Fabiansgatan 28)</li>
+            <li>00014 Helsingfors universitet</li>
           </ul>
         </section>
       </section>
@@ -51,7 +77,7 @@
         <title>2. Meininga med denne avtalen</title>
 
         <p>2.1. Denne avtalen gjeld overføring av bruksrett for
-        <code>tekstar</code> som er eller blir overgørt til elektronisk form,
+        <code>tekstar</code> som er eller blir overført til elektronisk form,
         i den grad at teksten kan bli lagt til
         <code>bruksrettsmottakaren</code> si <code>tekstsamling</code>, slik
         at dei kan bli brukt som ein del av <code>tekstsamlinga</code> til
@@ -69,7 +95,7 @@
         <p>3.1 <code>Tekstane</code> som får bruksretten sin overført blir
         lista opp i Vedlegg 1 til denne kontrakten.</p>
 
-        <p>3.2 Opphavsretten og den immatrielle retten til desse
+        <p>3.2 Opphavsretten og den immaterielle retten til desse
         <code>tekstane</code> høyrer til <code>bruksrettsgjevaren</code>.</p>
 
         <p>3.3 <code>Bruksrettsmottakaren</code> får fri rett til utan
@@ -79,11 +105,11 @@
         deira ikkje bli endra. Til <code>tekstane</code> er det likevel mogleg
         å leggje til <code>koding</code> som trengst for den vitskaplege
         granskinga, eller EDB-handsaminga, slik som informasjon om setningar,
-        avsnitt, ordklasse, og andre språklege eigenskaper eller anna
+        avsnitt, ordklasse, og andre språklege eigenskapar eller anna
         klassifisering.</p>
 
         <p>3.4 <code>Bruksrettsgjevaren</code> får ikkje opphavsrett eller
-        andre immatrielle rettar til forskingsresultata som kjem som eit
+        andre immaterielle rettar til forskingsresultata som kjem som eit
         resultat av handsaminga av <code>tekstane</code>. Dei som har vore med
         og gjeve bidrag til <code>tekstsamlinga</code> skal likevel bli
         presentert i brosjyrer og dokumentasjon for
@@ -92,7 +118,7 @@
         <p>3.5 <code>Bruksrettsmottakar</code> kan lagre <code>tekstane</code>
         på eiga datamaskin og/eller plassere tekstane hos ekstern
         EDB-avdeling, slik at <code>bruksrettsmottakar</code> forpliktar seg
-        til å sikre att <code>tekstane</code> si datatryggleik og vilkåra og
+        til å sikre att <code>tekstane</code> sin datatryggleik og vilkåra og
         forpliktingane i denne kontrakten blir oppfylt.</p>
 
         <p>3.6 <code>Bruksrettsmottakar</code> har ikkje rett til å gje
@@ -101,7 +127,7 @@
         paragraf 3.7.</p>
 
         <p>3.7 <code>Bruksrettsmottakar</code> kan gje personleg bruksrett til
-        <code>tekstsamlinga</code> til personer som har skrive under på
+        <code>tekstsamlinga</code> til personar som har skrive under på
         bruksrettskontrakten i Vedlegg 2. <code>Bruksrettsmottakar</code> skal
         ikkje gje bruksrett til <code>tekstsamlinga</code> til personar som
         ein har grunn til å tru vil bryte vilkåra i kontrakten.
