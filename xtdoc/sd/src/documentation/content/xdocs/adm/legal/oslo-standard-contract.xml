@@ -9,7 +9,8 @@
 
   <body>
     	<section>
-      		<title>Avtale mellom Universitetet i Oslo og <em>forlag</em> om tekster til ILNs leksikografiske tekstkorpus</title>
+      		<title>Avtale mellom Universitetet i Oslo og <em>forlag</em> om tekster til
+      		ILNs leksikografiske tekstkorpus</title>
 		<ul>
 			<li>Universitetet i Oslo mottar tekster i elektronisk tilgjengelig form fra
 				forlag.</li>
@@ -40,7 +41,8 @@
 		<p>Oslo, XX.XX.200X</p>
 		<p>For forlag: <em>navn</em> <em>tittel</em></p>
 		<p>For Universitetet i Oslo: <em>navn</em> <em>tittel</em></p>
-		<p class="last_modified">Last changed: $Id$</p>
+		<p class="last_modified">Last changed:
+		$Id$</p>
     	</section>
  </body>
 </document>
