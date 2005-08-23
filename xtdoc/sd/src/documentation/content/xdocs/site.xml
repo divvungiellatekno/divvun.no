@@ -77,16 +77,12 @@
   <suomeksi label="Suomeksi" tab="suomeksi">
     <index description="Tervetuloa divvun.no projektiin" href="index.fi.html"
            label="Aloitussivu" />
-
     <lang description="Projektin kielipolitiikka" href="lang-policy.fi.html"
           label="Kielipolitiikka" />
-
     <timetable description="Aikataulu" href="timetable.fi.html"
                label="Suunnitelma" />
-
     <spelling description="Lyhyt kuvaus ohjelmistjen tekoprosessista"
               href="howmake.fi.html" label="Kuinka ohjelmistot tehdään" />
-
     <matta description="Miksi eteläsaame ei kuulu projektiin"
            href="sma-background.se.html" label="Eteläsaame" />
     <changes href="changes.html" label="Rievdadusat (eŋgelasgillii)" />
@@ -95,12 +91,9 @@
   <english label="In English" tab="english">
     <index description="Welcome to the divvun.no project" href="index.en.html"
            label="Start page" />
-
     <lang description="The projects' language policy"
           href="lang-policy.en.html" label="Language policy" />
-
     <timetable description="Time table" href="timetable.en.html" label="Plan" />
-
     <spelling description="Short description on how the tools are made"
               href="howmake.en.html" label="How the tools are made" />
     <changes href="changes.html" label="Changes" />
