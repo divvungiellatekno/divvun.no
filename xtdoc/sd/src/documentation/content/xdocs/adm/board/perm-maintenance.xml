@@ -55,12 +55,12 @@
       <title>Stillingar</title>
 
       <p>Ut i frå dei oppgåvene som er nemnde over, er det tre ulike
-      stillingar som trer fram:</p>
+      stillingstypar som trer fram:</p>
 
       <ul>
         <li>lingvist (språkleg vedlikehald, nye prosjekt)</li>
 
-        <li>programmerar (ansvar for open kjeldekode-versjonane, kontakt med
+        <li>programmerar (ansvar for open kjeldekode-verktya, kontakt med
         ekstern leverandør)</li>
 
         <li>teknisk sekretær (ansvar for oppdateringar, brukarkontakt,
@@ -168,13 +168,48 @@
       <p>Dei tre stillingane i hop gjev ein total stillingsprosent på 150 %.
       Med ein årskostnad på kring 600 000,- NOK pr heile stilling, tilsvarer
       det 900 000,- NOK pr år. Med inflasjon og andre justeringar er det
-      rimeleg å avrunda til 1 mill NOK / år for den permanente
-      driftsorganisasjonen frå starten hausten 2007. Kostnader for nye
-      prosjekt er ikkje rekna med i denne summen.</p>
+      rimeleg å avrunda til 1 mill NOK / år i lønsmiddel for den permanente
+      driftsorganisasjonen frå starten hausten 2007. Pga at arbeidet krev høg
+      og spesialisert kompetanse, bør ein inkludera middel for etterutdanning
+      og reiser til relevante konferansar, samt (sam)arbeidsmøte med miljøet
+      ved Universitetet i Tromsø. Forslag til budsjett ser dermed ut som
+      fylgjer:</p>
 
-      <note>Bør eg gjera etterutdanning og opplæring (med reiser etc. til
-      konferansar) til eit eige budsjettpunkt? I så fall kor stort? Jf det eg
-      skriv om høgt spesialisert kunnskap.</note>
+      <table>
+        <caption>Årsbudsjett for permanent driftsorganisasjon</caption>
+
+        <tr>
+          <th>Budsjettpost</th>
+
+          <th>Sum</th>
+        </tr>
+
+        <tr>
+          <td>Løn, 600 000,- NOK * 1,5</td>
+
+          <td>900 000,-</td>
+        </tr>
+
+        <tr>
+          <td>Tillegg for inflasjon m.m. fram til hausten 2007</td>
+
+          <td>100 000,-</td>
+        </tr>
+
+        <tr>
+          <td>Etterutdanning, konferansar, reiser</td>
+
+          <td>150 000,-</td>
+        </tr>
+
+        <tr>
+          <th>Totalt</th>
+
+          <th>1 150 000,- NOK</th>
+        </tr>
+      </table>
+
+      <p>Budsjettet inkluderer ikkje utgifter til nye prosjekt.</p>
     </section>
 
     <p class="last_modified">Last modified: $Date$,
