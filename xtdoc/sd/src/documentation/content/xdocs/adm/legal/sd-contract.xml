@@ -2,19 +2,19 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
-  <header>
+  <header xml:lang="en">
     <title>Translation of Helsinki corpus text contract</title>
   </header>
 
   <body>
-    <p>This text is a translation of the document Sopimus tekstien
+    <p xml:lang="en">This text is a translation of the document Sopimus tekstien
     käyttöoikeuden luovuttamisesta, used by the <a
     href="http://www.csc.fi/suomi/info/index.phtml.en">Finnish IT center for
     science</a> for their <a
     href="http://www.csc.fi/kielipankki/index.phtml.sv">Text bank</a>. Since
     the text </p>
 
-    <section>
+    <section xml:lang="nn">
       <title>Avtale om overføring av bruksrett for tekstar</title>
 
       <section>
