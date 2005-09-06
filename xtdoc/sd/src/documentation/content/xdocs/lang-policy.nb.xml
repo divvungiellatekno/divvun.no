@@ -32,7 +32,8 @@
            gir informasjon på relevante språk for alle brukere og intereserte
            personer.</p>
 
-	    <p>Sist endret: $Date$, av $Author$</p>
+         <p  class="last_modified">Sist endret: $Date$,
+av $Author$</p>
         </section>
     </body>
 </document>
