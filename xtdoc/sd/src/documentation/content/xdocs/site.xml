@@ -117,9 +117,12 @@
   </adm>
 
   <board href="adm/board/" label="Styringsgruppa" tab="adm">
-    <overview description="Dokument for styringsgruppa" href="index.html" label="Index" />
-    <overview description="1. halvårsrapport" href="half-year-1.html" label="Index" />
-    <overview description="Permanent driftsorganisasjon" href="perm-maintenance.html" label="Index" />
+    <overview href="index.html" label="Oversikt"
+              description="Dokument for styringsgruppa&#8233;Documents for the project board" />
+    <overview href="half-year-1.html" label="1. halvårsrapport"
+              description="1. halvårsrapport&#8233;1st half-year report" />
+    <overview href="perm-maintenance.html" label="Permanent driftsorganisasjon"
+              description="Forslag til permanent driftsorganisasjon&#8233;Draft for a staying maintenance organisation" />
   </board>
 
   <monthly href="adm/reports/" label="Monthly reports" tab="adm">
