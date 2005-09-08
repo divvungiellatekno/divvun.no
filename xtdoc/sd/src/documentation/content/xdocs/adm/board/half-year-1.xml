@@ -3,16 +3,161 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
   <header>
-    <title>Halvårsrapport - 1. halvår 2005</title>
+    <title>Halvårsrapport</title>
+
+    <subtitle>1. halvår 2005</subtitle>
+
+    <version major="0" minor="1">Fyrste utkast, berre til innvortes
+    bruk.</version>
 
     <authors>
       <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
     </authors>
+
+    <abstract>Eit samandrag av framdrifta i prosjektet det fyrste halve året
+    av prosjektperioden.</abstract>
   </header>
 
   <body>
+    <section>
+      <title>Framdrift</title>
 
-    <note>This report still to be written.</note>
+      <p>Rapporten går gjennom framdrifta for kvar hovudbolk i
+      prosjektarbeidet: lingvistisk arbeid, infrastrukturbygging,
+      korpusinnsamling, korrekturprogram og prosjektleiing, samt ei ålmenn
+      oversikt som avslutning.</p>
+
+      <section>
+        <title>Lingvistisk arbeid</title>
+
+        <p>Det fyrste halvåret har vi arbeidd med å oppdatera den nordsamiske
+        modellen, byggja ut leksikonet</p>
+      </section>
+
+      <section>
+        <title>Infrastruktur</title>
+
+        <p>Infrastrukturarbeidet har konsentrert seg om desse punkta:</p>
+
+        <ul>
+          <li>versjonskontroll</li>
+
+          <li>feildatabase</li>
+
+          <li>internkommunikasjon</li>
+
+          <li>dokumentasjon</li>
+
+          <li>eksternkommunikasjon</li>
+        </ul>
+
+        <p>Alle desse punkta er no gjennomførte og fungerer tilfredsstillande.
+        Vi har ei heimeside for prosjektet på http://www.divvun.no/, der all
+        prosjektdokumentasjon, møtereferat, rapportar m.m. finst tilgjengeleg.
+        Feildatabasen vår finst på http://giellatekno.uit.no/bugzilla/, og
+        kven som helst kan bla i databasen, og fylgja med arbeidet med dei
+        registrerte feila (men ein må vera registrert brukar for å kunna
+        leggja inn feil og merknader).</p>
+      </section>
+
+      <section>
+        <title>Korpusarbeid</title>
+
+        <p>Arbeidet med å byggja opp eit samisk korpus starta etter at
+        infrastrukturarbeidet var stort sett ferdig. Vi har dels arbeidd med
+        ein intern infrastruktur for å integrera korpusa i utviklingsarbeidet,
+        dels med å finna fram til ein passande lisenstekst som vi kan
+        presentera forfattarar og forlag. Korpusinfrastrukturen er langt på
+        veg ferdig, og er brukande som det er.</p>
+
+        <p>Arbeidet med ein korpuslisens/tekstlisens starta med å samanlikna
+        to eksisterande lisensar, den som Universitetet i Oslo bruker, og den
+        som er utvikla ved Helsingfors Universitet. Vi har valt å arbeida
+        vidare med Helsingforsmodellen, i og med at den forenklar ei klår
+        oppdeling i ulike roller og ansvarstilhøve, og som derfor gjer det
+        mogleg å endra på dei praktiske arrangementa seinare utan at ein treng
+        å kontakta teksteigarane (forfattarane og forlaga). Dette arbeidet er
+        ikkje ferdig enno, men nærmar seg slutten. Så snart arbeidet med
+        lisensteksten er ferdig, vil vi gå i gang med å samla inn dei konkrete
+        tekstane.</p>
+
+        <p>I arbeidet med lisensteksten har vi samarbeidd med Helsingfors
+        Universitet og ein av forfattarane til den finske originalteksten,
+        Prof. Kimmo Koskenniemi. Dei endelege versjonane av lisensteksten vil
+        bli lagt ut på nettet i lag med bakgrunnsinformasjon. Tanken er at
+        lisensavtalane (det er fire av dei i alt) kan brukast om igjen av
+        andre, eller minste fungera som ein mal som andre kan byggja på og
+        tilpassa sine eigne formål. Lisensteksten er tilpassa og justert
+        basert på dei røynslene som Helsingfors Universitet med
+        samarbeidspartar har hatt.</p>
+
+        <p>Alle viktige tekstprodusentar har allereie vorte kontakta, og er
+        informert om prosjektet. Dei aller fleste har uttrykt seg positivt
+        eller svært positivt til samarbeid med Divvun-prosjektet.</p>
+      </section>
+
+      <section>
+        <title>Korrekturprogram</title>
+
+        <p>asf</p>
+      </section>
+
+      <section>
+        <title>Prosjektleiing</title>
+
+        <p>asdf</p>
+      </section>
+
+      <section>
+        <title>Oppsummering</title>
+
+        <p>Det fyrste halvåret har</p>
+      </section>
+    </section>
+
+    <section>
+      <title>Framlegg til endringar i prosjektplanen</title>
+
+      <p>Som nemnt i avsnittet over om halvårsevalueringa, er vi i rute, med
+      unnatak av dei to punkta som etter kvart har vorte gjennomgangarar,
+      arbeidsplan og tilbodsspesifisering. I og med at vi no nærmar oss den
+      offisielle opninga av termbasen, byrjar det å merkast at arbeidet der
+      blir mindre, sjølv om eg reknar med ein ny topp dei to siste vekene før
+      opninga. For å ta att den tapte tida føreslår eg fylgjande for
+      tilbodsspesifiseringa:</p>
+
+      <ul>
+        <li>spesifiseringa blir ferdig til møtet i styringsgruppa i
+        september</li>
+
+        <li>styringsgruppa går gjennom og godkjenner spesifiseringa, til liks
+        med ein gjennomgang av heile tilbodsprosessen</li>
+
+        <li>det offentlege tilbodet blir lagt ut rett etter møtet i
+        styringsgruppa</li>
+
+        <li>frist for innkomne tilbod kring midten av november</li>
+
+        <li>forslag til leverandør blir lagt fram for styringsgruppa på neste
+        møte (i januar?), som gjer endeleg vedtak.</li>
+      </ul>
+
+      <p>Eit vedtak i januar er 3-4 månader seinare enn opphavleg planlagt,
+      men eg trur det både er bra og riktig at både tilbodsteksten
+      (spesifiseringa) og det endelege innkjøpsvedtaket blir forankra i vedtak
+      frå styringsgruppa. Det arbeidet som blir mest påverka av at samarbeidet
+      med leverandøren/leverandørane blir forseinka, vil vera arbeidet med å
+      definera eit nytt leksikonformat, og konvertering frå leksikonformatet
+      (og resten av den lingvistiske modellen får) til det/dei firmaspesifikke
+      formata vi må levera til. Når det gjeld leksikonformatet vil vi kunna
+      møta ei mogleg forseinking med å invitera alle interesserte partar,
+      inkl. firma, til å kommentera arbeidet vårt og koma med forslag til
+      endringar og forbetringar føre og uavhengig av kven som får
+      leveransen.</p>
+
+      <p>Med ein revidert plan som skissert over, burde vi vera i rute i høve
+      til den opphavlege timeplanen om eitt års tid, dvs neste sommar.</p>
+    </section>
 
     <p class="last_modified">Last modified: $Date$,
     $Author$</p>
