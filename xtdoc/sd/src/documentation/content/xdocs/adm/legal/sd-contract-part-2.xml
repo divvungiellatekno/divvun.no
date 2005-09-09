@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header>
+    <title>Avtale for produksjon av brukartenester til tekstsamling</title>
+  </header>
+
+  <body>
+    <section>
+      <title>Avtalepartane</title>
+
+      <section>
+        <title>Bruksrettstingar (nedanfor <code>tingar</code>)</title>
+
+        <table>
+          <tr>
+            <td>Opphagsrettsleg stilling</td>
+
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Namn</td>
+
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Adresse</td>
+
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Postnummer og -stad</td>
+
+            <td>&nbsp;</td>
+          </tr>
+        </table>
+      </section>
+
+      <section>
+        <title>Bruksrettsprodusent (nedanfor <code>produsent</code>)</title>
+
+        <table>
+          <tr>
+            <td>Opphagsrettsleg stilling</td>
+
+            <td>&nbsp;Universitetet i Tromsø (Kielipankki)</td>
+          </tr>
+
+          <tr>
+            <td>Namn</td>
+
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Adresse</td>
+
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Postnummer og -stad</td>
+
+            <td>&nbsp;</td>
+          </tr>
+        </table>
+      </section>
+    </section>
+
+    <section>
+      <title>Formålet med avtalen</title>
+
+      <p>(Skildrar UIT)</p>
+
+      <p>Etter denne avtalen har <code>produsenten</code> forplikta seg til å
+      plassere <code>tingaren</code> si <code>tekstsamling</code> på ein tenar
+      som produsenten forpliktar seg til å ha ansvaret for.</p>
+
+      <p><code>Produsenten</code> gjev teknisk bruksrett over
+      <code>tekstsamlinga</code> til dei forskarane som tingaren har gjeve
+      <code>løyve</code> til å bruke tekstsamlinga.</p>
+    </section>
+
+    <section>
+      <title>Tekstane i tekstsamlinga</title>
+
+      <p><code>Tekstane</code> som høyrer til i <code>tekstsamlinga</code>,
+      storleiken deira, og avtalane som er knytt til dei er definert i vedlegg
+      1.</p>
+    </section>
+
+    <section>
+      <title>Produsentens pliktar og ansvar</title>
+
+      <p><code>Produsenten</code> har ansvar for at dei bruksoppgåvene som er
+      definert for han i avtalen blir utført profesjonelt og etter god teknisk
+      yrkesskikk, og etter dei skriftlege bruksrettleiingane som avtalepartane
+      har vorte samde om.</p>
+
+      <p><code>Produsenten</code> er alnsvarleg for å følgje slik god skikk
+      for elektronisk datahandsaming at dattatryggleik og datavern blir teke
+      vare på.</p>
+
+      <p>Produsenten garanterer for at vilkåra i avtalen blir oppfylde innafor
+      den handsamisngstida som det er gjort avtale om.</p>
+    </section>
+
+    <section>
+      <title>Rettar</title>
+
+      <p>Eigedomsrettane og dei immaterielle rettane til produkta og dei
+      avleidd eprogramma til ... (this one is untranslatable, there is a
+      subject missing in the original) Sopimuksen kohteena olevien palveluiden
+      tuottamisessa käytettävien tuotteiden ja sovellusten, jotka ovat
+      \termi{tilaajan} omistamia, vuokraamia, valmistamia tai joista
+      tilaajalla on käyttöoikeussopimus omistus- ja immateriaalioikeudet ovat
+      yksin \termi{tilaajalla} tai kolmannella osapuolella.</p>
+
+      <p>Produsenten har bruksrett til programprodukta og skildringane som
+      tingaren har gjeve til produsenten, og til kunnskapsmaterialet berre for
+      bruk til tingaren sin "suottaminen". Tingaren har ansvaret for at
+      naudsynte løyver for gjennomføringa av desse oppgåvene er skaffa til
+      veges.</p>
+
+      <p>Tingaren kan, om han vil, få tilgang til resultatet av
+      utviklingsarbeidet til produsenten, eller til tredjepart, som er
+      tilgjengeleg til tenestekundane til produsenten. Overføringa av produkta
+      frå utviklingsarbeidet til tingaren, og betaling for dette, blir det
+      gjort avtale om separat.</p>
+    </section>
+
+    <section>
+      <title>Garanti</title>
+
+      <p>Viss det er mangtlar eller feil i databasen som følgje av feil
+      tingaren har gjort, skal partane i lag bli samde om å få databasen i
+      normaltisltand. Produsenten utfører naudsynte maskinhandsamingar
+      kostnadsfritt, etter metodar som diktert av tingaren eller av
+      systemet.</p>
+
+      <p>Produsenten har ikkje ansvar for dei feil eller manglar som kjem av
+      kunnskapskjeldene som er brukt, av kunnskapskjeldene tingaren ...</p>
+    </section>
+
+    <section>
+      <title>Usemje</title>
+
+      <p>Usemje..</p>
+    </section>
+
+    <section>
+      <title>Oppseiing av avtalen</title>
+
+      <p>Oppseiing av avtalen..</p>
+    </section>
+  </body>
+</document>
