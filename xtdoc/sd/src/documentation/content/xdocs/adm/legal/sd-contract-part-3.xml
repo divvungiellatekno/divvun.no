@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header>
+    <title>Tekstsamlingas bruksrettsavtale</title>
+  </header>
+
+  <body>
+    <section>
+      <title>Avtalepartane</title>
+
+      <section>
+        <title>Bruksrettsmottakar / Brukar (søkar fyller ut)</title>
+
+        <table>
+          <tr>
+            <td>Namn</td>
+
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Arbeids- eller studiestad</td>
+
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>E-post</td>
+
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Telefon</td>
+
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Adresse</td>
+
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Postnummer og -stad</td>
+
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>(For studentar:) Rettleiar</td>
+
+            <td>&nbsp;</td>
+          </tr>
+        </table>
+      </section>
+
+      <section>
+        <title>Bruksrett innvilga av</title>
+
+        <table>
+          <tr>
+            <td>Namn</td>
+
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Organisasjon</td>
+
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>E-post</td>
+
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Telefon</td>
+
+            <td>&nbsp;</td>
+          </tr>
+        </table>
+      </section>
+    </section>
+
+    <section>
+      <title>Bakgrunn for avtalen</title>
+
+      <p>Universitetet i Tromsø administrerer den samiske tekstbanken.</p>
+    </section>
+
+    <section>
+      <title>Formålet med avtalen</title>
+
+      <p>Etter denne avtalen gjev <code>bruksrettsløyvaren</code>
+      <code>bruksrettsmottakaren</code> rett til å bruke dei tekstane som er
+      omhandla i vedlegg 1.</p>
+    </section>
+
+    <section>
+      <title>Omfanget av bruksretten</title>
+
+      <p><code>Bruksrettsmottakaren</code> har rett til å bruke a-tekstane
+      berre til viktskapleg forsking. Bruksrettsmottakaren kan bruke tekstane
+      med å nyttiggjere seg dei språktrekka (t.d. statistisk informasjon,
+      grammatiske reglar og semantiske skildringar) og plukke ut kortare sitat
+      frå tekstane.</p>
+
+      <p><code>Bruksrettsmottakaren</code> har rett til å bruke b-tekstane
+      både til vitskapleg forsking og til slike kommersielle språkteknologiske
+      eller andre formål, som ikkje bryt med reglar om opphavsrett.</p>
+    </section>
+
+    <section>
+      <title>Vilkår for bruksretten</title>
+
+      <p>Bruksrettsmottakaren bind seg til å følgje god vitskapleg skikk (t.d.
+      etter retningsliner frå forskingsetisk råd), reglar om opphavsrett, og
+      dei avgrensingar og vilkår som blir sett i denne kontrakten.</p>
+
+      <p>Bruksrettsmottakkaren får ikkje ta større delar av tekstsamlinga enn
+      korte sitat bort frå den tenaren som tekstsamlinga er installert på. Det
+      er lov til å lagre temporære kopiar på sjølve tenaren på det vilkåret at
+      bruksrettsmottakaren tek omsyn til datatryggleiken.</p>
+
+      <p>Bruksrett til tekstsamlinga er personleg, og bruksretten kan ikkje
+      overførast til ein annan person.</p>
+
+      <p>Bruksrettsmottakaren bind seg til å bruke tekstsamlinga berre til det
+      formålet som er oppgjeve i punkt 5 "Samandrag av forskingsformålet".</p>
+
+      <p>Når bruksrettsmottakaren publiserer forskingsresultata som han eller
+      ho har komme fram til med hjelp av tekstsamlinga, skal han eller ho i
+      publikasjonar om dette vise til tekstsamlinga på denne måten:</p>
+
+      <source>Namn på tekstsamlinga. (...)</source>
+
+      <p>Bruksrettsmottakaren mistar bruksretten sin umiddelbart om han eller
+      ho bryt mot desse vilkåra.</p>
+
+      <p>Avtalepartane er ikkje forplikta til å erstatte ulemper for den andre
+      parten, dersom dei ikkje er i stand til å oppfylle krava i denne
+      kontrakten.</p>
+
+      <p>Denne kontrakten trer i kraft når bruksrettsløyvar skriv under på
+      han.</p>
+    </section>
+
+    <section>
+      <title>Samandrag av forskingsplanen (fyllast ut av søkaren,
+      obligatorisk)</title>
+
+      <p>___________________________________________________________________________________________</p>
+
+      <p>___________________________________________________________________________________________</p>
+
+      <p>___________________________________________________________________________________________</p>
+
+      <p>___________________________________________________________________________________________</p>
+
+      <p>___________________________________________________________________________________________</p>
+
+      <p>___________________________________________________________________________________________</p>
+
+      <p>___________________________________________________________________________________________</p>
+    </section>
+
+    <section>
+      <title>Underskrifter</title>
+
+      <table>
+        <tr>
+          <td>Bruksrettsløyvar</td>
+
+          <td>Bruksrettsmottakar (søkar fyller ut)</td>
+        </tr>
+
+        <tr>
+          <td>Tid og stad:</td>
+
+          <td>Tid og stad:</td>
+        </tr>
+
+        <tr>
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Underskrift:</td>
+
+          <td>Undeskrift</td>
+        </tr>
+
+        <tr>
+          <td></td>
+
+          <td></td>
+        </tr>
+      </table>
+    </section>
+
+    <section>
+      <title>Vedlegg</title>
+
+      <p>Vedlegg 1: Tekstane denne avtalen gjeld</p>
+
+      <p>Vedlegg 2: Klagerett</p>
+    </section>
+
+    <p>This is a template.</p>
+  </body>
+</document>
