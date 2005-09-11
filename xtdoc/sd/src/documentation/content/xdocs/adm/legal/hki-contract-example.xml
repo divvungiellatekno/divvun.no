@@ -12,7 +12,7 @@
     href="http://www.csc.fi/suomi/info/index.phtml.en">Finnish IT center for
     science</a> for their <a
     href="http://www.csc.fi/kielipankki/index.phtml.sv">Text bank</a>. Since
-    the text </p>
+    the text</p>
 
     <section>
       <title>Avtale om overføring av bruksrett for tekstar</title>
@@ -25,39 +25,114 @@
           (<code>bruksrettsgjevar</code>)</title>
 
           <table>
-            <tr><td>Opphagsrettsleg stilling</td><td>&nbsp;</td></tr>
-            <tr><td>Namn</td>                    <td>&nbsp;</td></tr>
-            <tr><td>Adresse</td>                 <td>&nbsp;</td></tr>
-            <tr><td>Postnummer og -stad</td>     <td>&nbsp;</td></tr>
+            <tr>
+              <td>Opphagsrettsleg stilling</td>
+
+              <td>&nbsp;</td>
+            </tr>
+
+            <tr>
+              <td>Namn</td>
+
+              <td>&nbsp;</td>
+            </tr>
+
+            <tr>
+              <td>Adresse</td>
+
+              <td>&nbsp;</td>
+            </tr>
+
+            <tr>
+              <td>Postnummer og -stad</td>
+
+              <td>&nbsp;</td>
+            </tr>
           </table>
 
-          <p/>
+          <p></p>
 
           <table>
-            <tr><td>Opphagsrettsleg stilling</td><td>&nbsp;</td></tr>
-            <tr><td>Namn</td>                    <td>&nbsp;</td></tr>
-            <tr><td>Adresse</td>                 <td>&nbsp;</td></tr>
-            <tr><td>Postnummer og -stad</td>     <td>&nbsp;</td></tr>
+            <tr>
+              <td>Opphagsrettsleg stilling</td>
+
+              <td>&nbsp;</td>
+            </tr>
+
+            <tr>
+              <td>Namn</td>
+
+              <td>&nbsp;</td>
+            </tr>
+
+            <tr>
+              <td>Adresse</td>
+
+              <td>&nbsp;</td>
+            </tr>
+
+            <tr>
+              <td>Postnummer og -stad</td>
+
+              <td>&nbsp;</td>
+            </tr>
           </table>
 
-          <p/>
+          <p></p>
 
           <table>
-            <tr><td>Opphagsrettsleg stilling</td><td>&nbsp;</td></tr>
-            <tr><td>Namn</td>                    <td>&nbsp;</td></tr>
-            <tr><td>Adresse</td>                 <td>&nbsp;</td></tr>
-            <tr><td>Postnummer og -stad</td>     <td>&nbsp;</td></tr>
+            <tr>
+              <td>Opphagsrettsleg stilling</td>
+
+              <td>&nbsp;</td>
+            </tr>
+
+            <tr>
+              <td>Namn</td>
+
+              <td>&nbsp;</td>
+            </tr>
+
+            <tr>
+              <td>Adresse</td>
+
+              <td>&nbsp;</td>
+            </tr>
+
+            <tr>
+              <td>Postnummer og -stad</td>
+
+              <td>&nbsp;</td>
+            </tr>
           </table>
 
-          <p/>
+          <p></p>
 
           <table>
-            <tr><td>Opphagsrettsleg stilling</td><td>&nbsp;</td></tr>
-            <tr><td>Namn</td>                    <td>&nbsp;</td></tr>
-            <tr><td>Adresse</td>                 <td>&nbsp;</td></tr>
-            <tr><td>Postnummer og -stad</td>     <td>&nbsp;</td></tr>
-          </table>
+            <tr>
+              <td>Opphagsrettsleg stilling</td>
 
+              <td>&nbsp;</td>
+            </tr>
+
+            <tr>
+              <td>Namn</td>
+
+              <td>&nbsp;</td>
+            </tr>
+
+            <tr>
+              <td>Adresse</td>
+
+              <td>&nbsp;</td>
+            </tr>
+
+            <tr>
+              <td>Postnummer og -stad</td>
+
+              <td>&nbsp;</td>
+            </tr>
+          </table>
         </section>
 
         <section>
@@ -66,8 +141,11 @@
 
           <ul>
             <li>Helsingfors universitet</li>
+
             <li>Institutionen för språkvetenskap</li>
+
             <li>PB 4 (Fabiansgatan 28)</li>
+
             <li>00014 Helsingfors universitet</li>
           </ul>
         </section>
@@ -134,6 +212,10 @@
         <code>Bruksrettsmottakar</code> forpliktar seg til å informere
         <code>bruksrettsgjevar</code> med ein gong han får kjennskap til
         mogleg brot på desse vilkåra.</p>
+
+        <note>Det som her er sett som paragraf 3.8. er fjerna i den endelege
+        versjonen frå Helsingfors (hki-ex-1.tex), og paragrafane 3.9 t.o.m.
+        3.14 er renummererert som 3.8 t.o.m. 3.13.</note>
 
         <p>3.8 Bruksrett gjeld rett til å utnytte (i samsvar med lov og reglar
         for opphavsrett og med god vitskapleg skikk)</p>
