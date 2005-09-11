@@ -8,10 +8,10 @@
 
   <body>
     <section>
-      <title>Avtalepartane</title>
+      <title>1. Avtalepartane</title>
 
       <section>
-        <title>Bruksrettstingar (nedanfor <code>tingar</code>)</title>
+        <title>1.1 Bruksrettstingar (nedanfor <code>tingar</code>)</title>
 
         <table>
           <tr>
@@ -41,19 +41,20 @@
       </section>
 
       <section>
-        <title>Bruksrettsprodusent (nedanfor <code>produsent</code>)</title>
+        <title>1.2 Bruksrettsprodusent (nedanfor
+        <code>produsent</code>)</title>
 
         <table>
           <tr>
             <td>Opphagsrettsleg stilling</td>
 
-            <td>&nbsp;Universitetet i Tromsø (Kielipankki)</td>
+            <td></td>
           </tr>
 
           <tr>
             <td>Namn</td>
 
-            <td>&nbsp;</td>
+            <td>&nbsp;Universitetet i Tromsø&nbsp;</td>
           </tr>
 
           <tr>
@@ -72,61 +73,81 @@
     </section>
 
     <section>
-      <title>Formålet med avtalen</title>
+      <title>2. Formålet med avtalen</title>
 
-      <p>(Skildrar UIT)</p>
+      <p>2.1 (Skildrar UIT)</p>
 
-      <p>Etter denne avtalen har <code>produsenten</code> forplikta seg til å
-      plassere <code>tingaren</code> si <code>tekstsamling</code> på ein tenar
-      som produsenten forpliktar seg til å ha ansvaret for.</p>
+      <p>2.2 Etter denne avtalen har <code>produsenten</code> forplikta seg
+      til å plassere <code>tingaren</code> si <code>tekstsamling</code> på ein
+      tenar som produsenten forpliktar seg til å ha ansvaret for.</p>
 
-      <p><code>Produsenten</code> gjev teknisk bruksrett over
+      <p><code>2.3 Produsenten</code> gjev teknisk bruksrett over
       <code>tekstsamlinga</code> til dei forskarane som tingaren har gjeve
-      <code>løyve</code> til å bruke tekstsamlinga.</p>
+      <code>løyve</code> til å bruke tekstsamlinga, slik at dei kan bruke
+      <code>tekstsamlinga </code>via nettverket <code>namn på
+      nettverk</code>.</p>
+
+      <p>2.4 <code>Produsenten</code> gjev teknisk bruksrett over
+      <code>tekstsamlinga</code> til dei forskarane som <code>tingaren</code>
+      har gjeve bruksrett til.</p>
     </section>
 
     <section>
-      <title>Tekstane i tekstsamlinga</title>
+      <title>3. Tekstane i tekstsamlinga</title>
 
-      <p><code>Tekstane</code> som høyrer til i <code>tekstsamlinga</code>,
-      storleiken deira, og avtalane som er knytt til dei er definert i vedlegg
-      1.</p>
+      <p><code>3.1 Tekstane</code> som høyrer til i
+      <code>tekstsamlinga</code>, storleiken deira, og avtalane som er knytt
+      til dei er definert i vedlegg 1.</p>
     </section>
 
     <section>
-      <title>Produsentens pliktar og ansvar</title>
+      <title>4. Produsentens pliktar og ansvar</title>
 
-      <p><code>Produsenten</code> har ansvar for at dei bruksoppgåvene som er
-      definert for han i avtalen blir utført profesjonelt og etter god teknisk
-      yrkesskikk, og etter dei skriftlege bruksrettleiingane som avtalepartane
-      har vorte samde om.</p>
+      <p><code>4.1 Produsenten</code> har ansvar for at dei bruksoppgåvene som
+      er definert for han i avtalen blir utført profesjonelt og etter god
+      teknisk yrkesskikk, og etter dei skriftlege bruksrettleiingane som
+      avtalepartane har vorte samde om.</p>
 
-      <p><code>Produsenten</code> er alnsvarleg for å følgje slik god skikk
-      for elektronisk datahandsaming at dattatryggleik og datavern blir teke
-      vare på.</p>
+      <p><code>4.2 Produsenten</code> er alnsvarleg for å følgje slik god
+      skikk for elektronisk datahandsaming at dattatryggleik og datavern blir
+      teke vare på.</p>
 
-      <p>Produsenten garanterer for at vilkåra i avtalen blir oppfylde innafor
-      den handsamisngstida som det er gjort avtale om.</p>
+      <p>4.3 Produsenten garanterer for at vilkåra i avtalen blir oppfylde
+      innafor den handsamisngstida som det er gjort avtale om.</p>
+
+      <p>4.4 Produsenten garanterer for dei maskinene som er i hans eller
+      hennes eigne lokale, og for at tryggleikskopiar kan ble tekne og
+      oppbevart på ein måte som samsvarer med skriftlege rettleiingar som
+      begge partane har godteke.</p>
+
+      <note>Originalens §4.5 galdt moglege problem i samband med
+      tusenårsskiftet, og går derfor ut.</note>
     </section>
 
     <section>
-      <title>Rettar</title>
+      <title>5. Rettar</title>
 
-      <p>Eigedomsrettane og dei immaterielle rettane til produkta og dei
-      avleidd eprogramma til ... (this one is untranslatable, there is a
-      subject missing in the original) Sopimuksen kohteena olevien palveluiden
-      tuottamisessa käytettävien tuotteiden ja sovellusten, jotka ovat
-      \termi{tilaajan} omistamia, vuokraamia, valmistamia tai joista
-      tilaajalla on käyttöoikeussopimus omistus- ja immateriaalioikeudet ovat
-      yksin \termi{tilaajalla} tai kolmannella osapuolella.</p>
+      <p>5.1 Eigedomsrettane og dei immaterielle rettane til produkta og dei
+      avleidde programma som tingaren eiger, leiger, har laga, eller dei
+      avleidde programma som tingaren har bruksrett til, tilhøyrer berre
+      tingaren eller tredjepart. </p>
 
-      <p>Produsenten har bruksrett til programprodukta og skildringane som
+      <warning>This one is untranslatable, there is probably a subject missing
+      in the original. Here is the original:</warning>
+
+      <note>Sopimuksen kohteena olevien palveluiden tuottamisessa käytettävien
+      tuotteiden ja sovellusten, jotka ovat {tilaajan} omistamia, vuokraamia,
+      valmistamia tai joista tilaajalla on käyttöoikeussopimus omistus- ja
+      immateriaalioikeudet ovat yksin {tilaajalla} tai kolmannella
+      osapuolella.</note>
+
+      <p>5.2 Produsenten har bruksrett til programprodukta og skildringane som
       tingaren har gjeve til produsenten, og til kunnskapsmaterialet berre for
       bruk til tingaren sin "suottaminen". Tingaren har ansvaret for at
       naudsynte løyver for gjennomføringa av desse oppgåvene er skaffa til
       veges.</p>
 
-      <p>Tingaren kan, om han vil, få tilgang til resultatet av
+      <p>5.3 Tingaren kan, om han vil, få tilgang til resultatet av
       utviklingsarbeidet til produsenten, eller til tredjepart, som er
       tilgjengeleg til tenestekundane til produsenten. Overføringa av produkta
       frå utviklingsarbeidet til tingaren, og betaling for dette, blir det
@@ -134,28 +155,87 @@
     </section>
 
     <section>
-      <title>Garanti</title>
+      <title>6. Garanti</title>
 
-      <p>Viss det er mangtlar eller feil i databasen som følgje av feil
-      tingaren har gjort, skal partane i lag bli samde om å få databasen i
-      normaltisltand. Produsenten utfører naudsynte maskinhandsamingar
-      kostnadsfritt, etter metodar som diktert av tingaren eller av
-      systemet.</p>
+      <p>6.1 Viss det er mangtlar eller feil i databasen som følgje av feil
+      <code>tingaren</code> har gjort, skal partane i lag bli samde om å få
+      databasen i normaltisltand. <code>Produsenten</code> utfører naudsynte
+      maskinhandsamingar kostnadsfritt, etter metodar som diktert av
+      <code>tingaren</code> eller av systemet.</p>
 
-      <p>Produsenten har ikkje ansvar for dei feil eller manglar som kjem av
-      kunnskapskjeldene som er brukt, av kunnskapskjeldene tingaren ...</p>
+      <p>6.2 <code>Produsenten</code> har ikkje ansvar for dei feil eller
+      manglar som kjem av kunnskapskjeldene som er brukt, av kunnskapskjeldene
+      tingaren har formidla, eller av moglege feil og manglar som kjem av
+      tingaren sine rettleiingarw</p>
+
+      <warning>The preceeding paragraph is unclear.</warning>
     </section>
 
     <section>
-      <title>Usemje</title>
+      <title>7. Usemje</title>
 
-      <p>Usemje..</p>
+      <p>7.1 Mogleg usemje skal partane primært prøve å løyse via
+      forhandlingar.</p>
     </section>
 
     <section>
-      <title>Oppseiing av avtalen</title>
+      <title>8. Oppseiing av avtalen</title>
 
-      <p>Oppseiing av avtalen..</p>
+      <p>8.1 Begge partane har rett til å seie opp avtalen med 6 månaders
+      varsel.</p>
+    </section>
+
+    <section>
+      <title>9. Avtalen trer i kraft, moglege endringar</title>
+
+      <p>9.1 Denne avtalen trer i kraft når begge partane har underteikna
+      han.</p>
+
+      <p>9.2 Det er laga to eksemplar av denne avtalen, ein til kvar
+      avtalepart. Avtalen kan endrast berre med avtalepartanes felles
+      skriftlege avtale.</p>
+    </section>
+
+    <section>
+      <title>10. Underskrifter</title>
+
+      <table>
+        <tr>
+          <td>Tingar</td>
+
+          <td>Produsent</td>
+        </tr>
+
+        <tr>
+          <td>Tid og stad</td>
+
+          <td>Tid og stad</td>
+        </tr>
+
+        <tr>
+          <td></td>
+
+          <td>&nbsp;</td>
+        </tr>
+
+        <tr>
+          <td>Underskrift:</td>
+
+          <td>Underskrift:</td>
+        </tr>
+
+        <tr>
+          <td></td>
+
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+    </section>
+
+    <section>
+      <title>11. Vedlegg</title>
+
+      <p>Vedlegg 1. Skildring av tekstane.</p>
     </section>
   </body>
 </document>
