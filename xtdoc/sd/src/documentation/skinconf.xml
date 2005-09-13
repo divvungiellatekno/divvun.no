@@ -139,6 +139,11 @@ which will be used to configure the chosen Forrest skin.
     dt {
       font-weight: bold;
     }
+    pre.code {
+      border: 1pt solid #ddd ;
+      padding: 2pt ;
+      background: #efefef ;
+    }
   </extra-css>
   <colors>
 <!-- These values are used for the generated CSS files. -->
