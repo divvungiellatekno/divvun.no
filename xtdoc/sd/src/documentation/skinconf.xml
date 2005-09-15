@@ -149,6 +149,9 @@ which will be used to configure the chosen Forrest skin.
       padding: 2pt ;
       background: #efefef ;
       font-size: 88%;
+      margin-right: 60pt;
+      margin-left:  12pt;
+      margin-bottom: 5pt;
     }
     div.abstract:before {
       display: block;
