@@ -144,6 +144,19 @@ which will be used to configure the chosen Forrest skin.
       padding: 2pt ;
       background: #efefef ;
     }
+    div.abstract {
+      border: 1pt dotted #ddd ;
+      padding: 2pt ;
+      background: #efefef ;
+      font-size: 88%;
+    }
+    div.abstract:before {
+      display: block;
+      text-align: left;
+      content: "Abstract:";
+      font-weight: bold;
+      font-size: small;
+    }
   </extra-css>
   <colors>
 <!-- These values are used for the generated CSS files. -->
