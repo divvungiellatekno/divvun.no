@@ -20,7 +20,24 @@
 
   <body>
     <section>
-      <title>Framdrift</title>
+      <title>Planlagt framdrift</title>
+
+      <p>I timeplanen som vart godkjend av styringsgruppa i desember 2005, var
+      desse måla lista opp for fyrste halvår:</p>
+
+      <ul>
+        <li>Frist for offentlege tilbod på dei utlyste delane av
+        prosjektet</li>
+
+        <li>Infra-strukturen er ferdig</li>
+
+        <li>Prosjektorganisasjon og –kommunikasjon fungerer
+        tilfredsstillande</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Faktisk framdrift</title>
 
       <p>Rapporten går gjennom framdrifta for kvar hovudbolk i
       prosjektarbeidet: lingvistisk arbeid, infrastrukturbygging,
@@ -31,11 +48,21 @@
         <title>Lingvistisk arbeid</title>
 
         <p>Det fyrste halvåret har vi arbeidd med å oppdatera den nordsamiske
-        modellen, byggja ut leksikonet</p>
+        modellen, byggja ut leksikonet og korrigera feil. Mot slutten av
+        halvåret har vi òg byrja å sjå på lulesamisk.</p>
+
+        <p>Den nordsamiske språkmodellen har vorte mykje betre under dette
+        halvåret, men nokre hol i den lingvistiske modellen står enno att. Når
+        det gjeld den leksikalske dekninga (dvs kor mange ord som blir kjent
+        att i ein vanleg tekst) er det to hovudpunkt som står att: å byggja ut
+        namneleksikonet, og byggja opp korpuset skikkeleg, slik at vi kan
+        testa mot korpuset og leggja inn ukjende ord. Vi har òg identifisert
+        ein del uklåre punkt i normeringa av nordsamisk, og har sendt ei liste
+        med spørsmål som bør klårgjerast til samisk språknemnd.</p>
       </section>
 
       <section>
-        <title>Infrastruktur</title>
+        <title>Prosjektinfrastruktur</title>
 
         <p>Infrastrukturarbeidet har konsentrert seg om desse punkta:</p>
 
@@ -54,8 +81,9 @@
         <p>Alle desse punkta er no gjennomførte og fungerer tilfredsstillande.
         Vi har ei heimeside for prosjektet på http://www.divvun.no/, der all
         prosjektdokumentasjon, møtereferat, rapportar m.m. finst tilgjengeleg.
-        Feildatabasen vår finst på http://giellatekno.uit.no/bugzilla/, og
-        kven som helst kan bla i databasen, og fylgja med arbeidet med dei
+        Feildatabasen vår finst på <a
+        href="http://giellatekno.uit.no/bugzilla/">http://giellatekno.uit.no/bugzilla/</a>,
+        og kven som helst kan bla i databasen, og fylgja med arbeidet med dei
         registrerte feila (men ein må vera registrert brukar for å kunna
         leggja inn feil og merknader).</p>
       </section>
@@ -93,13 +121,24 @@
 
         <p>Alle viktige tekstprodusentar har allereie vorte kontakta, og er
         informert om prosjektet. Dei aller fleste har uttrykt seg positivt
-        eller svært positivt til samarbeid med Divvun-prosjektet.</p>
+        eller svært positivt til samarbeid med Divvun-prosjektet, det bør
+        derfor ikkje bli noko problem å få samla i hop eit tilstrekkjeleg
+        stort nordsamisk korpus. Særleg bør nemnast at både Min Áigi og Áššu
+        er så interesserte at dei har samla for oss både ukorrigerte og
+        korrekturleste manuskript, Áššu sidan slutten av mai, og Min Áigi i to
+        års tid.</p>
       </section>
 
       <section>
         <title>Korrekturprogram</title>
 
-        <p>asf</p>
+        <p>Noko eigentleg arbeid med korrekturprogram var ikkje planlagt for
+        fyrste halvår, men vi valde å prøva å få ferdig ein demonstrasjon av
+        analysatoren vår i kombinasjon med ein stavekontroll basert på han til
+        konferansen FSMNLP-05 i august/september i Helsingfors. Vi klarte det,
+        og har dermed allereie nådd eitt av måla for andre halvår: å ha ein
+        alfaversjon av stavekontrollen for nordsamisk ferdig. Stavekontrollen
+        vil bli demonstrert på møtet i styringsgruppa.</p>
       </section>
 
       <section>
