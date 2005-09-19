@@ -34,14 +34,15 @@
         <li>Prosjektorganisasjon og –kommunikasjon fungerer
         tilfredsstillande</li>
       </ul>
-
-      <p>Det fyrste punktet er enno ikkje gjennomført, dei andre er fullført.
-      I tillegg har vi gjort ein god del som ikkje var spesifisert i den
-      overordna planen.</p>
     </section>
 
     <section>
       <title>Faktisk framdrift</title>
+
+      <p>Det fyrste punktet av den planlagde framdrifta er enno ikkje
+      gjennomført, dei andre er fullført. I tillegg har vi gjort ein god del
+      som ikkje var spesifisert i den overordna planen, i hovudsak opplæring
+      og lingvistisk arbeid.</p>
 
       <p>Rapporten går gjennom framdrifta for kvar hovudbolk i
       prosjektarbeidet: lingvistisk arbeid, infrastrukturbygging,
@@ -62,10 +63,7 @@
         namneleksikonet, og byggja opp korpuset skikkeleg, slik at vi kan
         testa mot korpuset og leggja inn ukjende ord. Vi har òg identifisert
         ein del uklåre punkt i normeringa av nordsamisk, og har sendt ei liste
-        med spørsmål som bør klårgjerast til samisk språknemnd.</p>
-
-        <fixme author="SNM">Check the Norw. name of the normative body we have
-        sent the normative issues to.</fixme>
+        med spørsmål som bør klårgjerast til Samisk språknemnd.</p>
 
         <p>Vi har òg byrja arbeidet med lulesamisk, med ein gjennomgang av den
         språklege modellen. Neste steg blir å byggja ut leksikonet til eit
@@ -158,25 +156,65 @@
       <section>
         <title>Prosjektleiing</title>
 
-        <p>asdf</p>
+        <p>Det fyrste halvåret av prosjektet har mykje av tida til
+        prosjektleiaren gått med til å gjera ferdig eit tidlegare påbyrja
+        arbeid for Sametinget: nettstaden og termbasen <a
+        href="http://www.risten.no/">risten.no</a>. Nettstaden er no ferdig,
+        og vart opna for allmenn bruk 23. juni i år.</p>
+
+        <p>Risten.no vil vera til hjelp for Divvun òg, i fyrste omgang ved at
+        ein stor mengde terminologi vil vera tilgjengeleg for utviklinga av
+        Divvun. Slik materialet fanst tilgjengeleg tidlegare, på
+        www.samisk-sr.no, kunne det ikkje brukast utan omfattande arbeid. Den
+        tidlegare termbasen var heller ikkje fleirspråkleg (berre tospråkleg
+        nordsamisk-norsk), medan den nye termbasen vil vera ei viktig hjelp
+        for å utvikla lule- og sørsamisk terminologi, og dermed til hjelp for
+        den lulesamiske delen av Divvun, og tilsvarande framtidige, sørsamiske
+        prosjekt.</p>
+
+        <p>Det er to punkt i arbeidsplanen som har fått lida pga arbeidet med
+        risten.no: arbeidet med å førebu utlysing av ein offentleg
+        tilbodsrunde for integrering av korrekturverktya, og utarbeidinga av
+        ein detaljarbeidsplan. Den daglege drifta av prosjektet har gått som
+        planlagt.</p>
+
+        <p>Mangelen av ein detaljarbeidsplan har til no ikkje vore eit stort
+        problem, dei fleste oppgåvene har vore klåre og vi har halde oss til
+        den timeplanen som vart lagt til grunn ved prosjektstart. Etter kvart
+        som prosjektet byrjar utvikla testversjonar og involverer både
+        eksterne leverandørar og testarar, vil ei meir detaljert styring vera
+        viktig. Dette gjeld òg samarbeidet med Universitetet i Tromsø, og er
+        noko som allereie er diskutert med det prosjektet. Detaljplanlegginga
+        vil bli starta i nær framtid.</p>
+
+        <p>Det er heller ikkje enno noko stort problem at arbeidet med
+        tilbodsteksten har vorte forseinka. Ikkje noko av det arbeidet vi har
+        gjort til no har vore påverka av dette, og heller ikkje arbeidet det
+        nærmaste halvåret treng bli påverka i særleg grad av om vi har ei
+        avtale med eksterne leverandørar eller ikkje. Sjølv om det ville vera
+        bra å ha tilbodsprosessen i gang, kan det òg vera fordelar med å
+        venta: med ei meir moden prosjektgruppe og med røynsla frå å laga den
+        aller fyrste testversjonen er vi betre i stand til å skriva ein god
+        kravspesifikasjon.</p>
       </section>
 
       <section>
         <title>Oppsummering</title>
 
-        <p>Det fyrste halvåret har</p>
+        <p>Divvun-prosjektet hadde ei samling i Kautokeino i mai i år, og
+        gjennomførte ei intern evaluering av prosjektet så langt. Evalueringa
+        inneheldt overraskande lite problem og negative merknader. Vi har fått
+        ei god prosjektgruppe med godt samarbeid, og framdrifta har, med
+        ovannemnde unnatak, vore heilt etter planen. Det fyrste halvåret lovar
+        såleis godt for resten av prosjektperioden.</p>
       </section>
     </section>
 
     <section>
       <title>Framlegg til endringar i prosjektplanen</title>
 
-      <p>Som nemnt i avsnittet over om halvårsevalueringa, er vi i rute, med
-      unnatak av dei to punkta som etter kvart har vorte gjennomgangarar,
-      arbeidsplan og tilbodsspesifisering. I og med at vi no nærmar oss den
-      offisielle opninga av termbasen, byrjar det å merkast at arbeidet der
-      blir mindre, sjølv om eg reknar med ein ny topp dei to siste vekene før
-      opninga. For å ta att den tapte tida føreslår eg fylgjande for
+      <p>På grunn av arbeidet med termbasen risten.no, føreslår eg nokre
+      endringar i planane for prosjektet, nærmare bestemt for
       tilbodsspesifiseringa:</p>
 
       <ul>
@@ -192,7 +230,7 @@
         <li>frist for innkomne tilbod kring midten av november</li>
 
         <li>forslag til leverandør blir lagt fram for styringsgruppa på neste
-        møte (i januar?), som gjer endeleg vedtak.</li>
+        møte (til vinteren), som gjer endeleg vedtak.</li>
       </ul>
 
       <p>Eit vedtak i januar er 3-4 månader seinare enn opphavleg planlagt,
