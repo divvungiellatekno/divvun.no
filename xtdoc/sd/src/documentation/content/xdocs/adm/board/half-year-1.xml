@@ -7,9 +7,9 @@
 
     <subtitle>1. halvår 2005</subtitle>
 
-    <version major="0" minor="1" tag="$Id$">Fyrste utkast, berre til innvortes
-    bruk. Utkastet er no komplett, og kan kommenterast som ein
-    heilskap.</version>
+    <version major="0" minor="3"
+    tag="$Id$">Andre
+    utkast, sendt til Bitte for kommentar.</version>
 
     <authors>
       <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
@@ -71,7 +71,7 @@
         reelt leksikon, pr. i dag er det berre eit testleksikon på kring 1000
         ord. Vi har byrja å diskutera med Anders Kintel, forfattar av ei ny
         lulesamisk-norsk ordbok, om å få bruka materialet hans. Aller helst
-        vil vi ha eit kontinuerleg samarbeid.</p>
+        vil vi ha eit kontinuerleg samarbeid med han.</p>
       </section>
 
       <section>
@@ -267,9 +267,9 @@
       <section>
         <title>Konklusjon</title>
 
-        <p>Med ein revidert plan som skissert over, burde vi vera i rute i
-        høve til den opphavlege timeplanen om eitt års tid, dvs mot slutten av
-        neste sommar.</p>
+        <p>Med ein revidert plan som skissert over, burde prosjektet vera i
+        rute i høve til den opphavlege timeplanen om eitt års tid, dvs mot
+        slutten av neste sommar.</p>
       </section>
     </section>
   </body>
