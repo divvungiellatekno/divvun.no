@@ -108,19 +108,19 @@
       teknisk yrkesskikk, og etter dei skriftlege bruksrettleiingane som
       avtalepartane har vorte samde om.</p>
 
-      <p><code>4.2 Produsenten</code> er alnsvarleg for å følgje slik god
-      skikk for elektronisk datahandsaming at dattatryggleik og datavern blir
+      <p><code>4.2 Produsenten</code> er ansvarleg for å følgje slik god
+      skikk for elektronisk datahandsaming at datatryggleik og datavern blir
       teke vare på.</p>
 
       <p>4.3 Produsenten garanterer for at vilkåra i avtalen blir oppfylde
-      innafor den handsamisngstida som det er gjort avtale om.</p>
+      innafor den handsamingstida som det er gjort avtale om.</p>
 
       <p>4.4 Produsenten garanterer for dei maskinene som er i hans eller
       hennes eigne lokale, og for at tryggleikskopiar kan ble tekne og
       oppbevart på ein måte som samsvarer med skriftlege rettleiingar som
       begge partane har godteke.</p>
 
-      <note>Originalens §4.5 galdt moglege problem i samband med
+      <note>Originalens §4.5 gjaldt moglege problem i samband med
       tusenårsskiftet, og går derfor ut.</note>
     </section>
 
@@ -157,16 +157,16 @@
     <section>
       <title>6. Garanti</title>
 
-      <p>6.1 Viss det er mangtlar eller feil i databasen som følgje av feil
+      <p>6.1 Viss det er manglar eller feil i databasen som følgje av feil
       <code>tingaren</code> har gjort, skal partane i lag bli samde om å få
-      databasen i normaltisltand. <code>Produsenten</code> utfører naudsynte
+      databasen i normaltilstand. <code>Produsenten</code> utfører naudsynte
       maskinhandsamingar kostnadsfritt, etter metodar som diktert av
       <code>tingaren</code> eller av systemet.</p>
 
       <p>6.2 <code>Produsenten</code> har ikkje ansvar for dei feil eller
       manglar som kjem av kunnskapskjeldene som er brukt, av kunnskapskjeldene
       tingaren har formidla, eller av moglege feil og manglar som kjem av
-      tingaren sine rettleiingarw</p>
+      tingaren sine rettleiingar.</p>
 
       <warning>The preceeding paragraph is unclear.</warning>
     </section>
