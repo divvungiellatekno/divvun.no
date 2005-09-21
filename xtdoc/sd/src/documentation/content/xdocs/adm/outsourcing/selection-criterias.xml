@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+  <header>
+    <title>Outsourcing — selection criterias</title>
+
+    <subtitle>A precise description of the criterias used for selecting
+    vendors</subtitle>
+
+    <version>0.1</version>
+
+    <type>Internal draft</type>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+
+    <abstract>In conformance with the guidelines from the Norwegian ministry
+    of trade and industry (Nærings- og handelsdepartementet, NHD) (see <a
+    href="http://www.odin.dep.no/nhd/norsk/publ/veiledninger/024081-120012/index-dok000-b-n-a.html">Veileder</a>)</abstract>
+  </header>
+
+  <body>
+    <section>
+      <title>Selection criterias</title>
+
+      <p>asdf</p>
+    </section>
+
+    <section>
+      <title>Weighting of the criterias</title>
+
+      <p>asdf</p>
+    </section>
+
+    <p class="last_modified">Last modified: $Date$, by
+    $Author$</p>
+  </body>
+</document>

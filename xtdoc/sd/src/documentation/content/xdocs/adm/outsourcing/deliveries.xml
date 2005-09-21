@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+  <header>
+    <title>Outsourcing — Deliverables</title>
+
+    <subtitle>Exact specification of the deliverables</subtitle>
+
+    <version>0.1</version>
+
+    <type>Internal draft</type>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Introduction</title>
+
+      <p>The basic goal of the outsourcing is to create the following tools
+      given the linguistic resources developed by the Divvun project team, and
+      in cooperation with the team.</p>
+
+      <table>
+        <caption>Overview of outsourced items</caption>
+
+        <tr>
+          <th>Host Application</th>
+
+          <th>Deliverables</th>
+        </tr>
+
+        <tr>
+          <td>Adobe InDesign 2 and newer</td>
+
+          <td><ul>
+              <li>hyphenator (sme)</li>
+            </ul></td>
+        </tr>
+
+        <tr>
+          <td>Microsoft Office 2000 and newer (running on Windows 2000 and
+          newer)</td>
+
+          <td><ul>
+              <li>speller (sme, smj)</li>
+
+              <li>hyphenator (sme)</li>
+            </ul></td>
+        </tr>
+
+        <tr>
+          <td>Microsoft Office 2004 and newer (running on MacOS X 10.3 and
+          newer)</td>
+
+          <td><ul>
+              <li>speller (sme, smj)</li>
+
+              <li>hyphenator (sme)</li>
+            </ul></td>
+        </tr>
+      </table>
+    </section>
+
+    <section>
+      <title>Adobe InDesign</title>
+
+      <p>The Divvun project will outsource the integration of a sme
+      hyphenator, and possibly the whole making of the hyphenator. In the
+      latter case, the Divvun project will provide the language-specific
+      algorithm, and of course be responsible for testing the linguistic
+      correctness of the deliverable.</p>
+
+      <note>We need to contact the most important users, and check which
+      version they are using or will be using. There's no use in requiring the
+      contractor to test against an older version than needed, it will only
+      add costs to the project.</note>
+    </section>
+
+    <section>
+      <title>Microsoft Office</title>
+
+      <p>The Divvun project will outsource the making and the integration of
+      the proofing tools for MS Office, based on the computational linguistic
+      models developed by the project.</p>
+    </section>
+
+    <p class="last_modified">Last modified: $Date$, by
+    $Author$</p>
+  </body>
+</document>
