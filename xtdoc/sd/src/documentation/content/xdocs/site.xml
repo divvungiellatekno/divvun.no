@@ -121,10 +121,11 @@
     <sam1 href="sd-contract-part-3.html" label="SD Contract, 3. part" description="SD Contract, third part" />
   </legal>
 
-  <outsourcing href="adm/" label="Outsourcing" tab="adm">
-    <techspec href="outsourcing/tech-spec.html"
-              label="Technical Specification"
-              description="Technical specification for the outsourced deliverables" />
+  <outsourcing href="adm/outsourcing/" label="Outsourcing" tab="outsrc">
+    <overview href="overview.html" label="Overview" description="Overview of the outsourcing of certain tasks" />
+    <delivers href="deliveries.html" label="Deliverables" description="Exact specification of deliverables" />
+    <techspec href="req-spec.html" label="Requirements Specification" description="Requirements specification for the outsourced tasks" />
+    <selcrit  href="selection-criterias.html" label="Selection Criterias" description="Selection Criterias for choosing the best offer" />
   </outsourcing>
 
   <board href="adm/board/" label="Styringsgruppa" tab="adm">
