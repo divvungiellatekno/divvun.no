@@ -15,23 +15,107 @@
     <authors>
       <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
     </authors>
-
-    <abstract>In conformance with the guidelines from the Norwegian ministry
-    of trade and industry (Nærings- og handelsdepartementet, NHD) (see <a
-    href="http://www.odin.dep.no/nhd/norsk/publ/veiledninger/024081-120012/index-dok000-b-n-a.html">Veileder</a>)</abstract>
   </header>
 
   <body>
     <section>
+      <title>Introduction</title>
+
+      <p>This document is written in conformance with the guidelines from the
+      Norwegian ministry of trade and industry (Nærings- og
+      handelsdepartementet, NHD) (see «Veileder», see link on the overview
+      page).</p>
+
+      <p>The purpose of the selection criterias is to select the economically
+      most appealling offer. The main criterion is price, but also indirect
+      costs and longer term costs will influence the decision.</p>
+
+      <p>The selection criterias as well as the weighting are decided upon by
+      the project board.</p>
+    </section>
+
+    <section>
       <title>Selection criterias</title>
 
-      <p>asdf</p>
+      <p>The following criterias will be used in selecting the vendor(s) for
+      contract work:</p>
+
+      <ol>
+        <li>price</li>
+
+        <li>technical compatibility with our existing linguistic resources and
+        language technology. The less compatible, the more work even for the
+        project team, and thus higher indirect costs</li>
+
+        <li>economical stability of the companies<note>This is more like a
+        risk analysis thing - does it belong here?</note></li>
+
+        <li>the outlook for future, long-term cooperation with the companies
+        (includes willingness to license tools to compile the binary lexicon
+        for the proofing tools to Sámediggi and the project group, such that
+        linguistic, non-technical updates can be delivered to end users
+        without involment from the cooperating companies). This criterion
+        involves costs in the longer run, and adds to the overall picture and
+        maintenance costs for the proofing tools.</li>
+
+        <li>the future, long term relationship between the participating
+        companies and the companies developing the software the proofing tools
+        should be integrated with.<note>This is also more of a risk analysis
+        type - it has no direct economical impact, but the risk is that the
+        cooperation between company X and e.g. Microsoft is stopped, blocking
+        company X from providing technical updates in the future.</note></li>
+
+        <li>Quality and user evaluation of corresponding tools for other
+        languages. In the case of the InDesign hyphenator, it is essential
+        that a company can provide a substantially higher cost/benefit ratio
+        than taking on the task ourselves, as well as a documented capability
+        to develop high-quality hyphenation modules. In the case of proofing
+        tools for MS Office, it is important that the estimated quality of the
+        end user products are high enough for our end users, to reduce the
+        risk of extra work and higher costs later on in the
+        project.<note>Again, this might belong somewhere else, but at the same
+        time, these two points should have an impact on which company to
+        select.</note></li>
+      </ol>
+
+      <p>The exact documentation needed to support a decision based on these
+      criterias is specified in the main public tender document.</p>
     </section>
 
     <section>
       <title>Weighting of the criterias</title>
 
-      <p>asdf</p>
+      <p>The above criterias are given a certain weight according to the
+      following list (in the same order):</p>
+
+      <ol>
+        <li>30 %</li>
+
+        <li>20 %</li>
+
+        <li>10 %</li>
+
+        <li>15 %</li>
+
+        <li>10 %</li>
+
+        <li>15 %</li>
+      </ol>
+
+      <p>For each criteria, the companies are ranked from 10 (best) to 1,
+      based on the documentation given in the offer. The ranking is a simple
+      ordering, and does not express any evaluation beyond being equal to,
+      better than or worse than the other companies attending. [More...]</p>
+
+      <fixme author="Sjur">I need help with this one - I'm not very good at
+      such weighting.</fixme>
+    </section>
+
+    <section>
+      <title>The final word</title>
+
+      <p>The final decision regarding which vendor(s) to employ for the
+      outsourced tasks is made by the project board.</p>
     </section>
 
     <p class="last_modified">Last modified: $Date$, by
