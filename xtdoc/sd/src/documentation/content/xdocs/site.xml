@@ -123,9 +123,10 @@
 
   <outsourcing href="adm/outsourcing/" label="Outsourcing" tab="outsrc">
     <overview href="overview.html" label="Overview" description="Overview of the outsourcing of certain tasks" />
+    <qualcrit href="qual-criterias.html" label="Qualification Criterias" description="Qualification Criterias to attend the public tender" />
+    <selcrit  href="selection-criterias.html" label="Selection Criterias" description="Selection Criterias for choosing the best offer" />
     <delivers href="deliveries.html" label="Deliverables" description="Exact specification of deliverables" />
     <techspec href="req-spec.html" label="Requirements Specification" description="Requirements specification for the outsourced tasks" />
-    <selcrit  href="selection-criterias.html" label="Selection Criterias" description="Selection Criterias for choosing the best offer" />
   </outsourcing>
 
   <board href="adm/board/" label="Styringsgruppa" tab="adm">
