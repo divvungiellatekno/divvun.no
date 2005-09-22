@@ -7,7 +7,8 @@
 
     <subtitle>Overview of all documents relating to outsourcing</subtitle>
 
-    <version>0.1</version>
+    <version major="0" minor="1" tag="$Id$">First draft of the
+    overview.</version>
 
     <type>Internal draft</type>
 
@@ -50,7 +51,9 @@
         href="http://odin.dep.no/filarkiv/205310/vedlegg1.doc">Template</a>
         for Public Tender Document (MS Word document)</li>
 
-        <li>Deadlines for public tenders</li>
+        <li>Some <a
+        href="http://www.odin.dep.no/nhd/norsk/dok/andre_dok/veiledninger/024081-120012/hov008-bn.html">deadlines</a>
+        for public tenders</li>
       </ul>
     </section>
 
@@ -70,6 +73,11 @@
         <li>The public tender will be opened about two months after the
         project board meeting (suggestion: November 20<sup>th</sup>)</li>
 
+        <li>There might be a deadline for expressing interest in giving an
+        offer, cf <a
+        href="http://www.odin.dep.no/nhd/norsk/dok/andre_dok/veiledninger/024081-120012/hov009-bn.html">this
+        document</a>, chapter 9.7.</li>
+
         <li>Attending companies should deliver their offer within the
         deadline, which is minimum 52 days after the public tender has been
         opened (if opened at November 20<sup>th</sup>, the deadline would be
@@ -81,7 +89,7 @@
         to outsource to</li>
 
         <li>The decision will be made public at latest 48 days after the
-        deadline for the offers. Given that the offer deadline is January
+        deadline for the offers. If the offer deadline is January
         11<sup>th</sup>, the decision will be made public no later than
         February 28<sup>th</sup></li>
 
@@ -92,16 +100,36 @@
         for the public tender</li>
       </ol>
 
-      <p>øalsdkfj</p>
+      <p>This process and its schedule will be reviewed and finally decided
+      upon by the project board.</p>
     </section>
 
     <section>
       <title>The Public Tender Documents</title>
 
-      <p>asdf</p>
-    </section>
+      <p>The background and supporting documents regarding the public tender
+      are listed below. This list will be expanded and the documents refined
+      until the tender documentation is complete, at latest by the time of
+      publication of the public tender.</p>
 
-    <p class="last_modified">Last modified: $Date$, by
-    $Author$</p>
+      <ul>
+        <li><a href="qual-criterias.html">Qualification criterias</a> - the
+        minimum requirements to be able to participate in the round of public
+        tender</li>
+
+        <li><a href="selection-criterias.html">Selection criterias</a> - the
+        rules according to which the given offers will be ranked</li>
+
+        <li><a href="deliveries.html">Deliverables</a> - exact list of
+        deliverables, both obligatory and optional parts. The optionality is
+        on our side: we will have the possibility to decide later that we in
+        the end will do certain parts ourselves, depending on the offers
+        received, and the implementation suggested by the vendors.</li>
+
+        <li><a href="req-spec.html">Requirements specification</a> - the
+        complete set of requirements to the deliverables, and their
+        specification</li>
+      </ul>
+    </section>
   </body>
 </document>
