@@ -16,25 +16,21 @@
         <table>
           <tr>
             <td>Opphagsrettsleg stilling</td>
-
             <td>&nbsp;</td>
           </tr>
 
           <tr>
             <td>Namn</td>
-
             <td>&nbsp;</td>
           </tr>
 
           <tr>
             <td>Adresse</td>
-
             <td>&nbsp;</td>
           </tr>
 
           <tr>
             <td>Postnummer og -stad</td>
-
             <td>&nbsp;</td>
           </tr>
         </table>
@@ -47,25 +43,21 @@
         <table>
           <tr>
             <td>Opphagsrettsleg stilling</td>
-
             <td>&nbsp;</td>
           </tr>
 
           <tr>
             <td>Namn</td>
-
             <td>[t.d. Universitetet i Tromsø]</td>
           </tr>
 
           <tr>
             <td>Adresse</td>
-
             <td>&nbsp;</td>
           </tr>
 
           <tr>
             <td>Postnummer og -stad</td>
-
             <td>&nbsp;</td>
           </tr>
         </table>
@@ -75,30 +67,26 @@
     <section>
       <title>2. Formålet med avtalen</title>
 
-      <p>2.1 (Skildrar UIT)</p>
+      <p>2.1 (Skildrar tenesteleverandøren, i vårt tilfelle UiT. Skildringa
+      inneheld ei kortfatta oversikt over kva tenesteleverandøren gjer og
+      er)</p>
 
       <p>2.2 Etter denne avtalen har <code>produsenten</code> forplikta seg
       til å plassere <code>tingaren</code> si <code>tekstsamling</code> på ein
       tenar som produsenten forpliktar seg til å ha ansvaret for.</p>
 
-      <p>2.3 <code>Produsenten</code> gjev teknisk bruksrett over
-      <code>tekstsamlinga</code> til dei forskarane som tingaren har gjeve
-      <code>løyve</code> til å bruke tekstsamlinga, slik at dei kan bruke
+      <p>2.3 <code>Produsenten</code> forpliktar seg til å lagre 
+      <code>tekstsamlinga</code> på ei datamaskin på ein slik måte at ho er
+      tilgjengleleg for dei forskarane som tingaren har gjeve
+      <code>løyve</code> til å bruke tekstsamlinga til, slik at dei kan bruke
       <code>tekstsamlinga </code>via nettverket <code>namn på
-      nettverk</code>.</p>
+      nettverk</code>. [teknisk tilrettelegging for forskarbruk og anna relevant
+      bruk]</p>
 
-      <note>In the Finnish original, the network is a university network. The
-      next note is still valid - why do we need this § when we have the next,
-      more general one?</note>
-
-      <p>2.4 <code>Produsenten</code> gjev teknisk bruksrett over
+      <p>2.4 <code>Produsenten</code> skal gjeva teknisk tilgang til
       <code>tekstsamlinga</code> til dei forskarane som <code>tingaren</code>
-      har gjeve bruksrett til.</p>
+      har gjeve bruksrett til. [brukarnamn og passord]</p>
 
-      <note>What's the (content) difference between <strong>§2.3</strong> and
-      <strong>§2.4</strong>? In the Finnish original, <strong>§2.3</strong> is
-      using the verb «sijoittaa», whereas <strong>§2.4</strong> is using
-      «myöntää», but I am not able to see the difference.</note>
     </section>
 
     <section>
@@ -137,7 +125,7 @@
       og oppbevart på ein måte som samsvarer med skriftlege rettleiingar som
       begge partane har godteke.</p>
 
-      <note>There should be aj explicit reference to these
+      <note>There should be an explicit reference to these
       «rettleiingar».</note>
 
       <note>Originalens §4.5 gjaldt moglege problem i samband med
@@ -184,26 +172,18 @@
       maskinhandsamingar kostnadsfritt, etter metodar som diktert av
       <code>tingaren</code> eller av systemet.</p>
 
-      <p>6.2 <code>Produsenten</code> har ikkje ansvar for dei feil eller
-      manglar som kjem av informasjonskjeldene som er brukt, av
-      informasjonskjeldene <code>tingaren</code> har formidla, eller av
-      moglege feil og manglar som kjem av <code>tingaren</code> sine
-      rettleiingar.</p>
-
-      <warning>The preceeding paragraph is unclear.</warning>
-
-      <note>I changed «kunnskapskjelde» to «informasjonskjelde» - does it make
-      it more clear? Not really. What is unclear is how the information
-      sources relate to the tasks of the producer. Since this is unclear, it
-      is not possible to understand what kind of errors or misses the producer
-      should not be responsible for. I believe I understand the purpose of the
-      paragraph, but it should be reformulated. Below is a suggestion for
-      reformulation. SNM</note>
-
-      <p>6.2alt: <code>Produsenten</code> har ikkje ansvar for feil eller
+      <p>6.2 <code>Produsenten</code> har ikkje ansvar for feil eller
       manglar som kjem av feil eller manglar i informasjon eller rettleiing
       frå <code>tingaren</code>, eller i informasjon formidla av eller vist
       til av <code>tingaren</code>.</p>
+      
+      <note>It is unclear what the original refers to with the wording
+      <code>tietolähde</code>. Below is the orignial:</note>
+      
+      <note>TUOTTAJA ei vastaa niistä puutteista eikä virheistä, jotka aiheutuvat
+      tehtäviin käytetyistä tietolähteistä, TILAAJAN toimittamasta tietoaineistosta
+      tai TILAAJAN antamien ohjeiden mahdollisista virheistä tai
+      epätäsmällisyyksistä.</note>
     </section>
 
     <section>

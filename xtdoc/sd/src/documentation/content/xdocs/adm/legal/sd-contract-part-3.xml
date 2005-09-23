@@ -123,7 +123,8 @@
 
       <note>Another question is whether we (as in SD/Divvun/Univ. project)
       find the division into a- and b-text meaningful in the context of the
-      Sámi reality.</note>
+      Sámi reality. We would thus like to remove §4.1, and keep §4.2 as the only
+      paragraph, with reference to «text» rather than to «b-text».</note>
     </section>
 
     <section>
@@ -146,7 +147,10 @@
 
       <note>What kind of consequenses does this paragraph (§5.2) have on our
       work on disambiguation, corpus tools and proofing tools, especially if
-      we are considered regular users of the text bank?</note>
+      we are considered regular users of the text bank? We need to define our
+      work and positions such that it is part of the regular work of the
+      corpus repository owner and administrator, thus not requiring separate
+      user agreements.</note>
 
       <p>5.3 Bruksrett til <code>tekstsamlinga</code> er personleg, og kan
       ikkje overførast til ein annan person.</p>
@@ -169,20 +173,23 @@
       andre parten, dersom dei ikkje er i stand til å oppfylle krava i denne
       kontrakten.</p>
 
-      <p>5.8 <code>Bruksrettsløyvar</code> er ikkje ansvarleg for ...?, og
-      garanterer heller ikkje at kodinga er korrekt.</p>
+      <p>5.8 <code>Bruksrettsløyvar</code> er ikkje ansvarleg for å tilpasse bruken av
+      desse tekstane til noko spesielt formål, og garanterer heller ikkje for at
+      kodinga er korrekt.</p>
 
+      <note>... for the GRAMMATICAL encoding, or for any encoding?</note>
+      
       <p>5.9 Denne kontrakten trer i kraft når <code>bruksrettsløyvar</code>
       skriv under på han.</p>
 
       <p>5.10 Bruksretten er i kraft i eitt år etter siste dato som
-      <code>bruksrettsløyvaren</code> har skrive under på.</p>
+      <code>bruksrettsløyvaren</code> har skrive under på. Bruksretten kan
+      forlengjast etter søknad, sjå §8.</p>
 
-      <note>Do we want to restrict the usage license to only one year?</note>
-
-      <warning><strong>§5.8</strong> and <strong>§5.10</strong> was missing
-      from the original translation, and the present translations are
-      incomplete and/or not reliable.</warning>
+      <note>Do we want to restrict the usage license to only one year?
+      There should be a mechanism for easy prolonging of the contract. 
+      Cf. section 8. Alas, we added one sentence to §5.10 to make that option
+      explicit.</note>
     </section>
 
     <section>
@@ -229,7 +236,7 @@
         <tr>
           <td>Underskrift:</td>
 
-          <td>Undeskrift</td>
+          <td>Undeskrift:</td>
         </tr>
 
         <tr>
@@ -241,7 +248,7 @@
     </section>
 
     <section>
-      <title>8 Bruksløyve held fram</title>
+      <title>8 Framhald av bruksløyve</title>
 
       <table>
         <tr>
