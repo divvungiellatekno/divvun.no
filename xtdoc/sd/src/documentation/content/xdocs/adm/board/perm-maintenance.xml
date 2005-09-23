@@ -5,8 +5,7 @@
   <header>
     <title>Permanent driftsorganisasjon</title>
 
-    <version major="0" minor="2">Andre utkast - sendt til GIO/Anne Britt for
-    merknader</version>
+    <version major="1" minor="0" tag="$Id$">Endeleg versjon.</version>
 
     <authors>
       <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
@@ -87,9 +86,9 @@
         <dd>70 %</dd>
       </dl>
 
-      <p>Det bør nemnast at det pr i dag er vanskeleg å vurdera det eksakte
-      behoved for (lingvistisk) vedlikehalds- og oppdateringsarbeid, og
-      stillingsprosenten bør vurderast etter eitt år. Det same gjeld
+      <p>Det bør strekast under at det pr i dag er vanskeleg å vurdera det
+      eksakte behoved for (lingvistisk) vedlikehalds- og oppdateringsarbeid,
+      og stillingsprosenten bør vurderast etter eitt år. Det same gjeld
       arbeidsmengda og dermed prosenten for den tekniske sekretæren.</p>
 
       <p>For alle stillingane gjeld det at dei krev god forståing av
@@ -113,7 +112,9 @@
         leksikon (ordlister), og må derfor ha tilnærma morsmålskompetanse i
         båe, samt vera sikker i normeringa av båe. Dersom det ikkje finst
         slike kandidatar til stillinga, bør stillinga delast i to like store
-        delar.</p>
+        delar. Lingvisten (eller lingvistane) skal òg vera med og førebu og
+        planleggja nye prosjekt, og særleg vurdera det lingvistiske arbeidet
+        av slike.</p>
       </section>
 
       <section>
@@ -135,9 +136,10 @@
         <p>I mangel av eit betre namn blir den tredje stillinga her omtala som
         «teknisk sekretær». Stillinga inneheld ei blanding av sekretærliknande
         oppgåver, tekniske oppgåver og brukarkontakt, og krev «litt av alt».
-        Dersom nye prosjekt blir sett i gang, er det rimeleg at denne
-        stillinga får ansvaret som koordinator eller prosjektleiar for det nye
-        prosjektet.</p>
+        Denne stillinga skal ha hovudansvaret for å planleggja, førebu og
+        setja i gang nye prosjekt. Dersom nye prosjekt blir sett i gang, er
+        det rimeleg at denne stillinga får ansvaret som koordinator eller
+        prosjektleiar for dei.</p>
       </section>
     </section>
 
@@ -157,7 +159,8 @@
       opp kompetanse for framtida, og det bør leggjast vekt på å motivera
       noverande prosjektmedarbeidarar til å halda fram i den permanente
       driftsorganisasjonen. Ein kan ikkje rekna med at alle noverande
-      medarbeidarar vil halda fram, men jo større personalkontinuitet det er
+      medarbeidarar vil halda fram (det er heller ikkje set av
+      stillingsressursar til det), men jo større personalkontinuitet det er
       mogleg å få, desto betre for kontinuiteten i arbeidet og
       kunnskapsoverføringa til nye medarbeidarar.</p>
     </section>
@@ -193,20 +196,17 @@
         <tr>
           <td>Etterutdanning, konferansar, reiser</td>
 
-          <td>150 000,-</td>
+          <td>300 000,-</td>
         </tr>
 
         <tr>
           <th>Totalt</th>
 
-          <th>1 150 000,- NOK</th>
+          <th>1 300 000,- NOK</th>
         </tr>
       </table>
 
       <p>Budsjettet inkluderer ikkje utgifter til nye prosjekt.</p>
     </section>
-
-    <p class="last_modified">Last modified: $Date$,
-    $Author$</p>
   </body>
 </document>
