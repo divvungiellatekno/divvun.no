@@ -8,9 +8,7 @@
     <subtitle>A precise description of the criterias used for selecting
     vendors</subtitle>
 
-    <version>0.1</version>
-
-    <type>Internal draft</type>
+    <version major="1" minor="0">Final version</version>
 
     <authors>
       <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
@@ -47,7 +45,9 @@
         language technology. The less compatible, the more work even for the
         project team, and thus higher indirect costs</li>
 
-        <li>Economical stability of the companies<note>This is more like a
+        <li>Economical stability of the companies
+
+        <note>This is more like a
         risk analysis thing - does it belong here?</note></li>
 
         <li>The outlook for future, long-term cooperation with the companies
@@ -60,7 +60,9 @@
 
         <li>The future, long term relationship between the participating
         companies and the companies developing the software the proofing tools
-        should be integrated with.<note>This is also more of a risk analysis
+        should be integrated with.
+
+        <note>This is also more of a risk analysis
         type - it has no direct economical impact, but the risk is that the
         cooperation between company X and e.g. Microsoft is stopped, blocking
         company X from providing technical updates in the future.</note></li>
@@ -72,13 +74,17 @@
         and tools. In the case of proofing tools for MS Office, it is
         important that the estimated quality of the end user products are high
         enough for our end users, to reduce the risk of extra work and higher
-        costs later on in the project.<note>Again, this might belong somewhere
+        costs later on in the project.
+
+        <note>Again, this might belong somewhere
         else, but at the same time, this point should have an impact on which
         company to select.</note></li>
 
         <li>Ability to provide the spellers with corrections and additional
         suggestions tailored to spelling errors typical for (modestly)
-        dyslectic writers.<note>This criterion is motivated by the fact that
+        dyslectic writers.
+
+        <note>This criterion is motivated by the fact that
         most of the adult Sámi population has never learned to write their own
         language, and have great difficulties spelling it correctly. It is an
         explicit goal of the project to create spellers that will help this
@@ -116,20 +122,57 @@
         <li>10 %</li>
       </ol>
 
-      <p>For each criteria, the companies are ranked from 10 (best) to 1,
-      based on the documentation given in the offer. The ranking is a simple
-      ordering, and does not express any evaluation beyond being equal to,
-      better than or worse than the other companies attending. [More...]</p>
+      <p>For each criteria, the companies are ranked as winners and loosers -
+      winners normally get the full score, while loosers get nothing unless
+      otherwise stated -
+      within the following limits:</p>
 
-      <fixme author="Sjur">I need help with this one - I'm not very good at
-      such weighting.</fixme>
+      <ol>
+        <li>prize differences within 2% will be regarded as equal, and all within
+        that limit will be regarded as winners</li>
+        <li>technical compaatibility will be scaled as follows:
+          <ul>
+            <li>can use our lexicon (with trivial adjustments): 5%</li>
+            <li>can use our two-level rules (with trivial adjustments): 10%</li>
+            <li>can use our morphological description (with trivial adjustments):
+            5 %</li>
+          </ul>
+          Each company will receive a total precentage corresponding to the sum of
+          the above sub-criterias.
+        </li>
+        <li>The most stable company according to the <a
+href="http://odin.dep.no/nhd/norsk/dok/andre_dok/veiledninger/024081-120019/hov004-nn.html"
+        >NHD risk analysis model</a> and requested documentation (see
+        the main public tender document) is the winner</li>
+        <li>Proposal for long-term cooperation:
+          <ul>
+            <li>lowest cost: 5 %</li>
+            <li>most useful toolset and best license conditions: 5 %</li>
+          </ul>
+        Each company is a winner or looser in each sub-criterion. 5 % variation
+        is allowed for the cost, similar to the 2 % above for prize. If two or more
+        companies are deemed equal, they all get full points.
+        </li>
+        <li>The company with the best documented, past and future long-term
+        relationship with Microsoft is the winner.</li>
+        <li>In the absence of established standards for user evaluation of proofing
+        tools, the company with the best published or otherwise documented user
+        feedback on their tools is the winner</li>
+        <li>The company with the best published or otherwise documented algorithms for
+        suggestion mechanisms for dyslectic or otherwise weak writers is the winner.</li>
+      </ol>
+      
+      <p>The winning company is the one with the highest total score, that is, the
+      sum of the score for each criterion.</p>
+
     </section>
 
     <section>
       <title>The final word</title>
 
-      <p>The final decision regarding which vendor(s) to employ for the
-      outsourced tasks is made by the project board.</p>
+      <p>If two or more companies get identical scores, the final decision is made
+      by the project board on the basis of a total evaluation of each remaining
+      offer.</p>
     </section>
 
     <p class="last_modified">Last modified: $Date$, by
