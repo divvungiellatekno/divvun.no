@@ -41,16 +41,16 @@
       contract work:</p>
 
       <ol>
-        <li>price</li>
+        <li>Price</li>
 
-        <li>technical compatibility with our existing linguistic resources and
+        <li>Technical compatibility with our existing linguistic resources and
         language technology. The less compatible, the more work even for the
         project team, and thus higher indirect costs</li>
 
-        <li>economical stability of the companies<note>This is more like a
+        <li>Economical stability of the companies<note>This is more like a
         risk analysis thing - does it belong here?</note></li>
 
-        <li>the outlook for future, long-term cooperation with the companies
+        <li>The outlook for future, long-term cooperation with the companies
         (includes willingness to license tools to compile the binary lexicon
         for the proofing tools to Sámediggi and the project group, such that
         linguistic, non-technical updates can be delivered to end users
@@ -58,7 +58,7 @@
         involves costs in the longer run, and adds to the overall picture and
         maintenance costs for the proofing tools.</li>
 
-        <li>the future, long term relationship between the participating
+        <li>The future, long term relationship between the participating
         companies and the companies developing the software the proofing tools
         should be integrated with.<note>This is also more of a risk analysis
         type - it has no direct economical impact, but the risk is that the
@@ -67,15 +67,27 @@
 
         <li>Quality and user evaluation of corresponding tools for other
         languages. In the case of the InDesign hyphenator, it is essential
-        that a company can provide a substantially higher cost/benefit ratio
-        than taking on the task ourselves, as well as a documented capability
-        to develop high-quality hyphenation modules. In the case of proofing
-        tools for MS Office, it is important that the estimated quality of the
-        end user products are high enough for our end users, to reduce the
-        risk of extra work and higher costs later on in the
-        project.<note>Again, this might belong somewhere else, but at the same
-        time, these two points should have an impact on which company to
-        select.</note></li>
+        that a company can provide a documented capability to develop
+        high-quality hyphenation modules, benefitting from our linguistic work
+        and tools. In the case of proofing tools for MS Office, it is
+        important that the estimated quality of the end user products are high
+        enough for our end users, to reduce the risk of extra work and higher
+        costs later on in the project.<note>Again, this might belong somewhere
+        else, but at the same time, this point should have an impact on which
+        company to select.</note></li>
+
+        <li>Ability to provide the spellers with corrections and additional
+        suggestions tailored to spelling errors typical for (modestly)
+        dyslectic writers.<note>This criterion is motivated by the fact that
+        most of the adult Sámi population has never learned to write their own
+        language, and have great difficulties spelling it correctly. It is an
+        explicit goal of the project to create spellers that will help this
+        group, and if a provider does not have a framework for correcting and
+        making suggestions for such spelling errors, much more work will have
+        to be put into finding and studying these errors, and adding manual
+        entries for correcting such errors. This will lead to higher costs,
+        both for the chosen company and for the project team at
+        Sámediggi.</note></li>
       </ol>
 
       <p>The exact documentation needed to support a decision based on these
@@ -95,11 +107,13 @@
 
         <li>10 %</li>
 
-        <li>15 %</li>
+        <li>10 %</li>
 
         <li>10 %</li>
 
-        <li>15 %</li>
+        <li>10 %</li>
+
+        <li>10 %</li>
       </ol>
 
       <p>For each criteria, the companies are ranked from 10 (best) to 1,
