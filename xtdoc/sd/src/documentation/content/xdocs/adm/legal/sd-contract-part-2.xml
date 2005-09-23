@@ -48,13 +48,13 @@
           <tr>
             <td>Opphagsrettsleg stilling</td>
 
-            <td></td>
+            <td>&nbsp;</td>
           </tr>
 
           <tr>
             <td>Namn</td>
 
-            <td>&nbsp;Universitetet i Tromsø&nbsp;</td>
+            <td>[t.d. Universitetet i Tromsø]</td>
           </tr>
 
           <tr>
@@ -81,21 +81,30 @@
       til å plassere <code>tingaren</code> si <code>tekstsamling</code> på ein
       tenar som produsenten forpliktar seg til å ha ansvaret for.</p>
 
-      <p><code>2.3 Produsenten</code> gjev teknisk bruksrett over
+      <p>2.3 <code>Produsenten</code> gjev teknisk bruksrett over
       <code>tekstsamlinga</code> til dei forskarane som tingaren har gjeve
       <code>løyve</code> til å bruke tekstsamlinga, slik at dei kan bruke
       <code>tekstsamlinga </code>via nettverket <code>namn på
       nettverk</code>.</p>
 
+      <note>In the Finnish original, the network is a university network. The
+      next note is still valid - why do we need this § when we have the next,
+      more general one?</note>
+
       <p>2.4 <code>Produsenten</code> gjev teknisk bruksrett over
       <code>tekstsamlinga</code> til dei forskarane som <code>tingaren</code>
       har gjeve bruksrett til.</p>
+
+      <note>What's the (content) difference between <strong>§2.3</strong> and
+      <strong>§2.4</strong>? In the Finnish original, <strong>§2.3</strong> is
+      using the verb «sijoittaa», whereas <strong>§2.4</strong> is using
+      «myöntää», but I am not able to see the difference.</note>
     </section>
 
     <section>
       <title>3. Tekstane i tekstsamlinga</title>
 
-      <p><code>3.1 Tekstane</code> som høyrer til i
+      <p>3.1 <code>Tekstane</code> som høyrer til i
       <code>tekstsamlinga</code>, storleiken deira, og avtalane som er knytt
       til dei er definert i vedlegg 1.</p>
     </section>
@@ -103,22 +112,33 @@
     <section>
       <title>4. Produsentens pliktar og ansvar</title>
 
-      <p><code>4.1 Produsenten</code> har ansvar for at dei bruksoppgåvene som
+      <p>4.1 <code>Produsenten</code> har ansvar for at dei bruksoppgåvene som
       er definert for han i avtalen blir utført profesjonelt og etter god
       teknisk yrkesskikk, og etter dei skriftlege bruksrettleiingane som
       avtalepartane har vorte samde om.</p>
 
-      <p><code>4.2 Produsenten</code> er ansvarleg for å følgje slik god
-      skikk for elektronisk datahandsaming at datatryggleik og datavern blir
-      teke vare på.</p>
+      <note>Where are these defined? These = «bruksoppgåvene» and
+      «bruksrettleiingane». If it is §2.3 and §2.4, they should be referred
+      to. If not, there should be a reference to whatever document describes
+      the exact tasks. As it stands, this paragraph is open to
+      interpretation.</note>
 
-      <p>4.3 Produsenten garanterer for at vilkåra i avtalen blir oppfylde
-      innafor den handsamingstida som det er gjort avtale om.</p>
+      <p>4.2 <code>Produsenten</code> er ansvarleg for å følgje slik god skikk
+      for elektronisk datahandsaming at datatryggleik og datavern blir teke
+      vare på.</p>
 
-      <p>4.4 Produsenten garanterer for dei maskinene som er i hans eller
-      hennes eigne lokale, og for at tryggleikskopiar kan ble tekne og
-      oppbevart på ein måte som samsvarer med skriftlege rettleiingar som
+      <p>4.3 <code>Produsenten</code> garanterer for at vilkåra i avtalen blir
+      oppfylde innafor den handsamingstida som det er gjort avtale om.</p>
+
+      <note>Where is this period defined? I see no reference to it.</note>
+
+      <p>4.4 <code>Produsenten</code> garanterer for dei maskinene som er i
+      hans eller hennes eigne lokale, og for at tryggleikskopiar kan bli tekne
+      og oppbevart på ein måte som samsvarer med skriftlege rettleiingar som
       begge partane har godteke.</p>
+
+      <note>There should be aj explicit reference to these
+      «rettleiingar».</note>
 
       <note>Originalens §4.5 gjaldt moglege problem i samband med
       tusenårsskiftet, og går derfor ut.</note>
@@ -128,9 +148,9 @@
       <title>5. Rettar</title>
 
       <p>5.1 Eigedomsrettane og dei immaterielle rettane til produkta og dei
-      avleidde programma som tingaren eiger, leiger, har laga, eller dei
-      avleidde programma som tingaren har bruksrett til, tilhøyrer berre
-      tingaren eller tredjepart. </p>
+      avleidde programma som <code>tingaren</code> eiger, leiger, har laga,
+      eller dei avleidde programma som tingaren har bruksrett til, tilhøyrer
+      berre <code>tingaren</code> eller tredjepart.</p>
 
       <warning>This one is untranslatable, there is probably a subject missing
       in the original. Here is the original:</warning>
@@ -141,17 +161,18 @@
       immateriaalioikeudet ovat yksin {tilaajalla} tai kolmannella
       osapuolella.</note>
 
-      <p>5.2 Produsenten har bruksrett til programprodukta og skildringane som
-      tingaren har gjeve til produsenten, og til kunnskapsmaterialet berre for
-      bruk til tingaren sin "suottaminen". Tingaren har ansvaret for at
-      naudsynte løyver for gjennomføringa av desse oppgåvene er skaffa til
-      veges.</p>
+      <p>5.2 <code>Produsenten</code> har bruksrett til programprodukta og
+      skildringane som <code>tingaren</code> har gjeve til produsenten, og til
+      kunnskapsmaterialet berre for bruk til tingaren sin "suottaminen".
+      <code>Tingaren</code> har ansvaret for at naudsynte løyver for
+      gjennomføringa av desse oppgåvene er skaffa til veges.</p>
 
-      <p>5.3 Tingaren kan, om han vil, få tilgang til resultatet av
-      utviklingsarbeidet til produsenten, eller til tredjepart, som er
-      tilgjengeleg til tenestekundane til produsenten. Overføringa av produkta
-      frå utviklingsarbeidet til tingaren, og betaling for dette, blir det
-      gjort avtale om separat.</p>
+      <p>5.3 <code>Tingaren</code> kan, om han vil, få tilgang til resultatet
+      av utviklingsarbeidet til <code>produsenten</code>, eller til
+      tredjepart, som er tilgjengeleg til tenestekundane til
+      <code>produsenten</code>. Overføringa av produkta frå utviklingsarbeidet
+      til <code>tingaren</code>, og betaling for dette, blir det gjort avtale
+      om separat.</p>
     </section>
 
     <section>
@@ -164,11 +185,25 @@
       <code>tingaren</code> eller av systemet.</p>
 
       <p>6.2 <code>Produsenten</code> har ikkje ansvar for dei feil eller
-      manglar som kjem av kunnskapskjeldene som er brukt, av kunnskapskjeldene
-      tingaren har formidla, eller av moglege feil og manglar som kjem av
-      tingaren sine rettleiingar.</p>
+      manglar som kjem av informasjonskjeldene som er brukt, av
+      informasjonskjeldene <code>tingaren</code> har formidla, eller av
+      moglege feil og manglar som kjem av <code>tingaren</code> sine
+      rettleiingar.</p>
 
       <warning>The preceeding paragraph is unclear.</warning>
+
+      <note>I changed «kunnskapskjelde» to «informasjonskjelde» - does it make
+      it more clear? Not really. What is unclear is how the information
+      sources relate to the tasks of the producer. Since this is unclear, it
+      is not possible to understand what kind of errors or misses the producer
+      should not be responsible for. I believe I understand the purpose of the
+      paragraph, but it should be reformulated. Below is a suggestion for
+      reformulation. SNM</note>
+
+      <p>6.2alt: <code>Produsenten</code> har ikkje ansvar for feil eller
+      manglar som kjem av feil eller manglar i informasjon eller rettleiing
+      frå <code>tingaren</code>, eller i informasjon formidla av eller vist
+      til av <code>tingaren</code>.</p>
     </section>
 
     <section>
@@ -213,7 +248,7 @@
         </tr>
 
         <tr>
-          <td></td>
+          <td>&nbsp;</td>
 
           <td>&nbsp;</td>
         </tr>
@@ -225,7 +260,7 @@
         </tr>
 
         <tr>
-          <td></td>
+          <td>&nbsp;</td>
 
           <td>&nbsp;</td>
         </tr>
