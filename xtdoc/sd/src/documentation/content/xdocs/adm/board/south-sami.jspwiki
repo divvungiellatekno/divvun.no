@@ -1,0 +1,48 @@
+Mål:
+- laga eit sett med sørsamiske stavekontrollar, same oppsett som for lulesamisk
+
+Gjort til no:
+
+Lingvistisk arbeid:
+
+- substantivleksikon
+- morfologi for pronomen og andre lukka ordklasser
+- tonivåreglar for nominal bøying
+
+
+Står att:
+
+Verbmorfologi (arbeidet er starta, men av ein eller annan merkeleg grunn går det ikkje opp)
+Adjektivmorfologi (dette er eit problematisk punkt, i og med at referansegrammatikken har så lite hjelp å gje.
+Samansetjing
+Derivasjon (tonivåmorfologien for substantiva burde funka, men det er ikkje sjekka)
+
+
+Datalingvistisk arbeid:
+
+- morfofonologi for verb
+- morfofonologi for adjektiv
+- morfofonologi for avleiing/samansetjing
+
+Korpus:
+- innsamling
+
+Stavekontrollspesifikt arbeid:
+- sjekka forslagsmekanismen og dei forslaga som blir gjeve
+
+Rettskrivingsspørsmål for sørsamisk:
+- Kva er rett, kva er gale, og korleis skal vi stave lånord frå norsk/svensk i sørsamisk?
+
+
+Arbeid som ikkje treng repeterast for sørsamisk:
+- infrastruktur (anna enn små justeringar)
+- tilpassing av stavekontrollmotor(ar)
+- vi har også eit ferdig team av programmerarar og datalingvistar som ikkje treng opplæring (men som treng arbeid)
+
+- vi treng ei(n) med sørsamisk morsmål på heiltid!
+
+
+Teknisk arbeid som må gjerast på nytt for sma:
+- brukardokumentasjon
+- nettsider (for brukarane)
+- installeringsprogram (lokalisering til sma)
