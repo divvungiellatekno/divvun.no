@@ -132,10 +132,12 @@
   <board href="adm/board/" label="Styringsgruppa" tab="adm">
     <overview href="index.html" label="Oversikt"
               description="Dokument for styringsgruppa&#8233;Documents for the project board" />
-    <overview href="half-year-1.html" label="1. halvårsrapport"
+    <halfyear1 href="half-year-1.html" label="1. halvårsrapport"
               description="1. halvårsrapport&#8233;1st half-year report" />
-    <overview href="perm-maintenance.html" label="Permanent driftsorganisasjon"
+    <permaint href="perm-maintenance.html" label="Permanent driftsorganisasjon"
               description="Forslag til permanent driftsorganisasjon&#8233;Draft for a staying maintenance organisation" />
+    <southsam href="south-sami.html" label="Sørsamisk stavekontroll"
+              description="Utkast til prosjekt for sørsamisk stavekontroll&#8233;Draft for a south sami speller project" />
   </board>
 
   <monthly href="adm/reports/" label="Monthly reports" tab="adm">
