@@ -1,69 +1,130 @@
+!!!Sørsamisk stavekontroll
+!!Eit framhald av Divvun-prosjektet
+
 !!!Mål
-Laga eit sett med sørsamiske stavekontrollar, same oppsett som for lulesamisk
+Å laga eit sett med sørsamiske stavekontrollar, med same oppsett som for lulesamisk
 
-!!!Gjort til no
+!!!Status pr september 2005
 
-Lingvistisk arbeid:
+Det er gjort ein del lingvistisk arbeid, fyrst og fremst med substantivbøying og omlydsreglar for substantiv. Alle usamansette substantiv er skrive inn. Ei relativt komplett liste over det eksisterande arbeidet er:
 
-* substantivleksikon
+* substantivleksikon med alle usamansette substantiv frå Sydsamisk-norsk ordbok (kring 4300 ord)
+* namn (kring 24 000)
+* bøyingsmorfologi for substantiv
 * morfologi for pronomen og andre lukka ordklasser
 * tonivåreglar for nominal bøying
 
+Dette utgangspunktet er vesentleg dårlegare enn det tilsvarande var for lulesamisk då Divvun-prosjektet starta mot slutten av 2004. Der var den morfologiske modellen meir eller mindre komplett for alle opne ordklasser, og tonivåreglane ganske heildekkjande. Det som mangla for lulesamisk var ein skikkeleg gjennomgang av ein morsmålstalar for å komplettera og retta feil.
 
-!!!Står att:
+!!!Planlagt arbeid
 
 !!Lingvistisk arbeid:
 
 * Verbmorfologi (hovudmønsteret er klårt, og stammeklasse er merka av i ordboka,
   det kan hende det er variasjon frå verb til verb når det gjeld kor mykje omlyd
   verba har, dette må i tilfelle sjekkast manuelt)
+  5 mndv
 * Adjektivmorfologi (her trengst det grunnforsking)
+  5 mndv
 * Samansetjing (her treng vi undersøkingar av forma til forleddet)
 * Derivasjon (data frå referansegrammatikken må systematiserast og
   komplementerast)
 
 !!Datalingvistisk arbeid:
 
-* morfofonologi for verb (arbeidet er starta, og vi har eit system for å
+* morfofonologi for verb (arbeidet er starta, og vi har i prinsippet eit system for å
   kombinere verb- og omlydsklasse, men til no har det ikkje fungert.)
-* morfofonologi for adjektiv  (her har vi ikkje gjort noko; dette er eit
+  3 mndv
+* morfofonologi for adjektiv (her har vi ikkje gjort noko; dette er eit
   problematisk punkt, i og med at referansegrammatikken har så lite hjelp å
   gje.)
+  3 mndv
 * morfofonologi for avleiing/samansetjing (tonivåmorfologien for substantiva
   burde funka, men det er ikkje sjekka)
+  3 mndv
 
-!!Korpus:
-* innsamling
+!!Sørsamisk ordbok
 
-!!Stavekontrollspesifikt arbeid:
+Det vil vera ei uvurderleg hjelp for eit slikt prosjekt å få tilgang til Sydsamisk-norsk ordbok (Bergsland & Mattsson Magga, 1993) i elektronisk form. Dette spørsmålet bør avklarast før prosjektet startar.
+
+!!Korpusinnsamling
+
+Det må setjast av ein del ressursar på å samla inn så mykje sørsamisk tekst som det berre er mogleg. Det vil vera rimeleg å bruka dei same kjeldene som ved det noverande Divvun-prosjektet bruker, dvs Sametings-administrasjonen, kommunane (Snåsa), departementa, Bibelforlaget/Kyrkja, forlag og forfattarar, og privatpersonar som sjølve vil gje tekstane sine til prosjektet.
+
+Som prøve på faktisk språkbruk bør ein undersøkja om det er mogleg å bruka  materiale frå dei nasjonale prøvene. Der finst det eit ganske stort materiale med sørsamiske elevtekstar.
+
+6 mndv
+
+!!Stavekontrollspesifikt arbeid
+
+Sjølv om prosjektet byggjer på arbeid som alt er gjort i Divvun-prosjektet, vil det krevast tilpassingar til sørsamisk, og ein god del testing og språkspesifikt arbeid. Dette arbeidet vil m.a. omfatta:
+
 * sjekka forslagsmekanismen og dei forslaga som blir gjeve
+* testa dei ulike stavekontrollane
 
-!!Rettskrivingsspørsmål for sørsamisk:
-* Kva er rett, kva er gale, og korleis skal vi stave lånord frå norsk/svensk i
-  sørsamisk?
+!!Rettskrivingsspørsmål for sørsamisk
 
-!!!Arbeid som ikkje treng repeterast for sørsamisk
-* infrastruktur (anna enn små justeringar)
+Dette er eit ressurskrevjande punkt, i og med at sørsamisk til no i liten grad har vorte eksplisitt normert. Eit normerande verkty som ein stavekontroll krev at ein bestemmer seg for kva ein vil ha innanfor den offisielle norma, om det no er stor eller liten variasjon. Derfor er det viktig at dei normerande organa for sørsamisk både nasjonalt og nordisk er (inter)aktivt med i prosjektet.
+
+* Kva er rett, kva er gale?
+* korleis skal vi stave lånord frå norsk/svensk m.fl. i sørsamisk?
+* datoformat
+* forkortingar
+* bøying av framande namn
+
+!!!Ferdige modular frå Divvun-prosjektet
+
+I og med at det sørsamiske prosjektet byggjer på det noverande prosjektet, er det sjølvsagt ein del arbeid som ikkje treng repeterast for sørsamisk. Spesifikt gjeld det følgjande punkt:
+
+* infrastruktur for
+** språkteknologiutvikling og testing
+** korpushandtering og -bruk
+** stavekontrollutvikling
 * tilpassing av stavekontrollmotor(ar)
 * vi har også eit ferdig team av programmerarar og datalingvistar som ikkje
-  treng opplæring (men som treng arbeid)
+  treng opplæring, og som vil vera ei stor hjelp for nye prosjektmedarbeidarar
 
 
-!!!Teknisk arbeid som må gjerast på nytt for sma:
+!!!Anna arbeid
+
+Ein del teknisk arbeid må gjerast på nytt for sørsamisk:
+
 * brukardokumentasjon
 * nettsider (for brukarane)
 * installeringsprogram (lokalisering til sma)
 
 !!!Stillingar
 
-* vi treng ei(n) med sørsamisk morsmål på heiltid!
-* eit datalingvistisk årsverk (minst)
-* eit kvart årsverk for programmerar (maks)
-* datalingvist - heiltid det fyrste året, halv tid det andre
-* prosjektleiar - 
+* sørsamisk lingvist — 100%
+* datalingvist - 100% fyrste året, 50% det andre
+* programmerar - 25%
+* prosjektleiar - 50%
 
 !!!Timeplan
 
 Prosjektet bør gå over minimum to - 2 - år, men det er mogleg at to år er nok
 med tanke på at infrastrukturen allereie er bygd opp, og at det finst eit miljø
-med røynsle med slikt arbeid.
+med røynsle med slikt arbeid.Tidsplanen vil vere avhengig av at vi får tak i ein kvalifisert sørsamisk lingvist.
+
+Prosjektstart er tenkt rett etter at Divvun-prosjektet er avslutta, dvs 1. oktober 2007, og varer i utgangspunktet til 30. september 2009
+
+!!!Budsjett
+
+Alle tal er i 1000 NOK
+
+{{{
+                    2007 2008 2009
+Løn
+  Lingvist           150  600  450
+  Datalingvist       150  525  225
+  Programmerar        25  100  100
+  Prosjektleiar       75  300  225
+Eksterne tenester      0  300  300
+Reiser, utstyr, m.m. 100  150  100
+
+Totalt               500 1825 1375  3700
+
+Tilleg for inflasjon etc.            300
+
+Total prosjektsum:                  4000
+}}}
