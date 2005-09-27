@@ -172,16 +172,13 @@
       for sørsamisk. Spesifikt gjeld det følgjande punkt:</p>
 
       <ul>
-        <li>infrastruktur for</li>
-
-        <ul>
-          <li>språkteknologiutvikling og testing</li>
-
-          <li>korpushandtering og -bruk</li>
-
-          <li>stavekontrollutvikling</li>
-        </ul>
-
+        <li>infrastruktur for
+            <ul>
+                <li>språkteknologiutvikling og testing</li>
+                <li>korpushandtering og -bruk</li>
+                <li>stavekontrollutvikling</li>
+            </ul>
+        </li>
         <li>tilpassing av stavekontrollmotor(ar)</li>
 
         <li>vi har også eit ferdig team av programmerarar og datalingvistar
