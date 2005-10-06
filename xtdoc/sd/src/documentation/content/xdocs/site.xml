@@ -138,6 +138,9 @@
               description="Forslag til permanent driftsorganisasjon&#8233;Draft for a staying maintenance organisation" />
     <southsam href="south-sami.html" label="Sørsamisk stavekontroll"
               description="Utkast til prosjekt for sørsamisk stavekontroll&#8233;Draft for a south sami speller project" />
+    <meetings label="Møte">
+      <x2005-10-04 href="Meeting_2005-10-04.html" label="4. 10. 2005"/>
+    </meetings>
   </board>
 
   <monthly href="adm/reports/" label="Monthly reports" tab="adm">
