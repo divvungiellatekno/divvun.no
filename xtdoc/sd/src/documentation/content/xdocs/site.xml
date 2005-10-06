@@ -160,6 +160,12 @@
            description="Report for October-December '04" />
   </monthly>
 
+  <uit href="adm/uit/" label="Cooperation with UiT" tab="adm">
+    <meeting description="Yearly meeting overseeing the cooperation agreement and realities"
+             href="samarbeidsmote.html"
+            label="Cooperation meeting 3.10.2005" />
+  </uit>
+
   <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab = 'how'])" />
 
   <external-refs>
