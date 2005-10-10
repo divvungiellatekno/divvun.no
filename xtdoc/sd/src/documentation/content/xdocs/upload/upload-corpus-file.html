@@ -12,7 +12,9 @@
     <!-- ACTION="file:///Users/tomi/Documents/eclipse/workspace/gt/script/cgi-scripts/upload.cgi"  -->
     <form ACTION="http://sami-cgi-bin.uit.no/cgi-bin/smi/upload.cgi"
     		 METHOD="post" ENCTYPE="multipart/form-data">
-    File to upload: <INPUT TYPE="file" NAME="document">
+    File to upload: <INPUT TYPE="file" NAME="document" accept="application/msword">
+    <br/>
+    URL to upload: <INPUT TYPE="text" NAME="url" SIZE="80">
     <br/><br/>
     <INPUT TYPE="submit" NAME="Submit" VALUE="Submit Form">
     </form>
