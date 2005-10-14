@@ -2,152 +2,72 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
-  <header xml:lang="en">
-    <title>Translation of Helsinki corpus text contract</title>
-  </header>
+  <header xml:lang="nn">
+    <title>Avtale om overføring av bruksrett for tekstar</title>
 
-  <body>
-    <p>This text is a translation of the document Sopimus tekstien
+    <abstract xml:lang="en">This text is a translation of the document Sopimus tekstien
     käyttöoikeuden luovuttamisesta, used by the <a
     href="http://www.csc.fi/suomi/info/index.phtml.en">Finnish IT center for
     science</a> for their <a
     href="http://www.csc.fi/kielipankki/index.phtml.sv">Text bank</a>. Since
-    the text</p>
+    the text is a rough translation, it will be sent to a lawyer after we
+    have adapted it to our needs.</abstract>
+  </header>
 
-    <section>
-      <title>Avtale om overføring av bruksrett for tekstar</title>
+  <body>
 
       <section>
-        <title>1. Avtalepartnarar</title>
+        <title>1. Avtalepartar</title>
 
         <section>
           <title>1.1 Dei som overfører bruksrett
           (<code>bruksrettsgjevar</code>)</title>
 
-          <table>
-            <tr>
-              <td>Opphagsrettsleg stilling</td>
-
-              <td>&nbsp;</td>
-            </tr>
-
-            <tr>
-              <td>Namn</td>
-
-              <td>&nbsp;</td>
-            </tr>
-
-            <tr>
-              <td>Adresse</td>
-
-              <td>&nbsp;</td>
-            </tr>
-
-            <tr>
-              <td>Postnummer og -stad</td>
-
-              <td>&nbsp;</td>
-            </tr>
-          </table>
-
-          <p></p>
+          <note>Målsetjinga er at alle som har ein part i eit verk skal skriva
+                under det same papiret. På det viset kan det ikkje seinare bli
+                nokon diskusjon om lisenstakaren har fått lov eller ikkje. Den
+                motsette situasjonen, at t.d. forlaget eller forfattaren ikkje
+                har skrive under, vil fort kunna gje mindre trivelege situasjonar.</note>
 
           <table>
-            <tr>
-              <td>Opphagsrettsleg stilling</td>
-
-              <td>&nbsp;</td>
-            </tr>
-
-            <tr>
-              <td>Namn</td>
-
-              <td>&nbsp;</td>
-            </tr>
-
-            <tr>
-              <td>Adresse</td>
-
-              <td>&nbsp;</td>
-            </tr>
-
-            <tr>
-              <td>Postnummer og -stad</td>
-
-              <td>&nbsp;</td>
-            </tr>
+            <tr><td>Rolle:</td>                   <td>forfattar</td></tr>
+            <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adresse:</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Postnummer og -stad:</td>     <td>&nbsp;</td></tr>
           </table>
 
-          <p></p>
+          <p/>
 
           <table>
-            <tr>
-              <td>Opphagsrettsleg stilling</td>
-
-              <td>&nbsp;</td>
-            </tr>
-
-            <tr>
-              <td>Namn</td>
-
-              <td>&nbsp;</td>
-            </tr>
-
-            <tr>
-              <td>Adresse</td>
-
-              <td>&nbsp;</td>
-            </tr>
-
-            <tr>
-              <td>Postnummer og -stad</td>
-
-              <td>&nbsp;</td>
-            </tr>
+            <tr><td>Rolle:</td>                   <td>omsetjar</td></tr>
+            <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adresse:</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Postnummer og -stad:</td>     <td>&nbsp;</td></tr>
           </table>
 
-          <p></p>
+          <p/>
 
           <table>
-            <tr>
-              <td>Opphagsrettsleg stilling</td>
-
-              <td>&nbsp;</td>
-            </tr>
-
-            <tr>
-              <td>Namn</td>
-
-              <td>&nbsp;</td>
-            </tr>
-
-            <tr>
-              <td>Adresse</td>
-
-              <td>&nbsp;</td>
-            </tr>
-
-            <tr>
-              <td>Postnummer og -stad</td>
-
-              <td>&nbsp;</td>
-            </tr>
+            <tr><td>Rolle:</td>                   <td>forleggjar</td></tr>
+            <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adresse:</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Postnummer og -stad:</td>     <td>&nbsp;</td></tr>
           </table>
+
+          <p/>
+
         </section>
 
         <section>
           <title>1.2 Den som får bruksrett
           (<code>bruksrettsmottakar</code>)</title>
 
-          <ul>
-            <li>Helsingfors universitet</li>
+          <table>
+            <tr><td>Namn</td>                    <td>Sámediggi · Sametinget</td></tr>
+            <tr><td>Adresse</td>                 <td>Kautokeinov. 50</td></tr>
+            <tr><td>Postnummer og -stad</td>     <td>N-9730 Karasjok</td></tr>
+          </table>
 
-            <li>Institutionen för språkvetenskap</li>
-
-            <li>PB 4 (Fabiansgatan 28)</li>
-
-            <li>00014 Helsingfors universitet</li>
-          </ul>
         </section>
       </section>
 
@@ -176,9 +96,10 @@
         <p>3.2 Opphavsretten og den immaterielle retten til desse
         <code>tekstane</code> høyrer til <code>bruksrettsgjevaren</code>.</p>
 
-        <p>3.3 <code>Bruksrettsmottakaren</code> får fri rett til utan
-        kostnader å leggje <code>tekstane</code> til
-        <code>tekstsamlinga</code>. For å gjere dette kan tekstane bli
+        <p>3.3 <code>Bruksrettsmottakaren</code> får fri rett til, utan
+        å betale <code>bruksrettsgjevaren</code> for denne retten, å leggje
+         <code>tekstane</code> til
+        <code>tekstsamlinga</code> si. For å gjere dette kan tekstane bli
         handsama både manuelt og maskinelt, men på ein slik måte at innhaldet
         deira ikkje bli endra. Til <code>tekstane</code> er det likevel mogleg
         å leggje til <code>koding</code> som trengst for den vitskaplege
@@ -204,6 +125,10 @@
         til <code>tekstar</code> til tredjepart, anna enn det som er nemnd i
         paragraf 3.7.</p>
 
+        <note>Det må definerast (i separat kontrakt?) kva som er datasentralen
+        (institusjonen), og kven som det pr def er meiningslaust å be om personleg
+        bruksrett for (tilsette for datainnsamlingsinst. og datasentralen).</note>
+
         <p>3.7 <code>Bruksrettsmottakar</code> kan gje personleg bruksrett til
         <code>tekstsamlinga</code> til personar som har skrive under på
         bruksrettskontrakten i Vedlegg 2. <code>Bruksrettsmottakar</code> skal
@@ -213,33 +138,29 @@
         <code>bruksrettsgjevar</code> med ein gong han får kjennskap til
         mogleg brot på desse vilkåra.</p>
 
-        <note>Det som her er sett som paragraf 3.8. er fjerna i den endelege
-        versjonen frå Helsingfors (hki-ex-1.tex), og paragrafane 3.9 t.o.m.
-        3.14 er renummererert som 3.8 t.o.m. 3.13.</note>
-
         <p>3.8 Bruksrett gjeld rett til å utnytte (i samsvar med lov og reglar
-        for opphavsrett og med god vitskapleg skikk)</p>
+           for opphavsrett og med god vitskapleg skikk):</p>
 
         <ul>
-          <li>tekstar for vitskapleg forsking</li>
+          <li>tekstar for vitskapleg forsking,</li>
 
           <li>dei språktrekka (t.d. statistiske data, grammatikkreglar og
-          ordas semantiske skildring) som ein har komme fram til med hjelp av
-          å utforske tekstane, og</li>
+              ordas semantiske skildring) som ein har komme fram til med hjelp av
+              å utforske tekstane,</li>
 
-          <li>korte eksempelsitat frå tekstane</li>
+          <li>korte eksempelsitat frå tekstane, og</li>
 
-          <li>tekstar for slike kommersielle språkteknologiske eller
-          tilsvarande formål som ikkje bryt med opphavsrettslovar.</li>
+          <li>tekstar for slike kommersielle og ikkje-kommersielle språkteknologiske
+              eller tilsvarande formål som ikkje bryt med opphavsrettslovar.</li>
         </ul>
 
         <p>3.9 <code>Bruksrettsmottakar</code> forpliktar seg til på si side å
         følgje slike teksthandsamingsprinsipp at datatryggleik og -vern er
         oppfylt.</p>
 
-        <p>3.10 Bruksrettsmottakar tilbyr seg å formidle ein versjon av
+        <p>3.10 <code>Bruksrettsmottakar</code> tilbyr seg å formidle ein versjon av
         tekstane i den bearbeidde og koda forma som er lagt til tekstsamlinga,
-        attende til bruksrettsgjevaren.</p>
+        attende til <code>bruksrettsgjevaren</code>.</p>
 
         <p>3.11 Denne kontrakten trer i kraft når alle kontraktspartane har
         underskrive han.</p>
@@ -250,7 +171,7 @@
         <code>tekstane</code> med alle kopiar, og opplyse om dette på ein
         sakleg måte til <code>bruksrettsgjevaren</code>.
         <code>Bruksrettsgjevaren</code> har rett til å bryte denne kontrakten
-        viss <code>bruksrettsmottakaren</code> på ein vesentleg måte bryk mot
+        viss <code>bruksrettsmottakaren</code> på ein vesentleg måte bryt mot
         vilkåra i denne kontrakten, og ikkje rettar opp vilkårsbrota sine,
         trass i skriftleg påpeiking, innan 60 dagar ettar at han har fått
         denne påpeikinga.</p>
@@ -258,24 +179,25 @@
         <p>3.13 Mogleg usemje i samband med denne kontrakten skal ein forsøke
         å forhandle om.</p>
 
-        <p>3.14 Det er laga to versjonar av denne kontrakten, ein til kvar
+        <p>3.14 Det er laga eitt likelydande eksemplar av denne kontrakten til kvar
         kontraktspartnar.</p>
       </section>
 
       <section>
         <title>4. Underskrifter</title>
 
-        <p>Bruksrettsgjevarar</p>
+        <p/>
 
-        <p>Stad og tid:</p>
+          <table>
+            <tr><th>Bruksrettsgjevarar</th><th>Bruksrettsmottakar</th></tr>
+            <tr><td>Stad og tid:</td>      <td>Stad og tid:</td></tr>
+            <tr><td>Underskrift:</td>      <td>Underskrift:</td></tr>
+            <tr><td>Stad og tid:</td>      <td>Stad og tid:</td></tr>
+            <tr><td>Underskrift:</td>      <td>Underskrift:</td></tr>
+            <tr><td>Stad og tid:</td></tr>
+            <tr><td>Underskrift:</td></tr>
+          </table>
 
-        <p>Underskrift:</p>
-
-        <p>Bruksrettsmottakar</p>
-
-        <p>Stad og tid:</p>
-
-        <p>Underskrift:</p>
       </section>
 
       <section>
@@ -285,6 +207,5 @@
 
         <p>Vedlegg 2: Bruksrettsavtale for tekstsamlinga</p>
       </section>
-    </section>
   </body>
 </document>
