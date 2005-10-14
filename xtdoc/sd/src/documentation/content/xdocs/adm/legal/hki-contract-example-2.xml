@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header>
+    <title>Avtale for produksjon av brukartenester til tekstsamling</title>
+  </header>
+
+  <body>
+    <section>
+      <title>1. Avtalepartane</title>
+
+      <section>
+        <title>1.1 Bruksrettstingar (nedanfor <code>tingar</code>)</title>
+
+        <table>
+          <tr>
+            <td>Opphagsrettsleg stilling</td>
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Namn</td>
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Adresse</td>
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Postnummer og -stad</td>
+            <td>&nbsp;</td>
+          </tr>
+        </table>
+      </section>
+
+      <section>
+        <title>1.2 Bruksrettsprodusent (nedanfor
+        <code>produsent</code>)</title>
+
+        <table>
+          <tr>
+            <td>Opphagsrettsleg stilling</td>
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Namn</td>
+            <td>[t.d. Universitetet i Tromsø]</td>
+          </tr>
+
+          <tr>
+            <td>Adresse</td>
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Postnummer og -stad</td>
+            <td>&nbsp;</td>
+          </tr>
+        </table>
+      </section>
+    </section>
+
+    <section>
+      <title>2. Formålet med avtalen</title>
+
+      <p>2.1 (Skildrar tenesteleverandøren, i vårt tilfelle UiT. Skildringa
+      inneheld ei kortfatta oversikt over kva tenesteleverandøren gjer og
+      er)</p>
+
+      <p>2.2 Etter denne avtalen har <code>produsenten</code> forplikta seg
+      til å plassere <code>tingaren</code> si <code>tekstsamling</code> på ein
+      tenar som produsenten forpliktar seg til å ha ansvaret for.</p>
+
+      <p>2.3 <code>Produsenten</code> forpliktar seg til å lagre 
+      <code>tekstsamlinga</code> på ei datamaskin på ein slik måte at ho er
+      tilgjengleleg for dei forskarane som tingaren har gjeve
+      <code>løyve</code> til å bruke tekstsamlinga til, slik at dei kan bruke
+      <code>tekstsamlinga </code>via nettverket <code>namn på
+      nettverk</code>. [teknisk tilrettelegging for forskarbruk og anna relevant
+      bruk]</p>
+
+      <p>2.4 <code>Produsenten</code> skal gjeva teknisk tilgang til
+      <code>tekstsamlinga</code> til dei forskarane som <code>tingaren</code>
+      har gjeve bruksrett til. [brukarnamn og passord]</p>
+
+    </section>
+
+    <section>
+      <title>3. Tekstane i tekstsamlinga</title>
+
+      <p>3.1 <code>Tekstane</code> som høyrer til i
+      <code>tekstsamlinga</code>, storleiken deira, og avtalane som er knytt
+      til dei er definert i vedlegg 1.</p>
+    </section>
+
+    <section>
+      <title>4. Produsentens pliktar og ansvar</title>
+
+      <p>4.1 <code>Produsenten</code> har ansvar for at dei bruksoppgåvene som
+      er definert for han i avtalen blir utført profesjonelt og etter god
+      teknisk yrkesskikk, og etter dei skriftlege bruksrettleiingane som
+      avtalepartane har vorte samde om.</p>
+
+      <note>Where are these defined? These = «bruksoppgåvene» and
+      «bruksrettleiingane». If it is §2.3 and §2.4, they should be referred
+      to. If not, there should be a reference to whatever document describes
+      the exact tasks. As it stands, this paragraph is open to
+      interpretation.</note>
+
+      <p>4.2 <code>Produsenten</code> er ansvarleg for å følgje slik god skikk
+      for elektronisk datahandsaming at datatryggleik og datavern blir teke
+      vare på.</p>
+
+      <p>4.3 <code>Produsenten</code> garanterer for at vilkåra i avtalen blir
+      oppfylde innafor den handsamingstida som det er gjort avtale om.</p>
+
+      <note>Where is this period defined? I see no reference to it.</note>
+
+      <p>4.4 <code>Produsenten</code> garanterer for dei maskinene som er i
+      hans eller hennes eigne lokale, og for at tryggleikskopiar kan bli tekne
+      og oppbevart på ein måte som samsvarer med skriftlege rettleiingar som
+      begge partane har godteke.</p>
+
+      <note>There should be an explicit reference to these
+      «rettleiingar».</note>
+
+      <note>Originalens §4.5 gjaldt moglege problem i samband med
+      tusenårsskiftet, og går derfor ut.</note>
+    </section>
+
+    <section>
+      <title>5. Rettar</title>
+
+      <p>5.1 Eigedomsrettane og dei immaterielle rettane til produkta og dei
+      avleidde programma som <code>tingaren</code> eiger, leiger, har laga,
+      eller dei avleidde programma som tingaren har bruksrett til, tilhøyrer
+      berre <code>tingaren</code> eller tredjepart.</p>
+
+      <warning>This one is untranslatable, there is probably a subject missing
+      in the original. Here is the original:</warning>
+
+      <note>Sopimuksen kohteena olevien palveluiden tuottamisessa käytettävien
+      tuotteiden ja sovellusten, jotka ovat {tilaajan} omistamia, vuokraamia,
+      valmistamia tai joista tilaajalla on käyttöoikeussopimus omistus- ja
+      immateriaalioikeudet ovat yksin {tilaajalla} tai kolmannella
+      osapuolella.</note>
+
+      <p>5.2 <code>Produsenten</code> har bruksrett til programprodukta og
+      skildringane som <code>tingaren</code> har gjeve til produsenten, og til
+      kunnskapsmaterialet berre for bruk til tingaren sin "suottaminen".
+      <code>Tingaren</code> har ansvaret for at naudsynte løyver for
+      gjennomføringa av desse oppgåvene er skaffa til veges.</p>
+
+      <p>5.3 <code>Tingaren</code> kan, om han vil, få tilgang til resultatet
+      av utviklingsarbeidet til <code>produsenten</code>, eller til
+      tredjepart, som er tilgjengeleg til tenestekundane til
+      <code>produsenten</code>. Overføringa av produkta frå utviklingsarbeidet
+      til <code>tingaren</code>, og betaling for dette, blir det gjort avtale
+      om separat.</p>
+    </section>
+
+    <section>
+      <title>6. Garanti</title>
+
+      <p>6.1 Viss det er manglar eller feil i databasen som følgje av feil
+      <code>tingaren</code> har gjort, skal partane i lag bli samde om å få
+      databasen i normaltilstand. <code>Produsenten</code> utfører naudsynte
+      maskinhandsamingar kostnadsfritt, etter metodar som diktert av
+      <code>tingaren</code> eller av systemet.</p>
+
+      <p>6.2 <code>Produsenten</code> har ikkje ansvar for feil eller
+      manglar som kjem av feil eller manglar i informasjon eller rettleiing
+      frå <code>tingaren</code>, eller i informasjon formidla av eller vist
+      til av <code>tingaren</code>.</p>
+      
+      <note>It is unclear what the original refers to with the wording
+      <code>tietolähde</code>. Below is the orignial:</note>
+      
+      <note>TUOTTAJA ei vastaa niistä puutteista eikä virheistä, jotka aiheutuvat
+      tehtäviin käytetyistä tietolähteistä, TILAAJAN toimittamasta tietoaineistosta
+      tai TILAAJAN antamien ohjeiden mahdollisista virheistä tai
+      epätäsmällisyyksistä.</note>
+    </section>
+
+    <section>
+      <title>7. Usemje</title>
+
+      <p>7.1 Mogleg usemje skal partane primært prøve å løyse via
+      forhandlingar.</p>
+    </section>
+
+    <section>
+      <title>8. Oppseiing av avtalen</title>
+
+      <p>8.1 Begge partane har rett til å seie opp avtalen med 6 månaders
+      varsel.</p>
+    </section>
+
+    <section>
+      <title>9. Avtalen trer i kraft, moglege endringar</title>
+
+      <p>9.1 Denne avtalen trer i kraft når begge partane har underteikna
+      han.</p>
+
+      <p>9.2 Det er laga to eksemplar av denne avtalen, ein til kvar
+      avtalepart. Avtalen kan endrast berre med avtalepartanes felles
+      skriftlege avtale.</p>
+    </section>
+
+    <section>
+      <title>10. Underskrifter</title>
+
+      <table>
+        <tr>
+          <td>Tingar</td>
+
+          <td>Produsent</td>
+        </tr>
+
+        <tr>
+          <td>Tid og stad</td>
+
+          <td>Tid og stad</td>
+        </tr>
+
+        <tr>
+          <td>&nbsp;</td>
+
+          <td>&nbsp;</td>
+        </tr>
+
+        <tr>
+          <td>Underskrift:</td>
+
+          <td>Underskrift:</td>
+        </tr>
+
+        <tr>
+          <td>&nbsp;</td>
+
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+    </section>
+
+    <section>
+      <title>11. Vedlegg</title>
+
+      <p>Vedlegg 1. Skildring av tekstane.</p>
+    </section>
+  </body>
+</document>
