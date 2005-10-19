@@ -48,7 +48,7 @@
 
           <tr>
             <td>Namn</td>
-            <td>[t.d. Universitetet i Tromsø]</td>
+            <td>&nbsp;</td>
           </tr>
 
           <tr>
@@ -67,43 +67,50 @@
     <section>
       <title>2. Formålet med avtalen</title>
 
-      <p>2.1 (Skildrar tenesteleverandøren, i vårt tilfelle UiTø. Skildringa
+      <p>2.1 Dette er ein avtale mellom tingar og produsent. Formålet med
+      avtalen er å regulere kva produsenten skal gjere med tekstsamlinga på
+      vegner av tingar. [Dette punktet kan òg skildra produsenten. Skildringa
       inneheld ei kortfatta oversikt over kva tenesteleverandøren gjer og
-      er)</p>
+      er.]</p>
 
       <p>2.2 Etter denne avtalen har <code>produsenten</code> forplikta seg
       til å plassere <code>tingaren</code> si <code>tekstsamling</code> på ein
-      tenar som produsenten forpliktar seg til å ha ansvaret for.</p>
+      tenar som han/ho forpliktar seg til å ha ansvaret for.</p>
 
       <p>2.3 <code>Produsenten</code> forpliktar seg til å lagre 
       <code>tekstsamlinga</code> på ei datamaskin på ein slik måte at ho er
-      tilgjengleleg for dei forskarane som tingaren har gjeve
+      tilgjengeleg for dei forskarane som tingaren har gjeve
       <code>løyve</code> til å bruke tekstsamlinga til, slik at dei kan bruke
       <code>tekstsamlinga </code>via nettverket <code>namn på
-      nettverk</code>. [teknisk tilrettelegging for forskarbruk og anna relevant
-      bruk]</p>
+      nettverk</code>.</p>
+      
+      <note>Punkt 2.3 gjeld teknisk tilrettelegging for forskarbruk og anna relevant
+      bruk</note>
 
       <p>2.4 <code>Produsenten</code> skal gjeva teknisk tilgang til
       <code>tekstsamlinga</code> til dei forskarane som <code>tingaren</code>
-      har gjeve bruksrett til. [brukarnamn og passord]</p>
+      har gjeve bruksrett til.</p>
+      
+      <note>Punkt 2.4 gjeld oppretting av brukarnamn og passord</note>
 
     </section>
 
     <section>
       <title>3. Tekstane i tekstsamlinga</title>
 
-      <p>3.1 <code>Tekstane</code> som høyrer til i
-      <code>tekstsamlinga</code>, storleiken deira, og avtalane som er knytt
-      til dei er definert i vedlegg 1.</p>
+      <p>3.1 I vedlegg 1 står ei liste over <code>tekstane</code> som høyrer til
+      i <code>tekstsamlinga</code>, kor store dei er, og kva avtale som er gjort
+      om dei.</p>
+
     </section>
 
     <section>
       <title>4. Produsentens pliktar og ansvar</title>
 
       <p>4.1 <code>Produsenten</code> har ansvar for at dei bruksoppgåvene som
-      er definert for han i avtalen blir utført profesjonelt og etter god
-      teknisk yrkesskikk, og etter dei skriftlege bruksrettleiingane som
-      avtalepartane har vorte samde om.</p>
+      er definert for han i punkt 2 i denne avtalen blir utført profesjonelt og
+      etter god teknisk yrkesskikk, og etter dei skriftlege bruksrettleiingane
+      som avtalepartane har vorte samde om.</p>
 
       <note>Where are these defined? These = «bruksoppgåvene» and
       «bruksrettleiingane». If it is §2.3 and §2.4, they should be referred
@@ -122,7 +129,7 @@
 
       <p>4.4 <code>Produsenten</code> garanterer for dei maskinene som er i
       hans eller hennes eigne lokale, og for at tryggleikskopiar kan bli tekne
-      og oppbevart på ein måte som samsvarer med skriftlege rettleiingar som
+      og oppbevart på ein måte som samsvarar med skriftlege rettleiingar som
       begge partane har godteke.</p>
 
       <note>There should be an explicit reference to these
@@ -136,11 +143,15 @@
       <title>5. Rettar</title>
 
       <p>5.1 Eigedomsrettane og dei immaterielle rettane til produkta og dei
-      avleidde programma som <code>tingaren</code> eiger, leiger, har laga,
-      eller dei avleidde programma som tingaren har bruksrett til, tilhøyrer
-      berre <code>tingaren</code> eller tredjepart.</p>
+      avleidde programma som <code>tingaren</code> eig, leiger, har laga,
+      eller dei avleidde programma som <code>tingaren</code> har bruksrett til,
+      tilhøyrer berre <code>tingaren</code> eller tredjepartar som har gjeve
+      bruksrett til tingaren.</p>
 
-      <warning>This one is untranslatable, there is probably a subject missing
+      <p>Alternativ 5.1 Eigedomsretten til tekstane blir ikkje overført til
+      <code>produsenten</code> som eit resultat av denne avtalen.</p>
+
+      <warning>5.1 is untranslatable, there is probably a subject missing
       in the original. Here is the original:</warning>
 
       <note>Sopimuksen kohteena olevien palveluiden tuottamisessa käytettävien
@@ -150,17 +161,17 @@
       osapuolella.</note>
 
       <p>5.2 <code>Produsenten</code> har bruksrett til programprodukta og
-      skildringane som <code>tingaren</code> har gjeve til produsenten, og til
-      kunnskapsmaterialet berre for bruk til tingaren sin "suottaminen".
-      <code>Tingaren</code> har ansvaret for at naudsynte løyver for
-      gjennomføringa av desse oppgåvene er skaffa til veges.</p>
+      skildringane som <code>tingaren</code> har gjeve til
+      <code>produsenten</code>, og det berre for bruk til å utføre
+      arbeidsoppgåver for <code>tingaren</code>.
+      <code>Tingaren</code> har ansvaret for å skaffe naudsynte løyve for å
+      utføre desse oppgåvene.</p>
 
-      <p>5.3 <code>Tingaren</code> kan, om han vil, få tilgang til resultatet
-      av utviklingsarbeidet til <code>produsenten</code>, eller til
-      tredjepart, som er tilgjengeleg til tenestekundane til
-      <code>produsenten</code>. Overføringa av produkta frå utviklingsarbeidet
-      til <code>tingaren</code>, og betaling for dette, blir det gjort avtale
-      om separat.</p>
+      <p>5.3 <code>Tingaren</code> kan, om han/ho vil, få tilgang til resultatet
+      av utviklingsarbeidet til <code>produsenten</code>, eller til tredjepart,
+      som er tilgjengeleg til tenestekundane til <code>produsenten</code>. Det
+      skal gjerast separat avtale om overføringa av produkta frå
+      utviklingsarbeidet til <code>tingaren</code>.</p>
     </section>
 
     <section>
@@ -169,8 +180,10 @@
       <p>6.1 Viss det er manglar eller feil i databasen som følgje av feil
       <code>tingaren</code> har gjort, skal partane i lag bli samde om å få
       databasen i normaltilstand. <code>Produsenten</code> utfører naudsynte
-      maskinhandsamingar kostnadsfritt, etter metodar som diktert av
-      <code>tingaren</code> eller av systemet.</p>
+      maskinhandsamingar kostnadsfritt.</p>
+
+      <note>It is unclear exactly what "maskinhandsamingar" is supposed to
+      cover, and thus what kind of work is "free".</note>
 
       <p>6.2 <code>Produsenten</code> har ikkje ansvar for feil eller
       manglar som kjem av feil eller manglar i informasjon eller rettleiing
@@ -189,7 +202,7 @@
     <section>
       <title>7. Usemje</title>
 
-      <p>7.1 Mogleg usemje skal partane primært prøve å løyse via
+      <p>7.1 Partane skal primært prøve å løyse mogleg usemje via
       forhandlingar.</p>
     </section>
 
@@ -201,9 +214,9 @@
     </section>
 
     <section>
-      <title>9. Avtalen trer i kraft, moglege endringar</title>
+      <title>9. Avtalestart, moglege endringar</title>
 
-      <p>9.1 Denne avtalen trer i kraft når begge partane har underteikna
+      <p>9.1 Denne avtalen tek til å gjelde når begge partane har underteikna
       han.</p>
 
       <p>9.2 Det er laga to eksemplar av denne avtalen, ein til kvar
