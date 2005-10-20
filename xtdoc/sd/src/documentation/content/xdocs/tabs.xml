@@ -26,6 +26,7 @@
         <tab id="reports" label="Raporttat" dir="adm/reports" indexfile="monthoverview.html" />
         <tab id="outsrc"  label="Outsourcing" dir="adm/outsourcing" indexfile="overview.html" />
         <tab id="board"   label="Styringsgruppa" dir="adm/board" indexfile="index.html" />
+        <tab id="legal"   label="Legal" dir="adm/legal" indexfile="index.html" />
     </tab>
 
     <tab href="http://giellatekno.uit.no" label="Sámi disamb. proj." />
