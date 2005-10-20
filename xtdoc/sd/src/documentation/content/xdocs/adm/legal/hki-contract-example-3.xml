@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
   <header>
-    <title>Bruksrettsavtale for tekstsamlinga</title>
+    <title>Avtale om bruksrett til maskinlagra tekstar</title>
   </header>
 
   <body>
@@ -11,7 +11,7 @@
       <title>1 Avtalepartane</title>
 
       <section>
-        <title>1.1 Bruksrettsmottakar / brukar (søkar fyller ut)</title>
+        <title>1.1 Søkar</title>
 
         <table>
           <tr>
@@ -59,7 +59,7 @@
       </section>
 
       <section>
-        <title>1.2 Bruksrett innvilga av</title>
+        <title>1.2 Løyvar</title>
 
         <table>
           <tr>
@@ -107,15 +107,16 @@
     <section>
       <title>4 Omfanget av bruksretten</title>
 
-      <p>4.1 <code>Bruksrettsmottakaren</code> har rett til å bruke a-tekstane
-      berre til vitskapleg forsking. Bruksrettsmottakaren kan bruke tekstane
-      med å nyttiggjere seg dei språktrekka (t.d. statistisk informasjon,
-      grammatiske reglar og semantiske skildringar) han/ho har funne gjennom
-      forsking, og plukke ut kortare sitat frå tekstane.</p>
+      <p>4.1 <code>Bruksrettsmottakaren</code> har berre rett til å bruke
+      a-tekstane til forsking. Bruksrettsmottakaren kan bruke
+      tekstane med å gjere seg nytte av dei språktrekka (t.d. statistisk
+      informasjon, grammatiske reglar og semantiske skildringar) han/ho har
+      funne gjennom forsking, og plukke ut kortare sitat frå tekstane.</p>
 
       <p>4.2 <code>Bruksrettsmottakaren</code> har rett til å bruke b-tekstane
       både til vitskapleg forsking og til slike kommersielle språkteknologiske
-      eller andre formål, som ikkje bryt med lova om opphavsrett.</p>
+      eller andre formål, som ikkje bryt med <code>Lov om opphavsrett til
+      åndsverk</code>.</p>
 
       <note>«a-tekst» and «b-tekst» is not defined anywhere, in any of the
       contracts. Their meaning is implicit from the paragraphs, but they
