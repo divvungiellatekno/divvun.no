@@ -4,75 +4,120 @@
 <document xml:lang="en">
   <header>
     <title>Legal issues</title>
+
+    <abstract>This page contains an overview of the legal tasks and documents
+    required by the project, first and foremost the text licensing contract to
+    build a usable corpus.</abstract>
+
     <authors>
-      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+      <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
     </authors>
   </header>
 
   <body>
+    <p>We have decided to use the contracts from Helsinki university, and both
+    the originals as well as our internal translations are available below,
+    together with an example from the University of Oslo.</p>
 
     <section>
-      <title>Legal tasks</title>
+      <title>The Helsinki model</title>
 
-      <p>This section contains an overview of the legal tasks and documents
-      required by the project, first and foremost the text licensing contract
-      to build a usable corpus.</p>
+      <section>
+        <title>Background</title>
 
-      <p>We have decided to use the contracts from Helsinki University, and
-      both the originals as well as our internal translations are available
-      below, together with an example from the University of Oslo.</p>
+        <fixme author="SNM">Add a background document with a short explanation
+        of the model used in Helsinki.</fixme>
+      </section>
 
-      <ul>
-        <li>The example from
-            the University of Oslo, Department of Linguistics and Scandinavian
-            Studies, with the corresponding end user license:
-          <ol>
-            <li>The <a href="legal/oslo-standard-contract.html">text licensing
-            contract</a> (corresponds to contract 1 and 2 in the Helsinki
-            model)</li>
-            <li>The <a href="http://www.hf.uio.no/tekstlab/innsyn/skjema.html"
-            >end user contract</a>, corresponding to contract 3 below</li>
-          </ol>
-        </li>
-        <li>The Helsinki University license contract from the Linguistic
-            Department consists of four parts:
-            <ol>
-              <li>First part: <a
-                  href="legal/hki-ex-1.tex">LaTeX</a>, <a
-                  href="legal/hki-ex-1.pdf">pdf</a> and our <a
-                  href="legal/hki-contract-example.html">translation</a></li>
-              <li>Second part orig. <a
-                  href="legal/hki-ex-2.tex">LaTeX</a>, <a
-                  href="legal/hki-ex-2.pdf">pdf</a> and our <a
-                  href="legal/hki-contract-example-2.html">translation</a></li>
-              <li>Third part orig. <a
-                  href="legal/hki-ex-3.tex">LaTeX</a>, <a
-                  href="legal/hki-ex-3.pdf">pdf</a> and our <a
-                  href="legal/hki-contract-example-3.html">translation</a></li>
-              <li>The fourth part is not available yet</li>
-            </ol>
-            There is also a supporting <a href="legal/man.sty">style
-            specification</a> for the LaTeX originals
-        </li>
-        <li>Our own translations of the Helsinki license contracts:
-            <ol>
-              <li><a href="legal/sd-contract.html">First part</a></li>
-              <li><a href="legal/sd-contract-part-2.html">Second part</a></li>
-              <li><a href="legal/sd-contract-part-3.html">Third part</a></li>
-              <li>Fourth part not yet available</li>
-            </ol>
-            These translations will be sent to a lawyer for thorough checking.
-        </li>
-      </ul>
+      <section>
+        <title>Original contracts</title>
 
-      <fixme author="SNM">Add a short explanation of the model used in Helsinki.</fixme>
+        <p>The Helsinki University license contract from the Linguistic
+        Department consists of four parts:</p>
 
-      <note>Should we add links to XML versions of our translations?</note>
+        <ol>
+          <li>First part: <a href="legal/hki-ex-1.tex">LaTeX</a>, <a
+          href="legal/hki-ex-1.pdf">pdf</a> and our <a
+          href="legal/hki-contract-example.html">translation</a></li>
 
+          <li>Second part orig. <a href="legal/hki-ex-2.tex">LaTeX</a>, <a
+          href="legal/hki-ex-2.pdf">pdf</a> and our <a
+          href="legal/hki-contract-example-2.html">translation</a></li>
+
+          <li>Third part orig. <a href="legal/hki-ex-3.tex">LaTeX</a>, <a
+          href="legal/hki-ex-3.pdf">pdf</a> and our <a
+          href="legal/hki-contract-example-3.html">translation</a></li>
+
+          <li>The fourth part is not available yet</li>
+        </ol>
+
+        <p>There is also a supporting <a href="legal/man.sty">style
+        specification</a> for the LaTeX originals</p>
+      </section>
+
+      <section>
+        <title>Norwegian translations</title>
+
+        <ol>
+          <li>First part: <a href="legal/hki-ex-1.tex">LaTeX</a>, <a
+          href="legal/hki-ex-1.pdf">pdf</a> and our <a
+          href="legal/hki-contract-example.html">translation</a></li>
+
+          <li>Second part orig. <a href="legal/hki-ex-2.tex">LaTeX</a>, <a
+          href="legal/hki-ex-2.pdf">pdf</a> and our <a
+          href="legal/hki-contract-example-2.html">translation</a></li>
+
+          <li>Third part orig. <a href="legal/hki-ex-3.tex">LaTeX</a>, <a
+          href="legal/hki-ex-3.pdf">pdf</a> and our <a
+          href="legal/hki-contract-example-3.html">translation</a></li>
+
+          <li>The fourth part is not available yet</li>
+        </ol>
+      </section>
     </section>
 
-    <p class="last_modified">Last modified: $Date$,
-       by $Author$</p>
+    <section>
+      <title>The Sámediggi contracts</title>
 
+      <p>The translations above of the Helsinki contracts will be the basis
+      for our own contracts. They are not yet finished, as the main work now
+      is focusing on getting the translations in shape. The existing drafts
+      are:</p>
+
+      <ol>
+        <li><a href="legal/sd-contract.html">First part</a></li>
+
+        <li><a href="legal/sd-contract-part-2.html">Second part</a></li>
+
+        <li><a href="legal/sd-contract-part-3.html">Third part</a></li>
+
+        <li>Fourth part not yet available</li>
+      </ol>
+
+      <p> These translations will be sent to a lawyer for thorough
+      checking.</p>
+
+      <note>Should we add links to XML versions of our translations?</note>
+    </section>
+
+    <section>
+      <title>The Oslo contracts</title>
+
+      <p>For comparison, the contract from the University of Oslo, Department
+      of Linguistics and Scandinavian Studies, with the corresponding end user
+      license:</p>
+
+      <ol>
+        <li>The <a href="legal/oslo-standard-contract.html">text licensing
+        contract</a> (corresponds to contract 1 and 2 in the Helsinki
+        model)</li>
+
+        <li>The <a href="http://www.hf.uio.no/tekstlab/innsyn/skjema.html">end
+        user contract</a>, corresponding to contract 3 and 4 below</li>
+      </ol>
+    </section>
+
+    <p class="last_modified">Last modified: $Date$, by
+    $Author$</p>
   </body>
 </document>
