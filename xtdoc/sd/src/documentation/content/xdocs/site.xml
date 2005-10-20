@@ -109,11 +109,11 @@
         -->
 
   <adm href="adm/" label="Administration" tab="adm">
-    <overview description="Administrative documentation" href="index.html"
-              label="Index" />
+    <overview description="Administrative documentation" href="index.html" label="Index" />
   </adm>
 
   <legal href="adm/legal/" label="Legal" tab="legal">
+    <overview href="index.html" label="Overview" description="Legal documents" />
     <oslo href="oslo-standard-contract.html" label="Oslo Contract" description="Oslo Contract" />
     <hel1 href="hki-contract-example.html" label="Helsinki, 1. Contract" description="First part of Helsinki Contract" />
     <hel2 href="hki-contract-example-2.html" label="Helsinki, 2. Contract" description="Second part of Helsinki Contract" />
