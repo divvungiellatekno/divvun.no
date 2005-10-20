@@ -11,7 +11,7 @@
       <title>1 Avtalepartane</title>
 
       <section>
-        <title>1.1 Bruksrettsmottakar / Brukar (søkar fyller ut)</title>
+        <title>1.1 Bruksrettsmottakar / brukar (søkar fyller ut)</title>
 
         <table>
           <tr>
@@ -164,10 +164,11 @@
       <code>tekstsamlinga</code>, skal han eller ho i publikasjonar om dette
       vise til <code>tekstsamlinga</code> på denne måten:</p>
 
-      <source>Namn på tekstsamlinga. Dato for bruken som gav dei rapporterte resultata, tenestetilbydar.</source>
+      <source>Namn på tekstsamlinga. Dato for bruken som gav dei rapporterte
+      resultata, tenestetilbydar.</source>
 
       <p>5.6 <code>Bruksrettsmottakaren</code> mistar bruksretten sin
-      umiddelbart om han eller ho bryt mot desse vilkåra.</p>
+      straks om han eller ho bryt mot desse vilkåra.</p>
 
       <p>5.7 Avtalepartane er ikkje forplikta til å erstatte ulemper for den
       andre parten, dersom dei ikkje er i stand til å oppfylle krava i denne
@@ -179,12 +180,12 @@
 
       <note>... for the GRAMMATICAL encoding, or for any encoding?</note>
       
-      <p>5.9 Denne kontrakten trer i kraft når <code>bruksrettsløyvar</code>
+      <p>5.9 Denne kontrakten tek til å gjelde når <code>bruksrettsløyvar</code>
       skriv under på han.</p>
 
-      <p>5.10 Bruksretten er i kraft i eitt år etter siste dato som
+      <p>5.10 Bruksretten gjeld for eitt år etter siste dato som
       <code>bruksrettsløyvaren</code> har skrive under på. Bruksretten kan
-      forlengjast etter søknad, sjå §8.</p>
+      forlengjast etter søknad, sjå pkt 8.</p>
 
       <note>Do we want to restrict the usage license to only one year?
       There should be a mechanism for easy prolonging of the contract. 
@@ -193,8 +194,7 @@
     </section>
 
     <section>
-      <title>6 Samandrag av forskingsplanen (fyllast ut av søkaren,
-      obligatorisk)</title>
+      <title>6 Samandrag av forskingsplanen (må fyllast ut av søkaren)</title>
 
       <p>___________________________________________________________________________________________</p>
 
