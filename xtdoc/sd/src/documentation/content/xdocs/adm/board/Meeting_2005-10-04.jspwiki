@@ -41,14 +41,19 @@ Godt med eit prosjekt utan store problem.
 ** det store spørsmålet er knytta til responsen frå dei normative organa. Det
    nordiske organet (språkstyret?) skal snart ha møte, då vil vi sjå korleis
    samarbeidet fungerer i praksis.
-* korpusinnsamling: det norske kartverket "etter" det finske og svenske,
-  samiske forlag, etc.
-** __Davvi Girji__: forfattarforeininga: demo på styremøte; mot eigarane
-** __NSI__:
+* korpusinnsamling:
+** det norske kartverket "etter" det finske og svenske
+** samiske forlag: __Davvi Girji__ er usikker, __Iđut__ er svært positiv
+** __Forfattarforeininga__: dei har bede om demo på eit styremøte, det vil vi
+   gje dei
+** __NSI__: er positive, ventar på kontrakt frå oss
 ** __Det finske sametinget__: har sagt ja, det same har Metsähallitus
-** __NRK Sámeradio__: 
-* Norge Digitalt: bør SD inn som partner?
-** Bjørn Olav pratar med Øystein Johannessen om dei samiske stadnamna (og parallellføringar)
+** __NRK Sámeradio__: er positive (frå prosjektplanlegginga), har ikkje vorte
+   kontakta
+* __Norge Digitalt__: bør SD inn som partnar? Det er meir enn Divvun-prosjektet
+  som kan ha nytte av kartdata, særleg i samband med Finnmarkslova
+** Bjørn Olav pratar med Øystein Johannessen om dei samiske stadnamna og
+   parallellføringar
 
 Gjennomgang av halvårsrekneskap.
 
@@ -58,36 +63,36 @@ Godkjent.
 
 !!! Sak 4/05 - Gjennomgang av anbudsprosessen og utkast til spesifikasjon
 
-Prosessen: Godkjent: Datoane kan vurderast og justerast innanfor fyrste halvår 2006.
+* __Prosessen__: Godkjent. Datoane kan vurderast og justerast, så lenge
+  tilbodsprosessen er ferdig innan utgangen av fyrste halvår 2006.
+* __Kvalifiseringskriteria__: godkjendt.
+* __Utveljingskriterium__:
+** Døyp om punkt 3 til leveringsdyktigheit, og inkl. xxx...
+** I punkt 5 inkl. langsiktigheit både mot SD og MS.
+*** Fjern vektinga av pris - han er ferdig skalert
+*** innfør analoge skalaer, eller i det minste nokre delnivå.
+** Nytt utkast til styringsgruppa per e-post
+* __Ekspertar__ på offentlege tilbod: bør sjå over dokumenta og prosessen vår.
+  Bjørn Olav og Anne Britt finn slike.
+* __Leveransar__: godkjent (men be Audun sjekka, og sjekk InDesign)
 
-Kvalifiseringskriteria: godkjendt.
+Det må inn at dei ferdige produkta skal leggjast gratis ut på nettet, og at det
+er SD som har opphavsrett til alt (med unnatak av proprietær teknologi). Vi vil
+ha opsjon på nye produkt (jf sørsamisk). Treng vi ny utlysing? Sjekk! Det vil vi
+ikkje - vi vil ha kontinuitet, så skriv det inn. Kva med taleteknologi? Rett men
+ikkje plikt til å bruka same firma.
 
-Utveljingskriterium:
-
-Døyp om punkt 3 til leveringsdyktigheit, og inkl.
-
-I punkt 5 inkl. langsiktigheit både mot SD og MS.
-
-- Fjern vektinga av pris - det er ferdig skalert.
-- innfør analoge skalaer, eller i det minste nokre delnivå.
-
-Nytt utkast til styringsgruppa.
-
-Ekspertar: Bjørn Olav og Anne Britt finn.
-
-Leveransar: godkjent (men be Audun sjekka, sjekk InDesign)
-
-Det må inn at dei ferdige produkta skal leggjast gratis ut på nettet, og at det er SD som har opphavsrett til alt (med unnatak av proprietær teknologi). Opsjon på nye produkt (jf sørsamisk). Treng vi ny utlysing? Sjekk! Det vil vi ikkje - vi vil ha kontinuitet, så skriv det inn. Kva med taleteknologi? Rett men ikkje plikt til å bruka same firma.
-
-Legg inn brukartilbakemelding (brukarordlister i retur) som krav i kravspekken.
+Vi bør òg leggja inn brukartilbakemelding (brukarordlister i retur) som krav i
+kravspekken.
 
 Sak 4 ferdig.
 
 !!! Sak 5/05 - Plan for permanent driftsorganisasjon
 
-Dersom nye personar (og det må vi delvis føresetja), bør start vera 1. juli 2007. Bør opp på plenum i desember, som ønske for 2007.
+Dersom nye personar (og det må vi delvis føresetja), bør start vera 1. juli
+2007. Bør opp på plenum i desember, som ønske for 2007.
 
-Godkjent.
+Forslag til plan godkjent.
 
 !!! Sak 6/05 - Prosjekt for sørsamisk stavekontroll
 
@@ -97,7 +102,12 @@ Forslaget godkjent, og blir sendt vidare.
 
 !!Bjørn Olav Megard: Unicode og CLDR
 
-Kort orientering om CLDR og standardisering.
+Kort orientering om CLDR og standardisering. Sjå
+[www.unicode.org|http://www.unicode.org/cldr/] for fleire detaljar.
+
+Arbeidet med nordsamisk på norsk side blir no prioritert, og dei andre
+språka/landa kan seinare hengja seg på med utgangspunkt i det som alt er gjort
+for nordsamisk. Både __Audun Lona__ og __Håvard Hjulstad__ er sentrale i arbeidet.
 
 !!Neste møte, budsjett for neste år
 
