@@ -113,9 +113,11 @@
               label="Index" />
   </adm>
 
-  <legal href="adm/legal/" label="Legal" tab="adm">
+  <legal href="adm/legal/" label="Legal" tab="legal">
     <oslo href="oslo-standard-contract.html" label="Oslo Contract" description="Oslo Contract" />
     <hel1 href="hki-contract-example.html" label="Helsinki, 1. Contract" description="First part of Helsinki Contract" />
+    <hel2 href="hki-contract-example-2.html" label="Helsinki, 2. Contract" description="Second part of Helsinki Contract" />
+    <hel3 href="hki-contract-example-3.html" label="Helsinki, 3. Contract" description="Third part of Helsinki Contract" />
     <sam1 href="sd-contract.html" label="SD Contract, 1. part" description="SD Contract, first part" />
     <sam1 href="sd-contract-part-2.html" label="SD Contract, 2. part" description="SD Contract, second part" />
     <sam1 href="sd-contract-part-3.html" label="SD Contract, 3. part" description="SD Contract, third part" />
