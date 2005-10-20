@@ -3,11 +3,13 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
   <header>
-    <title>Legal issues</title>
+    <title>Text corpus legalese</title>
 
-    <abstract>This page contains an overview of the legal tasks and documents
-    required by the project, first and foremost the text licensing contract to
-    build a usable corpus.</abstract>
+    <subtitle>Text licensing, end users, and other contracts </subtitle>
+
+    <abstract>This page contains an overview of the contracts required to
+    build a usable corpus, both seen from the perspective of the collector,
+    the administrator of the collection, and the end user.</abstract>
 
     <authors>
       <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
@@ -15,18 +17,29 @@
   </header>
 
   <body>
-    <p>We have decided to use the contracts from Helsinki university, and both
-    the originals as well as our internal translations are available below,
-    together with an example from the University of Oslo.</p>
-
     <section>
-      <title>The Helsinki model</title>
+      <title>The Helsinki model, and template contracts</title>
+
+      <p>We have decided to use the contracts from Helsinki university, as
+      they have a reasonable history in active use in a national text bank
+      project, and provides for easy division of labor as well as clear
+      separation of responsibilities between Sámediggi and the University of
+      Tromsø.</p>
+
+      <p>The Helsinki originals and their Norwegian translations are available
+      for free reuse by others that find them useful, but please note that the
+      Norwegian translation is not yet ready. Also, the translation has
+      brought forward a few unclear points in the Finnish originals that
+      should be clarified.</p>
+
+      <p>Finally, we have an example from the University of Oslo as a
+      comparison.</p>
 
       <section>
         <title>Background</title>
 
-        <fixme author="SNM">Add a background document with a short explanation
-        of the model used in Helsinki.</fixme>
+        <fixme author="SNM">Add a background section (or document) with a
+        short explanation of the model used in Helsinki.</fixme>
       </section>
 
       <section>
@@ -36,42 +49,37 @@
         Department consists of four parts:</p>
 
         <ol>
-          <li>First part: <a href="legal/hki-ex-1.tex">LaTeX</a>, <a
-          href="legal/hki-ex-1.pdf">pdf</a> and our <a
-          href="legal/hki-contract-example.html">translation</a></li>
+          <li>First part original <a href="legal/hki-ex-1.tex">LaTeX</a>, <a
+          href="legal/hki-ex-1.pdf">pdf</a></li>
 
-          <li>Second part orig. <a href="legal/hki-ex-2.tex">LaTeX</a>, <a
-          href="legal/hki-ex-2.pdf">pdf</a> and our <a
-          href="legal/hki-contract-example-2.html">translation</a></li>
+          <li>Second part original <a href="legal/hki-ex-2.tex">LaTeX</a>, <a
+          href="legal/hki-ex-2.pdf">pdf</a></li>
 
-          <li>Third part orig. <a href="legal/hki-ex-3.tex">LaTeX</a>, <a
-          href="legal/hki-ex-3.pdf">pdf</a> and our <a
-          href="legal/hki-contract-example-3.html">translation</a></li>
+          <li>Third part original <a href="legal/hki-ex-3.tex">LaTeX</a>, <a
+          href="legal/hki-ex-3.pdf">pdf</a></li>
 
-          <li>The fourth part is not available yet</li>
+          <li>The fourth part is not yet available</li>
         </ol>
 
         <p>There is also a supporting <a href="legal/man.sty">style
-        specification</a> for the LaTeX originals</p>
+        specification</a> for the LaTeX originals.</p>
+
+        <p>The above version of the 1. Helsinki contract is missing §3.8
+        (present in earlier paper versions), and needs to be reinserted. What
+        looks like §3.8 corresponds to §3.9 in the earlier version.</p>
       </section>
 
       <section>
         <title>Norwegian translations</title>
 
         <ol>
-          <li>First part: <a href="legal/hki-ex-1.tex">LaTeX</a>, <a
-          href="legal/hki-ex-1.pdf">pdf</a> and our <a
-          href="legal/hki-contract-example.html">translation</a></li>
+          <li><a href="legal/hki-contract-example.html">First part</a></li>
 
-          <li>Second part orig. <a href="legal/hki-ex-2.tex">LaTeX</a>, <a
-          href="legal/hki-ex-2.pdf">pdf</a> and our <a
-          href="legal/hki-contract-example-2.html">translation</a></li>
+          <li><a href="legal/hki-contract-example-2.html">Second part</a></li>
 
-          <li>Third part orig. <a href="legal/hki-ex-3.tex">LaTeX</a>, <a
-          href="legal/hki-ex-3.pdf">pdf</a> and our <a
-          href="legal/hki-contract-example-3.html">translation</a></li>
+          <li><a href="legal/hki-contract-example-3.html">Third part</a></li>
 
-          <li>The fourth part is not available yet</li>
+          <li>The fourth part is not yet available</li>
         </ol>
       </section>
     </section>
