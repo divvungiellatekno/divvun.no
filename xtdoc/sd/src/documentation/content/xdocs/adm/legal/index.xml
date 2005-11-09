@@ -73,11 +73,9 @@
         <title>Norwegian translations</title>
 
         <ol>
-          <li><a href="legal/hki-contract-example.html">First part</a></li>
-
-          <li><a href="legal/hki-contract-example-2.html">Second part</a></li>
-
-          <li><a href="legal/hki-contract-example-3.html">Third part</a></li>
+          <li><a href="hki-contract-example.html">First part</a></li>
+          <li><a href="hki-contract-example-2.html">Second part</a></li>
+          <li><a href="hki-contract-example-3.html">Third part</a></li>
 
           <li>The fourth part is not yet available</li>
         </ol>
