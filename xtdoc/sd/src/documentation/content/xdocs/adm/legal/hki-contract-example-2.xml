@@ -88,19 +88,8 @@
       <p>2.3 <code>Produsenten</code> forpliktar seg til å lagre
       <code>tekstsamlinga</code> på ei datamaskin på ein slik måte at ho er
       tilgjengeleg for dei forskarane som tingaren har gjeve
-      <code>løyve</code> til å bruke tekstsamlinga til, slik at dei kan bruke
-      <code>tekstsamlinga </code>via nettverket <code>namn på
-      nettverk</code>.</p>
-
-      <note>Punkt 2.3 gjeld teknisk tilrettelegging for forskarbruk og anna
-      relevant bruk</note>
-
-      <p>2.4 <code>Produsenten</code> skal gjeva teknisk tilgang til
-      <code>tekstsamlinga</code> til dei forskarane som <code>tingaren</code>
-      har gjeve bruksrett til.</p>
-
-      <note>Punkt 2.4 gjeld oppretting av brukarnamn og passord. Det er
-      innsamlaren som godkjenner brukarane, ikkje datasentralen.</note>
+      <code>bruksrett</code> til tekstsamlinga til, slik at dei kan bruke
+      <code>tekstsamlinga</code>.</p>
     </section>
 
     <section>
@@ -123,10 +112,7 @@
       vare på.</p>
 
       <p>4.3 <code>Produsenten</code> garanterer for at vilkåra i avtalen blir
-      oppfylde innafor den sørvistida som det er gjort avtale om.</p>
-
-      <note>This is the guaranteed uptime of the service, e.g. 5/7, 16/24
-      (i.e. downtime for system maintenance is allowed).</note>
+      oppfylde innafor normal oppetid.</p>
 
       <p>4.4 <code>Produsenten</code> garanterer for dei maskinene som er i
       hans eller hennes eigne lokale, og for at tryggleikskopiar kan bli tekne
@@ -141,9 +127,6 @@
       produkta og dei avleidde programma som <code>tingaren</code> har
       lisensiert, eig, leiger, har laga, eller dei avleidde programma som
       <code>tingaren</code> har bruksrett til, blir ikkje overført til
-      <code>produsenten</code> som eit resultat av denne avtalen.</p>
-
-      <p>Alternativ 5.1 Eigedomsretten til tekstane blir ikkje overført til
       <code>produsenten</code> som eit resultat av denne avtalen.</p>
 
       <p>5.2 <code>Produsenten</code> har bruksrett til programprodukta og
@@ -166,8 +149,6 @@
       <code>produsenten</code> har gjort, skal <code>produsenten</code> få
       databasen i normaltilstand utan forseinkingar, og kostnadsfritt for
       <code>tingaren</code>.</p>
-
-      <note>Sjekk formuleringa!</note>
 
       <p>6.2 Viss det er manglar eller feil i databasen som følgje av feil
       <code>tingaren</code> har gjort, skal partane i lag bli samde om å få
