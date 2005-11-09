@@ -16,21 +16,25 @@
         <table>
           <tr>
             <td>Opphavsrettsleg stilling</td>
+
             <td>&nbsp;</td>
           </tr>
 
           <tr>
             <td>Namn</td>
+
             <td>&nbsp;</td>
           </tr>
 
           <tr>
             <td>Adresse</td>
+
             <td>&nbsp;</td>
           </tr>
 
           <tr>
             <td>Postnummer og -stad</td>
+
             <td>&nbsp;</td>
           </tr>
         </table>
@@ -43,21 +47,25 @@
         <table>
           <tr>
             <td>Opphavsrettsleg stilling</td>
+
             <td>&nbsp;</td>
           </tr>
 
           <tr>
             <td>Namn</td>
+
             <td>&nbsp;</td>
           </tr>
 
           <tr>
             <td>Adresse</td>
+
             <td>&nbsp;</td>
           </tr>
 
           <tr>
             <td>Postnummer og -stad</td>
+
             <td>&nbsp;</td>
           </tr>
         </table>
@@ -77,126 +85,99 @@
       til å plassere <code>tingaren</code> si <code>tekstsamling</code> på ein
       tenar som han/ho forpliktar seg til å ha ansvaret for.</p>
 
-      <p>2.3 <code>Produsenten</code> forpliktar seg til å lagre 
+      <p>2.3 <code>Produsenten</code> forpliktar seg til å lagre
       <code>tekstsamlinga</code> på ei datamaskin på ein slik måte at ho er
       tilgjengeleg for dei forskarane som tingaren har gjeve
       <code>løyve</code> til å bruke tekstsamlinga til, slik at dei kan bruke
       <code>tekstsamlinga </code>via nettverket <code>namn på
       nettverk</code>.</p>
-      
-      <note>Punkt 2.3 gjeld teknisk tilrettelegging for forskarbruk og anna relevant
-      bruk</note>
+
+      <note>Punkt 2.3 gjeld teknisk tilrettelegging for forskarbruk og anna
+      relevant bruk</note>
 
       <p>2.4 <code>Produsenten</code> skal gjeva teknisk tilgang til
       <code>tekstsamlinga</code> til dei forskarane som <code>tingaren</code>
       har gjeve bruksrett til.</p>
-      
-      <note>Punkt 2.4 gjeld oppretting av brukarnamn og passord</note>
 
+      <note>Punkt 2.4 gjeld oppretting av brukarnamn og passord. Det er
+      innsamlaren som godkjenner brukarane, ikkje datasentralen.</note>
     </section>
 
     <section>
       <title>3. Tekstane i tekstsamlinga</title>
 
-      <p>3.1 I vedlegg 1 står ei liste over <code>tekstane</code> som høyrer til
-      i <code>tekstsamlinga</code>, kor store dei er, og kva avtale som er gjort
-      om dei.</p>
-
+      <p>3.1 I vedlegg 1 står ei liste over <code>tekstane</code> som høyrer
+      til i <code>tekstsamlinga</code>, kor store dei er, og kva avtale som er
+      gjort om dei.</p>
     </section>
 
     <section>
       <title>4. Produsentens pliktar og ansvar</title>
 
       <p>4.1 <code>Produsenten</code> har ansvar for at dei bruksoppgåvene som
-      er definert for han i punkt 2 i denne avtalen blir utført profesjonelt og
-      etter god teknisk yrkesskikk, og etter dei skriftlege bruksrettleiingane
-      som avtalepartane har vorte samde om.</p>
-
-      <note>Where are these defined? These = «bruksoppgåvene» and
-      «bruksrettleiingane». If it is §2.3 and §2.4, they should be referred
-      to. If not, there should be a reference to whatever document describes
-      the exact tasks. As it stands, this paragraph is open to
-      interpretation.</note>
+      er definert for han i punkt 2 i denne avtalen blir utført profesjonelt
+      og etter god teknisk yrkesskikk.</p>
 
       <p>4.2 <code>Produsenten</code> er ansvarleg for å følgje slik god skikk
       for elektronisk datahandsaming at datatryggleik og datavern blir teke
       vare på.</p>
 
       <p>4.3 <code>Produsenten</code> garanterer for at vilkåra i avtalen blir
-      oppfylde innafor den handsamingstida som det er gjort avtale om.</p>
+      oppfylde innafor den sørvistida som det er gjort avtale om.</p>
 
-      <note>Where is this period defined? I see no reference to it.</note>
+      <note>This is the guaranteed uptime of the service, e.g. 5/7, 16/24
+      (i.e. downtime for system maintenance is allowed).</note>
 
       <p>4.4 <code>Produsenten</code> garanterer for dei maskinene som er i
       hans eller hennes eigne lokale, og for at tryggleikskopiar kan bli tekne
-      og oppbevart på ein måte som samsvarar med skriftlege rettleiingar som
-      begge partane har godteke.</p>
-
-      <note>There should be an explicit reference to these
-      «rettleiingar».</note>
-
-      <note>Originalens §4.5 gjaldt moglege problem i samband med
-      tusenårsskiftet, og går derfor ut.</note>
+      og oppbevart på ein måte som samsvarar med profesjonell og god teknisk
+      yrkesskikk.</p>
     </section>
 
     <section>
       <title>5. Rettar</title>
 
-      <p>5.1 Eigedomsrettane og dei immaterielle rettane til produkta og dei
-      avleidde programma som <code>tingaren</code> eig, leiger, har laga,
-      eller dei avleidde programma som <code>tingaren</code> har bruksrett til,
-      tilhøyrer berre <code>tingaren</code> eller tredjepartar som har gjeve
-      bruksrett til tingaren.</p>
+      <p>5.1 Eigedomsrettane og dei immaterielle rettane til tekstane,
+      produkta og dei avleidde programma som <code>tingaren</code> har
+      lisensiert, eig, leiger, har laga, eller dei avleidde programma som
+      <code>tingaren</code> har bruksrett til, blir ikkje overført til
+      <code>produsenten</code> som eit resultat av denne avtalen.</p>
 
       <p>Alternativ 5.1 Eigedomsretten til tekstane blir ikkje overført til
       <code>produsenten</code> som eit resultat av denne avtalen.</p>
 
-      <warning>5.1 is untranslatable, there is probably a subject missing
-      in the original. Here is the original:</warning>
-
-      <note>Sopimuksen kohteena olevien palveluiden tuottamisessa käytettävien
-      tuotteiden ja sovellusten, jotka ovat {tilaajan} omistamia, vuokraamia,
-      valmistamia tai joista tilaajalla on käyttöoikeussopimus omistus- ja
-      immateriaalioikeudet ovat yksin {tilaajalla} tai kolmannella
-      osapuolella.</note>
-
       <p>5.2 <code>Produsenten</code> har bruksrett til programprodukta og
       skildringane som <code>tingaren</code> har gjeve til
       <code>produsenten</code>, og det berre for bruk til å utføre
-      arbeidsoppgåver for <code>tingaren</code>.
-      <code>Tingaren</code> har ansvaret for å skaffe naudsynte løyve for å
-      utføre desse oppgåvene.</p>
+      arbeidsoppgåver for <code>tingaren</code>. <code>Tingaren</code> har
+      ansvaret for å skaffe naudsynte løyve for å utføre desse oppgåvene.</p>
 
-      <p>5.3 <code>Tingaren</code> kan, om han/ho vil, få tilgang til resultatet
-      av utviklingsarbeidet til <code>produsenten</code>, eller til tredjepart,
-      som er tilgjengeleg til tenestekundane til <code>produsenten</code>. Det
-      skal gjerast separat avtale om overføringa av produkta frå
-      utviklingsarbeidet til <code>tingaren</code>.</p>
+      <p>5.3 <code>Tingaren</code> kan, om han/ho vil, få tilgang til
+      resultatet av utviklingsarbeidet til <code>produsenten</code>, eller til
+      tredjepart, som er tilgjengeleg til tenestekundane til
+      <code>produsenten</code>. Det skal gjerast separat avtale om overføringa
+      av produkta frå utviklingsarbeidet til <code>tingaren</code>.</p>
     </section>
 
     <section>
       <title>6. Garanti</title>
 
       <p>6.1 Viss det er manglar eller feil i databasen som følgje av feil
+      <code>produsenten</code> har gjort, skal <code>produsenten</code> få
+      databasen i normaltilstand utan forseinkingar, og kostnadsfritt for
+      <code>tingaren</code>.</p>
+
+      <note>Sjekk formuleringa!</note>
+
+      <p>6.2 Viss det er manglar eller feil i databasen som følgje av feil
       <code>tingaren</code> har gjort, skal partane i lag bli samde om å få
-      databasen i normaltilstand. <code>Produsenten</code> utfører naudsynte
-      maskinhandsamingar kostnadsfritt.</p>
+      databasen i normaltilstand. <code>Produsenten</code> utfører naudsynt
+      dataarbeid kostnadsfritt/til avtalt pris.</p>
 
-      <note>It is unclear exactly what "maskinhandsamingar" is supposed to
-      cover, and thus what kind of work is "free".</note>
-
-      <p>6.2 <code>Produsenten</code> har ikkje ansvar for feil eller
-      manglar som kjem av feil eller manglar i informasjon eller rettleiing
-      frå <code>tingaren</code>, eller i informasjon formidla av eller vist
-      til av <code>tingaren</code>.</p>
-      
-      <note>It is unclear what the original refers to with the wording
-      <code>tietolähde</code>. Below is the orignial:</note>
-      
-      <note>TUOTTAJA ei vastaa niistä puutteista eikä virheistä, jotka aiheutuvat
-      tehtäviin käytetyistä tietolähteistä, TILAAJAN toimittamasta tietoaineistosta
-      tai TILAAJAN antamien ohjeiden mahdollisista virheistä tai
-      epätäsmällisyyksistä.</note>
+      <p>6.3 <code>Produsenten</code> har ikkje ansvar for feil eller manglar
+      som kjem av feil eller manglar i data, informasjon eller rettleiing frå
+      <code>tingaren</code>, eller i data eller informasjon formidla av eller
+      vist til av <code>tingaren</code>.</p>
     </section>
 
     <section>
