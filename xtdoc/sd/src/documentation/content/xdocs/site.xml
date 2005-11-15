@@ -149,6 +149,8 @@
     <overview description="Overview over monthly reports"
               href="monthoverview.html" label="Overview" />
 
+    <oct05 href="monthly10.html" label="Oct '05" description="Report for October '05" />
+    <sep05 href="monthly09.html" label="Sep '05" description="Report for September '05" />
     <aug05 href="monthly08.html" label="Aug '05" description="Report for August '05" />
     <jul05 href="monthly07.html" label="Jul '05" description="Report for July '05" />
     <jun05 href="monthly06.html" label="Jun '05" description="Report for June '05" />
