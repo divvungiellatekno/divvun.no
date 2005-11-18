@@ -28,116 +28,47 @@
         situasjonen, at t.d. forlaget eller forfattaren ikkje har skrive
         under, vil fort kunna gje mindre trivelege situasjonar.</note>
 
-        <table>
-          <tr>
-            <td>Rolle:</td>
+          <table>
+            <tr><td>Rolle:</td>                   <td>forfattar</td></tr>
+            <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adresse:</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Postnummer og -stad:</td>     <td>&nbsp;</td></tr>
+          </table>
 
-            <td>forfattar</td>
-          </tr>
+          <p/>
 
-          <tr>
-            <td>Namn:</td>
+          <table>
+            <tr><td>Rolle:</td>                   <td>omsetjar</td></tr>
+            <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adresse:</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Postnummer og -stad:</td>     <td>&nbsp;</td></tr>
+          </table>
 
-            <td>&nbsp;</td>
-          </tr>
+          <p/>
 
-          <tr>
-            <td>Adresse:</td>
+          <table>
+            <tr><td>Rolle:</td>                   <td>forleggjar</td></tr>
+            <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adresse:</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Postnummer og -stad:</td>     <td>&nbsp;</td></tr>
+          </table>
 
-            <td>&nbsp;</td>
-          </tr>
+          <p/>
 
-          <tr>
-            <td>Postnummer og -stad:</td>
+        </section>
 
-            <td>&nbsp;</td>
-          </tr>
-        </table>
+        <section>
+          <title>1.2 Den som får bruksrett
+          (<code>bruksrettsmottakar</code>)</title>
 
-        <p></p>
+          <table>
+            <tr><td>Namn</td>                    <td>Sámediggi · Sametinget</td></tr>
+            <tr><td>Adresse</td>                 <td>Kautokeinov. 50</td></tr>
+            <tr><td>Postnummer og -stad</td>     <td>N-9730 Karasjok</td></tr>
+          </table>
 
-        <table>
-          <tr>
-            <td>Rolle:</td>
-
-            <td>omsetjar</td>
-          </tr>
-
-          <tr>
-            <td>Namn:</td>
-
-            <td>&nbsp;</td>
-          </tr>
-
-          <tr>
-            <td>Adresse:</td>
-
-            <td>&nbsp;</td>
-          </tr>
-
-          <tr>
-            <td>Postnummer og -stad:</td>
-
-            <td>&nbsp;</td>
-          </tr>
-        </table>
-
-        <p></p>
-
-        <table>
-          <tr>
-            <td>Rolle:</td>
-
-            <td>forleggjar</td>
-          </tr>
-
-          <tr>
-            <td>Namn:</td>
-
-            <td>&nbsp;</td>
-          </tr>
-
-          <tr>
-            <td>Adresse:</td>
-
-            <td>&nbsp;</td>
-          </tr>
-
-          <tr>
-            <td>Postnummer og -stad:</td>
-
-            <td>&nbsp;</td>
-          </tr>
-        </table>
-
-        <p></p>
+        </section>
       </section>
-
-      <section>
-        <title>1.2 Den som får bruksrett
-        (<code>bruksrettsmottakar</code>)</title>
-
-        <table>
-          <tr>
-            <td>Namn</td>
-
-            <td>Sámediggi · Sametinget</td>
-          </tr>
-
-          <tr>
-            <td>Adresse</td>
-
-            <td>Kautokeinov. 50</td>
-          </tr>
-
-          <tr>
-            <td>Postnummer og -stad</td>
-
-            <td>N-9730 Karasjok</td>
-          </tr>
-        </table>
-      </section>
-    </section>
 
     <section>
       <title>2. Meininga med denne avtalen</title>
@@ -245,58 +176,29 @@
       kontrakten.</p>
     </section>
 
-    <section>
-      <title>4. Underskrifter</title>
+      <section>
+        <title>4. Underskrifter</title>
 
-      <p></p>
+        <p/>
 
-      <table>
-        <tr>
-          <th>Bruksrettsgjevarar</th>
+          <table>
+            <tr><th>Bruksrettsgjevarar</th><th>Bruksrettsmottakar</th></tr>
+            <tr><td>Stad og tid:</td>      <td>Stad og tid:</td></tr>
+            <tr><td>Underskrift:</td>      <td>Underskrift:</td></tr>
+            <tr><td>Stad og tid:</td>      <td>Stad og tid:</td></tr>
+            <tr><td>Underskrift:</td>      <td>Underskrift:</td></tr>
+            <tr><td>Stad og tid:</td></tr>
+            <tr><td>Underskrift:</td></tr>
+          </table>
 
-          <th>Bruksrettsmottakar</th>
-        </tr>
+      </section>
 
-        <tr>
-          <td>Stad og tid:</td>
+      <section>
+        <title>5. Vedlegg</title>
 
-          <td>Stad og tid:</td>
-        </tr>
+        <p>Vedlegg 1: Tekstane kontrakten gjeld for</p>
 
-        <tr>
-          <td>Underskrift:</td>
-
-          <td>Underskrift:</td>
-        </tr>
-
-        <tr>
-          <td>Stad og tid:</td>
-
-          <td>Stad og tid:</td>
-        </tr>
-
-        <tr>
-          <td>Underskrift:</td>
-
-          <td>Underskrift:</td>
-        </tr>
-
-        <tr>
-          <td>Stad og tid:</td>
-        </tr>
-
-        <tr>
-          <td>Underskrift:</td>
-        </tr>
-      </table>
-    </section>
-
-    <section>
-      <title>5. Vedlegg</title>
-
-      <p>Vedlegg 1: Tekstane kontrakten gjeld for</p>
-
-      <p>Vedlegg 2: Bruksrettsavtale for tekstsamlinga</p>
-    </section>
+        <p>Vedlegg 2: Bruksrettsavtale for tekstsamlinga</p>
+      </section>
   </body>
 </document>
