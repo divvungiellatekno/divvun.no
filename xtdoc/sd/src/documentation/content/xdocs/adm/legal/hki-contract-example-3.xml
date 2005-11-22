@@ -11,7 +11,7 @@
       <title>1 Avtalepartane</title>
 
       <section>
-        <title>1.1 Søkar (bruksrettsmottakar)</title>
+        <title>1.1 Bruksrettsmottakar (søkar fyller ut)</title>
 
         <table>
           <tr>
@@ -65,7 +65,8 @@
           <tr>
             <td>Namn</td>
 
-            <td>[Typisk eigaren av tekstsamlinga. NB! Ikkje datasentralen!]</td>
+            <td>[Typisk eigaren av tekstsamlinga. NB! Ikkje
+            datasentralen!]</td>
           </tr>
 
           <tr>
@@ -101,7 +102,7 @@
 
       <p>3.1. Etter denne avtalen gjev <code>bruksrettsløyvaren</code>
       <code>bruksrettsmottakaren</code> rett til å bruke dei tekstane som er
-      omhandla i vedlegg 1.</p>
+      nemnde i vedlegg 1.</p>
     </section>
 
     <section>
@@ -110,8 +111,8 @@
       <p>4.1 <code>Bruksrettsmottakaren</code> har berre rett til å bruke
       tekstane til forsking eller slike kommersielle språkteknologiske eller
       andre liknande formål, som ikkje bryt med <code>Lov om opphavsrett til
-      åndsverk</code>. Bruksrettsmottakaren kan bruke tekstane for å gjere
-      seg nytte av dei språktrekka (t.d. statistisk informasjon, grammatiske
+      åndsverk</code>. Bruksrettsmottakaren kan bruke tekstane for å gjere seg
+      nytte av dei språktrekka (t.d. statistisk informasjon, grammatiske
       reglar og semantiske skildringar) han/ho har funne gjennom forsking, og
       plukke ut kortare sitat frå tekstane.</p>
     </section>
@@ -120,8 +121,8 @@
       <title>5 Vilkår for bruksretten</title>
 
       <p>5.1 Bruksrettsmottakar er pliktig til å erstatte økonomiske tap for X
-      (tekstprodusent, tekstinnsamlar og/eller datasentral) som følgje av grovt
-      uaktsom bruk av tekstsamlinga, eller medvite misbruk.</p>
+      (tekstprodusent, tekstinnsamlar og/eller datasentral) som følgje av
+      grovt aktlaus bruk av tekstsamlinga, eller medvite misbruk.</p>
 
       <p>5.2 <code>Bruksrettsmottakaren</code> bind seg til å følgje god
       vitskapleg skikk (t.d. etter retningsliner frå forskingsetisk råd),
@@ -129,14 +130,12 @@
       denne kontrakten.</p>
 
       <p>5.3 <code>Bruksrettsmottakaren</code> får ikkje ta større delar av
-      løpande tekst i
-      <code>tekstsamlinga</code> enn korte sitat bort frå den tenaren som
-      <code>tekstsamlinga</code> er installert på. Det er lov til å lagre
-      temporære kopiar på sjølve tenaren på det vilkåret at
-      bruksrettsmottakaren tek omsyn til datatryggleiken.
-      Denne avgrensinga
-      gjeld ikkje offentlege dokument (t.d. NOU, stortingsmeldingar o.l.).
-      Det går klårt fram av kvart dokument kva for lisens som er knytta til
+      løpande tekst i <code>tekstsamlinga</code> enn korte sitat bort frå den
+      tenaren som <code>tekstsamlinga</code> er installert på. Det er lov til
+      å lagre temporære kopiar på sjølve tenaren på det vilkåret at
+      bruksrettsmottakaren tek omsyn til datatryggleiken. Denne avgrensinga
+      gjeld ikkje offentlege dokument (t.d. NOU, stortingsmeldingar o.l.). Det
+      går klårt fram av kvart dokument kva for lisens som er knytta til
       det.</p>
 
       <p>5.4 Bruksrett til <code>tekstsamlinga</code> er personleg, og kan
@@ -155,7 +154,7 @@
       resultata, tenestetilbydar.</source>
 
       <p>5.7 <code>Bruksrettsmottakaren</code> mistar bruksretten sin straks
-      om han eller ho bryt mot desse vilkåra.</p>
+      om han eller ho bryt desse vilkåra.</p>
 
       <p>5.8 Avtalepartane er ikkje forplikta til å erstatte ulemper for den
       andre parten, dersom dei ikkje er i stand til å oppfylle krava i denne

@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
   <header>
-    <title>Avtale for produksjon av brukartenester til tekstsamling</title>
+    <title>Avtale om produksjon av brukartenester til tekstsamling</title>
   </header>
 
   <body>
@@ -115,7 +115,7 @@
       oppfylde innafor normal oppetid.</p>
 
       <p>4.4 <code>Produsenten</code> garanterer for dei maskinene som er i
-      hans eller hennes eigne lokale, og for at tryggleikskopiar kan bli tekne
+      hans eller hennar eigne lokale, og for at tryggleikskopiar vil bli tekne
       og oppbevart på ein måte som samsvarar med profesjonell og god teknisk
       yrkesskikk.</p>
     </section>
@@ -131,15 +131,14 @@
 
       <p>5.2 <code>Produsenten</code> har bruksrett til programprodukta og
       skildringane som <code>tingaren</code> har gjeve til
-      <code>produsenten</code>, og det berre for bruk til å utføre
-      arbeidsoppgåver for <code>tingaren</code>. <code>Tingaren</code> har
-      ansvaret for å skaffe naudsynte løyve for å utføre desse oppgåvene.</p>
+      <code>produsenten</code>, og det berre for å utføre arbeidsoppgåver for
+      <code>tingaren</code>. <code>Tingaren</code> har ansvaret for å skaffe
+      naudsynte løyve for å utføre desse oppgåvene.</p>
 
       <p>5.3 <code>Tingaren</code> kan, om han/ho vil, få tilgang til
       resultatet av utviklingsarbeidet til <code>produsenten</code>, eller til
-      tredjepart, som er tilgjengeleg til tenestekundane til
-      <code>produsenten</code>. Det skal gjerast separat avtale om overføringa
-      av produkta frå utviklingsarbeidet til <code>tingaren</code>.</p>
+      tredjepart. Det skal gjerast separat avtale om overføringa av produkta
+      frå utviklingsarbeidet til <code>tingaren</code>.</p>
     </section>
 
     <section>
