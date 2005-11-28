@@ -49,19 +49,16 @@
         Department consists of four parts:</p>
 
         <ol>
-          <li>First part original <a href="legal/hki-ex-1.tex">LaTeX</a>, <a
-          href="legal/hki-ex-1.pdf">pdf</a></li>
+          <li>First part original <a href="/static_files/hki-ex-1.tex">LaTeX</a>, <a href="/static_files/hki-ex-1.pdf">pdf</a></li>
 
-          <li>Second part original <a href="legal/hki-ex-2.tex">LaTeX</a>, <a
-          href="legal/hki-ex-2.pdf">pdf</a></li>
+          <li>Second part original <a href="/static_files/hki-ex-2.tex">LaTeX</a>, <a href="/static_files/hki-ex-2.pdf">pdf</a></li>
 
-          <li>Third part original <a href="legal/hki-ex-3.tex">LaTeX</a>, <a
-          href="legal/hki-ex-3.pdf">pdf</a></li>
+          <li>Third part original <a href="/static_files/hki-ex-3.tex">LaTeX</a>, <a href="/static_files/hki-ex-3.pdf">pdf</a></li>
 
           <li>The fourth part is not yet available</li>
         </ol>
 
-        <p>There is also a supporting <a href="legal/man.sty">style
+        <p>There is also a supporting <a href="/static_files/man.sty">style
         specification</a> for the LaTeX originals.</p>
 
         <p>The above version of the 1. Helsinki contract is missing §3.8
@@ -91,11 +88,11 @@
       are:</p>
 
       <ol>
-        <li><a href="legal/sd-contract.html">First part</a></li>
+        <li><a href="sd-contract.html">First part</a></li>
 
-        <li><a href="legal/sd-contract-part-2.html">Second part</a></li>
+        <li><a href="sd-contract-part-2.html">Second part</a></li>
 
-        <li><a href="legal/sd-contract-part-3.html">Third part</a></li>
+        <li><a href="sd-contract-part-3.html">Third part</a></li>
 
         <li>Fourth part not yet available</li>
       </ol>
@@ -114,7 +111,7 @@
       license:</p>
 
       <ol>
-        <li>The <a href="legal/oslo-standard-contract.html">text licensing
+        <li>The <a href="oslo-standard-contract.html">text licensing
         contract</a> (corresponds to contract 1 and 2 in the Helsinki
         model)</li>
 
