@@ -14,7 +14,7 @@
         displayed when their parent tab is selected.
     -->
 <!-- The id attribute in the tab tag has to match the tab attribute in site.xml --> 
-    <tab dir="" id="Ruoktu" label="Ruoktu" indexfile="sami.html" >
+    <tab dir="" id="Ruoktu" label="Ruoktu" indexfile="index.html" >
         <tab dir="" id="lule-sami"     label="Julevsámegiella" indexfile="index.smj.html" />
         <tab dir="" id="norwegian"     label="Norsk"           indexfile="index.nb.html" />
         <tab dir="" id="finnish"       label="Suomeksi"        indexfile="index.fi.html" />
