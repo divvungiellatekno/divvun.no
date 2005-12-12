@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
   <header>
-    <title>Avtale for produksjon av brukartenester til tekstsamling</title>
+    <title>Avtale om produksjon av brukartenester til tekstsamling</title>
   </header>
 
   <body>
@@ -22,16 +22,19 @@
 
           <tr>
             <td>Namn</td>
+
             <td>&nbsp;</td>
           </tr>
 
           <tr>
             <td>Adresse</td>
+
             <td>&nbsp;</td>
           </tr>
 
           <tr>
             <td>Postnummer og -stad</td>
+
             <td>&nbsp;</td>
           </tr>
         </table>
@@ -50,16 +53,19 @@
 
           <tr>
             <td>Namn</td>
-            <td>[t.d. Universitetet i Tromsø]</td>
+
+            <td>&nbsp;</td>
           </tr>
 
           <tr>
             <td>Adresse</td>
+
             <td>&nbsp;</td>
           </tr>
 
           <tr>
             <td>Postnummer og -stad</td>
+
             <td>&nbsp;</td>
           </tr>
         </table>
@@ -69,15 +75,17 @@
     <section>
       <title>2. Formålet med avtalen</title>
 
-      <p>2.1 (Skildrar tenesteleverandøren, i vårt tilfelle UiT. Skildringa
+      <p>2.1 Dette er ein avtale mellom tingar og produsent. Formålet med
+      avtalen er å regulere kva produsenten skal gjere med tekstsamlinga på
+      vegner av tingar. [Dette punktet kan òg skildra produsenten. Skildringa
       inneheld ei kortfatta oversikt over kva tenesteleverandøren gjer og
-      er)</p>
+      er.]</p>
 
       <p>2.2 Etter denne avtalen har <code>produsenten</code> forplikta seg
       til å plassere <code>tingaren</code> si <code>tekstsamling</code> på ein
       tenar som han/ho forpliktar seg til å ha ansvaret for.</p>
 
-      <p>2.3 <code>Produsenten</code> forpliktar seg til å lagre 
+      <p>2.3 <code>Produsenten</code> forpliktar seg til å lagre
       <code>tekstsamlinga</code> på ei datamaskin på ein slik måte at ho er
       tilgjengeleg for dei forskarane som tingaren har gjeve
       <code>bruksrett</code> til tekstsamlinga til, slik at dei kan bruke
@@ -107,7 +115,7 @@
       oppfylde innafor normal oppetid.</p>
 
       <p>4.4 <code>Produsenten</code> garanterer for dei maskinene som er i
-      hans eller hennes eigne lokale, og for at tryggleikskopiar kan bli tekne
+      hans eller hennar eigne lokale, og for at tryggleikskopiar vil bli tekne
       og oppbevart på ein måte som samsvarar med profesjonell og god teknisk
       yrkesskikk.</p>
     </section>
@@ -123,15 +131,14 @@
 
       <p>5.2 <code>Produsenten</code> har bruksrett til programprodukta og
       skildringane som <code>tingaren</code> har gjeve til
-      <code>produsenten</code>, og det berre for bruk til å utføre
-      arbeidsoppgåver for <code>tingaren</code>. <code>Tingaren</code> har
-      ansvaret for å skaffe naudsynte løyve for å utføre desse oppgåvene.</p>
+      <code>produsenten</code>, og det berre for å utføre arbeidsoppgåver for
+      <code>tingaren</code>. <code>Tingaren</code> har ansvaret for å skaffe
+      naudsynte løyve for å utføre desse oppgåvene.</p>
 
       <p>5.3 <code>Tingaren</code> kan, om han/ho vil, få tilgang til
       resultatet av utviklingsarbeidet til <code>produsenten</code>, eller til
-      tredjepart, som er tilgjengeleg til tenestekundane til
-      <code>produsenten</code>. Det skal gjerast separat avtale om overføringa
-      av produkta frå utviklingsarbeidet til <code>tingaren</code>.</p>
+      tredjepart. Det skal gjerast separat avtale om overføringa av produkta
+      frå utviklingsarbeidet til <code>tingaren</code>.</p>
     </section>
 
     <section>
