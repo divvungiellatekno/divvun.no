@@ -11,7 +11,7 @@
       <title>Avtalepartane</title>
 
       <section>
-        <title>Søkar (heretter: <code>bruksrettsmottakar</code>) fyller ut:</title>
+        <title>Søkar (nedanfor: <code>bruksrettsmottakar</code>) fyller ut:</title>
 
         <table>
           <tr>
@@ -59,7 +59,7 @@
       </section>
 
       <section>
-        <title>Løyvar</title>
+        <title>Løyvar (nedanfor: <code>bruksrettsløyvar</code>)</title>
 
         <table>
           <tr>
@@ -92,7 +92,10 @@
     <section>
       <title>Bakgrunn for avtalen</title>
 
-      <p>2.1 Den samiske tekstbanken blir administrert av Universitetet i Tromsø.</p>
+      <p>2.1 Den samiske tekstbanken blir administrert av Universitetet i
+      Tromsø (heretter: <code>UiTø</code>). Faktisk tilgang til tekstbanken får
+      <code>bruksrettsmottakaren</code> av <code>UiTø</code> etter at denne
+      søknaden er innvilga av <code>bruksrettsløyvaren</code>.</p>
     </section>
 
     <section>

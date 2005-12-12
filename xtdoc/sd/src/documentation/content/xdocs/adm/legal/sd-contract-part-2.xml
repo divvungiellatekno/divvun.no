@@ -11,7 +11,7 @@
       <title>Avtalepartane</title>
 
       <section>
-        <title>Bruksrettstingar (nedanfor <code>tingar</code>)</title>
+        <title>Bruksrettstingar (nedanfor: <code>tingar</code>)</title>
 
         <table>
           <tr>
@@ -41,7 +41,7 @@
       </section>
 
       <section>
-        <title>Bruksrettsprodusent (nedanfor
+        <title>Bruksrettsprodusent (nedanfor:
         <code>produsent</code>)</title>
 
         <table>
@@ -151,7 +151,8 @@
       <p>6.2 Viss det er manglar eller feil i databasen som følgje av feil
       <code>tingaren</code> har gjort, skal partane i lag bli samde om å få
       databasen i normaltilstand. <code>Produsenten</code> utfører naudsynt
-      dataarbeid kostnadsfritt/til avtalt pris.</p>
+      dataarbeid kostnadsfritt så langt det er mogleg. For meir arbeid skal det
+      bli forhandla om pris i kvart enkelt tilfelle.</p>
 
       <p>6.3 <code>Produsenten</code> har ikkje ansvar for feil eller manglar
       som kjem av feil eller manglar i data, informasjon eller rettleiing frå

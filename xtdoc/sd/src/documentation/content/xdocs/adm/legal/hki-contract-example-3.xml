@@ -11,7 +11,7 @@
       <title>1 Avtalepartane</title>
 
       <section>
-        <title>1.1 Søkar (heretter: <code>bruksrettsmottakar</code>) fyller ut:</title>
+        <title>1.1 Søkar (nedanfor: <code>bruksrettsmottakar</code>) fyller ut:</title>
 
         <table>
           <tr>
@@ -59,7 +59,7 @@
       </section>
 
       <section>
-        <title>1.2 Løyvar</title>
+        <title>1.2 Løyvar (nedanfor: <code>bruksrettsløyvar</code>)</title>
 
         <table>
           <tr>
@@ -93,7 +93,10 @@
     <section>
       <title>2 Bakgrunn for avtalen</title>
 
-      <p>2.1 Universitetet i Tromsø administrerer den samiske tekstbanken.
+      <p>2.1 Tekstbanken blir administrert av ein <code>datasentral</code>).
+      Faktisk tilgang til tekstbanken får <code>bruksrettsmottakaren</code> av
+      <code>datasentralen</code> etter at denne
+      søknaden er innvilga av <code>bruksrettsløyvaren</code>.
       [Skildring av tekstbankadministratoren og dei tilhøyrande oppgåvene]</p>
     </section>
 
@@ -104,7 +107,9 @@
       <code>bruksrettsmottakaren</code> rett til å bruke dei tekstane som er
       nemnde i vedlegg 1. [til sjølvkost/til XXX,- NOK/år./osb.]</p>
 
-      <note>Viss bruksrettsløyvaren vil ha høve til å dekke utgiftene sine, t.d. etter sjølvkostprinsippet, bør det inn her. Høve til å gjere det bør også avklarast i kontrakten med tekstprodusent</note>
+      <note>Viss bruksrettsløyvaren vil ha høve til å dekke utgiftene sine, t.d.
+      etter sjølvkostprinsippet, bør det inn her. Høve til å gjere det bør også
+      avklarast i kontrakten med tekstprodusent</note>
     </section>
 
     <section>

@@ -13,7 +13,11 @@
 
     <abstract>This page contains an overview of the contracts required to
     build a usable corpus, both seen from the perspective of the collector,
-    the administrator of the collection, and the end user.</abstract>
+    the administrator of the collection, and the end user.
+    The contracts are translations of the documents at the <a
+    href="http://www.csc.fi/suomi/info/index.phtml.en">Finnish IT center for
+    science</a> for their <a
+    href="http://www.csc.fi/kielipankki/index.phtml.sv">Text bank</a>.</abstract>
   </header>
 
   <body>
