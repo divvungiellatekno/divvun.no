@@ -75,9 +75,10 @@
     <section>
       <title>2. Formålet med avtalen</title>
 
-      <p>2.1 Dette er ein avtale mellom tingar og produsent. Formålet med
-      avtalen er å regulere kva produsenten skal gjere med tekstsamlinga på
-      vegner av tingar. [Dette punktet kan òg skildra produsenten. Skildringa
+      <p>2.1 Dette er ein avtale mellom <code>tingar</code> og
+      <code>produsent</code>. Formålet med avtalen er å regulere kva
+      <code>produsenten</code> skal gjere med tekstsamlinga på vegner av
+      <code>tingar</code>. [Dette punktet kan òg skildra produsenten. Skildringa
       inneheld ei kortfatta oversikt over kva tenesteleverandøren gjer og
       er.]</p>
 
