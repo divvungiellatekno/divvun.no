@@ -8,10 +8,10 @@
 
   <body>
     <section>
-      <title>1. Avtalepartane</title>
+      <title>Avtalepartane</title>
 
       <section>
-        <title>1.1 Bruksrettstingar (nedanfor <code>tingar</code>)</title>
+        <title>Bruksrettstingar (nedanfor <code>tingar</code>)</title>
 
         <table>
           <tr>
@@ -23,25 +23,25 @@
           <tr>
             <td>Namn</td>
 
-            <td>&nbsp;</td>
+            <td>Sametinget</td>
           </tr>
 
           <tr>
             <td>Adresse</td>
 
-            <td>&nbsp;</td>
+            <td>Ávjovárgeaidnu 50</td>
           </tr>
 
           <tr>
             <td>Postnummer og -stad</td>
 
-            <td>&nbsp;</td>
+            <td>9730 Karasjok</td>
           </tr>
         </table>
       </section>
 
       <section>
-        <title>1.2 Bruksrettsprodusent (nedanfor
+        <title>Bruksrettsprodusent (nedanfor
         <code>produsent</code>)</title>
 
         <table>
@@ -54,7 +54,7 @@
           <tr>
             <td>Namn</td>
 
-            <td>&nbsp;</td>
+            <td>Universitetet i Tromsø</td>
           </tr>
 
           <tr>
@@ -66,20 +66,19 @@
           <tr>
             <td>Postnummer og -stad</td>
 
-            <td>&nbsp;</td>
+            <td>9002 Tromsø</td>
           </tr>
         </table>
       </section>
     </section>
 
     <section>
-      <title>2. Formålet med avtalen</title>
+      <title>Formålet med avtalen</title>
 
-      <p>2.1 Dette er ein avtale mellom tingar og produsent. Formålet med
-      avtalen er å regulere kva produsenten skal gjere med tekstsamlinga på
-      vegner av tingar. [Dette punktet kan òg skildra produsenten. Skildringa
-      inneheld ei kortfatta oversikt over kva tenesteleverandøren gjer og
-      er.]</p>
+      <p>2.1 Dette er ein avtale mellom <code>tingar</code> og
+      <code>produsent</code>. Formålet med avtalen er å regulere kva
+      <code>produsenten</code> skal gjere med tekstsamlinga på vegner av
+      <code>tingar</code>.</p>
 
       <p>2.2 Etter denne avtalen har <code>produsenten</code> forplikta seg
       til å plassere <code>tingaren</code> si <code>tekstsamling</code> på ein
@@ -93,7 +92,7 @@
     </section>
 
     <section>
-      <title>3. Tekstane i tekstsamlinga</title>
+      <title>Tekstane i tekstsamlinga</title>
 
       <p>3.1 I vedlegg 1 står ei liste over <code>tekstane</code> som høyrer
       til i <code>tekstsamlinga</code>, kor store dei er, og kva avtale som er
@@ -101,7 +100,7 @@
     </section>
 
     <section>
-      <title>4. Produsentens pliktar og ansvar</title>
+      <title>Produsentens pliktar og ansvar</title>
 
       <p>4.1 <code>Produsenten</code> har ansvar for at dei bruksoppgåvene som
       er definert for han i punkt 2 i denne avtalen blir utført profesjonelt
@@ -121,7 +120,7 @@
     </section>
 
     <section>
-      <title>5. Rettar</title>
+      <title>Rettar</title>
 
       <p>5.1 Eigedomsrettane og dei immaterielle rettane til tekstane,
       produkta og dei avleidde programma som <code>tingaren</code> har
@@ -142,7 +141,7 @@
     </section>
 
     <section>
-      <title>6. Garanti</title>
+      <title>Garanti</title>
 
       <p>6.1 Viss det er manglar eller feil i databasen som følgje av feil
       <code>produsenten</code> har gjort, skal <code>produsenten</code> få
@@ -161,21 +160,21 @@
     </section>
 
     <section>
-      <title>7. Usemje</title>
+      <title>Usemje</title>
 
       <p>7.1 Partane skal primært prøve å løyse mogleg usemje via
       forhandlingar.</p>
     </section>
 
     <section>
-      <title>8. Oppseiing av avtalen</title>
+      <title>Oppseiing av avtalen</title>
 
       <p>8.1 Begge partane har rett til å seie opp avtalen med 6 månaders
       varsel.</p>
     </section>
 
     <section>
-      <title>9. Avtalestart, moglege endringar</title>
+      <title>Avtalestart, moglege endringar</title>
 
       <p>9.1 Denne avtalen tek til å gjelde når begge partane har underteikna
       han.</p>
@@ -186,7 +185,7 @@
     </section>
 
     <section>
-      <title>10. Underskrifter</title>
+      <title>Underskrifter</title>
 
       <table>
         <tr>
@@ -222,7 +221,7 @@
     </section>
 
     <section>
-      <title>11. Vedlegg</title>
+      <title>Vedlegg</title>
 
       <p>Vedlegg 1. Skildring av tekstane.</p>
     </section>

@@ -6,12 +6,12 @@
     <title>Avtale om bruksrett til maskinlagra tekstar</title>
   </header>
 
-  <body>
+  <body class="contract">
     <section>
-      <title>1 Avtalepartane</title>
+      <title>Avtalepartane</title>
 
       <section>
-        <title>1.1 Bruksrettsmottakar (søkar fyller ut)</title>
+        <title>Søkar (heretter: <code>bruksrettsmottakar</code>) fyller ut:</title>
 
         <table>
           <tr>
@@ -59,26 +59,25 @@
       </section>
 
       <section>
-        <title>1.2 Løyvar</title>
+        <title>Løyvar</title>
 
         <table>
           <tr>
             <td>Namn</td>
 
-            <td>[Typisk eigaren av tekstsamlinga. NB! Ikkje
-            datasentralen!]</td>
+            <td>[ein passande person her]</td>
           </tr>
 
           <tr>
             <td>Organisasjon</td>
 
-            <td>&nbsp;</td>
+            <td>Sametinget</td>
           </tr>
 
           <tr>
             <td>E-post</td>
 
-            <td>&nbsp;</td>
+            <td>[person]@samediggi.no</td>
           </tr>
 
           <tr>
@@ -91,14 +90,13 @@
     </section>
 
     <section>
-      <title>2 Bakgrunn for avtalen</title>
+      <title>Bakgrunn for avtalen</title>
 
-      <p>2.1 Universitetet i Tromsø administrerer den samiske tekstbanken.
-      [Skildring av tekstbankadministratoren og dei tilhøyrande oppgåvene]</p>
+      <p>2.1 Den samiske tekstbanken blir administrert av Universitetet i Tromsø.</p>
     </section>
 
     <section>
-      <title>3 Formålet med avtalen</title>
+      <title>Formålet med avtalen</title>
 
       <p>3.1. Etter denne avtalen gjev <code>bruksrettsløyvaren</code>
       <code>bruksrettsmottakaren</code> rett til å bruke dei tekstane som er
@@ -106,7 +104,7 @@
     </section>
 
     <section>
-      <title>4 Omfanget av bruksretten</title>
+      <title>Omfanget av bruksretten</title>
 
       <p>4.1 <code>Bruksrettsmottakaren</code> har berre rett til å bruke
       tekstane til forsking eller slike kommersielle språkteknologiske eller
@@ -118,7 +116,7 @@
     </section>
 
     <section>
-      <title>5 Vilkår for bruksretten</title>
+      <titleVilkår for bruksretten</title>
 
       <p>5.1 Bruksrettsmottakar er pliktig til å erstatte økonomiske tap for X
       (tekstprodusent, tekstinnsamlar og/eller datasentral) som følgje av
@@ -173,7 +171,7 @@
     </section>
 
     <section>
-      <title>6 Samandrag av forskingsplanen (må fyllast ut av søkaren)</title>
+      <title>Samandrag av forskingsplanen (må fyllast ut av søkaren)</title>
 
       <p>___________________________________________________________________________________________</p>
 
@@ -191,7 +189,7 @@
     </section>
 
     <section>
-      <title>7 Underskrifter</title>
+      <title>Underskrifter</title>
 
       <table>
         <tr>
@@ -227,7 +225,7 @@
     </section>
 
     <section>
-      <title>8 Framhald av bruksløyve</title>
+      <title>Framhald av bruksløyve</title>
 
       <table>
         <tr>
@@ -269,7 +267,7 @@
     </section>
 
     <section>
-      <title>9 Vedlegg</title>
+      <title>Vedlegg</title>
 
       <p>Vedlegg 1: Tekstane denne avtalen gjeld</p>
 

@@ -17,10 +17,10 @@
   <body>
 
       <section>
-        <title>1. Avtalepartar</title>
+        <title>Avtalepartar</title>
 
         <section>
-          <title>1.1 Dei som overfører bruksrett
+          <title>Dei som overfører bruksrett
           (<code>bruksrettsgjevar</code>)</title>
 
           <note>Målsetjinga er at alle som har ein part i eit verk skal skriva
@@ -59,7 +59,7 @@
         </section>
 
         <section>
-          <title>1.2 Den som får bruksrett
+          <title>Den som får bruksrett
           (<code>bruksrettsmottakar</code>)</title>
 
           <table>
@@ -72,7 +72,7 @@
       </section>
 
     <section>
-      <title>2. Meininga med denne avtalen</title>
+      <title>Meininga med denne avtalen</title>
 
       <p>2.1. Denne avtalen gjeld bruksrett for <code>tekstar</code> som er
       eller blir overført til elektronisk form.
@@ -86,7 +86,7 @@
     </section>
 
     <section>
-      <title>3. Omfanget av bruksretten</title>
+      <title>Omfanget av bruksretten</title>
 
       <p>3.1 <code>Tekstane</code> som får bruksretten sin overført blir
       lista opp i Vedlegg 1 til denne kontrakten.</p>
@@ -99,7 +99,7 @@
        <code>tekstane</code> til
       <code>tekstsamlinga</code> si. For å gjere dette kan tekstane bli
       handsama både manuelt og maskinelt, men på ein slik måte at innhaldet
-      deira ikkje bli endra. Til <code>tekstane</code> er det likevel mogleg
+      deira ikkje blir endra. Til <code>tekstane</code> er det likevel mogleg
       å leggje til <code>koding</code> som trengst for den vitskaplege
       granskinga, eller EDB-handsaminga, slik som informasjon om setningar,
       avsnitt, ordklasse, og andre språklege eigenskapar eller anna
@@ -114,8 +114,8 @@
       <p>3.5 <code>Bruksrettsmottakar</code> kan lagre <code>tekstane</code>
       på eiga datamaskin og/eller plassere tekstane hos ein ekstern datasentral.
       <code>Bruksrettsmottakar</code> forpliktar seg til å sikre at
-      <code>tekstane</code> sin datatryggleik og vilkåra og forpliktingane i
-      denne kontrakten blir oppfylt.</p>
+      <code>tekstane</code> sin datatryggleik og vilkåra og pliktene som
+      fylgjer av denne kontrakten blir oppfylt.</p>
 
       <p>3.6 <code>Bruksrettsmottakar</code> har ikkje rett til å gje
       <code>tekstar</code>, kopiar av <code>tekstar</code> eller bruksrett til
@@ -131,7 +131,7 @@
       ikkje gje bruksrett til <code>tekstsamlinga</code> til personar som
       ein har grunn til å tru vil bryte vilkåra i kontrakten.
       <code>Bruksrettsmottakar</code> forpliktar seg til å informere
-      <code>bruksrettsgjevar</code> med ein gong han får kjennskap til
+      <code>bruksrettsgjevar</code> med ein gong han/ho får kjennskap til
       mogleg brot på desse vilkåra.</p>
 
       <p>3.8 Bruksrett gjeld rett til å utnytte (i samsvar med lov og reglar
@@ -147,7 +147,7 @@
         <li>korte eksempelsitat frå tekstane, og</li>
 
         <li>tekstar for kommersielle og ikkje-kommersielle språkteknologiske
-        eller tilsvarande formål som ikkje bryt med opphavsrettslovar.</li>
+        eller tilsvarande formål som ikkje bryt med opphavsrettslover.</li>
       </ul>
 
       <p>3.9 <code>Bruksrettsmottakar</code> forpliktar seg til å følgje slike
@@ -165,8 +165,8 @@
       <code>bruksrettsgjevaren</code>, eller ved å slette
       <code>tekstane</code> med alle kopiar, og opplyse om dette på ein
       sakleg måte til <code>bruksrettsgjevaren</code>.
-      <code>Bruksrettsgjevaren</code> har rett til å bryte denne kontrakten
-      viss <code>bruksrettsmottakaren</code> på ein vesentleg måte bryt mot
+      <code>Bruksrettsgjevaren</code> har rett til å seie opp denne kontrakten
+      viss <code>bruksrettsmottakaren</code> på ein vesentleg måte bryt
       vilkåra i denne kontrakten, og ikkje rettar opp vilkårsbrota sine,
       trass i skriftleg påpeiking, innan 60 dagar ettar at han har fått
       denne påpeikinga.</p>
@@ -179,7 +179,7 @@
     </section>
 
       <section>
-        <title>4. Underskrifter</title>
+        <title>Underskrifter</title>
 
         <p/>
 
@@ -196,7 +196,7 @@
       </section>
 
       <section>
-        <title>5. Vedlegg</title>
+        <title>Vedlegg</title>
 
         <p>Vedlegg 1: Tekstane kontrakten gjeld for</p>
 
