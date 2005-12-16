@@ -41,7 +41,7 @@
   <!-- These four menus are needed until we have a working i18n solution -->
 
   <lule label="Julevsámegiellaj" tab="lule-sami">
-    <index href="index.smj.html" label="Álggosijdo" />
+    <index href="julevsami.html" label="Álggosijdo" />
     <lang description="Prosjevta giellapolitihkka" href="lang-policy.smj.html"
           label="Giellapolitihkka " />
     <timetable description="Prosjevta plána" href="timetable.smj.html"
@@ -59,7 +59,7 @@
 
   <norsk label="På norsk" tab="norsk">
     <index description="Velkommen til prosjektet divvun.no"
-           href="index.nb.html" label="Startside" />
+           href="norsk.html" label="Startside" />
     <lang description="Prosjektets språkpolitikk" href="lang-policy.nb.html"
           label="Språkpolitikk" />
     <timetable description="Tidsplan" href="timetable.nb.html" label="Plan" />
@@ -75,7 +75,7 @@
   </norsk>
 
   <suomeksi label="Suomeksi" tab="suomeksi">
-    <index description="Tervetuloa divvun.no projektiin" href="index.fi.html"
+    <index description="Tervetuloa divvun.no projektiin" href="finnish.html"
            label="Aloitussivu" />
     <lang description="Projektin kielipolitiikka" href="lang-policy.fi.html"
           label="Kielipolitiikka" />
@@ -89,7 +89,7 @@
   </suomeksi>
 
   <english label="In English" tab="english">
-    <index description="Welcome to the divvun.no project" href="index.en.html"
+    <index description="Welcome to the divvun.no project" href="english.html"
            label="Start page" />
     <lang description="The projects' language policy"
           href="lang-policy.en.html" label="Language policy" />
