@@ -1,248 +1,199 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version = '1.0' encoding = 'UTF-8'?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="se">
+<document xml:lang="se" xmlns:xml="http://www.w3.org/XML/1998/namespace" >
   <header>
     <title>Divvun - sámi korrektuvrareaiddut</title>
-
     <authors>
       <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
     </authors>
   </header>
-
   <body>
     <section>
       <title>Mii Divvun lea?</title>
-
-      <p>Divvun lea prošeakta mii Norgga Sámediggi lea álggahan. Ulbmil lea
-      ráhkadit sámegielat korrektuvraprográmmaid. Dál vuos ráhkaduvvo
-      korrektuvraprográmma ja sátnejuohkin davvisámegiela várás, ja
-      korrektuvraprográmma julevsámegiela várás. Dán prioriterema birra logat
-      eanet <a href="sma-background.se.html">dáppe</a>. Reaiddut galget
-      doaibmat dábáleamos kántuvraprográmmain Windows:as, Linux:as ja
-      Mac:as</p>
+      <p>
+        Divvun lea prošeakta mii Norgga Sámediggi lea álggahan. Ulbmil lea
+        ráhkadit sámegielat korrektuvraprográmmaid. Dál vuos ráhkaduvvo
+        korrektuvraprográmma ja sátnejuohkin davvisámegiela várás, ja
+        korrektuvraprográmma julevsámegiela várás. Dán prioriterema birra logat
+        eanet <a href="sma-background.se.html" >dáppe</a>. Reaiddut galget
+        doaibmat dábáleamos kántuvraprográmmain Windows:as, Linux:as ja
+        Mac:as
+      </p>
     </section>
-
     <section>
       <title>Duogáš</title>
-
-      <p>Prošeakta vuos plánejuvvui, ja de biddjui johtui Sámedikki sávaldaga
-      mielde addit sámegielagiidda ja earáide geat hálidit sámegiela čállit
-      seamma reaidduid go dárogielagiin lea. Erenoamážit dát lea dehálaš
-      dannego ollu sámegielagat eai leat oahppan sámegiela čállit. Prošeakta
-      lea danne oassi strategiijas nannet sámegiela, ja buoridit sámegiela
-      eavttuid čállingiellan.</p>
-
-      <p><em>Sámediggi</em>, <em>Gielda- ja guovlodepartemeanta</em>,
-      <em>Oahpahus- ja dutkandepartemeanta</em> ja <em>Kultur- og
-      girkodepartemeanta</em> leat ruhtadan prošeavtta.</p>
-
-      <p>Mii áigut ráhkadit korrektuvraprográmmaid mat leat heivehuvvon
-      sámegillii nugo lea Norggas, Ruoŧas ja Suomas. Dannego prošeakta
-      čađahuvvo ollát Norgga prošeaktan, de soaitá válmmas prográmmain dát
-      dihttot, muhto mii geahččalit ráhkadit daid dainna lágiin ahte juohkehaš
-      sáhttá geavahit daid. </p>
+      <p>
+        Prošeakta vuos plánejuvvui, ja de biddjui johtui Sámedikki sávaldaga
+        mielde addit sámegielagiidda ja earáide geat hálidit sámegiela čállit
+        seamma reaidduid go dárogielagiin lea. Erenoamážit dát lea dehálaš
+        dannego ollu sámegielagat eai leat oahppan sámegiela čállit. Prošeakta
+        lea danne oassi strategiijas nannet sámegiela, ja buoridit sámegiela
+        eavttuid čállingiellan.
+      </p>
+      <p>
+        <em>Sámediggi</em>, <em>Gielda- ja guovlodepartemeanta</em>,
+        <em>Oahpahus- ja dutkandepartemeanta</em> ja <em>Kultur- ja
+        girkodepartemeanta</em> leat ruhtadan prošeavtta.
+      </p>
+      <p>
+        Mii áigut ráhkadit korrektuvraprográmmaid mat leat heivehuvvon
+        sámegillii nugo lea Norggas, Ruoŧas ja Suomas. Dannego prošeakta
+        čađahuvvo ollát Norgga prošeaktan, de soaitá válmmas prográmmain dát
+        dihttot, muhto mii geahččalit ráhkadit daid dainna lágiin ahte juohkehaš
+        sáhttá geavahit daid.
+      </p>
     </section>
-
     <section>
       <title>Organiseren</title>
-
-      <p>Prošeakta gullá Sámediggái. Das lea iežas
-      prošeaktastivra mas leat miellahtut Sámedikkis, departemeanttain ja
-      Romssa universitehtas.</p>
-
-        <section>
-            <title>Prošeavtta bargit</title>
-        
-            <dl>
-                <dt>
-                    Sjur N. Moshagen
-                </dt>
-                <dd>
-                    Prošeaktajođiheaddji, sjur čuokkis moshagen smarfealfa samediggi čuokkis no
-                </dd>
-        
-                <dt>Børre Gaup</dt>
-                <dd>
-                    Prošeaktamielbargi, borre čuokkkis gaup smarfaalfa samediggi čuokkis no
-                </dd>
-        
-                <dt>Thomas Omma</dt>
-                <dd>
-                    Lingvista, thomas čuokkis omma smarfealfa samediggi čuokkis no
-                </dd>
-        
-                <dt>Maaren Palismaa</dt>
-                <dd>
-                    Lingvista, maren čuokkis palismaa smarfealfa samediggi čuokkis no
-                </dd>
-        
-                <dt>Tomi Pieski</dt>
-                <dd>
-                    Programmerejeaddji, tomi čuokkis pieski smarfealfa samediggi čuokkis no
-                </dd>
-            </dl>
-        </section>
-        <section>
-            <title>Prošeavtta stivra</title>
-            <p>The Divvun project has a board:</p>
-            
-            <dl>
-                <dt>Anne-Britt Hætta</dt>
-                <dd>Head of the board, representing the Sámi Parliament</dd>
-                
-                <dt>Per Edvard Klemetsen</dt>
-                <dd>Representing the Sámi Parliament</dd>
-                
-                <dt>Eirik Liland</dt>
-                <dd>Representing the University of Tromsø</dd>
-                
-                <dt>Bjørn Olav Megard</dt>
-                <dd>Representing Kommunal- og regionaldepartementet</dd>
-                
-                <dt>Øystein Johannessen</dt>
-                <dd>Suppleant, representing Undervisings- og
-                    forskingsdepartementet</dd>
-                
-                <dt>Sjur N. Moshagen</dt>
-                <dd>… is not a member of the board, but is always present in the
-                    meetings, and represents the Divvun project</dd>
-            </dl>
-        </section>
-
-      <p>Prošeavtta vuođđun lea bargu mii lea dahkkon Romssa universitehtas,
-      ja dán prošeavttas ja Romssa universitehta giellateknologalaš birrasis lea
-      lagas ja beaivválaš ovttasbargu, nu lahka ahte mis lea oktasaš
-      infrastruktuvra. (geahča "<a href="http://giellatekno.uit.no">Sámi
-      disamb</a>" gilkoris dás bajábealde.).</p>
+      <p>
+        Prošeakta gullá Sámediggái. Das lea iežas prošeaktastivra mas leat
+        miellahtut Sámedikkis, departemeanttain ja Romssa universitehtas.
+      </p>
+      <section>
+        <title>Prošeavtta stivra</title>
+        <dl>
+          <dt>Anne-Britt Hætta</dt>
+          <dd>Stivrajođiheaddji, ovddasta Sámedikki</dd>
+          <dt>Per Edvard Klemetsen</dt>
+          <dd>Ovddasta Sámedikki</dd>
+          <dt>Eirik Liland</dt>
+          <dd>Ovddasta Romssa universitehta</dd>
+          <dt>Bjørn Olav Megard</dt>
+          <dd>Ovddasta gielda- ja guovlodepartementta</dd>
+          <dt>Øystein Johannessen</dt>
+          <dd>Sadjásaš lahttu, ovddasta oahpo- ja dutkandepartementta</dd>
+          <dt>Sjur N. Moshagen</dt>
+          <dd>… ii leat stivralahttu, muhto lea álo mielde čoahkkimiin, ja ovddasta Divvun prošeavtta</dd>
+        </dl>
+      </section>
+      <section>
+          <title>Prošeavtta bargit</title>
+          <dl>
+              <dt>Sjur N. Moshagen</dt>
+              <dd>Prošeaktajođiheaddji, sjur čuokkis moshagen smarfealfa samediggi čuokkis no</dd>
+              <dt>Børre Gaup</dt>
+              <dd>Prošeaktamielbargi, borre čuokkkis gaup smarfaalfa samediggi čuokkis no</dd>
+              <dt>Thomas Omma</dt>
+              <dd>Lingvista, thomas čuokkis omma smarfealfa samediggi čuokkis no</dd>
+              <dt>Maaren Palismaa</dt>
+              <dd>Lingvista, maren čuokkis palismaa smarfealfa samediggi čuokkis no</dd>
+              <dt>Tomi Pieski</dt>
+              <dd>Programmerejeaddji, tomi čuokkis pieski smarfealfa samediggi čuokkis no</dd>
+          </dl>
+      </section>
+      <p>
+        Prošeavtta vuođđun lea bargu mii lea dahkkon Romssa universitehtas,
+        ja dán prošeavttas ja Romssa universitehta giellateknologalaš birrasis
+        lea lagas ja beaivválaš ovttasbargu, nu lahka ahte mis lea oktasaš
+        infrastruktuvra. (geahča &quot;<a href="http://giellatekno.uit.no" >Sámi
+        disamb</a>&quot; gilkoris dás bajábealde.).
+      </p>
     </section>
-
     <section>
       <title>Gárvves korrektuvrareaiddut</title>
-
-      <p>Go prošeakta lea gárvvis čakčamánu 2007, galget gárvves
-      korrektuvrareaiddut leat viežžan láhkái nuvttá prošeavtta ruovttusiiddus
-      sajáiduhttinprográmma hámis, mii álkit bidjá reaidduid dihtorii.
-      Reaiddut doibmet seamma láhkái go dákkár reaiddut doibmet eará gielaide.
-      Sámediggi ja Romssa universiteahtta dollet rivttiid eanas osiide
-      prográmmain, muhto diktet buohkaid geavahit juo prográmmaid ja
-      gáldokodaid nuvttá (nuvttá eai leat goit dakkár gáldokodat, main juo
-      leat eaiggádat). </p>
-
-      <p>Prošeavtta álggus listu gárvvis prográmmain lea ná:</p>
-
+      <p>
+        Go prošeakta lea gárvvis čakčamánu 2007, galget gárvves
+        korrektuvrareaiddut leat viežžan láhkái nuvttá prošeavtta
+        ruovttusiiddus sajáiduhttinprográmma hámis, mii álkit bidjá reaidduid
+        dihtorii. Reaiddut doibmet seamma láhkái go dákkár reaiddut doibmet eará
+        gielaide. Sámediggi ja Romssa universiteahtta dollet rivttiid eanaš
+        osiide prográmmain, muhto diktet buohkaid geavahit juo prográmmaid ja
+        gáldokodaid nuvttá (nuvttá eai leat goit dakkár gáldokodat, main juo
+        leat eaiggádat).
+      </p>
+      <p>
+        Prošeavtta álggus listu gárvvis prográmmain lea ná:
+      </p>
       <table>
         <caption>Plánejuvvon buktagat</caption>
-
         <tr>
           <th>Prográmma/OV</th>
-
           <th>Čállindárkkisteapmi</th>
-
           <th>Sátnejuohkin</th>
         </tr>
-
         <tr>
           <td>MS Office/Win</td>
-
           <td>x</td>
-
           <td>x</td>
         </tr>
-
         <tr>
           <td>MS Office/Mac</td>
-
           <td>x</td>
-
           <td>x</td>
         </tr>
-
         <tr>
           <td>OpenOffice.org/Win</td>
-
           <td>x</td>
-
           <td>?</td>
         </tr>
-
         <tr>
           <td>OpenOffice.org/Mac</td>
-
           <td>x</td>
-
           <td>?</td>
         </tr>
-
         <tr>
           <td>OpenOffice.org/Linux</td>
-
           <td>x</td>
-
           <td>?</td>
         </tr>
-
         <tr>
           <td>InDesign CS</td>
-
           <td>-</td>
-
           <td>x</td>
         </tr>
-
         <tr>
-           
-
           <td>Aspell (Win/Mac/Linux)</td>
           <td>x</td>
-          <td></td>
-	  
-
-           
+          <td/>
         </tr>
       </table>
-
-      <p>Sáhttet šaddat rievdadusat prošeaktaáiggis, muhto eai dáidde
-      stuorra rievdadusat šaddat.</p>
-
-      <p>Prošeakta fállá árra geahččalanveršuvnnaid (nu gohčoduvvon alfa- ja
-      betaveršuvnnat) berošteddjiide. Go vuosttaš geahččalanveršuvdna lea
-      gárvvis, mii fállat eanet dieđuid geahččaleami ja geavaheami birra. Min
-      <a href="timetable.html">dárkilis plánas</a> gávnnat oláhusaid sierra
-      veršuvnnaid várás ja mis lea maid oanehis čilgehus <a
-      href="howmake.html">mo mii ráhkadit</a> dáid reaidduid. Vel eanet
-      dieđuid gávnnat dás vuolábealde.</p>
+      <p>
+        Sáhttet šaddat rievdadusat prošeaktaáiggis, muhto eai dáidde
+        stuorra rievdadusat šaddat.
+      </p>
+      <p>
+        Prošeakta fállá árra geahččalanveršuvnnaid (nu gohčoduvvon alfa- ja
+        betaveršuvnnat) berošteddjiide. Go vuosttaš geahččalanveršuvdna lea
+        gárvvis, mii fállat eanet dieđuid geahččaleami ja geavaheami birra. Min
+        <a href="timetable.html" >dárkilis plánas</a> gávnnat oláhusaid sierra
+        veršuvnnaid várás ja mis lea maid oanehis čilgehus <a
+        href="howmake.html" >mo mii ráhkadit</a> dáid reaidduid. Vel eanet
+        dieđuid gávnnat dás vuolábealde.
+      </p>
     </section>
-
     <section>
       <title>Prošeavtta giellapolitihkka</title>
-
-      <p>Prošeakta lea moanágielat, ja dat <a
-      href="lang-policy.html">guoská maiddái</a> dokumentašuvdnii maid mii
-      ráhkadit.</p>
-
-      <p>Prošeavttas ii leat alddis politihkka sámi čállingiela hárrái, ja
-      čuovvu buot giellanormerenorgánaid mearrádusaid. Jos mii dovdat ahte
-      normeren ii leat čielggas, mii dáhttut dáid orgánaid čielggadit dáid
-      áššiid.</p>
+      <p>
+        Prošeakta lea moanágielat, ja dat <a href="lang-policy.html" >guoská
+        maiddái</a> dokumentašuvdnii maid mii ráhkadit.
+      </p>
+      <p>
+        Prošeavttas ii leat alddis politihkka sámi čállingiela hárrái, ja
+        čuovvu buot giellanormerenorgánaid mearrádusaid. Jos mii dovdat ahte
+        normeren ii leat čielggas, mii dáhttut dáid orgánaid čielggadit dáid
+        áššiid.
+      </p>
     </section>
-
     <section>
       <title>Dárbbašlaš liŋkkat</title>
-
       <ul>
-        <li><a href="mailto:divvun smarfealfa samediggi čuokkis no">Prošeavtta
-        e-boastačujuhus</a></li>
-
-	<li><a href="http://aspell.sourceforge.net/">Aspell</a></li>
-
-        <li><a href="http://www.openoffice.org/">OpenOffice.org</a></li>
-
-	<li><a href="http://www.xrce.xerox.com/competencies/content-analysis/fst/">Xerox FST-reaiddut</a></li>
+        <li>
+          <a href="mailto:divvun smarfealfa samediggi čuokkis no" >Prošeavtta
+        e-boastačujuhus</a>
+        </li>
+        <li>
+          <a href="http://aspell.sourceforge.net/" >Aspell</a>
+        </li>
+        <li>
+          <a href="http://www.openoffice.org/" >OpenOffice.org</a>
+        </li>
+        <li>
+          <a href="http://www.xrce.xerox.com/competencies/content-analysis/fst/" >Xerox FST-reaiddut</a>
+        </li>
       </ul>
-
-      <p class="last_modified">Maŋemuš rievdaduvvon: $Date: 2005/06/19
-		      23:42:09 $, by $Author$
+      <p class="last_modified" >
+        Maŋemuš rievdaduvvon: $Date$, by $Author$
       </p>
     </section>
   </body>
