@@ -5,13 +5,13 @@
   <header>
     <title>Outsourcing — selection criterias</title>
 
-    <subtitle>A precise description of the criterias used for selecting
+    <subtitle>A precise description of the criteria used for selecting
     vendors</subtitle>
 
-    <version major="1" minor="0">Final version</version>
+    <version major="2" minor="0">Revised version after the board meeting</version>
 
     <authors>
-      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+      <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
     </authors>
   </header>
 
@@ -21,51 +21,32 @@
 
       <p>This document is written in conformance with the guidelines from the
       Norwegian ministry of trade and industry (Nærings- og
-      handelsdepartementet, NHD) (see «Veileder», see link on the overview
+      handelsdepartementet, NHD) (see «Veileder», link on the overview
       page).</p>
 
-      <p>The purpose of the selection criterias is to select the economically
+      <p>The purpose of the selection criteria is to select the economically
       most appealling offer. The main criterion is price, but also indirect
       costs and longer term costs will influence the decision.</p>
 
-      <p>The selection criterias as well as the weighting are decided upon by
+      <p>The selection criteria as well as the weighting have been approved by
       the project board.</p>
     </section>
 
     <section>
-      <title>Selection criterias</title>
+      <title>Selection criteria</title>
 
-      <p>The following criterias will be used in selecting the vendor(s) for
-      contract work:</p>
+      <p>The main criterion for selecting a company is price, as required by
+      regulating laws. In addition, the following criteria will be used:</p>
 
       <ol>
-        <li>Price</li>
-
         <li>Technical compatibility with our existing linguistic resources and
-        language technology. The less compatible, the more work even for the
-        project team, and thus higher indirect costs</li>
-
-        <li>Economical stability of the companies
-
-        <note>This is more like a
-        risk analysis thing - does it belong here?</note></li>
+        language technology.</li>
 
         <li>The outlook for future, long-term cooperation with the companies
         (includes willingness to license tools to compile the binary lexicon
         for the proofing tools to Sámediggi and the project group, such that
         linguistic, non-technical updates can be delivered to end users
-        without involment from the cooperating companies). This criterion
-        involves costs in the longer run, and adds to the overall picture and
-        maintenance costs for the proofing tools.</li>
-
-        <li>The future, long term relationship between the participating
-        companies and the companies developing the software the proofing tools
-        should be integrated with.
-
-        <note>This is also more of a risk analysis
-        type - it has no direct economical impact, but the risk is that the
-        cooperation between company X and e.g. Microsoft is stopped, blocking
-        company X from providing technical updates in the future.</note></li>
+        without involment from the cooperating companies).</li>
 
         <li>Quality and user evaluation of corresponding tools for other
         languages. In the case of the InDesign hyphenator, it is essential
@@ -74,105 +55,54 @@
         and tools. In the case of proofing tools for MS Office, it is
         important that the estimated quality of the end user products are high
         enough for our end users, to reduce the risk of extra work and higher
-        costs later on in the project.
-
-        <note>Again, this might belong somewhere
-        else, but at the same time, this point should have an impact on which
-        company to select.</note></li>
+        costs later on in the project.</li>
 
         <li>Ability to provide the spellers with corrections and additional
         suggestions tailored to spelling errors typical for (modestly)
-        dyslectic writers.
+        dyslectic writers.</li>
 
-        <note>This criterion is motivated by the fact that
-        most of the adult Sámi population has never learned to write their own
-        language, and have great difficulties spelling it correctly. It is an
-        explicit goal of the project to create spellers that will help this
-        group, and if a provider does not have a framework for correcting and
-        making suggestions for such spelling errors, much more work will have
-        to be put into finding and studying these errors, and adding manual
-        entries for correcting such errors. This will lead to higher costs,
-        both for the chosen company and for the project team at
-        Sámediggi.</note></li>
+        <li>The long term stability of the companies. 
+        <ul>
+         <li>The economic stability of the companies</li>
+         <li>The future, long term relationship between the participating
+        companies and the companies developing the software the proofing tools
+        should be integrated with (e.g. Adobe, Microsoft).</li>
+        </ul>
+
+        </li> 
+
       </ol>
 
       <p>The exact documentation needed to support a decision based on these
-      criterias is specified in the main public tender document.</p>
+      criteria is specified in the main public tender document.</p>
     </section>
 
     <section>
-      <title>Weighting of the criterias</title>
+      <title>Weighting of the criteria</title>
 
-      <p>The above criterias are given a certain weight according to the
-      following list (in the same order):</p>
-
-      <ol>
-        <li>30 %</li>
-
-        <li>20 %</li>
-
-        <li>10 %</li>
-
-        <li>10 %</li>
-
-        <li>10 %</li>
-
-        <li>10 %</li>
-
-        <li>10 %</li>
-      </ol>
-
-      <p>For each criteria, the companies are ranked as winners and loosers -
-      winners normally get the full score, while loosers get nothing unless
-      otherwise stated -
-      within the following limits:</p>
+      <p>The decision will be based partly upon price, and partly upon the
+      quality criteria listed above. The internal weight of the quality criteria is as
+      follows (where optimal fulfilment gives full point score):</p>
 
       <ol>
-        <li>prize differences within 2% will be regarded as equal, and all within
-        that limit will be regarded as winners</li>
-        <li>technical compaatibility will be scaled as follows:
-          <ul>
-            <li>can use our lexicon (with trivial adjustments): 5%</li>
-            <li>can use our two-level rules (with trivial adjustments): 10%</li>
-            <li>can use our morphological description (with trivial adjustments):
-            5 %</li>
-          </ul>
-          Each company will receive a total precentage corresponding to the sum of
-          the above sub-criterias.
-        </li>
-        <li>The most stable company according to the <a
-href="http://odin.dep.no/nhd/norsk/dok/andre_dok/veiledninger/024081-120019/hov004-nn.html"
-        >NHD risk analysis model</a> and requested documentation (see
-        the main public tender document) is the winner</li>
-        <li>Proposal for long-term cooperation:
-          <ul>
-            <li>lowest cost: 5 %</li>
-            <li>most useful toolset and best license conditions: 5 %</li>
-          </ul>
-        Each company is a winner or looser in each sub-criterion. 5 % variation
-        is allowed for the cost, similar to the 2 % above for prize. If two or more
-        companies are deemed equal, they all get full points.
-        </li>
-        <li>The company with the best documented, past and future long-term
-        relationship with Microsoft is the winner.</li>
-        <li>In the absence of established standards for user evaluation of proofing
-        tools, the company with the best published or otherwise documented user
-        feedback on their tools is the winner</li>
-        <li>The company with the best published or otherwise documented algorithms for
-        suggestion mechanisms for dyslectic or otherwise weak writers is the winner.</li>
-      </ol>
-      
-      <p>The winning company is the one with the highest total score, that is, the
-      sum of the score for each criterion.</p>
+        <li>Technical compatibility: 0-20 points</li>
 
+        <li>Future cooperation: 0-10 point</li>
+
+        <li>Quality and user satisfaction: 0-10 points</li>
+
+        <li>Dysclectic suggestions: 0-10 points</li>
+
+        <li>Long term stability: 0-10 points</li>
+      </ol>
     </section>
 
     <section>
       <title>The final word</title>
 
-      <p>If two or more companies get identical scores, the final decision is made
-      by the project board on the basis of a total evaluation of each remaining
-      offer.</p>
+      <p>The winning company is the one that, after a total evaluation of price
+      and quality criteria, gives the best offer. The decision is made by the
+      project board.</p>
     </section>
 
     <p class="last_modified">Last modified: $Date$, by
