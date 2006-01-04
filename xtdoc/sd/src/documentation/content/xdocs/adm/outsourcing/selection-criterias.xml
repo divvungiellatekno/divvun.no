@@ -8,7 +8,8 @@
     <subtitle>A precise description of the criteria used for selecting
     vendors</subtitle>
 
-    <version major="2" minor="0">Revised version after the board meeting</version>
+    <version major="2" minor="0">Revised version after the board
+    meeting</version>
 
     <authors>
       <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
@@ -35,8 +36,8 @@
     <section>
       <title>Selection criteria</title>
 
-      <p>The main criterion for selecting a company is price, as required by
-      regulating laws. In addition, the following criteria will be used:</p>
+      <p>The selected offer is the economically most attractive one. That
+      implies an evaluation of price and the following criteria:</p>
 
       <ol>
         <li>Technical compatibility with our existing linguistic resources and
@@ -61,16 +62,13 @@
         suggestions tailored to spelling errors typical for (modestly)
         dyslectic writers.</li>
 
-        <li>The long term stability of the companies. 
-        <ul>
-         <li>The economic stability of the companies</li>
-         <li>The future, long term relationship between the participating
-        companies and the companies developing the software the proofing tools
-        should be integrated with (e.g. Adobe, Microsoft).</li>
-        </ul>
+        <li>The long term stability of the companies. <ul>
+            <li>The economic stability of the companies</li>
 
-        </li> 
-
+            <li>The future, long term relationship between the participating
+            companies and the companies developing the software the proofing
+            tools should be integrated with (e.g. Adobe, Microsoft).</li>
+          </ul></li>
       </ol>
 
       <p>The exact documentation needed to support a decision based on these
@@ -80,9 +78,9 @@
     <section>
       <title>Weighting of the criteria</title>
 
-      <p>The decision will be based partly upon price, and partly upon the
-      quality criteria listed above. The internal weight of the quality criteria is as
-      follows (where optimal fulfilment gives full point score):</p>
+      <p>To guide the total evaluation of the incomming offers, the quality
+      criteria are weighted as follows (where optimal fulfilment gives full
+      point score):</p>
 
       <ol>
         <li>Technical compatibility: 0-20 points</li>
@@ -100,9 +98,9 @@
     <section>
       <title>The final word</title>
 
-      <p>The winning company is the one that, after a total evaluation of price
-      and quality criteria, gives the best offer. The decision is made by the
-      project board.</p>
+      <p>The winning company is the one that, after a total evaluation of
+      price and quality criteria, gives the best offer. The decision is made
+      by the project board.</p>
     </section>
 
     <p class="last_modified">Last modified: $Date$, by
