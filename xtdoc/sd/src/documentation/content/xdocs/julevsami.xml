@@ -4,205 +4,194 @@
 <document xml:lang="smj">
   <header>
     <title>Divvun - sáme divudimnævvo</title>
-
     <authors>
       <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
     </authors>
   </header>
-
   <body>
     <section>
       <title>Mij la Divvun?</title>
-
-      <p>Divvun le prosjækta mij gullu Vuona Sámediggáj. Prosjevta ulmme le
-      dahkat sámegiela divvomprográmmav. Dálla álgon sjaddá nuorttasáme
-      stávimkontrållå ja báhkojuohkem ja julevsáme stávimkontrållå - dát
-      vuorodimes máhttá ienebut låhkåt <a
-      href="sma-background.nb.html">dánna</a>. Nævvojt galggá máhttet adnet
-      Windows:a, Linux:a ja Mac:a dábálamos kontåvrråprográmmajn.</p>
+      <p>
+        Divvun le prosjækta mij gullu Vuona Sámediggáj. Prosjevta ulmme le dahkat
+        sámegiela divvomprográmmav. Dálla álgon sjaddá nuorttasáme stávimkontrållå ja
+        báhkojuohkem ja julevsáme stávimkontrållå - dát vuorodimes máhttá ienebut
+        låhkåt <a href="sma-background.nb.html">dánna</a>. Nævvojt galggá máhttet adnet
+        Windows:a, Linux:a ja Mac:a dábálamos kontåvrråprográmmajn.
+      </p>
     </section>
-
     <section>
       <title>Duohke</title>
-
-      <p>Prosjækta pláneriduváj vuostak, ja de biejaduváj jåhtui Sámedikki
-      sávadusá milta vaddet sæmmi nævvojt sámegielagijda ja iehtjájda gudi
-      sihti tjállet sámegiellaj degu ma le dárogielagijn. Dát la sierraláhkáj
-      ájnas dajna gå li ållo sámegielaga gudi ælla oahppam tjállet
-      sámegiellaj. Prosjækta le dan diehti oasse strategijas nannit
-      sámegielav, ja lasedit sámegiela anov tjállemgiellan.</p>
-
-      <p>Prosjevtav biednigahtti <em>Sámedigge</em>, <em>Suohkan- ja
-      guovlodepartemæntta, Åhpadus- ja guorahallamdepartemæntta</em> ja
-      <em>Kultuvrra- ja girkkodepartemæntta</em>, ja gárvves nævo galggi
-      máhttet andeuvvat gájkajs gudi tjálli sámegiellaj.</p>
-
-      <p>Mij ájggop dahkat korrektuvrraprográmmajt ma hiehpi sámegiellaj gåktu
-      sámegiella aneduvvá Vuonan, Svierjin ja Suoman. Danen gå prosjækta
-      tjadáduvvá tjielgga Vuona prosjæktan, de ihkap vuojnnu dat gárves
-      prográmmajn, valla mij gæhttjalip dahkat dajt nåvti vaj gájka máhtti
-      adnet dajt.</p>
+      <p>
+        Prosjækta pláneriduváj vuostak, ja de biejaduváj jåhtui Sámedikki sávadusá milta
+        vaddet sæmmi nævvojt sámegielagijda ja iehtjájda gudi sihti tjállet sámegiellaj
+        degu ma le dárogielagijn. Dát la sierraláhkáj ájnas dajna gå li ållo sámegielaga
+        gudi ælla oahppam tjállet sámegiellaj. Prosjækta le dan diehti oasse strategijas
+        nannit sámegielav, ja lasedit sámegiela anov tjállemgiellan.
+      </p>
+      <p>
+        Prosjevtav biednigahtti <em>Sámedigge</em>, <em>Suohkan- ja 
+        guovlodepartemæntta, Åhpadus- ja guorahallamdepartemæntta</em> ja
+        <em>Kultuvrra- ja girkkodepartemæntta</em>, ja gárvves nævo galggi máhttet
+        andeuvvat gájkajs gudi tjálli sámegiellaj.
+      </p>
+      <p>
+        Mij ájggop dahkat korrektuvrraprográmmajt ma hiehpi sámegiellaj gåktu sámegiella
+        aneduvvá Vuonan, Svierjin ja Suoman. Danen gå prosjækta tjadáduvvá tjielgga
+        Vuona prosjæktan, de ihkap vuojnnu dat gárves prográmmajn, valla mij gæhttjalip
+        dahkat dajt nåvti vaj gájka máhtti adnet dajt.
+      </p>
     </section>
-
     <section>
       <title>Orgániserim</title>
-
-      <p>Prosjækta gullu Sámedikki giellaåssudahkij. Prosjevtan le ietjas
-      stivrra gånnå li sebrulattja Sámedikkes, departementajs ja Råmså
-      universitehtas.</p>
-
-      <p>Vidás barggi dájna prosjevtajn:</p>
-
-      <ul>
-        <li>Sjur N. Moshagen (prosjevta jådediddje, sjur tjuorgga moshagen
-        siejbek-a samediggi tjuorgga no)</li>
-
-        <li>Børre Gaup (prosjæktaviehkediddje, borre tjuorgga gaup siejbek-a
-        samediggi tjuorgga no)</li>
-
-        <li>Thomas Omma (lingvistta, thomas tjuorgga omma siejbek-a samediggi
-        tjuorgga no)</li>
-
-        <li>Maaren Palismaa (lingvistta, maren tjuorgga palismaa siejbek-a
-        samediggi tjuorgga no)</li>
-
-        <li>Tomi Pieski (programmerár, tomi tjuorgga pieski siejbek-a
-        samediggi tjuorgga no)</li>
-      </ul>
-
-      <p>Prosjevta vuodo le barggo mij le dagádum Råmså universitehtan, ja
-      prosjevtan ja Råmså universitehta giellateknologalasj birrasin le lahka
-      aktanbarggo bæjválattjat, miján le aktásasj infrastuktuvrra (gehtja
-      sválldasav "<a href="http://giellatekno.uit.no">Sámi disamb. proj.</a> "
-      badjelin).</p>
+      <p>
+        Prosjækta gullu Sámedikki giellaåssudahkij. Prosjevtan le ietjas stivrra gånnå
+        li sebrulattja Sámedikkes, departementajs ja Råmså universitehtas.
+      </p>
+      <section>
+        <title>Prošeavtta stivra</title>
+        <dl>
+          <dt>Anne-Britt Hætta</dt>
+          <dd>Stivrajođiheaddji, ovddasta Sámedikki</dd>
+          <dt>Per Edvard Klemetsen</dt>
+          <dd>Ovddasta Sámedikki</dd>
+          <dt>Eirik Liland</dt>
+          <dd>Ovddasta Romssa universitehta</dd>
+          <dt>Bjørn Olav Megard</dt>
+          <dd>Ovddasta gielda- ja guovlodepartementta</dd>
+          <dt>Øystein Johannessen</dt>
+          <dd>Sadjásaš lahttu, ovddasta oahpahus- ja dutkandepartementta</dd>
+          <dt>Sjur N. Moshagen</dt>
+          <dd>
+            … ii leat stivralahttu, muhto lea álo mielde čoahkkimiin, ja
+            ovddasta Divvun prošeavtta
+          </dd>
+        </dl>
+      </section>
+      <section>
+        <title>Vidás barggi dájna prosjevtajn:</title>
+        <dl>
+          <dt>Sjur N. Moshagen</dt>
+          <dd>prosjevta jådediddje, sjur tjuorgga moshagen siejbek-a samediggi tjuorgga
+          no</dd>
+          <dt>Børre Gaup</dt>
+          <dd>Prosjæktaviehkediddje, borre tjuorgga gaup siejbek-a samediggi tjuorgga
+          no</dd>
+          <dt>Thomas Omma</dt>
+          <dd>Lingvistta, thomas tjuorgga omma siejbek-a samediggi tjuorgga no</dd>
+          <dt>Maaren Palismaa</dt>
+          <dd>Lingvistta, maren tjuorgga palismaa siejbek-a samediggi tjuorgga no</dd>
+          <dt>Tomi Pieski</dt> 
+          <dd>Programmerár, tomi tjuorgga pieski siejbek-a samediggi tjuorgga no</dd>
+        </dl>
+      </section>
+      <p>
+        Prosjevta vuodo le barggo mij le dagádum Råmså universitehtan, ja prosjevtan ja
+        Råmså universitehta giellateknologalasj birrasin le lahka aktanbarggo
+        bæjválattjat, miján le aktásasj infrastuktuvrra (gehtja sválldasav 
+        "<a href="http://giellatekno.uit.no">Sámi disamb. proj.</a>" badjelin).
+      </p>
     </section>
-
     <section>
       <title>Gárves korrektuvrranævvo</title>
-
-      <p>Gå prosjækta le gárves ragátmáno 2007, de galggá dåhkkit gárves
-      korrektuvrranævvojt nåvkå viedtjat prosjevta sijddasijdojs
-      installerimprográmma hámen, mij álkkes láhkáj biedjá nævvojt
-      dáhtámásjijnnaj. Nævvo doajmmi sæmmiláhkáj degu dakkir nævvo ietjá
-      gielajn. Sámedigge ja Råmså universitehta anodi rievtesvuodajt ienemus
-      åsijda prográmmajs, valla dibddi gájkajt, gudi sihti, adnet prográmmajt
-      ja prográmmaj vuodokåvdåjt nåvkå (loahpe vuodokåvdåjda ij guoska åsijda
-      majna li juo æjgáda).</p>
-
+      <p>
+        Gå prosjækta le gárves ragátmáno 2007, de galggá dåhkkit gárves 
+        korrektuvrranævvojt nåvkå viedtjat prosjevta sijddasijdojs installerimprográmma
+        hámen, mij álkkes láhkáj biedjá nævvojt dáhtámásjijnnaj. Nævvo doajmmi
+        sæmmiláhkáj degu dakkir nævvo ietjá gielajn. Sámedigge ja Råmså universitehta
+        anodi rievtesvuodajt ienemus åsijda prográmmajs, valla dibddi gájkajt, gudi
+        sihti, adnet prográmmajt ja prográmmaj vuodokåvdåjt nåvkå (loahpe vuodokåvdåjda
+        ij guoska åsijda majna li juo æjgáda).
+      </p>
       <p>Lissta gárves prográmmaj lij návti gå prosjækta álgeduváj :</p>
-
       <table>
         <caption>Planeridum båhtusa</caption>
-
         <tr>
           <th>Prográmma/OS</th>
-
           <th>Stávimkontrållå</th>
-
           <th>Báhkojuohkem</th>
         </tr>
-
         <tr>
           <td>MS Office/Win</td>
-
           <td>x</td>
-
           <td>x</td>
         </tr>
-
         <tr>
           <td>MS Office/Mac</td>
-
           <td>x</td>
-
           <td>x</td>
         </tr>
-
         <tr>
           <td>OpenOffice/Win</td>
-
           <td>x</td>
-
           <td>?</td>
         </tr>
-
         <tr>
           <td>OpenOffice/Mac</td>
-
           <td>x</td>
-
           <td>?</td>
         </tr>
-
         <tr>
           <td>OpenOffice/Linux</td>
-
           <td>x</td>
-
           <td>?</td>
         </tr>
-
         <tr>
           <td>InDesign CS</td>
-
           <td>-</td>
-
           <td>x</td>
         </tr>
-
         <tr>
           <td>Aspell (Win/Mac/Linux)</td>
-
           <td>x</td>
-
           <td></td>
         </tr>
       </table>
-
-      <p></p>
-
-      <p>Prosjæktaájge soajtti sjaddat rievddadusá, valla doajvvop e sjatta
-      stuoráp rievddadusá.</p>
-
-      <p>Prosjækta galggá fállat árra gæhttjalamversjåvnåjt (gåhtjodum alfa-
-      ja betaversjåvnnån) gejda sihti (betageahttjaliddjijda). Gå vuostasj
-      geahttjalamversjåvnnå le gárves mij fállap ienep diedojt gæhttjalime ja
-      ano birra. Dárkkelap plána ájnas ulmij sierra versjåvnåj hárráj gávnnuj
-      <a href="timetable.smj.html">dánna</a>, ja niján li aj <a
-      href="howmake.smj.html">dánna</a> ienep diedo gåktu barggo dagáduvvá .
-      Gehtja aj maŋemus oasev ávkkás sválldasij.</p>
+      <p>
+        Prosjæktaájge soajtti sjaddat rievddadusá, valla doajvvop e sjatta stuoráp
+        rievddadusá.
+      </p>
+      <p>
+        Prosjækta galggá fállat árra gæhttjalamversjåvnåjt (gåhtjodum alfa- ja
+        betaversjåvnnån) gejda sihti (betageahttjaliddjijda). Gå vuostasj 
+        geahttjalamversjåvnnå le gárves mij fállap ienep diedojt gæhttjalime ja ano
+        birra. Dárkkelap plána ájnas ulmij sierra versjåvnåj hárráj gávnnuj 
+        <a href="timetable.smj.html">dánna</a>, ja niján li aj 
+        <a href="howmake.smj.html">dánna</a> ienep diedo gåktu barggo dagáduvvá. Gehtja
+        aj maŋemus oasev ávkkás sválldasij.
+      </p>
     </section>
-
     <section>
       <title>Prosjevta giellapolitihkka</title>
-
-      <p>Prosjækta le moattegielak, ja nåv aj dokumentasjåvnnå mav mij
-      tjállep, buohtastahte <a href="lang-policy.smj.html">prosjevta
-      giellapolitijkka</a></p>
-
-      <p>Prosjevtan ij le ietjanis politihkka sáme tjállemgiela normerima
-      hárráj, ja tjuovvu gájkka mærredusájt giellanormerijiddje orgánajs, ma
-      gielav normeriji. Gå normerim ij le tjielgas mijá mielas, de ádnop
-      tjielgadusájt dájs orgánajs.</p>
+      <p>
+        Prosjækta le moattegielak, ja nåv aj dokumentasjåvnnå mav mij tjállep,
+        buohtastahte <a href="lang-policy.smj.html">prosjevta giellapolitijkka</a>
+      </p>
+      <p>
+        Prosjevtan ij le ietjanis politihkka sáme tjállemgiela normerima hárráj, ja
+        tjuovvu gájkka mærredusájt giellanormerijiddje orgánajs, ma gielav normeriji. Gå
+        normerim ij le tjielgas mijá mielas, de ádnop tjielgadusájt dájs orgánajs.
+      </p>
     </section>
-
     <section>
       <title>Ávkkás sválldasa</title>
-
       <ul>
-        <li><a href="mailto:divvun ved samediggi punkt no">E-post
-        prosjæktaj</a></li>
-
-        <li><a href="">Aspell</a></li>
-
-        <li><a href="">OpenOffice</a></li>
-
-        <li><a href="">Xerox FST-verktøy</a></li>
+        <li>
+          <a href="mailto:divvun ved samediggi punkt no">E-post prosjæktaj</a>
+        </li>
+        <li>
+          <a href="http://aspell.sourceforge.net/">Aspell</a>
+        </li>
+        <li>
+          <a href="http://www.openoffice.org/">OpenOffice</a>
+        </li>
+        <li>
+          <a href="http://www.xrce.xerox.com/competencies/content-analysis/fst/">Xerox
+          FST-verktøy</a>
+        </li>
       </ul>
-
-      <p class="last_modified">Maŋemus rievddaduvvam: $Date: 2005/09/06
-11:33:29 $, by
-      $Author$</p>
+      <p class="last_modified">
+        Maŋemus rievddaduvvam: $Date$, by $Author$
+      </p>
     </section>
   </body>
 </document>
