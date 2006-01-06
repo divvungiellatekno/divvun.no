@@ -198,7 +198,9 @@
           <li><a href="http://www.openoffice.org/">OpenOffice</a></li>
           <li><a href="http://www.xrce.xerox.com/competencies/content-analysis/fst/">Xerox FST-työkaluja</a></li>
         </ul>
-      <p class="last_modified">Päivitetty: $Date$, by $Author$</p>
+      <p class="last_modified">
+        Päivitetty: $Date$, by $Author$
+      </p>
     </section>
   </body>
 </document>
