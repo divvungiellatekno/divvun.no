@@ -11,7 +11,7 @@
       <title>Avtalepartane</title>
 
       <section>
-        <title>Søkar (nedanfor: <code>bruksrettsmottakar</code>) fyller ut:</title>
+        <title>Søkar (nedanfor: <code>brukar</code>) fyller ut:</title>
 
         <table>
           <tr>
@@ -59,7 +59,7 @@
       </section>
 
       <section>
-        <title>Løyvar (nedanfor: <code>bruksrettsløyvar</code>)</title>
+        <title>Løyvar</title>
 
         <table>
           <tr>
@@ -94,25 +94,25 @@
 
       <p>2.1 Den samiske tekstbanken blir administrert av Universitetet i
       Tromsø (heretter: <code>UiTø</code>). Faktisk tilgang til tekstbanken får
-      <code>bruksrettsmottakaren</code> av <code>UiTø</code> etter at denne
-      søknaden er innvilga av <code>bruksrettsløyvaren</code>.</p>
+      <code>brukaren</code> av <code>UiTø</code> etter at denne
+      søknaden er innvilga av <code>løyvaren</code>.</p>
     </section>
 
     <section>
       <title>Formålet med avtalen</title>
 
-      <p>3.1. Etter denne avtalen gjev <code>bruksrettsløyvaren</code>
-      <code>bruksrettsmottakaren</code> rett til å bruke dei tekstane som er
+      <p>3.1. Etter denne avtalen gjev <code>løyvaren</code>
+      <code>brukaren</code> rett til å bruke dei tekstane som er
       nemnde i vedlegg 1.</p>
     </section>
 
     <section>
       <title>Omfanget av bruksretten</title>
 
-      <p>4.1 <code>Bruksrettsmottakaren</code> har berre rett til å bruke
+      <p>4.1 <code>Brukaren</code> har berre rett til å bruke
       tekstane til forsking eller slike kommersielle språkteknologiske eller
       andre liknande formål, som ikkje bryt med <code>Lov om opphavsrett til
-      åndsverk</code>. Bruksrettsmottakaren kan bruke tekstane for å gjere seg
+      åndsverk</code>. <code>Brukaren</code> kan bruke tekstane for å gjere seg
       nytte av dei språktrekka (t.d. statistisk informasjon, grammatiske
       reglar og semantiske skildringar) han/ho har funne gjennom forsking, og
       plukke ut kortare sitat frå tekstane.</p>
@@ -121,20 +121,20 @@
     <section>
       <title>Vilkår for bruksretten</title>
 
-      <p>5.1 Bruksrettsmottakar er pliktig til å erstatte økonomiske tap for X
+      <p>5.1 <code>Brukar</code> er pliktig til å erstatte økonomiske tap for X
       (tekstprodusent, tekstinnsamlar og/eller datasentral) som følgje av
       grovt aktlaus bruk av tekstsamlinga, eller medvite misbruk.</p>
 
-      <p>5.2 <code>Bruksrettsmottakaren</code> bind seg til å følgje god
+      <p>5.2 <code>Brukaren</code> bind seg til å følgje god
       vitskapleg skikk (t.d. etter retningsliner frå forskingsetisk råd),
       reglar om opphavsrett, og dei avgrensingar og vilkår som blir sett i
       denne kontrakten.</p>
 
-      <p>5.3 <code>Bruksrettsmottakaren</code> får ikkje ta større delar av
+      <p>5.3 <code>Brukaren</code> får ikkje ta større delar av
       løpande tekst i <code>tekstsamlinga</code> enn korte sitat bort frå den
       tenaren som <code>tekstsamlinga</code> er installert på. Det er lov til
       å lagre temporære kopiar på sjølve tenaren på det vilkåret at
-      bruksrettsmottakaren tek omsyn til datatryggleiken. Denne avgrensinga
+      <code>brukaren</code> tek omsyn til datatryggleiken. Denne avgrensinga
       gjeld ikkje offentlege dokument (t.d. NOU, stortingsmeldingar o.l.). Det
       går klårt fram av kvart dokument kva for lisens som er knytta til
       det.</p>
@@ -142,11 +142,11 @@
       <p>5.4 Bruksrett til <code>tekstsamlinga</code> er personleg, og kan
       ikkje overførast til ein annan person.</p>
 
-      <p>5.5 <code>Bruksrettsmottakaren</code> bind seg til å bruke
+      <p>5.5 <code>Brukaren</code> bind seg til å bruke
       <code>tekstsamlinga</code> berre til det formålet som er oppgjeve i
       punkt 6 "Samandrag av forskingsformålet".</p>
 
-      <p>5.6 Når <code>bruksrettsmottakaren</code> publiserer
+      <p>5.6 Når <code>brukaren</code> publiserer
       forskingsresultata som han eller ho har komme fram til med hjelp av
       <code>tekstsamlinga</code>, skal han eller ho i publikasjonar om dette
       vise til <code>tekstsamlinga</code> på denne måten:</p>
@@ -154,22 +154,22 @@
       <source>Namn på tekstsamlinga. Dato for bruken som gav dei rapporterte
       resultata, tenestetilbydar.</source>
 
-      <p>5.7 <code>Bruksrettsmottakaren</code> mistar bruksretten sin straks
+      <p>5.7 <code>Brukaren</code> mistar bruksretten sin straks
       om han eller ho bryt desse vilkåra.</p>
 
       <p>5.8 Avtalepartane er ikkje forplikta til å erstatte ulemper for den
       andre parten, dersom dei ikkje er i stand til å oppfylle krava i denne
       kontrakten.</p>
 
-      <p>5.9 <code>Bruksrettsløyvar</code> er ikkje ansvarleg for å tilpasse
+      <p>5.9 <code>Løyvar</code> er ikkje ansvarleg for å tilpasse
       bruken av desse tekstane til noko spesielt formål, og garanterer heller
       ikkje at kodinga er korrekt.</p>
 
       <p>5.10 Denne kontrakten tek til å gjelde når
-      <code>bruksrettsløyvar</code> skriv under på han.</p>
+      <code>løyvar</code> skriv under på han.</p>
 
       <p>5.11 Bruksretten gjeld for eitt år etter siste dato som
-      <code>bruksrettsløyvaren</code> har skrive under på. Bruksretten kan
+      <code>løyvaren</code> har skrive under på. Bruksretten kan
       forlengjast etter søknad, sjå pkt 8.</p>
     </section>
 
@@ -196,9 +196,9 @@
 
       <table>
         <tr>
-          <td>Bruksrettsløyvar</td>
+          <td>Løyvar</td>
 
-          <td>Bruksrettsmottakar (søkar fyller ut)</td>
+          <td>Brukar (søkar fyller ut)</td>
         </tr>
 
         <tr>
