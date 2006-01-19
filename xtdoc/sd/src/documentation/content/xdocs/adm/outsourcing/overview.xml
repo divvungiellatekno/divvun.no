@@ -7,8 +7,9 @@
 
     <subtitle>Overview of all documents relating to outsourcing</subtitle>
 
-    <version major="0" minor="1" tag="$Id$">First draft of the
-    overview.</version>
+    <version major="0" minor="1"
+    tag="$Id$">First draft
+    of the overview.</version>
 
     <type>Internal draft</type>
 
@@ -113,9 +114,9 @@
       publication of the public tender.</p>
 
       <ul>
-        <li><a href="pt-main.html">Public Tender Main Document</a> - the
-        main document, also containing details and background info regaring
-        the other documents below.</li>
+        <li><a href="pt-main.html">Public Tender Main Document</a> - the main
+        document, also containing details and background info regaring the
+        other documents below.</li>
 
         <li><a href="qual-criterias.html">Qualification criterias</a> - the
         minimum requirements to be able to participate in the round of public
@@ -134,6 +135,18 @@
         complete set of requirements to the deliverables, and their
         specification</li>
       </ul>
+    </section>
+
+    <section>
+      <title>Contract</title>
+
+      <p>The public tender process will be concluded with signing a contract
+      with the successful company/-ies. A candidate contract template (<a
+      href="http://www.statskonsult.no/ssa/avtaler/ssa-u-en.doc">MS Word</a>
+      and <a
+      href="http://www.statskonsult.no/ssa/avtaler/ssa-u-en.pdf">PDF</a>, both
+      English) is provided by <a
+      href="http://www.statskonsult.no/ssa/progutv.htm">Statskonsult</a>.</p>
     </section>
   </body>
 </document>
