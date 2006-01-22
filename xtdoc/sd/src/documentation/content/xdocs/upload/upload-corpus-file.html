@@ -4,19 +4,45 @@
                       
 <html>
   <head>
-    <title>Upload corpus files to cochise.</title>
+    <title>Upload corpus files</title>
   </head>
   
   <body>
-    
-    <!-- ACTION="file:///Users/tomi/Documents/eclipse/workspace/gt/script/cgi-scripts/upload.cgi"  -->
-    <form ACTION="http://sami-cgi-bin.uit.no/cgi-bin/smi/upload.cgi"
+    <h1>Select file, language, and license type</h1>
+
+ <form  ACTION="http://sami-cgi-bin.uit.no/cgi-bin/smi/test/upload.cgi"
     		 METHOD="post" ENCTYPE="multipart/form-data">
-    File to upload: <INPUT TYPE="file" NAME="document" accept="application/msword application/pdf">
-    <br/>
-    URL to upload: <INPUT TYPE="text" NAME="url" SIZE="80">
-    <br/><br/>
-    <INPUT TYPE="submit" NAME="Submit" VALUE="Submit Form">
+<table>
+<tr><td> File to upload: </td><td><INPUT TYPE="file" NAME="document"></td></tr>
+<tr><td> URL to upload: </td><td><INPUT TYPE="text" NAME="url"
+SIZE="80"></td></tr>
+<tr><td> Main language: </td><td>
+    <select name="mainlang">
+    <option value="sme">North S&aacute;mi</option>
+    <option value="smj">Julev S&aacute;mi</option>
+    <option value="sma">South S&aacute;mi</option>
+    <option value="nno">Nynorsk</option>
+    <option value="nob">Bokm&aring;l</option>
+    <option value="fin">Finnish</option>
+    <option value="swe">Swedish</option>
+    <option value="eng">English</option>
+    <option value="oth">other</option>
+    </select></td>
+</tr>
+<tr><td> License: </td><td>
+    <select name="license_type">
+    <option value="free">Free</option>
+    <option value="standard">Standard</option>
+    <option value="other">Other</option>
+    </select>
+</td></tr>
+</table>
+<br/>
+ <INPUT TYPE="submit" NAME="Submit" VALUE="Submit Form">
     </form>
+<p>
+Explanation of the license type, link to instructions  and feedback address.
+</p>
+
   </body>
 </html>
