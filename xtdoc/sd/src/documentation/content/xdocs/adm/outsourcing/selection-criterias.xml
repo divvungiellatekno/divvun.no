@@ -43,32 +43,24 @@
         <li>Technical compatibility with our existing linguistic resources and
         language technology.</li>
 
-        <li>The outlook for future, long-term cooperation with the companies
-        (includes willingness to license tools to compile the binary lexicon
-        for the proofing tools to Sámediggi and the project group, such that
+        <li>Willingness to license tools to compile the binary lexicon for the
+        proofing tools to Sámediggi and the project group, such that
         linguistic, non-technical updates can be delivered to end users
         without involvement from the cooperating companies).</li>
 
-        <li>Quality and user evaluation of corresponding tools for other
-        languages. In the case of the InDesign hyphenator, it is essential
-        that a company can provide a documented capability to develop
-        high-quality hyphenation modules, benefitting from our linguistic work
-        and tools. In the case of proofing tools for MS Office, it is
-        important that the estimated quality of the end user products are high
-        enough for our end users, to reduce the risk of extra work and higher
-        costs later on in the project.</li>
+        <li>The total cost in a longer perspective. This includes the price
+        for this project, and the costs for maintenance updates, combined with
+        the costs for the Sámi Parliament for the same maintenance.</li>
 
-        <li>Ability to provide the spellers with corrections and additional
-        suggestions tailored to spelling errors typical for (modestly)
-        dyslectic writers.</li>
-
-        <li>The long term stability of the companies. <ul>
-            <li>The economic stability of the companies</li>
-
-            <li>The future, long term relationship between the participating
-            companies and the companies developing the software the proofing
-            tools should be integrated with (e.g. Adobe, Microsoft).</li>
-          </ul></li>
+        <li>Quality, functionality and user friendliness. Quality and user
+        evaluation of corresponding tools for other languages. In the case of
+        the InDesign hyphenator, it is essential that a company can provide a
+        documented capability to develop high-quality hyphenation modules,
+        benefitting from our linguistic work and tools. In the case of
+        proofing tools for MS Office, it is important that the estimated
+        quality of the end user products is high enough for our end users, to
+        reduce the risk of extra work and higher costs later on in the
+        project.</li>
       </ol>
 
       <p>The exact documentation needed to support a decision based on these
@@ -76,31 +68,11 @@
     </section>
 
     <section>
-      <title>Weighting of the criteria</title>
-
-      <p>To guide the total evaluation of the incomming offers, the quality
-      criteria are weighted as follows (where optimal fulfilment gives full
-      point score):</p>
-
-      <ol>
-        <li>Technical compatibility: 0-20 points</li>
-
-        <li>Future cooperation: 0-10 point</li>
-
-        <li>Quality and user satisfaction: 0-10 points</li>
-
-        <li>Dysclectic suggestions: 0-10 points</li>
-
-        <li>Long term stability: 0-10 points</li>
-      </ol>
-    </section>
-
-    <section>
       <title>The final word</title>
 
       <p>The winning company is the one that, after a total evaluation of
-      price and quality criteria, gives the best offer. The decision is made
-      by the project board.</p>
+      price and quality criteria, gives the best offer. Price will be
+      important. The decision is made by the project board.</p>
     </section>
 
     <p class="last_modified">Last modified: $Date$, by
