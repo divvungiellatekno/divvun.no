@@ -90,7 +90,7 @@
     <matta description="Miksi eteläsaame ei kuulu projektiin"
            href="sma-background.se.html" label="Eteläsaame" />
     <changes href="changes.html" label="Rievdadusat (eŋgelasgillii)" />
-    <upload href="upload/upload-corpus-file.html" description="Dás sáhtát sáddet midjiide fiillaid" label="Sáddes fiillaid midjiide" />
+    <upload href="upload/upload-corpus-file.html" description="Tästä voit lähettää tiedostoja meille" label="Lähetä tiedostoja meille" />
   </suomeksi>
 
   <english label="In English" tab="english">
@@ -102,7 +102,7 @@
     <spelling description="Short description on how the tools are made"
               href="howmake.en.html" label="How the tools are made" />
     <changes href="changes.html" label="Changes" />
-    <upload href="upload/upload-corpus-file.html" description="Dás sáhtát sáddet midjiide fiillaid" label="Sáddes fiillaid midjiide" />
+    <upload href="upload/upload-corpus-file.html" description="Here you can send us files" label="Send us files" />
   </english>
 
   <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab != 'how'])" />
