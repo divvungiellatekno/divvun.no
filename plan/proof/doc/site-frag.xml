@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  $id:$ -->
+<proofdoc href="future/proofdoc/" tab="futproof">
+
+  <index href="index.html" label="Introduction" />
+  <proof href="index.html" label="What it's all about" />
+
+</proofdoc>
