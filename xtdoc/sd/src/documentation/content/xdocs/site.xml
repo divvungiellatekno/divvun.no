@@ -156,6 +156,7 @@
     <overview description="Overview over monthly reports"
               href="monthoverview.html" label="Overview" />
 
+    <jan06 href="monthly13.html" label="Jan '06" description="Report for January '06" />
     <des05 href="monthly12.html" label="Dec '05" description="Report for December '05" />
     <nov05 href="monthly11.html" label="Nov '05" description="Report for November '05" />
     <oct05 href="monthly10.html" label="Oct '05" description="Report for October '05" />
