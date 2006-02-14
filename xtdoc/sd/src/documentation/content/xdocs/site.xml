@@ -182,6 +182,12 @@
 
   <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab = 'how'])" />
 
+  <!-- Commented out until the content is more ready for publishing. -->
+  <!--future href="future/" label="fremtidige planer" tab="Plan">
+    <index href="index.html" label="Overview" description="Overview of future projects and project ideas for Divvun" />
+    <xi:include href="future/proofdoc/site-frag.xml" />
+  </future-->
+
   <external-refs>
     <disamb href="http://giellatekno.uit.no/" />
   </external-refs>

@@ -37,4 +37,7 @@
     <!-- The Proofing Tech-Doc tab -->
     <xi:include href="doc/tabs-frag.xml#xpointer(/tabs/tab[@id='proof'])" />
 
+    <!--tab dir="future" id="Plan" label="Future plans" indexfile="index.html">
+       <xi:include href="future/proofdoc/tabs-frag.xml" />
+    </tab-->
 </tabs>
