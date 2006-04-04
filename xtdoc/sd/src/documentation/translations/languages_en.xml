@@ -18,4 +18,19 @@
   <message key="en">English</message>
   <message key="es">Spanish</message>
   <message key="nl">Dutch</message>
+
+  <message key="sme">North Sámi</message>
+  <message key="se" >North Sámi</message>
+  <message key="smj">Lule Sámi</message>
+  <message key="sma">South Sámi</message>
+  <message key="nor">Norwegian</message>
+  <message key="no" >Norwegian</message>
+  <message key="nob">Norwegian Bokmål</message>
+  <message key="nb" >Norwegian Bokmål</message>
+  <message key="nno">Norwegian Nynorsk</message>
+  <message key="nn" >Norwegian Nynorsk</message>
+  <message key="swe">Swedish</message>
+  <message key="sv" >Swedish</message>
+  <message key="fin">Finnish</message>
+  <message key="fi" >Finnish</message>
 </catalogue>
