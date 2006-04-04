@@ -20,6 +20,9 @@
     <map:transform src="{project:resources.stylesheets}/corpus-lang-overview2document.xsl" >
       <map:parameter name="overviewlang" value="{2}"/>
     </map:transform>
+    <map:transform type="i18n">
+        <map:parameter name="locale" value="en"/>
+    </map:transform>
     <map:serialize type="xml"/>
    </map:match>
 
