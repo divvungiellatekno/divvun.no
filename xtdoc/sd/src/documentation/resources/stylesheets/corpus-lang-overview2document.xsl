@@ -32,7 +32,9 @@
         <title>Corpus Content —
           <i18n:text>
             <xsl:value-of select="$overviewlang"/>
-          </i18n:text>
+          </i18n:text>:
+          <xsl:value-of select="count/total/language[@xml:lang = $overviewlang]/@count"/>
+          files
         </title>
       </header>
       <body>
@@ -46,9 +48,12 @@
   </xsl:template>
 
   <xsl:template match="genre">
+    <xsl:variable name="genrename" select="@name"/>
     <section>
       <title>
-        <xsl:value-of select="@name"/>
+        <xsl:value-of select="@name"/> —
+        <xsl:value-of select="/summary/count/total/language[@xml:lang = $overviewlang]/genre[@name = $genrename]/@count"/>
+        files
       </title>
       <table>
         <tr>
