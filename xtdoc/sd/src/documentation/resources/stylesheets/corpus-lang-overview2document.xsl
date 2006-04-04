@@ -19,16 +19,20 @@
     | Transforms corpus summary documents to Forrest documents
     +-->
 
-<xsl:stylesheet version="1.0"
-                xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:i18n="http://apache.org/cocoon/i18n/2.1"
+  version="1.0">
 
   <xsl:param name="overviewlang"/>
 
   <xsl:template match="summary">
     <document>
       <header>
-        <title>Corpus Content — 
-          <xsl:value-of select="$overviewlang"/>
+        <title>Corpus Content —
+          <i18n:text>
+            <xsl:value-of select="$overviewlang"/>
+          </i18n:text>
         </title>
       </header>
       <body>
