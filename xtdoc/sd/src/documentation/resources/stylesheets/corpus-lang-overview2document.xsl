@@ -44,6 +44,11 @@
   </xsl:template>
 
   <xsl:template match="summary/language[@xml:lang = $overviewlang]">
+    <p>Below is a list of all corpus files for
+    <xsl:value-of select="@xml:lang"/>,
+    grouped according to genre. Some files might be invalid in one way or the other, these are
+    <span class="nonvalid">colour marked</span>. Also files with a missing license declaration
+    are marked <span class="nonvalid">with the same colour</span> (but only in the license field).</p>
     <xsl:apply-templates/>
   </xsl:template>
 
@@ -60,6 +65,8 @@
           <th>Title</th>
           <th>No of sections</th>
           <th>No of paragraphs</th>
+          <th>No of words</th>
+          <th>License</th>
           <th>Filename</th>
         </tr>
         <xsl:apply-templates >
@@ -71,9 +78,27 @@
 
   <xsl:template match="file">
     <tr>
+      <xsl:if test="nonvalid">
+        <xsl:attribute name="class">nonvalid</xsl:attribute>
+      </xsl:if>
       <td><xsl:value-of select="title"/></td>
       <td><xsl:value-of select="size/sectioncount"/></td>
       <td><xsl:value-of select="size/pcount"/></td>
+      <td><xsl:value-of select="size/wordcount"/></td>
+      <td>
+        <xsl:choose>
+          <xsl:when test="availability/free">
+            free
+          </xsl:when>
+          <xsl:when test="availability/license">
+            <b>Licensed</b>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:attribute name="class">nonvalid</xsl:attribute>
+            <i>not yet known</i>
+          </xsl:otherwise>
+        </xsl:choose>
+      </td>
       <td><xsl:value-of select="filename"/></td>
     </tr>
   </xsl:template>
