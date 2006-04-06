@@ -67,6 +67,7 @@
           <th>No of paragraphs</th>
           <th>No of words</th>
           <th>License</th>
+          <th>Orig. lang.</th>
           <th>Filename</th>
         </tr>
         <xsl:apply-templates >
@@ -96,6 +97,16 @@
           <xsl:otherwise>
             <xsl:attribute name="class">nonvalid</xsl:attribute>
             <i>not yet known</i>
+          </xsl:otherwise>
+        </xsl:choose>
+      </td>
+      <td>
+        <xsl:choose>
+          <xsl:when test="translated_from">
+            <xsl:value-of select="translated_from/@xml:lang"/>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:text> </xsl:text>
           </xsl:otherwise>
         </xsl:choose>
       </td>
