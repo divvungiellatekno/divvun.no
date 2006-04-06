@@ -26,7 +26,7 @@
   <xsl:template match="summary">
     <document>
       <header>
-        <title>Corpus Summary — totals</title>
+        <title>Corpus Files — Overview</title>
       </header>
       <body>
           <!--xsl:apply-templates select="./language"/-->
@@ -47,7 +47,7 @@
 
   <xsl:template match="summary/count">
       <table>
-        <caption>Corpus files per language and in all</caption>
+        <!--caption>Corpus files per language and in all</caption-->
         <xsl:apply-templates select="total/language"/>
         <tr><td colspan="2"> </td></tr>
         <tr>
