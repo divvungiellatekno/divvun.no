@@ -23,41 +23,26 @@
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 
-  <xsl:template match="summary">
+  <xsl:template match="count">
     <document>
       <header>
         <title>Corpus Files — Overview</title>
       </header>
       <body>
-          <!--xsl:apply-templates select="./language"/-->
-          <xsl:apply-templates select="./count"/>
+        <table>
+          <caption>Corpus files per language and in all</caption>
+          <xsl:apply-templates select="language"/>
+          <tr><td colspan="2"> </td></tr>
+          <tr>
+            <th>Total number of corpus files:</th>
+            <th><xsl:value-of select="total/@count"/></th>
+          </tr>
+        </table>
       </body>
     </document>
   </xsl:template>
 
-  <!--xsl:template match="summary/language">
-    <section>
-      <title>
-        <xsl:value-of select="@xml:lang"/>
-      </title>
-      <p>T
-      </p>
-    </section>
-  </xsl:template-->
-
-  <xsl:template match="summary/count">
-      <table>
-        <!--caption>Corpus files per language and in all</caption-->
-        <xsl:apply-templates select="total/language"/>
-        <tr><td colspan="2"> </td></tr>
-        <tr>
-          <th>Total number of corpus files:</th>
-          <th><xsl:value-of select="total/@count"/></th>
-        </tr>
-      </table>
-  </xsl:template>
-
-  <xsl:template match="total/language">
+  <xsl:template match="language">
       <td colspan="2"><strong><xsl:value-of select="@xml:lang"/>
       files:</strong></td>
     <xsl:apply-templates select="genre"/>
@@ -69,7 +54,7 @@
     </tr>
   </xsl:template>
 
-  <xsl:template match="total/language/genre">
+  <xsl:template match="genre">
     <tr>
       <td><xsl:value-of select="@name"/></td>
       <td><xsl:value-of select="@count"/></td>

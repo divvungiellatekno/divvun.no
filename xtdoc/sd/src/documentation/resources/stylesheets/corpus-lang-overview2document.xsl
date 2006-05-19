@@ -38,7 +38,16 @@
         </title>
       </header>
       <body>
+        <xsl:choose>
+          <xsl:when test="./language[@xml:lang = $overviewlang]">
           <xsl:apply-templates select="./language[@xml:lang = $overviewlang]"/>
+          </xsl:when>
+          <xsl:otherwise>
+            <warning>No information found for
+              <xsl:value-of select="$overviewlang"/>. Please report to divvun@samediggi.no.
+            </warning>
+          </xsl:otherwise>
+        </xsl:choose>
       </body>
     </document>
   </xsl:template>
@@ -57,7 +66,7 @@
     <section>
       <title>
         <xsl:value-of select="@name"/> —
-        <xsl:value-of select="/summary/count/total/language[@xml:lang = $overviewlang]/genre[@name = $genrename]/@count"/>
+        <xsl:value-of select="count(file)"/>
         files
       </title>
       <table>
