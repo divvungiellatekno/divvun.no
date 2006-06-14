@@ -34,11 +34,17 @@
         <title>2006</title>
 
         <ul>
+          <li><a href="monthly17.html"
+          title="Monthly report for May 2006">May</a></li>
+
+          <li><a href="monthly16.html"
+          title="Monthly report for April 2006">April</a></li>
+
           <li><a href="monthly15.html"
-          title="Monthly report for March 2006">January</a></li>
+          title="Monthly report for March 2006">March</a></li>
 
           <li><a href="monthly14.html"
-          title="Monthly report for February 2006">January</a></li>
+          title="Monthly report for February 2006">February</a></li>
 
           <li><a href="monthly13.html"
           title="Monthly report for January 2006">January</a></li>
