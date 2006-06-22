@@ -10,8 +10,12 @@
   <xsl:output method="text"/>
   <xsl:param name="person"/>
 
-  <xsl:template match="//body/section[last()]">
-BEGIN:VCALENDAR
+  <xsl:template match="/document">
+    <xsl:apply-templates select="body/section[last()]"/>
+  </xsl:template>
+
+  <xsl:template match="body/section[last()]"
+>BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Divvun//Forrest Wiki iCal//EN
 BEGIN:VTODO
@@ -32,8 +36,6 @@ REPEAT:4
 DURATION:PT1H
 END:VALARM
 END:VTODO
-END:VCALENDAR
-  </xsl:template>
-
+END:VCALENDAR</xsl:template>
 
 </xsl:stylesheet>
