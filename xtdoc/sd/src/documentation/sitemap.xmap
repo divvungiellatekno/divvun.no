@@ -40,6 +40,7 @@
    <map:match pattern="**/Tasks_*_*.ics">
     <map:generate src="cocoon://{1}/Meeting_{2}.xml" />
     <map:transform src="{project:resources.stylesheets}/tasks2ical.xsl">
+      <map:parameter name="date"   value="{2}"/>
       <map:parameter name="person" value="{3}"/>
     </map:transform>
     <map:serialize type="ical"/>
