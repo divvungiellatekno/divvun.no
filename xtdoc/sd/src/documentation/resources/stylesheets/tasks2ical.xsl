@@ -15,12 +15,15 @@
   <xsl:param name="person"/>
   <xsl:param name="date"/>
 
-  <xsl:variable name="duedate" >
+  <xsl:variable name="tdate" >
     <xsl:call-template name="date:add">
       <xsl:with-param name="date-time" select="$date" />
       <xsl:with-param name="duration" select="'P7D'" />
     </xsl:call-template>
   </xsl:variable>
+
+  <xsl:variable name="bgndate" select="translate($date,'-','')"/>
+  <xsl:variable name="duedate" select="translate($tdate,'-','')"/>
 
   <xsl:template match="/document">
     <xsl:apply-templates select="body/section[last()]"/>
@@ -40,7 +43,7 @@ CALSCALE:GREGORIAN
 
   <xsl:template match="section/ul/li"
 >BEGIN:VTODO
-DTSTAMP;VALUE=DATE:<xsl:value-of select="$date"/>
+DTSTAMP;VALUE=DATE:<xsl:value-of select="$bgndate"/>
 DUE;VALUE=DATE:<xsl:value-of select="$duedate"/>
 SUMMARY:<xsl:choose>
 <xsl:when test="./ul">
