@@ -1,22 +1,8 @@
 <?xml version="1.0"?>
-<!--
-  Copyright 2002-2004 The Apache Software Foundation
-
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
-
-      http://www.apache.org/licenses/LICENSE-2.0
-
-  Unless required by applicable law or agreed to in writing, software
-  distributed under the License is distributed on an "AS IS" BASIS,
-  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  See the License for the specific language governing permissions and
-  limitations under the License.
--->
-
 <!--+
-    | Transforms corpus summary documents to Forrest documents
+    | Transforms corpus content documents to Forrest documents according
+    | to the language parameter - only content for the given language is
+    | returned.
     +-->
 
 <xsl:stylesheet
@@ -25,6 +11,17 @@
   version="1.0">
 
   <xsl:param name="overviewlang"/>
+
+  <!-- Constant holding the paragraph limit for lumping files together -
+       files with less or equal number of paragraphs will not be listed
+       separately, only counted and summarized. -->
+  <xsl:variable name="plimit" select="50"/>
+
+  <!-- Constant holding the file number limit for lumping files together -
+       if there are less files than the given limit with less paragraphs
+       than defined above, the lumping will NOT happen, and they will instead
+       be listed normally. -->
+  <xsl:variable name="flimit" select="50"/>
 
   <xsl:template match="summary">
     <document>
@@ -40,11 +37,12 @@
       <body>
         <xsl:choose>
           <xsl:when test="./language[@xml:lang = $overviewlang]">
-          <xsl:apply-templates select="./language[@xml:lang = $overviewlang]"/>
+            <xsl:apply-templates select="./language[@xml:lang = $overviewlang]"/>
           </xsl:when>
           <xsl:otherwise>
             <warning>No information found for
-              <xsl:value-of select="$overviewlang"/>. Please report to divvun@samediggi.no.
+              <xsl:value-of select="$overviewlang"/>. Please report to
+              divvun@samediggi.no.
             </warning>
           </xsl:otherwise>
         </xsl:choose>
@@ -55,9 +53,12 @@
   <xsl:template match="summary/language[@xml:lang = $overviewlang]">
     <p>Below is a list of all corpus files for
     <xsl:value-of select="@xml:lang"/>,
-    grouped according to genre. Some files might be invalid in one way or the other, these are
-    <span class="nonvalid">colour marked</span>. Also files with a missing license declaration
-    are marked <span class="nonvalid">with the same colour</span> (but only in the license field).</p>
+    grouped according to genre. Some files might be invalid in one way or the
+    other, these are <span class="nonvalid">colour marked</span>. Also files
+    with a missing license declaration are marked <span class="nonvalid">with
+    the same colour</span> (but only in the license field).</p>
+    <p>Small files are lumped together at the end if there are more than
+    <xsl:value-of select="$flimit"/> of them.</p>
     <xsl:apply-templates/>
   </xsl:template>
 
@@ -67,7 +68,14 @@
       <title>
         <xsl:value-of select="@name"/> —
         <xsl:value-of select="count(file)"/>
-        files
+        <xsl:choose>
+          <xsl:when test="count(file) = 1">
+            file
+          </xsl:when>
+          <xsl:otherwise>
+            files
+          </xsl:otherwise>
+        </xsl:choose>
       </title>
       <table>
         <tr>
@@ -79,9 +87,40 @@
           <th>Orig. lang.</th>
           <th>Filename</th>
         </tr>
-        <xsl:apply-templates >
-          <xsl:sort select="size/pcount" data-type="number" order="descending"/>
-        </xsl:apply-templates >
+        <!--xsl:choose>
+          <xsl:when test="count(file[size/pcount > $plimit]) > $flimit"-->
+            <xsl:apply-templates select="file[size/pcount > $plimit]">
+              <xsl:sort select="size/pcount" data-type="number" order="descending"/>
+            </xsl:apply-templates >
+            <xsl:if test="file[size/pcount &lt;= $plimit]">
+              <tr>
+                <td>
+                <xsl:value-of select="count(file[size/pcount &lt;= $plimit])"/>
+                other
+                <xsl:choose>
+                  <xsl:when test="count(file[size/pcount &lt;= $plimit]) = 1">
+                    file
+                  </xsl:when>
+                  <xsl:otherwise>
+                    files
+                  </xsl:otherwise>
+                </xsl:choose>
+                (&lt;= <xsl:value-of select="$plimit"/> paragraphs)</td>
+                <td><xsl:value-of select="sum(file[size/pcount &lt;= $plimit]/size/sectioncount)"/></td>
+                <td><xsl:value-of select="sum(file[size/pcount &lt;= $plimit]/size/pcount)"/></td>
+                <td><xsl:value-of select="sum(file[size/pcount &lt;= $plimit]/size/wordcount)"/></td>
+                <td>N/A</td>
+                <td>N/A</td>
+                <td>N/A</td>
+              </tr>
+            </xsl:if>
+          <!--/xsl:when>
+          <xsl:otherwise>
+            <xsl:apply-templates select="file">
+              <xsl:sort select="size/pcount" data-type="number" order="descending"/>
+            </xsl:apply-templates >
+          </xsl:otherwise>
+        </xsl:choose-->
       </table>
     </section>
   </xsl:template>
