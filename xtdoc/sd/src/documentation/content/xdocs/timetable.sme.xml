@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="se">
+  <header>
+    <title>Divvun.no:a áigeplána</title>
+
+    <authors>
+      <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Oppalaš plána</title>
+
+      <ul>
+        <li>Vuosttaš alfaveršuvdna ođđajagemánu 2006</li>
+
+        <li>Betaveršuvnnat ođđajagemánu 2007</li>
+
+        <li>Loahpalaš veršuvdna suoidnemánu 2007</li>
+
+        <li>Prošeakta loahpahuvvo čakčamánu 2007</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Bienalaš plána</title>
+
+      <p>Áigeplánas dás vuolábealde leat deháleamos mihttomearit merkejuvvon
+      kodaiguin. Dát kodat dulkojuvvojit ná:</p>
+
+      <dl>
+        <dt>ALFA:</dt>
+
+        <dd>Vuosttaš doaibmi veršuvdna, ii leat gielalaččat dievaslaš,
+        korrektuvraprográmma dáidá reakčanit, ja velá prográmma mii geavaha
+        dan. Geavaheaddjedokumentašuvdna ii leat áibbas válmmas, iige
+        jorgaluvvon.</dd>
+
+        <dt>BETA:</dt>
+
+        <dd>Korrektuvraprográmmat leat buori muddui válbmasat ja stabiila,
+        geavaheaddjedokumentašuvdna lea válmmas, muhto ii olámuttus buot
+        gielain, iige leat korrektuvra lohkkon. Lingvistalaččat válmmas,
+        vaikkoge váilot muhton sánit. Earenoamážit dát guoská
+        julevsámegillii.</dd>
+
+        <dt>FINAL:</dt>
+
+        <dd>Korrektuvraprográmmat leat vuđolaččat geahččaluvvon, leat
+        ollislaččat ja stabiila. Geavaheaddjedokumentašuvdna lea
+        korrektuvralohkon ja jorgaluvvon buot gielaide. Sajáiduhttinpáhkat leat
+        válbmasat ja geahččaluvvon. Korrektuvraprográmmat leat olámuttos buot
+        geavaheddjiide.</dd>
+
+        <dt>aSpell:</dt>
+
+        <dd>Korrektuvraprográmma ráhkaduvvon rabas prográmmagáldus. Olamuttus
+        fridja oassin Windows:ii, Linux:ii ja MacOS X:ii.</dd>
+
+        <dt>InDesign:</dt>
+
+        <dd>Sátnejuohkin integrerejuvvon Adobe InDesign prográmmii Mac várás
+        (várra Windows:a várás maid)</dd>
+
+        <dt>MSOffice:</dt>
+
+        <dd>Čállindárkkisteapmi ja sátnejuohkin integrerejuvvon Microsoft
+        Office:ii, sihke Windows:a ja Mac:a várás.</dd>
+
+        <dt>OpenOffice.org:</dt>
+
+        <dd>Čállindárkkisteapmi, várra maid sátnejuohkin, integrerejuvvon
+        OpenOffice.org:ii, buot golbma operatiivavuogádagaid várás.</dd>
+      </dl>
+
+      <p>Almmolaš áigeplána, nugo prošeaktastivra dohkkehii dan juovlamánu
+      2004:s, álggahan- ja loahpahandáhtomiin, ja mihttomearit juohke
+      jahkebeallái.</p>
+
+      <dl>
+        <dt>Golggotmánu 1. b. 2004:</dt>
+
+        <dd>Almmolaš álggahandáhton, prošeaktajođiheaddji álgá.</dd>
+
+        <dt>Ođđajagemanu 1. b. 2005:</dt>
+
+        <dd>Prošeavtta duohta álggahandáhton, buot prošeaktabargit leat
+        álgán.</dd>
+
+        <dt>Suoidnemánu 1. b. 2005:</dt>
+
+        <dd>Maŋemuš beaivemearri almmolaš fállagiidda daidda osiide prošeavttas mat
+        ostojuvvojit. Infrastruktuvra lea válmmas, prošeaktaorganisašuvdna
+        ja -kommunikašuvdna doaibmá bures.</dd>
+
+        <dt>Ođđajagemánu 1. b. 2006:</dt>
+
+	<dd>Šiehtadusat olgguldas bálvalusbuktiiguin leat gárvvis ráđđádallon ja vuolláičállon, ja ovttasbargu lea álggahuvvon singuin. Davvisámegielat korrektuvraprográmma vuosttaš veršuvdna, man vuođđu lea rabas gáldokoda, lea válmmas (aSpell-ALFA).</dd>
+
+        <dt>Suoidnemánu 1. b. 2006:</dt>
+
+        <dd>Davvi- ja julevsámegielaid vuosttaš geahččalanveršuvnnat
+        kántuvraprográmmaid várás (MSOffice-ALFA, OpenOffice.org-ALFA),
+        vuosttaš geahččalanveršuvdna davvisámegielat sátnejuohkimis
+        (InDesign-ALFA). Teakstačohkken geargan ja loahpahuvvon.</dd>
+
+        <dt>Ođđajagemánu 1. b. 2007:</dt>
+
+        <dd>Buot korrektuvrareaidduid nubbi veršuvdna lea gárvvis
+        (aSpell-BETA, MSOffice-BETA, OpenOffice.org-BETA, InDesign-BETA).</dd>
+
+        <dt>Suoidnemánu 1. b. 2007:</dt>
+
+        <dd>Korrektuvrareaiddut leat gárvásat, ja veršuvdna 1.0 lea almmoláččat vieččahahtti (aSpell-FINAL, MSOffice-FINAL, OpenOffice.org-FINAL,
+        InDesign-FINAL).</dd>
+
+        <dt>Čakčamánu 30. b. 2007</dt>
+
+        <dd>Prošeakta lea loahpahuvvon, buot dokumentašuvdna ja
+        prošeaktadieđut leat válmmas ja geigejuvvon bistevaš fuolahanorganisašuvdna. Smávit vigit mat leat gávdnon maŋŋágo
+        1.0-veršuvdna almmohuvvoi leat divvojuvvon.</dd>
+      </dl>
+
+      <p>Korrektuvraprográmmaid ferte álo ođasmahttit, sihke gielalaččat
+      (dannego giella álo rievdá) ja teknihkalaččat (ođđa prográmmaid ja
+      vuogádatveršuvnnaid dihte). Danne darbbašuvvoge bistevaš organisašuvdna
+      man ovddasvástádus lea ođasmahttit prográmmaid gielalaččát ja
+      teknihkalaččat. Eará bargu dán organisašuvnnas lea álggahit prošeavtta
+      vai šaddet seammá prográmmat máttasámegiela várás.</p>
+
+      <p class="last_modified">Maŋemuš rievdaduvvon: $Date: 2005/06/18
+      04:34:31 $, av $Author$</p>
+    </section>
+  </body>
+</document>
