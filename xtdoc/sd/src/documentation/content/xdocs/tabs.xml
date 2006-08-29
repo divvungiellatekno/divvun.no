@@ -24,7 +24,8 @@
     <tab id="adm" label="Administrašuvdna" dir="adm" indexfile="index.html" >
         <tab id="adm-gen" label="Oppalaš" dir="adm" indexfile="index.html" />
         <tab id="reports" label="Raporttat" dir="adm/reports" indexfile="monthoverview.html" />
-        <tab id="outsrc"  label="Outsourcing" dir="adm/outsourcing" indexfile="overview.html" />
+        <!--tab id="outsrc"  label="Outsourcing" dir="adm/outsourcing" indexfile="overview.html" /-->
+        <tab id="polderland" label="Polderland" dir="adm/polderland" indexfile="index.html" />
         <tab id="board"   label="Styringsgruppa" dir="adm/board" indexfile="index.html" />
         <tab id="legal"   label="Legal" dir="adm/legal" indexfile="index.html" />
     </tab>
