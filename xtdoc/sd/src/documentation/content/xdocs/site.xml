@@ -130,13 +130,18 @@
     <sam1 href="sd-contract-part-3.html" label="SD Contract, 3. part" description="SD Contract, third part" />
   </legal>
 
-  <outsourcing href="adm/outsourcing/" label="Outsourcing" tab="outsrc">
+  <!--outsourcing href="adm/outsourcing/" label="Outsourcing" tab="outsrc">
     <overview href="overview.html" label="Overview" description="Overview of the outsourcing of certain tasks" />
     <qualcrit href="qual-criterias.html" label="Qualification Criterias" description="Qualification Criterias to attend the public tender" />
     <selcrit  href="selection-criterias.html" label="Selection Criterias" description="Selection Criterias for choosing the best offer" />
     <delivers href="deliveries.html" label="Deliverables" description="Exact specification of deliverables" />
     <techspec href="req-spec.html" label="Requirements Specification" description="Requirements specification for the outsourced tasks" />
-  </outsourcing>
+  </outsourcing-->
+
+  <polderland href="adm/polderland/" label="Polderland" tab="polderland">
+    <index    href="index.html" label="Overview" description="Overview of the cooperation documents" />
+    <x2006-08-29 href="meeting_2006-08-29.html" label="Aug 29" description="Meeting memo August 29, 2006" />
+  </polderland>
 
   <board href="adm/board/" label="Styringsgruppa" tab="adm">
     <overview href="index.html" label="Oversikt"
@@ -156,6 +161,8 @@
     <overview description="Overview over monthly reports"
               href="monthoverview.html" label="Overview" />
 
+    <may06 href="monthly17.html" label="May '06" description="Report for May '06" />
+    <apr06 href="monthly16.html" label="Apr '06" description="Report for April '06" />
     <mar06 href="monthly15.html" label="Mar '06" description="Report for March '06" />
     <feb06 href="monthly14.html" label="Feb '06" description="Report for February '06" />
     <jan06 href="monthly13.html" label="Jan '06" description="Report for January '06" />
