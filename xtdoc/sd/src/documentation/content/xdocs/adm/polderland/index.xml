@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+  <header>
+    <title>Polderland cooperation</title>
+    <authors>
+      <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Intro</title>
+
+      <p>After a round of public tender, <a
+      href="http://www.polderland.nl/">Polderland</a> was selected as a
+      subcontractor for the Divvun project. The main tasks of the subcontractor
+      is to use our linguistic resources to create end-user-ready proofing tools
+      for use with <a href="http://www.microsoft.com/office/">Microsoft
+      Office</a> and <a href="http://www.adobe.com/indesign/">Adobe
+      InDesign</a>.</p>
+
+      <p>This page contains links to meeting memos between the Divvun project
+      and Polderland, as well as other relevant links. For reasons of trade
+      secrets, not all meeting memos will be available, or complete.</p>
+    </section>
+
+    <section>
+      <title>Meetings</title>
+
+      <p>Starting August 29, we will have coordination meetings on Tuesdays at
+      9:30 AM Norwegian time. The core participants of the meetings are the
+      two project managers, Peter Beinema (Polderland) and Sjur Moshagen
+      (Divvun). Other project members will be included as needed.</p>
+
+      <p>The memos are available below. The
+      memos are written in a <a class="fork"
+      href="http://forrest.apache.org/docs/wiki-sample.html"
+      title="A page describing the JSPWiki features supported by Forrest">Wiki
+      format</a> supported by <a class="fork"
+      href="http://forrest.apache.org/"
+      title="Forrest home page">Forrest</a>, allowing a near-text memo
+      combined with instant publishing. For help with the Wiki format, see our
+      <a href="../doc/infra/jspwiki-howto.html" title="jspwiki howto">jspwiki
+      howto</a>.</p>
+
+      <p>The meetings are held as Internet-based video conferences using <a
+      class="fork" href="http://www.apple.com/ichat/"
+      title="Home page for iChat">iChat</a>, and meeting
+      memos are taken collaboratively using <a class="fork"
+      href="http://www.codingmonkeys.de/subethaedit/"
+      title="Home page for SubEthaEdit">SubEthaEdit</a>.</p>
+    </section>
+
+    <section>
+      <title>Meeting memos</title>
+      <ul>
+        <li><a href="meeting_2006-08-29.html">August 29, 2006</a></li>
+      </ul>
+
+    </section>
+
+    <p class="last_modified">Last modified: $Date$,
+       by $Author$</p>
+
+  </body>
+</document>
