@@ -34,16 +34,18 @@
         howto</a>.</p>
 
 
-        <p>The meetings are held as telephone meetings with simultaneous
-        note-taking using <a class="fork"
-        href="http://www.codingmonkeys.de/subethaedit/"
-        title="Home page for SubEthaEdit">SubEthaEdit</a>. A chat application
-        (<a class="fork" href="http://www.apple.com/ichat/"
-        title="Home page for iChat">iChat</a>) is used as a supporting tool as
-        well. Later this year we will switch to using iChat instead of the
-        phone, as it will gain 4-way video and 10-way audio conferencing
-        included in the <a href="http://www.apple.com/macosx/"
-        title="Home page of MacOS X"> next major version of the MacOS</a>.</p>
+      <p>The meetings are held as Internet-based video conferences using <a
+      class="fork" href="http://www.apple.com/ichat/"
+      title="Home page for iChat">iChat</a> (included with MacOS X, and allows
+      4-way video-conferencing and 10-way audio chats; most modern
+      Macs have built-in web cameras). Meeting
+      memos are taken collaboratively using <a class="fork"
+      href="http://www.codingmonkeys.de/subethaedit/"
+      title="Home page for SubEthaEdit">SubEthaEdit</a> (version 2.2 is
+      free, but SubEthaEdit is worth paying for). Thus, setting up a meeting is
+      a breeze, and does not need to involve any extra costs beyond the
+      computers.</p>
+
       </section>
 
       <section>
