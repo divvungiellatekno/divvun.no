@@ -15,25 +15,64 @@ Participants:
 
 
 !!Divvun tasks
-Data examples from Divvun was sent last week, with more this week. __Question:__
+Data examples from Divvun was sent last week, with more this week.
 
-Does the delivered data set need to be normative at this point? Or is a limited amount of (descriptive) overgeneration acceptable?
+__Question:__ Does the delivered data set need to be normative at this point? Or 
+is a limited amount of (descriptive) overgeneration acceptable? It is ok for
+now.
 
-Divvun will soon be able to deliver normative-only datasets, but not yet (__Thomas:__ how big is the difference? Ie how many inflected forms generated will actually be outside the norm?)
+Divvun will soon be able to deliver normative-only datasets, but not yet. The
+difference is quite small, only
+PxSg1 + some other forms generate non-normative variants in addition to the
+normative ones. Example:
+{{{
+beakkán+A+Pl+Ill+PxSg1
+beakkániiddásam - not norm
+beakkániiddásan - norm
+}}}
+
+Received so far (including derivations):
+* even-syllable stems: verbs, nouns, adjectives
+* odd-syllable stems: verbs, nouns, adjectives
+* contracted stems: verbs, nouns, adjectives
+
+
+PL will receive more even-syllable stem types, to cover all variants of this
+type.
 
 !!Polderland tasks
 
 PL will split up the words (L, R, possibly middle parts), add PLX tags and regenerate the word forms. The results will be sent to Divvun, which should evaluate whether the output is correct word forms, and whether the approach seems feasible.
 
 
-
 !!Exclusion lists
 
 PL has Perl scripts for generating exclusion list candidates, and is willing to give the scripts to Divvun. - Yes, please:-)
 
+The script looks for both/all parts of a compound, and compares them with existing words in the lexicon that are *almost* like the compound stems:
+
+Dutch example1:
+(capitalization)
+Moskou is allowed, moskou is not but can be compounded: mos+kou
+
+Geminates at compound borders:
+{{{
+kerk=church
+klok=bell
+lok=piece of hair
+kerkklok = legal compound, church bell
+kerklok = legal compound but very probably not intended
+
+zeemeeuw=seagull
+zeem+meeuw = probably not what was intended
+}}}
+
+!!Hyphenation
+
+PL is looking for a recent CodeWarrior to compile Universal binaries for
+InDesign.
 
 !!!TODO
-* send extended data lists to PL (__Thomas__)
-* send MS language codes for Sámi to PL (__Sjur__)
+* send more data sets to PL (__Thomas__)
 * send perl script for generating exclusion list candidates to Divvun
   (__Peter__)
