@@ -141,6 +141,7 @@
   <polderland href="adm/polderland/" label="Polderland" tab="polderland">
     <index    href="index.html" label="Overview" description="Overview of the cooperation documents" />
     <x2006-08-29 href="meeting_2006-08-29.html" label="Aug 29" description="Meeting memo August 29, 2006" />
+    <x2006-09-05 href="meeting_2006-09-05.html" label="Sep 5"  description="Meeting memo September 5, 2006" />
   </polderland>
 
   <board href="adm/board/" label="Styringsgruppa" tab="adm">
@@ -154,6 +155,7 @@
               description="Utkast til prosjekt for sørsamisk stavekontroll&#8233;Draft for a south sami speller project" />
     <meetings label="Møte">
       <x2005-10-04 href="Meeting_2005-10-04.html" label="4. 10. 2005"/>
+      <x2006-08-21 href="Meeting_2006-08-21.html" label="21. 8. 2006"/>
     </meetings>
   </board>
 
