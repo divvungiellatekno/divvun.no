@@ -5,8 +5,9 @@
    <map:serializer name="ical" 
      src="org.apache.cocoon.serialization.TextSerializer"
      mime-type="text/calendar" 
-     logger="sitemap.serializer.text" 
-   />
+     logger="sitemap.serializer.text">
+     <encoding>UTF-8</encoding>
+   </map:serializer>
   </map:serializers>
  </map:components>
  <map:pipelines>
