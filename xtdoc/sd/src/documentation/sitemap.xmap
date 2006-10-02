@@ -14,20 +14,20 @@
   <map:pipeline>
 
    <map:match pattern="**custom.xml">
-    <map:generate src="{project:content.xdocs}{1}custom.xml" />
-    <map:transform src="{project:resources.stylesheets}/hello2document.xsl" />
+    <map:generate src="{properties:content.xdocs}{1}custom.xml" />
+    <map:transform src="{properties:resources.stylesheets}/hello2document.xsl" />
     <map:serialize type="xml"/>
    </map:match>
 
    <map:match pattern="**corpus-summary.xml">
-    <map:generate src="{project:content.xdocs}{1}corpus-summary.xml" />
-    <map:transform src="{project:resources.stylesheets}/corpus-summary2document.xsl" />
+    <map:generate src="{properties:content.xdocs}{1}corpus-summary.xml" />
+    <map:transform src="{properties:resources.stylesheets}/corpus-summary2document.xsl" />
     <map:serialize type="xml"/>
    </map:match>
 
    <map:match pattern="**corpus-*.xml">
-    <map:generate src="{project:content.xdocs}{1}corpus-content.xml" />
-    <map:transform src="{project:resources.stylesheets}/corpus-lang-overview2document.xsl" >
+    <map:generate src="{properties:content.xdocs}{1}corpus-content.xml" />
+    <map:transform src="{properties:resources.stylesheets}/corpus-lang-overview2document.xsl" >
       <map:parameter name="overviewlang" value="{2}"/>
     </map:transform>
     <map:transform type="i18n">
@@ -40,7 +40,7 @@
         person in {3}, returning the task list as an iCal TODO list -->
    <map:match pattern="**/Tasks_*_*.ics">
     <map:generate src="cocoon://{1}/Meeting_{2}.xml" />
-    <map:transform src="{project:resources.stylesheets}/tasks2ical.xsl">
+    <map:transform src="{properties:resources.stylesheets}/tasks2ical.xsl">
       <map:parameter name="date"   value="{2}"/>
       <map:parameter name="person" value="{3}"/>
     </map:transform>
