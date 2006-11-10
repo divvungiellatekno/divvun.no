@@ -18,7 +18,7 @@ for while. Please visit our pages again later.</p>
 
     <h1>Select file, language, and license type</h1>
 
- <form  ACTION="http://sami-cgi-bin.uit.no/cgi-bin/smi/upload.cgi"
+ <form  ACTION="http://sami-cgi-bin.uit.no/cgi-bin/smi/upload2.cgi"
     		 METHOD="post" ENCTYPE="multipart/form-data">
 <table>
 <tr><td> File to upload: </td><td><INPUT TYPE="file" NAME="document"></td></tr>
@@ -46,6 +46,32 @@ for while. Please visit our pages again later.</p>
 <br/>
  <INPUT TYPE="submit" NAME="Submit" VALUE="Submit Form" > 
     </form>
+
+    <h1>Upload multiple files</h1>
+
+ <form  ACTION="http://sami-cgi-bin.uit.no/cgi-bin/smi/upload2.cgi"
+    		 METHOD="post" ENCTYPE="multipart/form-data">
+<table>
+<tr><td> Number of files:
+    <select name="file_count">
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    </select></td>
+</tr>
+</table>
+
+ <INPUT TYPE="submit" NAME="Submit" VALUE="Submit Form" > 
+ <INPUT TYPE="hidden" NAME="print_multiple" VALUE="1" > 
+
+    </form>
+
 
 <p>Send feedback and questions to <a
 href="mailto:corpus@giellatekno.uit.no?subject=Feedback%C2%A0upload.cg\
