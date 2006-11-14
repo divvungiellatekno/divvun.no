@@ -33,7 +33,7 @@
 	    <pr1 description="divvun.no almmuhus"
 		 href="pressrelease-20050613.se.html" label="PRD: 2005.06.13" />
     </pr>
-    <upload href="upload/upload-corpus-file.html" description="Dás sáhtát sáddet midjiide fiillaid" label="Sáddes fiillaid midjiide" />
+    <upload href="upload/upload_corpus_file.html" description="Dás sáhtát sáddet midjiide fiillaid" label="Sáddes fiillaid midjiide" />
     <!-- Commented these out, as it will bring a lot of load on the server if these are used.
 	        <all_site label="Full HTML" href="wholesite.html"/>    
 		<all_sitePDF label="Full PDF" href="wholesite.pdf"/>  
@@ -76,7 +76,7 @@
 	    <pr1 description="divvun.no offentliggjøring"
 		 href="pressrelease-20050613.nb.html" label="PRM: 2005.06.13" />
     </pr>
-    <upload href="upload/upload-corpus-file.html" description="Her kan du sende oss filer" label="Send filer til oss" />
+    <upload href="upload/upload_corpus_file.html" description="Her kan du sende oss filer" label="Send filer til oss" />
   </norsk>
 
   <suomeksi label="Suomeksi" tab="suomeksi">
@@ -91,7 +91,7 @@
     <matta description="Miksi eteläsaame ei kuulu projektiin"
            href="sma-background.se.html" label="Eteläsaame" />
     <changes href="changes.html" label="Rievdadusat (eŋgelasgillii)" />
-    <upload href="upload/upload-corpus-file.html" description="Tästä voit lähettää tiedostoja meille" label="Lähetä tiedostoja meille" />
+    <upload href="upload/upload_corpus_file.html" description="Tästä voit lähettää tiedostoja meille" label="Lähetä tiedostoja meille" />
   </suomeksi>
 
   <english label="In English" tab="english">
@@ -103,7 +103,7 @@
     <spelling description="Short description on how the tools are made"
               href="howmake.en.html" label="How the tools are made" />
     <changes href="changes.html" label="Changes" />
-    <upload href="upload/upload-corpus-file.html" description="Here you can send us files" label="Send us files" />
+    <upload href="upload/upload_corpus_file.html" description="Here you can send us files" label="Send us files" />
   </english>
 
   <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab != 'how'])" />
