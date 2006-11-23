@@ -20,18 +20,17 @@
   <about label="Davvisámegiella" tab="Ruoktu">
     <index description="Bures boahttin divvun.no prošektii"
            href="index.html" label="Álgosiidu" />
-    <lang description="Proseavtta giellapolitihkka" href="lang-policy.se.html"
+    <lang description="Proseavtta giellapolitihkka" href="lang-policy.html"
           label="Giellapolitihkka" />
-    <timetable description="Prošeavtta plánat" href="timetable.se.html"
-               label="Plána" />
-    <spelling description="Mo reaiddut ráhkaduvvot" href="howmake.se.html"
+    <timetable description="Prošeavtta plánat" href="timetable.html"
+               label="Prošeavtta plánat" />
+    <spelling description="Mo reaiddut ráhkaduvvot" href="howmake.html"
               label="Mo reaiddut ráhkaduvvojit" />
     <matta description="Manne máttasámegiella ii leat oassi prošeavttas"
-           href="sma-background.se.html" label="Máttasámegiella" />
-    <changes href="changes.html" label="Rievdadusat (eŋgelasgillii)" />
+           href="sma-background.html" label="Máttasámegiella" />
     <pr href="pr/" label="Preassadieđáhusat">
 	    <pr1 description="divvun.no almmuhus"
-		 href="pressrelease-20050613.se.html" label="PRD: 2005.06.13" />
+		 href="pressrelease-20050613.html" label="PRD: 2005.06.13" />
     </pr>
     <upload href="upload/upload_corpus_file.html" description="Dás sáhtát sáddet midjiide fiillaid" label="Sáddes fiillaid midjiide" />
     <!-- Commented these out, as it will bring a lot of load on the server if these are used.
@@ -40,71 +39,6 @@
 		-->
   </about>
 
-  <!-- These four menus are needed until we have a working i18n solution -->
-
-  <lule label="Julevsámegiellaj" tab="lule-sami">
-    <index href="julevsami.html" label="Álggosijdo" />
-    <lang description="Prosjevta giellapolitihkka" href="lang-policy.smj.html"
-          label="Giellapolitihkka " />
-    <timetable description="Prosjevta plána" href="timetable.smj.html"
-               label="Plána" />
-    <spelling description="Gåktu nævvo dagáduvvi" href="howmake.smj.html"
-              label="Gåktu nævvo dagáduvvi" />
-    <matta description="Manen oarjjilijsábme ij la oassen prosjevtas"
-           href="sma-background.nb.html" label="Oarjjilijsábme" />
-    <changes href="changes.html" label="Rievdadusat (ieŋŋgisgielai)" />
-    <pr href="pr/" label="Præssadiededimet">
-	    <pr1 description="divvun.no diededibme"
-		 href="pressrelease-20050613.smj.html" label="PRD: 2005.06.13" />
-    </pr>
-<!--     <upload href="upload/upload-corpus-file.html" description="Dás sáhtát sáddet midjiide fiillaid" label="Sáddes fiillaid midjiide" /> -->
-
-  </lule>
-
-  <norsk label="På norsk" tab="norsk">
-    <index description="Velkommen til prosjektet divvun.no"
-           href="norsk.html" label="Startside" />
-    <lang description="Prosjektets språkpolitikk" href="lang-policy.nb.html"
-          label="Språkpolitikk" />
-    <timetable description="Tidsplan" href="timetable.nb.html" label="Plan" />
-    <spelling description="Hvordan verktøyene lages" href="howmake.nb.html"
-              label="Hvordan verktøyene lages" />
-    <matta description="Hvorfor sørsamisk ikke er en del av prosjektet"
-           href="sma-background.nb.html" label="Sørsamisk" />
-    <changes href="changes.html" label="Endringer (engelsk)" />
-    <pr href="pr/" label="Pressemeldinger">
-	    <pr1 description="divvun.no offentliggjøring"
-		 href="pressrelease-20050613.nb.html" label="PRM: 2005.06.13" />
-    </pr>
-    <upload href="upload/upload_corpus_file.html" description="Her kan du sende oss filer" label="Send filer til oss" />
-  </norsk>
-
-  <suomeksi label="Suomeksi" tab="suomeksi">
-    <index description="Tervetuloa divvun.no projektiin" href="finnish.html"
-           label="Aloitussivu" />
-    <lang description="Projektin kielipolitiikka" href="lang-policy.fi.html"
-          label="Kielipolitiikka" />
-    <timetable description="Aikataulu" href="timetable.fi.html"
-               label="Suunnitelma" />
-    <spelling description="Lyhyt kuvaus ohjelmistjen tekoprosessista"
-              href="howmake.fi.html" label="Kuinka ohjelmistot tehdään" />
-    <matta description="Miksi eteläsaame ei kuulu projektiin"
-           href="sma-background.se.html" label="Eteläsaame" />
-    <changes href="changes.html" label="Rievdadusat (eŋgelasgillii)" />
-    <upload href="upload/upload_corpus_file.html" description="Tästä voit lähettää tiedostoja meille" label="Lähetä tiedostoja meille" />
-  </suomeksi>
-
-  <english label="In English" tab="english">
-    <index description="Welcome to the divvun.no project" href="english.html"
-           label="Start page" />
-    <lang description="The projects' language policy"
-          href="lang-policy.en.html" label="Language policy" />
-    <timetable description="Time table" href="timetable.en.html" label="Plan" />
-    <spelling description="Short description on how the tools are made"
-              href="howmake.en.html" label="How the tools are made" />
-    <changes href="changes.html" label="Changes" />
-    <upload href="upload/upload_corpus_file.html" description="Here you can send us files" label="Send us files" />
-  </english>
 
   <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab != 'how'])" />
 
@@ -130,30 +64,13 @@
     <sam1 href="sd-contract-part-3.html" label="SD Contract, 3. part" description="SD Contract, third part" />
   </legal>
 
-  <!--outsourcing href="adm/outsourcing/" label="Outsourcing" tab="outsrc">
+  <outsourcing href="adm/outsourcing/" label="Outsourcing" tab="outsrc">
     <overview href="overview.html" label="Overview" description="Overview of the outsourcing of certain tasks" />
     <qualcrit href="qual-criterias.html" label="Qualification Criterias" description="Qualification Criterias to attend the public tender" />
     <selcrit  href="selection-criterias.html" label="Selection Criterias" description="Selection Criterias for choosing the best offer" />
     <delivers href="deliveries.html" label="Deliverables" description="Exact specification of deliverables" />
     <techspec href="req-spec.html" label="Requirements Specification" description="Requirements specification for the outsourced tasks" />
-  </outsourcing-->
-
-  <polderland href="adm/polderland/" label="Polderland" tab="polderland">
-    <index    href="index.html" label="Overview" description="Overview of the cooperation documents" />
-    <x2006-11-21 href="meeting_2006-11-21.html" label="Nov 21" description="Meeting memo November 21, 2006" />
-    <x2006-11-14 href="meeting_2006-11-14.html" label="Nov 14" description="Meeting memo November 14, 2006" />
-    <x2006-11-07 href="meeting_2006-11-07.html" label="Nov 7"  description="Meeting memo November 7, 2006" />
-    <x2006-10-31 href="meeting_2006-10-31.html" label="Oct 31" description="Meeting memo October 31, 2006" />
-    <x2006-10-24 href="meeting_2006-10-24.html" label="Oct 24" description="Meeting memo October 24, 2006" />
-    <x2006-10-18 href="meeting_2006-10-18.html" label="Oct 18" description="Meeting memo October 18, 2006" />
-    <x2006-10-10 href="meeting_2006-10-10.html" label="Oct 10" description="Meeting memo October 10, 2006" />
-    <x2006-10-03 href="meeting_2006-10-03.html" label="Oct 3"  description="Meeting memo October 3, 2006" />
-    <x2006-09-26 href="meeting_2006-09-26.html" label="Sep 26" description="Meeting memo September 26, 2006" />
-    <x2006-09-19 href="meeting_2006-09-19.html" label="Sep 19" description="Meeting memo September 19, 2006" />
-    <x2006-09-12 href="meeting_2006-09-12.html" label="Sep 12" description="Meeting memo September 12, 2006" />
-    <x2006-09-05 href="meeting_2006-09-05.html" label="Sep 5"  description="Meeting memo September 5, 2006" />
-    <x2006-08-29 href="meeting_2006-08-29.html" label="Aug 29" description="Meeting memo August 29, 2006" />
-  </polderland>
+  </outsourcing>
 
   <board href="adm/board/" label="Styringsgruppa" tab="adm">
     <overview href="index.html" label="Oversikt"
@@ -166,7 +83,6 @@
               description="Utkast til prosjekt for sørsamisk stavekontroll&#8233;Draft for a south sami speller project" />
     <meetings label="Møte">
       <x2005-10-04 href="Meeting_2005-10-04.html" label="4. 10. 2005"/>
-      <x2006-08-21 href="Meeting_2006-08-21.html" label="21. 8. 2006"/>
     </meetings>
   </board>
 
@@ -174,8 +90,6 @@
     <overview description="Overview over monthly reports"
               href="monthoverview.html" label="Overview" />
 
-    <may06 href="monthly17.html" label="May '06" description="Report for May '06" />
-    <apr06 href="monthly16.html" label="Apr '06" description="Report for April '06" />
     <mar06 href="monthly15.html" label="Mar '06" description="Report for March '06" />
     <feb06 href="monthly14.html" label="Feb '06" description="Report for February '06" />
     <jan06 href="monthly13.html" label="Jan '06" description="Report for January '06" />
@@ -203,6 +117,8 @@
   </uit>
 
   <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab = 'how'])" />
+
+  <!--<xi:include href="wordsdoc/site-frag.xml" />-->
 
   <!-- Commented out until the content is more ready for publishing. -->
   <!--future href="future/" label="fremtidige planer" tab="Plan">
