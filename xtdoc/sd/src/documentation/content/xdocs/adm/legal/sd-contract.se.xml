@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
   <header xml:lang="se">
-    <title>Šiehtadus teavsttaid geavahanvuoigatvuođain</title>
+    <title>Šiehtadus: Teavsttaid geavahanvuoigatvuođat</title>
   </header>
 
   <body>
@@ -12,31 +12,31 @@
 
       <section>
         <title>Sii geat fievrridit/sirdet geavahanvuoigatvuođa
-        (<code>avgjevar</code>)</title>
+        (<code>addit</code>)</title>
 
         <table>
           <tr>
             <td>Rolla:</td>
 
-            <td>čálli</td>
+            <td>Čálli</td>
           </tr>
 
           <tr>
             <td>Namma:</td>
 
-            <td>&nbsp;</td>
+            <td></td>
           </tr>
 
           <tr>
-            <td>Čujuhus</td>
+            <td>Čujuhus:</td>
 
-            <td>&nbsp;</td>
+            <td></td>
           </tr>
 
           <tr>
             <td>Poastanummar ja -báiki:</td>
 
-            <td>&nbsp;</td>
+            <td></td>
           </tr>
         </table>
 
@@ -74,25 +74,25 @@
           <tr>
             <td>Rolla:</td>
 
-            <td>goasttideaddji</td>
+            <td>Goasttideaddji</td>
           </tr>
 
           <tr>
             <td>Namma:</td>
 
-            <td>&nbsp;</td>
+            <td></td>
           </tr>
 
           <tr>
             <td>Čujuhus:</td>
 
-            <td>&nbsp;</td>
+            <td></td>
           </tr>
 
           <tr>
             <td>Poastanummar ja -báiki</td>
 
-            <td>&nbsp;</td>
+            <td></td>
           </tr>
         </table>
 
@@ -100,7 +100,7 @@
       </section>
 
       <section>
-        <title>Son, gii oažžu geavahanvuoigatvuođa
+        <title>Dat gii oažžu geavahanvuoigatvuođa
         (<code>vuostáiváldi</code>)</title>
 
         <table>
@@ -126,113 +126,71 @@
     </section>
 
     <section>
-      <title>Dán šiehtadusa ubmil</title>
+      <title>Dán šiehtadusa ulbmil</title>
 
       <p>2.1. Dát šiehtadus guoská
-      daid<code>teavsttaid</code>geavahanvuoigatvuođaide, mat leat dahje
-      galget rievdaduvvot elektrovnnalaš hápmái. <code>Vuostáiváldi</code>
-      sáhttá bidjat dan iežas <code>teakstačoakkáldahkii</code> ja geavahit
-      dan dutkanulbmiliidda ja/dahje giellateknologalaš prográmma
+      daid <code>teavsttaid</code> geavahanvuoigatvuođaide, mat leat dahje galget rievdaduvvot elektrovnnalaš hápmái. <code>Vuostáiváldi</code> sáhttá bidjat dan iežas <code>teakstačoakkáldahkii</code> ja geavahit dan dutkanulbmiliidda ja/dahje giellateknologalaš prográmma
       ovddideapmái.</p>
 
-      <p>2.2 <code>Avgjevarane</code> sihkkarastet ahte sis lea vuoigatvuohta
-      addit <code>vuostáiváldái</code> daid<code>teavsttaid</code> maid dát
-      šiehtadus gusto.</p>
+      <p>2.2 <code>Teavsttaid addit</code> sihkkarastet ahte sis lea vuoigatvuohta addit <code>vuostáiváldái</code> daid <code>teavsttaid</code> maid dát šiehtadus gusto.</p>
+      <p></p><p></p><p></p>
     </section>
 
     <section>
       <title>Geavahanvuoigatvuohta fátmmasta</title>
 
-      <p>3.1 <code>Teavsttaid</code> mat ožžot geavahanvuoigatvuođa, ja dain
-      ráhkaduvvo lista dán šiehtadusa 1. mildosii.</p>
+      <p>3.1 <code>Teavsttaid</code> mat ožžot geavahanvuoigatvuođa, čállojuvvojit listun dán šiehtadusa 1. mildosii.</p>
 
-      <p>3.2 dahkkivuoigatvuohta ja immateriála vuoigatvuohta dáidda
-      <code>teavsttaide</code> gullá<code>avgjevaren</code>.</p>
+      <p>3.2 Dahkkivuoigatvuohta ja immateriála vuoigatvuohta dáidda  <code>teavsttaide </code>gullá<code> teavsttaid addái</code>.</p>
 
-      <p>3.3 <code>Vuostáiváldi</code> oažžu njuolgga vuoigatvuođaid,
-      mávssakeahttá dain<code>?????</code>, bidjat <code>teavsttaid</code>
-      iežas<code>teakstačoakkáldahkii</code> Vai dán sáhttá dahkat, sáhttá
-      teavsttaid gieđahallat sihke manuálalaččat ja dihtoriin, muhto nu ahte
-      daid sisdoallu ii rievdda. <code>Teavsttaide</code>lea goittotge vejolaš
-      lasihit/bidjat <code>kodaid</code> mat dárbbašuvvojit dieđalaš
-      dutkamušain, dahje EDB-gieđahallamis, dego dieđuid cealkaga birra,
-      bihtáid, sátneluohkáid ja giela eará iešvuođaid dahje eará
-      klassifiseremiid birra.</p>
+      <p>3.3 <code>Vuostáiváldi</code> oažžu ii-eksklusiiva vuoigatvuođaid, mávssakeahttá <code>addái</code>, bidjat <code>teavsttaid</code> iežas <code>teakstačoakkáldahkii</code>. Vai dán sáhttá dahkat, de teavsttat soitet gieđahallojuvvot sihke manuálalaččat ja dihtoriin, muhto nu ahte daid sisdoallu ii rievdda. <code>Teavsttaide</code> lea goittotge vejolaš lasihit/bidjat <code>kodaid</code> mat dárbbašuvvojit dieđalaš dutkamušain, dahje EDB-gieđahallamis, dego dieđuid cealkaga birra, bihtáid, sátneluohkáid ja giela eará iešvuođaid dahje eará klassifiseremiid birra.</p>
 
-      <p>3.4 <code>Teavsttaid addit</code> eai oaččo dahkkivuoigatvuođaid
-      dahjege eará immateriála vuoigatvuođaid dutkanbohtosiidda mat ????
-      <code>teavsttaid</code>gieđahallama boađusin. <code>Avgjevarane</code>
-      birra goittotge muitaluvvo <code>teakstačoakkaldaid</code>gihppagiin ja
-      dokumentašuvnnain.</p>
+      <p>3.4 <code>Teavsttaid addit</code> eai oaččo dahkkivuoigatvuođaid dahjege eará immateriála vuoigatvuođaid <code>teavsttaid</code> gieđahallama dutkanbohtosiidda. <code>Teavsttaid addiid</code> birra goittotge muitaluvvo <code>teakstačoakkaldaid</code> gihppagiin ja dokumentašuvnnain.</p>
 
-      <p>3.5 <code>Vuostáiváldi</code> sáhttá vurket<code>teavsttaid</code>
-      iežas dihtorii ja/dahje bidjat teavsttaid olgguldas dihtorguovddážii.
-      <code>Vuostáiváldi</code> geatnegahttá iežas sihkkarastit ahte
-      <code>teavsttaid</code> dihtorsihkkarvuohta; ja eavttut ja
-      geatnegasvuođat, mat gullet dán šiehtadussii, ollašuvvet.</p>
+      <p>3.5 <code>Vuostáiváldi</code> sáhttá vurket <code>teavsttaid</code> iežas dihtorii ja/dahje bidjat teavsttaid olgguldas dihtorguovddážii. <code>Vuostáiváldi</code> geatnegahttá iežas sihkkarastit ahte <code>teavsttaid</code> dihtorsihkkarvuohta ja eavttut ja geatnegasvuođat, mat gullet dán šiehtadussii, ollašuvvet.</p>
 
-      <p>3.6 <code>Vuostáiváldis</code> ii leat vuoigatvuohta addit
-      <code>teavsttaid</code>, kopiijaid <code>teavsttain</code> dahje
-      geavahanvuoigatvuođaid <code>teavsttaide</code> goalmmát oassebeallái,
-      earret dan mii lea namuhuvvon 3.7. čuoggás. Jus
-      <code>vuostáiváldi</code> vurke<code>teavsttaid</code> olgguldas
-      dihtorguovddážii, mii lea namuhuvvon 3.5. čuoggás, lea dihtorguovddáža
-      bargiin vuoigatvuohta bidjat teavsttaid geavaheami várás, nu mot lea
-      namuhuvvon 2.1. čuoggás</p>
+      <p>3.6 <code>Vuostáiváldis</code> ii leat vuoigatvuohta addit <code>teavsttaid</code>, kopiijaid <code>teavsttain</code> dahje geavahanvuoigatvuođaid <code>teavsttaide</code> goalmmát oassebeallái, earret dan mii lea namuhuvvon 3.7. čuoggás. Jus <code>vuostáiváldi </code>vurke<code> teavsttaid </code> olgguldas dihtorguovddážii, mii lea namuhuvvon 3.5. čuoggás, lea dihtorguovddáža bargiin vuoigatvuohta ordnet teavsttaid geavaheami várás, nu mot lea namuhuvvon 2.1. čuoggás</p>
 
       <p>3.7 <code>Vuostáiváldi</code> sáhttá addit persovnnalaš
-      geavahanvuoigatvuođa <code>teakstačoakkaldagaide</code> olbmuide, geat
-      leat čállán vuollái šiehtadusa geavahanvuoigatvuođas 2. Mielddus.
-      <code>Vuostáiváldi</code> ii galgga addit geavahanvuoigatvuođa
-      <code>teakstačoakkáldagain</code> olbmuide, geaid navdá rihkkut
-      šiehtadusa eavttuid. <code>Vuostáiváldi</code> geatnegahttá iežas
-      dieđihit <code>avgjevar</code> ovttatmáno go son oažžu diehtit eavttuid
-      vejolaš rihkkumiid birra.</p>
+      geavahanvuoigatvuođa <code>teakstačoakkaldagaide</code> olbmuide, geat leat čállán vuollái šiehtadusa geavahanvuoigatvuođas 2. mielddus. <code>Vuostáiváldi</code> ii sáhte addit <code>teakstačoakkáldagaid</code> geavahanvuoigatvuođa olbmuide, geaid navdá rihkkut šiehtadusa eavttuid. <code>Vuostáiváldi</code> geatnegahttá iežas dieđihit <code>teavsttaid addiide</code> ovttatmáno go son oažžu diehtit eavttuid vejolaš rihkkumiid birra.</p>
 
-      <p>3.8 Geavahanvuoigatvuohta guoská vuoigatvuhtii geavahit
-      (oktiivástideaddjin dahkkivuoigatvuođa lágain ja njuolggadusain ja buori
-      dieđalaš vieruin):</p>
+      <p>3.8 Geavahanvuoigatvuohta guoská vuoigatvuhtii geavahit (oktiivástideaddjin dahkkivuoigatvuođa lágain ja njuolggadusain ja buori dieđalaš vieruin):</p>
 
       <ul>
         <li>teavsttaid dieđalaš dutkamii,</li>
 
-        <li>daid giela iešvuođaid (ee. statisttlaš dieđuid, giellaoahpalaš
-        njuolggadusaid ja sáni semantihkalaš erohusaid) mat leat boahtán ovdan
-        teavsttaid guorahaladettiin,</li>
+        <li>daid giela iešvuođaid (ee. statistalaš dieđuid, giellaoahpalaš njuolggadusaid ja sáni semantihkalaš erohusaid) mat leat boahtán ovdan teavsttaid guorahaladettiin,</li>
 
         <li>oanehis ovdamearkasitáhtaid teavsttain ja </li>
 
-        <li>teavsttaid kommersiála ja ii-kommersiála giellateknologalaš dahje
-        vástideaddji ulbmiliidda, mat eai rihkko
-        dahkkivuoigatvuođalágaid.</li>
+        <li>teavsttaid kommersiála ja ii-kommersiála giellateknologalaš dahje vástideaddji ulbmiliidda, mat eai rihkko dahkkivuoigatvuođalágaid.</li>
       </ul>
 
-      <p>3.9 <code>Vuostáiváldi</code> geatnegahttá iežas čuovvut dakkár
-      teakstagieđahallanprinsihpaid ahte dihtorsihkkarvuohta ja -suddjen
-      ollašuvvet.</p>
+      <p>3.9 <code>Vuostáiváldi</code> geatnegahttá iežas čuovvut dakkár teakstagieđahallanprinsihpaid nu ahte dihtorsihkkarvuohta ja -suddjen ollašuvvet.</p>
 
-      <p>3.10 <code>Vuostáiváldi</code>fállá hábmet ovtta veršuvnna
-      gieđahallojuvvon ja kodejuvvon teavsttain. mat leat biddjon
-      teakstačoakkáldahkii, attende til <code>avgjevaren</code>.</p>
+      <p>3.10 <code>Vuostáiváldi</code>fállá addit ovtta veršuvnna  gieđahallojuvvon ja kodejuvvon teavsttain. mat leat biddjon teakstačoakkáldahkii, ruovttoluotta <code>teavsttaid addái</code>.</p>
 
-      <p>3.11 Dát šiehtadus gusto go buot oassebealit leat vuolláičállán
-      dan.</p>
+      <p>3.11 Dát šiehtadus gusto go buot oassebealit leat vuolláičállán dan.</p>
 
-      <p>3.12 <code>Vuostáiváldi</code> sáhttá cealkit eret šiehtadusa ja
-      sáddet ruovttoluotta <code>teavsttaid</code> buot kopiijaiguin attende
-      til <code>avgjevaren</code>, dahje sihkkut eret <code>teavsttaid</code>
-      buot kopiijaiguin, ja dieđihit dán birra áššálaččat
-      <code>avgjevaren</code>. <code>Avgjevaren</code> lea vuoigatvuohta
-      cealkit eret dán šiehtadusa jus <code>vuostáiváldi</code>mearkašahtti
-      vugiin rihkku dán šiehtadusa eavttuid iige njulge iežas eaktorihkkumuša
-      fuolakeahttá čálalaš cuiggodemiin, 60 beaivvi siste maŋŋel go lea
-      cuiggoduvvon.</p>
+      <p>3.12 <code>Vuostáiváldi</code> sáhttá cealkit eret šiehtadusa ja máhcahit <code>teavsttaid</code> oktan kopiijaiguin <code>teavsttaid addái</code>, dahje sihkkut eret <code>teavsttaid</code> oktan kopiijaiguin, ja dieđihit dán birra áššálaččat <code>teavsttaid addái</code>. <code>Teavsttaid addis</code> lea vuoigatvuohta cealkit eret dán šiehtadusa jus <code>vuostáiváldi</code> mealgadit rihkku dán šiehtadusa eavttuid iige njulge iežas eaktorihkkumuša fuolakeahttá čálalaš cuiggodemiin, 60 beaivvi siste maŋŋel go lea cuiggoduvvon.</p>
 
-      <p>3.13 vejolaš usemje dán šiehtadusa oktavuođas galget oassebealit
-      geahččalit šiehtadallat.</p>
+      <p>3.13 vejolaš soahpameahttunvuođa dán šiehtadusa oktavuođas galget oassebealit geahččalit šiehtadallat.</p>
 
-      <p>3.14 Juohke šiehtadusoassebealis galgá leat okta gáhppálat dán
-      šiehtadusas.</p>
+      <p>3.14 Juohke šiehtadusoassebealis galgá leat okta gáhppálat dán šiehtadusas.</p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
     </section>
 
     <section>
@@ -242,7 +200,7 @@
 
       <table>
         <tr>
-          <th>Avgjevarar</th>
+          <th>Teavsttaid addi</th>
 
           <th>Vuostáiváldi</th>
         </tr>
@@ -262,22 +220,22 @@
         <tr>
           <td>Báiki ja áigi:</td>
 
+<!--           <td>Báiki ja áigi:</td> -->
+        </tr>
+
+        <tr>
+          <td>Vuolláičála:</td>
+
+<!--           <td>Vuolláičála:</td> -->
+        </tr>
+
+        <!--<tr>
           <td>Báiki ja áigi:</td>
         </tr>
 
         <tr>
           <td>Vuolláičála:</td>
-
-          <td>Vuolláičála:</td>
-        </tr>
-
-        <tr>
-          <td>Báiki ja áigi:</td>
-        </tr>
-
-        <tr>
-          <td>Vuolláičála:</td>
-        </tr>
+        </tr>-->
       </table>
     </section>
 
@@ -286,7 +244,7 @@
 
       <p>1. mielddus: Teavsttat maid dát šiehtadus gusto</p>
 
-      <p>2. mielddus :Geavahanvuoigatvuohta teakstačohkkemiidda</p>
+      <p>2. mielddus: Geavahanvuoigatvuohta teakstačoakkáldahkii</p>
     </section>
   </body>
 </document>

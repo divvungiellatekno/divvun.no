@@ -18,6 +18,7 @@
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 xmlns:fo="http://www.w3.org/1999/XSL/Format"
+                xmlns:i18n="http://apache.org/cocoon/i18n/2.1"
                 version="1.0">
 
   <!-- left, justify, right -->
@@ -283,6 +284,7 @@
 
     <fo:static-content flow-name="even-header">
       <fo:block
+        font-family="duravusans"
         font-size="70%"
         text-align="end"
         font-style="italic">
@@ -305,6 +307,7 @@
 
     <fo:static-content flow-name="odd-header">
       <fo:block
+        font-family="duravusans"
         font-size="70%"
         text-align="start"
         font-style="italic">
@@ -331,6 +334,7 @@
         padding-after="24pt"
         font-size="24pt"
         font-weight="bold"
+        font-family="duravusans"
         id="{generate-id()}">
 
         <xsl:value-of select="header/title"/>
@@ -356,7 +360,7 @@
       space-before="20pt"
       space-after="25pt"
       width="7.5in"
-      font-family="serif"
+      font-family="duravuserif"
       font-style="italic">
       <xsl:call-template name="insertPageBreaks"/>
       <xsl:apply-templates/>
@@ -369,14 +373,14 @@
       text-align="left"
       space-before="20pt"
       width="7.5in"
-      font-family="serif"
+      font-family="duravuserif"
       border-top="0.25pt solid"
       border-bottom="0.25pt solid"
       padding-before="6pt"
       padding-after="6pt">
       <xsl:call-template name="insertPageBreaks"/>
       <!-- insert i18n stuff here -->
-      NOTICE: <xsl:apply-templates/>
+      <i18n:text catalogue="messages">NOTICE:</i18n:text> <xsl:apply-templates/>
     </fo:block>
   </xsl:template>
 
@@ -399,7 +403,7 @@
     <xsl:variable name="heading-type" select="//skinconfig/headings/@type"/>
 
     <fo:block
-      font-family="serif"
+      font-family="duravusans"
       font-size="{$size}pt"
       font-weight="bold"
       space-before="12pt"
@@ -441,7 +445,7 @@
       <!-- The non-breaking space in this block is required, otherwise
       the block won't be rendered at all. --> 
       <fo:block
-        font-family="serif"
+        font-family="duravusans"
         font-size="{10 div (number($level) +1 )}pt"
         background-color="{$heading-color}">&#160;</fo:block>
     </xsl:if>
@@ -462,6 +466,7 @@
     <xsl:variable name="size" select="16-(number($level)*1.5)"/>
 
     <fo:block
+      font-family="duravusans"
       font-weight="bold"
       font-size="{$size}pt">
       <xsl:call-template name="insertPageBreaks"/>
@@ -472,11 +477,12 @@
   <xsl:template match="authors">
     <fo:block
       space-before="20pt"
+      font-family="duravuserifcondensed"
       font-weight="bold"
       font-size="9pt">
       <xsl:call-template name="insertPageBreaks"/>
       <!-- insert i18n stuff here -->
-      by
+      <i18n:text catalogue="messages">by</i18n:text>
       <xsl:for-each select="person">
         <xsl:value-of select="@name"/>
         <xsl:if test="not(position() = last())">, </xsl:if>
@@ -489,7 +495,7 @@
       <xsl:when test="ancestor::li and not(preceding-sibling::*)">
         <fo:block
           space-after="4pt"
-          font-family="serif">
+          font-family="duravuserifcondensed">
           <xsl:call-template name="insertPageBreaks"/>
           <xsl:apply-templates/>
         </fo:block>
@@ -498,7 +504,7 @@
         <fo:block
           space-before="4pt"
           space-after="4pt"
-          font-family="serif">
+          font-family="duravuserifcondensed">
           <xsl:call-template name="insertPageBreaks"/>
           <xsl:apply-templates/>
         </fo:block>
@@ -509,7 +515,6 @@
   <xsl:template match="source">
     <xsl:variable name="color" select="//skinconfig/colors/color[@name='code']/@value"/>
     <fo:block
-      font-family="monospace"
       font-size="10pt"
       background-color="{$color}"
       white-space-collapse="false"
@@ -546,7 +551,7 @@
       <fo:list-item-body
         start-indent="body-start()">
         <fo:block
-          font-family="serif">
+          font-family="duravuserifcondensed">
           <xsl:apply-templates/>
         </fo:block>
       </fo:list-item-body>
@@ -561,7 +566,7 @@
         <fo:block></fo:block>
       </fo:list-item-label>
       <fo:list-item-body start-indent="body-start()">
-        <fo:block font-family="serif">
+        <fo:block font-family="duravuserifcondensed">
           <xsl:apply-templates/>
         </fo:block>
       </fo:list-item-body>
@@ -578,7 +583,7 @@
       </fo:list-item-label>
       <fo:list-item-body start-indent="body-start()">
         <fo:block
-          font-family="serif">
+          font-family="duravuserifcondensed">
           <xsl:apply-templates/>
         </fo:block>
       </fo:list-item-body>
@@ -589,7 +594,8 @@
     <fo:list-block
       provisional-distance-between-starts="18pt"
       provisional-label-separation="3pt"
-      text-align="start">
+      text-align="start"
+      >
       <xsl:apply-templates/>
     </fo:list-block>
   </xsl:template>
@@ -601,6 +607,7 @@
       </fo:list-item-label>
       <fo:list-item-body start-indent="body-start()">
         <fo:block
+          font-family="duravusans"
           font-weight="bold">
           <xsl:apply-templates/>
         </fo:block>
@@ -614,7 +621,7 @@
         <fo:block></fo:block>
       </fo:list-item-label>
       <fo:list-item-body start-indent="body-start()">
-        <fo:block>
+        <fo:block font-family="duravuserifcondensed">
           <xsl:apply-templates/>
         </fo:block>
       </fo:list-item-body>
@@ -622,15 +629,22 @@
   </xsl:template>
 
   <xsl:template match="strong">
-    <fo:inline font-weight="bold"><xsl:apply-templates/></fo:inline>
+    <fo:inline 
+        font-weight="bold"
+        font-family="duravuserifcondensed">
+        <xsl:apply-templates/>
+        </fo:inline>
   </xsl:template>
 
   <xsl:template match="em">
-    <fo:inline font-style="italic"><xsl:apply-templates/></fo:inline>
+    <fo:inline
+        font-family="duravuserifcondensed"
+        font-style="italic"><xsl:apply-templates/>
+    </fo:inline>
   </xsl:template>
 
   <xsl:template match="code">
-    <fo:inline font-family="monospace"><xsl:apply-templates/></fo:inline>
+    <fo:inline font-family="duravusanscondensed"><xsl:apply-templates/></fo:inline>
   </xsl:template>
 
   <xsl:template match="warning">
@@ -640,7 +654,7 @@
       margin-right="0.25in"
       font-weight="bold"
       font-size="10pt"
-      font-family="serif"
+      font-family="duravusanscondensed"
       space-before="10pt"
       border-before-style="solid"
       border-start-style="solid"
@@ -657,7 +671,7 @@
     <fo:block
       margin-left="0.25in"
       margin-right="0.25in"
-      font-family="serif"
+      font-family="duravuserifcondensed"
       font-size="8pt"
       border-after-style="solid"
       border-start-style="solid"
@@ -681,7 +695,7 @@
       font-weight="bold"
       font-size="10pt"
       color="#ffffff"
-      font-family="serif"
+      font-family="duravuserifcondensed"
       space-before="10pt"
       border-before-style="solid"
       border-start-style="solid"
@@ -692,13 +706,13 @@
       <xsl:choose>
         <xsl:when test="@label"><xsl:value-of select="@label"/></xsl:when>
         <!-- insert i18n stuff here -->
-        <xsl:otherwise>Note: </xsl:otherwise>
+        <xsl:otherwise><i18n:text catalogue="messages">Note:</i18n:text> </xsl:otherwise>
       </xsl:choose><xsl:value-of select="title"/>
     </fo:block>
     <fo:block
       margin-left="0.25in"
       margin-right="0.25in"
-      font-family="serif"
+      font-family="duravusans"
       font-size="8pt"
       space-after="10pt"
       border-after-style="solid"
@@ -722,7 +736,7 @@
       font-weight="bold"
       font-size="10pt"
       color="#FFFFFF"
-      font-family="serif"
+      font-family="duravuserifcondensed"
       space-before="10pt"
       border-before-style="solid"
       border-start-style="solid"
@@ -731,12 +745,12 @@
       background-color="{$color}">
       <xsl:call-template name="insertPageBreaks"/>
       <!-- insert i18n stuff here -->
-      FIXME (<xsl:value-of select="@author"/>): <xsl:value-of select="title"/>
+      <i18n:text catalogue="messages">FIXME</i18n:text> (<xsl:value-of select="@author"/>): <xsl:value-of select="title"/>
     </fo:block>
     <fo:block
       margin-left="0.25in"
       margin-right="0.25in"
-      font-family="serif"
+      font-family="duravusans"
       font-size="8pt"
       space-after="10pt"
       border-after-style="solid"
@@ -845,7 +859,7 @@
 
       <fo:table-body
         font-size="10pt"
-        font-family="sans-serif">
+        font-family="duravuserifcondensed">
         <xsl:apply-templates select="tr"/>
       </fo:table-body>
     </fo:table>
@@ -855,9 +869,10 @@
     <xsl:if test="caption">
       <fo:block
         text-align="center"
-        font-weight="bold">
+        font-weight="bold"
+        font-family="duravusanscondensed">
         <!-- insert i18n stuff here -->
-        Table
+        <i18n:text catalogue="messages">Table</i18n:text>
         <xsl:text> </xsl:text>
         <xsl:number count="table" level="multiple"/>
         <xsl:text>: </xsl:text>
@@ -924,6 +939,7 @@
 
   <xsl:template match="legal">
     <fo:inline
+      font-family="duravuserif"
       font-size="8pt">
       <xsl:apply-templates/>
     </fo:inline>
@@ -931,13 +947,13 @@
 
   <xsl:template match="body[count(//section) != 0]">
     <xsl:if test="$toc-max-depth > 0">
-      <fo:block font-family="serif" font-size="14pt" font-weight="bold"
+      <fo:block font-family="duravuserifcondensed" font-size="14pt" font-weight="bold"
       space-after="5pt" space-before="5pt" text-align="justify" width="7.5in">
       <xsl:call-template name="insertPageBreaks"/>
         <!-- insert i18n stuff here -->
-        <xsl:text>Table of contents</xsl:text>
+        <i18n:text catalogue="messages">Table of contents</i18n:text>
       </fo:block>
-      <fo:block font-family="sans" font-size="12pt" space-after="5pt"
+      <fo:block font-family="duravusanscondensed" font-size="12pt" space-after="5pt"
       space-before="0pt" text-align="justify" width="7.5in">
           <xsl:if test="$page-break-top-sections">
             <xsl:attribute name="break-after">page</xsl:attribute>
@@ -1033,9 +1049,29 @@
      
      <!-- if 'page-numbering-format' contains 1 digits, the page number is displayed in the footer -->
      <xsl:if test="contains($page-numbering-format,'1')">
-       <fo:block font-size="70%" text-align="{$text-align}">
+       <fo:block font-family="duravusans" font-size="70%" text-align="{$text-align}">
           <!-- if the separator is not found, the total page number is skipped -->
-          <xsl:value-of select="$prefixe"/><fo:page-number/><xsl:if test="$sep != ''"><xsl:value-of select="$sep"/><fo:page-number-citation ref-id="term"/></xsl:if><xsl:value-of select="$postfixe"/>
+          <xsl:choose>
+            <xsl:when test="$sep != ''">
+            <!-- insert i18n stuff here - make sure the translation key matches your skinconf string! -->
+            <!-- This is the variant *including* the separator. Default key: 'Page 1 of 1' -->
+              <i18n:translate>
+                <i18n:text catalogue="messages"><xsl:value-of select="$page-numbering-format"/></i18n:text>
+                <i18n:param><fo:page-number/></i18n:param>
+                <i18n:param><fo:page-number-citation ref-id="term"/></i18n:param>
+              </i18n:translate>
+            </xsl:when>
+            <xsl:otherwise>
+            <!-- insert i18n stuff here - make sure the translation key matches your skinconf string! -->
+            <!-- This is the variant *excluding* the separator. Default key: 'Page 1' -->
+              <i18n:translate>
+                <i18n:text catalogue="messages"><xsl:value-of select="$page-numbering-format"/></i18n:text>
+                <i18n:param><fo:page-number/></i18n:param>
+              </i18n:translate>
+            </xsl:otherwise>
+            <!-- The original XSL, for future reference: -->
+            <!--xsl:value-of select="$prefixe"/><fo:page-number/><xsl:if test="$sep != ''"><xsl:value-of select="$sep"/><fo:page-number-citation ref-id="term"/></xsl:if><xsl:value-of select="$postfixe"/-->
+          </xsl:choose>
       </fo:block>
     </xsl:if>
  </xsl:template>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nb">
+  <header>
+    <title>Divvun - samiske korrekturverktøy</title>
+	<authors>
+	  <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
+	</authors>
+    </header>
+    <body>
+      <section>
+        <title>Hva er Divvun?</title>
+        <p>
+          Divvun er et prosjekt under det norske Sametinget for å lage
+          retteprogram for samisk. I første omgang betyr det stavekontroll og
+          orddeling for nordsamisk, og stavekontroll for lulesamisk - 
+          bakgrunnen for denne prioriteringa kan du lese mere om 
+          <a href="sma-background.html">her</a>.
+          Verktøyene skal fungere på Windows, Linux og Mac i de vanligste
+          kontorprogrammene.
+        </p>
+      </section>
+      <section>
+        <title>Bakgrunn</title>
+        <p>
+          Prosjektet ble først planlagt og deretter igangsatt etter et ønske 
+          fra Sametinget om å gi samisktalende og andre som ønsker å skrive
+          samisk de samme verktøyene som norskspråklige. Dette er særlig viktig
+          etter som det er mange samisktalende som ikke har lært å skrive
+          samisk. Prosjektet er dermed en del av en strategi for å styrke samisk
+          språk, og å øke bruken av samisk som skriftspråk.
+        </p>
+        <p>
+          Prosjektet er finansiert av <em>Sametinget</em>, og <em>Kommunal- og
+          regionaldepartementet</em>, <em>Undervisnings- og
+          forskningsdepartementet</em> og <em>Kultur- og
+          kirkedepartementet</em>, og de ferdige programmene vil være
+          tilgjengelig for alle som skriver samisk. 
+        </p>
+        <p>
+          Vi satser på å lage retteprogram som er tilpasset samisk slik det
+          blir brukt både i Norge, Sverige og Finland. I og med at prosjektet
+          blir gjennomført som et rent norsk prosjekt, kan det hende at de
+          ferdige programmene vil bære preg av det, men vi vil aktivt gå inn for
+          å lage programmene slik at de skal kunne brukes av alle, og
+          vil bli brukt av alle.
+        </p>
+      </section>
+      <section>
+        <title>Organisering</title>
+        <p>
+          Prosjektet er lagt under Sametingets språkavdeling. Det har et eget
+          prosjektstyre med medlemmer fra Sametinget, departementene og
+          Universitetet i Tromsø.
+        </p>
+        <section>
+          <title>Prosjektstyre</title>
+          <dl>
+            <dt>Julie Eira</dt>
+            <dd>Styreleder, representerer Sametinget</dd>
+            <dt>Per Edvard Klemetsen</dt>
+            <dd>Representerer Sametinget</dd>
+            <dt>Eirik Liland</dt>
+            <dd>Representerer Universitetet i Tromsø</dd>
+            <dt>Bjørn Olav Megard</dt>
+            <dd>Representerer kommunal- og regionaldepartementet</dd>
+            <dt>Øystein Johannessen</dt>
+            <dd>Varamedlem, representerer undervisnings- og forskningsdepartementet</dd>
+            <dt>Sjur N. Moshagen</dt>
+            <dd>
+              … er ikke styremedlem, men er bestandig med på møtene, og
+              representerer Divvun-prosjektet
+            </dd>
+          </dl>
+        </section>
+        <section>
+          <title>Prosjektarbeidere</title>
+          <dl>
+            <dt>Sjur N. Moshagen</dt> 
+            <dd>Prosjektleder, sjur punkt moshagen ved samediggi punkt no</dd>
+            <dt>Børre Gaup</dt>
+            <dd>Prosjektmedarbeider, borre punkt gaup ved samediggi punkt no</dd>
+            <dt>Thomas Omma</dt>
+            <dd>Lingvist, thomas punkt omma ved samediggi punkt no</dd>
+            <dt>Maaren Palismaa</dt>
+            <dd>Lingvist, maren punkt palismaa ved samediggi punkt no</dd>
+            <dt>Tomi Pieski</dt>
+            <dd>Programmerer, tomi punkt pieski ved samediggi punkt no</dd>
+          </dl>
+        </section>
+        <p>
+          Prosjektet bygger på arbeid ved Universitetet i Tromsø, og har et
+          nært og daglig samarbeid med det språkteknologiske miljøet der, så
+          nært at vi har det meste av infrastrukturen felles (se under fliken
+          "<a href="http://giellatekno.uit.no">Samisk disamb.</a>" over).
+        </p>
+      </section>
+      <section>
+        <title>Ferdige korrekturverktøy</title>
+        <p>
+          Når prosjektet er ferdig i september 2007, vil de ferdige
+          korrekturverktøyene være gratis tilgjengelige på prosjektets
+          hjemmeside i form av installasjonsprogram som enkelt installerer
+          verktøyene på datamaskinen. Verktøyene vil fungere på samme måten som
+          tilsvarende verktøy for andre språk. Sametinget og Universitetet i
+          Tromsø vil beholde rettene til det meste av programmene, men tillater
+          at alle interesserte kan bruke både programmene og kildekoden deres
+          vederlagsfritt (tilgang til kildekoden gjelder ikke deler som er
+          proprietære).
+        </p>
+        <p>
+          Den nøyaktige listen over ferdige program var ved prosjektstart:
+        </p>
+        <table>
+          <caption>Tabell over planlagte produkt</caption>
+          <tr>
+            <th>Program/OS</th>
+            <th>Stavekontroll</th>
+            <th>Orddeling</th>
+          </tr>
+          <tr>
+            <td>MS Office/Win</td>
+            <td>x</td>
+            <td>x</td>
+          </tr>
+          <tr>
+            <td>MS Office/Mac</td>
+            <td>x</td>
+            <td>x</td>
+          </tr>
+          <tr>
+            <td>OpenOffice/Win</td>
+            <td>x</td>
+            <td>?</td>
+          </tr>
+          <tr>
+            <td>OpenOffice/Mac</td>
+            <td>x</td>
+            <td>?</td>
+          </tr>
+          <tr>
+            <td>OpenOffice/Linux</td>
+            <td>x</td>
+            <td>?</td>
+          </tr>
+          <tr>
+            <td>InDesign CS</td>
+            <td>-</td>
+            <td>x</td>
+          </tr>
+          <tr>
+            <td>Aspell (Win/Mac/Linux)</td>
+            <td>x</td>
+            <td></td>
+          </tr>
+        </table>
+        <p>
+          Denne listen kan komme til å justeres noe under prosjektets gang, men
+          store forandringer vil det sannsynligvis ikke bli.
+        </p>
+        <p>
+          Prosjektet vil tilby tidlige testversjoner (såkalte alfa- og
+          betaversjoner) for interesserte brukere (betatestere). Vi vil etter
+          hvert som første testversjon blir tilgjengelig legge ut mere
+          informasjon om testing og bruk. En mere detaljert plan med viktige
+          milepæler for de ulike versjonene finnes <a
+          href="timetable.html">her</a>, og litt flere detaljer om hvordan
+          arbeidet gjøres finner du <a href="howmake.html">her</a>. Se
+          forøvrig det siste avsnittet med nyttige lenker.
+        </p>
+      </section>
+      <section>
+        <title>Prosjektets språkpolitikk</title>
+        <p>
+          Prosjektet er flerspråklig, og det vil også gjelde dokumentasjonen vi
+          produserer, jf <a href="lang-policy.html">prosjektets
+          språkpolitikk</a>.
+        </p>
+        <p>
+          Prosjektet har ingen egen politikk for normeringen av samiske
+          skriftspråk, og vil følge alle vedtak fra de samiske språknormerende
+          organ. I tilfeller der vi mener normeringen er uklar, vil vi be om en
+          klargjøring fra disse organene.
+        </p>
+      </section>
+      <section>
+        <title>Nyttige lenker</title>
+        <ul>
+          <li>
+            <a href="mailto:divvun ved samediggi punkt no">E-post til prosjektet</a>
+          </li>
+          <li>
+            <a href="http://aspell.sourceforge.net/">Aspell</a>
+          </li>
+          <li>
+            <a href="http://www.openoffice.org/">OpenOffice</a>
+          </li>
+          <li>
+            <a href="http://www.xrce.xerox.com/competencies/content-analysis/fst/">
+              Xerox FST-verktøy</a>
+          </li>
+        </ul>
+        <p class="last_modified">
+          Siste endring: $Date$, by $Author$
+        </p>
+      </section>
+    </body>
+</document>

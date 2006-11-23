@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="nno">
+<document xml:lang="nn">
   <header>
     <title>Framdriftsrapport for Divvun</title>
 
@@ -63,7 +63,7 @@
         til å laga ein avstavingsmodul som gjev alle potensielle
         orddelingspunkt i samiske ord. Det står enno att litt arbeid før
         orddelinga er heilt korrekt, men alt no er det mogleg å dela ord på <a
-        href="http://giellatekno.uit.no/d-sme.se.html">ei av sidene til
+        href="http://giellatekno.uit.no/d-sme.sme.html">ei av sidene til
         Universitetsprosjektet</a>. Med dette arbeidet kan vi no anten pakka
         inn vår eigen språkteknologi til ein ferdig orddelar, eller vi kan
         generera data som andre kan bruka til å laga ein eigen orddelar ut i

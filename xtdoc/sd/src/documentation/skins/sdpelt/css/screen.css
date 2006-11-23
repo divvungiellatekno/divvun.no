@@ -14,7 +14,7 @@
 * See the License for the specific language governing permissions and
 * limitations under the License.
 */
-body {  margin: 0px 0px 0px 0px; font-family: "Luxi Sans", Verdana, Helvetica, sans-serif; }
+body {  margin: 0px 0px 0px 0px; font-family: "DejaVu Sans Condensed", Verdana, Helvetica, sans-serif; }
 
 h1     { font-size : 160%; margin: 0px 0px 0px 0px;  padding: 0px; }
 h2     { font-size : 140%; margin: 1em 0px 0.8em 0px; padding: 0px; font-weight : bold;}
@@ -25,7 +25,6 @@ h4     { font-size : 120%; margin: 0.7em 0px 0px 0px; padding: 0px; font-weight 
 h4.faq { font-size : 120%; margin: 18px 0px 0px 0px; padding: 0px; font-weight : bold;   text-align: left; }
 h5     { font-size : 100%; margin: 14px 0px 0px 0px; padding: 0px; font-weight : normal; text-align: left; }
 
-p,li,dt,dd  { font-family: "Luxi Sans", sans-serif; }
 /**
 * table
 */
@@ -142,7 +141,7 @@ html>body #top .searchbox {
 #tabs li a {
     float: left;
     display: block;
-    font-family: "Luxi Sans", verdana, arial, sans-serif;
+    font-family: verdana, arial, sans-serif;
     text-decoration: none;
     color: black;
     white-space: nowrap;

@@ -43,7 +43,7 @@ with @role='pdf' is present, that is used instead.  Eg:
     </xsl:variable>
     <xsl:variable name="url" select="$pdfcredit/url"/>
 
-    <fo:block-container font-style="italic" absolute-position="absolute"
+    <fo:block-container font-family="duravusanscondensed" font-style="italic" absolute-position="absolute"
       left="0pt" top="0pt" right="6.25in" bottom="150pt"
       font-size="10pt">
       <xsl:if test="not($url)">

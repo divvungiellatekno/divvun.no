@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<catalogue xml:lang="en">
+  <message key="Davvisámegiella">Home</message>
+  <message key="Álgosiidu">Start page</message>
+  <message key="Giellapolitihkka">Language policy</message>
+  <message key="Prošeavtta plánat">Project plans</message>
+  <message key="Mo reaiddut ráhkaduvvojit">How the tools are made</message>
+  <message key="Máttasámegiella">South sami</message>
+  <message key="Preassadieđáhusat">Press releases</message>
+  <message key="Sáddes fiillaid midjiide">Send us files</message>
+  <message key="Administration">Administration</message>
+  <message key="Index">Index</message>
+  <message key="Legal">Legal</message>
+  <message key="Overview">Overview</message>
+  <message key="Oslo contract">The Oslo contract</message>
+  <message key="Helsinki, 1. Contract">1. part, Helsinki</message>
+  <message key="Helsinki, 2. Contract">2. part, Helsinki</message>
+  <message key="Helsinki, 3. Contract">3. part, Helsinki</message>
+  <message key="SD Contract, 1. part">1. part, the Sami Parliament</message>
+  <message key="SD Contract, 2. part">2. part, the Sami Parliament</message>
+  <message key="SD Contract, 3. part">3. part, the Sami Parliament</message>
+  <message key="Outsourcing">Outsourcing</message>
+  <message key="Overview">Overview</message>
+  <message key="Qualification Criterias">Qualification criterias</message>
+  <message key="Selection Criterias">Selection criterias</message>
+  <message key="Deliverables">Deliverables</message>
+  <message key="Requirements Specification">Requirements specification</message>
+  <message key="Styringsgruppa">Board</message>
+  <message key="Oversikt">Overview</message>
+  <message key="1. halvårsrapport">First half yearly report</message>
+  <message key="Permanent driftsorganisasjon">Permanent maintenance organisation</message>
+  <message key="Sørsamisk stavekontroll">South sami spellchecker</message>
+  <message key="Møte">Meetings</message>
+  <message key="4. 10. 2005">4. october 2005</message>
+  <message key="Monthly reports">Monthly reports</message>
+  <message key="Mar '06">Mar. '06</message>
+  <message key="Feb '06">Feb. '06</message>
+  <message key="Jan '06">Jan. '06</message>
+  <message key="Dec '05">Dec. '05</message>
+  <message key="Nov '05">Nov. '05</message>
+  <message key="Oct '05">Oct. '05</message>
+  <message key="Sep '05">Sep. '05</message>
+  <message key="Aug '05">Aug. '05</message>
+  <message key="Jul '05">Jul. '05</message>
+  <message key="May '05">May '05</message>
+  <message key="Apr '05">Apr. '05</message>
+  <message key="Mar '05">Mar. '05</message>
+  <message key="Feb '05">Feb. '05</message>
+  <message key="Jan '05">Jan. '05</message>
+  <message key="Oct-Dec '04">Oct.-Dec. '04</message>
+  <message key="Cooperation with UiT">Cooperation with UiTø</message>
+  <message key="Cooperation meeting 3.10.2005">Cooperation meeting 3.10.2005</message>
+</catalogue>

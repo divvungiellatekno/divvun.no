@@ -83,12 +83,12 @@ img { border: 0; }
  */
 
 body {
-  font-family: verdana, "Trebuchet MS", arial, helvetica, sans-serif;
+  font-family: "DejaVu Sans Condensed", verdana, "Trebuchet MS", arial, helvetica, sans-serif;
   font-size: 100%;
 }
 
 #content {
-  font-family: Georgia, Palatino, Times, serif;
+  font-family: "DejaVu Serif Condensed", Georgia, Palatino, Times, serif;
   font-size: 95%;
 }
 #tabs {
@@ -101,8 +101,12 @@ body {
   font-size: 70%;
 }
 
+p, li, dl { font-family: "DejaVu Serif Condensed", Georgia, Palatino, Times, serif;
+  font-size: 95%;
+}
+
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Trebuchet MS", verdana, arial, helvetica, sans-serif;
+  font-family: "DejaVu Sans Condensed", "Trebuchet MS", verdana, arial, helvetica, sans-serif;
   font-weight: bold;
   margin-top: 1em;
   margin-bottom: .5em;

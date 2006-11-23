@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  Copyright 2002-2004 The Apache Software Foundation
-
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
 
       http://www.apache.org/licenses/LICENSE-2.0
 
@@ -15,22 +16,17 @@
   limitations under the License.
 -->
 <catalogue xml:lang="en">
-  <message key="en">English</message>
-  <message key="es">Spanish</message>
-  <message key="nl">Dutch</message>
-
-  <message key="sme">North Sámi</message>
-  <message key="se" >North Sámi</message>
-  <message key="smj">Lule Sámi</message>
-  <message key="sma">South Sámi</message>
-  <message key="nor">Norwegian</message>
-  <message key="no" >Norwegian</message>
-  <message key="nob">Norwegian Bokmål</message>
-  <message key="nb" >Norwegian Bokmål</message>
-  <message key="nno">Norwegian Nynorsk</message>
-  <message key="nn" >Norwegian Nynorsk</message>
-  <message key="swe">Swedish</message>
-  <message key="sv" >Swedish</message>
-  <message key="fin">Finnish</message>
-  <message key="fi" >Finnish</message>
+  <message key="en" >This page in English</message>
+  <message key="es" >This page in Spanish</message>
+  <message key="nl" >This page in Dutch</message>
+  <message key="de" >This page in German</message>
+  <message key="fr" >This page in French</message>
+  <message key="se" >This page in North Sámi</message>
+  <message key="nb" >This page in Norwegian (bm)</message>
+  <message key="nn" >This page in Norwegian (nn)</message>
+  <message key="no" >This page in Norwegian</message>
+  <message key="sv" >This page in Swedish</message>
+  <message key="fi" >This page in Finnish</message>
+  <message key="smj">This page in Lule Sámi</message>
+  <message key="sma">This page in South Sámi</message>
 </catalogue>

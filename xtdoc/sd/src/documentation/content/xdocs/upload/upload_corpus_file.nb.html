@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+                      "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+                      
+<html>
+  <head>
+<!-- <script language="JavaScript" src="/pelt/validate.js"/>  -->
+
+	 <title>Send oss korpusfiler</title>
+  </head>
+  
+  <body>
+
+    <h1>Velg fil, språk og lisens</h1>
+
+ <form  ACTION="http://sami-cgi-bin.uit.no/cgi-bin/smi/upload.cgi"
+    		 METHOD="post" ENCTYPE="multipart/form-data">
+<table>
+<tr><td>Fil som skal sendes inn: </td><td><INPUT TYPE="file"
+NAME="document"></td></tr>
+<tr><td>Hovedspråk: </td><td>
+    <select name="mainlang">
+    <option value="sme">Nordsamisk</option>
+    <option value="smj">Lulesamisk</option>
+    <option value="sma">Sørsamisk</option>
+    <option value="nno">Nynorsk</option>
+    <option value="nob">Bokmål</option>
+    <option value="fin">Finsk</option>
+    <option value="swe">Svensk</option>
+    <option value="eng">Engelsk</option>
+    <option value="oth">annet</option>
+    </select></td>
+</tr>
+<tr><td>Lisens: </td><td>
+    <select name="license_type">
+    <option value="free">Fri</option>
+    <option value="standard">Standard</option>
+    <option value="other">Annen</option>
+    </select>
+</td></tr>
+</table>
+<br/>
+ <INPUT TYPE="submit" NAME="Submit" VALUE="Send inn fil" > 
+    </form>
+
+<p>Send tilbakemeldinger og spørsmål til: <a
+href="mailto:corpus@giellatekno.uit.no?subject=Feedback%C2%A0upload.cg\
+i">corpus@giellatekno.uit.no</mail></p>
+
+  </body>
+</html>

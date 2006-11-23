@@ -1,10 +1,11 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
-  Copyright 2002-2004 The Apache Software Foundation
-
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
 
       http://www.apache.org/licenses/LICENSE-2.0
 
@@ -14,19 +15,55 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<catalogue xml:lang="en">
-  <message key="About">About</message>
-  <message key="Index">Index</message>
-  <message key="Changes">Changes</message>
-  <message key="Todo">Todo</message>
-  <message key="Samples">Samples</message>
-  <message key="Apache document">Apache document</message>
-  <message key="Static content">Static content</message>
-  <message key="Linking">Linking</message>
-  <message key="Wiki page">Wiki page</message>
-  <message key="ihtml page">Ihtml page</message>
-  <message key="ehtml page">Ehtml page</message>
-  <message key="FAQ">FAQ</message>
-  <message key="Simplifed Docbook">Simplifed Docbook</message>
-  <message key="XSP page">XSP page</message>
+<catalogue xml:lang="se">
+  <message key="Davvisámegiella">Ruoktu</message>
+  <message key="Álgosiidu">Álgosiidu</message>
+  <message key="Giellapolitihkka">Giellapolitihkka</message>
+  <message key="Prošeavtta plánat">Prošeavtta plánat</message>
+  <message key="Mo reaiddut ráhkaduvvojit">Mo reaiddut ráhkaduvvojit</message>
+  <message key="Máttasámegiella">Máttasámegiella</message>
+  <message key="Preassadieđáhusat">Preassadieđáhusat</message>
+  <message key="Sáddes fiillaid midjiide">Sáddes fiillaid midjiide</message>
+  <message key="Administration">Administrašuvdna</message>
+  <message key="Index">Álgu</message>
+  <message key="Legal">Juridihkka</message>
+  <message key="Overview">Várddus</message>
+  <message key="Oslo contract">Oslo-kontrákta</message>
+  <message key="Helsinki, 1. Contract">Vuosttaš oassi, Helsset</message>
+  <message key="Helsinki, 2. Contract">Nubbi oassi, Helsset</message>
+  <message key="Helsinki, 3. Contract">Goalmmát oassi, Helsset</message>
+  <message key="SD Contract, 1. part">Sámedikki vuosttaš kontrákta</message>
+  <message key="SD Contract, 2. part">Sámedikki nubbi kontrákta</message>
+  <message key="SD Contract, 3. part">Sámedikki goalmmát kontrákta</message>
+  <message key="Outsourcing">Olgguldas barggut</message>
+  <message key="Overview">Introdukšuvdna</message>
+  <message key="Qualification Criterias">Kvalifikašuvdna kriteriat</message>
+  <message key="Selection Criterias">Válljenkriteriat</message>
+  <message key="Deliverables">Buktagat</message>
+  <message key="Requirements Specification">Dárbospesifikašuvdna</message>
+  <message key="Styringsgruppa">Stivrenjoavku</message>
+  <message key="Oversikt">Introdukšuvdna</message>
+  <message key="1. halvårsrapport">1. jahkebealraporta</message>
+  <message key="Permanent driftsorganisasjon">Bistevaš organisašuvdna</message>
+  <message key="Sørsamisk stavekontroll">Máttasámi čállindárkkisteapmi</message>
+  <message key="Møte">Čoahkimat</message>
+  <message key="4. 10. 2005">Golggotmánu 4. b. 2005</message>
+  <message key="Monthly reports">Mánnusaš raporttat</message>
+  <message key="Mar '06">Njuk. '06</message>
+  <message key="Feb '06">Guov. '06</message>
+  <message key="Jan '06">Ođđj. '06</message>
+  <message key="Dec '05">Juov. '05</message>
+  <message key="Nov '05">Skáb. '05</message>
+  <message key="Oct '05">Golg. '05</message>
+  <message key="Sep '05">Čakč. '05</message>
+  <message key="Aug '05">Borg. '05</message>
+  <message key="Jul '05">Suoi. '05</message>
+  <message key="May '05">Mies. '05</message>
+  <message key="Apr '05">Cuoŋ. '05</message>
+  <message key="Mar '05">Njuk. '05</message>
+  <message key="Feb '05">Guov. '05</message>
+  <message key="Jan '05">Ođđj. '05</message>
+  <message key="Oct-Dec '04">Golg.-Juov. '04</message>
+  <message key="Cooperation with UiT">Ovttasbargu UiTø:in</message>
+  <message key="Cooperation meeting 3.10.2005">Ovttasbargočoahkkin golg. 3.b. 2005</message>
 </catalogue>

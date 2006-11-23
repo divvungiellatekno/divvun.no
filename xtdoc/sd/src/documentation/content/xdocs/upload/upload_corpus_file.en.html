@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+                      "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+                      
+<html>
+  <head>
+<!-- <script language="JavaScript" src="/pelt/validate.js"/>  -->
+
+	 <title>Upload corpus files</title>
+  </head>
+  
+  <body>
+
+    <h1>Select file, language, and license type</h1>
+
+ <form  action="http://sami-cgi-bin.uit.no/cgi-bin/smi/upload.cgi"
+    		 method="post" enctype="multipart/form-data">
+<table>
+<tr><td> File to upload: </td><td><input type="file" name="document"/></td></tr>
+<tr><td> Main language: </td><td>
+    <select name="mainlang">
+    <option value="sme">North Sámi</option>
+    <option value="smj">Julev Sámi</option>
+    <option value="sma">South Sámi</option>
+    <option value="nno">Nynorsk</option>
+    <option value="nob">Bokmål</option>
+    <option value="fin">Finnish</option>
+    <option value="swe">Swedish</option>
+    <option value="eng">English</option>
+    <option value="oth">other</option>
+    </select></td>
+</tr>
+<tr><td> License: </td><td>
+    <select name="license_type">
+    <option value="free">Free</option>
+    <option value="standard">Standard</option>
+    <option value="other">Other</option>
+    </select>
+</td></tr>
+</table>
+<p>
+ <input type="submit" name="Submit" value="Submit Form" />
+</p>
+    </form>
+
+<p>Send feedback and questions to <a
+href="mailto:corpus@giellatekno.uit.no?subject=Feedback%C2%A0upload.cg\
+i">corpus@giellatekno.uit.no</a></p>
+
+  </body>
+</html>

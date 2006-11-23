@@ -15,10 +15,6 @@
     -->
 <!-- The id attribute in the tab tag has to match the tab attribute in site.xml --> 
     <tab dir="" id="Ruoktu" label="Ruoktu" indexfile="index.html" >
-        <tab dir="" id="lule-sami"     label="Julevsámegiella" indexfile="julevsami.html" />
-        <tab dir="" id="norwegian"     label="Norsk"           indexfile="norsk.html" />
-        <tab dir="" id="finnish"       label="Suomeksi"        indexfile="finnish.html" />
-        <tab dir="" id="english"       label="English"         indexfile="english.html" />
     </tab>
 
     <tab id="adm" label="Administrašuvdna" dir="adm" indexfile="index.html" >
@@ -37,6 +33,9 @@
 
     <!-- The Proofing Tech-Doc tab -->
     <xi:include href="doc/tabs-frag.xml#xpointer(/tabs/tab[@id='proof'])" />
+
+    <!-- The Words Tech-Doc tab -->
+<!--    <xi:include href="wordsdoc/tabs-frag.xml" />-->
 
     <!--tab dir="future" id="Plan" label="Future plans" indexfile="index.html">
        <xi:include href="future/proofdoc/tabs-frag.xml" />

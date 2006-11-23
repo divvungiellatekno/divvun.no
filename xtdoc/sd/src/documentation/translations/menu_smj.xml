@@ -1,10 +1,11 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
-  Copyright 2002-2004 The Apache Software Foundation
-
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
 
       http://www.apache.org/licenses/LICENSE-2.0
 
@@ -15,18 +16,53 @@
   limitations under the License.
 -->
 <catalogue xml:lang="smj">
-    <message key="About">Om_smj</message>
-    <message key="Index">Indeaksaoj_smj</message>
-    <message key="Changes">Rievdadusat_smj</message>
-    <message key="Todo">Bargolistu_smj</message>
-    <message key="Samples">Ovdamearkkat_smj</message>
-    <message key="Apache document">Apache Dokument_smj</message>
-    <message key="Static content">Statisk innhold_smj</message>
-    <message key="Linking">Linking_smj</message>
-    <message key="Wiki page">Wiki side_smj</message>
-    <message key="ihtml page">ihtml side_smj</message>
-    <message key="ehtml page">ehtml side_smj</message>
-    <message key="FAQ">FAQ_smj</message>
-    <message key="Simplifed Docbook">Simplifed Docbook_smj</message>
-    <message key="XSP page">XSP side_smj</message>
+  <message key="Davvisámegiella">smj:Julevsámegiella?</message>
+  <message key="Álgosiidu">smj:Álggosijddo</message>
+  <message key="Giellapolitihkka">Giellapolitihkka</message>
+  <message key="Prošeavtta plánat">Prosjevta plána</message>
+  <message key="Mo reaiddut ráhkaduvvojit">Gåktu nævvo dagaduvvi</message>
+  <message key="Máttasámegiella">Oarjjelijsábme</message>
+  <message key="Preassadieđáhusat">Præssadiedádus</message>
+  <message key="Sáddes fiillaid midjiide">smj:Rája fijlaid midjij</message>
+  <message key="Administration">smj:Háldadus</message>
+  <message key="Index">Álggo</message>
+  <message key="Legal">smj:Juridihkka</message>
+  <message key="Oslo contract">smj:Oslo-sjiehtadus</message>
+  <message key="Helsinki, 1. Contract">smj:Vuostasj oasse, Helsinki</message>
+  <message key="Helsinki, 2. Contract">smj:Nubbe oasse, Helsinki</message>
+  <message key="Helsinki, 3. Contract">smj:Goalmát oasse, Helsinki</message>
+  <message key="SD Contract, 1. part">smj:Sámedikke vuostasj sjiehtadus</message>
+  <message key="SD Contract, 2. part">smj:Sámedikke nubbe sjiehtadus</message>
+  <message key="SD Contract, 3. part">smj:Sámedikke goalmát sjiehtadus</message>
+  <message key="Outsourcing">smj:Ålgoldis bargo</message>
+  <message key="Overview">smj:Oahpásmahttem</message>
+  <message key="Qualification Criterias">smj:Máhttogájbbádusa</message>
+  <message key="Selection Criterias">smj:Gåktu válljit</message>
+  <message key="Deliverables">smj:Buktaga</message>
+  <message key="Requirements Specification">smj:Dárbbotjielggidus</message>
+  <message key="Styringsgruppa">smj:Stivrremjuogos</message>
+  <message key="Oversikt">smj:Oahpásmahttem</message>
+  <message key="1. halvårsrapport">smj:1. Jahkebieldiedádus</message>
+  <message key="Permanent driftsorganisasjon">smj:Stuoda suittimorganisasjåvnnå</message>
+  <message key="Sørsamisk stavekontroll">smj:Oarjjelijsáme stávimkontrållå</message>
+  <message key="Møte">smj:Tjåhkanibme</message>
+  <message key="4. 10. 2005">smj:Gålgådismáno 4. b. 2005</message>
+  <message key="Monthly reports">smj:Mánnusasj diedádusa</message>
+  <message key="Mar '06">smj:Snju. '06</message>
+  <message key="Feb '06">smj:Guov. '06</message>
+  <message key="Jan '06">smj:Ådåj. '06</message>
+  <message key="Dec '05">smj:Javl. '05</message>
+  <message key="Nov '05">smj:Basá. '05</message>
+  <message key="Oct '05">smj:Gålg. '05</message>
+  <message key="Sep '05">smj:Ragá. '05</message>
+  <message key="Aug '05">smj:Bårg. '05</message>
+  <message key="Jul '05">smj:Snji. '05</message>
+  <message key="May '05">smj:Moar. '05</message>
+  <message key="Apr '05">smj:Vuor. '05</message>
+  <message key="Mar '05">smj:Snju. '05</message>
+  <message key="Feb '05">smj:Guov. '05</message>
+  <message key="Jan '05">smj:Ådåj. '05</message>
+  <message key="Oct-Dec '04">smj:Gålg.-Javl. '04</message>
+  <message key="Cooperation with UiT">smj:Aktisasjbarggo UiTø:jn</message>
+  <message key="Cooperation meeting 3.10.2005">smj:Aktisasjbarggotjåhkanibme gålg. 3.b. 2005</message>
 </catalogue>

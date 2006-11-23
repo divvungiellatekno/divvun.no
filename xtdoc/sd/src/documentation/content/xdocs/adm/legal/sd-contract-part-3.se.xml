@@ -3,55 +3,55 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
   <header>
-    <title>Avtale om bruksrett til maskinlagra tekstar</title>
+      <title>Šiehtadus: Geavahanvuoigatvuohta teakstačoakkáldahkii</title>
   </header>
 
   <body class="corpuscontract">
     <section>
-      <title>Avtalepartane</title>
+        <title>Šiehtadusa oassebealit</title>
 
       <section>
-        <title>Søkar (nedanfor: <code>brukar</code>) fyller ut:</title>
+        <title>Ohcci (vuolábealde: <code>geavaheaddji</code>) deavdá:</title>
 
         <table>
           <tr>
-            <td>Namn</td>
+            <td>Namma:</td>
 
             <td>&nbsp;</td>
           </tr>
 
           <tr>
-            <td>Arbeids- eller studiestad</td>
+            <td>Bargo- dahje lohkanbáiki</td>
 
             <td>&nbsp;</td>
           </tr>
 
           <tr>
-            <td>E-post</td>
+            <td>E-boasta:</td>
 
             <td>&nbsp;</td>
           </tr>
 
           <tr>
-            <td>Telefon</td>
+            <td>Telefovdna:</td>
 
             <td>&nbsp;</td>
           </tr>
 
           <tr>
-            <td>Adresse</td>
+            <td>Čujuhus:</td>
 
             <td>&nbsp;</td>
           </tr>
 
           <tr>
-            <td>Postnummer og -stad</td>
+            <td>Poastanummir ja -báiki:</td>
 
             <td>&nbsp;</td>
           </tr>
 
           <tr>
-            <td>(For studentar:) Rettleiar</td>
+            <td>(Studeanttaide:) Bágadalli</td>
 
             <td>&nbsp;</td>
           </tr>
@@ -59,29 +59,29 @@
       </section>
 
       <section>
-        <title>Løyvar</title>
+        <title>Geavahanvuoigatvuođa addi</title>
 
         <table>
           <tr>
-            <td>Namn</td>
+            <td>Namma:</td>
 
-            <td>[ein passande person her]</td>
+            <td>[muhtun heivvolaš olmmoš]</td>
           </tr>
 
           <tr>
-            <td>Organisasjon</td>
+            <td>Organisašuvdna:</td>
 
-            <td>Sametinget</td>
+            <td>Sámediggi</td>
           </tr>
 
           <tr>
-            <td>E-post</td>
+            <td>E-boasta:</td>
 
-            <td>[person]@samediggi.no</td>
+            <td>[olmmoš]@samediggi.no</td>
           </tr>
 
           <tr>
-            <td>Telefon</td>
+            <td>Telefovdna:</td>
 
             <td>&nbsp;</td>
           </tr>
@@ -90,91 +90,60 @@
     </section>
 
     <section>
-      <title>Bakgrunn for avtalen</title>
+      <title>Šiehtadusa duogáš</title>
 
-      <p>2.1 Den samiske tekstbanken blir administrert av Universitetet i
-      Tromsø (heretter: <code>UiTø</code>). Faktisk tilgang til tekstbanken får
-      <code>brukaren</code> av <code>UiTø</code> etter at denne
-      søknaden er innvilga av <code>løyvaren</code>.</p>
+      <p>2.1 Romssa universitehta (dás maŋŋelaš: <code>UiTø</code>) hálddaša teakstačoakkáldaga ja addá beassanvejolašvuođa dasa maŋŋilgo <code>geavahanvuoigatvuođa addi</code> lea dohkkehan <code>geavaheaddji</code> ohcama.
+      </p>
     </section>
 
     <section>
-      <title>Formålet med avtalen</title>
+      <title>Šiehtadusa ulbmil</title>
 
-      <p>3.1. Etter denne avtalen gjev <code>løyvaren</code>
-      <code>brukaren</code> rett til å bruke dei tekstane som er
-      nemnde i vedlegg 1.</p>
+      <p>3.1. <code>Geavahanvuoigatvuođa addi</code> addá dán šiehtadusa mielde 
+      <code>geavaheaddjái</code> vuoigatvuođa geavahit teavsttaid maid mielddus 1 namuha.</p>
     </section>
 
     <section>
-      <title>Omfanget av bruksretten</title>
+      <title>Geavahanvuoigatvuođa viidodat</title>
 
-      <p>4.1 <code>Brukaren</code> har berre rett til å bruke
-      tekstane til forsking eller slike kommersielle språkteknologiske eller
-      andre liknande formål, som ikkje bryt med <code>Lov om opphavsrett til
-      åndsverk</code>. <code>Brukaren</code> kan bruke tekstane for å gjere seg
-      nytte av dei språktrekka (t.d. statistisk informasjon, grammatiske
-      reglar og semantiske skildringar) han/ho har funne gjennom forsking, og
-      plukke ut kortare sitat frå tekstane.</p>
+      <p>4.1 <code>Geavaheaddjis</code> lea dušše vuoigatvuohta geavahit teavsttaid dutkamii dahje gávppálaš giellateknologálaš dahje eará seammasullásaš ulbmiliidda, mat eai rihko <code>dahkkivuoigatvuođalágaid</code>. <code>Geavaheaddji</code> sáhttá teavsttaid geavahit ávkkástallat daid giellaiešvuođain maid son lea gávdnan dutkama bokte (omd. statisttalaš dieđuid, giellaoahpalaš njuolggadusaid ja semanttalaš govvádusaid), ja čoaggit oanehis sitahtaid teavsttain.</p>
     </section>
 
     <section>
-      <title>Vilkår for bruksretten</title>
+      <title>Geavahanvuoigatvuođa eavttut</title>
 
-      <p>5.1 <code>Brukar</code> er pliktig til å erstatte økonomiske tap for X
-      (tekstprodusent, tekstinnsamlar og/eller datasentral) som følgje av
-      grovt aktlaus bruk av tekstsamlinga, eller medvite misbruk.</p>
+      <p>5.1 <code>Geavaheaddji</code> lea geatnegahtton buhttet ekonomálaš vahága maid X
+      (teakstačálli, teakstačoaggi ja/dahje diehtoguovddáš) gillášii danne go teakstačoakkáldat lea hui fuollameahttumit geavahuvvon, dahje diđolaččat boastut geavahuvvon.</p>
 
-      <p>5.2 <code>Brukaren</code> bind seg til å følgje god
-      vitskapleg skikk (t.d. etter retningsliner frå forskingsetisk råd),
-      reglar om opphavsrett, og dei avgrensingar og vilkår som blir sett i
-      denne kontrakten.</p>
+      <p>5.2 <code>Geavaheaddji</code> geatnegahttá iežas čuovvut buori dieđalaš vieruid (omd. Dutkanehtalaš ráđi njuolggadusaid), dahkkivuoigatvuođa njuolggadusaid, ja dán šiehtadusa ráddjejumiid ja eavttuid.</p>
 
-      <p>5.3 <code>Brukaren</code> får ikkje ta større delar av
-      løpande tekst i <code>tekstsamlinga</code> enn korte sitat bort frå den
-      tenaren som <code>tekstsamlinga</code> er installert på. Det er lov til
-      å lagre temporære kopiar på sjølve tenaren på det vilkåret at
-      <code>brukaren</code> tek omsyn til datatryggleiken. Denne avgrensinga
-      gjeld ikkje offentlege dokument (t.d. NOU, stortingsmeldingar o.l.). Det
-      går klårt fram av kvart dokument kva for lisens som er knytta til
-      det.</p>
+      <p>5.3 Bálvvás gos <code>teakstačoakkáldat</code> lea installeren<code>geavaheaddji</code> ii sáhte váldit stuorit oktilis osiid <code>teakstačoakkáldagas</code> go oanehis sitahtaid. Dattetge lea lohpi vurket gaskaboddasaš máŋgosiid ieš bálvvás dainna eavttuin ahte
+      <code>geavaheaddji</code> váldá vuhtii dihtorsihkkarvuođa. Dát ráddjejupmi ii gusto almmolaš dokumeanttaide (omd. NAČ, stuorradiggedieđahusaide j.e.). Juohke dokumeanttas boahtá ovdan makkár lobit leat čadnon dasa.</p>
 
-      <p>5.4 Bruksrett til <code>tekstsamlinga</code> er personleg, og kan
-      ikkje overførast til ein annan person.</p>
+      <p>5.4 Geavahanvuoigatvuohta <code>teakstačoakkáldahkii</code> lea persovnnalaš, iige sáhte sirdojuvvot nubbái.</p>
 
-      <p>5.5 <code>Brukaren</code> bind seg til å bruke
-      <code>tekstsamlinga</code> berre til det formålet som er oppgjeve i
-      punkt 6 "Samandrag av forskingsformålet".</p>
+      <p>5.5 <code>Geavaheaddji</code> geatnegahttá iežas geavahit
+      <code>teakstačoakkáldaga</code> dušše daidda ulbmiliidda mat leat namuhuvvon čuoggás 6. "Dutkanplána čoahkkáigeassu".</p>
 
-      <p>5.6 Når <code>brukaren</code> publiserer
-      forskingsresultata som han eller ho har komme fram til med hjelp av
-      <code>tekstsamlinga</code>, skal han eller ho i publikasjonar om dette
-      vise til <code>tekstsamlinga</code> på denne måten:</p>
+      <p>5.6 Go <code>geavaheaddji</code> almmuha dutkanbohtosiid maid son lea gávdnan
+          <code>teakstačoakkáldagain</code> veahkkin, de son galgá almmuhemiin čujuhit <code>teakstačoakkáldahkii</code> dáinna vugiin:</p>
 
-      <source>Namn på tekstsamlinga. Dato for bruken som gav dei rapporterte
-      resultata, tenestetilbydar.</source>
+      <source>Teakstačoakkáldaga namma. Dáhton goas son lea dan geavaheami bokte ožžon raporterejuvvon bohtosiid, bálválusaddi.</source>
 
-      <p>5.7 <code>Brukaren</code> mistar bruksretten sin straks
-      om han eller ho bryt desse vilkåra.</p>
+      <p>5.7 <code>Geavaheaddji</code> manaha geavahanvuoigatvuođas dakkaviđe jus son rihkku dáid eavttuid.</p>
 
-      <p>5.8 Avtalepartane er ikkje forplikta til å erstatte ulemper for den
-      andre parten, dersom dei ikkje er i stand til å oppfylle krava i denne
-      kontrakten.</p>
+      <p>5.8 Šiehtadusa oassebealit eai leat geatnegahtton buhttet nuppi oassebeali váivvádusaid jus son ii nagot deavdit dán šiehtadusa gáibádusaid.</p>
 
-      <p>5.9 <code>Løyvar</code> er ikkje ansvarleg for å tilpasse
-      bruken av desse tekstane til noko spesielt formål, og garanterer heller
-      ikkje at kodinga er korrekt.</p>
+      <p>5.9 <code>Geavahanvuoigatvuođa addis</code> ii leat ovddasvástádus heivehit dáid teavsttaid makkárge erenoamáš ulbmilii, iige eaktut ahte leat rivttes kodemat.</p>
 
-      <p>5.10 Denne kontrakten tek til å gjelde når
-      <code>løyvar</code> skriv under på han.</p>
+      <p>5.10 Dát šiehtadus lea fámus go <code>addi</code> vuolláicállá dan.</p>
 
-      <p>5.11 Bruksretten gjeld for eitt år etter siste dato som
-      <code>løyvaren</code> har skrive under på. Bruksretten kan
-      forlengjast etter søknad, sjå pkt 8.</p>
+      <p>5.11 Geavahanvuoigatvuohta lea fámus jagi 
+      <code>geavahanvuoigatvuođa addi</code> maŋimuš vuolláičállima rájes. Geavahanvuoigatvuohta sáhttá guhkiduvvot ohcama vuođul, gč. 8. čuoggá. </p>
     </section>
 
     <section>
-      <title>Samandrag av forskingsplanen (må fyllast ut av søkaren)</title>
+      <title>6. Dutkanplána čoahkkáigeassu (ohcci ferte dán deavdit)</title>
 
       <p>_______________________________________________________________________</p>
 
@@ -192,19 +161,19 @@
     </section>
 
     <section>
-      <title>Underskrifter</title>
+      <title>Vuolláicállágat</title>
 
       <table>
         <tr>
-          <td>Løyvar</td>
+          <td>Geavahanvuoigatvuođa addi</td>
 
-          <td>Brukar (søkar fyller ut)</td>
+          <td>Geavaheaddji (ohcci deavdá dán)</td>
         </tr>
 
         <tr>
-          <td>Tid og stad:</td>
+          <td>Áigi ja báiki:</td>
 
-          <td>Tid og stad:</td>
+          <td>Áigi ja báiki:</td>
         </tr>
 
         <tr>
@@ -214,9 +183,9 @@
         </tr>
 
         <tr>
-          <td>Underskrift:</td>
+          <td>Vuolláičála:</td>
 
-          <td>Undeskrift:</td>
+          <td>Vuolláičála:</td>
         </tr>
 
         <tr>
@@ -228,41 +197,41 @@
     </section>
 
     <section>
-      <title>Framhald av bruksløyve</title>
+      <title>Geavahanvuoigatvuođa guhkideapmi</title>
 
       <table>
         <tr>
-          <td>Namn</td>
+          <td>Namma</td>
 
           <td>&nbsp;</td>
         </tr>
 
         <tr>
-          <td>Organisasjon</td>
+          <td>Organisašuvdna</td>
 
           <td>&nbsp;</td>
         </tr>
 
         <tr>
-          <td>E-post</td>
+          <td>E-boasta:</td>
 
           <td>&nbsp;</td>
         </tr>
 
         <tr>
-          <td>Telefon</td>
+          <td>Telefovdna:</td>
 
           <td>&nbsp;</td>
         </tr>
 
         <tr>
-          <td>Tid og stad</td>
+          <td>Áigi ja báiki:</td>
 
           <td>&nbsp;</td>
         </tr>
 
         <tr>
-          <td>Underskrift</td>
+          <td>Vuolláičála:</td>
 
           <td>&nbsp;</td>
         </tr>
@@ -270,11 +239,11 @@
     </section>
 
     <section>
-      <title>Vedlegg</title>
+      <title>Mildosat</title>
 
-      <p>Vedlegg 1: Tekstane denne avtalen gjeld</p>
+      <p>Mielddus 1: Teavsttat maidda šiehtadus gusto</p>
 
-      <p>Vedlegg 2: Klagerett</p>
+      <p>Mielddus 2: Váidálanriekti</p>
     </section>
   </body>
 </document>

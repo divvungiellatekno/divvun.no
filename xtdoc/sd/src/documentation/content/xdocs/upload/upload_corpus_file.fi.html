@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+                      "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+                      
+<html>
+  <head>
+<!-- <script language="JavaScript" src="/pelt/validate.js"/>  -->
+
+	 <title>Sáddes teavsttaid midjiide</title>
+  </head>
+  
+  <body>
+
+    <h1>Vállje fiila, giela ja liseansašlája</h1>
+
+ <form  ACTION="http://sami-cgi-bin.uit.no/cgi-bin/smi/upload.cgi"
+    		 METHOD="post" ENCTYPE="multipart/form-data">
+<table>
+<tr><td>Fiila maid hálidat sáddet: </td><td><INPUT TYPE="file"
+NAME="document"></td></tr>
+<tr><td>Váldogiella: </td><td>
+    <select name="mainlang">
+    <option value="sme">Davvisámi</option>
+    <option value="smj">Julevsámi</option>
+    <option value="sma">Máttasámi</option>
+    <option value="nno">Ođđadáro</option>
+    <option value="nob">Girjedáro</option>
+    <option value="fin">Suoma</option>
+    <option value="swe">Ruoŧá</option>
+    <option value="eng">Eŋgelas</option>
+    <option value="oth">eará</option>
+    </select></td>
+</tr>
+<tr><td> License: </td><td>
+    <select name="license_type">
+    <option value="free">Fridja</option>
+    <option value="standard">Standárda</option>
+    <option value="other">Eará</option>
+    </select>
+</td></tr>
+</table>
+<br/>
+ <INPUT TYPE="submit" NAME="Submit" VALUE="Submit Form" > 
+    </form>
+
+<p>Sáddes feedback:a ja jearaldagaid min čujuhussii: <a
+href="mailto:corpus@giellatekno.uit.no?subject=Feedback%C2%A0upload.cg\
+i">corpus@giellatekno.uit.no</mail></p>
+
+  </body>
+</html>
