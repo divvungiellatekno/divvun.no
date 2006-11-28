@@ -59,9 +59,15 @@ hyphenated, the {{ë}} is "normalised": {{ië -> i-e}}
 
 This is not the case in Sámi languages, all characters are always "themselves".
 
-Oslo, Oslos
+!Case in PLX entries
 
+Now always what it should be, earlier there were parallel forms of the same
+word, only with initial case differing. Example of the present (and correct)
+situation:
+{{{
+Oslo, Oslos
 oslolaš, oslolažžat (pl) "person(s) from Oslo"
+}}}
 
 !!Next meeting
 
