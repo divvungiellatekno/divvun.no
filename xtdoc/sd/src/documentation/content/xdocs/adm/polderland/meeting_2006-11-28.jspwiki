@@ -18,11 +18,11 @@ Participants:
 __Polderland:__
 
 * Alpha drop:
-  - speller is ready;
-  - some difficulties with integrating speller in hyphenator;
-    overcome (windows), migrated to Mac, now testing
-  - mklex: current version has difficulties with >> lexicon;
-    investigating modifications 
+** speller is ready;
+** some difficulties with integrating speller in hyphenator;
+   overcome (windows), migrated to Mac, now testing
+** mklex: current version has difficulties with >> lexicon;
+   investigating modifications 
 
 __Divvun:__
 
