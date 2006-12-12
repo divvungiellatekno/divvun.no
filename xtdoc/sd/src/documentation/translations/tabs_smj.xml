@@ -16,12 +16,12 @@
     limitations under the License.
     -->
 <catalogue xml:lang="smj">
-    <message key="Ruoktu">smj:Hjem</message>
-    <message key="Administrašuvdna">smj:Administrasjon</message>
-    <message key="Oppalaš">smj:Generelt</message>
-    <message key="Raporttat">smj:Rapporter</message>
-    <message key="Outsourcing">smj:Outsourcing</message>
-    <message key="Styringsgruppa">smj:Styringsgruppa</message>
-    <message key="Legal">smj:Juridiske saker</message>
-    <message key="Sámi disamb. proj.">smj:Samisk språktekno</message>
+    <message key="Ruoktu">Sijdda</message>
+    <message key="Administrašuvdna">Háldadus</message>
+    <message key="Oppalaš">Oahpásmahttem</message>
+    <message key="Raporttat">Diedádusat</message>
+    <message key="Outsourcing">Ålgoldis bargo</message>
+    <message key="Styringsgruppa">Stivrremjuogos</message>
+    <message key="Legal">Juridihkka</message>
+    <message key="Sámi disamb. proj.">Sámi giellatekno</message>
 </catalogue>
