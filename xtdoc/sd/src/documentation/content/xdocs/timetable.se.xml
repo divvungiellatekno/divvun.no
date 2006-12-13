@@ -15,7 +15,7 @@
       <title>Oppalaš plána</title>
 
       <ul>
-        <li>Vuosttaš alfaveršuvdna ođđajagemánu 2006</li>
+        <li>Vuosttás alfaveršuvdna ođđajagemánu 2006</li>
 
         <li>Betaveršuvnnat ođđajagemánu 2007</li>
 
@@ -34,7 +34,7 @@
       <dl>
         <dt>ALFA:</dt>
 
-        <dd>Vuosttaš doaibmi veršuvdna, ii leat gielalaččat dievaslaš,
+        <dd>Vuosttás doaibmi veršuvdna, ii leat gielalaččat dievaslaš,
         korrektuvraprográmma dáidá reakčanit, ja velá prográmma mii geavaha
         dan. Geavaheaddjedokumentašuvdna ii leat áibbas válmmas, iige
         jorgaluvvon.</dd>
@@ -42,7 +42,7 @@
         <dt>BETA:</dt>
 
         <dd>Korrektuvraprográmmat leat buori muddui válbmasat ja stabiila,
-        geavaheaddjedokumentašuvdna lea válmmas, muhto ii olámuttus buot
+        geavaheaddjedokumentašuvdna lea válmmas, muhto ii olámuttos buot
         gielain, iige leat korrektuvra lohkkon. Lingvistalaččat válmmas,
         vaikkoge váilot muhton sánit. Earenoamážit dát guoská
         julevsámegillii.</dd>
@@ -53,11 +53,11 @@
         ollislaččat ja stabiila. Geavaheaddjedokumentašuvdna lea
         korrektuvralohkon ja jorgaluvvon buot gielaide. Sajáiduhttinpáhkat leat
         válbmasat ja geahččaluvvon. Korrektuvraprográmmat leat olámuttos buot
-        geavaheddjiide.</dd>
+        geavaheaddjiide.</dd>
 
         <dt>aSpell:</dt>
 
-        <dd>Korrektuvraprográmma ráhkaduvvon rabas prográmmagáldus. Olamuttus
+        <dd>Korrektuvraprográmma ráhkaduvvon rabas prográmmagáldus. Olámuttos
         fridja oassin Windows:ii, Linux:ii ja MacOS X:ii.</dd>
 
         <dt>InDesign:</dt>
@@ -98,13 +98,13 @@
 
         <dt>Ođđajagemánu 1. b. 2006:</dt>
 
-	<dd>Šiehtadusat olgguldas bálvalusbuktiiguin leat gárvvis ráđđádallon ja vuolláičállon, ja ovttasbargu lea álggahuvvon singuin. Davvisámegielat korrektuvraprográmma vuosttaš veršuvdna, man vuođđu lea rabas gáldokoda, lea válmmas (aSpell-ALFA).</dd>
+	<dd>Šiehtadusat olgguldas bálvalusbuktiiguin leat gárvvis ráđđádallon ja vuolláičállon, ja ovttasbargu lea álggahuvvon singuin. Davvisámegielat korrektuvraprográmma vuosttás veršuvdna, man vuođđu lea rabas gáldokoda, lea válmmas (aSpell-ALFA).</dd>
 
         <dt>Suoidnemánu 1. b. 2006:</dt>
 
-        <dd>Davvi- ja julevsámegielaid vuosttaš geahččalanveršuvnnat
+        <dd>Davvi- ja julevsámegielaid vuosttás geahččalanveršuvnnat
         kántuvraprográmmaid várás (MSOffice-ALFA, OpenOffice.org-ALFA),
-        vuosttaš geahččalanveršuvdna davvisámegielat sátnejuohkimis
+        vuosttás geahččalanveršuvdna davvisámegielat sátnejuohkimis
         (InDesign-ALFA). Teakstačohkken geargan ja loahpahuvvon.</dd>
 
         <dt>Ođđajagemánu 1. b. 2007:</dt>
@@ -114,14 +114,14 @@
 
         <dt>Suoidnemánu 1. b. 2007:</dt>
 
-        <dd>Korrektuvrareaiddut leat gárvásat, ja veršuvdna 1.0 lea almmoláččat vieččahahtti (aSpell-FINAL, MSOffice-FINAL, OpenOffice.org-FINAL,
+	<dd>Korrektuvrareaiddut leat gárvásat, ja veršuvdna 1.0 lea almmolaččat vieččahahtti (aSpell-FINAL, MSOffice-FINAL, OpenOffice.org-FINAL,
         InDesign-FINAL).</dd>
 
         <dt>Čakčamánu 30. b. 2007</dt>
 
         <dd>Prošeakta lea loahpahuvvon, buot dokumentašuvdna ja
         prošeaktadieđut leat válmmas ja geigejuvvon bistevaš fuolahanorganisašuvdna. Smávit vigit mat leat gávdnon maŋŋágo
-        1.0-veršuvdna almmohuvvoi leat divvojuvvon.</dd>
+        1.0-veršuvdna almmuhuvvui leat divvojuvvon.</dd>
       </dl>
 
       <p>Korrektuvraprográmmaid ferte álo ođasmahttit, sihke gielalaččat
@@ -131,8 +131,7 @@
       teknihkalaččat. Eará bargu dán organisašuvnnas lea álggahit prošeavtta
       vai šaddet seammá prográmmat máttasámegiela várás.</p>
 
-      <p class="last_modified">Maŋemuš rievdaduvvon: $Date: 2005/06/18
-      04:34:31 $, av $Author$</p>
+      <p class="last_modified">Maŋemuš rievdaduvvon: $Date$, av $Author$</p>
     </section>
   </body>
 </document>

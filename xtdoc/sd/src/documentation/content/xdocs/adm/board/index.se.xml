@@ -5,7 +5,7 @@
   <header>
     <title>Stivrenjoavku</title>
     <authors>
-      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+      <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
     </authors>
   </header>
 
@@ -14,7 +14,7 @@
       <title>Dokumeanttat stivrenjoavkku várás</title>
 
       <ul>
-        <li><a href="perm-maintenance.html">Bistevaš doalahanorganisašuvdna</a></li>
+        <li><a href="perm-maintenance.html">Bistevaš fuolahanorganisašuvdna</a></li>
         <li><a href="half-year-1.html">1. jahkebealraporta</a></li>
       </ul>
 
@@ -22,3 +22,4 @@
 
   </body>
 </document>
+

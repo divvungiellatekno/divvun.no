@@ -5,7 +5,7 @@
   <header>
     <title>Administrašuvdna</title>
     <authors>
-      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+<person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
     </authors>
   </header>
 
@@ -14,11 +14,11 @@
       <title>Čoahkkimat</title>
 
       <section>
-        <title>Vahkosaš čoahkkimat</title>
+        <title>Vahkkosaš čoahkkimat</title>
 
-        <p>Mis lea prošeaktačoahkkin oktii vahkus, dábálaččat mánnodagat diibmu 10:s norgga áiggi. Daid čoahkkimiidda servet maiddái miellahtut sámi disambiguerenprošeavttas, goitot Trond Trosterud gii lea prošeaktajođiheaddji, álkkidan dihte gulahallama ja prošeavttaid ovttasbarggu.</p>
+        <p>Mis lea prošeaktačoahkkin oktii vahkus, dábálaččat mánnodagat diibmu 10:s norgga áiggi. Daid čoahkkimiidda servet maiddái miellahtut sámi disambiguerenprošeavttas, goittot Trond Trosterud gii lea prošeaktajođiheaddji, álkidan dihte gulahallama ja prošeavttaid ovttasbarggu.</p>
 
-        <p>Čoahkkingirjjit gávdnojit <a href="../doc/admin/meetings.html">oktasašguovllus</a>. Čoahkkingirjjit leat čállon <a class="fork"        href="http://forrest.apache.org/docs/wiki-sample.html" title="A page describing the JSPWiki features supported by Forrest">Wiki formáhtas</a> maid <a class="fork" href="http://forrest.apache.org/" title="Forrest home page">Forrest</a> doarju. Dát addá midjiide čoahkkingirjjit mat leat goasii čábu teaksta, ja seammás jođánis ja álkes almmuheami. Mii leat maid ráhkadan siskkildas <a href="../doc/infra/jspwiki-howto.html" title="jspwiki howto">jspwiki howto:a</a>.</p>
+        <p>Čoahkkingirjjit gávdnojit <a href="../doc/admin/meetings.html">oktasašguovllus</a>. Čoahkkingirjjit leat čállon <a class="fork"        href="http://forrest.apache.org/docs/wiki-sample.html" title="A page describing the JSPWiki features supported by Forrest">Wiki formáhtas</a> maid <a class="fork" href="http://forrest.apache.org/" title="Forrest home page">Forrest</a> doarju. Dát addá midjiide čoahkkingirjjit mat leat goasii čabu teaksta, ja seammás jođánis ja álkes almmuheami. Mii leat maid ráhkadan siskkildas <a href="../doc/infra/jspwiki-howto.html" title="jspwiki howto">jspwiki howto:a</a>.</p>
 
 
         <p>Møtene blir holdt via telefon, samtidig som vi skriver referatet med <a class="fork"
@@ -30,7 +30,7 @@
       </section>
 
       <section>
-        <title>Eará čoahkimat</title>
+        <title>Eará čoahkkimat</title>
 
         <p>Mii áigut doallat čoahkkimiid ja workshop:id duollet dálle. Mis ii leat gearggus áigeplána, eatge leat mearridan man dávjá dáid čoahkkimiid doallá, muhto dollet daid go lea dárbu.</p>
       </section>
@@ -42,19 +42,19 @@
       <section>
         <title>Mánnosaš raporttat</title>
 
-        <p>Prošeaktajođiheaddji ráhkada mánnosaččat raportta gos muitaluvvo mii lea dáhkon ja guođđá dan sámedikki geallaossodaga hovdii. Raporttat gávdnodjit <a href="reports/monthoverview.html">sierra báikkis</a> dán fierpmádatbáikkis. Raporttat leat čállon dárogillii.</p>
+<p>Prošeaktajođiheaddji ráhkada mánnosaččat raportta gos muitaluvvo mii lea dáhkon ja guođđá dan sámedikki giellaossodaga hovdii. Raporttat gávdnojit <a href="reports/monthoverview.html">sierra báikkis</a> dán fierpmádatbáikkis. Raporttat leat čállon dárogillii.</p>
 
         <dl>
           <dt>Deadline:</dt>
 
-          <dd>10. beaivvi juohkke mánnu.</dd>
+          <dd>10. beaivvi juohke mánnu.</dd>
         </dl>
       </section>
 
       <section>
         <title>Jahkebealraporttat</title>
 
-        <p>Proseaktastivrras lea čoahkin juohkke jahkebealli, ja prošeaktajođiheaddji galgá ráhkadit raportta prošeavtta dili birra dáid čoahkkimiidda. Raporttat ihtet dáppe dađistága go ráhkaduvvojit.</p>
+        <p>Proseaktastivrras lea čoahkkin juohke jahkebealli, ja prošeaktajođiheaddji galgá ráhkadit raportta prošeavtta dili birra dáid čoahkkimiidda. Raporttat ihtet dáppe dađistaga go ráhkaduvvojit.</p>
 
         <dl>
           <dt>Deadline:</dt>
@@ -82,10 +82,10 @@
       <section>
         <title>Eará raporttat</title>
 
-        <p>Raporttat mat ráhkoduvvojeadje prošeavtta plánedettiin ihtet dán fierbmebáikkis. Raporttat leat:</p>
+<p>Raporttat mat ráhkaduvvojedje prošeavtta plánedettiin ihtet dán fierpmádatbáikkis. Raporttat leat:</p>
 
         <ul>
-          <li>Vuosttaš raporta man bušeahtta lei 19,2 mill. NOK</li>
+          <li>Vuosttás raporta man bušeahtta lei 19,2 mill. NOK</li>
 
           <li>Reviderejuvvon raporta man bušeahtta lei 11,3 mill. NOK</li>
         </ul>
@@ -95,7 +95,7 @@
     </section>
 
     <section>
-      <title>Budsjett</title>
+<title>Bušeahtta</title>
 
       <p>Some info about the budget here.</p>
 
@@ -122,8 +122,8 @@
 
     </section>
 
-    <p class="last_modified">Sist modifisert: $Date$,
-       by $Author$</p>
+    <p class="last_modified">Maŋemuš rievdaduvvon: $Date$,
+ $Author$</p>
 
   </body>
 </document>
