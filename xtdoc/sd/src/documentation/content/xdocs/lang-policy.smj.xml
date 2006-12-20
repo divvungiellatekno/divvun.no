@@ -2,43 +2,38 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="smj">
-  <header>
-    <title>Divvun-prosjevta giellapolitihkka</title>
-    <authors>
-      <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
-    </authors>
+    <header>
+        <title>Divvun-prosjevta giellapolitihkka</title>
+        <authors>
+        <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
+        </authors>
+    
+    </header>
 
-  </header>
-
-  <body>
-    <section>
-      <title>Giellapolitihkalasj tjoahkke dokumentásjåvnå hárráj</title>
-
-      <p>Prosjevtan le giellapolitihkka ietjanis mij mearrit makkir diedo
-      galggi liehket gen ga giellaj.</p>
-
-      <dl>
-        <dt>Iemelágásj diededibme:</dt>
-
-        <dd>nuorttasábmáj, julevsábmáj, suomagiellaj, vuonadárruj ja
-        ieŋŋgisgiellaj</dd>
-
-        <dt>Addnedokumentásjåvnnå:</dt>
-
-        <dd>sæmmi giellaj gå nævvo, ieneplågogiellaj dan rijkan gånnå giella
-        aneduvvá, ja vil ieŋŋgisgiellaj</dd>
-
-        <dt>Teknihka hárráj, prosjevta sissŋálasj dokumentasjåvnnå:</dt>
-
-        <dd>ieŋŋgisgiellaj, ietjá gielajda dárbo milta</dd>
-      </dl>
-
-      <p>Mijá vuojnno le, ja doajvvop dát giellapolitihkka prosjevta
-      dokumentásjåvnå hárráj buktá diedojt dajda gielajda ma li ájnnasa gájkka
-      berustiddjijda ja addnijda</p>
-
-      <p class="last_modified">Maŋemus rievddaduvvam: $Date: 2005/06/19
-      23:42:09 $, by $Author$</p>
-    </section>
-  </body>
+    <body>
+        <section>
+            <title>Giellapolitihkalasj tjoahkke dokumentásjåvnå hárráj</title>
+    
+            <p>Prosjevtan le giellapolitihkka ietjanis mij mærret makkir diedo galggi liehket gen ga giellaj.</p>
+    
+            <dl>
+                <dt>Iemelágásj diededibme:</dt>
+                <dd>nuorttasábmáj, julevsábmáj, suomagiellaj, vuonadárruj ja ieŋŋilsgiellaj</dd>
+                <dt>Addnedokumentásjåvnnå:</dt>
+                <dd>
+                    sæmmi giellaj gå nævo, ieneplågogiellaj dan rijkan gånnå giella aneduvvá, ja vil ieŋŋgilsgiellaj
+                </dd>
+                <dt>Teknihka hárráj, prosjevta sissŋálasj dokumentásjåvnnå:</dt>
+                <dd>ieŋŋgilsgiellaj, ietjá gielajda dárbo milta</dd>
+            </dl>
+    
+            <p>
+                Mijá vuojnno le, ja doajvvop dát giellapolitihkka prosjevta dokumentásjåvnå hárráj buktá diedojt dajda gielajda ma li ájnnasa gájkka berustiddjijda ja addnijda.
+            </p>
+    
+            <p class="last_modified">
+                Maŋemus rievddaduvvam: $Date$, by $Author$
+            </p>
+        </section>
+    </body>
 </document>
