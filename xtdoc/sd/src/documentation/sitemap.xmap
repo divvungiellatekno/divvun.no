@@ -53,15 +53,6 @@
 
             <!--   Will match weekly meeting files {2}, and extract the tasks for the
         person in {3}, returning the task list as an iCal TODO list -->
-   <map:match pattern="**/Tasks_*_*.ics">
-    <map:generate src="cocoon://{1}/Meeting_{2}.xml" />
-    <map:transform src="{properties:resources.stylesheets}/tasks2ical.xsl">
-      <map:parameter name="date"   value="{2}"/>
-      <map:parameter name="person" value="{3}"/>
-    </map:transform>
-    <map:serialize type="ical"/>
-   </map:match>
-
             <map:match pattern="**/Tasks_*_*.ics">
                 <map:generate src="cocoon://{1}/Meeting_{2}.xml" />
                 <map:transform src="{properties:resources.stylesheets}/tasks2ical.xsl">
