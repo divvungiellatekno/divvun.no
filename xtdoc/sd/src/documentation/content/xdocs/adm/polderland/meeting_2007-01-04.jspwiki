@@ -1,4 +1,4 @@
-!!!Meeting with Polderland 19.12.2006
+!!!Meeting with Polderland 3.1.2007
 
 Participants:
 * Peter Beinema
@@ -17,17 +17,16 @@ Participants:
 
 !Polderland:
 
-* Bug in Spelling alpha investigated, not repro
-* managed to get question on language code through to
-  MS program manager Mac Tools, waiting for reply
-* new version of mklex (with intermediate compression) seems to work,
-  but needs a user-friendly shell.
-
+* not much progress since last video conference, mainly due to holidays
+* no response from MS on language codes for Mac yet
+* windows (2004, 2007) versions of spellers almost ready to be shipped 
+* mklex: works when all groups of words that start with same character
+  are < 2 GB, have to find work-around for hyphen and 'e'
 
 
 !Divvun:
 
-* continued work on PLX conversion
+Not much has happened here either, due to the holidays.
 
 
 !!Alpha version
@@ -45,20 +44,16 @@ The big lexicon file (25+ Gb) contains large portions of words starting with:
 
 !!Next meeting
 
-Next Thursday (4.1.) at the usual time.
+Next Tuesday (9.1.) at the usual time.
 
 !!!TODO:
 * send Windows speller for Office 11 (2003) / Office 12 (2007)
-* continue to improve hyphenation (__Sjur__ and __Thomas__)
 * make complete PLX data set (__Tomi__)
-** still working on it
 * get language codes to work with Mac Office 2004 (and check MacOffice 2007)
   (__Polderland__)
 * deliver mklex + hyphen script 
 * try to find proper compiler version for Adobe Indesign (old version will
   probably do)
-* prepare (localisation of) installation packages for the Beta version
-  (__Polderland__: send "default" texts to be translated)
-** done
 * try to get an answer to the language codes in MS Office for Mac question from
   other sources (__Sjur__)
+* investigate the initial "e" group of words (8 Gb)
