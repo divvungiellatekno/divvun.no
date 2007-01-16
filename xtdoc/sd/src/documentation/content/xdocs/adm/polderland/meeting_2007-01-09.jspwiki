@@ -32,7 +32,7 @@ started the translation work for the installer.
 
 There is presently a mismatch between the speller and the hyphenator, causing
 the speller to flag hyphenated words as misspelled. Lule Sámi does not presently
-have a speller, and because of the way MS Office handle language groups, the
+have a hyphenator, and because of the way MS Office handle language groups, the
 North Sámi hyphenator will be used instead. This might (or will likely) lead to
 wrong hyphenation patterns, especially in some vowel sequences.
 
@@ -44,7 +44,7 @@ The big lexicon file (25+ Gb) contains large portions of words starting with:
 * e (0x65; 8 Gb)
 
 
-Could it be ''earon-'' or something similar?
+Could it be ''earon–'' or something similar?
 
 !!Other things
 
