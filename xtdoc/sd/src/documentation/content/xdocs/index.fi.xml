@@ -95,32 +95,30 @@
     </section>
     
     <section>
-        <title>Source code and documentation</title>
+        <title>Lähdekoodi ja dokumentaatio</title>
         <section>
-            <title>Anonymous cvs</title>
+            <title>Anonyymi cvs</title>
             <p>
-                The source code to this project is open source, and it is available
-                through <a href="doc/infra/anonymous-cvs.html">anonymous cvs</a>. We have also written 
-                a document on how to <a href="doc/intro.html">find your way</a> through the
-                source code.
+            	   Projektin lähdekoodi on avoin ja se on saatavilla 
+            	   <a href="doc/infra/anonymous-cvs.html">anonyymin cvs</a> tunnuksen avulla. Olemme
+            	   myös kirjoittaneet dokumentin kuinka <a href="doc/intro.html">luet</a> lähdekoodia.
             </p>
         </section>
         
         <section>
-            <title>Download documentation</title>
+            <title>Lataa dokumentaatio</title>
             <p>
-                All the documentation on this project is available on this
-                site. If you would like to have this documentation on your
-                own computer, follow the instruction on 
-                <a href="doc/infra/anonymous-cvs.html">anonymous cvs</a>, then go on to 
-                <a href="doc/infra/forrest-howto.html">setup forrest</a>. 
-                After that all our documentation sits on your own computer, and 
-                you can navigate through it with a web browser.
+                Tältä sivustolta löydät projektin koko dokumentaation. Jos
+                haluat ladata dokumentaation omalle tietokoneellesi, seuraa
+                <a href="doc/infra/anonymous-cvs.html">anonyymi cvs</a> ohjeita,
+                jonka jälkeen <a href="doc/infra/forrest-howto.html">asenna forrest</a>.
+                Tämän jälkeen kaikki dokumentit löytyvät omalta tietokoneeltasi ja
+                voit selata niitä selainohjelmalla.
              </p>
         </section>
         
         <section>
-            <title>Downloads</title>
+            <title>Ladattavat tiedostot</title>
             <p>
                 
             </p>
