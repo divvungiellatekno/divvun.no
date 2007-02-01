@@ -4,9 +4,6 @@
 <document xml:lang="se">
   <header>
     <title>Divvun - sámi korrektuvrareaiddut</title>
-    <authors>
-      <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
-    </authors>
   </header>
   <body>
     <section>
@@ -19,82 +16,6 @@
         eanet <a href="sma-background.se.html" >dáppe</a>. Reaiddut galget
         doaibmat dábáleamos kantuvra prográmmain Windows:as, Linux:as ja
         Mac:as
-      </p>
-    </section>
-    <section>
-      <title>Duogáš</title>
-      <p>
-        Prošeakta vuos plánejuvvui, ja de biddjui johtui Sámedikki sávaldaga
-        mielde addit sámegielagiidda ja earáide, geat hálidit sámegiela čállit,
-        seamma reaidduid go dárogielagiin leat. Erenoamážit dát lea dehálaš
-        dannego ollu sámegielagat eai leat oahppan sámegiela čállit. Prošeakta
-        lea danne oassi strategiijas nannet sámegiela, ja buoridit sámegiela
-        eavttuid čállingiellan.
-      </p>
-      <p>
-        <a href="http://www.samediggi.no">Sámediggi</a>, <a 
-        href="http://www.odin.dep.no/krd/english/bn.html">Gielda- ja
-        guovlodepartemeanta</a>, <a
-        href="http://www.odin.dep.no/ufd/english/bn.html">Oahpahus- ja 
-        dutkandepartemeanta</a> ja <a 
-        href="http://www.odin.dep.no/kkd/english/bn.html">Kultur- ja
-        girkodepartemeanta</a> leat ruhtadan prošeavtta.
-      </p>
-      <p>
-        Mii áigut ráhkadit korrektuvraprográmmaid, mat leat heivehuvvon
-        sámegillii nugo lea Norggas, Ruoŧas ja Suomas. Dannego prošeakta
-        čađahuvvo oalát Norgga prošeaktan, de soaitá válmmas prográmmain dát
-        dihttot, muhto mii geahččalit ráhkadit daid dainna lágiin ahte juohkehaš
-        sáhttá geavahit daid.
-      </p>
-    </section>
-    <section>
-      <title>Organiseren</title>
-      <p>
-        Prošeakta gullá Sámediggái. Das lea iežas prošeaktastivra mas leat
-        miellahtut Sámedikkis, departemeanttain ja Romssa universiteahtas.
-      </p>
-      <section>
-        <title>Prošeavtta stivra</title>
-        <dl>
-          <dt>Julie Eira</dt>
-          <dd>Stivrajođiheaddji, ovddasta Sámedikki</dd>
-          <dt>Per Edvard Klemetsen</dt>
-          <dd>Ovddasta Sámedikki</dd>
-          <dt>Eirik Liland</dt>
-          <dd>Ovddasta Romssa universitehta</dd>
-          <dt>Bjørn Olav Megard</dt>
-<dd>Ovddasta gielda- ja guovlodepartemeantta</dd>
-          <dt>Øystein Johannessen</dt>
-<dd>Sadjásaš lahttu, ovddasta oahpahus- ja dutkandepartemeantta</dd>
-          <dt>Sjur N. Moshagen</dt>
-          <dd>
-            … ii leat stivralahttu, muhto lea álo mielde čoahkkimiin, ja
-            ovddasta Divvun-prošeavtta
-          </dd>
-        </dl>
-      </section>
-      <section>
-        <title>Prošeavtta bargit</title>
-        <dl>
-          <dt>Sjur N. Moshagen</dt>
-<dd>Prošeaktajođiheaddji, sjur čuokkis moshagen smarfealfa samediggi čuokkis no</dd>
-          <dt>Børre Gaup</dt>
-<dd>Prošeaktamielbargi, borre čuokkis gaup smarfealfa samediggi čuokkis no</dd>
-          <dt>Thomas Omma</dt>
-          <dd>Lingvista, thomas čuokkis omma smarfealfa samediggi čuokkis no</dd>
-          <dt>Maaren Palismaa</dt>
-          <dd>Lingvista, maren čuokkis palismaa smarfealfa samediggi čuokkis no</dd>
-          <dt>Tomi Pieski</dt>
-          <dd>Programmerejeaddji, tomi čuokkis pieski smarfealfa samediggi čuokkis no</dd>
-        </dl>
-      </section>
-      <p>
-        Prošeavtta vuođđun lea bargu mii lea dahkkon Romssa universitehtas,
-   ja dán prošeavttas ja Romssa universitehta giella teknologalaš birrasis
-        lea lagas ja beaivválaš ovttasbargu, mii lea nu lahka ahte mis lea oktasaš
-        infrastruktuvra. (geahča &quot;<a href="http://giellatekno.uit.no" >Sámi
-        disamb</a>&quot; gilkoris dás bajábealde.).
       </p>
     </section>
     <section>
@@ -169,19 +90,40 @@
         dieđuid gávnnat dás vuolábealde.
       </p>
     </section>
+    
     <section>
-      <title>Prošeavtta giellapolitihkka</title>
-      <p>
-        Prošeakta lea máŋggagielat, ja dat <a href="lang-policy.html" >guoská
-        maiddái</a> dokumentašuvdnii maid mii ráhkadit.
-      </p>
-      <p>
-        Prošeavttas ii leat alddis politihkka sámi čállingiela hárrái, ja dat
-        čuovvu giellanormerenorgánaid buot mearrádusaid. Jos mii dovdat ahte
-        normeren ii leat čielggas, mii dáhttut alimus orgána čielggadit dáid
-        áššiid.
-      </p>
+        <title>Gáldokoda ja dokumentašuvdna</title>
+        <section>
+            <title>Anonyma cvs</title>
+            <p>
+                Dán prošeavtta gáldokoda lea rabas ja friddja, ja lea olámuttus
+                <a href="doc/infra/anonymous-cvs.html">anonyma cvsa</a> bokte. 
+                Dá lea <a href="doc/intro.html">ofelaš</a> mii veahkeha du gállit gáldokoda.
+            </p>
+        </section>
+        
+        <section>
+            <title>Viežžat dokumentašuvvna</title>
+            <p>
+                Visot dokumentašuvvna maid dát prošeakta lea ráhkadan
+                gávdno <a href="http://divvun.no">Divvon prošeavtta</a> fierpmádatbáikkis.
+                Jus hálidat viežžat dán dokumentašuvnna iežat dihtorii, čuovu
+                 
+                <a href="doc/infra/anonymous-cvs.html">anonyma cvs dokumentašuvnna</a>, de mana  
+                <a href="doc/infra/forrest-howto.html">heivet forrest</a> siidui. 
+                Maŋŋá dán visot dokumentašuvdna lea du iežat dihtoris, ja lea vejolaš
+                navigeret dan čada fierbmeloganiin.
+             </p>
+        </section>
+        
+        <section>
+            <title>Downloads</title>
+            <p>
+                
+            </p>
+        </section>
     </section>
+    
     <section>
       <title>Dárbbašlaš liŋkkat</title>
       <ul>

@@ -3,10 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en"> 
   <header> 
-    <title>Sámi proofing tools project</title>
-    <authors>
-      <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
-    </authors>
+    <title>Divvun - Sámi proofing tools project</title>
   </header> 
   <body> 
     <section>
@@ -21,92 +18,7 @@
       </p>
     </section>
     <section>
-      <title>Background</title>
-      <p>
-        The project was planned and thereafter started because the Sámi
-        Parliament wanted to give Sámi speakers and other Sámi users the same
-        writing aid tools as Norwegian speakers. This is especially important
-        because many Sámi speakers never learned to write Sámi in school. The
-        project is part of a larger policy to strengthen the Sámi languages, and
-        to increase the use of Sámi as a written language.
-      </p>
-      <p>
-        The project is financed by the <a href="http://www.samediggi.no">Sámi
-        Parliament</a>, and the <a
-        href="http://www.odin.dep.no/krd/english/bn.html">Ministry of Local
-        Government and Regional Development</a>, the <a
-        href="http://www.odin.dep.no/ufd/english/bn.html">Ministry of Education
-        and Research</a> and the <a
-        href="http://www.odin.dep.no/kkd/english/bn.html">Ministry of Culture
-        and Church Affairs</a>, and the final programs will be accessible for 
-        all wanting to write in Sámi.
-      </p>
-      <p>
-        We aim at making spell checkers that are geared towars Sámi as it is
-        used both in Norway, Sweden and Finland. Since the project is run as a
-        Norwegian project only, the final programs may have a Norwegian bias. If
-        this will be the case, it is against our intentions, we want programs
-        that may be used by all users, irrespective of country of origin.
-      </p>
-    </section>
-    <section>
-      <title>Organising</title>
-      <p>
-        The project is run by the language department of the Sámi Parliament. It
-        has its own board, with members from the Sámi Parliament, the
-        Ministries, and the University of Tromsø.
-      </p>
-      <section>
-        <title>Project board</title>
-        <dl>
-          <dt>Julie Eira</dt>
-          <dd>Board head, representing the Sami Parliament</dd>
-          <dt>Per Edvard Klemetsen</dt>
-          <dd>Representing the Sami Parliament</dd>
-          <dt>Eirik Liland</dt>
-          <dd>Representing the University of Tromsø</dd>
-          <dt>Bjørn Olav Megard</dt>
-          <dd>
-            Representing Ministry of Local Government and Regional
-            Development
-          </dd>
-          <dt>Øystein Johannessen</dt>
-          <dd>
-            Sadjásaš lahttu, representing Ministry of Education
-            and Research
-          </dd>
-          <dt>Sjur N. Moshagen</dt>
-          <dd>
-            … is not a member of the board, but is always present at the 
-            meetings, representing the Divvun project
-          </dd>
-        </dl>
-      </section>
-      <section>
-        <title>Project workers</title>
-        <dl>
-          <dt>Sjur N. Moshagen</dt>
-          <dd>Project leader, sjur dot moshagen at samediggi
-          dot no</dd>
-          <dt>Børre Gaup</dt>
-          <dd>Project worker, borre dot gaup at samediggi dot no</dd>
-          <dt>Thomas Omma</dt>
-          <dd>Linguist, thomas dot omma at samediggi dot no</dd>
-          <dt>Maaren Palismaa</dt>
-          <dd>Linguist, maren dot palismaa at samediggi dot no</dd>
-          <dt>Tomi Pieski</dt>
-          <dd>Programmer, tomi dot pieski at samediggi dot no</dd>
-        </dl>
-      </section>
-      <p>
-        The project is based upon work done at the University of Tromsø, and
-        has a close and daily cooperation with the language technology group
-        there, so close that most of our infrastructure is shared (cf. the tab
-        "<a href="http://giellatekno.uit.no">Samisk disamb.</a>" above).
-      </p>
-    </section>
-    <section>
-      <title>Finished </title>
+      <title>Finished products</title>
       <p>
         At project kickoff, the detailed list of deliverable programs looked as
         follows:
@@ -167,24 +79,42 @@
       </p>
     </section>
     <section>
-      <title>The language policy of the project</title>
-      <p>
-        The project is multilingual, and this will be true also for our written
-        documentation, cf. <a href="lang-policy.html">The language policy of
-        the project</a>.
-      </p>
-      <p>
-        The project does not have its own policy for the standardisation of the
-        Sámi written languages, and it will follow all decisions made by Sámi
-        language bodies. When the decided norm is unclear, we will ask for a
-        clarification from these bodies.
-      </p>
+        <title>Source code and documentation</title>
+        <section>
+            <title>Anonymous cvs</title>
+            <p>
+                The source code to this project is open source, and it is available
+                through <a href="doc/infra/anonymous-cvs.html">anonymous cvs</a>. We have also written 
+                a document on how to <a href="doc/intro.html">find your way</a> through the
+                source code.
+            </p>
+        </section>
+        
+        <section>
+            <title>Download documentation</title>
+            <p>
+                All the documentation on this project is available on this
+                site. If you would like to have this documentation on your
+                own computer, follow the instruction on 
+                <a href="doc/infra/anonymous-cvs.html">anonymous cvs</a>, then go on to 
+                <a href="doc/infra/forrest-howto.html">setup forrest</a>. 
+                After that all our documentation sits on your own computer, and 
+                you can navigate through it with a web browser.
+             </p>
+        </section>
+        
+        <section>
+            <title>Downloads</title>
+            <p>
+                
+            </p>
+        </section>
     </section>
     <section>
       <title>Useful links</title>
       <ul>
         <li>
-          <a href="mailto:divvun ved samediggi dot no">E-mail to the
+          <a href="mailto:divvun at samediggi dot no">E-mail to the
           project</a>
         </li>
         <li>
@@ -199,9 +129,9 @@
           Xerox FST-tools</a>
         </li>
       </ul>
-      <p class="last_modified">
-        Last modified: $Date$, by $Author$
-      </p>
     </section>
+    <p class="last_modified">
+        Last modified: $Date$, by $Author$
+    </p>
   </body>
 </document>

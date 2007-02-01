@@ -19,70 +19,6 @@
         </section>
 
         <section>
-            <title>Duohke</title>
-
-            <p>
-                Prosjækta planeriduváj vuostak, ja de biejaduváj jåhtuj Sámedikki sávadusá milta vaddet sæmmi nævojt sámegielagijda ja ietjajda gudi sihti tjállet sámegiellaj degu ma le dárogielagijn. Dát la sierraláhkáj ájnas dajna gå li ållo sámegielaga gudi ælla oahppam tjállet sámegiellaj. Prosjækta le dan diehti oasse strategijas nannit sámegielav, ja lasedit sámegiela anov tjállemgiellan.
-            </p>
-
-            <p>
-                Prosjevtav biednigahtti <em>Sámedigge</em>, <em>Suohkan- ja  guovlodepartemæntta</em>, <em>Åhpadus- ja guoradallamdepartemæntta</em> ja  <em>Kultuvrra- ja girkkodepartemæntta</em>, ja gárves nævo galggi máhttet  aneduvvat gájkajs gudi tjálli sámegiellaj.
-            </p>
-
-            <p>
-                Mij ájggop dahkat korrektuvrraprográmmajt ma hiehpi sámegiellaj gåktu sámegiella aneduvvá Vuonan, Svierigin ja Suoman. Danen gå prosjækta tjadáduvvá tjielgga Vuona prosjæktan, de ihkap vuojnnu dat gárves prográmmajn, valla mij gæhttjalip dahkat dajt nåvti vaj gájka máhtti adnet dajt.
-            </p>
-        </section>
-
-        <section>
-            <title>Organiserim</title>
-
-            <p>
-                Prosjækta gullu Sámedikki giella åssudahkaj. Prosjevtan le ietjas stivrra gånnå li sebrulattja Sámedikkes, departementajs ja Råmså universitehtas.
-            </p>
-
-            <section>
-                <title>Prosjevta stivra</title>
-
-                <dl>
-                    <dt>Julie Eira</dt>
-                    <dd>Stivrrajådediddje, åvdåsta Sámedikkev</dd>
-                    <dt>Per Edvard Klemetsen</dt>
-                    <dd>Åvdåsta Sámedikkev </dd>
-                    <dt>Eirik Liland</dt>
-                    <dd>Åvdåsta Råmså universitehtav </dd>
-                    <dt>Bjørn Olav Megard</dt>
-                    <dd>Åvdåsta Komuvnna- ja Guovllodepartementa </dd>
-                    <dt>Øystein Johannessen</dt>
-                    <dd>Sadjásasj sebrulasj, åvdåsta Åhpadus- ja åtsådusdepartementa </dd>
-                    <dt>Sjur N. Moshagen</dt>
-                    <dd>… ij la sebrulasj, valla la milta tjåhkanimijn, ja åvdåsta Divvun prosjevtav</dd>
-                </dl>
-            </section>
-
-            <section>
-                <title>Vidás barggi dájna prosjevtajn:</title>
-
-                <dl>
-                    <dt>Sjur N. Moshagen</dt>
-                    <dd>prosjevta jådediddje, sjur tjuorgga moshagen siejbek-a samediggi tjuorgga no</dd>
-                    <dt>Børre Gaup</dt>
-                    <dd>Prosjæktaviehkediddje, borre tjuorgga gaup siejbek-a samediggi tjuorgga no</dd>
-                    <dt>Thomas Omma</dt>
-                    <dd>Lingvistta, thomas tjuorgga omma siejbek-a samediggi tjuorgga no</dd>
-                    <dt>Maaren Palismaa</dt>
-                    <dd>Lingvistta, maren tjuorgga palismaa siejbek-a samediggi tjuorgga no </dd>
-                    <dt>Tomi Pieski</dt>
-                    <dd>Programmerár, tomi tjuorgga pieski siejbek-a samediggi tjuorgga no</dd>
-                </dl>
-            </section>
-
-            <p>
-                Prosjevta vuodo le barggo mij le dagádum Råmså universitehtan, ja prosjevtan ja Råmså universitehta giellateknologalasj birrasin le lahka aktanbarggo bæjválattjat, miján le aktásasj infrastuktuvrra (gehtja sválldasav "<a href="http://giellatekno.uit.no">Sámi disamb. proj.</a>" badjelin). 
-            </p>
-        </section>
-
-        <section>
             <title>Gárves korrektuvrranævo</title>
 
             <p>
@@ -155,18 +91,34 @@
         
         </section>
 
+    <section>
+        <title>Gálldokåvddå ja dokumentasjåvnnå</title>
         <section>
-            <title>Prosjevta giellapolitihkka</title>
-
+            <title>Anonyma cvs</title>
             <p>
-                Prosjækta le moattegielak, ja nåv aj dokumentasjåvnnå mav mij tjállep, buohtastahte <a href="lang-policy.html">prosjevta giellapolitihka</a>.
-            </p>
-
-            <p>
-                Prosjevtan ij le ietjanis politihkka sáme tjállemgiela normerima hárráj, ja tjuovvu gájkka mærredusájt giellanormerijiddje orgánajs, ma gielav normeriji. Gå normerim ij le tjielgas mijá mielas, de ádnop tjielgadusájt dájs orgánajs.
+                Dán prosjevta gálldokåvddå la rabás ja friddja, ja la ålåmutton
+             <a href="doc/infra/anonymous-cvs.html">anonyma cvs</a> baktu. Dála gálldokåvddå <a href="doc/intro.html">oahpestiddje</a>.
             </p>
         </section>
-
+        
+        <section>
+            <title>Viettja dokumentasjåvnåv</title>
+            <p>
+                Gájkka dokumentasjåvnnå majt dát prosjækta la tjállám
+                gávnno dánna: <a href="http://divvun.no">Divvun prosjækta</a>. Jus sidá viedtjat dáv dokumentasjåvnåv ietjat dáhturij, tjuovo
+                bagádusáv dánna:  <a href="doc/infra/anonymous-cvs.html">anonyma cvs</a>. Dassta maññela dási:
+                <a href="doc/infra/forrest-howto.html">hiebadit forrest</a>. 
+                Dálla gájkka dokumentasjåvnnå la duv dáhturin, ja manná låhkåt dav web browserijn.
+             </p>
+        </section>
+        
+        <section>
+            <title>Downloads</title>
+            <p>
+                
+            </p>
+        </section>
+    </section>
         <section>
             <title>Ávkkás sválldasa</title>
 
@@ -188,9 +140,9 @@
                 </li>
             </ul>
 
+        </section>
             <p class="last_modified">
                 Maŋemus rievddaduvvam: $Date$, by $Author$
             </p>
-        </section>
     </body>
 </document>

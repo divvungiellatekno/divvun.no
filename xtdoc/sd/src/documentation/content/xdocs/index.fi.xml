@@ -4,9 +4,6 @@
 <document xml:lang="fi">
   <header>
     <title>Divvun - saamen kielen oikolukuväline</title>
-    <authors>
-      <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
-    </authors>
   </header>
   <body>
     <section>
@@ -21,86 +18,6 @@
 	<a href="sma-background.se.html">saameksi</a>). Ohjelmat tulevat toimimaan
         Windowsin, Linuxin ja Macin tavallisimmissa toimisto-ohjelmissa.
       </p>
-    </section>
-    <section>
-      <title>Taustaa</title>
-      <p>
-        Projekti aluksi suunniteltiin ja sen jälkeen aloitettiin
-        saamelaiskäräjien toivomuksesta tarkoituksena antaa saamenkielisille ja
-        muille, jotka haluavat kirjoittaa saamea, samat välineet kirjoittamiseen
-        kuin mitä norjankielisillä on. Tämä on erityisen tärkeää, koska monet
-        saamelaiset eivät ole oppineet kirjoittamaan saamea. Projekti on siten
-        osa strategiasta vahvistaa saamen kieltä, ja lisätä saamen kielen
-        käyttämistä kirjoituskielenä.
-      </p>
-      <p>
-        <a href="http://www.samediggi.no">Norjan Saamelaiskäräjät</a>, 
-        <a href="http://www.odin.dep.no/krd/english/bn.html">Kommunal- ja
-        regionaldepartementet</a>, <a href="http://www.odin.dep.no/ufd/english/bn.html">
-        Undervisnings- ja forskningsdepartementet</a> ja <a href="http://www.odin.dep.no/kkd/english/bn.html">
-        Kultur- og kirkedepartementet</a> ovat rahoittaneet projektia ja
-        kaikki, jotka kirjoittavat saameksi, voivat vapaasti käyttää valmiita
-        ohjelmia.
-      </p>
-      <p>
-        Me panostamme sellaisen saamen kielen oikolukuohjelman tuottamiseen,
-        jota voidaan käyttää sekä Norjassa, Ruotsissa ja Suomessa. Koska
-        projekti toteutetaan Norjassa ja on puhtaasti norjalainen projekti, niin
-        se voi leimata valmista ohjelmaa, mutta me tulemme aktiivisesti tekemään
-        töitä sen eteen, että kaikki voivat ja tulevat näitä ohjelmia
-        käyttämään.
-      </p>
-    </section>
-    <section>
-      <title>Organisointi</title>
-      <p>
-        Projekti kuuluu Norjan saamelaiskäräjien alaisuuteen. Sillä on oma
-        ohjausryhmänsä, johon kuuluu jäseniä saamelaiskäräjiltä, ministeriöistä
-        ja Tromsan yliopistosta.
-      </p>
-      <section>
-        <title>Projektin johtokunta</title>
-        <dl>
-          <dt>Julie Eira</dt>
-          <dd>Johtokunnan puheenjohtaja, edustaa Saamelaiskäräjiä</dd>
-          <dt>Per Edvard Klemetsen</dt>
-          <dd>Edustaa Saamelaiskäräjiä</dd>
-          <dt>Eirik Liland</dt>
-          <dd>Edustaa Tromssan yliopistoa</dd>
-          <dt>Bjørn Olav Megard</dt>
-          <dd>Edustaa kunta- ja alueministeriö</dd>
-          <dt>Øystein Johannessen</dt>
-          <dd>Varajäsen, edustaa opetus- ja tutkimusministeriöä</dd>
-          <dt>Sjur N. Moshagen</dt>
-          <dd>
-            … ei ole lautakunnan jäsen, mutta osallistuu aina kokouksiin ja          
-            edustaa Divvun-projektia
-          </dd>
-        </dl>
-      </section>
-      <section>
-        <title>Projektin työntekijät</title>
-        <dl>
-          <dt>Sjur N. Moshagen</dt>
-          <dd>Projektipäällikkö, sjur piste moshagen at samediggi punkt no</dd>
-          <dt>Børre Gaup</dt>
-          <dd>Projektityöntekijä, borre piste gaup at samediggi punkt no</dd>
-          <dt>Thomas Omma</dt>
-          <dd>Lingvisti, thomas piste omma samediggi piste no</dd>
-          <dt>Maaren Palismaa</dt>
-          <dd>Lingvisti, maren piste palismaa samediggi piste no</dd>
-          <dt>Tomi Pieski</dt>
-          <dd>Ohjelmoija, tomi piste pieski samediggi piste no</dd>
-        </dl>
-      </section>
-      <p>
-        Projekti perustuu työlle, joka on tehty Tromsan yliopistossa,
-        ja tämän projektin ja Tromsan yliopiston kieliteknologisen piirin 
-        välillä käydäänkin läheistä ja päivittäistä yhteistyötä, joka on niin   
-        läheistä, että meillä on yhteinen infrastruktuuri.
-        (katso &quot;<a href="http://giellatekno.uit.no" >Sámi
-        disamb</a>&quot; yläpuolella olevasta linkistä).
-      </p> 
     </section>
     <section>
       <title>Valmis oikolukuväline</title>
@@ -176,21 +93,40 @@
         kappaletta, johon olemme keränneet hyödyllisiä linkkejä.
       </p>
     </section>
+    
     <section>
-      <title>Projektin kielipolitiikka</title>
-      <p>
-        Projekti on monikielinen ja se tulee myös koskemaan tuottamiamme
-        dokumentaatioita, vertaa <a href="lang-policy.fi.html">projektin
-        kielipolitiikka</a>.
-      </p>
-      <p>
-        Projektilla ei ole omaa politiikkaa koskien saamen kielen
-        kirjakielen normittamista ja me tulemme seuraamaan niitä määrättyjä
-        normeja, joita saamen kielen normittamisesta päättävä elin asettaa.
-        Epäselvissä tapauksissa pyydämme saamen kielten normittamisesta
-        vastaavilta elimiä suosituksia hyväksyttävästä kirjoitustavasta.
-      </p>
+        <title>Source code and documentation</title>
+        <section>
+            <title>Anonymous cvs</title>
+            <p>
+                The source code to this project is open source, and it is available
+                through <a href="doc/infra/anonymous-cvs.html">anonymous cvs</a>. We have also written 
+                a document on how to <a href="doc/intro.html">find your way</a> through the
+                source code.
+            </p>
+        </section>
+        
+        <section>
+            <title>Download documentation</title>
+            <p>
+                All the documentation on this project is available on this
+                site. If you would like to have this documentation on your
+                own computer, follow the instruction on 
+                <a href="doc/infra/anonymous-cvs.html">anonymous cvs</a>, then go on to 
+                <a href="doc/infra/forrest-howto.html">setup forrest</a>. 
+                After that all our documentation sits on your own computer, and 
+                you can navigate through it with a web browser.
+             </p>
+        </section>
+        
+        <section>
+            <title>Downloads</title>
+            <p>
+                
+            </p>
+        </section>
     </section>
+
     <section>
       <title>Hyödyllisiä linkkejä</title>
       <ul>
@@ -199,9 +135,9 @@
           <li><a href="http://www.openoffice.org/">OpenOffice</a></li>
           <li><a href="http://www.xrce.xerox.com/competencies/content-analysis/fst/">Xerox FST-työkaluja</a></li>
         </ul>
+    </section>
       <p class="last_modified">
         Päivitetty: $Date$, by $Author$
       </p>
-    </section>
   </body>
 </document>
