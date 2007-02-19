@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<document>
+    <header>
+        <title>Downloads</title>
+    </header>
+    <body>
+        <section>
+            <title>Spellers</title>
+        </section>
+        <section>
+            <title>Corpus files</title>
+        </section>
+        <section>
+            <title>Wordlists</title>
+        </section>
+        <section>
+            <title>Misc.</title>
+        </section>
+    </body>
+</document>
