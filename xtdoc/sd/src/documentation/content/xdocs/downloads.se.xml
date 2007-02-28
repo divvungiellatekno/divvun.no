@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+          "http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="se"> 
+    <header>
+        <title>Viežžahahtti fiillat</title>
+    </header>
+    <body>
+        <section>
+            <title>Čállindárkkisteaddjit</title>
+        </section>
+        <section>
+            <title>Korpusfiillat</title>
+        </section>
+        <section>
+            <title>Sátnelisttut</title>
+            <ul>
+                <li>Davvi Sámi <a href="static_files/wordlist-sme-2006-11-13.txt.gz">sátnelistu mas lea buot sojahuvvon hámit</a> ráhkaduvvon 2006-11-13 (1,9 GB)</li>
+                <li>Lule Sámi <a href="static_files/wordlist-sme-2006-11-13.txt.gz">sátnelistu mas lea buot sojahuvvon hámit</a> ráhkaduvvon 2006-13-13 (84 MB)</li>
+            </ul>
+        </section>
+        <section>
+            <title>Feará mii</title>
+            <ul>
+                <li><a href="static_files/divvun_forrest.tar.bz2">Divvuna forrest veršuvdna (39 MB)</a></li>
+            </ul>
+        </section>
+    </body>
+</document>
