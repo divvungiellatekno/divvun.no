@@ -11,6 +11,14 @@
         </section>
         <section>
             <title>Korpusfiler</title>
+            <ul>
+                <li>Frie sørsamiske texts, <a href="static_files/sma-free-txt.zip">ren tekst</a> (9,4 KB)</li>
+                <li>Frie nordsamiske texts, <a href="static_files/sme-free-txt.zip">ren tekst</a> (4,5 MB)</li>
+                <li>Frie lulesamiske texts, <a href="static_files/smj-free-txt.zip">ren tekst</a> (141 KB)</li>
+                <li>Frie sørsamiske texts, <a href="static_files/sma-free-xml.zip">xml-format</a> (10,9 KB)</li>
+                <li>Frie nordsamiske texts, <a href="static_files/sme-free-xml.zip">xml-format</a> (4,9 MB)</li>
+                <li>Frie lulesamiske texts, <a href="static_files/smj-free-xml.zip">xml-format</a> (152,2 KB)</li>
+            </ul>
         </section>
         <section>
             <title>Ordlister</title>

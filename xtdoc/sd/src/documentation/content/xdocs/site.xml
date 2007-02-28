@@ -28,6 +28,8 @@
               label="Mo reaiddut ráhkaduvvojit" />
     <matta description="Manne máttasámegiella ii leat oassi prošeavttas"
            href="sma-background.html" label="Máttasámegiella" />
+    <downloads description="Download files from divvun.no" href="downloads.html"
+               label="Downloads" />
     <pr href="pr/" label="Preassadieđáhusat">
 	    <pr1 description="divvun.no almmuhus"
 		 href="pressrelease-20050613.html" label="PRD: 2005.06.13" />
