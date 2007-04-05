@@ -150,6 +150,12 @@ which will be used to configure the chosen Forrest skin.
     .nonvalid {
       background-color: pink !important;
     }
+    .correct {
+      background-color: lightgreen;
+    }
+    .forced, .forced td {
+      background-color: yellow;
+    }
   </extra-css>
   <colors>
   </colors>
