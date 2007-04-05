@@ -118,7 +118,7 @@
       <table>
         <tr>
           <th>Input word</th>
-          <th>Expected word</th>
+          <th>Expected correction</th>
           <th>Suggestions</th>
         </tr>
         <xsl:apply-templates select="word[status='SplErr'][suggestions/@count > 0][position > 0]">
@@ -131,7 +131,7 @@
       <table>
         <tr>
           <th>Input word</th>
-          <th>Expected word</th>
+          <th>Expected correction</th>
         </tr>
         <xsl:apply-templates select="word[status='SplErr'][suggestions/@count > 0][position = 0]">
           <xsl:sort select="original" />
@@ -143,7 +143,7 @@
       <table>
         <tr>
           <th>Input word</th>
-          <th>Expected word</th>
+          <th>Expected correction</th>
         </tr>
         <xsl:apply-templates select="word[status='SplErr'][suggestions/@count = 0]">
           <xsl:sort select="original" />
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <th>Input word</th>
-          <th>Expected word</th>
+          <th>Expected correction</th>
         </tr>
         <xsl:apply-templates select="word[status='SplCor']">
           <!--xsl:sort select="position" order="ascending"/-->
