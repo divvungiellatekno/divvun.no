@@ -31,7 +31,7 @@
             <xsl:value-of select="$overviewlang"/>
           </i18n:text>:
           <xsl:value-of select="count/total/language[@xml:lang = $overviewlang]/@count"/>
-          files
+          files.
         </title>
       </header>
       <body>
