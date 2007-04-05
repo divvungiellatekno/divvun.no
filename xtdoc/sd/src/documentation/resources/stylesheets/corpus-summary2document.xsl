@@ -27,8 +27,10 @@
   </xsl:template>
 
   <xsl:template match="language">
+    <tr>
       <td colspan="2"><strong><xsl:value-of select="@xml:lang"/>
       files:</strong></td>
+    </tr>
     <xsl:apply-templates select="genre"/>
     <tr>
       <th>Total number of
