@@ -31,6 +31,8 @@
             <title>Misc.</title>
             <ul>
                 <li><a href="static_files/divvun_forrest.tar.bz2">Divvuns forrest version (39 MB)</a></li>
+		<li><a href="static_files/gobby-fink-ppc-20070410.tar.bz2">Fink containing gobby, ppc version</a>
+		<li><a href="static_files/gobby-fink-intel-20070329.tar.bz2">Fink containing gobby, intel version</a>
             </ul>
         </section>
     </body>
