@@ -31,8 +31,8 @@
             <title>Ymse</title>
             <ul>
                 <li><a href="static_files/divvun_forrest.tar.bz2">Divvuns forrest versjon (39 MB)</a></li>
-		<li><a href="static_files/gobby-fink-ppc-20070410.tar.bz2">Fink inklusive gobby, ppc versjon</a>
-		<li><a href="static_files/gobby-fink-intel-20070329.tar.bz2">Fink inklusive gobby, intel versjon</a>
+		<li><a href="static_files/gobby-fink-ppc-20070410.tar.bz2">Fink inklusive gobby, ppc versjon</a></li>
+		<li><a href="static_files/gobby-fink-intel-20070329.tar.bz2">Fink inklusive gobby, intel versjon</a></li>
             </ul>
         </section>
     </body>
