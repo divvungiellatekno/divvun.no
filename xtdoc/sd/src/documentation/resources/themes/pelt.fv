@@ -132,6 +132,12 @@ div.abstract:before {
 .nonvalid {
   background-color: pink !important;
 }
+.correct {
+  background-color: lightgreen;
+}
+.forced, .forced td {
+  background-color: yellow;
+}
 
 h1, h2, h3, h4, h5, h6 { font-family: "DejaVu Sans", Verdana, Arial, Helvetica,
 sans-serif; }
