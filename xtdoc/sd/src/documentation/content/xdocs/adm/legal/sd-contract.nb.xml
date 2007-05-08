@@ -16,27 +16,14 @@
           (<code>avgjevar</code>)</title>
 
           <table>
-            <tr>
-                <th>Rolle:</th>
-                <th>Forfattar</th>
-            </tr>
-            <tr>
-                <td>Namn:</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Adresse:</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Postnummer og -stad:</td>
-                <td></td>
-            </tr>
+            <tr><th>Rolle:</th>                   <th>Forfattar</th></tr>
+            <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adresse:</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Postnummer og -stad:</td>     <td>&nbsp;</td></tr>
           </table>
 
-
           <table>
-            <tr><th>Rolle:</th>                   <th>omsetjar</th></tr>
+            <tr><th>Rolle:</th>                   <th>Omsetjar</th></tr>
             <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
             <tr><td>Adresse:</td>                 <td>&nbsp;</td></tr>
             <tr><td>Postnummer og -stad:</td>     <td>&nbsp;</td></tr>
@@ -44,22 +31,10 @@
 
 
           <table>
-            <tr>
-                <th>Rolle:</th>
-                <th>Forleggjar</th>
-            </tr>
-            <tr>
-                <td>Namn:</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Adresse:</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Postnummer og -stad:</td>
-                <td></td>
-            </tr>
+            <tr><th>Rolle:</th>                   <th>Forleggjar</th></tr>
+            <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adresse:</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Postnummer og -stad:</td>     <td>&nbsp;</td></tr>
           </table>
 
         </section>
@@ -69,9 +44,9 @@
           (<code>mottakar</code>)</title>
 
           <table>
-            <tr><td>Namn</td>                    <td>Sámediggi · Sametinget</td></tr>
-            <tr><td>Adresse</td>                 <td>Ávjovárgeaidnu 50</td></tr>
-            <tr><td>Postnummer og -stad</td>     <td>N-9730 Karasjok</td></tr>
+            <tr><td>Namn</td>               <td>Sámediggi · Sametinget</td></tr>
+            <tr><td>Adresse</td>            <td>Ávjovárgeaidnu 50</td></tr>
+            <tr><td>Postnummer og -stad</td><td>N-9730 Karasjok</td></tr>
           </table>
 
         </section>
@@ -190,27 +165,13 @@
         <p/>
 
           <table>
-            <tr>
-                <th>Avgjevarar</th><th>Mottakar</th>
-            </tr>
-            <tr>
-                <td>Stad og tid:</td><td>Stad og tid:</td>
-            </tr>
-            <tr>
-                <td>Underskrift:</td><td>Underskrift:</td>
-            </tr>
-            <tr>
-                <td>Stad og tid:</td><td><!--Stad og tid:--></td>
-            </tr>
-            <tr>
-                <td>Underskrift:</td><td><!--Underskrift:--></td>
-            </tr>
-<!--            <tr>
-                <td>Stad og tid:</td>
-            </tr>
-            <tr>
-                <td>Underskrift:</td>
-            </tr>-->
+            <tr><th>Avgjevarar</th>    <th>Mottakar</th></tr>
+            <tr><td>Stad og tid:</td>  <td>Stad og tid:</td></tr>
+            <tr><td>Underskrift:</td>  <td>Underskrift:</td></tr>
+            <tr><td>Stad og tid:</td>  <td><!--Stad og tid:--></td></tr>
+            <tr><td>Underskrift:</td>  <td><!--Underskrift:--></td></tr>
+<!--        <tr><td>Stad og tid:</td></tr>
+            <tr><td>Underskrift:</td></tr>-->
           </table>
 
       </section>
