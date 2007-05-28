@@ -10,49 +10,24 @@
     <section>
       <title>Pressmeddelande</title>
 
-      <p>Dato: 29.5.2007<br /> Kontaktperson: Prosjektleder Sjur
+      <p>Datum: 29.5.2007<br /> Kontaktperson: Projektledare Sjur
       Nørstebø Moshagen, tel. mob. +358 50 56 34 319</p>
     </section>
 
     <section>
-      <title>PRM: Betaversjon av samiske korrekturverktøy</title>
+      <title>PRM: Betaversion av samiska korrekturverktyg</title>
 
-      <p>Sametingets Divvun-prosjekt lanserer den første, offentlig
-      tilgjengelige versjonen av samiske korrekturverktøy for Microsoft
-      Office-pakken som blant annet inneholder programmene Word, Outlook,
-      PowerPoint og Excel.</p>
+      <p>Sametingets Divvun-projekt lanserar den första offentligt tillgängliga versionen av samiska korrekturverktyg för Microsoft Office-paketet som bland annat innehåller programmen Word, Outlook, PowerPoint och Excel.</p>
 
-      <p>De samiske korrekturverktøyene inneholder stavekontroller for
-      nordsamisk og lulesamisk, og en automatisk orddeler for nordsamisk.
-      Orddeling for lulesamisk vil komme senere i år. Alle verktøyene er
-      gratis, inklusive den endelige versjonen, og all kildekode for verktøyene
-      som Sametinget har råderett over, er fritt tilgjengelig.</p>
+      <p>De samiska korrekturverktygen innehåller stavningskontroll för nord- och lulesamiska, och automatisk avstavning för nordsamiska. Avstavning för lulesamiska kommer senare under året. Alla verktygen är gratis, också den slutliga versionen. All källkod som Sametinget har copyright till är fritt tillgänglig.</p>
 
-      <p>Det er ikke de ferdige verktøyene som nå lanseres, men en såkalt
-      betaversjon, en versjon som burde være fri for alvorlige tekniske og
-      andre feil, men som ikke er helt ferdig utviklet og testet.
-      Målet med betaversjonen er å få viktige tilbakemeldinger når det gjelder
-      manglende ord, eventuelle tekniske
-      problemer, og andre svakheter som måtte finnes, slik at de kan rettes opp
-      før den endelige versjonen lanseres mot slutten av året.</p>
+      <p>Det är inte de färdiga verktygen som nu lanseras, utan en så kallad betaversion, en version som torde vara fri från allvarliga tekniska och andra fel, men som inte är helt färdigt utvecklad och testad. Målet med betaversionen är att få viktig feedback gällande ord som saknas, eventuella tekniska problem och andra möjiga fel, så att de kan rättas till innan den officiella versionen lanseras mot slutet av året.</p>
 
-      <p>Korrekturverktøyene som lanseres, er korrekturverktøy for MS
-      Office, for Windows og Mac. Verktøy for InDesign og OpenOffice.org vil
-      gjøres tilgjengelige senere. OpenOffice.org er et gratis alternativ til
-      Microsoft Office, og finnes også for Linux. Oppdateringer av
-      korrekturverktøyene vil bli lagt ut med jevne mellomrom.</p>
+      <p>Verktygen som lanseras är korrekturverktyg för MS Office för Windows och Mac. Verktyg för InDesign och OpenOffice.org blir tillgängliga senare. OpenOffice.org är ett kostnadsfritt alternativ till Microsoft Office, som också finns för Linux. Uppdateringar av korrekturverktygen kommer att läggas ut med jämna mellanrum.</p>
 
-      <p>Verktøyene finnes tilgjengelige på <a href="www.divvun.no"
-      >www.divvun.no</a>, og kan lastes ned av alle interesserte. Kopier av
-      verktøyene kan også lastes ned fra <a href="www.sametinget.no">Sametingets
-      hjemmeside</a>.</p>
+      <p>Verktygen finns tillgängliga på www.divvun.no, och kan laddas ner av alla intresserade. Kopior av verktygen kan också hämtas från Sametingets hemsida.</p>
 
-      <p>Divvun-prosjektet drives av Sametinget i Norge, og er finansiert av
-      Sametinget, Arbeids- og inkluderingsdepartementet, Kultur- og
-      kirkedepartementet, Kunnskapsdepartementet, og Nordplus Sprog. Prosjektet
-      samarbeider nært med <a href="http://giellatekno.uit.no/"
-      >språkteknologimiljøet ved Universitetet i Tromsø</a>. Integrering mot MS
-      Office blir levert av <a href="http://www.polderland.nl/">Polderland
+      <p>Divvun-projektet genomförs av Sametinget i Norge, och är finansierat av Sametinget, Arbeids- og inkluderingsdepartementet, Kultur- og kirkedepartementet, Kunnskapsdepartementet, och Nordplus Sprog. Projektet samarbetar mycket nära med språkteknologimiljön vid Universitetet i Tromsø. Integrering mot MS Office levereras av <a href="http://www.polderland.nl/">Polderland
       Language &amp; Speech Technology bv</a>.</p>
     </section>
   </body>
