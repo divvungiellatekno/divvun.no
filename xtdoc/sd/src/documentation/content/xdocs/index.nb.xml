@@ -6,6 +6,21 @@
     <title>Divvun - samiske korrekturverktøy</title>
     </header>
     <body>
+    <section>
+      <title>Offisiell Beta er klar!</title>
+      <p>
+        Fra og med 29. mai er den første offentlige versjonen av de samiske 
+        ordretteprogrammene tilgjengelg. Dette er et historisk øyeblikk i 
+        den samiske dataalderen, og det er en viktig milepæl i arbeidet med
+        å bruke samisk i det moderne samfunnet. Gå rett til vår  
+        <a href="downloads.html">nedlastingsside</a>,
+        eller les mer om denne versjonen <a
+        href="doc/proof/spelling/msoff/install_use.nb.html">sleppnotatene</a>.
+      </p>
+      <ul>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Win</a></li>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Mac</a></li>
+    </section>
       <section>
         <title>Hva er Divvun?</title>
         <p>
@@ -43,12 +58,12 @@
           </tr>
           <tr>
             <td>MS Office/Win</td>
-            <td>x</td>
+            <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Beta tilgjengelig</a></td>
             <td>x</td>
           </tr>
           <tr>
             <td>MS Office/Mac</td>
-            <td>x</td>
+            <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Beta tilgjengelig</a></td>
             <td>x</td>
           </tr>
           <tr>

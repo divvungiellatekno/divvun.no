@@ -7,6 +7,21 @@
   </header> 
   <body> 
     <section>
+      <title>Public Beta available!</title>
+      <p>
+        As of May 29, the first public release of the Sámi proofing tools is
+        available. This is an historic event in the Sámi computing age, and
+        marks an important milestone in keeping Sámi alive in the modern
+        society. Go directly to our <a href="downloads.html">download page</a>,
+        or read more about the release in the <a
+        href="doc/proof/spelling/msoff/install_use.en.html">release notes</a>,
+        or download here:
+      </p>
+      <ul>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Win</a></li>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Mac</a></li>
+    </section>
+    <section>
       <title>What is Divvun?</title>
       <p>
         Divvun is a project run by the Sámi Parliament in order to make spell
@@ -43,12 +58,12 @@
         </tr>
         <tr>
           <td>MS Office/Win</td>
-          <td>x</td>
+          <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Beta available</a></td>
           <td>x</td>       
         </tr>
         <tr>
           <td>MS Office/Mac</td>
-          <td>x</td>
+          <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Beta available</a></td>
           <td>x</td>       
         </tr>
         <tr>
