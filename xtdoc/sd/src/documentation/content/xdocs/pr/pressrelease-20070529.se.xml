@@ -1,59 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="nb">
+<document xml:lang="se">
   <header>
-    <title>Pressemelding, 29.5.2007</title>
+    <title>Preassadieđáhus, 29.5.2007</title>
   </header>
 
   <body>
     <section>
-      <title>Pressemelding</title>
+      <title>Preassadieđáhus</title>
 
-      <p>Dato: 29.5.2007<br /> Kontaktperson: Prosjektleder Sjur
+      <p>Dato: 29.5.2007<br /> Gulahallanolmmoš: <br /> Prošeaktajođiheaddji Sjur
       Nørstebø Moshagen, tel. mob. +358 50 56 34 319</p>
     </section>
 
     <section>
-      <title>PRM: Betaversjon av samiske korrekturverktøy</title>
+      <title>PRM: Sámediggi almmuha divvunreaidduid beta-veršuvnna y</title>
 
-      <p>Sametingets Divvun-prosjekt lanserer den første, offentlig
-      tilgjengelige versjonen av samiske korrekturverktøy for Microsoft
-      Office-pakken som blant annet inneholder programmene Word, Outlook,
-      PowerPoint og Excel.</p>
+      <p>Sámediggi álggahii 1.10.2004 prošeavtta man ulbmil lea ráhkadit sámegielat divvunprográmmaid. Divvun-prošeakta almmuha dál vuosttaš veršuvnna mii lea almmolaččat viežžan láhkai .</p>
 
-      <p>De samiske korrekturverktøyene inneholder stavekontroller for
-      nordsamisk og lulesamisk, og en automatisk orddeler for nordsamisk.
-      Orddeling for lulesamisk vil komme senere i år. Alle verktøyene er
-      gratis, inklusive den endelige versjonen, og all kildekode for verktøyene
-      som Sametinget har råderett over, er fritt tilgjengelig.</p>
+      <p>Dál eai almmuhuvvo gárvves reaiddut, muhto nu gohčoduvvon beta-veršuvdna, mii lea veršuvdna mas eai galgga leat stuorra teknihkalaš vigit dahje eará vigit, muhto ráhkadeapmi ja testen ii  leat loahpalaččat gárvvistuvvon. Divvun-prošeakta doaivu dáinna almmuhemiin oažžut dehálaš dieđuid makkár váilevaš sánit, vejolaš teknihkalaš váttisvuođat ja eará heajos bealit dáid reaidduin  leat. Dainna lágiin sáhttá daid divvut ovdal go gárvves veršuvdna almmuhuvvo jagi loahpas.
+     </p>
 
-      <p>Det er ikke de ferdige verktøyene som nå lanseres, men en såkalt
-      betaversjon, en versjon som burde være fri for alvorlige tekniske og
-      andre feil, men som ikke er helt ferdig utviklet og testet.
-      Målet med betaversjonen er å få viktige tilbakemeldinger når det gjelder
-      manglende ord, eventuelle tekniske
-      problemer, og andre svakheter som måtte finnes, slik at de kan rettes opp
-      før den endelige versjonen lanseres mot slutten av året.</p>
+      <p>Dál almmuhuvvojit divvunreaiddut MS
+      Office,  Windows ja Mac várás. Reaiddut InDesign ja OpenOffice.org almmuhuvvojit maŋŋil. Reaidduid ođasmahttimat biddjojit jámma sisa.</p>
 
-      <p>Korrekturverktøyene som lanseres, er korrekturverktøy for MS
-      Office, for Windows og Mac. Verktøy for InDesign og OpenOffice.org vil
-      gjøres tilgjengelige senere. OpenOffice.org er et gratis alternativ til
-      Microsoft Office, og finnes også for Linux. Oppdateringer av
-      korrekturverktøyene vil bli lagt ut med jevne mellomrom.</p>
+      <p>Reaiddut leat gávdnamis www.divvun.no, ja buot berošteaddjit ožžot daid viežžat.</p>
 
-      <p>Verktøyene finnes tilgjengelige på <a href="www.divvun.no"
-      >www.divvun.no</a>, og kan lastes ned av alle interesserte. Kopier av
-      verktøyene kan også lastes ned fra <a href="www.sametinget.no">Sametingets
-      hjemmeside</a>.</p>
-
-      <p>Divvun-prosjektet drives av Sametinget i Norge, og er finansiert av
-      Sametinget, Arbeids- og inkluderingsdepartementet, Kultur- og
-      kirkedepartementet, Kunnskapsdepartementet, og Nordplus Sprog. Prosjektet
-      samarbeider nært med <a href="http://giellatekno.uit.no/"
-      >språkteknologimiljøet ved Universitetet i Tromsø</a>. Integrering mot MS
-      Office blir levert av <a href="http://www.polderland.nl/">Polderland
-      Language &amp; Speech Technology bv</a>.</p>
+      <p>Divvun-prošeavtta jođiha Norgga Sámediggi. Sámediggi, Bargo- ja searvadahttindepartemeanta , Kultur- ja girkodepartemeanta ja Nordplus Sprog leat ruhtadan dan. Prošeavttas lea lagas ovttasbargu <a
+      href="http://giellatekno.uit.no/">Romssa universitehta giellateknologiijabirrasiin</a>. Ovttaiduvvama  MS Officiin lágida <a
+      href="http://www.polderland.nl/">Polderland Language &amp; Speech
+      Technology bv</a>.</p>
     </section>
   </body>
 </document>
