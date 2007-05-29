@@ -8,16 +8,22 @@
     <body>
         <section>
             <title>Stavekontroller</title>
+            <ul>
+              <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">North and Lule sami MSOffice/Windows spellers</a>
+              </li>
+              <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">North and Lule sami MSOffice/Mac spellers</a>
+              </li>
+            </ul>
         </section>
         <section>
             <title>Korpusfiler</title>
             <ul>
-                <li>Frie sørsamiske texts, <a href="static_files/sma-free-txt.zip">ren tekst</a> (9,4 KB)</li>
-                <li>Frie nordsamiske texts, <a href="static_files/sme-free-txt.zip">ren tekst</a> (4,5 MB)</li>
-                <li>Frie lulesamiske texts, <a href="static_files/smj-free-txt.zip">ren tekst</a> (141 KB)</li>
-                <li>Frie sørsamiske texts, <a href="static_files/sma-free-xml.zip">xml-format</a> (10,9 KB)</li>
-                <li>Frie nordsamiske texts, <a href="static_files/sme-free-xml.zip">xml-format</a> (4,9 MB)</li>
-                <li>Frie lulesamiske texts, <a href="static_files/smj-free-xml.zip">xml-format</a> (152,2 KB)</li>
+                <li>Frie sørsamiske tekster, <a href="static_files/sma-free-txt.zip">ren tekst</a> (9,4 KB)</li>
+                <li>Frie nordsamiske tekster, <a href="static_files/sme-free-txt.zip">ren tekst</a> (4,5 MB)</li>
+                <li>Frie lulesamiske tekster, <a href="static_files/smj-free-txt.zip">ren tekst</a> (141 KB)</li>
+                <li>Frie sørsamiske tekster, <a href="static_files/sma-free-xml.zip">xml-format</a> (10,9 KB)</li>
+                <li>Frie nordsamiske tekster, <a href="static_files/sme-free-xml.zip">xml-format</a> (4,9 MB)</li>
+                <li>Frie lulesamiske tekster, <a href="static_files/smj-free-xml.zip">xml-format</a> (152,2 KB)</li>
             </ul>
         </section>
         <section>
