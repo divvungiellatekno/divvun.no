@@ -1,59 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="nb">
+<document xml:lang="smj">
   <header>
-    <title>Pressemelding, 29.5.2007</title>
+    <title>Præssadiededibme, 13.06.2005</title>
   </header>
 
   <body>
     <section>
-      <title>Pressemelding</title>
+      <title>Præssadiededibme</title>
 
-      <p>Dato: 29.5.2007<br /> Kontaktperson: Prosjektleder Sjur
-      Nørstebø Moshagen, tel. mob. +358 50 56 34 319</p>
+      <p>Biejvve: 27.05.2005<br /> Guládallamålmåj: Prosjæktajådediddje
+      Sjur Nørstebø Moshagen, tel. mob. +358 50 56 34 319</p>
     </section>
 
     <section>
-      <title>PRM: Betaversjon av samiske korrekturverktøy</title>
+      <title>PRD: Sámedigge almot beta-versjåvnåv
+      riektatjállemprográmmas.</title>
 
-      <p>Sametingets Divvun-prosjekt lanserer den første, offentlig
-      tilgjengelige versjonen av samiske korrekturverktøy for Microsoft
-      Office-pakken som blant annet inneholder programmene Word, Outlook,
-      PowerPoint og Excel.</p>
+      <p>Sámedikke Divvun-prosjækta almot uddni vuostasj versjåvnåv
+      riektatjállemprográmmas mij doajmmá Microsoft Office-páhkan gånnå
+      prográmma Word, Outlook, PowerPoint ja Excel gávnnuji. </p>
 
-      <p>De samiske korrekturverktøyene inneholder stavekontroller for
-      nordsamisk og lulesamisk, og en automatisk orddeler for nordsamisk.
-      Orddeling for lulesamisk vil komme senere i år. Alle verktøyene er
-      gratis, inklusive den endelige versjonen, og all kildekode for verktøyene
-      som Sametinget har råderett over, er fritt tilgjengelig.</p>
+      <p>Sámegiella divvomnævojs almoduvvá nuorttasáme ja julevsáme
+      riektatjállemprográmma ja nuorttasáme báhkojuohkke. Julevsáme
+      báhkojuohkke almoduvvá tjaktjaj. Nævojt dåhkki nåvkå viedtjat, ja gå
+      gárves versjåvnnå almoduvvá de aj dáv dåhkki nåvkå viedtjat. Divna
+      gálldokåvddå majt Sámedigge æjggu li aj rabás gájkajda.</p>
 
-      <p>Det er ikke de ferdige verktøyene som nå lanseres, men en såkalt
-      betaversjon, en versjon som burde være fri for alvorlige tekniske og
-      andre feil, men som ikke er helt ferdig utviklet og testet.
-      Målet med betaversjonen er å få viktige tilbakemeldinger når det gjelder
-      manglende ord, eventuelle tekniske
-      problemer, og andre svakheter som måtte finnes, slik at de kan rettes opp
-      før den endelige versjonen lanseres mot slutten av året.</p>
+      <p>Ij la gal gárves
+      riektatjállemprográmma mij almoduvvá, valla beta-versjåvnnå.
+      Riektatjállemprográmma galggá doajmmat teknihkalasj vigij dagi ja ietjá
+      stuoráp vigij dagi juska beta-versjåvnnå ij la gárves mij guosská
+      åvddånahttemij ja adnuj. Almodime tjadá sihtá Divvun-prosjækta diedojt
+      oadtjot bágoj birra ma vájllu, teknihkalasj gássjelisvuodaj birra ja
+      ietjá vánesvuodaj birra, váj dá máhtti divoduvvat åvddål gå gárves
+      versjåvnnå almoduvvá tjaktjaj.</p>
 
-      <p>Korrekturverktøyene som lanseres, er korrekturverktøy for MS
-      Office, for Windows og Mac. Verktøy for InDesign og OpenOffice.org vil
-      gjøres tilgjengelige senere. OpenOffice.org er et gratis alternativ til
-      Microsoft Office, og finnes også for Linux. Oppdateringer av
-      korrekturverktøyene vil bli lagt ut med jevne mellomrom.</p>
+      <p>Riektatjállemprográmma mij almoduvvá doajmmá MS Officen, Windowsan ja
+      Macan. Riektatjállemprográmma mij doajmmá InDesignan ja OpenOffice.org:an
+      almoduvvá tjaktjaj. Dåhkki adnet OpenOffice.org:av, majt nåvkå máhttá
+      viedtjat, Microsoft Offica sajen, dát doajmmá aj Linuxin.
+      Riektatjállemprográmma ådåstuhteduvvá maŋenagi ja ådå versjåvnå
+      sijddabælláj almoduvvi.</p>
 
-      <p>Verktøyene finnes tilgjengelige på <a href="www.divvun.no"
-      >www.divvun.no</a>, og kan lastes ned av alle interesserte. Kopier av
-      verktøyene kan også lastes ned fra <a href="www.sametinget.no">Sametingets
-      hjemmeside</a>.</p>
+      <p>Riektatjállemnævojt dåhkki viedtjat Divvun-prosjevta sijddabielen
+      <a href="http://www.divvun.no/">www.divvun.no</a>. Dåhkki aj dájt 
+      nævojt viedtjat 
+      <a href="http://www.sametinget.no/">Sámedikke sijddabielen</a>.</p>
 
-      <p>Divvun-prosjektet drives av Sametinget i Norge, og er finansiert av
-      Sametinget, Arbeids- og inkluderingsdepartementet, Kultur- og
-      kirkedepartementet, Kunnskapsdepartementet, og Nordplus Sprog. Prosjektet
-      samarbeider nært med <a href="http://giellatekno.uit.no/"
-      >språkteknologimiljøet ved Universitetet i Tromsø</a>. Integrering mot MS
-      Office blir levert av <a href="http://www.polderland.nl/">Polderland
-      Language &amp; Speech Technology bv</a>.</p>
+      <p>Vuona Sámedigge háldat Divvun-prosjevtav, mij ruhtaduvvá Sámedikkes,
+      Barggo- ja Inkluderimdepartementas, Kultuvrra- ja girkkodepartementas,
+      Máhttudakdepartementas ja Nordplus Sprogas. Prosjækta aktisattjat barggá
+      <a href="http://giellatekno.uit.no/">Råmså universitehta
+      giellateknologijabirrasijn</a>. <a
+      href="http://www.polderland.nl/">Polderland Language &amp; Speech
+      Technology bv</a> la integrerim MS Offica vuossti.</p>
     </section>
   </body>
 </document>
