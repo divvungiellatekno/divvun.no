@@ -7,6 +7,21 @@
   </header>
   <body>
     <section>
+      <title>Almmolaš Beta olámuttus!</title>
+      <p>
+        Miessemánu 29. b. rájes leat sámi čállindárkkistanprográmmat olámuttus.
+        Dát lea historjjálaš dáhpáhus sámi dihtoráiggis, ja lea dehálaš 
+        olahus doalahit sámegiela ealli giellan ođđaáigásaš servvodagas. 
+        Mana njuolga min <a href="downloads.html">vieččahahtti fiillaid siidui
+        </a>, dahje loga eanet dáid prográmmaid birra 
+        <a href="doc/proof/spelling/msoff/install_use.se.html">čilgehusain
+        </a>.
+      </p>
+      <ul>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Win</a></li>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Mac</a></li>
+    </section>
+    <section>
       <title>Mii Divvun lea?</title>
       <p>
         Divvun lea prošeakta, man Norgga Sámediggi lea álggahan. Ulbmil lea
@@ -14,8 +29,8 @@
         korrektuvraprográmma ja sátnejuohkin davvisámegiela várás, ja
         korrektuvraprográmma julevsámegiela várás. Dán prioriterema birra logat
         eanet <a href="sma-background.se.html" >dáppe</a>. Reaiddut galget
-        doaibmat dábáleamos kántuvraprográmmain Windows:as, Linux:as ja
-        Mac:as
+        doaibmat dábáleamos kántuvraprográmmain Windowsas, Linuxas ja
+        Macas
       </p>
     </section>
     <section>
@@ -42,12 +57,12 @@
         </tr>
         <tr>
           <td>MS Office/Win</td>
-          <td>x</td>
+          <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Beta olámuttus</a></td>
           <td>x</td>
         </tr>
         <tr>
           <td>MS Office/Mac</td>
-          <td>x</td>
+          <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Beta olámuttus</a></td>
           <td>x</td>
         </tr>
         <tr>
@@ -82,7 +97,7 @@
       </p>
       <p>
         Prošeakta fállá árra geahččalanveršuvnnaid (nu gohčoduvvon alfa- ja
-        betaveršuvnnaid) berošteaddjiide. Go vuosttás geahččalanveršuvdna lea
+        betaveršuvnnaid) berošteddjiide. Go vuosttás geahččalanveršuvdna lea
         gárvvis, mii fállat eanet dieđuid geahččaleami ja geavaheami birra. Min
         <a href="timetable.html" >dárkilis plánas</a> gávnnat ulbmiliid sierra
         veršuvnnaid várás ja mis lea maid oanehis čilgehus <a
@@ -103,16 +118,16 @@
         </section>
         
         <section>
-            <title>Viežžat dokumentašuvvna</title>
+            <title>Viežžat dokumentašuvnna</title>
             <p>
                 Visot dokumentašuvvna maid dát prošeakta lea ráhkadan
-                gávdno <a href="http://divvun.no">Divvon prošeavtta</a> fierpmádatbáikkis.
-                Jus hálidat viežžat dán dokumentašuvnna iežat dihtorii, čuovu
+                gávdno <a href="http://divvun.no">Divvun prošeavtta</a> fierpmádatbáikkis.
+                Jus hálidat viežžat dán dokumentašuvnna iežat dihtorii, čuovo
                  
                 <a href="doc/infra/anonymous-cvs.html">anonyma cvs dokumentašuvnna</a>, de mana  
                 <a href="doc/infra/forrest-howto.html">heivet forrest</a> siidui. 
                 Maŋŋá dán visot dokumentašuvdna lea du iežat dihtoris, ja lea vejolaš
-                navigeret dan čada fierbmeloganiin.
+                navigeret dan čađa fierbmeloganiin.
              </p>
         </section>
         

@@ -3,11 +3,17 @@
           "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="se"> 
     <header>
-        <title>Viežžahahtti fiillat</title>
+        <title>Vieččahahtti fiillat</title>
     </header>
     <body>
         <section>
             <title>Čállindárkkisteaddjit</title>
+            <ul>
+              <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Davvi- ja julevsámi MSOffice/Windows čállindárkkisteaddjit</a>
+              </li>
+              <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Davvi- ja julevsámi MSOffice/Macintosh čállindárkkisteaddjit</a>
+              </li>
+            </ul>
         </section>
         <section>
             <title>Korpusfiillat</title>
