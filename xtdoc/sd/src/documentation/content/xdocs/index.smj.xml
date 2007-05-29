@@ -7,11 +7,20 @@
     </header>
 
     <body>
-        <section>
+    <section>
+      <title>Public Beta available!</title>
+      <p>
+        Moarmesmáno 29. biejve vuostasj versjåvnnå sáme riektatjállemprográmmas         almoduváj. Dát la histåvrålasj dáhpádus sáme dáhtáájgen, ja le aj dárbulasj ållinibme jus sámegiella galggá bissot ådåájggásasj sebrudagán. Tjuovo linkav <a href="downloads.html">downloadabælláj</a>, jali lågå ienebuv dáj programmaj birra <a href="doc/proof/spelling/msoff/install_use.en.html">tjielggidusájn</a>.
+      </p>
+      <ul>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Win</a></li>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Mac</a></li>
+    </section>
+         <section>
             <title>Mij la Divvun?</title>
 
             <p>
-                Divvun le prosjækta mij gullu Vuona Sámediggáj. Prosjevta ulmme le dahkat sámegiela divvomprográmmav. Dálla álgon sjaddá nuorttasáme stávimkontrållå ja báhkojuohkem ja julevsáme stávimkontrållå - dát vuorodimes máhttá ienebut låhkåt <a href="sma-background.html">dánna</a>. Nævojt galggá máhttet adnet Windowsa, Linuxa ja Maca dábálamos kontåvrråprográmmajn.
+                Vuona Sámedigge Divvun-prosjevtav háldat. Prosjevta ulmme le sámegiela divvomnævojt dahkat . Álgon almoduvvá nuorttasáme riektatjállemprográmma ja báhkojuohkem ja julevsáme riektatjállemprográmma - dát vuorodimes máhttá ienebut låhkåt <a href="sma-background.html">dánna</a>. Nævo doajmmi Windowsa, Linuxa ja Maca dábálamos kontåvrråprográmmajn.
 </p>
         </section>
 
@@ -19,7 +28,7 @@
             <title>Gárves korrektuvrranævo</title>
 
             <p>
-                Gå prosjækta le gárves ragátmáno 2007, de galggá dåhkkit gárves korrektuvrranævojt nåvkå viedtjat prosjevta sijddasijdojs installerimprográmma hámen, mij álkkes láhkáj biedjá nævojt dáhtá masjijnnaj. Nævo doajmmi sæmmiláhkáj degu dakkir nævo ietjá gielajn. Sámedigge ja Råmså universitehta anodi rievtesvuodajt ienemus åsijda  prográmmaj vuodokåvdåjt nåvkå (loahpe vuodokåvdåjda ij guoska åsijda majna li juo æjgáda). 
+                Gå prosjækta l gárves ragátmáno 2007, de galggá dåhkkit gárves korrektuvrranævojt nåvkå viedtjat prosjevta sijddabieles installerimprográmma hámen, mij álkkes láhkáj biedjá nævojt dáhtá masjijnnaj. Nævo doajmmi sæmmiláhkáj degu dakkir nævo ietjá gielajn. Sámedigge ja Råmså universitehta addni rievtesvuodajt ienemus åsijda  prográmmaj vuodokåvdåjt nåvkå (loahpe vuodokåvdåjda ij guoska åsijda majna li juo æjgáda). 
             </p>
 
             <p>
@@ -37,13 +46,13 @@
 
                 <tr>
                     <td>MS Office/Win</td>
-                    <td>x</td>
+                    <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Beta saddje</a></td>
                     <td>x</td>
                 </tr>
 
                 <tr>
                     <td>MS Office/Mac</td>
-                    <td>x</td>
+                    <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Beta saddje</a></td>
                     <td>x</td>
                 </tr>
 
