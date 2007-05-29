@@ -9,9 +9,9 @@
         <section>
             <title>Oikolukuohjelmat</title>
             <ul>
-              <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Pohjois- ja luulajansaamen MSOffice/Windows oikolukuohjelmat</a>
+              <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Pohjois- ja luulajansaamen MSOffice oikolukuohjelmat Windowsille</a>
               </li>
-              <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Pohjois- ja luulajansaamen MSOffice/Mac oikolukuohjelmat</a>
+              <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Pohjois- ja luulajansaamen MSOffice oikolukuohjelmat Macintoshille</a>
               </li>
             </ul>
         </section>
@@ -29,8 +29,8 @@
         <section>
             <title>Sanelistat</title>
             <ul>
-                <li>Pohjoissaamen<a href="static_files/wordlist-sme-2006-11-13.txt.gz">sanelistat</a> dated 2006-11-13 (1,9 GB)</li><!-- sana = word, sane = wordform -->
-                <li>Luulajansaamen<a href="static_files/wordlist-sme-2006-11-13.txt.gz">sanelistat</a> dated 2006-13-13 (84 MB)</li>
+                <li>Pohjoissaamen<a href="static_files/wordlist-sme-2006-11-13.txt.gz">sanelistat</a> päivätty 2006-11-13 (1,9 GB)</li>
+                <li>Luulajansaamen<a href="static_files/wordlist-sme-2006-11-13.txt.gz">sanelistat</a> päivätty 2006-13-13 (84 MB)</li>
             </ul>
         </section>
         <section>

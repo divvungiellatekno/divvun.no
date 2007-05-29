@@ -7,6 +7,21 @@
   </header>
   <body>
     <section>
+      <title>Julkinen Beta saatavilla!</title>
+      <p>
+        Toukokuun 29:stä päivästä lähtien on ensimmäinen julkinen saamenkielinen
+        oikolukuohjelma saatavilla. Tämä on historiallinen tapaus Saamen
+        tietotekniikan aikakaudella ja merkitsee tärkeää virstanpylvästä
+        saamenkielen tulevaisuudelle modernissa yhteiskunnassa. Mene <a
+        href="downloads.html">tiedostojen lataus sivulle</a> tai lue lisää
+        julkaisusta <a href="doc/proof/spelling/msoff/install_use.fi.html">
+        täältä</a>.
+      </p>
+      <ul>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Win</a></li>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Mac</a></li>
+    </section>
+    <section>
       <title>Mikä Divvun on?</title>
       <p>
         Divvun on Norjan saamelaiskäräjien rahoittama projekti, jonka tarkoituksena on
@@ -43,12 +58,12 @@
         </tr>
         <tr>
           <td>MS Office/Win</td>
-          <td>x</td>
+          <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Beta saatavana</a></td>
           <td>x</td>
         </tr>
         <tr>
           <td>MS Office/Mac</td>
-          <td>x</td>
+          <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Beta saatavana</a></td>
           <td>x</td>
         </tr>
         <tr>
