@@ -33,6 +33,8 @@
     <pr href="pr/" label="Preassadieđáhusat">
 	    <pr1 description="divvun.no almmuhus"
 		 href="pressrelease-20050613.html" label="PRD: 2005.06.13" />
+		 <pr2 description="beta almmuhus"
+		 href="pressrelease-20070529.html" label="PRD: 2007.05.29" />
     </pr>
     <upload href="upload/upload_corpus_file.html" description="Dás sáhtát sáddet midjiide fiillaid" label="Sáddes fiillaid midjiide" />
     <!-- Commented these out, as it will bring a lot of load on the server if these are used.
