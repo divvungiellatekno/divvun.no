@@ -5,19 +5,24 @@
   <header>
     <title>Permanent driftsorganisasjon</title>
 
-    <version major="1" minor="0" tag="$Id$">Endeleg versjon.</version>
+    <version major="1" minor="0"
+    tag="$Id$">Oppdatert
+    versjon, juni 2007</version>
 
     <authors>
       <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
     </authors>
 
     <abstract>I samband med utgreiinga for prosjektet som no er kjent som
-    Divvun, vart det peikt på trongen til ein permanent driftsorganisasjon som
-    kunne ta ansvar for det langsiktige vedlikehalds- og utviklingsarbeidet
-    etter at Divvun-projektet er avslutta og den fyrste versjonen av
-    korrekturprogramma vart ferdig. Styringsgruppa for Divvun-prosjektet ba på
-    det fyrste møtet sitt om at prosjektleiar laga ein plan for ein slik
-    driftsorganisasjon. Dette dokumentet inneheld denne planen.</abstract>
+    Divvun-prosjektet, vart det peikt på trongen til ein permanent
+    driftsorganisasjon som kunne ta ansvar for det langsiktige vedlikehalds-
+    og utviklingsarbeidet etter at Divvun-projektet er avslutta og den fyrste
+    versjonen av korrekturprogramma vart ferdig. Styringsgruppa for
+    Divvun-prosjektet ba på det fyrste møtet sitt om at prosjektleiar laga ein
+    plan for ein slik driftsorganisasjon. Dette dokumentet inneheld denne
+    planen.<br />Oppdatering: Etter dei røynslene vi no har etter 2,5 års
+    prosjekt, har eg oppdatert stillingsprosentane til det eg trur er meir
+    realistisk.</abstract>
   </header>
 
   <body>
@@ -57,7 +62,8 @@
       stillingstypar som trer fram:</p>
 
       <ul>
-        <li>lingvist (språkleg vedlikehald, nye prosjekt)</li>
+        <li>lingvist (språkleg vedlikehald, nye prosjekt) * 2, ein for
+        nordsamisk og ein for lulesamisk</li>
 
         <li>programmerar (ansvar for open kjeldekode-verktya, kontakt med
         ekstern leverandør)</li>
@@ -68,27 +74,28 @@
 
       <p>Stillingane går litt over i kvarandre, og den eksakte oppdelinga kan
       justerast i høve til ev tilsette, og i høve til finansieringsløysing.
-      Ingen av desse stillingane er fulltidsstillingar, eit omtrentleg
-      overslag av arbeidsmengda for oppgåvene som er skissert over i prosent
-      av heil stilling er:</p>
+      Berre teknisk sekretær er fulltidsstilling, resten er deltid (om ikkje
+      lingvistane kan samlast i ein person), eit omtrentleg overslag av
+      arbeidsmengda for oppgåvene som er skissert over i prosent av heil
+      stilling er:</p>
 
       <dl>
         <dt>lingvist:</dt>
 
-        <dd>40 %</dd>
+        <dd>2 x 50 %</dd>
 
         <dt>programmerar/datalingvist</dt>
 
-        <dd>30 %</dd>
+        <dd>50 %</dd>
 
         <dt>teknisk sekretær</dt>
 
-        <dd>70 %</dd>
+        <dd>100 %</dd>
       </dl>
 
       <p>Det bør strekast under at det pr i dag er vanskeleg å vurdera det
       eksakte behoved for (lingvistisk) vedlikehalds- og oppdateringsarbeid,
-      og stillingsprosenten bør vurderast etter eitt år. Det same gjeld
+      og stillingsprosenten bør vurderast etter eitt års drift. Det same gjeld
       arbeidsmengda og dermed prosenten for den tekniske sekretæren.</p>
 
       <p>For alle stillingane gjeld det at dei krev god forståing av
@@ -108,13 +115,14 @@
       <section>
         <title>Lingvist</title>
 
-        <p>Lingvisten må kunna halda ved like både lulesamiske og nordsamiske
-        leksikon (ordlister), og må derfor ha tilnærma morsmålskompetanse i
-        båe, samt vera sikker i normeringa av båe. Dersom det ikkje finst
-        slike kandidatar til stillinga, bør stillinga delast i to like store
-        delar. Lingvisten (eller lingvistane) skal òg vera med og førebu og
-        planleggja nye prosjekt, og særleg vurdera det lingvistiske arbeidet
-        av slike.</p>
+        <p>Lingvisten/lingvistane må kunna halda ved like både lulesamiske og
+        nordsamiske leksikon (ordlister), og må derfor ha tilnærma
+        morsmålskompetanse i båe, samt vera sikker i normeringa av båe. Det er
+        derfor rimeleg å tru at ein treng to personar til denne stillinga,
+        sjølv om det er mogleg å slå dei i hop til éi heil stilling for
+        personar med dei rette kvalifikasjonane. Lingvisten/lingvistane skal
+        òg vera med å førebu og planleggja nye prosjekt, og særleg vurdera det
+        lingvistiske arbeidet av slike.</p>
       </section>
 
       <section>
@@ -168,11 +176,10 @@
     <section>
       <title>Budsjett</title>
 
-      <p>Dei tre stillingane i hop gjev ein total stillingsprosent på 150 %.
+      <p>Dei tre stillingane i hop gjev ein total stillingsprosent på 250 %.
       Med ein årskostnad på kring 600 000,- NOK pr heile stilling, tilsvarer
-      det 900 000,- NOK pr år. Med inflasjon og andre justeringar er det
-      rimeleg å avrunda til 1 mill NOK / år i lønsmiddel for den permanente
-      driftsorganisasjonen frå starten hausten 2007. Pga at arbeidet krev høg
+      det 1 500 000,- NOK / år i lønsmiddel for den permanente
+      driftsorganisasjonen frå starten januar 2008. Pga at arbeidet krev høg
       og spesialisert kompetanse, bør ein inkludera middel for etterutdanning
       og reiser til relevante konferansar, samt (sam)arbeidsmøte med miljøet
       ved Universitetet i Tromsø. Forslag til budsjett ser dermed ut som
@@ -190,7 +197,7 @@
         <tr>
           <td>Løn</td>
 
-          <td>1 000 000,-</td>
+          <td>1 500 000,-</td>
         </tr>
 
         <tr>
@@ -202,7 +209,7 @@
         <tr>
           <th>Totalt</th>
 
-          <th>1 300 000,- NOK</th>
+          <th>1 800 000,- NOK</th>
         </tr>
       </table>
 

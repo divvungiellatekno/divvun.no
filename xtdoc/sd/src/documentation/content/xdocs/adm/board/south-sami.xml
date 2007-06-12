@@ -23,6 +23,8 @@
         <li>stavekontroll for OpenOffice.org</li>
 
         <li>minst ein stavekontroll basert på open kjeldekode</li>
+
+        <li>orddeling i MS Office, Win og Mac</li>
       </ul>
 
       <p>Jf elles planane for det noverande Divvun-prosjektet, på <a
@@ -102,11 +104,9 @@
 
         <p>Det vil vera ei uvurderleg hjelp for eit slikt prosjekt å få
         tilgang til Sydsamisk-norsk ordbok (Bergsland &amp; Mattsson Magga,
-        1993) i elektronisk form. Dette spørsmålet bør avklarast før
-        prosjektet startar.</p>
-
-        <note>I praksis må vi rekna med minst 6 månader ekstra arbeid dersom
-        vi ikkje får ordboka. Dette bør diskuterast på møtet.</note>
+        1993) i elektronisk form. — Det er no komne signal om at boka vil bli
+        tilgjengeleg, ev. etter nokre rettingar. Budsjettet og planane byggjer
+        på denne føresetnaden.</p>
       </section>
 
       <section>
@@ -172,13 +172,14 @@
       for sørsamisk. Spesifikt gjeld det følgjande punkt:</p>
 
       <ul>
-        <li>infrastruktur for
-            <ul>
-                <li>språkteknologiutvikling og testing</li>
-                <li>korpushandtering og -bruk</li>
-                <li>stavekontrollutvikling</li>
-            </ul>
-        </li>
+        <li>infrastruktur for <ul>
+            <li>språkteknologiutvikling og testing</li>
+
+            <li>korpushandtering og -bruk</li>
+
+            <li>stavekontrollutvikling</li>
+          </ul></li>
+
         <li>tilpassing av stavekontrollmotor(ar)</li>
 
         <li>vi har også eit ferdig team av programmerarar og datalingvistar
@@ -208,7 +209,7 @@
       <ul>
         <li>sørsamisk lingvist — 100%</li>
 
-        <li>datalingvist - 100% fyrste året, 50% det andre</li>
+        <li>datalingvist - 100% fyrste året, 50% dei to andre</li>
 
         <li>programmerar - 25%</li>
 
@@ -219,19 +220,20 @@
     <section>
       <title>Timeplan</title>
 
-      <p>Prosjektet bør gå over minimum to - 2 - år, men det er mogleg at to
-      år er nok med tanke på at infrastrukturen allereie er bygd opp, og at
-      det finst eit miljø med røynsle med slikt arbeid. Initialt er det sett
-      av 2 år og 3 månader til prosjektet.</p>
+      <p>Prosjektet bør gå over tre - 3 - år. Det har vist seg at det krevst
+      mykje tid både til å samla inn korpus, og til det reint lingvistiske
+      arbeidet. Og med tanke på at det trengst meir lingvistisk grunnarbeid
+      enn for både nord- og lulesamisk, vil det derfor ikkje vera realistisk
+      med eit prosjekt kortare enn tre år. Prosjektstart er rekna til januar
+      2008.</p>
 
       <p>Tidsplanen vil vere avhengig av at vi får tak i ein kvalifisert
       sørsamisk lingvist. Sjølv med ein kvalifisert lingvist trengst det ein
-      god del opplæring, og i kombinasjon med den store mengda med grammatisk
-      grunnarbeid som må leggjast ned i prosjektet, er det rimeleg å tru at
-      det trengst godt over to år.</p>
+      god del opplæring. Med ein prosjektperiode på tre år er det rom for slik
+      opplæring.</p>
 
       <p>Prosjektstart er tenkt rett etter at Divvun-prosjektet er avslutta,
-      dvs 1. oktober 2007, og varer til 31. desember 2009 med den føreslåtte
+      dvs 1. januar 2008, og varer til 31. desember 2010 med den føreslåtte
       timeplanen.</p>
 
       <p>Prosjektet vil samarbeida med den permanente driftsorganisasjonen for
@@ -243,17 +245,17 @@
 
       <p>Alle tal er i 1000 NOK</p>
 
-      <source>                         2007   2008   2009
+      <source>                         2008   2009   2010
 Løn                                   
-  Lingvist                150    600    600
-  Datalingvist            150    525    300
-  Programmerar             25    100    100
-  Prosjektleiar            75    300    300
-Eksterne tenester           0    300    300
-Reiser, utstyr, m.m.       75    125    125
+  Lingvist                600    600    600
+  Datalingvist            600    300    300
+  Programmerar            150    150    150
+  Prosjektleiar           300    300    300
+Eksterne tenester         100    100    100
+Reiser, utstyr, m.m.      100    100    100
                                       
-Totalt                    475   1800   1725
-Total prosjektsum                             4000</source>
+Totalt                   1850   1550   1550
+Total prosjektsum                             4950</source>
 
       <p>Dei eksterne tenestene er integrering mot MS Office for Windows og
       Mac, på same vis som i det noverande Divvun-prosjektet.</p>
