@@ -12,6 +12,7 @@
 
   <xsl:param name="testlang"/>
   <xsl:param name="date"/>
+  <xsl:param name="toplimit">5</xsl:param>
 
   <xsl:template match="spelltestresult">
     <document>
@@ -30,12 +31,16 @@
     <xsl:param name="nrwords" select="count(../results/word)"/>
     <xsl:param name="nrsplerr"
      select="count(../results/word[status='SplErr'])"/>
+    <xsl:param name="nrsplerrprcnt"
+     select="round(($nrsplerr div $nrwords) * 10000) div 100"/>
     <xsl:param name="nrforced"
      select="count(../results/word[@forced])"/>
+    <xsl:param name="nrforcedprcnt"
+     select="round(($nrforced div $nrwords) * 10000) div 100"/>
     <xsl:param name="corrected"
      select="count(../results/word[status='SplErr'][position > 0])"/>
     <xsl:param name="topthree"
-     select="count(../results/word[status='SplErr'][position > 0][position &lt; 4])"/>
+     select="count(../results/word[status='SplErr'][position > 0][position &lt;= $toplimit])"/>
     <xsl:param name="nocorrsugg"
      select="count(../results/word[status='SplErr'][position = 0])"/>
     <xsl:param name="nosugg"
@@ -79,17 +84,17 @@
         <p>Number of input words:
         <xsl:value-of select="$nrwords"/></p>
         <p>Number of detected spelling errors:
-        <xsl:value-of select="$nrsplerr"/></p>
+        <xsl:value-of select="$nrsplerr"/> (<xsl:value-of select="$nrsplerrprcnt"/> %)</p>
         <p>Of those,
-          <xsl:value-of select="$nrforced"/> where
+          <xsl:value-of select="$nrforced"/> (<xsl:value-of select="$nrforcedprcnt"/> %) where
         <span class="forced">forced</span>*).</p>
         <p>Number of undetected spelling errors:
-        <xsl:value-of select="$nrwords - $nrsplerr"/></p>
+        <xsl:value-of select="$nrwords - $nrsplerr"/> (<xsl:value-of select="100 - $nrsplerrprcnt"/> %)</p>
         <p>Number of spelling errors with <span class="correct">correct
           suggestion</span>:
         <xsl:value-of select="$corrected"/></p>
         <p>Number of spelling errors with <span class="correct">correct
-         suggestion</span> in top three:
+         suggestion</span> in top <xsl:value-of select="$toplimit"/>:
         <xsl:value-of select="$topthree"/></p>
         <p>Number of spelling errors with only wrong suggestions:
         <xsl:value-of select="$nocorrsugg - $nosugg"/></p>
@@ -117,12 +122,14 @@
       <title>Spelling errors with correct suggestions</title>
       <table>
         <tr>
-          <th>Input word</th>
-          <th>Expected correction</th>
+          <th>Input<br/>word</th>
+          <th>Expected<br/>correction</th>
+          <th>Editing<br/>distance</th>
           <th>Suggestions</th>
         </tr>
         <xsl:apply-templates select="word[status='SplErr'][suggestions/@count > 0][position > 0]">
-          <xsl:sort select="position" order="ascending"/>
+          <xsl:sort select="edit_dist" order="descending" data-type="number"/>
+          <xsl:sort select="position" order="descending"/>
         </xsl:apply-templates >
       </table>
     </section>
@@ -130,10 +137,12 @@
       <title>Spelling errors with only incorrect suggestions</title>
       <table>
         <tr>
-          <th>Input word</th>
-          <th>Expected correction</th>
+          <th>Input<br/>word</th>
+          <th>Expected<br/>correction</th>
+          <th>Editing<br/>distance</th>
         </tr>
         <xsl:apply-templates select="word[status='SplErr'][suggestions/@count > 0][position = 0]">
+          <xsl:sort select="edit_dist" order="descending" data-type="number"/>
           <xsl:sort select="original" />
         </xsl:apply-templates >
       </table>
@@ -142,10 +151,12 @@
       <title>Spelling errors without suggestions</title>
       <table>
         <tr>
-          <th>Input word</th>
-          <th>Expected correction</th>
+          <th>Input<br/>word</th>
+          <th>Expected<br/>correction</th>
+          <th>Editing<br/>distance</th>
         </tr>
         <xsl:apply-templates select="word[status='SplErr'][suggestions/@count = 0]">
+          <xsl:sort select="edit_dist" order="descending" data-type="number"/>
           <xsl:sort select="original" />
         </xsl:apply-templates >
       </table>
@@ -154,10 +165,12 @@
       <title>Speller considers the input correct</title>
       <table>
         <tr>
-          <th>Input word</th>
-          <th>Expected correction</th>
+          <th>Input<br/>word</th>
+          <th>Expected<br/>correction</th>
+          <th>Editing<br/>distance</th>
         </tr>
         <xsl:apply-templates select="word[status='SplCor']">
+          <xsl:sort select="edit_dist" order="descending" data-type="number"/>
           <!--xsl:sort select="position" order="ascending"/-->
         </xsl:apply-templates >
       </table>
@@ -173,6 +186,7 @@
       </xsl:if>
       <td><xsl:value-of select="original"/></td>
       <td><xsl:value-of select="expected"/></td>
+      <td><xsl:value-of select="edit_dist"/></td>
       <xsl:if test="suggestions/@count > 0">
         <td>
           <xsl:apply-templates select="suggestions"/>
