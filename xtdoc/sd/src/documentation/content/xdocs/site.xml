@@ -167,8 +167,8 @@
             label="Cooperation meeting 3.10.2005" />
   </uit>
 
-  <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab = 'how'])" />
-
+ <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab = 'how'])" />
+ <xi:include href="doc/site-proof-frag.xml" />
   <!--<xi:include href="wordsdoc/site-frag.xml" />-->
 
   <!-- Commented out until the content is more ready for publishing. -->
