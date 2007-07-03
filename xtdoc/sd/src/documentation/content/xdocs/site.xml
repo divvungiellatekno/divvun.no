@@ -13,10 +13,11 @@
     See http://forrest.apache.org/docs/linking.html for more info
     -->
     <!-- $Id$ -->
-<site href="" label="Divvun" tab=""
+<site href="" label="Divvun" tab="Ruoktu"
       xmlns="http://apache.org/forrest/linkmap/1.0"
       xmlns:xi="http://www.w3.org/2001/XInclude"
       xmlns:ns="http://apache.org/forrest/linkmap/1.0">
+
   <about label="Davvisámegiella" tab="Ruoktu">
     <index description="Bures boahttin divvun.no prošektii"
            href="index.html" label="Álgosiidu" />
@@ -78,6 +79,8 @@
 
   <polderland href="adm/polderland/" label="Polderland" tab="polderland">
     <index    href="index.html" label="Overview" description="Overview of the cooperation documents" />
+    <x2007-07-03 href="meeting_2007-07-03.html" label="Jul  3" description="Meeting memo July       3, 2007" />
+    <x2007-06-26 href="meeting_2007-06-26.html" label="Jun 26" description="Meeting memo June      26, 2007" />
     <x2007-06-21 href="meeting_2007-06-21.html" label="Jun 21" description="Meeting memo June      21, 2007" />
     <x2007-06-12 href="meeting_2007-06-12.html" label="Jun 12" description="Meeting memo June      12, 2007" />
     <x2007-06-05 href="meeting_2007-06-05.html" label="Jun  5" description="Meeting memo June       5, 2007" />
@@ -157,9 +160,8 @@
     <mar05 href="monthly03.html" label="Mar '05" description="Report for March '05" />
     <feb05 href="monthly02.html" label="Feb '05" description="Report for February '05" />
     <jan05 href="monthly01.html" label="Jan '05" description="Report for January '05" />
-
     <ond04 href="monthly00.html" label="Oct-Dec '04"
-           description="Report for October-December '04" />
+									             description="Report for October-December '04" />
   </monthly>
 
   <uit href="adm/uit/" label="Cooperation with UiT" tab="adm">
