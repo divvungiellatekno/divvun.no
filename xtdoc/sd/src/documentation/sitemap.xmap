@@ -64,6 +64,15 @@
                 <map:serialize type="xml" />
             </map:match>
 
+            <!-- Speller test result processing and presentation - corpus document input:
+            <map:match pattern="**spelltest-pl-docu-*-*-*.xml">
+                <map:generate src="{properties:content.xdocs}{1}spelltest-pl-docu-{2}-{3}-{4}.xml" />
+                <map:transform src="{properties:resources.stylesheets}/spelltest-docutest2document.xsl">
+                    <map:parameter name="testlang" value="{2}" />
+                </map:transform>
+                <map:serialize type="xml" />
+            </map:match> -->
+
             <!--   Will match weekly meeting files {2}, and extract the tasks for the
         person in {3}, returning the task list as an iCal TODO list -->
             <map:match pattern="**/Tasks_*_*.ics">
