@@ -11,6 +11,7 @@
   version="1.0">
 
   <xsl:param name="testlang"/>
+  <xsl:param name="testtype"/>
   <xsl:param name="date"/>
   <xsl:param name="toplimit">5</xsl:param>
 
@@ -33,10 +34,6 @@
      select="count(../results/word[status='SplErr'])"/>
     <xsl:param name="nrsplerrprcnt"
      select="round(($nrsplerr div $nrwords) * 10000) div 100"/>
-    <xsl:param name="nrforced"
-     select="count(../results/word[@forced])"/>
-    <xsl:param name="nrforcedprcnt"
-     select="round(($nrforced div $nrwords) * 10000) div 100"/>
     <xsl:param name="corrected"
      select="count(../results/word[status='SplErr'][position > 0])"/>
     <xsl:param name="topthree"
@@ -85,9 +82,6 @@
         <xsl:value-of select="$nrwords"/></p>
         <p>Number of detected spelling errors:
         <xsl:value-of select="$nrsplerr"/> (<xsl:value-of select="$nrsplerrprcnt"/> %)</p>
-        <p>Of those,
-          <xsl:value-of select="$nrforced"/> (<xsl:value-of select="$nrforcedprcnt"/> %) where
-        <span class="forced">forced</span>*).</p>
         <p>Number of undetected spelling errors:
         <xsl:value-of select="$nrwords - $nrsplerr"/> (<xsl:value-of select="100 - $nrsplerrprcnt"/> %)</p>
         <p>Number of spelling errors with <span class="correct">correct
@@ -100,19 +94,6 @@
         <xsl:value-of select="$nocorrsugg - $nosugg"/></p>
         <p>Number of spelling errors with no suggestions at all:
         <xsl:value-of select="$nosugg"/></p>
-        <note><strong>*) Forced:</strong> The Polderland command line speller
-              will by default ignore input words starting with a non-alphabetic
-              character. Thus, words starting with e.g. numbers or hyphens are
-              ignored, giving the impression that they are correct input. Such
-              words can be forced to be treated as spelling errors, but then
-              <strong>all</strong> such words are considered spelling errors.
-              That will be correct in the case of typos-type input, but not
-              necessarily for other types of input data, which means the results
-              can be somewhat schewed in those cases. Normally, the number of
-              forced spelling errors will be very low, and won't have a big
-              impact on the results anyway, but please check the forced cases.
-              Forced spelling errors are marked with a <span class="forced">yellow background</span> in the table below.
-        </note>
       </section>
     </section>
   </xsl:template>
