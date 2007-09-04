@@ -295,7 +295,9 @@
          into Word to quick check regressions in new versions of the speller:
          No correctly spelled words accepted by an earlier speller should be
          rejected by later spellers. To check, just copy and paste these words
-         to Word, and see if you get any red underlines.</p>
+         to Word, and see if you get any red underlines. Duplicate words are not
+         repeated, unless one is followed by some punctuation. The words are
+         sorted according to Unicode character code.</p>
       <p>
         <xsl:apply-templates select="word[status='SplCor'][not(expected)]">
           <xsl:sort select="original" />
@@ -309,7 +311,8 @@
     <xsl:param name="type"/>
     <xsl:choose>
       <xsl:when test="$type = 'tn'">
-        <xsl:apply-templates select="original"/>
+        <xsl:apply-templates select="original[not(. =
+                     ../preceding-sibling::word/original)]"/>
         <xsl:text> </xsl:text>
       </xsl:when>
       <xsl:otherwise>
