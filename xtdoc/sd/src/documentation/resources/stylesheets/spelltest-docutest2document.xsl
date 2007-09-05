@@ -235,7 +235,10 @@
                               [expected]
                               [suggestions/@count = 0]) > 0">
         <section>
-          <title>Spelling errors without suggestions</title>
+          <title>Spelling errors without suggestions (<xsl:value-of
+                  select="count(word[status='SplErr']
+                                    [expected]
+                                    [suggestions/@count = 0])"/>)</title>
           <table>
             <tr>
               <th>Input<br/>word</th>
