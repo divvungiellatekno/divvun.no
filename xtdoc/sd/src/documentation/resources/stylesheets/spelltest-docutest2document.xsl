@@ -284,8 +284,8 @@
             <th>Editing<br/>distance</th>
           </tr>
           <xsl:apply-templates select="word[status='SplCor'][expected]">
+            <xsl:sort select="edit_dist" order="descending" data-type="number"/>
             <xsl:sort select="original" />
-            <xsl:with-param name="type" select="'fp'"/>
           </xsl:apply-templates >
         </table>
       </section>
