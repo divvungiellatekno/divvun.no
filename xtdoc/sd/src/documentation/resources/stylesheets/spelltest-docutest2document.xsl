@@ -47,7 +47,8 @@
     <xsl:param name="nrrealcorr" select="count(../results/word[not(expected)])"/>
     <xsl:param name="precision" select="$truepositive div ($truepositive + $falsepositive)"/>
     <xsl:param name="recall" select="$truepositive div ($truepositive + $falsenegative)"/>
-    <xsl:param name="accuracy" select="($truepositive+$truenegative) div $nrwords"/>
+    <xsl:param name="accuracy" select="($truepositive+$truenegative) div
+                            ($nrflaggedwords + $nracceptwords)"/>
     <xsl:param name="corrected"
      select="count(../results/word[status='SplErr'][expected][position > 0])"/>
     <xsl:param name="topthree"
@@ -70,6 +71,9 @@
     <xsl:param name="editdist3"
      select="count(../results/word[expected]
                                   [edit_dist > 2])"/>
+    <xsl:param name="errorinput"
+     select="count(../results/word[status='Error']
+                                  [expected])"/>
     <section>
       <title>Overview</title>
       <section>
@@ -136,6 +140,13 @@
               <strong><xsl:value-of select="$truenegative"/></strong></td>
           </tr>
         </table>
+
+        <xsl:if test="count(../results/word[status='Error'][expected]) > 0">
+          <p><strong><xsl:value-of select="$errorinput"/> input word(s)</strong>
+          was/were discarded because the speller/MS Word could not deal with them
+          properly. The calculation of Precision, Recall and Accuracy below does
+          <strong>NOT</strong> include this/these word(s).</p>
+        </xsl:if>
 
         <dl>
           <dt>Precision (tp/(tp+fp)):</dt>
@@ -308,6 +319,35 @@
         </xsl:apply-templates >
       </p>
     </section>
+
+    <xsl:if test="count(word[status='Error'][expected]) > 0">
+      <section>
+        <title>Disregarded by speller (<xsl:value-of
+              select="count(word[status='Error'][expected])"/>)</title>
+      <p>When using AppleScript and Microsoft Word to run the speller tests,
+      there are some words that are impossible to spell check. This is due to
+      a "feature" of MS Word's implementation of AppleScript - hyphens, colons
+      and full stops are not recognised as part of the string to be checked,
+      and the words are instead split in two (or more) at each non-letter,
+      and each part is spell-checked alone. This of course leads to meaningless
+      speller output. They are therefore not considered, but are listed here
+      for reference. <strong>This only happens when using AppleScript.</strong>
+      In normal, interactive use, such words are correctly dealt with by the
+      speller/Word.</p>
+        <table>
+          <tr>
+            <th>Input<br/>word</th>
+            <th>Expected<br/>correction</th>
+            <th>Editing<br/>distance</th>
+          </tr>
+          <xsl:apply-templates select="word[status='Error'][expected]">
+            <xsl:sort select="edit_dist" order="descending" data-type="number"/>
+            <xsl:sort select="original" />
+          </xsl:apply-templates >
+        </table>
+      </section>
+    </xsl:if>
+
   </xsl:template>
 
   <xsl:template match="word">
