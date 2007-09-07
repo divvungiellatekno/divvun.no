@@ -82,10 +82,10 @@
         <p>Document tested: <xsl:value-of select="document"/></p>
         <p>Speller tool:
           <xsl:choose>
-            <xsl:when test="tool/@type = 'PLX'">
+            <xsl:when test="tool/@type = 'pl'">
             Polderland command line tool
             </xsl:when>
-            <xsl:when test="tool/@type = 'AS'">
+            <xsl:when test="tool/@type = 'as'">
             AppleScript driving the speller in MS Word
             </xsl:when>
             <xsl:otherwise>Unknown</xsl:otherwise>
@@ -191,6 +191,7 @@
   </xsl:template>
 
   <xsl:template match="results">
+    <xsl:if test="count(word[status='SplErr'][expected]) > 0">
     <section>
       <title>True positives (<xsl:value-of select="count(word[status='SplErr'][expected])"/>)
         </title>
@@ -266,21 +267,52 @@
         </section>
       </xsl:if>
     </section>
+    </xsl:if>
 
     <xsl:if test="count(word[status='SplErr'][not(expected)]) > 0">
       <section>
         <title>False positives (<xsl:value-of
               select="count(word[status='SplErr'][not(expected)])"/>)</title>
-        <table>
-          <tr>
-            <th>Input<br/>word</th>
-            <th>Suggestions</th>
-          </tr>
-          <xsl:apply-templates select="word[status='SplErr'][not(expected)]">
-            <xsl:sort select="original" />
-            <xsl:with-param name="type" select="'fp'"/>
-          </xsl:apply-templates >
-        </table>
+        <xsl:if test="count(word[status='SplErr']
+                                [not(expected)]
+                                [suggestions/@count > 0]) > 0">
+          <section>
+            <title>False positives with suggestions (<xsl:value-of
+                  select="count(word[status='SplErr']
+                                    [not(expected)]
+                                    [suggestions/@count > 0])"/>)</title>
+            <table>
+              <tr>
+                <th>Input<br/>word</th>
+                <th>Suggestions</th>
+              </tr>
+              <xsl:apply-templates select="word[status='SplErr']
+                                               [not(expected)]
+                                               [suggestions/@count > 0]">
+                <xsl:sort select="original" />
+                <xsl:with-param name="type" select="'fp'"/>
+              </xsl:apply-templates >
+            </table>
+          </section>
+        </xsl:if>
+        <xsl:if test="count(word[status='SplErr']
+                                [not(expected)]
+                                [suggestions/@count = 0]) > 0">
+          <section>
+            <title>False positives without suggestions (<xsl:value-of
+                  select="count(word[status='SplErr']
+                                    [not(expected)]
+                                    [suggestions/@count = 0])"/>)</title>
+            <p>
+              <xsl:apply-templates select="word[status='SplErr']
+                                               [not(expected)]
+                                               [suggestions/@count = 0]">
+                <xsl:sort select="original" />
+                <xsl:with-param name="type" select="'fpnosugg'"/>
+              </xsl:apply-templates >
+            </p>
+          </section>
+        </xsl:if>
       </section>
     </xsl:if>
 
@@ -354,6 +386,11 @@
     <xsl:param name="type"/>
     <xsl:choose>
       <xsl:when test="$type = 'tn'">
+        <xsl:apply-templates select="original[not(. =
+                     ../preceding-sibling::word/original)]"/>
+        <xsl:text> </xsl:text>
+      </xsl:when>
+      <xsl:when test="$type = 'fpnosugg'">
         <xsl:apply-templates select="original[not(. =
                      ../preceding-sibling::word/original)]"/>
         <xsl:text> </xsl:text>
