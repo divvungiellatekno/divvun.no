@@ -307,7 +307,7 @@
               <xsl:apply-templates select="word[status='SplErr']
                                                [not(expected)]
                                                [suggestions/@count = 0]">
-                <xsl:sort select="original" />
+                <xsl:sort select="original" order="descending" />
                 <xsl:with-param name="type" select="'fpnosugg'"/>
               </xsl:apply-templates >
             </p>
@@ -343,10 +343,10 @@
          rejected by later spellers. To check, just copy and paste these words
          to Word, and see if you get any red underlines. Duplicate words are not
          repeated, unless one is followed by some punctuation. The words are
-         sorted according to Unicode character code.</p>
+         reverse sorted according to Unicode character code.</p>
       <p>
         <xsl:apply-templates select="word[status='SplCor'][not(expected)]">
-          <xsl:sort select="original" />
+          <xsl:sort select="original" order="descending" />
           <xsl:with-param name="type" select="'tn'"/>
         </xsl:apply-templates >
       </p>
