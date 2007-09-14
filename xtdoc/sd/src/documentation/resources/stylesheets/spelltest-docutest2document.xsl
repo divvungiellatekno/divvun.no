@@ -13,6 +13,7 @@
   <xsl:param name="testlang"/>
   <xsl:param name="testtype"/>
   <xsl:param name="toplimit">5</xsl:param>
+  <xsl:param name="bugurl">http://giellatekno.uit.no/bugzilla/show_bug.cgi?id=</xsl:param>
 
   <xsl:template match="spelltestresult">
     <document>
@@ -99,6 +100,8 @@
         </p>
         <p>Test Date:
         <xsl:value-of select="date"/></p>
+        <p>Test Type:
+        <xsl:value-of select="$testtype"/></p>
       </section>
       <section>
         <title>Result summary</title>
@@ -207,11 +210,16 @@
             <th>Expected<br/>correction</th>
             <th>Editing<br/>distance</th>
             <th>Suggestions</th>
+            <xsl:if test="$testtype = 'regression'">
+              <th>Bug ID</th>
+              <th>Comment</th>
+            </xsl:if>
           </tr>
           <xsl:apply-templates select="word[status='SplErr']
                                            [expected]
                                            [suggestions/@count > 0]
                                            [position > 0]">
+            <xsl:sort select="bug" data-type="number"/>
             <xsl:sort select="edit_dist" order="descending" data-type="number"/>
             <xsl:sort select="position" order="descending"/>
           </xsl:apply-templates >
@@ -232,11 +240,17 @@
               <th>Input<br/>word</th>
               <th>Expected<br/>correction</th>
               <th>Editing<br/>distance</th>
+              <th>Suggestions</th>
+              <xsl:if test="$testtype = 'regression'">
+                <th>Bug ID</th>
+                <th>Comment</th>
+              </xsl:if>
             </tr>
             <xsl:apply-templates select="word[status='SplErr']
                                              [expected]
                                              [suggestions/@count > 0]
                                              [position = 0]">
+              <xsl:sort select="bug" data-type="number"/>
               <xsl:sort select="edit_dist" order="descending" data-type="number"/>
               <xsl:sort select="original" />
             </xsl:apply-templates >
@@ -256,10 +270,15 @@
               <th>Input<br/>word</th>
               <th>Expected<br/>correction</th>
               <th>Editing<br/>distance</th>
+              <xsl:if test="$testtype = 'regression'">
+                <th>Bug ID</th>
+                <th>Comment</th>
+              </xsl:if>
             </tr>
             <xsl:apply-templates select="word[status='SplErr']
                                              [expected]
                                              [suggestions/@count = 0]">
+              <xsl:sort select="bug" data-type="number"/>
               <xsl:sort select="edit_dist" order="descending" data-type="number"/>
               <xsl:sort select="original" />
             </xsl:apply-templates >
@@ -285,10 +304,15 @@
               <tr>
                 <th>Input<br/>word</th>
                 <th>Suggestions</th>
+                <xsl:if test="$testtype = 'regression'">
+                  <th>Bug ID</th>
+                  <th>Comment</th>
+                </xsl:if>
               </tr>
               <xsl:apply-templates select="word[status='SplErr']
                                                [not(expected)]
                                                [suggestions/@count > 0]">
+                <xsl:sort select="bug" data-type="number"/>
                 <xsl:sort select="original" />
                 <xsl:with-param name="type" select="'fp'"/>
               </xsl:apply-templates >
@@ -307,6 +331,7 @@
               <xsl:apply-templates select="word[status='SplErr']
                                                [not(expected)]
                                                [suggestions/@count = 0]">
+                <xsl:sort select="bug" data-type="number"/>
                 <xsl:sort select="original" order="descending" />
                 <xsl:with-param name="type" select="'fpnosugg'"/>
               </xsl:apply-templates >
@@ -325,8 +350,13 @@
             <th>Input<br/>word</th>
             <th>Expected<br/>correction</th>
             <th>Editing<br/>distance</th>
+            <xsl:if test="$testtype = 'regression'">
+              <th>Bug ID</th>
+              <th>Comment</th>
+            </xsl:if>
           </tr>
           <xsl:apply-templates select="word[status='SplCor'][expected]">
+            <xsl:sort select="bug" data-type="number"/>
             <xsl:sort select="edit_dist" order="descending" data-type="number"/>
             <xsl:sort select="original" />
           </xsl:apply-templates >
@@ -371,8 +401,13 @@
             <th>Input<br/>word</th>
             <th>Expected<br/>correction</th>
             <th>Editing<br/>distance</th>
+            <xsl:if test="$testtype = 'regression'">
+              <th>Bug ID</th>
+              <th>Comment</th>
+            </xsl:if>
           </tr>
           <xsl:apply-templates select="word[status='Error'][expected]">
+            <xsl:sort select="bug" data-type="number"/>
             <xsl:sort select="edit_dist" order="descending" data-type="number"/>
             <xsl:sort select="original" />
           </xsl:apply-templates >
@@ -412,6 +447,19 @@
               <xsl:apply-templates select="suggestions"/>
             </td>
           </xsl:if>
+          <xsl:if test="$testtype = 'regression'">
+            <td>
+              <a>
+                <xsl:attribute name="href">
+                  <xsl:value-of select="concat($bugurl,bug)"/>
+                </xsl:attribute>
+              <xsl:apply-templates select="bug"/>
+              </a>
+            </td>
+            <td>
+              <xsl:apply-templates select="comment"/>
+            </td>
+          </xsl:if>
         </tr>
       </xsl:otherwise>
     </xsl:choose>
@@ -429,6 +477,11 @@
         <xsl:attribute name="class">
           <xsl:value-of select="'correct'"/>
         </xsl:attribute>
+      </xsl:if>
+      <xsl:if test="@penscore">
+        <span class="score">
+          (<xsl:value-of select="@penscore"/>)
+        </span>
       </xsl:if>
       <xsl:apply-templates />
     </li>
