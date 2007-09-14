@@ -168,6 +168,10 @@ dt {
   background-color: lightgreen;
 }
 
+.score {
+  color: grey;
+}
+
 .forced, .forced td {
   background-color: yellow;
 }

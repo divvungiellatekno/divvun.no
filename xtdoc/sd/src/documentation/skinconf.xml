@@ -153,6 +153,10 @@ which will be used to configure the chosen Forrest skin.
     .correct {
       background-color: lightgreen;
     }
+    .score {
+      color: grey;
+    }
+
     .forced, .forced td {
       background-color: yellow;
     }

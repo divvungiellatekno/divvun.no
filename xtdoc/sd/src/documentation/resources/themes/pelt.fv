@@ -135,6 +135,11 @@ div.abstract:before {
 .correct {
   background-color: lightgreen;
 }
+
+.score {
+  color: grey;
+}
+
 .forced, .forced td {
   background-color: yellow;
 }
