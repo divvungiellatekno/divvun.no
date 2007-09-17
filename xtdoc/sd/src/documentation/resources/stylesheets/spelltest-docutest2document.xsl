@@ -15,6 +15,8 @@
   <xsl:param name="toplimit">5</xsl:param>
   <xsl:param name="bugurl">http://giellatekno.uit.no/bugzilla/show_bug.cgi?id=</xsl:param>
 
+  <xsl:key name="bugid" match="word" use="./bug"/>
+
   <xsl:template match="spelltestresult">
     <document>
       <header>
@@ -359,6 +361,7 @@
             <xsl:sort select="bug" data-type="number"/>
             <xsl:sort select="edit_dist" order="descending" data-type="number"/>
             <xsl:sort select="original" />
+            <xsl:with-param name="type" select="'fn'"/>
           </xsl:apply-templates >
         </table>
       </section>
@@ -415,6 +418,77 @@
       </section>
     </xsl:if>
 
+    <xsl:if test="$testtype = 'regression'">
+      <section>
+        <title>Grouped by bug #</title>
+        <xsl:for-each select="word[generate-id(.)=generate-id(key('bugid',bug))]/bug">
+          <xsl:sort select="." data-type="number"/> <!-- . = word/bug -->
+          <p/>
+          <table>
+            <caption>
+              <a>
+                <xsl:attribute name="href">
+                  <xsl:value-of select="concat($bugurl,.)"/>
+                </xsl:attribute>
+                <xsl:value-of select="."/>
+              </a>
+            </caption>
+            <tr>
+              <th>Input<br/>word</th>
+              <th>Expected<br/>correction</th>
+              <th width="4em">Editing<br/>distance</th>
+              <th width="25%">Suggestions</th>
+              <th>Comment</th>
+            </tr>
+            <xsl:for-each select="key('bugid', .)">
+              <xsl:sort select="edit_dist" order="descending" data-type="number"/>
+              <xsl:sort select="original" />
+              <tr>
+                <xsl:if test="(not(expected) and status = 'SplErr') or
+                              (expected and status = 'SplCor')">
+                  <xsl:attribute name="class">
+                    <xsl:value-of select="'broken'"/>
+                  </xsl:attribute>
+                </xsl:if>
+                <td><xsl:value-of select="original"/></td>
+                <td><xsl:value-of select="expected"/></td>
+                <td><xsl:value-of select="edit_dist"/></td>
+                <td><xsl:apply-templates select="suggestions"/></td>
+                <td><xsl:value-of select="comment"/></td>
+              </tr>
+            </xsl:for-each>
+          </table>
+        </xsl:for-each>
+      </section>
+    </xsl:if>
+
+    <xsl:if test="$testtype = 'regression' ">
+      <section>
+        <title>Testpairs not in bugs</title>
+          <table>
+            <tr>
+              <th>Input<br/>word</th>
+              <th>Expected<br/>correction</th>
+              <th width="4em">Editing<br/>distance</th>
+              <th width="25%">Suggestions</th>
+              <th>Comment</th>
+            </tr>
+            <xsl:apply-templates select="word[not(bug)]">
+                <xsl:with-param name="type" select="'nobug'"/>
+              <!--xsl:sort select="edit_dist" order="descending" data-type="number"/>
+              <xsl:sort select="original" />
+              <tr>
+                <td><xsl:value-of select="original"/></td>
+                <td><xsl:value-of select="expected"/></td>
+                <td><xsl:value-of select="edit_dist"/></td>
+                <td><xsl:apply-templates select="suggestions"/></td>
+                <td><xsl:value-of select="comment"/></td>
+              </tr-->
+            </xsl:apply-templates>
+          </table>
+      </section>
+    </xsl:if>
+
   </xsl:template>
 
   <xsl:template match="word">
@@ -442,20 +516,23 @@
             <td><xsl:value-of select="expected"/></td>
             <td><xsl:value-of select="edit_dist"/></td>
           </xsl:if>
-          <xsl:if test="suggestions/@count > 0">
+          <xsl:if test="suggestions/@count > 0 or
+                        ($testtype = 'regression' and $type != 'fn')">
             <td>
               <xsl:apply-templates select="suggestions"/>
             </td>
           </xsl:if>
           <xsl:if test="$testtype = 'regression'">
-            <td>
-              <a>
-                <xsl:attribute name="href">
-                  <xsl:value-of select="concat($bugurl,bug)"/>
-                </xsl:attribute>
-              <xsl:apply-templates select="bug"/>
-              </a>
-            </td>
+            <xsl:if test="$type != 'nobug'">
+              <td>
+                <a>
+                  <xsl:attribute name="href">
+                    <xsl:value-of select="concat($bugurl,bug)"/>
+                  </xsl:attribute>
+                <xsl:apply-templates select="bug"/>
+                </a>
+              </td>
+            </xsl:if>
             <td>
               <xsl:apply-templates select="comment"/>
             </td>
