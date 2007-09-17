@@ -176,6 +176,10 @@ dt {
   background-color: yellow;
 }
 
+.broken, .broken td {
+  background-color: pink;
+}
+
 </css>
       </forrest:property>
     </forrest:contract>
