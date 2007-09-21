@@ -81,15 +81,19 @@
       <title>Overview</title>
       <section>
         <title>Technical data</title>
-        <p>Language tested: <code><xsl:value-of select="$testlang"/></code></p>
-        <p>Document tested: <xsl:value-of select="document"/></p>
+        <p>Language tested:
+          <strong><xsl:value-of select="$testlang"/></strong>
+        </p>
+        <p>Document tested: 
+          <strong><xsl:value-of select="document"/></strong>
+        </p>
         <p>Speller tool:
           <xsl:choose>
             <xsl:when test="tool/@type = 'pl'">
-            Polderland command line tool
+              <strong>Polderland command line tool</strong>
             </xsl:when>
-            <xsl:when test="tool/@type = 'as'">
-            AppleScript driving the speller in MS Word
+            <xsl:when test="tool/@type = 'mw'">
+              <strong>AppleScript driving MS Word</strong>
             </xsl:when>
             <xsl:otherwise>Unknown</xsl:otherwise>
           </xsl:choose>
@@ -97,13 +101,25 @@
         <p>Speller lexicon version:
           <xsl:choose>
             <xsl:when test="tool/@version = ''">Unknown</xsl:when>
-            <xsl:otherwise><xsl:value-of select="tool/@version"/></xsl:otherwise>
+            <xsl:otherwise>
+              <strong><xsl:value-of select="tool/@version"/></strong>
+            </xsl:otherwise>
           </xsl:choose>
         </p>
         <p>Test Date:
-        <xsl:value-of select="date"/></p>
+          <strong><xsl:value-of select="date"/></strong></p>
         <p>Test Type:
-        <xsl:value-of select="$testtype"/></p>
+          <xsl:choose>
+            <xsl:when test="$testtype = 'regression' or
+                            $testtype = 'typos' or
+                            $testtype = 'selftest' ">
+              <strong><xsl:value-of select="$testtype"/></strong>
+            </xsl:when>
+            <xsl:otherwise>
+              <strong>correct-corpus</strong>
+            </xsl:otherwise>
+          </xsl:choose>
+        </p>
       </section>
       <section>
         <title>Result summary</title>
@@ -475,9 +491,9 @@
             </tr>
             <xsl:apply-templates select="word[not(bug)]">
                 <xsl:with-param name="type" select="'nobug'"/>
-              <!--xsl:sort select="edit_dist" order="descending" data-type="number"/>
+              <xsl:sort select="comment"/>
               <xsl:sort select="original" />
-              <tr>
+              <!--tr>
                 <td><xsl:value-of select="original"/></td>
                 <td><xsl:value-of select="expected"/></td>
                 <td><xsl:value-of select="edit_dist"/></td>
@@ -509,6 +525,12 @@
           <xsl:if test="@forced">
             <xsl:attribute name="class">
               <xsl:value-of select="'forced'"/>
+            </xsl:attribute>
+          </xsl:if>
+          <xsl:if test="(not(expected) and status = 'SplErr') or
+                        (expected and status = 'SplCor')">
+            <xsl:attribute name="class">
+              <xsl:value-of select="'broken'"/>
             </xsl:attribute>
           </xsl:if>
           <td><xsl:value-of select="original"/></td>
