@@ -527,8 +527,10 @@
               <xsl:value-of select="'forced'"/>
             </xsl:attribute>
           </xsl:if>
-          <xsl:if test="(not(expected) and status = 'SplErr') or
-                        (expected and status = 'SplCor')">
+          <xsl:if test="((not(expected) and status = 'SplErr') or
+                         (expected and status = 'SplCor')       )
+                        and
+                         $type = 'nobug' ">
             <xsl:attribute name="class">
               <xsl:value-of select="'broken'"/>
             </xsl:attribute>
