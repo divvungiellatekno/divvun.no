@@ -7,6 +7,20 @@
   </header>
   <body>
     <section>
+      <title>Beta 2 saatavilla!</title>
+      <p>
+        Divvun-projekti on julkaissut korjausohjelmien uuden betaversion.
+        Uuden version saat alla olevista linkeistä.
+      </p>
+      <ul>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.zip">Win</a></li>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.dmg">Mac</a></li>
+      </ul>
+      <p>
+        Lisätietoa ja yksityskohtia päivityksestä löytyy <a
+        href="doc/proof/spelling/msoff/install_use.fi.html">täältä</a>.
+      </p>
+      <!--
       <title>Julkinen Beta saatavilla!</title>
       <p>
         Toukokuun 29:stä päivästä lähtien on ensimmäinen julkinen saamenkielinen
@@ -21,6 +35,7 @@
         <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Win</a></li>
         <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Mac</a></li>
       </ul>
+      -->
     </section>
     <section>
       <title>Mikä Divvun on?</title>

@@ -7,6 +7,20 @@
   </header>
   <body>
     <section>
+      <title>Beta 2 olámuttus!</title>
+      <p>
+        Divvun-prošeakta lea dál almmuhan divvunprográmma ođđa betaveršuvnna. 
+        Ođđa veršuvnna gávnnat dáppe:
+      </p>
+      <ul>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.zip">Win</a></li>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.dmg">Mac</a></li>
+      </ul>
+      <p>
+        Eambbo dieđuid ođasteami birra gávnnat <a
+        href="doc/proof/spelling/msoff/install_use.se.html">dáppe</a>.
+      </p>
+      <!--
       <title>Almmolaš Beta olámuttus!</title>
       
 	  <p>
@@ -22,6 +36,7 @@
         <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Win</a></li>
         <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Mac</a></li>
       </ul>
+      -->
     </section>
     <section>
       <title>Mii Divvun lea?</title>

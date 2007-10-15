@@ -7,6 +7,20 @@
   </header> 
   <body> 
     <section>
+      <title>Beta 2 available!</title>
+      <p>
+        New beta 2 versions of the spellers for Sámi are available for download.
+        The new versions are available here:
+      </p>
+      <ul>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.zip">Win</a></li>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.dmg">Mac</a></li>
+      </ul>
+      <p>
+        More information and details on the new versions are found in the <a
+        href="doc/proof/spelling/msoff/install_use.en.html">release notes</a>.
+      </p>
+      <!--
       <title>Public Beta available!</title>
       <p>
         As of May 29, the first public release of the Sámi proofing tools is
@@ -21,6 +35,7 @@
         <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Win</a></li>
         <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Mac</a></li>
         </ul>
+        -->
     </section>
     <section>
       <title>What is Divvun?</title>
