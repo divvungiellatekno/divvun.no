@@ -7,6 +7,20 @@
     </header>
     <body>
     <section>
+      <title>Beta 2 er tilgjengelig!</title>
+      <p>
+        En ny versjon av korrekturvertøyene for samisk, beta 2, er tilgjengelig for nedlasting.
+        Den nye versjonen er tilgjengelig her:
+      </p>
+      <ul>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.zip">Win</a></li>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.dmg">Mac</a></li>
+      </ul>
+      <p>
+        Mer informasjon og detaljer om den nye versjonen finnes i <a
+        href="doc/proof/spelling/msoff/install_use.nb.html">slippnotatene</a>.
+      </p>
+      <!--
       <title>Offisiell Beta er klar!</title>
       <p>
         Fra og med 29. mai er den første offentlige versjonen av de samiske 
@@ -21,6 +35,7 @@
         <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Win</a></li>
         <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Mac</a></li>
       </ul>
+      -->
     </section>
       <section>
         <title>Hva er Divvun?</title>
