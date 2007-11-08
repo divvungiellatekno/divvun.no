@@ -129,7 +129,7 @@ div.abstract:before {
   font-weight: bold;
   font-size: small;
 }
-.nonvalid {
+.nonvalid, .broken {
   background-color: pink !important;
 }
 .correct {
