@@ -47,6 +47,10 @@
      select="count(../results/word[status='SplCor' and not(./expected)])"/>
     <xsl:param name="falsenegative"
      select="count(../results/word[status='SplCor' and ./expected])"/>
+    <xsl:param name="TokErrSpellErr"
+     select="count(../results/word[status='TokErr' and ./expected])"/>
+    <xsl:param name="TokErrSpellCor"
+     select="count(../results/word[status='TokErr' and not(./expected)])"/>
     <xsl:param name="nrrealcorr" select="count(../results/word[not(expected)])"/>
     <xsl:param name="precision" select="$truepositive div ($truepositive + $falsepositive)"/>
     <xsl:param name="recall" select="$truepositive div ($truepositive + $falsenegative)"/>
@@ -95,6 +99,9 @@
             <xsl:when test="tool/@type = 'mw'">
               <strong>AppleScript driving MS Word</strong>
             </xsl:when>
+            <xsl:when test="tool/@type = 'hu'">
+              <strong>Hunspell, command line version</strong>
+            </xsl:when>
             <xsl:otherwise>Unknown</xsl:otherwise>
           </xsl:choose>
         </p>
@@ -112,7 +119,7 @@
           <xsl:choose>
             <xsl:when test="$testtype = 'regression' or
                             $testtype = 'typos' or
-                            $testtype = 'selftest' ">
+                            $testtype = 'baseform' ">
               <strong><xsl:value-of select="$testtype"/></strong>
             </xsl:when>
             <xsl:otherwise>
@@ -130,6 +137,7 @@
           <tr>
             <td colspan="2" rowspan="2"/>
             <th colspan="2">Speller view</th>
+            <th>Wrong tokenisation</th>
           </tr>
           <tr>
             <td>Speller Positive<br/>
@@ -138,6 +146,9 @@
             <td>Speller Negative<br/>
               (number of accepted words):<br/>
               <strong><xsl:value-of select="$nracceptwords"/></strong></td>
+            <th>All tokenisation<br/>
+              errors:<br/>
+              <strong><xsl:value-of select="$TokErrSpellErr + $TokErrSpellCor"/></strong></th>
           </tr>
           <tr>
             <th rowspan="2">Reality</th>
@@ -149,6 +160,9 @@
             <td>Number of false negatives<br/>
               (unflagged spelling errors):<br/>
               <strong><xsl:value-of select="$falsenegative"/></strong></td>
+            <td>Number of errouneously<br/>
+              tokenized spelling errors:<br/>
+              <strong><xsl:value-of select="$TokErrSpellErr"/></strong></td>
           </tr>
           <tr>
             <td>Number of real correct words:<br/>
@@ -159,12 +173,15 @@
             <td>Number of true negatives<br/>
               (unflagged correct words):<br/>
               <strong><xsl:value-of select="$truenegative"/></strong></td>
+            <td>Number of errouneously<br/>
+              tokenized correct words:<br/>
+              <strong><xsl:value-of select="$TokErrSpellCor"/></strong></td>
           </tr>
         </table>
 
         <xsl:if test="count(../results/word[status='Error'][expected]) > 0">
           <p><strong><xsl:value-of select="$errorinput"/> input word(s)</strong>
-          was/were discarded because the speller/MS Word could not deal with them
+          was/were discarded because the speller (or MS Word) could not deal with them
           properly. The calculation of Precision, Recall and Accuracy below does
           <strong>NOT</strong> include this/these word(s).</p>
         </xsl:if>
@@ -434,6 +451,49 @@
       </section>
     </xsl:if>
 
+    <xsl:if test="count(word[status='TokErr']) > 0">
+    <section>
+      <title>Tokenization Errors
+            (<xsl:value-of select="count(word[status='TokErr'])"/>)</title>
+        <xsl:if test="count(word[status='TokErr'][expected]) > 0">
+          <section>
+            <title>Tokenization Errors of Misspellings
+            (<xsl:value-of select="count(word[status='TokErr'][expected])"/>)</title>
+            <table>
+              <tr>
+                <th>Input<br/>word</th>
+                <th>Expected<br/>correction</th>
+                <th>Editing<br/>distance</th>
+                <th>Speller<br/>Tokens</th>
+              </tr>
+              <xsl:apply-templates select="word[status='TokErr'][expected]">
+                <xsl:sort select="edit_dist" order="descending" data-type="number"/>
+                <xsl:sort select="original" />
+                <xsl:with-param name="type" select="'toSpErr'"/>
+              </xsl:apply-templates >
+            </table>
+          </section>
+        </xsl:if>
+        <xsl:if test="count(word[status='TokErr'][not(expected)]) > 0">
+          <section>
+            <title>Tokenization Errors of Correct Words
+            (<xsl:value-of select="count(word[status='TokErr'][not(expected)])"/>)</title>
+            <table>
+              <tr>
+                <th>Input<br/>word</th>
+                <th>Speller<br/>Tokens</th>
+              </tr>
+              <xsl:apply-templates select="word[status='TokErr'][not(expected)]">
+                <xsl:sort select="edit_dist" order="descending" data-type="number"/>
+                <xsl:sort select="original" />
+                <xsl:with-param name="type" select="'toSpCor'"/>
+              </xsl:apply-templates >
+            </table>
+          </section>
+        </xsl:if>
+      </section>
+    </xsl:if>
+
     <xsl:if test="$testtype = 'regression'">
       <section>
         <title>Grouped by bug #</title>
@@ -536,7 +596,7 @@
             </xsl:attribute>
           </xsl:if>
           <td><xsl:value-of select="original"/></td>
-          <xsl:if test="$type != 'fp'">
+          <xsl:if test="$type != 'fp' and $type != 'toSpCor'">
             <td><xsl:value-of select="expected"/></td>
             <td><xsl:value-of select="edit_dist"/></td>
           </xsl:if>
@@ -544,6 +604,12 @@
                         ($testtype = 'regression' and $type != 'fn')">
             <td>
               <xsl:apply-templates select="suggestions"/>
+            </td>
+          </xsl:if>
+          <xsl:if test="$type = 'toSpErr' or
+                        $type = 'toSpCor'">
+            <td>
+              <xsl:apply-templates select="tokens"/>
             </td>
           </xsl:if>
           <xsl:if test="$testtype = 'regression'">
@@ -566,7 +632,7 @@
     </xsl:choose>
   </xsl:template>
 
-  <xsl:template match="suggestions">
+  <xsl:template match="suggestions|tokens">
     <ol>
       <xsl:apply-templates />
     </ol>
@@ -584,6 +650,12 @@
           (<xsl:value-of select="@penscore"/>)
         </span>
       </xsl:if>
+      <xsl:apply-templates />
+    </li>
+  </xsl:template>
+
+  <xsl:template match="token">
+    <li>
       <xsl:apply-templates />
     </li>
   </xsl:template>
