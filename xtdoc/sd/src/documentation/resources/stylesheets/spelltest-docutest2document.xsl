@@ -119,7 +119,6 @@
           <xsl:choose>
             <xsl:when test="$testtype = 'regression' or
                             $testtype = 'typos' or
-                            $testtype = 'paradigm' or
                             $testtype = 'baseform' ">
               <strong><xsl:value-of select="$testtype"/></strong>
             </xsl:when>
@@ -624,11 +623,6 @@
                 </a>
               </td>
             </xsl:if>
-            <td>
-              <xsl:apply-templates select="comment"/>
-            </td>
-          </xsl:if>
-          <xsl:if test="$testtype = 'paradigm'">
             <td>
               <xsl:apply-templates select="comment"/>
             </td>
