@@ -34,7 +34,7 @@ Participants:
 * Compounding bug 461 investigated, not a bug
 ** suggestions can be explained by phonetic rules and penalty settings
 * Compounding bug 522: not general 4 part-compound problem, but related to
-  definition of 'goahtte' - probaly lexical issue, am currently digging in lex
+  definition of ''goahtte'' - probaly lexical issue, am currently digging in lex
 * Bug 568: not a bug. Token ending in hyphen: 1st attempt is to see it as
   1 lexical word, 2nd is to see it as "word without hyphen" + "-"
 * 576: appears to be real bug. Under investigation.
@@ -53,17 +53,20 @@ Next drops:
 
 Open issues after these drops:
 * Windows installer issues
-* 576 - ''heajus'' vs ''heajos-''
-** heajos- should be accepted (with hyphen only) - it is
-** heajus should be accepted - it is 
-** heajos should NOT be accepted - *** it IS accepted
-** heajos-Oslo should be accepted - *** it is NOT accepted, but the exact same string is suggested, and when inserted (corrected) gets a red underline immediately
-** heajus-Oslo should NOT be accepted - is NOT accepted
-** tested with "Davvisámi, public beta 2, 2007-11-16"
-* 568 - it is a "bug" from the user's perspective
-** if lex contains "xxx- BO" and "xxx I" xxx- will be recognized as "xxx" + '-'
-** if lex contains "xxx- BO" and NO "xxx I", xxx- will NOT be accepted by the
-   present speller as "xxx" + "-"
+* 576 – ''heajus'' vs ''heajos–'' (hyphens replaced with n-dash to please
+  forrest)
+** heajos– should be accepted (with hyphen only) – it is
+** heajus should be accepted – it is 
+** heajos should NOT be accepted – *** it IS accepted
+** heajos–Oslo should be accepted – *** it is NOT accepted, but the exact same
+   string is suggested, and when inserted (corrected) gets a red underline
+   immediately
+** heajus–Oslo should NOT be accepted – is NOT accepted
+** tested with "Davvisámi, public beta 2, 2007–11–16"
+* 568 – it is a "bug" from the user´s perspective
+** if lex contains "xxx– BO" and "xxx I" xxx– will be recognized as "xxx" + "–"
+** if lex contains "xxx– BO" and NO "xxx I", xxx– will NOT be accepted by the
+   present speller as "xxx" + "–"
 ** this implies that Divvun has "xxx I" somewhere in the lexicon, which is a bug
 
 Re bug 568:
@@ -107,11 +110,11 @@ beai-ve NAL
 | 473 | 452 | Windows installer does not autostart after download
 | 516 | 4?? | vista installation from zip fails => depends on the autostart download issue
 | 554 | xxx | Uninstallation under Windows Vista fails
-| 561 | xxx | Installer language choice doesn't work when upgrading
+| 561 | xxx | Installer language choice doesn´t work when upgrading
 | 562 | xxx | Win upgrade does not upgrade
 | 563 | xxx | Dutch text in installer upgrade dialog
 | 564 | xxx | Win installer asking for non-existing disk
-| 565 | xxx | Clicking 'Back' in installer doesn't word as expected
+| 565 | xxx | Clicking "Back" in installer doesn´t word as expected
 | 576 | xxx | Speller does not accept the correct string, but do suggest the same as input.
 
 
