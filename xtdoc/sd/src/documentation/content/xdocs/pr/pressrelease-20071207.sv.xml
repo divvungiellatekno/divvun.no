@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nb">
+  <header>
+    <title>Pressmeddelande, 07.12.2007</title>
+  </header>
+
+  <body>
+    <section>
+      <title>Pressmeddelande</title>
+
+      <p>Datum: 07.12.2007<br /> Kontaktperson: Projektledare Sjur
+      Nørstebø Moshagen, tel. mob. +358 50 56 34 319</p>
+    </section>
+
+    <section>
+      <title>PRM: Version 1.0 av samiska korrekturverktyg</title>
+
+      <p>Sametingets Divvun-projekt lanserar den första offentligt tillgängliga
+      versionen av samiska korrekturverktyg för Microsoft Office-paketet som
+      bland annat innehåller programmen Word, Outlook, PowerPoint och Excel.</p>
+
+      <p>De samiska korrekturverktygen innehåller stavningskontroll och automatisk
+      avstavning för nord- och lulesamiska. Alla verktygen är gratis, också den
+      slutliga versionen. All källkod som Sametinget har copyright till är fritt
+      tillgänglig.</p>
+
+      <p>Verktygen som lanseras är korrekturverktyg för MS Office för Windows
+      och Mac. Orddelning för InDesign är också tillgänglig, stavningskontroll
+      för InDesign och verktyg för OpenOffice.org kommer att vara tillgängligt
+      senare. OpenOffice.org är ett kostnadsfritt alternativ till Microsoft
+      Office, som också finns för Linux. Uppdateringar av korrekturverktygen
+      kommer att läggas ut med jämna mellanrum.</p>
+
+      <p>Verktygen finns tillgängliga på <a href="http://www.divvun.no/"
+      >www.divvun.no</a>, och kan laddas ner av alla intresserade. Kopior av
+      verktygen kan också hämtas från <a href="http://www.sametinget.no/"
+      >Sametingets hemsida</a>.</p>
+
+      <p>Divvun-projektet genomförs av Sametinget i Norge, och är finansierat av
+      Sametinget, Arbeids- og inkluderingsdepartementet, Kultur- og
+      kirkedepartementet, Kunnskapsdepartementet, och Nordplus Sprog. Projektet
+      samarbetar mycket nära med <a href="http://giellatekno.uit.no/"
+      >språkteknologimiljön vid Universitetet i Tromsø</a>. Integrering mot MS
+      Office levereras av <a href="http://www.polderland.nl/">Polderland
+      Language &amp; Speech Technology bv</a>.</p>
+    </section>
+  </body>
+</document>
