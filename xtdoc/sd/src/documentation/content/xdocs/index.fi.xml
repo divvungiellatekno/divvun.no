@@ -9,7 +9,7 @@
     <section>
       <title>Versio 1.0 saatavilla!</title>
       <p>
-        Divvun-projekti on julkaissut korjausohjelmien uuden betaversion. Uuden version saat alla olevista linkeistä.
+        12. joulukuuta lähtien on saatavilla ensimmäinen valmis versio saamen oikolukuohjelmista. Tämä on historiallinen hetki saamelaisen tietotekniikan aikakaudella ja tärkeä virstanpylväs työssä saamen kielen käyttämiseksi nykyaikaisessa yhteiskunnassa. Ohjelmat ovat ladattavissa täältä:
       </p>
       <ul>
         <li>
@@ -20,33 +20,20 @@
         Lisätietoa ja yksityskohtia päivityksestä löytyy <a
         href="doc/proof/spelling/msoff/install_use.fi.html">täältä</a>.
       </p>
-      <!--
-      <title>Julkinen Beta saatavilla!</title>
-      <p>
-        Toukokuun 29:stä päivästä lähtien on ensimmäinen julkinen saamenkielinen oikolukuohjelma saatavilla. Tämä on historiallinen tapaus Saamen tietotekniikan aikakaudella ja merkitsee tärkeää virstanpylvästä saamen kielen tulevaisuudelle modernissa yhteiskunnassa. Mene <a href="downloads.html">tiedostojen lataus sivulle</a> tai lue lisää julkaisusta <a href="doc/proof/spelling/msoff/install_use.fi.html">täältä</a>.
-      </p>
-      <ul>
-        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Win</a></li>
-        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Mac</a></li>
-      </ul>
-      -->
-    </section>
+         </section>
     <section>
       <title>Mikä Divvun on?</title>
       <p>
-        Divvun on Norjan saamelaiskäräjien rahoittama projekti, jonka tarkoituksena on tuottaa saamen kielen oikolukuohjelma. Tämän projektin ensimmäisenä vaiheena on tuottaa sekä oikoluku- ja tavutusohjelma pohjoissaamea varten, että oikolukuohjelma luulajansaamea varten - voit lukea enemmän ohjelman kieliä koskevista priorisoinnistamme täältä (<a href="sma-background.nb.html">norjaksi</a> tai <a href="sma-background.se.html">saameksi</a>). Ohjelmat tulevat toimimaan Windowsin, Linuxin ja Macin tavallisimmissa toimisto-ohjelmissa.
+        Divvun on Norjan saamelaiskäräjien rahoittama projekti, jonka tarkoituksena on tuottaa saamen kielen oikolukuohjelma. Tämän projektin ensimmäinen tavoite on tuottaa oikoluku- ja tavutusohjelma pohjois- ja luulajansaamelle (<a href="sma-background.nb.html">norjaksi</a> tai <a href="sma-background.se.html">saameksi</a>). Ohjelmat tulevat toimimaan Windowsin, Linuxin ja Macin tavallisimmissa toimisto-ohjelmissa.
       </p>
     </section>
     <section>
       <title>Valmis oikolukuväline</title>
       <p>
-        Kun projekti on valmis joulukuussa 2007, tulevat valmiit oikolukuohjelmat olemaan vapaasti käytettävissä projektin kotisivuilla latausohjelman muodossa, jonka voi helposti ladata tietokoneelle. Ohjelmat tulevat toimimaan samalla tavalla kuin muidenkin kielien ohjelmat toimivat. Saamelaiskäräjät ja Tromsan yliopisto pidättävät oikeudet useisiin ohjelmiin, mutta sallii kaikkia asiasta kiinnostuneita käyttää sekä ohjelmia että lähdekoodia   korvauksetta (tämä koskee vain meidän lähdekoodia).
-      </p>
-      <p>
-        Projektin alkaessa lista valmiista ohjelmista näytti seuraavalta:
+         Valmiit oikolukuohjelmat ovat vapaasti saatavilla projektin kotisivuilla olevan latausohjelman muodossa, ja sen on helppo ladata omalle tietokoneelle. Ohjelmat tulevat toimimaan samalla tavalla kuin muidenkin kielten  vastaavat ohjelmat. Saamelaiskäräjät ja Tromssan yliopisto pidättävät oikeudet useisiin ohjelmiin, mutta sallii kaikkien asiasta kiinnostuneiden käyttää sekä ohjelmia että lähdekoodia korvauksetta (tämä koskee vain meidän lähdekoodia).
       </p>
       <table>
-        <caption>Taulukko suunnitelluista tuotteista</caption>
+        <caption>Taulukko valmiista ja suunnitelluista tuotteista</caption>
         <tr>
           <th>Ohjelma/Käyttöjärjestelmä</th>
           <th>Oikolukuohjelma</th>
@@ -54,14 +41,21 @@
         </tr>
         <tr>
           <td>MS Office/Win</td>
-          <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Beta saatavana</a></td>
+          <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Virallinen versio 1.0 saatavilla</a></td>
           <td>x</td>
         </tr>
         <tr>
           <td>MS Office/Mac</td>
-          <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Beta saatavana</a></td>
+          <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Virallinen versio 1.0 saatavilla</a></td>
           <td>x</td>
         </tr>
+        <td>Asennetaan yhdessä oikolukuohjelman kanssa</td>
+				</tr>
+				<tr>
+					<td>InDesign CS3</td>
+					<td>-</td>
+					<td>x</td>
+				</tr>
         <tr>
           <td>OpenOffice/Win</td>
           <td>x</td>
@@ -77,42 +71,24 @@
           <td>x</td>
           <td>?</td>
         </tr>
-        <tr>
-          <td>InDesign CS</td>
-          <td>-</td>
-          <td>x</td>
-        </tr>
-        <tr>
-          <td>Aspell (Win/Mac/Linux)</td>
-          <td>x</td>
-          <td></td>
-        </tr>
       </table>
-      <p>
-        Projekti tarjoaa jo varhaisessa vaiheessa testiversioita (niin sanottuja alfa- ja betaversioita) kiinnostuneille käyttäjille (betatestaajille). Me tulemme vähitellen, kun ensimmäinen testiversio on käytettävissä, antamaan enemmän informaatiota testaamisesta ja käytöstä. Löydät eri versioiden yksityiskohtaisemmat suunnitelmat tärkeine virstanpylväineen <a href="timetable.fi.html">täältä</a>, ja hieman enemmän yksityiskohtaisempia tietoja siitä, miten työskentelemme löydät <a href="howmake.fi.html">täältä</a>. Katso myös viimeistä kappaletta, johon olemme keränneet hyödyllisiä linkkejä.
-      </p>
     </section>
-    
-    <section>
+        <section>
         <title>Lähdekoodi ja dokumentaatio</title>
         <section>
             <title>Anonyymi cvs</title>
             <p>
             	   Projektin lähdekoodi on avoin ja se on saatavilla 
-            	   <a href="doc/infra/anonymous-cvs.html">anonyymin cvs</a> tunnuksen avulla. Olemme
-            	   myös kirjoittaneet dokumentin kuinka <a href="doc/intro.html">luet</a> lähdekoodia.
+            	   <a href="doc/infra/anonymous-cvs.html">anonyymin cvs</a> -tunnuksen kautta. Olemme myös kirjoittaneet dokumentin, kuinka <a href="doc/intro.html">lähdekoodia</a> luetaan.
             </p>
         </section>
         
         <section>
             <title>Lataa dokumentaatio</title>
             <p>
-                Tältä sivustolta löydät projektin koko dokumentaation. Jos
+                Tältä sivustolta löytyy projektin koko dokumentaatio. Jos
                 haluat ladata dokumentaation omalle tietokoneellesi, seuraa
-                <a href="doc/infra/anonymous-cvs.html">anonyymi cvs</a> ohjeita,
-                jonka jälkeen <a href="doc/infra/forrest-howto.html">asenna forrest</a>.
-                Tämän jälkeen kaikki dokumentit löytyvät omalta tietokoneeltasi ja
-                voit selata niitä selainohjelmalla.
+                <a href="doc/infra/anonymous-cvs.html">anonyymin cvs:n</a> ohjeita. Asenna sen jälkeen <a href="doc/infra/forrest-howto.html">forrest</a>. Tämän jälkeen kaikki dokumentit löytyvät omalta tietokoneeltasi ja voit selata niitä selainohjelmalla.
              </p>
         </section>
         
@@ -121,10 +97,10 @@
     <section>
       <title>Hyödyllisiä linkkejä</title>
       <ul>
-          <li><a href="mailto:divvun ved samediggi punkt no">Sähköpostia projektille</a></li>
-          <li><a href="http://aspell.sourceforge.net/">Aspell</a></li>
+          <li><a href="mailto:divvun ät samediggi piste no">Sähköpostia projektille</a></li>
+         <li><a href="http://hunspell.sourceforge.net/">Hunspell</a></li>
           <li><a href="http://www.openoffice.org/">OpenOffice</a></li>
-          <li><a href="http://www.xrce.xerox.com/competencies/content-analysis/fst/">Xerox FST-työkaluja</a></li>
+          <li><a href="http://www.xrce.xerox.com/competencies/content-analysis/fst/">Xerox FST-työkalut</a></li>
         </ul>
     </section>
       <p class="last_modified">
