@@ -15,14 +15,14 @@
 
       <ul>
         <li><a
-        href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.zip">Win</a></li>
+        href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.zip">Windows</a></li>
 
         <li><a
-        href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.dmg">Mac</a></li>
+        href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.dmg">Mac OS X</a></li>
       </ul>
 
       <p>Ienep diedojt ja åsijt dán ådå versjåvnjå birra gávna <a
-      href="doc/proof/spelling/msoff/install_use.smj.html">dánna</a>.</p>
+      href="doc/proof/spelling/msoff/install_use.html">dánna</a>.</p>
     </section>
 
     <section>
@@ -144,7 +144,7 @@
         <li><a href="mailto:divvun ved samediggi punkt no">E-post
         prosjæktaj</a></li>
 
-        <li><a href="http://aspell.sourceforge.net/">Aspell</a></li>
+        <li><a href="http://hunspell.sourceforge.net/">Hunspell</a></li>
 
         <li><a href="http://www.openoffice.org/">OpenOffice</a></li>
 
