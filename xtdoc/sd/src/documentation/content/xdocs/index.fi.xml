@@ -7,14 +7,14 @@
   </header>
   <body>
     <section>
-      <title>Beta 2 saatavilla!</title>
+      <title>Versio 1.0 saatavilla!</title>
       <p>
-        Divvun-projekti on julkaissut korjausohjelmien uuden betaversion.
-        Uuden version saat alla olevista linkeistä.
+        Divvun-projekti on julkaissut korjausohjelmien uuden betaversion. Uuden version saat alla olevista linkeistä.
       </p>
       <ul>
-        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.zip">Win</a></li>
-        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.dmg">Mac</a></li>
+        <li>
+        	<a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Windows</a></li>
+        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">MacOS X</a></li>
       </ul>
       <p>
         Lisätietoa ja yksityskohtia päivityksestä löytyy <a
@@ -23,13 +23,7 @@
       <!--
       <title>Julkinen Beta saatavilla!</title>
       <p>
-        Toukokuun 29:stä päivästä lähtien on ensimmäinen julkinen saamenkielinen
-        oikolukuohjelma saatavilla. Tämä on historiallinen tapaus Saamen
-        tietotekniikan aikakaudella ja merkitsee tärkeää virstanpylvästä
-        saamenkielen tulevaisuudelle modernissa yhteiskunnassa. Mene <a
-        href="downloads.html">tiedostojen lataus sivulle</a> tai lue lisää
-        julkaisusta <a href="doc/proof/spelling/msoff/install_use.fi.html">
-        täältä</a>.
+        Toukokuun 29:stä päivästä lähtien on ensimmäinen julkinen saamenkielinen oikolukuohjelma saatavilla. Tämä on historiallinen tapaus Saamen tietotekniikan aikakaudella ja merkitsee tärkeää virstanpylvästä saamen kielen tulevaisuudelle modernissa yhteiskunnassa. Mene <a href="downloads.html">tiedostojen lataus sivulle</a> tai lue lisää julkaisusta <a href="doc/proof/spelling/msoff/install_use.fi.html">täältä</a>.
       </p>
       <ul>
         <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Win</a></li>
@@ -40,27 +34,13 @@
     <section>
       <title>Mikä Divvun on?</title>
       <p>
-        Divvun on Norjan saamelaiskäräjien rahoittama projekti, jonka tarkoituksena on
-        tuottaa saamen kielen oikolukuohjelma. Tämän projektin ensimmäisenä
-        vaiheena on tuottaa sekä oikoluku- ja tavutusohjelma pohjoissaamea
-        varten, että oikolukuohjelma luulajansaamea varten - voit lukea enemmän
-        ohjelman kieliä koskevista priorisoinnistamme täältä 
-        (<a href="sma-background.nb.html">norjaksi</a> tai
-	<a href="sma-background.se.html">saameksi</a>). Ohjelmat tulevat toimimaan
-        Windowsin, Linuxin ja Macin tavallisimmissa toimisto-ohjelmissa.
+        Divvun on Norjan saamelaiskäräjien rahoittama projekti, jonka tarkoituksena on tuottaa saamen kielen oikolukuohjelma. Tämän projektin ensimmäisenä vaiheena on tuottaa sekä oikoluku- ja tavutusohjelma pohjoissaamea varten, että oikolukuohjelma luulajansaamea varten - voit lukea enemmän ohjelman kieliä koskevista priorisoinnistamme täältä (<a href="sma-background.nb.html">norjaksi</a> tai <a href="sma-background.se.html">saameksi</a>). Ohjelmat tulevat toimimaan Windowsin, Linuxin ja Macin tavallisimmissa toimisto-ohjelmissa.
       </p>
     </section>
     <section>
       <title>Valmis oikolukuväline</title>
       <p>
-        Kun projekti on valmis joulukuussa 2007, tulevat valmiit
-        oikolukuohjelmat olemaan vapaasti käytettävissä
-        projektin kotisivuilla latausohjelman muodossa, jonka voi helposti
-        ladata tietokoneelle. Ohjelmat tulevat toimimaan samalla tavalla kuin
-        muidenkin kielien ohjelmat toimivat. Saamelaiskäräjät ja Tromsan
-        yliopisto pidättävät oikeudet useisiin ohjelmiin, mutta sallii kaikkia
-        asiasta kiinnostuneita käyttää sekä ohjelmia että lähdekoodia   korvauksetta
-        (tämä koskee vain meidän lähdekoodia).
+        Kun projekti on valmis joulukuussa 2007, tulevat valmiit oikolukuohjelmat olemaan vapaasti käytettävissä projektin kotisivuilla latausohjelman muodossa, jonka voi helposti ladata tietokoneelle. Ohjelmat tulevat toimimaan samalla tavalla kuin muidenkin kielien ohjelmat toimivat. Saamelaiskäräjät ja Tromsan yliopisto pidättävät oikeudet useisiin ohjelmiin, mutta sallii kaikkia asiasta kiinnostuneita käyttää sekä ohjelmia että lähdekoodia   korvauksetta (tämä koskee vain meidän lähdekoodia).
       </p>
       <p>
         Projektin alkaessa lista valmiista ohjelmista näytti seuraavalta:
@@ -109,19 +89,7 @@
         </tr>
       </table>
       <p>
-        Tätä listaa tulemme tarkistamaan projektin aikana, mutta suurempia
-        muutoksi emme luultavasti tule tekemään.
-      </p>
-      <p>
-        Projekti tarjoaa jo varhaisessa vaiheessa testiversioita (niin
-        sanottuja alfa- ja betaversioita) kiinnostuneille käyttäjille
-        (betatestaajille). Me tulemme vähitellen, kun ensimmäinen testiversio on
-        käytettävissä, antamaan enemmän informaatiota testaamisesta ja
-        käytöstä. Löydät eri versioiden yksityiskohtaisemmat suunnitelmat
-        tärkeine virstanpylväineen <a href="timetable.fi.html">täältä</a>, ja
-        hieman enemmän yksityiskohtaisempia tietoja siitä, miten työskentelemme
-        löydät <a href="howmake.fi.html">täältä</a>. Katso myös viimeistä
-        kappaletta, johon olemme keränneet hyödyllisiä linkkejä.
+        Projekti tarjoaa jo varhaisessa vaiheessa testiversioita (niin sanottuja alfa- ja betaversioita) kiinnostuneille käyttäjille (betatestaajille). Me tulemme vähitellen, kun ensimmäinen testiversio on käytettävissä, antamaan enemmän informaatiota testaamisesta ja käytöstä. Löydät eri versioiden yksityiskohtaisemmat suunnitelmat tärkeine virstanpylväineen <a href="timetable.fi.html">täältä</a>, ja hieman enemmän yksityiskohtaisempia tietoja siitä, miten työskentelemme löydät <a href="howmake.fi.html">täältä</a>. Katso myös viimeistä kappaletta, johon olemme keränneet hyödyllisiä linkkejä.
       </p>
     </section>
     

@@ -7,66 +7,35 @@
   </header> 
   <body> 
     <section>
-      <title>Beta 2 available!</title>
+      <title>Version 1.0 available!</title>
       <p>
-        New beta 2 versions of the spellers for Sámi are available for download.
-        The new versions are available here:
+		New beta 2 versions of the spellers for Sámi are available for download. As of May 29, the first public release of the Sámi proofing tools is available. This is an historic event in the Sámi computing age, and marks an important milestone in keeping Sámi alive in the modern society. The tools are available here:
       </p>
       <ul>
-        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.zip">Win</a></li>
-        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.dmg">Mac</a></li>
+        <li>
+        	<a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Windows</a>
+        </li>
+        <li>
+        	<a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">MacOS X</a>
+        </li>
       </ul>
       <p>
-        More information and details on the new versions are found in the <a
-        href="doc/proof/spelling/msoff/install_use.en.html">release notes</a>.
+		More information and details on the new versions are found in the <a href="doc/proof/spelling/msoff/install_use.html">release notes</a>.
       </p>
-      <!--
-      <title>Public Beta available!</title>
-      <p>
-        As of May 29, the first public release of the Sámi proofing tools is
-        available. This is an historic event in the Sámi computing age, and
-        marks an important milestone in keeping Sámi alive in the modern
-        society. Go directly to our <a href="downloads.html">download page</a>,
-        or read more about the release in the <a
-        href="doc/proof/spelling/msoff/install_use.en.html">release notes</a>,
-        or download here:
-      </p>
-      <ul>
-        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Win</a></li>
-        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Mac</a></li>
-        </ul>
-        -->
     </section>
     <section>
       <title>What is Divvun?</title>
       <p>
-        Divvun is a project run by the Sámi Parliament in order to make spell
-        checkers for the Sámi languages. In the first phase of the project this
-        means spell checkers and hyphenation for Northern Sámi, and spell
-        checkers for Lule Sámi - the background for this prioritising is found
-         <a href="sma-background.html">on this page</a>. The tools will work on
-        Windows, Linux and Mac, with the usual office environment programs.
+		Divvun is a project run by the Sámi Parliament in order to make spell checkers for the Sámi languages. In the first phase of the project this means spell checkers and hyphenation for Northern and Lule Sámi. The tools work on Windows, Linux and Mac, with the usual office environment programs.
       </p>
     </section>
     <section>
       <title>Finished products</title>
         <p>
-          When the project is closing at the end of 2007, the final proofing
-          tools will be available free of charge by downloading from the project
-          home page. The downloads are traditional installers that install the
-          the proofing tools easily on the users' computers. The proofing tools
-          work the same way as proofing tools for other languages. The Norwegian
-          Sámi Parliament and the University of Tromsø retain the rights to most
-          of the produced software, together with the copyright holders of
-          whatever is included. All interested parties can both use the software
-          and download the source code free of charge (only our source code).
+		  The final proofing tools are available free of charge by downloading from the project home page. The downloads are traditional installers that install the proofing tools easily on the users' computers. The proofing tools work the same way as proofing tools for other languages. The Norwegian Sámi Parliament and the University of Tromsø retain the rights to most of the produced software, together with the copyright holders of whatever is included. All interested parties can both use the software and download the source code free of charge (only our source code).
         </p>
-      <p>
-        At project kickoff, the detailed list of deliverable programs looked as
-        follows:
-      </p>
       <table>
-        <caption>Overview over planned products</caption>
+        <caption>Overview over available and planned products</caption>
         <tr>
           <th>Program/OS</th>
           <th>Spell checker</th>
@@ -74,74 +43,55 @@
         </tr>
         <tr>
           <td>MS Office/Win</td>
-          <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Beta available</a></td>
-          <td>x</td>       
+          <td>
+            <a href="http://www.divvun.no/DivvunInstaller.exe">Official version 1.0 is available</a>
+          </td>
+          <td>Is installed together with the spell checker</td>       
         </tr>
         <tr>
           <td>MS Office/Mac</td>
-          <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Beta available</a></td>
+          <td>
+            <a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Official version 1.0 is available</a>
+          </td>
+          <td>with the spell checker</td>       
+        </tr>
+        <tr>
+          <td>InDesign CS3</td>
+          <td>x</td>
           <td>x</td>       
         </tr>
         <tr>
           <td>OpenOffice/Win</td>
           <td>x</td>
-          <td>?</td>       
+          <td>x</td>       
         </tr>
-        <tr><td>OpenOffice/Mac</td>  <td>x</td>            <td>?</td>       
+        <tr>
+          <td>OpenOffice/Mac</td>
+          <td>x</td>
+          <td>x</td>       
         </tr>
         <tr>
           <td>OpenOffice/Linux</td>
           <td>x</td>
-          <td>?</td>       
-        </tr>
-        <tr>
-          <td>InDesign CS</td>
-          <td>-</td>
           <td>x</td>       
-        </tr>
-        <tr>
-          <td>Aspell (Win/Mac/Linux)</td>
-          <td>x</td>
-          <td></td>       
         </tr>
       </table>
       <p>
         This list may be adjusted during the course of the project, but there
         will probably not undergo substantial revisions.
       </p>
-      <p>
-        The project will offer early test versions (so called alpha- and
-        betaversions) for interested users (betatesters). When the firest test
-        version is made accessible, we will publish more information on testing
-        and usage. A more detailed project plan, with important milestones for
-        the different projects may be found <a
-        href="timetable.html">here</a>, and some more details on how the work
-        is being conducted may be found <a href="howmake.html">here</a>.
-        See also the final section, containing useful links.
-      </p>
-    </section>
     <section>
         <title>Source code and documentation</title>
         <section>
             <title>Anonymous cvs</title>
             <p>
-                The source code to this project is open source, and it is available
-                through <a href="doc/infra/anonymous-cvs.html">anonymous cvs</a>. We have also written 
-                a document on how to <a href="doc/intro.html">find your way</a> through the
-                source code.
+                The source code to this project is open source, and it is available through <a href="doc/infra/anonymous-cvs.html">anonymous cvs</a>. We have also written a document on how to <a href="doc/intro.html">find your way</a> through the source code.
             </p>
         </section>
-        
         <section>
             <title>Download documentation</title>
             <p>
-                All the documentation on this project is available on this
-                site. If you would like to have this documentation on your
-                own computer, follow the instruction on 
-                <a href="doc/infra/anonymous-cvs.html">anonymous cvs</a>, then go on to 
-                <a href="doc/infra/forrest-howto.html">setup forrest</a>. 
-                After that all our documentation sits on your own computer, and 
-                you can navigate through it with a web browser.
+                All the documentation on this project is available on this site. If you would like to have this documentation on your own computer, follow the instruction on <a href="doc/infra/anonymous-cvs.html">anonymous cvs</a>, then go on to  <a href="doc/infra/forrest-howto.html">setup forrest</a>. After that all our documentation sits on your own computer, and you can navigate through it with a web browser.
              </p>
         </section>
         
@@ -154,10 +104,10 @@
           project</a>
         </li>
         <li>
-          <a href="http://aspell.sourceforge.net/">Aspell</a>
+          <a href="http://hunspell.sourceforge.net/">Hunspell</a>
         </li>
         <li>
-          <a href="http://www.openoffice.org/">OpenOffice</a>
+          <a href="http://www.openoffice.org/">OpenOffice.org</a>
         </li>
         <li>
           <a
