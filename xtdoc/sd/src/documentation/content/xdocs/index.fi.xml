@@ -18,7 +18,7 @@
       </ul>
       <p>
         Lisätietoa ja yksityskohtia päivityksestä löytyy <a
-        href="doc/proof/spelling/msoff/install_use.fi.html">täältä</a>.
+        href="doc/proof/spelling/msoff/install_use.html">täältä</a>.
       </p>
          </section>
     <section>
@@ -57,17 +57,17 @@
         <tr>
           <td>OpenOffice/Win</td>
           <td>x</td>
-          <td>?</td>
+          <td>x</td>
         </tr>
         <tr>
           <td>OpenOffice/Mac</td>
           <td>x</td>
-          <td>?</td>
+          <td>x</td>
         </tr>
         <tr>
           <td>OpenOffice/Linux</td>
           <td>x</td>
-          <td>?</td>
+          <td>x</td>
         </tr>
       </table>
     </section>
