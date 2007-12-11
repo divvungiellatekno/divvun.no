@@ -6,9 +6,9 @@
 	</header>
 	<body>
 		<section>
-			<title>Version 1.0 är tilgänglig!</title>
+			<title>Version 1.0 är tillgänglig!</title>
 			<p>
-				Från och med 12. desember 2007 är den första ferdige versjonen av de samiska ordretteprogrammene tilgjengelig. Dette är et historisk øyeblikk i den samiska dataalderen, och det är en viktig milepæl i arbeidet med att bruke samisk i det moderne samfunnet. verktygen är tilgjengelige her:
+				Från och med 12. december 2007 är den första färdiga versionen av de samiska rättstavningsprogrammet tillgängligt. Detta är ett historiskt ögonblick i den samiska dataåldern, och det är en viktig milpärla i arbetet med att använda samiska i det moderna samhället. Verktygen är tillgängliga här:
 			</p>
 			<ul>
 				<li>
@@ -19,40 +19,40 @@
 				</li>
 			</ul>
 			<p>
-				Mer informasjon och detaljer om denne versjonen finnes i <a href="doc/proof/spelling/msoff/install_use.html">slippnotatene</a>.
+				Mer information och detaljer om denna version finns i <a href="doc/proof/spelling/msoff/install_use.html">släppnoterna</a>.
 			</p>
 		</section>
 		<section>
-			<title>Hva är Divvun?</title>
+			<title>Vad är Divvun?</title>
 			<p>
-				Divvun är et prosjekt under det norske Sametinget för att lage retteprogram för samisk. I første omgang betyr det stavekontroll och orddeling för nord-og lulesamisk. verktygen skal fungere på Windows, Linux och Mac i de vanligste kontorprogrammene.
+				Divvun är ett projekt under norska Sametinget för att göra samiska rättstavningsprogram. I första hand betyder det rättstavningsprogram och avstavning för nord- och lulesamiska. Verktygen skall fungera på Windows, Linux och Mac i de vanligaste kontorprogrammen.
 			</p>
 		</section>
 		<section>
-			<title>Ferdige korrekturverktyg</title>
+			<title>Färdiga korrekturverktyg</title>
 			<p>
-				De ferdige korrekturverktygen är gratis tilgjengelige på prosjektets hjemmeside i form av installasjonsprogram som enkelt installerer verktygen på datamaskinen. verktygen vil fungere på samme måten som tilsvarende verktyg för andre språk. Sametinget och Universitetet i Tromsø vil beholde rettene til det meste av programmene, men tillater at alle interesserte kan bruke både programmene och kildekoden deres vederlagsfritt (tilgang til kildekoden gjelder ikke deler som är proprietære).
+				De färdiga korrekturverktygen är gratis tillgängliga på projektets hemsida i form av installationsprogram som enkelt installerar verktygen på datamaskinen. Verktygen fungerar på samma sätt som motsvarande verktyg för andra språk. Sametinget och Universitetet i Tromsø behåller rättigheterna till det mesta av programmen, men tillåter att alla intresserade kan använda både programmen och källkoden kostnadsfritt (tillgång till källkoden gäller inte delar som är proprietära).
 			</p>
 			<table>
-				<caption>Tabell over ferdige och planlagte produkt</caption>
+				<caption>Tabell över färdiga och planlagda produkter</caption>
 				<tr>
 					<th>Program/OS</th>
-					<th>Stavekontroll</th>
-					<th>Orddeling</th>
+					<th>Rättstavning</th>
+					<th>Avstavning</th>
 				</tr>
 				<tr>
 					<td>MS Office/Win</td>
 					<td>
-						<a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Offisiell versjon 1.0 tilgjengelig</a>
+						<a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Officiell version 1.0 tillgänglig</a>
 					</td>
-					<td>Installeres sammen med stavekontrollen</td>
+					<td>Installeras tillsammans med rättstavningsprogrammet</td>
 				</tr>
 				<tr>
 					<td>MS Office/Mac</td>
 					<td>
-						<a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Offisiell versjon 1.0 tilgjengelig</a>
+						<a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Officiell version 1.0 tillgänglig</a>
 					</td>
-					<td>Installeres sammen med stavekontrollen</td>
+					<td>Installeras tillsammans med rättstavningsprogrammet</td>
 				</tr>
 				<tr>
 					<td>InDesign CS3</td>
@@ -77,25 +77,25 @@
 			</table>
 		</section>
 		<section>
-			<title>Kildekode och dokumentasjon</title>
+			<title>Källkod och dokumentation</title>
 			<section>
 				<title>Anonym cvs</title> 
 				<p>
-					Kildekoden til dette prosjektet som tilhører Sametinget och Universitetet i Tromsø är åpen och fri, och är tilgjengelig via <a href="doc/infra/anonymous-cvs.html">anonym cvs</a>. Vi har også skrevet et dokument om hvordan man <a href="doc/intro.html">finner frem</a> i kildekoden.
+					Källkoden till detta projekt som tillhör Sametinget och Universitetet i Tromsø är öppen och fri, och är tillgänglig via <a href="doc/infra/anonymous-cvs.html">anonym cvs</a>. Vi har också skrivit ett dokument om hur man <a href="doc/intro.html">finner fram</a> i källkoden.
 				 </p>
 			</section>
 			<section>
-				<title>Last ned dokumentasjon</title>
+				<title>Lasta ned dokumentation</title>
 				<p>
-					All dokumentasjonen om dette prosjektet är tilgjengelig på <a href="http://divvun.no">prosjektets hjemmeside</a>. Hvis du vil ha denne dokumentasjonen på din egen datamaskin, følg instruksjonen om <a href="doc/infra/anonymous-cvs.html">anonym cvs</a>, och gå deretter til<a href="doc/infra/forrest-howto.html">oppsett av forrest</a>. Etter dette är all dokumentasjonen vår på din datamaskin, och du kan navigere gjennom den med en webleser.
+					All dokumentation om detta projekt är tillgängligt på <a href="http://divvun.no">projektets hemsida</a>. Om du vill ha denna dokumentation på din egen datamaskin, följ instruktionen om <a href="doc/infra/anonymous-cvs.html">anonym cvs</a>, och gå sen till<a href="doc/infra/forrest-howto.html">tillpassning av forrest</a>. Efter detta är all dokumentation på din datamaskin, och du kan navigera genom den med en webläsare.
 				</p>
 			</section>
 		</section>
 		<section>
-			<title>Nyttige lenker</title>
+			<title>Nyttiga länkar</title>
 			<ul>
 				<li>
-					<a href="mailto:divvun ved samediggi punkt no">E-post til prosjektet</a>
+					<a href="mailto:divvun ved samediggi punkt no">E-post till projektet</a>
 				</li>
 				<li>
 					<a href="http://hunspell.sourceforge.net/">Hunspell</a>
@@ -108,6 +108,6 @@
 				</li>
 			</ul>
 		</section>
-		<p class="last_modified">Siste endring: $Date$, by $Author$</p>
+		<p class="last_modified">Sista ändring: $Date$, by $Author$</p>
 	</body>
 </document>
