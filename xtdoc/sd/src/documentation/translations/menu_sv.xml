@@ -65,5 +65,6 @@
   <message key="Jan '05">Jan. '05</message>
   <message key="Oct-Dec '04">Okt.-Des. '04</message>
   <message key="Downloads">Nedlastbara filer</message>
-  <message key="Installation and usage">Installation och användning</message>
+  <message key="Installation">Installation</message>
+  <message key="Usage">Användning</message>
 </catalogue>

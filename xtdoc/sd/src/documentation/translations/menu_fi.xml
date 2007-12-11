@@ -66,5 +66,6 @@
   <message key="Cooperation with UiT">Yhteistyö UiTø:n kanssa</message>
   <message key="Cooperation meeting 3.10.2005">Yhteistyökokous loka. 3. 2005</message>
   <message key="Downloads">Ladattavat tiedostot</message>
-  <message key="Installation and usage">Asennus ja käyttö</message>
+  <message key="Installation">Asennus</message>
+  <message key="Usage">Käyttö</message>
 </catalogue>
