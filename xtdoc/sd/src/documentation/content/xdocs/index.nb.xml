@@ -75,19 +75,13 @@
 					<td>x</td>
 				</tr>
 			</table>
-			<p>
-				Denne listen kan komme til å justeres noe under prosjektets gang, men store forandringer vil det sannsynligvis ikke bli.
-			</p>
-			<p>
-				Prosjektet vil tilby tidlige testversjoner (såkalte alfa- og betaversjoner) for interesserte brukere (betatestere). Vi vil etter hvert som første testversjon blir tilgjengelig legge ut mere informasjon om testing og bruk. En mere detaljert plan med viktige milepæler for de ulike versjonene finnes <a href="timetable.html">her</a>, og litt flere detaljer om hvordan arbeidet gjøres finner du <a href="howmake.html">her</a>. Se forøvrig det siste avsnittet med nyttige lenker.
-			</p>
 		</section>
 		<section>
 			<title>Kildekode og dokumentasjon</title>
 			<section>
 				<title>Anonym cvs</title> 
 				<p>
-					Kildekoden til dette prosjektet er åpen og fri, og er tilgjengelig via <a href="doc/infra/anonymous-cvs.html">anonym cvs</a>. Vi har også skrevet et dokument om hvordan man <a href="doc/intro.html">finner frem</a> i kildekoden.
+					Kildekoden til dette prosjektet som tilhører Sametinget og Universitetet i Tromsø er åpen og fri, og er tilgjengelig via <a href="doc/infra/anonymous-cvs.html">anonym cvs</a>. Vi har også skrevet et dokument om hvordan man <a href="doc/intro.html">finner frem</a> i kildekoden.
 				 </p>
 			</section>
 			<section>
