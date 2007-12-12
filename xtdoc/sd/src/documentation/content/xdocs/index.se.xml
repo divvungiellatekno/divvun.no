@@ -32,10 +32,10 @@
 		<section>
 			<title>Válmmas korrekturreaiddut</title>
 			<p>
-		 		Válmmas korrekturreaidduid gávdná nuvttá prošeavtta heaibmasiiddus installašunprográmman, mii álkit installere reaidduid dihtorii. Reaiddut doibmet seamma ládje dego iežá gielaid reaiddut. Sámediggi ja Romssa universitehta doallá vuoigatvuođaid eanas prográmmaide, muhte diktet iežáid nai atnit nu prográmmaid ja gáldokodaid nuvttá (muhte ii proprieteara osiid)
+		 		Válmmas korrekturreaidduid gávdná nuvttá prošeavtta heaibmasiiddus installašunprográmman, mii álkit installere reaidduid dihtorii. Reaiddut doibmet seamma ládje dego iežá gielaid reaiddut. Sámediggi ja Romssa universitehta doallá vuoigatvuođaid eanas prográmmaide, muhte diktet iežáid nai atnit nu prográmmaid ja gáldokodaid nuvttá.
 			</p>
 			<table>
-				<caption>Tabealla válmmas ja plánejuvvun buktagiin</caption>
+				<caption>Tabealla válmmas ja plánejuvvon buktagiin</caption>
 				<tr>
 					<th>Prográmma/OS</th>
 					<th>Čállindárkkisteapmi</th>
@@ -82,7 +82,7 @@
 			<section>
 				<title>Anonyma cvs</title> 
 				<p>
-					Dán prošeavtta gáldokoda gullo Sámediggái ja Romssa universitehttii ja lea rabas ja nuvttá, ja oažžu dás:<a href="doc/infra/anonymous-cvs.html">anonyma cvs</a>. Mii leat maid čállán dokumeantta got <a href="doc/intro.html">gávdnat</a> gáldokodas.
+					Dán prošeavtta gáldokoda gullo Sámediggái ja Romssa universitehttii ja lea rabas ja nuvttá, ja oažžu <a href="doc/infra/anonymous-cvs.html">dás</a>. Mii leat maid čállán dokumeantta got <a href="doc/intro.html">gávdnat</a> gáldokodas.
 				 </p>
 			</section>
 			<section>
@@ -109,6 +109,6 @@
 				</li>
 			</ul>
 		</section>
-		<p class="last_modified">Maŋemus rievdadun: $Date$, by $Author$</p>
+		<p class="last_modified">Maŋemus rievdaduvvon: $Date$, by $Author$</p>
 	</body>
 </document>
