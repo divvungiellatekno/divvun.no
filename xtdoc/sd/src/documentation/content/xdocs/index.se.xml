@@ -3,13 +3,13 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="se">
   <header>
-    <title>Divvun - sámi korrektuvrareaiddut</title>
+    <title>Divvun - sámi čállindárkkistanreaiddut</title>
   </header>
   <body>
     <section>
-      <title>Versjon 1.0 olámuttus!</title>
+      <title>Veršuvdna 1.0 olámuttus!</title>
       <p>
-        Juovlamánu 12 2007 rájes lea sámi riektačállinreaidduid vuosttas válmmas veršuvdna olámuttus. Lea historjjálaš dáhpáhus sámi dihtoráldaris, ja lea dehálaš oláhus lážidiin saji sámegiela atnui dálá servodagas. Reaidduid oažžu dás viežžat: 
+        Juovlamánu 12. b. 2007 rájes lea sámi riektačállinreaidduid vuosttas válmmas veršuvdna olámuttus. Lea historjjálaš dáhpáhus sámi dihtoráldaris, ja lea dehálaš olahus lážidiin saji sámegiela atnui dálá servodagas. Reaidduid oažžu dás viežžat: 
 			</p>
 			<ul>
 				<li>
@@ -26,19 +26,19 @@
 		<section>
 			<title>Mii lea Divvun?</title>
 			<p>
-			Divvun lea prošeakta, maid Norgga Sámediggi lea álggahan. Ulbmil lea ráhkadit sámegiela korrekturprográmmaid. Dál vuos ráhkaduvvo davvi- ja julevsámi korrekturprográmma ja sátnejuohkin. Reaiddut galget doaibmat dábáleamos kántorprográmmain Windowsis, Linuxis ja Macas.
+			Divvun lea prošeakta, maid Norgga Sámediggi lea álggahan. Ulbmil lea ráhkadit sámegiela korrekturprográmmaid. Dál vuos ráhkaduvvo davvi- ja julevsámi korrekturprográmma ja sátnejuohkin. Reaiddut galget doaibmat dábáleamos kántorprográmmain Windowsas, Linuxis ja Macas.
 			</p>
 		</section>
 		<section>
 			<title>Válmmas korrekturreaiddut</title>
 			<p>
-		 		Válmmas korrekturreaidduid gávdná nuvttá prošeavtta heaibmasiiddus installašunprográmman, mii álkit installere reaidduid dihtorii. Reaiddut doibmet seamma ládje dego iežá gielaid reaiddut. Sámediggi ja Romssa universitehta doallá vuoigatvuođaid eanas prográmmaide, muhte diktet iežáid nai atnit nu prográmmaid ja gáldokodaid nuvttá (muhte ii proprietæra osiid)
+		 		Válmmas korrekturreaidduid gávdná nuvttá prošeavtta heaibmasiiddus installašunprográmman, mii álkit installere reaidduid dihtorii. Reaiddut doibmet seamma ládje dego iežá gielaid reaiddut. Sámediggi ja Romssa universitehta doallá vuoigatvuođaid eanas prográmmaide, muhte diktet iežáid nai atnit nu prográmmaid ja gáldokodaid nuvttá (muhte ii proprieteara osiid)
 			</p>
 			<table>
-				<caption>Tabealla válmmas ja plánejun buktágiin</caption>
+				<caption>Tabealla válmmas ja plánejuvvun buktagiin</caption>
 				<tr>
 					<th>Prográmma/OS</th>
-					<th>Stávenkontrolla</th>
+					<th>Čállindárkkisteapmi</th>
 					<th>Sátnejuohkin</th>
 				</tr>
 				<tr>
@@ -46,14 +46,14 @@
 					<td>
 						<a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Almmolaš veršuvdna 1.0 olámuttus</a>
 					</td>
-					<td>Installerejuvvo ovttas stávenkontrollain</td>
+					<td>Installerejuvvo ovttas čállindárkkistemiin</td>
 				</tr>
 				<tr>
 					<td>MS Office/Mac</td>
 					<td>
 						<a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Almmolaš veršuvdna 1.0 olámuttus</a>
 					</td>
-					<td>Installerejuvvo ovttas stávenkontrollain</td>
+					<td>Installerejuvvo ovttas čállindárkkistemiin</td>
 				</tr>
 				<tr>
 					<td>InDesign CS3</td>
@@ -80,15 +80,15 @@
 		<section>
 			<title>Gáldokoda ja dokumentašuvdna</title>
 			<section>
-				<title>Anonym cvs</title> 
+				<title>Anonyma cvs</title> 
 				<p>
-					Dán prošeavtta gáldokoda gullo Sámediggái ja Romssa universitehttii ja lea rabas ja nuvttá, ja oažžu dás:<a href="doc/infra/anonymous-cvs.html">anonym cvs</a>. Mii leat maid čállán dokumeantta got <a href="doc/intro.html">gávdnat</a> gáldokodas.
+					Dán prošeavtta gáldokoda gullo Sámediggái ja Romssa universitehttii ja lea rabas ja nuvttá, ja oažžu dás:<a href="doc/infra/anonymous-cvs.html">anonyma cvs</a>. Mii leat maid čállán dokumeantta got <a href="doc/intro.html">gávdnat</a> gáldokodas.
 				 </p>
 			</section>
 			<section>
-				<title>Viečča dokumentášuvnna</title>
+				<title>Viečča dokumentašuvnna</title>
 				<p>
-					Visot dokumentášuvdna dán prošeavtta birra gávdná <a href="http://divvun.no">prošeavtta heaibmasiiddus</a>. Jus siđat dokumentášuvnna iežat dihtorii, čuovo dán bagadusa: <a href="doc/infra/anonymous-cvs.html">anonym cvs</a>, ja mana dasto deike: <a href="doc/infra/forrest-howto.html">forrest heivehus</a>. De lea visot dokumentášuvdna du dihtoris, ja oaččut navigeret das web-loganiin.
+					Visot dokumentašuvdna dán prošeavtta birra gávdná <a href="http://divvun.no">prošeavtta heaibmasiiddus</a>. Jus siđat dokumentašuvnna iežat dihtorii, čuovo dán bagadusa: <a href="doc/infra/anonymous-cvs.html">anonym cvs</a>, ja mana dasto deike: <a href="doc/infra/forrest-howto.html">forrest heivehus</a>. De lea visot dokumentašuvdna du dihtoris, ja oaččut navigeret das web-loganiin.
 				</p>
 			</section>
 		</section>
@@ -105,7 +105,7 @@
 					<a href="http://www.openoffice.org/">OpenOffice</a>
 				</li>
 				<li>
-					<a href="http://www.xrce.xerox.com/competencies/content-analysis/fst/"> Xerox FST-verktøy</a>
+					<a href="http://www.xrce.xerox.com/competencies/content-analysis/fst/"> Xerox FST-reaiddut</a>
 				</li>
 			</ul>
 		</section>
