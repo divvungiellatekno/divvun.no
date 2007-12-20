@@ -9,8 +9,14 @@
     <section>
       <title>Veršuvdna 1.0 olámuttus!</title>
       <p>
-        Juovlamánu 12. b. 2007 rájes lea sámi riektačállinreaidduid vuosttas válmmas veršuvdna olámuttus. Lea historjjálaš dáhpáhus sámi dihtoráldaris, ja lea dehálaš olahus lážidiin saji sámegiela atnui dálá servodagas. Reaidduid oažžu dás viežžat: 
-			</p>
+        Juovlamánu 12. b. 2007 rájes lea sámi riektačállinreaidduid vuosttas válmmas veršuvdna olámuttus. Lea historjjálaš dáhpáhus sámi dihtoráldaris, ja lea dehálaš olahus lážidiin saji sámegiela atnui dálá servodagas.</p>
+        
+      <section>
+        <title>Veršuvdna 1.0</title>
+      <p>Listu rievdadusaiguin ovddit veršuvnnaid ektui gávdnu <a
+      href="doc/proof/spelling/msoff/changes.html">veršunhistorjjás</a>
+      (dušše eŋgelasgillii). Reaiddut <strong>Microsoft Officii</strong> gávnnat dás:</p>
+
 			<ul>
 				<li>
 					<a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Windows</a>
@@ -20,7 +26,7 @@
 				</li>
 			</ul>
 			<p>
-        Eanet dieđuid gávnnat <a href="doc/proof/spelling/msoff/install_use.html">dás</a>.
+        Dieđuid installašuvnna, anu ja váilevašvuođaid birra leat <a href="doc/proof/spelling/msoff/install_use.html">dás</a>.
 			</p>
           <section>
             <title>CD:s</title>
@@ -68,22 +74,29 @@
 				<tr>
 					<td>MS Office/Win</td>
 					<td>
-						<a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Almmolaš veršuvdna 1.0 olámuttus</a>
+						<a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Olámuttus</a>
 					</td>
 					<td>Installerejuvvo ovttas čállindárkkistemiin</td>
 				</tr>
 				<tr>
 					<td>MS Office/Mac</td>
 					<td>
-						<a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Almmolaš veršuvdna 1.0 olámuttus</a>
+						<a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Olámuttus</a>
 					</td>
 					<td>Installerejuvvo ovttas čállindárkkistemiin</td>
 				</tr>
 				<tr>
 					<td>InDesign CS3</td>
-					<td>-</td>
-					<td>x</td>
-				</tr>
+
+          <td>x</td>
+
+          <td>
+            <a
+            href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">Almmolaš
+            veršuvdna 1.0 olámuttos</a>
+          </td>
+        </tr>
+
 					<tr>
 					<td>OpenOffice/Win</td>
 					<td>x</td>
