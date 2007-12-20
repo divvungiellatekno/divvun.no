@@ -8,12 +8,18 @@
 
   <body>
     <section>
-      <title>Version 1.0 är tillgänglig!</title>
+      <title>De färdiga verktygen är tillgängliga!</title>
 
       <p>Från och med 12. december 2007 är den första färdiga versionen av de
       samiska rättsstavningsprogrammet tillgängligt. Detta är ett historiskt
       ögonblick i den samiska dataåldern, och det är en viktig milstolpe i
-      arbetet med att använda samiska i det moderna samhället. Verktygen är
+      arbetet med att använda samiska i det moderna samhället.</p>
+
+      <section>
+        <title>Version 1.0</title>
+      <p>En lista över ändringar från tidigare versioner finns i <a
+      href="doc/proof/spelling/msoff/changes.html">versionshistorien</a>
+      (bara på engelska). Verktygen för <strong>Microsoft Office</strong> är
       tillgängliga här:</p>
 
       <ul>
@@ -25,13 +31,15 @@
         X</a></li>
       </ul>
 
-      <p>Mer informasion och detaljer om den här versionen finns i <a
-      href="doc/proof/spelling/msoff/install_use.html">släppnoterna</a>.</p>
+      <p>Information och detaljer om installation, användning och kända problem
+      finns i <a
+      href="doc/proof/spelling/msoff/install_use.html">släppdokumentet</a>.</p>
+      </section>
 
       <section>
         <title>På CD</title>
 
-        <p>For användare med långsam eller ingen anslutning till Internet, är
+        <p>För användare med långsam eller ingen anslutning till Internet är
         det möjligt att beställa en CD från det norska Sametinget: +47-78 48
         42 22.</p>
       </section>

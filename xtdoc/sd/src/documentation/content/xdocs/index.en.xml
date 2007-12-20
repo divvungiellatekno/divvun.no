@@ -8,12 +8,19 @@
 
   <body>
     <section>
-      <title>Version 1.0 available!</title>
+      <title>The release version is available!</title>
 
       <p>As of December 12th 2007, the first public release of the Sámi
       proofing tools is available. This is an historic event in the Sámi
       computing age, and marks an important milestone in keeping Sámi alive in
-      the modern society. The tools are available here:</p>
+      the modern society.</p>
+
+      <section>
+        <title>Version 1.0</title>
+      <p>A list of changes from earlier versions is available in the <a
+      href="doc/proof/spelling/msoff/changes.html">change history</a>. The
+      proofing tools for <strong>Microsoft Office</strong> are available
+      here:</p>
 
       <ul>
         <li><a
@@ -24,8 +31,10 @@
         X</a></li>
       </ul>
 
-      <p>More information and details on the new versions are found in the <a
+      <p>Information and details about installation, usage and known issues are
+      found in the <a
       href="doc/proof/spelling/msoff/install_use.html">release notes</a>.</p>
+      </section>
 
       <section>
         <title>On CD</title>
