@@ -9,7 +9,10 @@
     <section>
       <title>Versio 1.0 saatavilla!</title>
       <p>
-        12. joulukuuta lähtien on saatavilla ensimmäinen valmis versio saamen oikolukuohjelmista. Tämä on historiallinen hetki saamelaisen tietotekniikan aikakaudella ja tärkeä virstanpylväs työssä saamen kielen käyttämiseksi nykyaikaisessa yhteiskunnassa. Ohjelmat ovat ladattavissa täältä:
+        12. joulukuuta lähtien on saatavilla ensimmäinen valmis versio saamen oikolukuohjelmista. Tämä on historiallinen hetki saamelaisen tietotekniikan aikakaudella ja tärkeä virstanpylväs työssä saamen kielen käyttämiseksi nykyaikaisessa yhteiskunnassa.</p>
+          <section>
+            <title>Versio 1.0</title>
+            <p>Ohjelmat ovat ladattavissa täältä:
       </p>
       <ul>
         <li>
@@ -20,6 +23,7 @@
         Lisätietoa ja yksityskohtia päivityksestä löytyy <a
         href="doc/proof/spelling/msoff/install_use.html">täältä</a>.
       </p>
+          </section>
           <section>
             <title>Divvun saatavilla myös CD:nä</title>
             <p>
