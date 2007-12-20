@@ -8,13 +8,18 @@
 
   <body>
     <section>
-      <title>Versjon 1.0 er tilgjengelig!</title>
+      <title>De ferdige korrekturverktøyene er tilgjengelige!</title>
 
       <p>Fra og med 12. desember 2007 er den første ferdige versjonen av de
       samiske ordretteprogrammene tilgjengelig. Dette er et historisk øyeblikk
       i den samiske dataalderen, og det er en viktig milepæl i arbeidet med å
-      bruke samisk i det moderne samfunnet. Verktøyene er tilgjengelige
-      her:</p>
+      bruke samisk i det moderne samfunnet.</p>
+
+      <section>
+        <title>Versjon 1.0</title>
+      <p>En liste over endringer fra tidligere versjoner finnes i <a
+      href="doc/proof/spelling/msoff/changes.html">versjonshistorien</a>
+      (kun på engelsk). Verktøyene for <strong>Microsoft Office</strong> er tilgjengelige her:</p>
 
       <ul>
         <li><a
@@ -25,9 +30,11 @@
         X</a></li>
       </ul>
 
-      <p>Mer informasjon og detaljer om denne versjonen finnes i <a
+      <p>Informasjon og detaljer om installasjon, bruk og kjente problemer
+      finnes i <a
       href="doc/proof/spelling/msoff/install_use.html">slippnotatene</a>.</p>
 
+      </section>
       <section>
         <title>På CD</title>
 
