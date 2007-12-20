@@ -26,6 +26,22 @@
               Käyttäjät, joilla on hidas internet-yhteys tai ei yhteyttä ollenkaan, voivat tilata CD:n Saamelaiskäräjiltä, puh. +47-78 48 42 22.
             </p>
           </section>
+          
+      <section>
+               <title>Tavutusohjelma InDesignille</title>
+
+        <p>Tavutusohjelmat Adobe InDesign CS3:lle ovat nyt saatavilla (Nyt alkuun vain Mac-versiona - Windows-versio tulee hieman myöhemmin):</p>
+
+        <ul>
+          <li><a
+          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">Divvun
+            InDesign CS3:lle</a> - Mac</li>
+        </ul>
+
+        <p>Lisätietoa ohjelmien asennuksesta ja käytöstä InDesign-ohjelmassa löytyy <a
+        href="/doc/proof/hyph/InDesign/index.html">täältä</a> (vain englanniksi).</p>
+      </section>
+
          </section>
     <section>
       <title>Mikä Divvun on?</title>
@@ -36,7 +52,7 @@
     <section>
       <title>Valmis oikolukuväline</title>
       <p>
-         Valmiit oikolukuohjelmat ovat vapaasti saatavilla projektin kotisivuilla olevan latausohjelman muodossa, ja sen on helppo ladata omalle tietokoneelle. Ohjelmat tulevat toimimaan samalla tavalla kuin muidenkin kielten  vastaavat ohjelmat. Saamelaiskäräjät ja Tromssan yliopisto pidättävät oikeudet useisiin ohjelmiin, mutta sallivat kaikkien asiasta kiinnostuneiden käyttää sekä ohjelmia että lähdekoodia korvauksetta (tämä koskee vain meidän lähdekoodia).
+         Valmiit oikolukuohjelmat ovat vapaasti saatavilla projektin kotisivuilla olevan latausohjelman muodossa, ja se on helppo ladata omalle tietokoneelle. Ohjelmat toimivat samalla tavalla kuin muidenkin kielten  vastaavat ohjelmat. Saamelaiskäräjät ja Tromssan yliopisto pidättävät oikeudet useisiin ohjelmiin, mutta sallivat kaikkien asiasta kiinnostuneiden käyttää sekä ohjelmia että lähdekoodia korvauksetta (tämä koskee vain meidän lähdekoodia).
       </p>
       <table>
         <caption>Taulukko valmiista ja suunnitelluista tuotteista</caption>
@@ -57,8 +73,10 @@
 				</tr>
 				<tr>
 					<td>InDesign CS3</td>
-					<td>-</td>
 					<td>x</td>
+					<td><a
+          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">Virallinen
+          versio 1.0 on saatavilla</a></td>
 				</tr>
         <tr>
           <td>OpenOffice/Win</td>
