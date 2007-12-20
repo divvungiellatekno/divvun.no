@@ -1,119 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="nb">
-	<header>
-		<title>Divvun - samiske korrekturverktøy</title>
-	</header>
-	<body>
-		<section>
-			<title>Versjon 1.0 er tilgjengelig!</title>
-			<p>
-				Fra og med 12. desember 2007 er den første ferdige versjonen av de samiske ordretteprogrammene tilgjengelig. Dette er et historisk øyeblikk i den samiske dataalderen, og det er en viktig milepæl i arbeidet med å bruke samisk i det moderne samfunnet. Verktøyene er tilgjengelige her:
-			</p>
-			<ul>
-				<li>
-					<a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Windows</a>
-				</li>
-				<li>
-					<a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">MacOS X</a>
-				</li>
-			</ul>
-			<p>
-				Mer informasjon og detaljer om denne versjonen finnes i <a href="doc/proof/spelling/msoff/install_use.html">slippnotatene</a>.
-			</p>
-          <section>
-            <title>På CD</title>
-            <p>
-              For brukere med langsom eller ingen Internett-tilgang, er det mulig å bestille en CD fra Sametinget: 78 48 42 22.
-            </p>
-          </section>
-		</section>
-		<section>
-			<title>Hva er Divvun?</title>
-			<p>
-				Divvun er et prosjekt under det norske Sametinget for å lage retteprogram for samisk. I første omgang betyr det stavekontroll og orddeling for nord- og lulesamisk. Verktøyene skal fungere på Windows, Linux og Mac i de vanligste kontorprogrammene.
-			</p>
-		</section>
-		<section>
-			<title>Ferdige korrekturverktøy</title>
-			<p>
-				De ferdige korrekturverktøyene er gratis tilgjengelige på prosjektets hjemmeside i form av installasjonsprogram som enkelt installerer verktøyene på datamaskinen. Verktøyene vil fungere på samme måten som tilsvarende verktøy for andre språk. Sametinget og Universitetet i Tromsø vil beholde rettene til det meste av programmene, men tillater at alle interesserte kan bruke både programmene og kildekoden deres vederlagsfritt (tilgang til kildekoden gjelder ikke deler som er proprietære).
-			</p>
-			<table>
-				<caption>Tabell over ferdige og planlagte produkt</caption>
-				<tr>
-					<th>Program/OS</th>
-					<th>Stavekontroll</th>
-					<th>Orddeling</th>
-				</tr>
-				<tr>
-					<td>MS Office/Win</td>
-					<td>
-						<a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Offisiell versjon 1.0 tilgjengelig</a>
-					</td>
-					<td>Installeres sammen med stavekontrollen</td>
-				</tr>
-				<tr>
-					<td>MS Office/Mac</td>
-					<td>
-						<a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Offisiell versjon 1.0 tilgjengelig</a>
-					</td>
-					<td>Installeres sammen med stavekontrollen</td>
-				</tr>
-				<tr>
-					<td>InDesign CS3</td>
-					<td>-</td>
-					<td>x</td>
-				</tr>
-					<tr>
-					<td>OpenOffice/Win</td>
-					<td>x</td>
-					<td>x</td>
-				</tr>
-				<tr>
-					<td>OpenOffice/Mac</td>
-					<td>x</td>
-					<td>x</td>
-				</tr>
-				<tr>
-					<td>OpenOffice/Linux</td>
-					<td>x</td>
-					<td>x</td>
-				</tr>
-			</table>
-		</section>
-		<section>
-			<title>Kildekode og dokumentasjon</title>
-			<section>
-				<title>Anonym cvs</title> 
-				<p>
-					Kildekoden til dette prosjektet som tilhører Sametinget og Universitetet i Tromsø er åpen og fri, og er tilgjengelig via <a href="doc/infra/anonymous-cvs.html">anonym cvs</a>. Vi har også skrevet et dokument om hvordan man <a href="doc/intro.html">finner frem</a> i kildekoden.
-				 </p>
-			</section>
-			<section>
-				<title>Last ned dokumentasjon</title>
-				<p>
-					All dokumentasjonen om dette prosjektet er tilgjengelig på <a href="http://divvun.no">prosjektets hjemmeside</a>. Hvis du vil ha denne dokumentasjonen på din egen datamaskin, følg instruksjonen om <a href="doc/infra/anonymous-cvs.html">anonym cvs</a>, og gå deretter til<a href="doc/infra/forrest-howto.html">oppsett av forrest</a>. Etter dette er all dokumentasjonen vår på din datamaskin, og du kan navigere gjennom den med en webleser.
-				</p>
-			</section>
-		</section>
-		<section>
-			<title>Nyttige lenker</title>
-			<ul>
-				<li>
-					<a href="mailto:divvun ved samediggi punkt no">E-post til prosjektet</a>
-				</li>
-				<li>
-					<a href="http://hunspell.sourceforge.net/">Hunspell</a>
-				</li>
-				<li>
-					<a href="http://www.openoffice.org/">OpenOffice</a>
-				</li>
-				<li>
-					<a href="http://www.xrce.xerox.com/competencies/content-analysis/fst/"> Xerox FST-verktøy</a>
-				</li>
-			</ul>
-		</section>
-		<p class="last_modified">Siste endring: $Date$, by $Author$</p>
-	</body>
+  <header>
+    <title>Divvun - samiske korrekturverktøy</title>
+  </header>
+
+  <body>
+    <section>
+      <title>Versjon 1.0 er tilgjengelig!</title>
+
+      <p>Fra og med 12. desember 2007 er den første ferdige versjonen av de
+      samiske ordretteprogrammene tilgjengelig. Dette er et historisk øyeblikk
+      i den samiske dataalderen, og det er en viktig milepæl i arbeidet med å
+      bruke samisk i det moderne samfunnet. Verktøyene er tilgjengelige
+      her:</p>
+
+      <ul>
+        <li><a
+        href="http://www.divvun.no/static_files/DivvunInstaller.exe">Windows</a></li>
+
+        <li><a
+        href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">MacOS
+        X</a></li>
+      </ul>
+
+      <p>Mer informasjon og detaljer om denne versjonen finnes i <a
+      href="doc/proof/spelling/msoff/install_use.html">slippnotatene</a>.</p>
+
+      <section>
+        <title>På CD</title>
+
+        <p>For brukere med langsom eller ingen Internett-tilgang, er det mulig
+        å bestille en CD fra Sametinget: 78 48 42 22.</p>
+      </section>
+
+      <section>
+        <title>Orddeling for InDesign</title>
+
+        <p>Orddelingsmoduler for Adobe InDesign CS3 er nå tilgjengelige (bare
+        Mac-versjoner til å begynne med - Windows-versjonene kommer litt
+        senere):</p>
+
+        <ul>
+          <li><a
+          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">Divvun
+          for InDesign CS3</a> - Mac</li>
+        </ul>
+
+        <p>Mer informasjon om installering og bruk i InDesign finnes på <a
+        href="/doc/proof/hyph/InDesign/index.html">en egen side</a> (kun på
+        engelsk).</p>
+      </section>
+    </section>
+
+    <section>
+      <title>Hva er Divvun?</title>
+
+      <p>Divvun er et prosjekt under det norske Sametinget for å lage
+      retteprogram for samisk. I første omgang betyr det stavekontroll og
+      orddeling for nord- og lulesamisk. Verktøyene skal fungere på Windows,
+      Linux og Mac i de vanligste kontorprogrammene.</p>
+    </section>
+
+    <section>
+      <title>Ferdige korrekturverktøy</title>
+
+      <p>De ferdige korrekturverktøyene er gratis tilgjengelige på prosjektets
+      hjemmeside i form av installasjonsprogram som enkelt installerer
+      verktøyene på datamaskinen. Verktøyene vil fungere på samme måten som
+      tilsvarende verktøy for andre språk. Sametinget og Universitetet i
+      Tromsø vil beholde rettene til det meste av programmene, men tillater at
+      alle interesserte kan bruke både programmene og kildekoden deres
+      vederlagsfritt (tilgang til kildekoden gjelder ikke deler som er
+      proprietære).</p>
+
+      <table>
+        <caption>Tabell over ferdige og kommende (x) produkter</caption>
+
+        <tr>
+          <th>Program/OS</th>
+
+          <th>Stavekontroll</th>
+
+          <th>Orddeling</th>
+        </tr>
+
+        <tr>
+          <td>MS Office/Win</td>
+
+          <td><a
+          href="http://www.divvun.no/static_files/DivvunInstaller.exe">Tilgjengelig</a></td>
+
+          <td>Installeres sammen med stavekontrollen</td>
+        </tr>
+
+        <tr>
+          <td>MS Office/Mac</td>
+
+          <td><a
+          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Tilgjengelig</a></td>
+
+          <td>Installeres sammen med stavekontrollen</td>
+        </tr>
+
+        <tr>
+          <td>InDesign CS3</td>
+
+          <td>x</td>
+
+          <td><a
+          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">Offisiell
+          versjon 1.0 er tilgjengelig</a></td>
+        </tr>
+
+        <tr>
+          <td>OpenOffice/Win</td>
+
+          <td>x</td>
+
+          <td>x</td>
+        </tr>
+
+        <tr>
+          <td>OpenOffice/Mac</td>
+
+          <td>x</td>
+
+          <td>x</td>
+        </tr>
+
+        <tr>
+          <td>OpenOffice/Linux</td>
+
+          <td>x</td>
+
+          <td>x</td>
+        </tr>
+      </table>
+    </section>
+
+    <section>
+      <title>Kildekode og dokumentasjon</title>
+
+      <section>
+        <title>Anonym cvs</title>
+
+        <p>Kildekoden til dette prosjektet som tilhører Sametinget og
+        Universitetet i Tromsø er åpen og fri, og er tilgjengelig via <a
+        href="doc/infra/anonymous-cvs.html">anonym cvs</a>. Vi har også
+        skrevet et dokument om hvordan man <a href="doc/intro.html">finner
+        frem</a> i kildekoden.</p>
+      </section>
+
+      <section>
+        <title>Last ned dokumentasjon</title>
+
+        <p>All dokumentasjonen om dette prosjektet er tilgjengelig på <a
+        href="http://divvun.no">prosjektets hjemmeside</a>. Hvis du vil ha
+        denne dokumentasjonen på din egen datamaskin, følg instruksjonen om <a
+        href="doc/infra/anonymous-cvs.html">anonym cvs</a>, og gå deretter
+        til<a href="doc/infra/forrest-howto.html">oppsett av forrest</a>.
+        Etter dette er all dokumentasjonen vår på din datamaskin, og du kan
+        navigere gjennom den med en webleser.</p>
+      </section>
+    </section>
+
+    <section>
+      <title>Nyttige lenker</title>
+
+      <ul>
+        <li><a href="mailto:divvun ved samediggi punkt no">E-post til
+        prosjektet</a></li>
+
+        <li><a href="http://hunspell.sourceforge.net/">Hunspell</a></li>
+
+        <li><a href="http://www.openoffice.org/">OpenOffice</a></li>
+
+        <li><a
+        href="http://www.xrce.xerox.com/competencies/content-analysis/fst/">
+        Xerox FST-verktøy</a></li>
+      </ul>
+    </section>
+
+    <p class="last_modified">Siste endring: $Date$, by
+    $Author$</p>
+  </body>
 </document>
