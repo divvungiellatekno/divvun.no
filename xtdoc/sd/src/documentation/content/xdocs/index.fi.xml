@@ -13,33 +13,33 @@
           <section>
             <title>Versio 1.0</title>
             <p>Lista muutoksista jotka on tehty ohjelman/tavuttimen edellisiin
-            versioihin löytyy <a
-            href="doc/proof/spelling/msoff/changes.html">versiohistoriasta</a>
+            versioihin löytyy kohdasta <a
+            href="doc/proof/spelling/msoff/changes.html">versiohistoria</a>
             (vain englanniksi). Ohjelmat <strong>Microsoft Office</strong>:lle
             ovat ladattavissa täältä:
       </p>
+       
       <ul>
         <li>
         	<a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Windows</a></li>
         <li><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">MacOS X</a></li>
       </ul>
       <p>
-        Lisätietoa ja yksityskohtia päivityksestä löytyy <a
+        Lisätietoa ja yksityskohtia asennuksesta, käytöstä ja tiedossa olevista ongelmista löytyy <a
         href="doc/proof/spelling/msoff/install_use.html">täältä</a>.
       </p>
           </section>
-
           <section>
             <title>Divvun saatavilla myös CD:nä</title>
             <p>
-              Käyttäjät, joilla on hidas internet-yhteys tai ei yhteyttä ollenkaan, voivat tilata CD:n Norjan Saamelaiskäräjiltä, puh. +47-78 48 42 22.
+              Käyttäjät, joilla on hidas internet-yhteys tai ei lainkaan yhteyttä, voivat tilata CD:n Norjan Saamelaiskäräjiltä, puh. +47-78 48 42 22.
             </p>
           </section>
           
       <section>
                <title>Tavutusohjelma InDesign:lle</title>
 
-        <p>Tavutusohjelmat Adobe InDesign CS3:lle ovat nyt saatavilla (Nyt alkuun vain Mac-versiona - Windows-versio tulee hieman myöhemmin):</p>
+        <p>Tavutusohjelmat Adobe InDesign CS3:lle ovat nyt saatavilla (nyt aluksi vain Mac-versiona - Windows-versio tulee hieman myöhemmin):</p>
 
         <ul>
           <li><a
@@ -59,12 +59,12 @@
       </p>
     </section>
     <section>
-      <title>Valmis oikolukuväline</title>
+      <title>Valmiit oikolukuohjelmat</title>
       <p>
-         Valmiit oikolukuohjelmat ovat vapaasti saatavilla projektin kotisivuilla olevan latausohjelman muodossa, ja se on helppo ladata omalle tietokoneelle. Ohjelmat toimivat samalla tavalla kuin muidenkin kielten  vastaavat ohjelmat. Saamelaiskäräjät ja Tromssan yliopisto pidättävät oikeudet useisiin ohjelmiin, mutta sallivat kaikkien asiasta kiinnostuneiden käyttää sekä ohjelmia että lähdekoodia korvauksetta (tämä koskee vain meidän lähdekoodia).
+         Valmiit oikolukuohjelmat ovat vapaasti saatavilla projektin kotisivuilla olevan latausohjelman muodossa, ja se on helppo ladata omalle tietokoneelle. Ohjelmat toimivat samalla tavalla kuin muidenkin kielten  vastaavat ohjelmat. Saamelaiskäräjät ja Tromssan yliopisto pidättävät oikeudet useisiin ohjelmiin, mutta sallivat kaikkien asiasta kiinnostuneiden käyttää sekä ohjelmia että lähdekoodia korvauksetta (tämä koskee vain meidän omaa lähdekoodia).
       </p>
       <table>
-        <caption>Taulukko valmiista ja suunnitelluista tuotteista</caption>
+        <caption>Taulukko valmiista ja suunnitelluista (x) tuotteista</caption>
         <tr>
           <th>Ohjelma/Käyttöjärjestelmä</th>
           <th>Oikolukuohjelma</th>
@@ -72,12 +72,12 @@
         </tr>
         <tr>
           <td>MS Office/Win</td>
-          <td><a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Virallinen versio 1.0 saatavilla</a></td>
+          <td><a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Saatavilla</a></td>
           <td>Asennetaan yhdessä oikolukuohjelman kanssa</td>
         </tr>
         <tr>
           <td>MS Office/Mac</td>
-          <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Virallinen versio 1.0 saatavilla</a></td>
+          <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Saatavilla</a></td>
                   <td>Asennetaan yhdessä oikolukuohjelman kanssa</td>
 				</tr>
 				<tr>
