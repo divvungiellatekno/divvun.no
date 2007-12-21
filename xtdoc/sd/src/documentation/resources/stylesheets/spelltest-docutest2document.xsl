@@ -517,8 +517,6 @@
               <th>Comment</th>
             </tr>
             <xsl:for-each select="key('bugid', .)">
-              <xsl:sort select="edit_dist" order="descending" data-type="number"/>
-              <xsl:sort select="original" />
               <tr>
                 <xsl:if test="(not(expected) and status = 'SplErr') or
                               (expected and status = 'SplCor')">
