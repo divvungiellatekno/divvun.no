@@ -196,7 +196,7 @@
 
   <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab = 'how'])" />
   <xi:include href="doc/site-proof-frag.xml" />
-  <xi:include href="wordsdoc/site-frag.xml" />
+   <!--xi:include href="wordsdoc/site-frag.xml" /-->
 
   <!-- Commented out until the content is more ready for publishing. -->
   <!--future href="future/" label="fremtidige planer" tab="Plan">
