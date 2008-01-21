@@ -180,6 +180,14 @@ dt {
   background-color: pink;
 }
 
+.missing {
+  background-color: yellow;
+}
+
+.error {
+  background-color: red;
+}
+
 </css>
       </forrest:property>
     </forrest:contract>
