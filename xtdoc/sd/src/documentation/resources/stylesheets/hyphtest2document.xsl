@@ -87,7 +87,7 @@
         <p>Document tested: 
           <strong><xsl:value-of select="document"/></strong>
         </p>
-        <p>Speller tool:
+        <p>Hyphenation tool:
           <xsl:choose>
             <xsl:when test="tool/@type = 'pl'">
               <strong>Polderland command line tool</strong>
@@ -101,11 +101,19 @@
             <xsl:otherwise>Unknown</xsl:otherwise>
           </xsl:choose>
         </p>
-        <p>Speller lexicon version:
+        <p>Hyphenation tool version:
           <xsl:choose>
-            <xsl:when test="tool/@version = ''">Unknown</xsl:when>
+            <xsl:when test="tool/@toolversion = ''">Unknown</xsl:when>
             <xsl:otherwise>
-              <strong><xsl:value-of select="tool/@version"/></strong>
+              <strong><xsl:value-of select="tool/@toolversion"/></strong>
+            </xsl:otherwise>
+          </xsl:choose>
+        </p>
+        <p>Hyphenation lexicon version:
+          <xsl:choose>
+            <xsl:when test="tool/@lexversion = ''">Unknown</xsl:when>
+            <xsl:otherwise>
+              <strong><xsl:value-of select="tool/@lexversion"/></strong>
             </xsl:otherwise>
           </xsl:choose>
         </p>
