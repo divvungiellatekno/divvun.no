@@ -47,10 +47,6 @@
      select="count(../results/word[status='SplCor' and not(./expected)])"/>
     <xsl:param name="falsenegative"
      select="count(../results/word[status='SplCor' and ./expected])"/>
-    <xsl:param name="TokErrSpellErr"
-     select="count(../results/word[status='TokErr' and ./expected])"/>
-    <xsl:param name="TokErrSpellCor"
-     select="count(../results/word[status='TokErr' and not(./expected)])"/>
     <xsl:param name="nrrealcorr" select="count(../results/word[not(expected)])"/>
     <xsl:param name="precision" select="$truepositive div ($truepositive + $falsepositive)"/>
     <xsl:param name="recall" select="$truepositive div ($truepositive + $falsenegative)"/>
@@ -137,7 +133,6 @@
           <tr>
             <td colspan="2" rowspan="2"/>
             <th colspan="2">Speller view</th>
-            <th>Wrong tokenisation</th>
           </tr>
           <tr>
             <td>Speller Positive<br/>
@@ -146,9 +141,6 @@
             <td>Speller Negative<br/>
               (number of accepted words):<br/>
               <strong><xsl:value-of select="$nracceptwords"/></strong></td>
-            <th>All tokenisation<br/>
-              errors:<br/>
-              <strong><xsl:value-of select="$TokErrSpellErr + $TokErrSpellCor"/></strong></th>
           </tr>
           <tr>
             <th rowspan="2">Reality</th>
@@ -160,9 +152,6 @@
             <td>Number of false negatives<br/>
               (unflagged spelling errors):<br/>
               <strong><xsl:value-of select="$falsenegative"/></strong></td>
-            <td>Number of errouneously<br/>
-              tokenized spelling errors:<br/>
-              <strong><xsl:value-of select="$TokErrSpellErr"/></strong></td>
           </tr>
           <tr>
             <td>Number of real correct words:<br/>
@@ -173,9 +162,6 @@
             <td>Number of true negatives<br/>
               (unflagged correct words):<br/>
               <strong><xsl:value-of select="$truenegative"/></strong></td>
-            <td>Number of errouneously<br/>
-              tokenized correct words:<br/>
-              <strong><xsl:value-of select="$TokErrSpellCor"/></strong></td>
           </tr>
         </table>
 
@@ -195,6 +181,19 @@
             <dd><xsl:value-of select="round($accuracy * 10000) div 100"/> %</dd>
         </dl>
 
+      </section>
+      <section>
+        <title>Colour Codes</title>
+        <dl>
+          <dt>Uncoloured table rows</dt>
+            <dd>Test passed</dd>
+          <dt>Table row with pink background</dt>
+            <dd class="broken">Test failed - either missing or wrong (or both) hyphenation points</dd>
+          <dt>Yellow hyphen</dt>
+            <dd><span class="missing">-</span> Missing hyphenation point (found in the correct string, but not in the hyphenated string)</dd>
+          <dt>Red hyphen</dt>
+            <dd><span class="error">-</span> Wrong hyphenation point (found in the hyphenated string, but not in the correct string)</dd>
+        </dl>
       </section>
     </section>
   </xsl:template>
@@ -216,7 +215,7 @@
             </caption>
             <tr>
               <th>Input<br/>word</th>
-              <th>Expected<br/>hyphenation</th>
+              <th>Correct<br/>hyphenation</th>
               <th>Actual<br/>hyphenation</th>
               <th>Number of<br/>errors</th>
               <th>Comment</th>
