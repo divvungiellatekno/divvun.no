@@ -52,31 +52,6 @@
     <xsl:param name="recall" select="$truepositive div ($truepositive + $falsenegative)"/>
     <xsl:param name="accuracy" select="($truepositive+$truenegative) div
                             ($nrflaggedwords + $nracceptwords)"/>
-    <xsl:param name="corrected"
-     select="count(../results/word[status='SplErr'][expected][position > 0])"/>
-    <xsl:param name="topthree"
-     select="count(../results/word[status='SplErr'][position > 0]
-                                  [position &lt;= $toplimit])"/>
-    <xsl:param name="nocorrsugg"
-     select="count(../results/word[status='SplErr']
-                                  [expected]
-                                  [suggestions/@count > 0]
-                                  [position = 0])"/>
-    <xsl:param name="nosugg"
-     select="count(../results/word[status='SplErr'][expected]
-                                  [suggestions/@count = 0])"/>
-    <xsl:param name="editdist1"
-     select="count(../results/word[expected]
-                                  [edit_dist = 1])"/>
-    <xsl:param name="editdist2"
-     select="count(../results/word[expected]
-                                  [edit_dist = 2])"/>
-    <xsl:param name="editdist3"
-     select="count(../results/word[expected]
-                                  [edit_dist > 2])"/>
-    <xsl:param name="errorinput"
-     select="count(../results/word[status='Error']
-                                  [expected])"/>
     <section>
       <title>Overview</title>
       <section>
@@ -122,8 +97,7 @@
         <p>Test Type:
           <xsl:choose>
             <xsl:when test="$testtype = 'regression' or
-                            $testtype = 'typos' or
-                            $testtype = 'baseform' ">
+                            $testtype = 'wordtypes' ">
               <strong><xsl:value-of select="$testtype"/></strong>
             </xsl:when>
             <xsl:otherwise>
@@ -207,6 +181,7 @@
   </xsl:template>
 
   <xsl:template match="results">
+    <xsl:if test="$testtype = 'regression'">
       <section>
         <title>Grouped by bug #</title>
         <xsl:for-each select="word[generate-id(.)=generate-id(key('bugid',bug))]/bug">
@@ -252,6 +227,43 @@
           </table>
         </xsl:for-each>
       </section>
+    </xsl:if>
+
+    <xsl:if test="$testtype = 'wordtypes' ">
+      <section>
+        <title>Tests for different word constructions</title>
+          <table>
+            <tr>
+              <th>Input<br/>word</th>
+              <th>Correct<br/>hyphenation</th>
+              <th>Actual<br/>hyphenation</th>
+              <th>Number of<br/>errors</th>
+              <th>Comment</th>
+            </tr>
+            <xsl:for-each select="word">
+              <xsl:sort select="edit_dist" order="descending"/>
+              <tr>
+                <xsl:if test="(expected/missing) or
+                              (hyphenated/error)">
+                  <xsl:attribute name="class">
+                    <xsl:value-of select="'broken'"/>
+                  </xsl:attribute>
+                </xsl:if>
+                <xsl:if test="edit_dist = 0">
+                  <xsl:attribute name="class">
+                    <xsl:value-of select="'correct'"/>
+                  </xsl:attribute>
+                </xsl:if>
+                <td><xsl:value-of select="original"/></td>
+                <td><xsl:apply-templates select="expected"/></td>
+                <td><xsl:apply-templates select="hyphenated"/></td>
+                <td><xsl:value-of select="edit_dist"/></td>
+                <td><xsl:value-of select="comment"/></td>
+              </tr>
+            </xsl:for-each>
+          </table>
+      </section>
+    </xsl:if>
 
   </xsl:template>
 
