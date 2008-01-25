@@ -176,6 +176,12 @@
           <dt>Red hyphen</dt>
             <dd><span class="error">-</span> Wrong hyphenation point (found in the hyphenated string, but not in the correct string)</dd>
         </dl>
+        <note>Some of the test data may contain deliberate typos, to test the
+        performance of the hyphenator in such cases. These contain almost
+        always one error or more. This is expected, perfect hyphenation can
+        <strong>not</strong> be guaranteed on misspelled text. Typos are always clearly marked at
+        the beginning of the comment field. So please check the comment before
+        judging the hyphenation test result.</note>
       </section>
     </section>
   </xsl:template>
