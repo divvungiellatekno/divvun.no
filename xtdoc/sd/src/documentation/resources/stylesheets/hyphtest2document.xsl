@@ -20,7 +20,7 @@
   <xsl:template match="spelltestresult">
     <document>
       <header>
-        <title>Speller Test Results for:
+        <title>Hyphenator Test Results for:
           «<xsl:value-of select="header/document"/>»
         </title>
       </header>
@@ -247,7 +247,7 @@
               <th>Comment</th>
             </tr>
             <xsl:for-each select="word">
-              <xsl:sort select="edit_dist" order="descending"/>
+              <!--xsl:sort select="edit_dist" order="descending"/-->
               <tr>
                 <xsl:if test="(expected/missing) or
                               (hyphenated/error)">
