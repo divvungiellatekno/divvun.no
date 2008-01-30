@@ -81,6 +81,7 @@
 
   <polderland href="adm/polderland/" label="Polderland" tab="polderland">
     <index    href="index.html" label="Overview" description="Overview of the cooperation documents" />
+    <x2008-01-29 href="meeting_2008-01-29.html" label="Jan 29" description="Meeting memo January   29, 2008" />
     <x2008-01-22 href="meeting_2008-01-22.html" label="Jan 22" description="Meeting memo January   22, 2008" />
     <x2008-01-15 href="meeting_2008-01-15.html" label="Jan 15" description="Meeting memo January   15, 2008" />
     <x2008-01-08 href="meeting_2008-01-08.html" label="Jan  8" description="Meeting memo January    8, 2008" />
@@ -197,7 +198,7 @@
 
   <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab = 'how'])" />
   <xi:include href="doc/site-proof-frag.xml" />
-   <!--xi:include href="wordsdoc/site-frag.xml" /-->
+  <xi:include href="wordsdoc/site-frag.xml" />
 
   <!-- Commented out until the content is more ready for publishing. -->
   <!--future href="future/" label="fremtidige planer" tab="Plan">
