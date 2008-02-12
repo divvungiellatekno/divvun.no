@@ -12,23 +12,50 @@
 
   <body>
     <section>
-      <title>Forhistorie</title>
+<title>Sametingets stavekontrollprosjekt for sørsamisk startet 1.1. 2008.</title>
+<p>Prosjektet skiller seg fra første prosjektperiode (for nord- og lulesamisk) ved at det er færre ressurser til stede for sørsamisk:</p>
+
+      <ol>
+        <li>Lister over sørsamiske ord, med stammeklasseinformasjon, i
+        elektronisk form, er ikke tilgjengelig</li>
+
+        <li>Det trengs mer opplysninger om sørsamisk grammatikk, f.eks. i form
+        av en ny refereansegrammatikk. Åpne spørsmål er framfor alt
+        adjektivbøyinga, og behandlinga av låneord.</li>
+      </ol>
+
+<p>Følgende arbeidsoppgaver står sentralt</p>
+
+<ol>        <li>Utviding av den eksisterende sørsamiske <a
+        href="http://giellatekno.uit.no/a-sma.html">analysatoren</a> og <a
+        href="http://giellatekno.uit.no/g-sma.html">generatoren</a> til en
+        fullverdig automat.</li>
+	<li>Arbeid med normative spørsmål</li>
+      </ol>
+
+      <p>For å få til dette trengs det målretta samarbeid i arbeidet med
+      sørsamisk.</p>
+      
+    </section>
+    <section>
+      <title>Bakgrunnen til at sørsamisk ikke ble med i første omgang av Divvun-prosjektet</title>
 
       <p>Den opprinnelige planen for <em>divvun.no</em> var å lage
-      stavekontroll for tre språk, nord- lule og sørsamisk. I løpet av
-      planleggingsperioden gikk vi likevel inn for å utelate sørsamisk, av
-      følgende grunner:</p>
+      stavekontroll for tre språk, nord- lule og sørsamisk
+      samitidig. I løpet av planleggingsperioden gikk vi likevel inn
+      for å utelate sørsamisk fra første prosjektperiode, av følgende
+      grunner:</p>
 
       <ol>
         <li>I motsetning til de nord- og lulesamiske analysatorene, ble den
         sørsamiske analysatoren (laget av Sjur N. Moshagen og Trond Trosterud)
-        ikke ferdig til divvun-programmet starta. <ul>
+        ikke ferdig til det første Divvun-prosjektet starta. <ul>
             <li>UiTø hadde ikke tilgang til ei liste over sørsamiske ord, med
             stammeklasseinformasjon, i elektronisk form. Så lenge analysatoren
             ikke har tilgang til ei slik liste, vil den forbli en
             demonstrator, som ikke kan brukes til praktiske formål</li>
 
-            <li>De grammatikkene som eksisterer for sørsamisk er ikke
+            <li>De grammatikkene som eksisterte for sørsamisk var ikke
             uttømmende nok til å lage gode analysatorer, det trengs mer
             grunnforsking før vi vet nok om sørsamisk grammatikk.</li>
           </ul></li>
@@ -40,49 +67,17 @@
         grunnleggende infrastrukturen var på plass.</li>
       </ol>
 
-      <p>I og med at den sørsamiske analysatoren ikke var ferdig, og det var
-      usikkert hvor mye arbeid det ville innebære å gjøre den ferdig, kunne
-      Sametinget ikke gå inn for å ta med sørsamisk i divvun-prosjektet i
-      denne omgang, men vil komme tilbake til spørsmålet senere, jf. neste
-      avsnitt.</p>
+      <p>I og med at den sørsamiske analysatoren ikke var ferdig, og
+      det var usikkert hvor mye arbeid det ville innebære å gjøre den
+      ferdig, kunne Sametinget ikke gå inn for å ta med sørsamisk i
+      det første Divvun-prosjektet.</p>
     </section>
-
     <section>
-      <title>Planer for sørsamisk i framtida</title>
-
-      <p>Både Universitetet i Tromsø og Sametinget er svært interessert i
-      å arbeide med sørsamisk språkteknologi. For å få framgang i arbeidet med
-      sørsamisk, må disse forutsetningene være på plass:</p>
-
-      <ol>
-        <li>Prosjektet må ha tilgang til ei liste over sørsamiske ord, med
-        stammeklasseinformasjon, i elektronisk form</li>
-
-        <li>Det trengs mer opplysninger om sørsamisk grammatikk, f.eks. i form
-        av en ny refereansegrammatikk. Eksempel på åpne spørsmål er
-        adjektivbøyinga, og behandlinga av låneord.</li>
-
-        <li>Noen må utvide den eksisterende sørsamiske <a
-        href="http://giellatekno.uit.no/a-sma.html">analysatoren</a> og <a
-        href="http://giellatekno.uit.no/g-sma.html">generatoren</a> til en
-        fullverdig automat (i dag dekker den bare substantivbøying og lukkede
-        ordklasser). Dette kan f.eks. bli gjort som et prosjekt ved
-        Universitetet i Tromsø, i samarbeid med sørsamiske lingvister</li>
-
-        <li>Deretter kan Sametingets divvun-prosjekt, i samarbeid med
-        Samisk språknemd, utvikle analysatoren til et
-        stavekontrollprogram</li>
-      </ol>
-
-      <p>For å få til dette trengs det målretta samarbeid i arbeidet med
-      sørsamisk.</p>
-      
-       <section>
       <title>Andre samiske språk</title>
 <p>I løpet av planleggingsfasen til dette prosjektet ble det ikke vurdert å lage stavekontrollprogram for enare-, skolte- eller kildinsamisk. Det norske sametinget har prioritert de samiske språka som blir snakka i Norge. Universitetet i Tromsø har analysatorer for disse språka, men bare skissemessige versjoner for enare- og skoltesamisk (se den <a href="doc/lang/smn/j-smn.html">enaresamiske</a> og <a href="doc/lang/sms/j-sms.html">skoltesamiske</a> dokumentasjonen). Ingenting har blitt gjort for kildinsamisk.</p>
 
 <p>Infrastrukturen som blir laga for nord- og lulesamisk kan selvfølgelig brukes for arbeid med de andre samiske språka i framtida, så på den måten vil arbeidet som blir gjort nå være relevant for enare- skolte- og kildinsamisk også.</p>
-    </section>
+
 
 <p class="last_modified">Siste endring: $Date$, by $Author$</p>
     </section>
