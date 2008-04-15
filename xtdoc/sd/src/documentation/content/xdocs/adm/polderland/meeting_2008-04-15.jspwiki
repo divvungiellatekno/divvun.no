@@ -17,18 +17,21 @@ Participants:
 
 * Adobe: is working on the case (cf. copy of E-mail sent). Their provisional
   solution a) crashes b) does not use the InDesign API, so we're not there yet.
+  update: No Adobe update since apr 4, will poll them to get the status
 * Microsoft has agreed to supply Office 2008 for the Mac, waiting for arrival
-  (might take some time) (... tick ... tick ... tick ...)
+  (might take some time) (... tick ... tick ... tick ... tick ...)
+  Will ask for status
 * conversion of InDesign/InCopy to windows still nears completion
-* cmd line speller now contains version number option, will drop
-* bug 630: is an InDesign feature, WONTFIX (cantfix, actually).
-  see bugzilla for details.
-* bug 656: did not get around to that, have deferred it to Frank
-* drop of all code planned for this week
+* bug 656: tested with 700K words user dictonary on Vista.
+  slow, but works
+* drop of all code planned for this week - ready to be sent,
+  will send it after the meeting
 
 !!Divvun
 
-Should have a look at the maintenance and support issues, contract-wise.
+Should have a look at the maintenance and support issues, contract-wise. Also
+ask for more user feedback regarding bug 656: OS version, Office version, size
+of user dictionary, etc.
 
 * discussed contract-issues briefly, will continue this week.
 * (still) more bug fixes, lexical fine-tuning
@@ -54,12 +57,12 @@ Should have a look at the maintenance and support issues, contract-wise.
 
 !!PLD Priority list
 
+# bug 676
 # drop final/present versions of all DLLs and tools
 # remaining indesign speller custom dictionary issue (Adobe help activated)
 # Proofing tools for Microsoft Office 2008 / Mac *** check locale issues
-# Check possible size of custom dictionary in office 2007/windows
 # InDesign proofing tools for Windows *** PENDING
 
 !!!Next meeting
 
-Next week (15.4.) at 9.30 Dutch/Norwegian time.
+Next week (21.4.) at 13.00 Dutch/Norwegian time.
