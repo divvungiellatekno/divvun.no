@@ -7,144 +7,110 @@
   </header>
 
   <body>
-    <section>
-      <title>De ferdige korrekturverktøyene er tilgjengelige!</title>
-
-      <p>Fra og med 12. desember 2007 er den første ferdige versjonen av de
-      samiske ordretteprogrammene tilgjengelig. Dette er et historisk øyeblikk
-      i den samiske dataalderen, og det er en viktig milepæl i arbeidet med å
-      bruke samisk i det moderne samfunnet.</p>
-
-      <section>
-        <title>Versjon 1.0.1</title>
-      <p>En liste over endringer fra tidligere versjoner finnes i <a
-      href="doc/proof/spelling/msoff/changes.html">versjonshistorien</a>
-      (kun på engelsk). Verktøyene for <strong>Microsoft Office</strong> er tilgjengelige her:</p>
-
-      <ul>
-        <li><a
-        href="http://www.divvun.no/static_files/DivvunInstaller.exe">Windows</a></li>
-
-        <li><a
-        href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">MacOS
-        X</a></li>
-      </ul>
-
-      <p>Informasjon og detaljer om installasjon, bruk og kjente problemer
-      finnes i <a
-      href="doc/proof/spelling/msoff/install_use.html">slippnotatene</a>.</p>
-
-      </section>
-      <section>
-        <title>På CD</title>
-
-        <p>For brukere med langsom eller ingen Internett-tilgang, er det mulig
-        å bestille en CD fra Sametinget: 78 48 42 22.</p>
-      </section>
-
-      <section>
-        <title>Orddeling for InDesign</title>
-
-        <p>Orddelingsmoduler for Adobe InDesign CS3 er nå tilgjengelige (bare
-        Mac-versjoner til å begynne med - Windows-versjonene kommer litt
-        senere):</p>
-
-        <ul>
-          <li><a
-          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">Divvun
-          for InDesign CS3</a> - Mac</li>
-        </ul>
-
-        <p>Mer informasjon om installering og bruk i InDesign finnes på <a
-        href="/doc/proof/hyph/InDesign/index.html">en egen side</a> (kun på
-        engelsk).</p>
-      </section>
-    </section>
+    <p>Divvun-prosjektet er et prosjekt under det norske Sametinget for å lage
+    retteprogram for samisk, dvs stavekontroll og orddeling for nord-, lule-
+    og sørsamisk. Verktøyene fungerer på Linux (snart), MacOS X og Windows i
+    de vanligste kontorprogrammene. Verktøy for nord- og lulesamisk er
+    ferdige, sørsamiske verktøy er under arbeid i det såkalte Divvun
+    II-prosjektet.</p>
 
     <section>
-      <title>Hva er Divvun?</title>
+      <title>Tilgjengelige korrekturverktøy</title>
 
-      <p>Divvun er et prosjekt under det norske Sametinget for å lage
-      retteprogram for samisk. I første omgang betyr det stavekontroll og
-      orddeling for nord- og lulesamisk. Verktøyene skal fungere på Windows,
-      Linux og Mac i de vanligste kontorprogrammene.</p>
-    </section>
-
-    <section>
-      <title>Ferdige korrekturverktøy</title>
-
-      <p>De ferdige korrekturverktøyene er gratis tilgjengelige på prosjektets
-      hjemmeside i form av installasjonsprogram som enkelt installerer
-      verktøyene på datamaskinen. Verktøyene vil fungere på samme måten som
-      tilsvarende verktøy for andre språk. Sametinget og Universitetet i
-      Tromsø vil beholde rettene til det meste av programmene, men tillater at
-      alle interesserte kan bruke både programmene og kildekoden deres
-      vederlagsfritt (tilgang til kildekoden gjelder ikke deler som er
-      proprietære).</p>
+      <p>Ferdige korrekturverktøy er gratis tilgjengelige nedenfor i form av
+      installasjonsprogram som enkelt installerer verktøyene på datamaskinen.
+      Verktøyene vil fungere på samme måten som tilsvarende verktøy for andre
+      språk.</p>
 
       <table>
         <caption>Tabell over ferdige og kommende (x) produkter</caption>
 
         <tr>
-          <th>Program/OS</th>
+          <th>Vertsprogram</th>
 
-          <th>Stavekontroll</th>
+          <th>Operativsystem</th>
 
-          <th>Orddeling</th>
+          <th>Korrekturverktøy<br />(tilgjengelig versjon)</th>
+
+          <th>Mer info</th>
         </tr>
 
         <tr>
-          <td>MS Office/Win</td>
+          <td rowspan="2">MS Office</td>
+
+          <td>Windows</td>
 
           <td><a
-          href="http://www.divvun.no/static_files/DivvunInstaller.exe">Tilgjengelig</a></td>
+          href="http://www.divvun.no/static_files/DivvunInstaller.exe">1.0.1</a></td>
 
-          <td>Installeres sammen med stavekontrollen</td>
+          <td rowspan="2"><a
+          href="doc/proof/spelling/msoff/install_use.html">Slippnotater</a><a
+          href="doc/proof/spelling/msoff/changes.html">versjonshistorie</a></td>
         </tr>
 
         <tr>
-          <td>MS Office/Mac</td>
+          <td>MacOS X</td>
 
           <td><a
-          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Tilgjengelig</a></td>
-
-          <td>Installeres sammen med stavekontrollen</td>
+          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">1.0.1</a></td>
         </tr>
 
         <tr>
-          <td>InDesign CS3</td>
+          <td rowspan="2">InDesign CS3</td>
 
-          <td>x</td>
+          <td>MacOS X</td>
 
           <td><a
-          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">Offisiell
-          versjon 1.0 er tilgjengelig</a></td>
+          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">1.0</a></td>
+
+          <td rowspan="2"><a
+          href="/doc/proof/hyph/InDesign/index.html">Slippnotater</a></td>
         </tr>
 
         <tr>
-          <td>OpenOffice/Win</td>
+          <td>Windows</td>
 
-          <td>x</td>
-
-          <td>x</td>
+          <td>(kommer snart)</td>
         </tr>
 
         <tr>
-          <td>OpenOffice/Mac</td>
+          <td rowspan="3">OpenOffice.org</td>
 
-          <td>x</td>
+          <td>Windows</td>
 
-          <td>x</td>
+          <td>(kommer snart)</td>
+
+          <td rowspan="4">x</td>
         </tr>
 
         <tr>
-          <td>OpenOffice/Linux</td>
+          <td>MacOS X</td>
 
-          <td>x</td>
+          <td>(kommer snart)</td>
+        </tr>
 
-          <td>x</td>
+        <tr>
+          <td>Linux</td>
+
+          <td>(kommer snart)</td>
+        </tr>
+
+        <tr>
+          <td>Hunspell-kompatibelt</td>
+
+          <td>alle</td>
+
+          <td>(kommer snart)</td>
         </tr>
       </table>
+
+      <section>
+        <title>Uten Internett?</title>
+
+        <p>For brukere med langsom eller ingen Internett-tilgang, er det mulig
+        å bestille en CD fra Sametinget ved å ringe til telefonnummer: 78 48
+        42 22.</p>
+      </section>
     </section>
 
     <section>
@@ -153,23 +119,25 @@
       <section>
         <title>Anonym cvs</title>
 
-        <p>Kildekoden til dette prosjektet som tilhører Sametinget og
-        Universitetet i Tromsø er åpen og fri, og er tilgjengelig via <a
-        href="doc/infra/anonymous-cvs.html">anonym cvs</a>. Vi har også
-        skrevet et dokument om hvordan man <a href="doc/intro.html">finner
-        frem</a> i kildekoden.</p>
+        <p>Den delen av kildekoden til dette prosjektet som tilhører
+        Sametinget og Universitetet i Tromsø er åpen og fri, og er
+        tilgjengelig via <a href="doc/infra/anonymous-cvs.html">anonym
+        cvs</a>. Vi har også skrevet et dokument om hvordan man <a
+        href="doc/intro.html">finner frem</a> i kildekoden. Visse deler er
+        proprietære og er altså <em>ikke</em> tilgjengelige.</p>
       </section>
 
       <section>
-        <title>Last ned dokumentasjon</title>
+        <title>Lese dokumentasjonen på egen PC</title>
 
         <p>All dokumentasjonen om dette prosjektet er tilgjengelig på <a
         href="http://divvun.no">prosjektets hjemmeside</a>. Hvis du vil ha
-        denne dokumentasjonen på din egen datamaskin, følg instruksjonen om <a
-        href="doc/infra/anonymous-cvs.html">anonym cvs</a>, og gå deretter
-        til<a href="doc/infra/forrest-howto.html">oppsett av forrest</a>.
-        Etter dette er all dokumentasjonen vår på din datamaskin, og du kan
-        navigere gjennom den med en webleser.</p>
+        denne dokumentasjonen på din egen datamaskin, følg instruksjonene om
+        <a href="doc/infra/anonymous-cvs.html">anonym cvs</a>, og gå deretter
+        til <a href="doc/infra/forrest-howto.html">oppsett av forrest</a>.
+        Etter dette er all dokumentasjonen på din egen datamaskin, og du kan
+        navigere gjennom den med en nettleser uten å være tilkoblet
+        Internett.</p>
       </section>
     </section>
 
