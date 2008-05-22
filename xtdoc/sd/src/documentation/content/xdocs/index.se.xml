@@ -1,152 +1,142 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="se">
+<document xml:lang="nb">
   <header>
     <title>Divvun - sámi čállindárkkistanreaiddut</title>
   </header>
+
   <body>
+    <p>Divvun-prošeakta gullo Norgga Sámediggái ja ráhkada sámi čállindárkkistanreaidduid; davvi-, julev- ja orjješsámi riektačállin- ja sátnejuohkinprográmmaid. Reaiddut doibmet Linuxis (boahtá hede), MacOS X:s ja Windowsis dábálaččamus kontorprográmmain. Davvi- ja julevsámi reaiddut juo leat válbmasat ja orjješsámi reaidduiguin leat dál bargame Divvun II-prošeavttas.</p>
+
     <section>
-      <title>Válmmas divvunreaiddut leat olámuttus!</title>
-      <p>
-        Juovlamánu 12. b. 2007 rájes lea sámi riektačállinreaidduid vuosttas válmmas veršuvdna olámuttus. Lea historjjálaš dáhpáhus sámi dihtoráldaris, ja lea dehálaš olahus lážidiin saji sámegiela atnui dálá servodagas.</p>
-        
-      <section>
-        <title>Veršuvdna 1.0.1</title>
-      <p>Listu rievdadusaiguin ovddit veršuvnnaid ektui gávdnu <a
-      href="doc/proof/spelling/msoff/changes.html">veršunhistorjjás</a>
-      (dušše eŋgelasgillii). Reaiddut <strong>Microsoft Officii</strong> gávnnat dás:</p>
+      <title>Válmmas reaiddut</title>
 
-			<ul>
-				<li>
-					<a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Windows</a>
-				</li>
-				<li>
-					<a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">MacOS X</a>
-				</li>
-			</ul>
-			<p>
-        Dieđuid installašuvnna, anu ja váilevašvuođaid birra leat <a href="doc/proof/spelling/msoff/install_use.html">dás</a>.
-			</p>
-          </section>
-          <section>
-            <title>CD:s</title>
-            <p>
-              Adnit geain lea hiđis Interneahtta, dehe ii leat Interneahtta oppanassiige, ožžot diládit CD-skearru Norgga Sámedikkis: +47-78 48 42 22.
-            </p>
-          </section>
+      <p>Reaidduid oažžu nuvttá viežžat vuollelis. Dat biddjojit álkes vuogi mielde dihtorii vásedin installašunprográmmain. Reaiddut doibmet seamma ládje dego vaikko mat iežá giela reaiddut.</p>
 
-      <section>
-        <title>InDesign sátnejuohkin</title>
+      <table>
+        <caption>Tabealla válmmas ja boahtti (x) buktagiin</caption>
 
-        <p>Sátnejuohkinmodulat Adobe InDesign CS3:i gávdnojit dál
-        (dušše Mac-veršuvnnat álggos - Windows-veršuvnnat bohtet maŋŋelaš):</p>
+        <tr>
+          <th>Vuođđoprográmma</th>
 
-        <ul>
-          <li><a
-          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">Divvun
-          InDesign CS3:i</a> - Mac</li>
-        </ul>
+          <th>Operativsystema</th>
 
-        <p>Eanet dieđuid installašuvnna ja anu birra InDesignas gávnnat
-        <a href="/doc/proof/hyph/InDesign/index.html">dás</a> (dađi bahábut
-        dušše eŋgelasgillii).</p>
-      </section>
-    </section>
-          
-		<section>
-			<title>Mii lea Divvun?</title>
-			<p>
-			Divvun lea prošeakta, maid Norgga Sámediggi lea álggahan. Ulbmil lea ráhkadit sámegiela korrekturprográmmaid. Dál vuos ráhkaduvvo davvi- ja julevsámi korrekturprográmma ja sátnejuohkin. Reaiddut galget doaibmat dábáleamos kántorprográmmain Windowsas, Linuxis ja Macas.
-			</p>
-		</section>
-		<section>
-			<title>Válmmas korrekturreaiddut</title>
-			<p>
-		 		Válmmas korrekturreaidduid gávdná nuvttá prošeavtta heaibmasiiddus installašunprográmman, mii álkit installere reaidduid dihtorii. Reaiddut doibmet seamma ládje dego iežá gielaid reaiddut. Sámediggi ja Romssa universitehta doallá vuoigatvuođaid eanas prográmmaide, muhte diktet iežáid nai atnit nu prográmmaid ja gáldokodaid nuvttá.
-			</p>
-			<table>
-				<caption>Tabealla válmmas ja plánejuvvon buktagiin</caption>
-				<tr>
-					<th>Prográmma/OS</th>
-					<th>Čállindárkkisteapmi</th>
-					<th>Sátnejuohkin</th>
-				</tr>
-				<tr>
-					<td>MS Office/Win</td>
-					<td>
-						<a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Olámuttus</a>
-					</td>
-					<td>Installerejuvvo ovttas čállindárkkistemiin</td>
-				</tr>
-				<tr>
-					<td>MS Office/Mac</td>
-					<td>
-						<a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Olámuttus</a>
-					</td>
-					<td>Installerejuvvo ovttas čállindárkkistemiin</td>
-				</tr>
-				<tr>
-					<td>InDesign CS3</td>
+          <th>Viežžanliŋka</th>
 
-          <td>x</td>
-
-          <td>
-            <a
-            href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">Almmolaš
-            veršuvdna 1.0 olámuttos</a>
-          </td>
+          <th>Eanet info</th>
         </tr>
 
-					<tr>
-					<td>OpenOffice/Win</td>
-					<td>x</td>
-					<td>x</td>
-				</tr>
-				<tr>
-					<td>OpenOffice/Mac</td>
-					<td>x</td>
-					<td>x</td>
-				</tr>
-				<tr>
-					<td>OpenOffice/Linux</td>
-					<td>x</td>
-					<td>x</td>
-				</tr>
-			</table>
-		</section>
-		<section>
-			<title>Gáldokoda ja dokumentašuvdna</title>
-			<section>
-				<title>Anonyma cvs</title> 
-				<p>
-					Dán prošeavtta gáldokoda gullo Sámediggái ja Romssa universitehttii ja lea rabas ja nuvttá, ja oažžu <a href="doc/infra/anonymous-cvs.html">dás</a>. Mii leat maid čállán dokumeantta got <a href="doc/intro.html">gávdnat</a> gáldokodas.
-				 </p>
-			</section>
-			<section>
-				<title>Viečča dokumentašuvnna</title>
-				<p>
-					Visot dokumentašuvdna dán prošeavtta birra gávdná <a href="http://divvun.no">prošeavtta heaibmasiiddus</a>. Jus siđat dokumentašuvnna iežat dihtorii, čuovo dán bagadusa: <a href="doc/infra/anonymous-cvs.html">anonym cvs</a>, ja mana dasto deike: <a href="doc/infra/forrest-howto.html">forrest heivehus</a>. De lea visot dokumentašuvdna du dihtoris, ja oaččut navigeret das web-loganiin.
-				</p>
-			</section>
-		</section>
-		<section>
-			<title>Buorit liŋkkat</title>
-			<ul>
-				<li>
-					<a href="mailto:divvun ved samediggi punkt no">E-poasta prošektii</a>
-				</li>
-				<li>
-					<a href="http://hunspell.sourceforge.net/">Hunspell</a>
-				</li>
-				<li>
-					<a href="http://www.openoffice.org/">OpenOffice</a>
-				</li>
-				<li>
-					<a href="http://www.xrce.xerox.com/competencies/content-analysis/fst/"> Xerox FST-reaiddut</a>
-				</li>
-			</ul>
-		</section>
-		<p class="last_modified">Maŋemus rievdaduvvon: $Date$, by $Author$</p>
-	</body>
+        <tr>
+          <td rowspan="2">MS Office</td>
+
+          <td>Windows</td>
+
+          <td><a
+          href="http://www.divvun.no/static_files/DivvunInstaller.exe">1.0.1</a></td>
+
+          <td rowspan="2"><a
+          href="doc/proof/spelling/msoff/install_use.html">Dokumentašuvdna</a><a
+          href="doc/proof/spelling/msoff/changes.html">veršunhistorjá</a></td>
+        </tr>
+
+        <tr>
+          <td>MacOS X</td>
+
+          <td><a
+          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">1.0.1</a></td>
+        </tr>
+
+        <tr>
+          <td rowspan="2">InDesign CS3</td>
+
+          <td>MacOS X</td>
+
+          <td><a
+          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">1.0</a></td>
+
+          <td rowspan="2"><a
+          href="/doc/proof/hyph/InDesign/index.html">Release-dokumeanttat</a></td>
+        </tr>
+
+        <tr>
+          <td>Windows</td>
+
+          <td>(boahtá hede)</td>
+        </tr>
+
+        <tr>
+          <td rowspan="3">OpenOffice.org</td>
+
+          <td>Windows</td>
+
+          <td>(boahtá hede)</td>
+
+          <td rowspan="4">x</td>
+        </tr>
+
+        <tr>
+          <td>MacOS X</td>
+
+          <td>(boahtá hede)</td>
+        </tr>
+
+        <tr>
+          <td>Linux</td>
+
+          <td>(boahtá hede)</td>
+        </tr>
+
+        <tr>
+          <td>Hunspell-kompatibel</td>
+
+          <td>visot</td>
+
+          <td>(boahtá hede)</td>
+        </tr>
+      </table>
+
+      <section>
+        <title>Internet haga?</title>
+
+        <p>Dat geain lea hiđis Interneahtta dehe ii Interneahtta obanasiige, ožžot diládit CD Sámedikkis, tel: +47 78 48 42 22.</p>
+      </section>
+    </section>
+
+    <section>
+      <title>Gáldokoda ja dokumentašuvdna</title>
+
+      <section>
+        <title>Anonym cvs</title>
+
+        <p>Oassi prošeavtta gáldokodas mii gullo Sámediggái ja Romssa Universitehtii lea rabas ja nuvttá ja oažžu dás: <a href="doc/infra/anonymous-cvs.html">anonym cvs</a>. Mii leat maid čállán dokumeantta got <a href="doc/intro.html">gávdnat</a> gáldokodas. Muhte soames oasit de fas leat proprietárat ja daid <em>ii</em> vaikko gii oaččo.</p>
+      </section>
+
+      <section>
+        <title>Lohkat dokumeanttašuvnna iežas PC:s</title>
+
+        <p>Visot dokumeanttašuvdna dán prošeavtta birra gávdná <a
+        href="http://divvun.no">projeavtta heaibmasiiddus</a>. Jos siđat dán dokumeanttašuvnna iežat dihtorii, čuovo dán bagadusa: <a href="doc/infra/anonymous-cvs.html">anonym cvs</a>, ja mana dasto deike: <a href="doc/infra/forrest-howto.html">forrest installašuvdna</a>. De lea visot dokumentašuvdna du dihtoris, ja oaččut navigeret das web-browseriin Internet haga.</p>
+      </section>
+    </section>
+
+    <section>
+      <title>Buorit liŋkkat</title>
+
+      <ul>
+        <li><a href="mailto:divvun ved samediggi punkt no">E-poasta prošektii</a></li>
+
+        <li><a href="http://hunspell.sourceforge.net/">Hunspell</a></li>
+
+        <li><a href="http://www.openoffice.org/">OpenOffice</a></li>
+
+        <li><a
+        href="http://www.xrce.xerox.com/competencies/content-analysis/fst/">
+        Xerox FST-reaiddut</a></li>
+      </ul>
+    </section>
+
+    <p class="last_modified">Maŋemus rievdaduvvon: $Date$, by
+    $Author$</p>
+  </body>
 </document>
