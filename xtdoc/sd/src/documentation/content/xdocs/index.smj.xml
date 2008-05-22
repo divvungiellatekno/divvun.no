@@ -1,149 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="smj">
+<document xml:lang="nb">
   <header>
     <title>Divvun - sáme divudimnævo</title>
   </header>
 
   <body>
-    <section>
-      <title>Da gárves riektatjállemnævo li addnem ládjij!</title>
-
-      <p>12. biejvve javllamáno gávno dat vuostaj versjåvnjå gærgos sáme riektatjállemnævos. Dat la historjalasj dápádus sáme dáhturájgen,  ja dárbulasj bálggátsiekkes addnuj sámegiellaj ådå ajgásasj sebrudagán.:</p>
-        
-      <section>
-        <title>Versjåvnnå 1.0.1</title>
-      <p>Lissto rievddadusáj åvdep versjåvnåj rájes gávnnu <a
-      href="doc/proof/spelling/msoff/changes.html">versjonhistorján</a>
-      (dåssjå ieŋŋilsgiellaj). Nævojt <strong>Microsoft Officaj</strong> gávna dánna:</p>
-
-
-      <ul>
-        <li><a
-        href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.zip">Windows</a></li>
-
-        <li><a
-        href="http://www.divvun.no/static_files/sami-proofing-tools-20071005.dmg">Mac OS X</a></li>
-      </ul>
-
-      <p>Diedo installasjåvnå, ano ja oahpes vájvásduvvamij birra li <a
-      href="doc/proof/spelling/msoff/install_use.html">dánna</a>.</p>
-          </section>
-          <section>
-            <title>CD:n</title>
-            <p>
-              Addne gejn Internæhtta le nuolle, jali ij le Internæhtta åbbånis, oadtju diŋŋgot CD-skierrov Vuona Sámedikkes: +47-78 48 42 22.
-            </p>
-          </section>
-          
-          <section>
-        <title>InDesign báhkojuohkem</title>
-
-        <p>Báhkojuohkemmodula Adobe InDesign CS3:j gávnnuji dál
-        (dåssjå Mac-versjåvnå álgon - Windows-versjåvnå båhti maŋŋelasj):</p>
-
-        <ul>
-          <li><a
-          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">Divvun
-          InDesign CS3:j</a> - Mac</li>
-        </ul>
-
-        <p>Ienep diedojt installasjåvnå ja ano birra InDesignan gávna
-        <a href="/doc/proof/hyph/InDesign/index.html">dánna</a> (mavas
-        dåssjå ieŋŋilsgiellaj).</p>
-      </section>
-    </section>
-
-    <section>
-      <title>Mij la Divvun?</title>
-
-      <p>Divvom la prosjekta majt Vuona Sámedigge háldat. Prosjevta ulmme le
-      sámegiela divvomnævojt dahkat . Álgon almoduvvá nuortta ja julevsáme
-      riektatjállemprográmma ja báhkojuohkem. Nævo galggi doajmmat Windowsin, Linux ja
-      Maca dábálamos kontåvrråprográmmajn.</p>
-    </section>
+    <p>Divvom-prosjekta la prosjekta mij la Vuona Sámedigge vuolen ja la   gárvedime sámegiela divvomnævojt, degu stavvimkontrållav ja báhkojuohkemav
+       nuortta-, julev- ja oarján sábmáj. Nævo doajmmi Linuxin (ruvva), MacOS X og Windowsin ja dábálamos kontåvrråprográmmajn. Nævo nuortta-, julevsábmáj li gárvása, ja oarjjánsáme nævo li gárvedime vuolen Divvun II-prosjevtan.</p>
 
     <section>
       <title>Gárves korrektuvrranævo</title>
 
-      <p>Dajt gárves
-      korrektuvrranævojt mahttá nåvkå viedtjat prosjevta sijddabieles
-      installerimprográmma hámen, mij álkkes láhkáj biedjá nævojt dáhtá
-      masjijnnaj. Nævo doajmmi sæmmiláhkáj degu dakkir nævo ietjá gielajn.
-      Sámedigge ja Råmså universitehta addni rievtesvuodajt ienemus åsijda
-      prográmmaj vuodokåvdåjt nåvkå (loahpe vuodokåvdåjda ij guoska åsijda
-      majna li juo æjgáda).</p>
-
-      <p></p>
+      <p>Gárves korrektuvrranævo gávnuji nåvkå sadjihin dánna vuollelin installerimprográmman, mij álkket installeri nævojt dáhtá masjijnaj.Nævo doajmmi sæmmiláhkáj degu dakkir nævo ietjá gielajn.</p>
 
       <table>
-        <caption>Planeridum båhtusa</caption>
+        <caption>Tabella gárves ja boahtte (x) buvtaga</caption>
 
         <tr>
-          <th>Prográmma/OS</th>
+          <th>Vuodoprográmma</th>
 
-          <th>Stávimkontrållå</th>
+          <th>Operativsystebma</th>
 
-          <th>Báhkojuohkem</th>
+          <th>Vieddtjamliŋŋka</th>
+
+          <th>Ienep diedo</th>
         </tr>
 
         <tr>
-          <td>MS Office/Win</td>
+          <td rowspan="2">MS Office</td>
+
+          <td>Windows</td>
 
           <td><a
-          href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.zip">Sadjihin</a></td>
+          href="http://www.divvun.no/static_files/DivvunInstaller.exe">1.0.1</a></td>
 
-          <td>x</td>
+          <td rowspan="2"><a
+          href="doc/proof/spelling/msoff/install_use.html">Release-dokumenta</a><a
+          href="doc/proof/spelling/msoff/changes.html">versjonhistorján</a></td>
         </tr>
 
         <tr>
-          <td>MS Office/Mac</td>
+          <td>MacOS X</td>
 
           <td><a
-          href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Sadjihin</a></td>
-
-          <td>x</td>
+          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">1.0.1</a></td>
         </tr>
 
         <tr>
-          <td>InDesign CS3</td>
+          <td rowspan="2">InDesign CS3</td>
 
-          <td>x</td>
+          <td>MacOS X</td>
 
-          <td>
-            <a
-            href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">Almulasj
-            versjåvnnå 1.0 sadjihin</a>
-          </td>
-        </tr>
-        
-        <tr>
-          <td>OpenOffice/Win</td>
+          <td><a
+          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">1.0</a></td>
 
-          <td>x</td>
-
-          <td>?</td>
+          <td rowspan="2"><a
+          href="/doc/proof/hyph/InDesign/index.html">Release-dokumenta</a></td>
         </tr>
 
         <tr>
-          <td>OpenOffice/Mac</td>
+          <td>Windows</td>
 
-          <td>x</td>
-
-          <td>x</td>
+          <td>(båhti ruvva)</td>
         </tr>
 
         <tr>
-          <td>OpenOffice/Linux</td>
+          <td rowspan="3">OpenOffice.org</td>
 
-          <td>x</td>
+          <td>Windows</td>
 
-          <td>x</td>
+          <td>(båhti ruvva)</td>
+
+          <td rowspan="4">x</td>
         </tr>
 
+        <tr>
+          <td>MacOS X</td>
+
+          <td>(båhti ruvva)</td>
+        </tr>
+
+        <tr>
+          <td>Linux</td>
+
+          <td>(båhti ruvva)</td>
+        </tr>
+
+        <tr>
+          <td>Hunspell-kompatibelt</td>
+
+          <td>alle</td>
+
+          <td>(båhti ruvva)</td>
+        </tr>
       </table>
 
+      <section>
+        <title>Internæhtta dagi?</title>
+
+        <p>Addne gejn Internæhtta le nuolle, jali ij le Internæhtta åvvånis, oadtju diŋŋgot CD-skierrov Vuona Sámedikkes: +47-78 48 42 22.</p>
+      </section>
     </section>
 
     <section>
@@ -152,21 +110,21 @@
       <section>
         <title>Anonyma cvs</title>
 
-        <p>Dán prosjevta gálldokåvddåjt æjguji Sámedigge ja Råmså universitehta ja da li rabása ja friddja, ja la ålåmutton <a
-        href="doc/infra/anonymous-cvs.html">anonyma cvs</a> Miján la aj tjála gåk dav
-        <a href="doc/intro.html">gavná</a>gálldokåvdajn.</p>
+        <p>Dán prosjevta gálldokåvddåjt æjguji Sámedigge ja Råmså universitehta ja da li rabása ja friddja, ja la ållemmutton <a href="doc/infra/anonymous-cvs.html">anonyma
+        cvs</a>. Miján la aj tjála gåk dav <a
+        href="doc/intro.html">gavná</a> gálldokåvdajn. Muhtem oase li
+        proprieteridum ja <em>ælla</em> Sadjihin.</p>
       </section>
 
       <section>
-        <title>Viettja dokumentasjåvnåv</title>
+        <title>Låhkåt dokumentasjåvnåv ietjat PC:an</title>
 
-        <p>Gájkka dokumentasjåvnnå majt dát prosjækta la tjállám gávnno dánna:
-        <a href="http://divvun.no">Divvun prosjækta</a>. Jus sidá viedtjat dáv
-        dokumentasjåvnåv ietjat dáhturij, tjuovo bagádusáv dánna: <a
-        href="doc/infra/anonymous-cvs.html">anonyma cvs</a>. Dassta maññela
-        dási: <a href="doc/infra/forrest-howto.html">hiebadit forrest</a>.
-        Dálla gájkka dokumentasjåvnnå la duv dáhturin, ja manná låhkåt dav web
-        browserijn.</p>
+        <p>Gájkka dokumentasjåvnnå majt dát prosjækta la tjállám gávnno dánna <a
+        href="http://divvun.no">Divvun prosjævta sijddabielle</a>. Jus sidá viedtjat dáv
+        dokumentasjåvnåv iehtjat dáhturij, tjuovo bagádusáv dánna
+        <a href="doc/infra/anonymous-cvs.html">anonyma cvs</a>, Dassta maŋŋela
+        dási <a href="doc/infra/forrest-howto.html">hiebadit forrest</a>.
+        Dálla gájkka dokumentasjåvnnå la duv dáhturin, ja dån iesj máhtá guorrat næhttalåhkke baktu vájkku internehtta ij la rahppot.</p>
       </section>
     </section>
 
@@ -174,20 +132,19 @@
       <title>Ávkkás sválldasa</title>
 
       <ul>
-        <li><a href="mailto:divvun ved samediggi punkt no">E-post
-        prosjæktaj</a></li>
+        <li><a href="mailto:divvun ved samediggi punkt no">E-poassta prosjæktaj</a></li>
 
         <li><a href="http://hunspell.sourceforge.net/">Hunspell</a></li>
 
         <li><a href="http://www.openoffice.org/">OpenOffice</a></li>
 
         <li><a
-        href="http://www.xrce.xerox.com/competencies/content-analysis/fst/">Xerox
-        FST-verktøy</a></li>
+        href="http://www.xrce.xerox.com/competencies/content-analysis/fst/">
+        Xerox FST-nævo</a></li>
       </ul>
     </section>
 
-    <p class="last_modified">Maŋemus rievddaduvvam: $Date: 2007/05/29 11:58:16
-    $, by $Author$</p>
+    <p class="last_modified">Maŋemus rievddaduvvam: $Date$, by
+    $Author$</p>
   </body>
 </document>
