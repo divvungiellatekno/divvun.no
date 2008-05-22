@@ -7,23 +7,23 @@
   </header>
 
   <body>
-    <p>Divvom-prosjekta la prosjekta mij la Vuona Sámedigge vuolen ja la   gárvedime sámegiela divvomnævojt, degu stavvimkontrållav ja báhkojuohkemav
-       nuortta-, julev- ja oarján sábmáj. Nævo doajmmi Linuxin (ruvva), MacOS X og Windowsin ja dábálamos kontåvrråprográmmajn. Nævo nuortta-, julevsábmáj li gárvása, ja oarjjánsáme nævo li gárvedime vuolen Divvun II-prosjevtan.</p>
+    <p>Divvom-prosjækta la prosjækta mij la Vuona Sámedikke vuolen ja la   gárvedime sámegiela divvomnævojt, degu stávimkontrållav ja báhkojuohkemav
+       nuortta-, julev- ja oarjánsábmáj. Nævo doajmmi Linuxin (ruvva), MacOS X:n og Windowsin dábálamos kontåvrråprográmmajn. Nævo nuortta- ja julevsábmáj li gárvvása, ja oarjjánsáme nævo li gárvedime vuolen Divvun II-prosjevtan.</p>
 
     <section>
       <title>Gárves korrektuvrranævo</title>
 
-      <p>Gárves korrektuvrranævo gávnuji nåvkå sadjihin dánna vuollelin installerimprográmman, mij álkket installeri nævojt dáhtá masjijnaj.Nævo doajmmi sæmmiláhkáj degu dakkir nævo ietjá gielajn.</p>
+      <p>Gárves korrektuvrranævo gávnnuji nåvkå sadjihin dánna vuollelin installerimprográmman, mij álkket installeri nævojt dáhtámasjijnaj. Nævo doajmmi sæmmiláhkáj degu dakkir nævo ietjá gielajn.</p>
 
       <table>
-        <caption>Tabella gárves ja boahtte (x) buvtaga</caption>
+        <caption>Tabælla gárves ja boahtte (x) buktagijn</caption>
 
         <tr>
           <th>Vuodoprográmma</th>
 
           <th>Operativsystebma</th>
 
-          <th>Vieddtjamliŋŋka</th>
+          <th>Viedtjamliŋŋka</th>
 
           <th>Ienep diedo</th>
         </tr>
@@ -38,7 +38,7 @@
 
           <td rowspan="2"><a
           href="doc/proof/spelling/msoff/install_use.html">Release-dokumenta</a><a
-          href="doc/proof/spelling/msoff/changes.html">versjonhistorján</a></td>
+          href="doc/proof/spelling/msoff/changes.html">versjonhistorjjá</a></td>
         </tr>
 
         <tr>
@@ -89,16 +89,16 @@
         </tr>
 
         <tr>
-          <td>Hunspell-kompatibelt</td>
+          <td>Hunspell-kompatibel</td>
 
-          <td>alle</td>
+          <td>gájkka</td>
 
           <td>(båhti ruvva)</td>
         </tr>
       </table>
 
       <section>
-        <title>Internæhtta dagi?</title>
+        <title>Internehta dagi?</title>
 
         <p>Addne gejn Internæhtta le nuolle, jali ij le Internæhtta åvvånis, oadtju diŋŋgot CD-skierrov Vuona Sámedikkes: +47-78 48 42 22.</p>
       </section>
@@ -110,21 +110,21 @@
       <section>
         <title>Anonyma cvs</title>
 
-        <p>Dán prosjevta gálldokåvddåjt æjguji Sámedigge ja Råmså universitehta ja da li rabása ja friddja, ja la ållemmutton <a href="doc/infra/anonymous-cvs.html">anonyma
+        <p>Dán prosjevta gálldokåvdåjt æjgguji Sámedigge ja Råmså universitehta ja da li rahpasa ja friddja, ja li ållemmutton <a href="doc/infra/anonymous-cvs.html">anonyma
         cvs</a>. Miján la aj tjála gåk dav <a
-        href="doc/intro.html">gavná</a> gálldokåvdajn. Muhtem oase li
-        proprieteridum ja <em>ælla</em> Sadjihin.</p>
+        href="doc/intro.html">gávnná</a> gálldokåvdåjn. Muhtem oase li
+        proprieteridum ja <em>ælla</em> sadjihin.</p>
       </section>
 
       <section>
-        <title>Låhkåt dokumentasjåvnåv ietjat PC:an</title>
+        <title>Låhkåt dokumentasjåvnåv ietjas PC:n</title>
 
-        <p>Gájkka dokumentasjåvnnå majt dát prosjækta la tjállám gávnno dánna <a
-        href="http://divvun.no">Divvun prosjævta sijddabielle</a>. Jus sidá viedtjat dáv
+        <p>Gájkka dokumentasjåvnnå majt dát prosjækta la tjállám gávnnu dánna <a
+        href="http://divvun.no">Divvunprosjevta sijddabielle</a>. Jus sidá viedtjat dáv
         dokumentasjåvnåv iehtjat dáhturij, tjuovo bagádusáv dánna
         <a href="doc/infra/anonymous-cvs.html">anonyma cvs</a>, Dassta maŋŋela
         dási <a href="doc/infra/forrest-howto.html">hiebadit forrest</a>.
-        Dálla gájkka dokumentasjåvnnå la duv dáhturin, ja dån iesj máhtá guorrat næhttalåhkke baktu vájkku internehtta ij la rahppot.</p>
+        Dálla gájkka dokumentasjåvnnå la duv dáhturin, ja dån iesj máhtá guorrat næhttalåhkke baktu vájku internæhtta ij la rahppot.</p>
       </section>
     </section>
 
