@@ -11,7 +11,7 @@
     rättstavningsprogram för samiska, dvs rättstavningskontroll och orddelning för nord-, lule-
     og sydsamiska. Verktygen fungerar på Linux (snart), MacOS X och Windows i
     dom vanligaste kontorprogrammen. Verktyg för nord- og lulesamiska är
-    färdiga, sydsamiska verktyg är på gång i det så kallade Divvun
+    färdiga, sydsamiska verktyg arbetas det med i det så kallade Divvun
     II-projektet.</p>
 
     <section>
@@ -132,7 +132,7 @@
 
         <p>All dokumentation om detta projekt är tillgänglig på <a
         href="http://divvun.no">projektets hemsida</a>. Om du vill ha
-        denna dokumentation på din egen datamaskin, fölg instruktionerna om
+        denna dokumentation på din egen datamaskin, följ instruktionerna om
         <a href="doc/infra/anonymous-cvs.html">anonym cvs</a>, och gå därefter
         till <a href="doc/infra/forrest-howto.html">installation av forrest</a>.
         Efter detta är all dokumentation på din egen datamaskin, och du kan
