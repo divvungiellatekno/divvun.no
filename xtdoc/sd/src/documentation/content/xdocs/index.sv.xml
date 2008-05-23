@@ -44,7 +44,8 @@
           href="http://www.divvun.no/static_files/DivvunInstaller.exe">1.0.1</a></td>
 
           <td rowspan="2"><a
-          href="doc/proof/spelling/msoff/install_use.html">Release-dokument</a><a
+          href="doc/proof/spelling/msoff/install_use.html">Release-dokument</a> –
+          <a
           href="doc/proof/spelling/msoff/changes.html">versionshistoria</a></td>
         </tr>
 
@@ -96,7 +97,8 @@
         </tr>
 
         <tr>
-          <td>Hunspell-kompatibelt</td>
+          <td>alla <a href="http://hunspell.sourceforge.net/"
+          >Hunspell</a>-kompatibla program</td>
 
           <td>alla</td>
 

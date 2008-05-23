@@ -7,148 +7,114 @@
   </header>
 
   <body>
+    <p>The Divvun project is a project under the Norwegian Sámi Parliament to
+    make proofing tools for Sámi, which means spell checkers and automatic
+    hyphenators for North, Lule and South Sámi. The proofing tools work on
+    Linux (soon), MacOS X and on Windows in the most common office applications.
+    Proofing tools for North and Lule Sámi are available, tools for South Sámi
+    is being made in the so-called Divvun II project.</p>
+
     <section>
-      <title>The release version is available!</title>
+      <title>Finished products</title>
 
-      <p>As of December 12th 2007, the first public release of the Sámi
-      proofing tools is available. This is an historic event in the Sámi
-      computing age, and marks an important milestone in keeping Sámi alive in
-      the modern society.</p>
+      <p>Finished proofing tools are available free of charge by clicking the
+      links below. The downloads are traditional installers
+      that install the proofing tools easily on the users' computers. The
+      proofing tools work the same way as proofing tools for other
+      languages.</p>
+
+      <table>
+        <caption>Overview over available and coming (x) products</caption>
+
+        <tr>
+          <th>Host Application</th>
+
+          <th>Operating System</th>
+
+          <th>Download Link</th>
+
+          <th>More Info</th>
+        </tr>
+
+        <tr>
+          <td rowspan="2">MS Office</td>
+
+          <td>Windows</td>
+
+          <td><a
+          href="http://www.divvun.no/static_files/DivvunInstaller.exe">1.0.1</a></td>
+
+          <td rowspan="2"><a
+          href="doc/proof/spelling/msoff/install_use.html">Release notes</a> –
+          <a
+          href="doc/proof/spelling/msoff/changes.html">Version history</a></td>
+        </tr>
+
+        <tr>
+          <td>MacOS X</td>
+
+          <td><a
+          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">1.0.1</a></td>
+        </tr>
+
+        <tr>
+          <td rowspan="2">InDesign CS3</td>
+
+          <td>MacOS X</td>
+
+          <td><a
+          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">1.0</a></td>
+
+          <td rowspan="2"><a
+          href="/doc/proof/hyph/InDesign/index.html">Release notes</a></td>
+        </tr>
+
+        <tr>
+          <td>Windows</td>
+
+          <td>(coming soon)</td>
+        </tr>
+
+        <tr>
+          <td rowspan="3">OpenOffice.org</td>
+
+          <td>Windows</td>
+
+          <td>(coming soon)</td>
+
+          <td rowspan="4">x</td>
+        </tr>
+
+        <tr>
+          <td>MacOS X</td>
+
+          <td>(coming soon)</td>
+        </tr>
+
+        <tr>
+          <td>Linux</td>
+
+          <td>(coming soon)</td>
+        </tr>
+
+        <tr>
+          <td>any <a href="http://hunspell.sourceforge.net/">Hunspell</a><br/>
+          compatible application</td>
+
+          <td>all</td>
+
+          <td>(coming soon)</td>
+        </tr>
+      </table>
 
       <section>
-        <title>Version 1.0.1</title>
-      <p>A list of changes from earlier versions is available in the <a
-      href="doc/proof/spelling/msoff/changes.html">change history</a>. The
-      proofing tools for <strong>Microsoft Office</strong> are available
-      here:</p>
-
-      <ul>
-        <li><a
-        href="http://www.divvun.no/static_files/DivvunInstaller.exe">Windows</a></li>
-
-        <li><a
-        href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">MacOS
-        X</a></li>
-      </ul>
-
-      <p>Information and details about installation, usage and known issues are
-      found in the <a
-      href="doc/proof/spelling/msoff/install_use.html">release notes</a>.</p>
-      </section>
-
-      <section>
-        <title>On CD</title>
+        <title>Without Internet?</title>
 
         <p>For users with slow or no access to Internet, it is possible to
         order a CD from the Norwegian Sámi Parliament by calling: +47-78 48 42
         22.</p>
       </section>
-
-      <section>
-        <title>Hyphenation for InDesign</title>
-
-        <p>Hyphenation modules for Adobe InDesign CS3 are now available (only
-        Mac versions at the moment - Windows versions will come a little
-        later):</p>
-
-        <ul>
-          <li><a
-          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">Divvun
-          for InDesign CS3</a> - Mac</li>
-        </ul>
-
-        <p>More information about installation and usage in InDesign can be
-        found on <a href="/doc/proof/hyph/InDesign/index.html">a page of its
-        own</a>.</p>
-      </section>
     </section>
-
-    <section>
-      <title>What is Divvun?</title>
-
-      <p>Divvun is a project run by the Sámi Parliament in order to make spell
-      checkers for the Sámi languages. In the first phase of the project this
-      means spell checkers and hyphenation for Northern and Lule Sámi. The
-      tools work on Windows, Linux and Mac, with the usual office environment
-      programs.</p>
-    </section>
-
-    <section>
-      <title>Finished products</title>
-
-      <p>The final proofing tools are available free of charge by downloading
-      from the project home page. The downloads are traditional installers
-      that install the proofing tools easily on the users' computers. The
-      proofing tools work the same way as proofing tools for other languages.
-      The Norwegian Sámi Parliament and the University of Tromsø retain the
-      rights to most of the produced software, together with the copyright
-      holders of whatever is included. All interested parties can both use the
-      software and download the source code free of charge (only our source
-      code).</p>
-
-      <table>
-        <caption>Overview over available and coming products</caption>
-
-        <tr>
-          <th>Program/OS</th>
-
-          <th>Spell checker</th>
-
-          <th>Hyphenation</th>
-        </tr>
-
-        <tr>
-          <td>MS Office/Win</td>
-
-          <td><a
-          href="http://www.divvun.no/DivvunInstaller.exe">Available</a></td>
-
-          <td>Is installed together with the spell checker</td>
-        </tr>
-
-        <tr>
-          <td>MS Office/Mac</td>
-
-          <td><a
-          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Available</a></td>
-
-          <td>Is installed together with the spell checker</td>
-        </tr>
-
-        <tr>
-          <td>InDesign CS3</td>
-
-          <td>x</td>
-
-          <td><a
-          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">Official
-          version 1.0 is available</a></td>
-        </tr>
-
-        <tr>
-          <td>OpenOffice/Win</td>
-
-          <td>x</td>
-
-          <td>x</td>
-        </tr>
-
-        <tr>
-          <td>OpenOffice/Mac</td>
-
-          <td>x</td>
-
-          <td>x</td>
-        </tr>
-
-        <tr>
-          <td>OpenOffice/Linux</td>
-
-          <td>x</td>
-
-          <td>x</td>
-        </tr>
-      </table>
 
       <section>
         <title>Source code and documentation</title>
@@ -156,7 +122,8 @@
         <section>
           <title>Anonymous cvs</title>
 
-          <p>The source code to this project is open source, and it is
+          <p>The source code for this project belonging to the Norwegian Sámi
+          Parliament and/or the University of Tromsø is open source, and is
           available through <a href="doc/infra/anonymous-cvs.html">anonymous
           cvs</a>. We have also written a document on how to <a
           href="doc/intro.html">find your way</a> through the source code.</p>
@@ -174,7 +141,6 @@
           navigate through it with a web browser.</p>
         </section>
       </section>
-    </section>
 
     <section>
       <title>Useful links</title>

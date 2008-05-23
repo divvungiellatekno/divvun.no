@@ -36,7 +36,8 @@
           href="http://www.divvun.no/static_files/DivvunInstaller.exe">1.0.1</a></td>
 
           <td rowspan="2"><a
-          href="doc/proof/spelling/msoff/install_use.html">Dokumentašuvdna</a><a
+          href="doc/proof/spelling/msoff/install_use.html">Dokumentašuvdna</a> –
+          <a
           href="doc/proof/spelling/msoff/changes.html">veršunhistorjá</a></td>
         </tr>
 
@@ -88,7 +89,7 @@
         </tr>
 
         <tr>
-          <td>Hunspell-kompatibel</td>
+          <td><a href="http://hunspell.sourceforge.net/">Hunspell</a>-kompatibel</td>
 
           <td>visot</td>
 
