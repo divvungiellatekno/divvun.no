@@ -599,7 +599,9 @@
             <td><xsl:value-of select="edit_dist"/></td>
           </xsl:if>
           <xsl:if test="suggestions/@count > 0 or
-                        ($testtype = 'regression' and $type != 'fn')">
+                        ($testtype = 'regression' and
+                         $type != 'fn' and
+                         suggestions/@count > 0 )">
             <td>
               <xsl:apply-templates select="suggestions"/>
             </td>
