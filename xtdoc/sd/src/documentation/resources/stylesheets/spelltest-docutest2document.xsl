@@ -8,7 +8,11 @@
 <xsl:stylesheet
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:i18n="http://apache.org/cocoon/i18n/2.1"
+  exclude-result-prefixes="i18n"
   version="1.0">
+
+  <xsl:output doctype-public="-//APACHE//DTD Documentation V2.0//EN"/>
+  <xsl:output doctype-system="http://forrest.apache.org/dtd/document-v20.dtd"/>
 
   <xsl:param name="testlang"/>
   <xsl:param name="testtype"/>
@@ -410,7 +414,7 @@
          to Word, and see if you get any red underlines. Duplicate words are not
          repeated, unless one is followed by some punctuation. The words are
          reverse sorted according to Unicode character code.</p>
-      <p>
+      <p id="truenegatives">
         <xsl:apply-templates select="word[status='SplCor'][not(expected)]">
           <xsl:sort select="original" order="descending" />
           <xsl:with-param name="type" select="'tn'"/>
@@ -536,7 +540,8 @@
       </section>
     </xsl:if>
 
-    <xsl:if test="$testtype = 'regression' ">
+    <xsl:if test="$testtype = 'regression' and
+                  count(word[not(bug)]) > 0">
       <section>
         <title>Testpairs not in bugs</title>
           <table>
