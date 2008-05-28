@@ -109,11 +109,19 @@
             <xsl:otherwise>Unknown</xsl:otherwise>
           </xsl:choose>
         </p>
+        <p>Speller tool version:
+          <xsl:choose>
+            <xsl:when test="tool/@toolversion = ''">Unknown</xsl:when>
+            <xsl:otherwise>
+              <strong><xsl:value-of select="tool/@toolversion"/></strong>
+            </xsl:otherwise>
+          </xsl:choose>
+        </p>
         <p>Speller lexicon version:
           <xsl:choose>
             <xsl:when test="tool/@version = ''">Unknown</xsl:when>
             <xsl:otherwise>
-              <strong><xsl:value-of select="tool/@version"/></strong>
+              <strong><xsl:value-of select="tool/@lexversion"/></strong>
             </xsl:otherwise>
           </xsl:choose>
         </p>
