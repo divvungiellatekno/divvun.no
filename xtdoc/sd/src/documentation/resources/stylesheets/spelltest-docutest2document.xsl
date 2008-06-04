@@ -11,9 +11,6 @@
   exclude-result-prefixes="i18n"
   version="1.0">
 
-  <xsl:output doctype-public="-//APACHE//DTD Documentation V2.0//EN"/>
-  <xsl:output doctype-system="http://forrest.apache.org/dtd/document-v20.dtd"/>
-
   <xsl:param name="testlang"/>
   <xsl:param name="testtype"/>
   <xsl:param name="toplimit">5</xsl:param>
@@ -615,6 +612,8 @@
                         ($testtype = 'regression' and
                          $type != 'fn' and
                          suggestions/@count > 0 )">
+                         <!-- One more test here - now it skips no-bugged cases without suggs., instead 
+                              the cell should be empty. -->
             <td>
               <xsl:apply-templates select="suggestions"/>
             </td>
