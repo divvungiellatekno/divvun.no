@@ -6,114 +6,125 @@
     <title>Divvun - saamen kielen oikolukuväline</title>
   </header>
   <body>
+    <p>Divvun on Norjan saamelaiskäräjien alaisuudessa toimiva projekti,
+    jonka tarkoituksena on tuottaa oikoluku- ja tavutusohjelmia pohjois-,
+    luulajan- ja eteläsaamen kielille. Ohjelmat toimivat Linux (pian
+    saatavilla), MacOS X ja Windows käyttöjärjestelmien yleisimmissä
+    toimisto-ohjelmissa. Valmiit oikolukuohjelmat löytyvät pohjois- ja
+    luulajansaamen kielille ja eteläsaamenkielinen oikolukuohjelma on
+    valmisteilla niin kutsutussa Divvun II -projektissa.</p>
     <section>
-      <title>Valmiit oikolukuohjelmat ovat saatavilla!</title>
-      <p>
-        12. joulukuuta lähtien on saatavilla ensimmäinen valmis versio saamen oikolukuohjelmista. Tämä on historiallinen hetki saamelaisen tietotekniikan aikakaudella ja tärkeä virstanpylväs työssä saamen kielen käyttämiseksi nykyaikaisessa yhteiskunnassa.</p>
-          <section>
-            <title>Versio 1.0.1</title>
-            <p>Lista muutoksista jotka on tehty ohjelman/tavuttimen edellisiin
-            versioihin löytyy kohdasta <a
-            href="doc/proof/spelling/msoff/changes.html">versiohistoria</a>
-            (vain englanniksi). Ohjelmat <strong>Microsoft Office</strong>:lle
-            ovat ladattavissa täältä:
-      </p>
-       
-      <ul>
-        <li>
-        	<a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Windows</a></li>
-        <li><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">MacOS X</a></li>
-      </ul>
-      <p>
-        Lisätietoa ja yksityskohtia asennuksesta, käytöstä ja tiedossa olevista ongelmista löytyy <a
-        href="doc/proof/spelling/msoff/install_use.html">täältä</a>.
-      </p>
-          </section>
+      <title>Valmiit oikolukuohjelmat</title>
+
+      <p>Valmiit oikolukuohjelmat ovat saatavilla ilmaiseksi alla olevista
+      linkeistä. Linkkiä klikkaamalla tietokoneelle latautuu asennusohjelma,
+      jonka avulla oikolukuohjelman voi helposti asentaa. Oikolukuohjelmat
+      toimivat samalla tavalla kuin muiden kielien oikolukuohjelmat..<p/>
+
+      <table>
+        <caption>Valmiit ja tulevat (x) tuotteet</caption>
+
+        <tr>
+          <th>Ohjelma</th>
+
+          <th>Käyttöjärjestelmä</th>
+
+          <th>Latauslinkki</th>
+
+          <th>Lisätietoja</th>
+        </tr>
+
+        <tr>
+          <td rowspan="2">MS Office</td>
+
+          <td>Windows</td>
+
+          <td><a
+          href="http://www.divvun.no/static_files/DivvunInstaller.exe">1.0.1</a></td>
+
+          <td rowspan="2"><a
+          href="doc/proof/spelling/msoff/install_use.fi.html">Julkaisutiedot</a> –
+          <a
+          href="doc/proof/spelling/msoff/changes.html">Versiohistoria</a></td>
+        </tr>
+
+        <tr>
+          <td>MacOS X</td>
+
+          <td><a
+          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">1.0.1</a></td>
+        </tr>
+
+        <tr>
+          <td rowspan="2">InDesign CS3</td>
+
+          <td>MacOS X</td>
+
+          <td><a
+          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">1.0</a></td>
+
+          <td rowspan="2"><a
+          href="/doc/proof/hyph/InDesign/index.html">Julkaisutiedot</a></td>
+        </tr>
+
+        <tr>
+          <td>Windows</td>
+
+          <td>(tulossa)</td>
+        </tr>
+
+        <tr>
+          <td rowspan="3">OpenOffice.org</td>
+
+          <td>Windows</td>
+
+          <td>(tulossa)</td>
+
+          <td rowspan="4">x</td>
+        </tr>
+
+        <tr>
+          <td>MacOS X</td>
+
+          <td>(tulossa)</td>
+        </tr>
+
+        <tr>
+          <td>Linux</td>
+
+          <td>(tulossa)</td>
+        </tr>
+
+        <tr>
+          <td>any <a href="http://hunspell.sourceforge.net/">Hunspell</a><br/>
+          yhteensopiva ohjelma</td>
+
+          <td>all</td>
+
+          <td>(tulossa)</td>
+        </tr>
+      </table>
+
           <section>
             <title>Divvun saatavilla myös CD:nä</title>
             <p>
-              Käyttäjät, joilla on hidas internet-yhteys tai ei lainkaan yhteyttä, voivat tilata CD:n Norjan Saamelaiskäräjiltä, puh. +47-78 48 42 22.
+              Käyttäjät, joilla on hidas internet-yhteys tai ei lainkaan
+              yhteyttä, voivat tilata CD:n Norjan Saamelaiskäräjiltä, puh.
+              +47-78 48 42 22.
             </p>
           </section>
-          
-      <section>
-               <title>Tavutusohjelma InDesign:lle</title>
-
-        <p>Tavutusohjelmat Adobe InDesign CS3:lle ovat nyt saatavilla (nyt aluksi vain Mac-versiona - Windows-versio tulee hieman myöhemmin):</p>
-
-        <ul>
-          <li><a
-          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">Divvun
-            InDesign CS3:lle</a> - Mac</li>
-        </ul>
-
-        <p>Lisätietoa ohjelmien asennuksesta ja käytöstä InDesign-ohjelmassa löytyy <a
-        href="/doc/proof/hyph/InDesign/index.html">täältä</a> (vain englanniksi).</p>
       </section>
 
-         </section>
-    <section>
-      <title>Mikä Divvun on?</title>
-      <p>
-        Divvun on Norjan saamelaiskäräjien rahoittama projekti, jonka tarkoituksena on tuottaa saamen kielen oikolukuohjelma. Tämän projektin ensimmäinen tavoite on tuottaa oikoluku- ja tavutusohjelma pohjois- ja luulajansaamelle (<a href="sma-background.nb.html">norjaksi</a> tai <a href="sma-background.se.html">saameksi</a>). Ohjelmat tulevat toimimaan Windowsin, Linuxin ja Macin tavallisimmissa toimisto-ohjelmissa.
-      </p>
-    </section>
-    <section>
-      <title>Valmiit oikolukuohjelmat</title>
-      <p>
-         Valmiit oikolukuohjelmat ovat vapaasti saatavilla projektin kotisivuilla olevan latausohjelman muodossa, ja se on helppo ladata omalle tietokoneelle. Ohjelmat toimivat samalla tavalla kuin muidenkin kielten  vastaavat ohjelmat. Saamelaiskäräjät ja Tromssan yliopisto pidättävät oikeudet useisiin ohjelmiin, mutta sallivat kaikkien asiasta kiinnostuneiden käyttää sekä ohjelmia että lähdekoodia korvauksetta (tämä koskee vain meidän omaa lähdekoodia).
-      </p>
-      <table>
-        <caption>Taulukko valmiista ja suunnitelluista (x) tuotteista</caption>
-        <tr>
-          <th>Ohjelma/Käyttöjärjestelmä</th>
-          <th>Oikolukuohjelma</th>
-          <th>Tavutus</th>
-        </tr>
-        <tr>
-          <td>MS Office/Win</td>
-          <td><a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Saatavilla</a></td>
-          <td>Asennetaan yhdessä oikolukuohjelman kanssa</td>
-        </tr>
-        <tr>
-          <td>MS Office/Mac</td>
-          <td><a href="http://www.divvun.no/static_files/sami-proofing-tools-20070529.dmg">Saatavilla</a></td>
-                  <td>Asennetaan yhdessä oikolukuohjelman kanssa</td>
-				</tr>
-				<tr>
-					<td>InDesign CS3</td>
-					<td>x</td>
-					<td><a
-          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">Virallinen
-          versio 1.0 on saatavilla</a></td>
-				</tr>
-        <tr>
-          <td>OpenOffice/Win</td>
-          <td>x</td>
-          <td>x</td>
-        </tr>
-        <tr>
-          <td>OpenOffice/Mac</td>
-          <td>x</td>
-          <td>x</td>
-        </tr>
-        <tr>
-          <td>OpenOffice/Linux</td>
-          <td>x</td>
-          <td>x</td>
-        </tr>
-      </table>
-    </section>
-        <section>
+      <section>
         <title>Lähdekoodi ja dokumentaatio</title>
         <section>
             <title>Anonyymi cvs</title>
             <p>
-            	   Projektin lähdekoodi on avoin ja se on saatavilla 
+            	   Projektin lähdekoodi on avoin ja se on saatavilla
             	   <a href="doc/infra/anonymous-cvs.html">anonyymin cvs</a> -tunnuksen kautta. Olemme myös kirjoittaneet dokumentin, kuinka <a href="doc/intro.html">lähdekoodia</a> luetaan.
             </p>
         </section>
-        
+
         <section>
             <title>Lataa dokumentaatio</title>
             <p>
@@ -122,7 +133,7 @@
                 <a href="doc/infra/anonymous-cvs.html">anonyymin cvs:n</a> ohjeita. Asenna sen jälkeen <a href="doc/infra/forrest-howto.html">forrest</a>. Tämän jälkeen kaikki dokumentit löytyvät omalta tietokoneeltasi ja voit selata niitä selainohjelmalla.
              </p>
         </section>
-        
+
     </section>
 
     <section>
