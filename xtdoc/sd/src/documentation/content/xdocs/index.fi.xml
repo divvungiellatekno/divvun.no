@@ -67,7 +67,7 @@
         </tr>
 
         <tr>
-          <td rowspan="3">OpenOffice.org</td>
+          <td rowspan="2">OpenOffice.org 2.4+</td>
           <td>Windows</td>
           <td>(tulossa)</td>
           <td rowspan="4">x</td>
@@ -79,20 +79,23 @@
         </tr>
 
         <tr>
+          <td>OpenOffice.org 2.4+ &amp; <a
+           href="http://hunspell.sourceforge.net/">Hunspell</a>-<br/>
+          yhteensopiva ohjelma</td>
           <td>Linux</td>
           <td>(tulossa)</td>
         </tr>
 
         <tr>
-          <td>any <a href="http://hunspell.sourceforge.net/">Hunspell</a><br/>
+          <td><a href="http://hunspell.sourceforge.net/">Hunspell-</a><br/>
           yhteensopiva ohjelma</td>
-          <td>all</td>
+          <td>Windows, MacOS X</td>
           <td>(tulossa)</td>
         </tr>
       </table>
 
           <section>
-            <title>Divvun saatavilla myös CD:nä</title>
+            <title>Ilman internetiä?</title>
             <p>
               Käyttäjät, joilla on hidas internet-yhteys tai ei lainkaan
               yhteyttä, voivat tilata CD:n Norjan Saamelaiskäräjiltä, puh.

@@ -37,12 +37,10 @@
 
         <tr>
           <td rowspan="2">MS Office</td>
-
           <td>Windows</td>
-
           <td><a
-          href="http://www.divvun.no/static_files/DivvunInstaller.exe">1.0.1</a></td>
-
+          href="http://www.divvun.no/static_files/DivvunInstaller.exe"
+          >1.0.1</a></td>
           <td rowspan="2"><a
           href="doc/proof/spelling/msoff/install_use.html">Slippnotater</a><a
           href="doc/proof/spelling/msoff/changes.html">versjonshistorie</a></td>
@@ -50,57 +48,50 @@
 
         <tr>
           <td>MacOS X</td>
-
           <td><a
-          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">1.0.1</a></td>
+          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg"
+          >1.0.1</a></td>
         </tr>
 
         <tr>
           <td rowspan="2">InDesign CS3</td>
-
           <td>MacOS X</td>
-
           <td><a
-          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">1.0</a></td>
-
+          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg"
+          >1.0</a></td>
           <td rowspan="2"><a
           href="/doc/proof/hyph/InDesign/index.html">Slippnotater</a></td>
         </tr>
 
         <tr>
           <td>Windows</td>
-
           <td>(kommer snart)</td>
         </tr>
 
         <tr>
-          <td rowspan="3">OpenOffice.org</td>
-
+          <td rowspan="2">OpenOffice.org 2.4+</td>
           <td>Windows</td>
-
           <td>(kommer snart)</td>
-
           <td rowspan="4">x</td>
         </tr>
 
         <tr>
           <td>MacOS X</td>
-
           <td>(kommer snart)</td>
         </tr>
 
         <tr>
+          <td>OpenOffice.org 2.4+ &amp; <br/><a
+           href="http://hunspell.sourceforge.net/"
+          >Hunspell</a>-kompatible program</td>
           <td>Linux</td>
-
           <td>(kommer snart)</td>
         </tr>
 
         <tr>
           <td>alle <a href="http://hunspell.sourceforge.net/"
           >Hunspell</a>-kompatible program</td>
-
-          <td>alle</td>
-
+          <td>Windows, MacOS X</td>
           <td>(kommer snart)</td>
         </tr>
       </table>
