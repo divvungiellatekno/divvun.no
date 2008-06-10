@@ -63,19 +63,14 @@
 
         <tr>
           <td>Windows</td>
-          <td>(tulossa)</td>
+          <td></td>
         </tr>
 
         <tr>
-          <td rowspan="2">OpenOffice.org 2.4+</td>
-          <td>Windows</td>
-          <td>(tulossa)</td>
-          <td rowspan="4">x</td>
-        </tr>
-
-        <tr>
-          <td>MacOS X</td>
-          <td>(tulossa)</td>
+          <td>OpenOffice.org 2.4+</td>
+          <td>Windows, MacOS X, Linux, Solaris</td>
+          <td><a href="http://www.divvun.no/static_files/se-pack.zip">1.0beta1</a></td>
+          <td><a href="doc/proof/spelling/X-spell/install_use.html">Installation and usage</a></td>
         </tr>
 
         <tr>
@@ -83,7 +78,8 @@
            href="http://hunspell.sourceforge.net/">Hunspell</a>-<br/>
           yhteensopiva ohjelma</td>
           <td>Linux</td>
-          <td>(tulossa)</td>
+          <td><a href="http://www.divvun.no/static_files/se-pack.zip">1.0beta1</a></td>
+	  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Installation</a></td>
         </tr>
 
         <tr>
@@ -91,6 +87,7 @@
           yhteensopiva ohjelma</td>
           <td>Windows, MacOS X</td>
           <td>(tulossa)</td>
+	  <td>x</td>
         </tr>
       </table>
 

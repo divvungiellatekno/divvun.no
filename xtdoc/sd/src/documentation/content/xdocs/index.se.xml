@@ -60,22 +60,18 @@
         </tr>
 
         <tr>
-          <td rowspan="2">OpenOffice.org 2.4+</td>
-          <td>Windows</td>
-          <td>(boahtá hede)</td>
-          <td rowspan="4">x</td>
-        </tr>
-
-        <tr>
-          <td>MacOS X</td>
-          <td>(boahtá hede)</td>
+          <td>OpenOffice.org 2.4+</td>
+          <td>Windows, MacOS X, Linux, Solaris</td>
+          <td><a href="http://www.divvun.no/static_files/se-pack.zip">1.0beta1</a></td>
+          <td><a href="doc/proof/spelling/X-spell/install_use.html">Sajáiduhttin ja geavaheapmi</a></td>
         </tr>
 
         <tr>
           <td>OpenOffice.org 2.4+ &amp; <br/><a
            href="http://hunspell.sourceforge.net/">Hunspell</a>-kompatibel</td>
           <td>Linux</td>
-          <td>(boahtá hede)</td>
+          <td><a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">1.0beta1</a></td>
+	  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Sajáiduhttin</a></td>
         </tr>
 
         <tr>
@@ -83,6 +79,7 @@
            href="http://hunspell.sourceforge.net/">Hunspell</a>-kompatibel</td>
           <td>Windows, MacOS X</td>
           <td>(boahtá hede)</td>
+	  <td>x</td>
         </tr>
       </table>
 
