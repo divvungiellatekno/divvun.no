@@ -27,8 +27,8 @@
                label="Prošeavtta plánat" />
     <spelling description="Mo reaiddut ráhkaduvvot" href="howmake.html"
               label="Mo reaiddut ráhkaduvvojit" />
-    <matta description="Manne máttasámegiella ii leat oassi prošeavttas"
-           href="sma-background.html" label="Máttasámegiella" />
+    <!--matta description="Manne máttasámegiella ii leat oassi prošeavttas"
+           href="sma-background.html" label="Máttasámegiella" /-->
     <downloads description="Download files from divvun.no" href="downloads.html"
                label="Downloads" />
     <pr href="pr/" label="Preassadieđáhusat">
