@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="nb">
+<document xml:lang="se">
   <header>
     <title>Divvun - sámi čállindárkkistanreaiddut</title>
   </header>
 
   <body>
-    <p>Divvun-prošeakta gullo Norgga Sámediggái ja ráhkada sámi čállindárkkistanreaidduid; davvi-, julev- ja orjješsámi riektačállin- ja sátnejuohkinprográmmaid. Reaiddut doibmet Linuxis (boahtá hede), MacOS X:s ja Windowsis dábálaččamus kontorprográmmain. Davvi- ja julevsámi reaiddut juo leat válbmasat ja orjješsámi reaidduiguin leat dál bargame Divvun II-prošeavttas.</p>
+    <p>Divvun-prošeakta gullo Norgga Sámediggái ja ráhkada sámi čállindárkkistanreaidduid; davvi-, julev- ja orjješsámi čállindárkkistan- ja sátnejuohkinprográmmaid. Reaiddut doibmet Linuxis, MacOS X:s ja Windowsis dábálaččamus kontorprográmmain. Davvi- ja julevsámi reaiddut juo leat válbmasat ja orjješsámi reaidduiguin leat dál bargame Divvun II-prošeavttas.</p>
 
     <section>
       <title>Válmmas reaiddut</title>
 
-      <p>Reaidduid oažžu nuvttá viežžat vuollelis. Dat biddjojit álkes vuogi mielde dihtorii vásedin installašunprográmmain. Reaiddut doibmet seamma ládje dego vaikko mat iežá giela reaiddut.</p>
+      <p>Reaidduid oažžu nuvttá viežžat vuollelis. Dat biddjojit álkes vuogi mielde dihtorii vásedin sajáiduhttinprográmmain. Reaiddut doibmet seamma ládje dego vaikko mat iežá giela reaiddut.</p>
 
       <table>
         <caption>Tabealla válmmas ja boahtti (x) buktagiin</caption>
@@ -103,7 +103,7 @@
         <title>Lohkat dokumeanttašuvnna iežas PC:s</title>
 
         <p>Visot dokumeanttašuvdna dán prošeavtta birra gávdná <a
-        href="http://divvun.no">projeavtta heaibmasiiddus</a>. Jos siđat dán dokumeanttašuvnna iežat dihtorii, čuovo dán bagadusa: <a href="doc/infra/anonymous-cvs.html">anonym cvs</a>, ja mana dasto deike: <a href="doc/infra/forrest-howto.html">forrest installašuvdna</a>. De lea visot dokumentašuvdna du dihtoris, ja oaččut navigeret das web-browseriin Internet haga.</p>
+        href="http://divvun.no">prošeavtta heaibmasiiddus</a>. Jos siđat dán dokumeanttašuvnna iežat dihtorii, čuovo dán bagadusa: <a href="doc/infra/anonymous-cvs.html">anonym cvs</a>, ja mana dasto deike: <a href="doc/infra/forrest-howto.html">forrest sajáiduhttin</a>. De lea visot dokumentašuvdna du dihtoris, ja oaččut navigeret das web-browseriin Internet haga.</p>
       </section>
     </section>
 
