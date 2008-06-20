@@ -31,6 +31,8 @@
            href="sma-background.html" label="Máttasámegiella" /-->
     <downloads description="Download files from divvun.no" href="downloads.html"
                label="Downloads" />
+    
+    <upload href="upload/upload_corpus_file.html" description="Dás sáhtát sáddet midjiide fiillaid" label="Sáddes fiillaid midjiide" />
     <pr href="pr/" label="Preassadieđáhusat">
 	    <pr1 description="divvun.no almmuhus"
 		 href="pressrelease-20050613.html" label="PRD: 2005.06.13" />
@@ -39,7 +41,10 @@
 		 <pr3 description="reaidduid almmuhus"
 		 href="pressrelease-20071210.html" label="PRD: 2007.12.10" />
     </pr>
-    <upload href="upload/upload_corpus_file.html" description="Dás sáhtát sáddet midjiide fiillaid" label="Sáddes fiillaid midjiide" />
+    <svn label="Subversion">
+	<svn1 href="doc/infra/setup-svn.html" label="Setup svn" />
+	<svn2 href="doc/tools/docu-svn-user.html" label="Howto use SVN" />
+    </svn>
     <!-- Commented these out, as it will bring a lot of load on the server if these are used.
 	        <all_site label="Full HTML" href="wholesite.html"/>    
 		<all_sitePDF label="Full PDF" href="wholesite.pdf"/>  
