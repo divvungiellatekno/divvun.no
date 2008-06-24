@@ -44,6 +44,7 @@
     <svn label="Subversion">
 	<svn1 href="doc/infra/setup-svn.html" label="Setup svn" />
 	<svn2 href="doc/tools/docu-svn-user.html" label="Howto use SVN" />
+	<svn3 href="doc/infra/system/addsvn-users.html" label="Admin svn users" />
     </svn>
     <!-- Commented these out, as it will bring a lot of load on the server if these are used.
 	        <all_site label="Full HTML" href="wholesite.html"/>    
