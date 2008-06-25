@@ -167,6 +167,10 @@ dt {
   text-align: center;
 }
 
+#header .search-input {
+  padding: 10px 50px 0px 5px;
+}
+
 </css>
       </forrest:property>
     </forrest:contract>
