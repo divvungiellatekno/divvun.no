@@ -10,108 +10,108 @@
      +-->    
 
 <!-- DejaVu Sans starting here: -->
-    <font metrics-file="/Users/boerre/xtdoc/sd/src/documentation/resources/fonts/DejaVuSans.ttf.xml" 
-          kerning="yes" embed-file="/Library/Fonts/DejaVuSans.ttf">
+    <font metrics-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuSans.ttf.xml" 
+          kerning="yes" embed-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuSans.ttf">
       <font-triplet name="duravusans" style="normal" weight="normal"/>
       <font-triplet name="DejaVuSans,Book" style="normal" weight="normal"/>
     </font>
     
-    <font metrics-file="/Users/boerre/xtdoc/sd/src/documentation/resources/fonts/DejaVuSans-Bold.ttf.xml" 
-          kerning="yes" embed-file="/Library/Fonts/DejaVuSans-Bold.ttf">
+    <font metrics-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuSansBold.ttf.xml" 
+          kerning="yes" embed-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuSansBold.ttf">
       <font-triplet name="duravusans" style="normal" weight="bold"/>
       <font-triplet name="DejaVuSans,Bold" style="normal" weight="bold"/>
     </font>
     
-    <font metrics-file="/Users/boerre/xtdoc/sd/src/documentation/resources/fonts/DejaVuSans-BoldOblique.ttf.xml"
-          kerning="yes" embed-file="/Library/Fonts/DejaVuSans-BoldOblique.ttf">
+    <font metrics-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuSansBoldOblique.ttf.xml"
+          kerning="yes" embed-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuSansBoldOblique.ttf">
       <font-triplet name="duravusans" style="italic" weight="bold"/>
       <font-triplet name="DejaVuSans,BoldOblique" style="italic" weight="bold"/>
     </font>
     
-    <font metrics-file="/Users/boerre/xtdoc/sd/src/documentation/resources/fonts/DejaVuSans-Oblique.ttf.xml"
-          kerning="yes" embed-file="/Library/Fonts/DejaVuSans-Oblique.ttf">
+    <font metrics-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuSansOblique.ttf.xml"
+          kerning="yes" embed-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuSansOblique.ttf">
       <font-triplet name="duravusans" style="italic" weight="normal"/>
       <font-triplet name="DejaVuSans,Oblique" style="italic" weight="normal"/>
     </font>
     
 <!-- DejaVu Serif starting here: -->
-    <font metrics-file="/Users/boerre/xtdoc/sd/src/documentation/resources/fonts/DejaVuSerif.ttf.xml" 
-          kerning="yes" embed-file="/Library/Fonts/DejaVuSerif.ttf">
+    <font metrics-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuSerif.ttf.xml" 
+          kerning="yes" embed-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuSerif.ttf">
       <font-triplet name="duravuserif" style="normal" weight="normal"/>
       <font-triplet name="DejaVuSerif,Book" style="normal" weight="normal"/>
     </font>
     
-    <font metrics-file="/Users/boerre/xtdoc/sd/src/documentation/resources/fonts/DejaVuSerif-Bold.ttf.xml" 
-          kerning="yes" embed-file="/Library/Fonts/DejaVuSerif-Bold.ttf">
+    <font metrics-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuSerifBold.ttf.xml" 
+          kerning="yes" embed-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuSerifBold.ttf">
       <font-triplet name="duravuserif" style="normal" weight="bold"/>
       <font-triplet name="DejaVuSerif,Bold" style="normal" weight="bold"/>
     </font>
     
-    <font metrics-file="/Users/boerre/xtdoc/sd/src/documentation/resources/fonts/DejaVuSerif-BoldOblique.ttf.xml"
-          kerning="yes" embed-file="/Library/Fonts/DejaVuSerif-BoldOblique.ttf">
+    <font metrics-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuSerifBoldItalic.ttf.xml"
+          kerning="yes" embed-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuSerifBoldItalic.ttf">
       <font-triplet name="duravuserif" style="italic" weight="bold"/>
       <font-triplet name="DejaVuSerif,BoldOblique" style="italic" weight="bold"/>
     </font>
     
-    <font metrics-file="/Users/boerre/xtdoc/sd/src/documentation/resources/fonts/DejaVuSerif-Oblique.ttf.xml"
-          kerning="yes" embed-file="/Library/Fonts/DejaVuSerif-Oblique.ttf">
+    <font metrics-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuSerifItalic.ttf.xml"
+          kerning="yes" embed-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuSerifItalic.ttf">
       <font-triplet name="duravuserif" style="italic" weight="normal"/>
       <font-triplet name="DejaVuSerif,Oblique" style="italic" weight="normal"/>
     </font>
     
 <!-- DejaVu SansMono starting here: -->
-    <font metrics-file="/Users/boerre/xtdoc/sd/src/documentation/resources/fonts/DejaVuSansMono.ttf.xml"
-          kerning="yes" embed-file="/Library/Fonts/DejaVuSansMono.ttf">
+    <font metrics-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuMonoSans.ttf.xml"
+          kerning="yes" embed-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuMonoSans.ttf">
       <font-triplet name="duravusansmono" style="normal" weight="normal"/>
       <font-triplet name="DejaVuSansMono,Book" style="normal" weight="normal"/>
     </font>
 
     <!-- DejaVu Sans Condensed starting here: -->
-    <font metrics-file="/Users/boerre/xtdoc/sd/src/documentation/resources/fonts/DejaVuSansCondensed.ttf.xml" 
-          kerning="yes" embed-file="/Library/Fonts/DejaVuSansCondensed.ttf">
+    <font metrics-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuCondensedSans.ttf.xml" 
+          kerning="yes" embed-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuCondensedSans.ttf">
         <font-triplet name="duravusanscondensed" style="normal" weight="normal"/>
         <font-triplet name="DejaVuSansCondensed,Book" style="normal" weight="normal"/>
     </font>
     
-    <font metrics-file="/Users/boerre/xtdoc/sd/src/documentation/resources/fonts/DejaVuSansCondensed-Bold.ttf.xml" 
-          kerning="yes" embed-file="/Library/Fonts/DejaVuSansCondensed-Bold.ttf">
+    <font metrics-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuCondensedSansBold.ttf.xml" 
+          kerning="yes" embed-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuCondensedSansBold.ttf">
         <font-triplet name="duravusanscondensed" style="normal" weight="bold"/>
         <font-triplet name="DejaVuSansCondensed,Bold" style="normal" weight="bold"/>
     </font>
     
-    <font metrics-file="/Users/boerre/xtdoc/sd/src/documentation/resources/fonts/DejaVuSansCondensed-BoldOblique.ttf.xml"
-          kerning="yes" embed-file="/Library/Fonts/DejaVuSansCondensed-BoldOblique.ttf">
+    <font metrics-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuCondensedSansBoldOblique.ttf.xml"
+          kerning="yes" embed-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuCondensedSansBoldOblique.ttf">
         <font-triplet name="duravusanscondensed" style="italic" weight="bold"/>
         <font-triplet name="DejaVuSansCondensed,BoldOblique" style="italic" weight="bold"/>
     </font>
     
-    <font metrics-file="/Users/boerre/xtdoc/sd/src/documentation/resources/fonts/DejaVuSansCondensed-Oblique.ttf.xml"
-          kerning="yes" embed-file="/Library/Fonts/DejaVuSansCondensed-Oblique.ttf">
+    <font metrics-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuCondensedSansOblique.ttf.xml"
+          kerning="yes" embed-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuCondensedSansOblique.ttf">
         <font-triplet name="duravusanscondensed" style="italic" weight="normal"/>
         <font-triplet name="DejaVuSansCondensed,Oblique" style="italic" weight="normal"/>
     </font>
     
     <!-- DejaVu Serif Condensed starting here: -->
-    <font metrics-file="/Users/boerre/xtdoc/sd/src/documentation/resources/fonts/DejaVuSerifCondensed.ttf.xml" 
-          kerning="yes" embed-file="/Library/Fonts/DejaVuSerifCondensed.ttf">
+    <font metrics-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuCondensedSerif.ttf.xml" 
+          kerning="yes" embed-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuCondensedSerif.ttf">
         <font-triplet name="duravuserifcondensed" style="normal" weight="normal"/>
         <font-triplet name="DejaVuSerifCondensed,Book" style="normal" weight="normal"/>
     </font>
     
-    <font metrics-file="/Users/boerre/xtdoc/sd/src/documentation/resources/fonts/DejaVuSerifCondensed-Bold.ttf.xml" 
-          kerning="yes" embed-file="/Library/Fonts/DejaVuSerifCondensed-Bold.ttf">
+    <font metrics-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuCondensedSerifBold.ttf.xml" 
+          kerning="yes" embed-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuCondensedSerifBold.ttf">
         <font-triplet name="duravuserifcondensed" style="normal" weight="bold"/>
         <font-triplet name="DejaVuSerifCondensed,Bold" style="normal" weight="bold"/>
     </font>
     
-    <font metrics-file="/Users/boerre/xtdoc/sd/src/documentation/resources/fonts/DejaVuSerifCondensed-BoldOblique.ttf.xml"
-          kerning="yes" embed-file="/Library/Fonts/DejaVuSerifCondensed-BoldOblique.ttf">
+    <font metrics-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuCondensedSerifBoldItalic.ttf.xml"
+          kerning="yes" embed-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuCondensedSerifBoldItalic.ttf">
         <font-triplet name="duravuserifcondensed" style="italic" weight="bold"/>
         <font-triplet name="DejaVuSerifCondensed,BoldOblique" style="italic" weight="bold"/>
     </font>
     
-    <font metrics-file="/Users/boerre/xtdoc/sd/src/documentation/resources/fonts/DejaVuSerifCondensed-Oblique.ttf.xml"
-          kerning="yes" embed-file="/Library/Fonts/DejaVuSerifCondensed-Oblique.ttf">
+    <font metrics-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuCondensedSerifItalic.ttf.xml"
+          kerning="yes" embed-file="file:///Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/DejaVuCondensedSerifItalic.ttf">
         <font-triplet name="duravuserifcondensed" style="italic" weight="normal"/>
         <font-triplet name="DejaVuSerifCondensed,Oblique" style="italic" weight="normal"/>
     </font>
