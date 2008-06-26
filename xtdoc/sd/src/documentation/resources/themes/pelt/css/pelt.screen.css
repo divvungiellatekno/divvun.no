@@ -165,7 +165,7 @@ table caption {
 }
 /* DUC - Formerly searchbox */
 #header .search-input {
-    padding: 5px 10px;
+    padding: 5px 50px 5px 10px;
 }
 
 #header .round-top-left-small {
