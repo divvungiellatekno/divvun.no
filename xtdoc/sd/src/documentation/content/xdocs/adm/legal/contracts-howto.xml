@@ -25,7 +25,7 @@
                    Fyll ut nødvendig info i kontraktene
                </li>
                <li>
-                   Send kontraktene til underskrift av alle parter. 
+                   Send kontraktene til underskrift av alle parter
                </li>
                <li>
                    Når alle interessenter har underskrevet kontrakten, send et eksemplar til alle interessentene
@@ -37,7 +37,7 @@
            <section>
                <title>Redigering av kontraktsmalen</title>
                <p>
-                   <a href="sd-contract.html">Kontraktsmalen</a> må fylles ut med relevant informasjon og bli skrevet ut av den enkelte medarbeider. For å kunne gjøre dette må man ha <a href="">installert og konfigurert forrest</a>.
+                   <a href="sd-contract.html">Kontraktsmalen</a> må fylles ut med relevant informasjon og bli skrevet ut av den enkelte medarbeider. For å kunne gjøre dette må man ha <a href="/doc/infra/forrest-howto.html">installert og konfigurert forrest</a>.
                </p>
                <p>
                    Malen er beregnet for et verk der en forfatter, en oversetter og et forlag har retter til verket. Den delen av malen som inneholder feltene der denne informasjon skal fylles i ser slik ut:
