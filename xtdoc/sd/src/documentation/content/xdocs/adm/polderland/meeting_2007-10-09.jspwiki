@@ -70,7 +70,7 @@ hrs of work. It would not be a ~Sami-specific change, but was not planned.
 | 455 | 446 | Mac uninstaller doesn't work if run by a non-admin => solved
 | 449 | 445 | suopmasápmelaš-type compounds accepted by the speller => limits of tagging /compounding mechanism reached
 | 480 | 455 | Speller suggestions not identical in context menu and dialog => MS word behaviour: sorting of same-penalty suggestions; => no plans to repair this one
-| 521 |     | Mac installer only works for admin accounts => 
+| 521 | xxx | Mac installer only works for admin accounts => 
 
 !To be solved in next drop
 ||Div ||Pld ||Description
@@ -80,7 +80,7 @@ hrs of work. It would not be a ~Sami-specific change, but was not planned.
 !Under investigation by Polderland
 ||Div ||Pld ||Description
 | 461 | 448 | Spelling errors with editing distance 1 from lexicalised words do not get correct suggestions => explanation not good enough, investigate more samples *** still investigating
-| 522 |     | Strange compounding fenomena
+| 522 | xxx | Strange compounding fenomena
 | 528 | xxx | Acro words get upper-case case endings
 | 533 | xxx | Office 2007 gives North Sámi suggs in context menu when language is Lule => Divvun will check with the ''Public beta 2''.
 
@@ -156,4 +156,4 @@ Next week (15.10.) at 13.00 Dutch/Norwegian time.
 * __PLD__ redrop Mac installer, correct version
 * __PLD__ provide information on InDesign language groouping
 * __Divvun__ investigate further the A+N compounds
-* __Divvun__ check bug {{#533}} with latest release
+* __Divvun__ check bug {{533}} with latest release

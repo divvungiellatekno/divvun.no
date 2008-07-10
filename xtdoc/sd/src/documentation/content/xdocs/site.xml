@@ -88,6 +88,8 @@
 
   <polderland href="adm/polderland/" label="Polderland" tab="polderland">
     <index    href="index.html" label="Overview" description="Overview of the cooperation documents" />
+    <x2008-06-25 href="meeting_2008-06-25.html" label="Jun 25" description="Meeting memo June      25, 2008" />
+    <x2008-06-10 href="meeting_2008-06-10.html" label="Jun 10" description="Meeting memo June      10, 2008" />
     <x2008-06-03 href="meeting_2008-06-03.html" label="Jun  3" description="Meeting memo June       3, 2008" />
     <x2008-05-27 href="meeting_2008-05-27.html" label="May 27" description="Meeting memo May       27, 2008" />
     <x2008-05-20 href="meeting_2008-05-20.html" label="May 20" description="Meeting memo May       20, 2008" />

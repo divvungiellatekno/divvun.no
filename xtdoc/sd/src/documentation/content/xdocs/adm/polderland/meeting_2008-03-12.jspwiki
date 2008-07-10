@@ -34,9 +34,6 @@ Participants:
 
 !!Bug status
 
-!Solved/cancelled
-||Div ||Pld ||Description
-
 !To be solved/investigated by Divvun
 ||Div ||Pld ||Description
 | 621 | xxx | other hyphenator bugs. PB: not as much incorrect as well as weird-looking.

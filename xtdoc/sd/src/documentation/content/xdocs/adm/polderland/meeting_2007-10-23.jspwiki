@@ -65,7 +65,7 @@ None since last meeting.
 !Under investigation by Polderland
 ||Div ||Pld ||Description
 | 461 | 448 | Spelling errors with editing distance 1 from lexicalised words do not get correct suggestions => explanation not good enough, investigate more samples *** still investigating
-| 522 |     | Strange compounding fenomena
+| 522 | xxx | Strange compounding fenomena
 | 528 | xxx | Acro words get upper-case case endings
 | 533 | xxx | Office 2007 gives North Sámi suggs in context menu when language is Lule => Divvun will check with the ''Public beta 2''.
 | 545 | xxx | Bad hyphenation in compounds - fence post errors?
@@ -114,4 +114,4 @@ Next week (30.10.) at 09.30 Dutch/Norwegian time.
           + instructions on how to use it (not in working order yet) - pending
 * __PLD__ provide information on InDesign language grouping
 * __PLD__ check: is mklex version G5 only, or universal binary?
-* __Divvun__ check bug {{#533}} with latest release
+* __Divvun__ check bug {{533}} with latest release

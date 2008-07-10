@@ -34,9 +34,6 @@ Next drops:
 
 !!Bug status
 
-!Solved/cancelled
-||Div ||Pld ||Description
-
 !To be solved by Divvun
 ||Div ||Pld ||Description
 | 614 | xxx | Rinta-aho not accepted but suggested. PB: lexcion contains three hyphens, speller doesn't know how to interpret that

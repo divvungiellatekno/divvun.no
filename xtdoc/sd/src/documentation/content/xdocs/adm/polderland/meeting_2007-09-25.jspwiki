@@ -71,8 +71,8 @@ Participants:
 ||Div ||Pld ||Description
 | 461 | 448 | Spelling errors with editing distance 1 from lexicalised words do not get correct suggestions => explanation not good enough, investigate more samples *** still investigating
 | 480 | 455 | Speller suggestions not identical in context menu and dialog => MS word behaviour: sorting of same-penalty suggestions; => no plans to repair this one
-| 521 |     | Mac installer only works for admin accounts => 
-| 522 |     | Strange compounding fenomena
+| 521 | xxx | Mac installer only works for admin accounts => 
+| 522 | xxx | Strange compounding fenomena
 
 !To be investigated by Divvun/Users
 ||Div ||Pld ||Description

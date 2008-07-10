@@ -21,7 +21,7 @@ Participants:
 * no response from MS on language codes for Mac yet
 * windows (2004, 2007) versions of spellers almost ready to be shipped 
 * mklex: works when all groups of words that start with same character
-  are < 2 GB, have to find work-around for hyphen and 'e'
+  are < 2 GB, have to find work-around for hyphen and ''e''
 
 
 !Divvun:

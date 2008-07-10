@@ -45,9 +45,6 @@ Still focussing on other tasks, will do Mac Office 2008 when SW from MS arrives
 | 630 | xxx | Word (prefix) with hyphen is rejected - and suggested
 | 652 | xxx | UPPERCASE-typos only get acronym-suggestions: VARI -> no sugg, vARI -> VÁRI as sugg; consequence of the sugg. mechanism, unresolvable
 
-!Under investigation by Polderland
-||Div ||Pld ||Description
-
 !!PLD Priority list
  
 # Proofing tools for Microsoft Office 2008 / Mac *** check locale issues
