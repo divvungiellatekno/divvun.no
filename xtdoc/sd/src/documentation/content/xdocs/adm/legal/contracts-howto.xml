@@ -170,11 +170,11 @@
                 <title>Lage liste over hvilke tekster kontrakten gjelder for</title>
                 <p>
                     Lag et dokument med en liste over hvilke tekster kontrakten gjelder for. Eksempelvis kan den se ut slik:
-                    <ul>
-                       <li>Sámi historjá 1800-1850, ISBN: 777-333-346</li>
-                       <li>Jovnnaš ja su ustibat, ISBN: 777-234-23423</li>
-                   </ul>
                 </p>
+		<ul>
+		    <li>Sámi historjá 1800-1850, ISBN: 777-333-346</li>
+		    <li>Jovnnaš ja su ustibat, ISBN: 777-234-23423</li>
+		</ul>
                 <p>
                     Skriv denne lista ut i like mange eksemplar som kontrakten ovenfor
                 </p>
