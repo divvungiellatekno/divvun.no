@@ -7,16 +7,16 @@ Participants:
 !!!Agenda
 
 * Since last time
-* Possible issues
+* Bug status
+* Priority list
 * Next meeting
-* Todo items for the next meeting
 
 !!!Since last time
 
 !!Polderland
 * InDesign Windows: on hold (cf Mac)
 * Mac Office 2008: dropped (have beta for icelandic too)
-* OpenOffice: depends on Papiamento (although - might create it anyway)
+* OpenOffice: depends on Papiamento (although - might create it anyway) =>
   Papiamento decision should be available by now - check
 * re-use Polderland knowledge: is your knowledge now
   (but maybe we should have told you a bit less:) - we'll be carefull;) :) )
@@ -34,24 +34,24 @@ Participants:
 * tested first drop of MS Office 2008 spellers, seems to be working fine (but
   more thorough testing needed)
 
-!!Bug status
+!!!Bug status
 
-!Solved/cancelled
+!!Solved/cancelled
 
 No new items.
 
-!To be solved/investigated by Divvun
+!!To be solved/investigated by Divvun
 ||Div ||Pld ||Description
 | 621 | xxx | other hyphenator bugs. PB: not as much incorrect as well as weird-looking.
 | 630 | xxx | Word (prefix) with hyphen is rejected - and suggested
 | 652 | xxx | UPPERCASE-typos only get acronym-suggestions: VARI -> no sugg, vARI -> VÁRI as sugg; consequence of the sugg. mechanism, unresolvable
 | 581 | xxx | consonant doubling => actual problem is suggestions with hyphens (split compound type); these can be blocked as suggestions, and thus be removed (they would still be recognised, though)
 
-!Under investigation by Polderland
+!!Under investigation by Polderland
 ||Div ||Pld ||Description
-| 645 | xxx | borgguhan-gihppagis gets the hyphen on the next line
+| 645 | xxx | borgguhan-gihppagis gets the hyphen on the next line
 
-!!Priority list
+!!!Priority list
  
 # Hyphenator for Microsoft Office 2008 / Mac
 # Installer for Microsoft Office 2008 / Mac
