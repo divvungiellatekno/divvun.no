@@ -107,7 +107,7 @@
             <title>Anonyymi cvs</title>
             <p>
             	   Projektin lähdekoodi on avoin ja se on saatavilla
-            	   <a href="doc/infra/anonymous-cvs.html">anonyymin cvs</a> -tunnuksen kautta. Olemme myös kirjoittaneet dokumentin, kuinka <a href="doc/intro.html">lähdekoodia</a> luetaan.
+            	   <a href="doc/infra/anonymous-svn.html">anonyymin svn</a> -tunnuksen kautta. Olemme myös kirjoittaneet dokumentin, kuinka <a href="doc/intro.html">lähdekoodia</a> luetaan.
             </p>
         </section>
 
@@ -116,7 +116,7 @@
             <p>
                 Tältä sivustolta löytyy projektin koko dokumentaatio. Jos
                 haluat ladata dokumentaation omalle tietokoneellesi, seuraa
-                <a href="doc/infra/anonymous-cvs.html">anonyymin cvs:n</a> ohjeita. Asenna sen jälkeen <a href="doc/infra/forrest-howto.html">forrest</a>. Tämän jälkeen kaikki dokumentit löytyvät omalta tietokoneeltasi ja voit selata niitä selainohjelmalla.
+                <a href="doc/infra/anonymous-svn.html">anonyymin svn:n</a> ohjeita. Asenna sen jälkeen <a href="doc/infra/forrest-howto.html">forrest</a>. Tämän jälkeen kaikki dokumentit löytyvät omalta tietokoneeltasi ja voit selata niitä selainohjelmalla.
              </p>
         </section>
 
