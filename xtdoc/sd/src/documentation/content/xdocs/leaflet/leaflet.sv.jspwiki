@@ -11,20 +11,20 @@ Divvun är ett rättstavningsverktyg på samiska som Sametinget i Norge i samarb
 För att installera Divvun kan man antingen ladda ner programmet från www.divvun.no eller installera det från en CD. Sätt in CDn, installationsprogrammet startar av sig själv. Ifall du laddar ner programmet måste du klicka på den nedladdad filen för att installeringen ska starta. 
 
 !Installation på Windows.
-# Välj installatinsspråk. (BILD : PC_02_Install_choose_language.bmp)
-# Forsätt med installationen. (BILD: PC_03_Install_start_a_cut.bmp)
-# Välj installationstyp, d.v.s. hela programmet. (BILD: PC_04_Install_choose_what_to_install.bmp)
-# Välj vad du ska installera, d.v.s. Saami spelling checker. (BILD: PC_05_Install_saami_spelling_checker.bmp)
-#  Börja installera programmet.  Installationen av programmet är nu klar(BILD:  PC_06_Start_to_install_saami.bmp)
-# För att kunna skriva med samiska bokstäver så måst du välja detta i kontrollpanelen. Där dubbelklickar du på ikonen datum, klockslag, språk och internationella inställningar. (BILD: PC_07_controlpanel_settings_date_clock.bmp)
-#  Nu är internationell inställningar. Här dubbelklickar du på ikonen inställningar för region och språk. (BILD : PC_08_Settings_language.bmp)
-# I denna box väljer du sedan fliken språk och trycker på knappen detaljer. (BILD : PC_09_Settings_language_details.bmp)
-# Här dubbelklickar du på lägg till. Nu kan du välja vilket språk du vill vill kunna skriva på. Här väljer du samiska. (BILD : PC_10_settings_choose_language.bmp). Nu kan du stänga alla fönster och gå tillbaks till skrivbordet.
+# Välj installatinsspråk. (BILD : PC_02_Install_choose_language_cut.png)
+# Forsätt med installationen. (BILD: PC_03_Install_start_a_cut.png)
+# Välj installationstyp, d.v.s. hela programmet. (BILD: PC_04_Install_choose_what_to_install_cut.png)
+# Välj vad du ska installera, d.v.s. Saami spelling checker. (BILD: PC_05_Install_saami_spelling_checker_cut.png)
+#  Börja installera programmet.  Installationen av programmet är nu klar(BILD:  PC_06_Start_to_install_saami_cut.png)
+# För att kunna skriva med samiska bokstäver så måst du välja detta i kontrollpanelen. Där dubbelklickar du på ikonen datum, klockslag, språk och internationella inställningar. (BILD: PC_07_controlpanel_settings_date_clock_cut.png)
+#  Nu är internationell inställningar. Här dubbelklickar du på ikonen inställningar för region och språk. (BILD : PC_08_Settings_language_cut.png)
+# I denna box väljer du sedan fliken språk och trycker på knappen detaljer. (BILD : PC_09_Settings_language_details_cut.png)
+# Här dubbelklickar du på lägg till. Nu kan du välja vilket språk du vill vill kunna skriva på. Här väljer du samiska. (BILD : PC_10_settings_choose_language_cut.png). Nu kan du stänga alla fönster och gå tillbaks till skrivbordet.
 
 !Användning på Windows
-# För att kunna skriva på samiska måste du välja det som skriftspråk, klicka på språkikonen ner i det högra hörnet på skrivbordet och välj vilket språk du ska skriva på. (BILD : PC_11_dashboard_choose language.bmp)
-# När du öppnat MS Office måste du även här välja skriftspråk. Klicka på fliken se igenom, välj där ange språk och välj samiska. (BILD :PC_12_MSOffice_choose_language.bmp)
-# Nu kan börja skriva på samiska och programmet hjälper dig att stava rätt. (BILD : PC_13_MSOffice_example.bmp)
+# För att kunna skriva på samiska måste du välja det som skriftspråk, klicka på språkikonen ner i det högra hörnet på skrivbordet och välj vilket språk du ska skriva på. (BILD : PC_11_dashboard_choose language_cut.png)
+# När du öppnat MS Office måste du även här välja skriftspråk. Klicka på fliken se igenom, välj där ange språk och välj samiska. (BILD :PC_12_MSOffice_choose_language_cut.png)
+# Nu kan börja skriva på samiska och programmet hjälper dig att stava rätt. (BILD : PC_13_MSOffice_example_cut.png)
 
 !Installation på MacOS
 
