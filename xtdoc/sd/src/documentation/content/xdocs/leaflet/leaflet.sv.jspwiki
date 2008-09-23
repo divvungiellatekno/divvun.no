@@ -73,33 +73,48 @@ För att kunna skriva på samiska måste du använda en samisk tangentbordsupps�
 # Klicka på __Internationellt__, eller skriv ett närliggande sökord i sökfältet:
   [Bild: Systeminställningar|guvvieh/Mac_06_Systemvalg.png]
 # Klicka på fliken __Indatameny__ och välj __Nordsamisk:__
-  [Bild: Välja samiskt tangentbord
+  [Bild: Lägga till samiskt tangentbord
   |guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk.png]
-# Välja samiskt tangentbord i menyn
+# Välj sedan samisk tangentbordsuppsättning i menyn till höger när du skall skriva samiska:
+  [Bild: Välja samiskt tangentbord för inskrivnging
+  |guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png]
 
 !Användning på Mac
-# När du öppnat MS Office måste du även här välja skriftspråk. Klicka på fliken
-  se igenom, välj där ange språk och välj samiska.
-  [Bild: |guvvieh/PC_12_MSOffice_choose_language_cut.png]
-# Nu kan börja skriva på samiska och programmet hjälper dig att stava rätt.
-  [Bild: |guvvieh/PC_13_MSOffice_example_cut.png]
-# Bild [guvvieh/Mac_08_MSOffice_tools_language.png]
-# Bild [guvvieh/Mac_09_MSoffice_spelling_example.png]
+När du öppnat MS Office måste du berätta för Office vilket språk texten är
+skriven på. Detta är lika för både MS Office 2004 och MS Office 2008.
+
+# Märk den samiska texten:
+  [Bild: |guvvieh/Mac_08_MSOffice_tools_language_a.png]
+# Gå til menyn __Tools > Language…__:
+  [Bild: |guvvieh/Mac_08_MSOffice_tools_language_b.png]
+# Välj språket __Katalanska__ (__Catalan__) för __nordsamiska__, eller språket __Baskiska__ (__Basque__) för __lulesamiska__[1]:
+  [Bild: |guvvieh/Mac_08_MSOffice_tools_language_c.png]
+# Om du skriver mycket på samiska, kan du göra samiska till förvalt språk för
+  nya dokumenter genom att klicka på knappen __Default…__ (förra bilden), och
+  sen klicka på knappen __Yes__:
+  [Bild: Vil du göra samiska till förvalt språk
+  |guvvieh/Mac_08_MSOffice_tools_language_d.png]
+# Nu kan du börja skriva på samiska…
+  [Bild: |guvvieh/Mac_09_MSoffice_spelling_example_a.png]
+  och programmet hjälper dig att stava rätt:
+  [Bild: |guvvieh/Mac_09_MSoffice_spelling_example_c.png]
 
 !!!Om programmet
-Divvun-programmet är ett rättstavningsprogram som funger med MS Office, InDesign och OpenOffice för att nämna några program. Programmet kan användas på olika operativsystem som Windows (XP och Vista), Mac (OS X) samt linux. Man kan alltså använda programmet på PC, Mac och linux/unix- datorer.
+Divvun-programmet är ett rättstavningsprogram som fungerar med MS Office, InDesign och OpenOffice för att nämna några program. Programmet kan användas på olika operativsystem som Windows (XP och Vista), Mac (OS X) samt Linux. Man kan alltså använda programmet på PC, Mac och linux/unix- datorer.
 
 !!!Texter
-För att programmet ska bli mera pålitligt och bättre behöver vi en så stor orddatabas som möjligt. Med detta menar vi att vi tar emot alla texter som finns på samiska. Det är väldigt bra om det finns en översatt parallelltext till den samiska texten på ett annat språk som norska, finska eller svenska för att nämna några exempel. Om ni vet om att Divvun-programmet markerar ett ord som felskrivet, fast ni vet att det är rättskrivet, så måste ni informera oss så att vi kan rätta till det. Ju fler ord vi får i vår orddatabas desto bättre och mer korrekt blir vårt rättstavningsprogram.
+För att programmet ska bli så pålitligt och bra som möjligt behöver vi en stor orddatabas. Med detta menar vi att vi tar emot alla texter som finns på samiska. Det är väldigt bra om det finns en översatt parallelltext till den samiska texten på ett annat språk som norska, finska eller svenska för att nämna några exempel. Om ni vet om att Divvun-programmet markerar ett ord som felskrivet, fast ni vet att det är rättskrivet, så måste ni informera oss så att vi kan rätta till det. Ju fler ord vi får i vår orddatabas desto bättre och mer korrekt blir vårt rättstavningsprogram.
 
-Vi tar emot alla texter. De behöver inte vara helt rättstavad, vi vill gärna ha felstavad texter också. På så sätt kan vi kontrollera att vårt rättstavningsprogram verkligen fungerar.
+Vi tar emot alla texter. De behöver inte vara rättstavade, vi vill gärna ha felstavade texter också. På så sätt kan vi kontrollera att vårt rättstavningsprogram verkligen fungerar.
 
 !!!Ordlista
 Det går att själv lägga till ord till ordlistan i MS Office. Ifall det är ett ord som inte Divvun-programmet känner igen kan ni alltså själva lägga in det i er egen ordlista. Ni kan därefter sända er egen ordlista som ni tagit fram genom att arbeta med Divvun till oss så kan vi lägga in den till nästa version av Divvun.
 
 !!!Skrivspråk eller dialekt
-Vi som utformar Divvun följer oss av språkrådets normeringar, vi tar inte ställning till om man ska kunna skriva på sin egen dialekt eller om det ska vara normerat skriftspråk. Det är upp till språkrådet att godkänna ord och verbböjningar,  om de är godkända av språkrådet så lägger vi in dessa i Divvun.
+Vi som utformar Divvun följer oss språkrådets normeringar, vi tar inte ställning till om man ska kunna skriva på sin egen dialekt eller om det ska vara normerat skriftspråk. Det är upp till språkrådet att godkänna ord och böjningar, om de är godkända av språkrådet så lägger vi in dessa i Divvun.
 
 !!!FAQ
 *Finns det en grammatikkontroll?
 *Godtar stavningskontrollen ord på min dialekt?
+
+[#1] Microsoft har tills vidare inte skapat stöd för samiska i MS Office för Mac, fast samma stöd finns för MS Office för Windows. Förhoppningsvis kommer framtida versioner av MS Office för Mac att innehålla detta stöd. I mellantiden måste samiska låtsas vara andra, i MS Office redan befintliga språk.
