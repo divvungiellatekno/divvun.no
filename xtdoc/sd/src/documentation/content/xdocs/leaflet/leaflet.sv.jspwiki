@@ -58,11 +58,26 @@ För att Divvun-verktygen skall kunna hjälpa dig, måste du berätta för dator
 
 !Installation på MacOS X
 
-# [Bild: |guvvieh/Mac_01_Installation_download.png]
-# [Bild: |guvvieh/Mac_02_installation_start.png]
-# [Bild: |guvvieh/Mac_03_Installation_continue.png]
-# [Bild: |guvvieh/Mac_04_installation_choose_where_to_install.png]
-# [Bild: |guvvieh/Mac_05_installation_install.png]
+# Lasta ned installationspaketet. Senaste officiella version hittar du alltid
+  [här|http://www.divvun.no/static_files/sami-proofing-tools.dmg].
+  [Bild: |guvvieh/Mac_01_Installation_download.png]
+# När nedlastningen är klar, öppnas ett fönster på ditt skrivbord - dubbeltklicka på
+  installationspaketet:
+  [Bild: |guvvieh/Mac_01_Installation_download_finished.png]
+# Installationspaketet visar en kort välkomsttext:
+  [Bild: |guvvieh/Mac_02_installation_start.png]
+# Svara __Fortsätt__ på frågan om du vil fortsätta installationen — detta är en säker installation:
+  [Bild: |guvvieh/Mac_03_Installation_continue.png]
+# I fall du frågas om mål för installationen, väljer du startvolymen:
+  [Bild: |guvvieh/Mac_04_installation_choose_where_to_install.png]
+# Sen är du klar för själva installationen:
+  [Bild: |guvvieh/Mac_05_installation_install.png]
+# Om du inte är administrator, måste installationen godkännas av en:
+  [Bild: |guvvieh/Mac_05_installation_install_a.png]
+# Installationen kör igång:
+  [Bild: |guvvieh/Mac_05_installation_install_b.png]
+# Installationen är klar, och du har Divvun-verktygen på din dator!
+  [Bild: |guvvieh/Mac_05_installation_install_c.png]
 
 !Klargöra MacOS X för att kunna skriva på samiska
 
@@ -81,13 +96,13 @@ För att kunna skriva på samiska måste du använda en samisk tangentbordsupps�
 
 !Användning på Mac
 När du öppnat MS Office måste du berätta för Office vilket språk texten är
-skriven på. Detta är lika för både MS Office 2004 och MS Office 2008.
+skriven på. Detta görs på samma sätt för både MS Office 2004 och MS Office 2008.
 
 # Märk den samiska texten:
   [Bild: |guvvieh/Mac_08_MSOffice_tools_language_a.png]
-# Gå til menyn __Tools > Language…__:
+# Gå till menyn __Tools > Language…__:
   [Bild: |guvvieh/Mac_08_MSOffice_tools_language_b.png]
-# Välj språket __Katalanska__ (__Catalan__) för __nordsamiska__, eller språket __Baskiska__ (__Basque__) för __lulesamiska__[1]:
+# Välj språket __Katalanska__ (__Catalan__) för __nordsamiska__, eller språket __Baskiska__ (__Basque__) för __lulesamiska__([1]):
   [Bild: |guvvieh/Mac_08_MSOffice_tools_language_c.png]
 # Om du skriver mycket på samiska, kan du göra samiska till förvalt språk för
   nya dokumenter genom att klicka på knappen __Default…__ (förra bilden), och
@@ -117,4 +132,4 @@ Vi som utformar Divvun följer oss språkrådets normeringar, vi tar inte ställ
 *Finns det en grammatikkontroll?
 *Godtar stavningskontrollen ord på min dialekt?
 
-[#1] Microsoft har tills vidare inte skapat stöd för samiska i MS Office för Mac, fast samma stöd finns för MS Office för Windows. Förhoppningsvis kommer framtida versioner av MS Office för Mac att innehålla detta stöd. I mellantiden måste samiska låtsas vara andra, i MS Office redan befintliga språk.
+[#1] Microsoft har tills vidare inte skapat stöd för samiska i MS Office för Mac, fast samma stöd finns för MS Office för Windows. Förhoppningsvis kommer framtida versioner av MS Office för Mac att innehålla detta stöd. I mellantiden måste vi låtsas att samiska är ett annat, i MS Office redan befintligt språk.
