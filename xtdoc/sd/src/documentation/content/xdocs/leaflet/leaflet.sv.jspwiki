@@ -5,14 +5,13 @@
 Arbetet med att utveckla ett rättstavningsverktyg för samiska språk inleddes den 1 januari 2003 då Sametinget som en del av eSápmi-projektet satte igång en förstudie till det som skulle bli Divvun-projeket. Hösten 2004 startade Sametinget tillsammans med Universitetet i Tromsø projektet Divvun. Ideen med projektet var att utveckla rättstavningsverktyg för samiska språk.  
 
 !!Produkten
-Divvun är ett rättstavningsverktyg på samiska som Sametinget i Norge i samarbete med Tromsö universitet har utvecklat. Det finns redan helt fungerande och färdiga versioner för nord- och lulesamiska och nu är Sametinget i färd med att utveckla en version för sydsamiska. I samband med Divvun-projektet utvecklar Universitetet i Tromsø även digitala pedagogiska läromedel.  En elektronisk ordbok är också under utveckling.
+Divvun är ett rättstavningsverktyg på samiska som Sametinget i Norge i samarbete med Tromsö universitet har utvecklat. Det finns redan helt fungerande och färdiga versioner för nord- och lulesamiska och nu är Sametinget i samarbete med Universitet i Tromsø i färd med att utveckla en version för sydsamiska. I samband med Divvun-projektet utvecklar Universitetet i Tromsø även digitala pedagogiska läromedel. En elektronisk ordbok är också under utveckling.
 
 !!!Installation och användning av produkten.
-För att installera Divvun kan man antingen ladda ner programmet från [http://www.divvun.no/] eller installera det från en CD. Sätt in CDn, installationsprogrammet startar av sig själv. Ifall du laddar ner programmet måste du klicka på den nerladdade filen för att installeringen ska starta. 
+För att installera Divvun kan man antingen ladda ner programmet från [http://www.divvun.no/] eller installera det från en CD. Vid användande av CD, sätt in CDn, installationsprogrammet startar av sig själv. Ifall du laddar ner programmet från vår hemsida måste du klicka på den nerladdade filen för att installationen av programmet ska starta. 
 
 !!Installation på Windows.
-# Välj installationsspråk, dvs det språk på vilket själva installationen går
-  före sig på:
+# Välj installationsspråk, d.v.s. det språk som används under själva installation av programmet:
   [Bild: Välj installationsspråk|guvvieh/PC_02_Install_choose_language_cut.png]
 # Fortsätt med installationen:
   [Bild: |guvvieh/PC_03_Install_start_a_cut.png]
@@ -24,9 +23,9 @@ För att installera Divvun kan man antingen ladda ner programmet från [http://w
   |guvvieh/PC_05_Install_saami_spelling_checker_cut.png]
 # Börja installera programmet:
   [Bild: Börja installera|guvvieh/PC_06_Start_to_install_saami_cut.png]
-  Sen är installationen av programmet klar.
+  Efter detta är installationen av programmet klar.
 
-!!Klargöra Windows för att kunna skriva på samiska
+!!Inställningar i Windows för att kunna skriva på samiska.
 # För att kunna skriva med samiska bokstäver så måste du välja detta i
   __Kontrollpanelen__. Där dubbelklickar du på ikonen
   __Datum, klockslag, språk och internationella inställningar:__
@@ -45,11 +44,10 @@ __Detaljer:__
 # När du sen skall skriva på samiska, klickar du på språkikonen nere i det högra
   hörnet på skrivbordet och väljer __Samiska__:
   [Bild: |guvvieh/PC_11_dashboard_choose_language_cut.png]
-  Då vil ditt tangentbord bete sig som ett samiskt, t.ex. vil tangenten "q" ge
-  bokstaven "á", osv.
-
-!!Användning på Windows
-För att Divvun-verktygen skall kunna hjälpa dig, måste du berätta för datorn at du skriver på samiska genom att välja det som skriftspråk.
+  Nu är tangentbordet inställt för samiska tecken, t.ex. ger tangenten "q" bokstaven "á", tangenten "¨" ger bokstaven  "ŋ" osv.
+  
+!!Användning av Divvun på Windows
+För att Divvun-verktygen skall kunna hjälpa dig, måste du berätta för datorn att du skriver på samiska genom att välja det som skriftspråk.
 # När du öppnat MS Office klickar du på fliken
   __Se igenom__, väljer där __Ange språk__ och sen __Samiska:__
   [Bild: |guvvieh/PC_12_MSOffice_choose_language_cut.png]
@@ -58,10 +56,10 @@ För att Divvun-verktygen skall kunna hjälpa dig, måste du berätta för dator
 
 !!Installation på MacOS X
 
-# Lasta ned installationspaketet. Senaste officiella version hittar du alltid
+# Ladda ned installationspaketet. Senaste officiella version hittar du alltid
   [här|http://www.divvun.no/static_files/sami-proofing-tools.dmg].
   [Bild: |guvvieh/Mac_01_Installation_download.png]
-# När nedlastningen är klar, öppnas ett fönster på ditt skrivbord - dubbeltklicka på
+# När nedladdningen är klar, öppnas ett fönster på ditt skrivbord - dubbeltklicka på
   installationspaketet:
   [Bild: |guvvieh/Mac_01_Installation_download_finished.png]
 # Installationspaketet visar en kort välkomsttext:
@@ -76,10 +74,10 @@ För att Divvun-verktygen skall kunna hjälpa dig, måste du berätta för dator
   [Bild: |guvvieh/Mac_05_installation_install_a.png]
 # Installationen kör igång:
   [Bild: |guvvieh/Mac_05_installation_install_b.png]
-# Installationen är klar, och du har Divvun-verktygen på din dator!
+# Installationen är klar, och du har nu Divvun-verktygen på din dator!
   [Bild: |guvvieh/Mac_05_installation_install_c.png]
 
-!!Klargöra MacOS X för att kunna skriva på samiska
+!!Inställningar i MacOS X för att kunna skriva på samiska
 
 För att kunna skriva på samiska måste du använda en samisk tangentbordsuppsättning.
 
@@ -94,19 +92,19 @@ För att kunna skriva på samiska måste du använda en samisk tangentbordsupps�
   [Bild: Välja samiskt tangentbord för inskrivnging
   |guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png]
 
-!!Användning på Mac
+!!Användning av Divvun på Mac
 När du öppnat MS Office måste du berätta för Office vilket språk texten är
 skriven på. Detta görs på samma sätt för både MS Office 2004 och MS Office 2008.
 
-# Märk den samiska texten:
+# Markera den samiska texten:
   [Bild: |guvvieh/Mac_08_MSOffice_tools_language_a.png]
 # Gå till menyn __Tools > Language…__:
   [Bild: |guvvieh/Mac_08_MSOffice_tools_language_b.png]
 # Välj språket __Katalanska__ (__Catalan__) för __nordsamiska__, eller språket __Baskiska__ (__Basque__) för __lulesamiska__([1]):
   [Bild: |guvvieh/Mac_08_MSOffice_tools_language_c.png]
 # Om du skriver mycket på samiska, kan du göra samiska till förvalt språk för
-  nya dokumenter genom att klicka på knappen __Default…__ (förra bilden), och
-  sen klicka på knappen __Yes__:
+  nya dokument genom att klicka på knappen __Default…__ (förra bilden), och
+  sedan klicka på knappen __Yes__:
   [Bild: Vil du göra samiska till förvalt språk
   |guvvieh/Mac_08_MSOffice_tools_language_d.png]
 # Nu kan du börja skriva på samiska…
@@ -115,7 +113,7 @@ skriven på. Detta görs på samma sätt för både MS Office 2004 och MS Office
   [Bild: |guvvieh/Mac_09_MSoffice_spelling_example_c.png]
 
 !!!Om programmet
-Divvun-programmet är ett rättstavningsprogram som fungerar med MS Office, InDesign och OpenOffice för att nämna några program. Programmet kan användas på olika operativsystem som Windows (XP och Vista), Mac (OS X) samt Linux. Man kan alltså använda programmet på PC, Mac och linux/unix- datorer.
+Divvun-programmet är ett rättstavningsprogram som fungerar med MS Office, InDesign och OpenOffice för att nämna några program. Programmet kan användas på olika operativsystem som Windows (XP och Vista), Mac (OS X) samt Linux. Man kan alltså använda programmet på PC, Mac och Linux/Unix-datorer.
 
 !!!Texter
 För att programmet ska bli så pålitligt och bra som möjligt behöver vi en stor orddatabas. Med detta menar vi att vi tar emot alla texter som finns på samiska. Det är väldigt bra om det finns en översatt parallelltext till den samiska texten på ett annat språk som norska, finska eller svenska för att nämna några exempel. Om ni vet om att Divvun-programmet markerar ett ord som felskrivet, fast ni vet att det är rättskrivet, så måste ni informera oss så att vi kan rätta till det. Ju fler ord vi får i vår orddatabas desto bättre och mer korrekt blir vårt rättstavningsprogram.
@@ -125,11 +123,11 @@ Vi tar emot alla texter. De behöver inte vara rättstavade, vi vill gärna ha f
 !!!Ordlista
 Det går att själv lägga till ord till ordlistan i MS Office. Ifall det är ett ord som inte Divvun-programmet känner igen kan ni alltså själva lägga in det i er egen ordlista. Ni kan därefter sända er egen ordlista som ni tagit fram genom att arbeta med Divvun till oss så kan vi lägga in den till nästa version av Divvun.
 
-!!!Skrivspråk eller dialekt
-Vi som utformar Divvun följer oss språkrådets normeringar, vi tar inte ställning till om man ska kunna skriva på sin egen dialekt eller om det ska vara normerat skriftspråk. Det är upp till språkrådet att godkänna ord och böjningar, om de är godkända av språkrådet så lägger vi in dessa i Divvun.
+!!!Skriftspråk eller dialekt
+Vi som utformar Divvun följer språkrådets normeringar, vi tar inte ställning till om man ska kunna skriva på sin egen dialekt eller om det ska vara normerat skriftspråk. Det är upp till språkrådet att godkänna olika ord och böjningar på samiska, om de är godkända av språkrådet så lägger vi in dessa i Divvun.
 
 !!!FAQ
 *Finns det en grammatikkontroll?
 *Godtar stavningskontrollen ord på min dialekt?
 
-[#1] Microsoft har tills vidare inte skapat stöd för samiska i MS Office för Mac, fast samma stöd finns för MS Office för Windows. Förhoppningsvis kommer framtida versioner av MS Office för Mac att innehålla detta stöd. I mellantiden måste vi låtsas att samiska är ett annat, i MS Office redan befintligt språk.
+[#1] Microsoft har tills vidare inte skapat stöd för samiska i MS Office för Mac, fast samma stöd finns för MS Office för Windows. Förhoppningsvis kommer framtida versioner av MS Office för Mac att innehålla detta stöd. I mellantiden måste vi definiera samiska som ett annat, i MS Office redan befintligt språk.
