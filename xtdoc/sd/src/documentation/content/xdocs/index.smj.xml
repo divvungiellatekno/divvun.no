@@ -62,15 +62,15 @@
         <tr>
           <td>OpenOffice.org 2.4+</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-          <td><a href="http://www.divvun.no/static_files/se-pack.zip">1.0beta1</a></td>
-          <td><a href="doc/proof/spelling/X-spell/install_use.html">Installation and usage</a></td>
+          <td>1.0beta2: <a href="http://www.divvun.no/static_files/se-pack.zip">Nuorttasámi</a>, <a href="http://www.divvun.no/static_files/smj-pack.zip">Julevsámi</a></td>
+          <td><a href="doc/proof/spelling/X-spell/install_use.html">Sajáiduhttin ja geavaheapmi</a></td>
         </tr>
 
         <tr>
           <td>OpenOffice.org 2.4+ &amp; <br/><a
            href="http://hunspell.sourceforge.net/">Hunspell</a>-kompatibel</td>
           <td>Linux</td>
-          <td><a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">1.0beta1</a></td>
+          <td>1.0beta2: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Nuorttasámi</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Julevsámi</a></td>
 	  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Installation</a></td>
         </tr>
 
@@ -78,7 +78,7 @@
           <td><a href="http://hunspell.sourceforge.net/"
           >Hunspell</a>-kompatibel</td>
           <td>Windows, MacOS X</td>
-          <td>(båhti ruvva)</td>
+          <td>1.0beta2: <a href="http://www.divvun.no/static_files/se.zip">Nuorttasámi</a>, <a href="http://www.divvun.no/static_files/smj.zip">Julevsámi</a></td>
 	  <td>x</td>
         </tr>
       </table>

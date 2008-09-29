@@ -69,7 +69,7 @@
         <tr>
           <td>OpenOffice.org 2.4+</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-          <td><a href="http://www.divvun.no/static_files/se-pack.zip">1.0beta1</a></td>
+          <td>1.0beta2: <a href="http://www.divvun.no/static_files/se-pack.zip">Pohjoissaame</a>, <a href="http://www.divvun.no/static_files/smj-pack.zip">Lulajansaame</a></td>
           <td><a href="doc/proof/spelling/X-spell/install_use.html">Installation and usage</a></td>
         </tr>
 
@@ -78,7 +78,7 @@
            href="http://hunspell.sourceforge.net/">Hunspell</a>-<br/>
           yhteensopiva ohjelma</td>
           <td>Linux</td>
-          <td><a href="http://www.divvun.no/static_files/se-pack.zip">1.0beta1</a></td>
+          <td>1.0beta2: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Pohjoissaame</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Lulajansaame</a></td>
 	  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Installation</a></td>
         </tr>
 
@@ -86,7 +86,7 @@
           <td><a href="http://hunspell.sourceforge.net/">Hunspell-</a><br/>
           yhteensopiva ohjelma</td>
           <td>Windows, MacOS X</td>
-          <td>(tulossa)</td>
+          <td>1.0beta2: <a href="http://www.divvun.no/static_files/se.zip">Pohjoissaame</a>, <a href="http://www.divvun.no/static_files/smj.zip">Lulajansaame</a></td>
 	  <td>x</td>
         </tr>
       </table>
