@@ -1,8 +1,12 @@
 !!!Installation och användning av produkten.
-För att installera Divvun kan man antingen ladda ner programmet från [http://www.divvun.no/] eller installera det från en CD. Vid användande av CD, sätt in CDn, installationsprogrammet startar av sig själv. Ifall du laddar ner programmet från vår hemsida måste du klicka på den nerladdade filen för att installationen av programmet ska starta. 
+För att installera Divvun kan man antingen ladda ner programmet från
+[http://www.divvun.no/static_files/sami-proofing-tools.dmg] eller installera det
+från en CD.
 
-!!Installation på MacOS X
-1.  Ladda ned installationspaketet. Senaste officiella version hittar du alltid [här|http://www.divvun.no/static_files/sami-proofing-tools.dmg]. I fall du har CD:n, sätt in den i datorn, och gå direkt til punkt 2.
+!!!Installation på MacOS X
+1.  Ladda ned installationspaketet. Senaste officiella version hittar du alltid
+[här|http://www.divvun.no/static_files/sami-proofing-tools.dmg]. I fall du har
+CD:n, sätt in den i datorn, och gå direkt til punkt 2.
 
 [Laddar ned installationspaketet|guvvieh/Mac_01_Installation_download.png]
 ----
@@ -19,7 +23,8 @@ installationspaketet|guvvieh/Mac_01_Installation_download_finished.png]
 [Välkomsttext|guvvieh/Mac_02_installation_start.png]
 ----
 
-4. Svara __Fortsätt__ på frågan om du vil fortsätta installationen — detta är en säker installation:
+4. Svara __Fortsätt__ på frågan om du vil fortsätta installationen — detta är en
+säker installation:
 
 [Bild: Fortsätt|guvvieh/Mac_03_Installation_continue.png]
 ----
@@ -50,63 +55,73 @@ administrator|guvvieh/Mac_05_installation_install_a.png]
 [Installationen är klar|guvvieh/Mac_05_installation_install_c.png]
 ----
 
-!!Inställningar i MacOS X för att kunna skriva på samiska
+!!!Inställningar i MacOS X för att kunna skriva på samiska
 
-För att kunna skriva på samiska måste du använda en samisk tangentbordsuppsättning.
+För att kunna skriva på samiska måste du använda en samisk
+tangentbordsuppsättning.
 
 1. Öppna __Systeminställningar__ 
 
 [Bild: Öppna Systeminställningar|guvvieh/Mac_06a_Systemvalg.png]
 ----
 
-2. Klicka på __Internationellt__, eller skriv ett närliggande sökord i sökfältet:
+2. Klicka på __Internationellt__, eller skriv ett närliggande sökord i
+sökfältet:
 
-  [Bild: Systeminställningar |guvvieh/Mac_06_Systemvalg.png]
+[Bild: Systeminställningar |guvvieh/Mac_06_Systemvalg.png]
 ----
 
-3. Klicka på fliken __Indatameny__ och välj __Nordsamisk:__
+3. Klicka på fliken __Indatameny__ och haka av för __Nordsamisk:__
 
-  [Bild: Lägga till samiskt tangentbord  |guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk.png]
+[Lägga till samiskt
+tangentbord|guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk.png]
 ----
 
-4. Välj sedan samisk tangentbordsuppsättning i menyn till höger när du skall skriva samiska:
+4. Välj sedan samisk tangentbordsuppsättning i menyn till höger när du skall
+skriva på samiska:
 
-[Bild: Välja samiskt tangentbord för inskrivning  |guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png]
+[Välj samiskt tangentbord för
+inskrivning|guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png]
 
-
-!!Användning av Divvun på Mac
+!!!Användning av Divvun på Mac
 När du öppnat MS Office måste du berätta för Office vilket språk texten är
 skriven på. Detta görs på samma sätt för både MS Office 2004 och MS Office 2008.
 ----
 
 1. Markera den samiska texten:
 
-  [Bild: |guvvieh/Mac_08_MSOffice_tools_language_a.png]
+[Markera den samiska texten|guvvieh/Mac_08_MSOffice_tools_language_a.png]
 ----
 
 2. Gå till menyn __Tools > Language…__:
 
-  [Bild: |guvvieh/Mac_08_MSOffice_tools_language_b.png]
+[Gå till menyn "Tools > Language…"|guvvieh/Mac_08_MSOffice_tools_language_b.png]
 ----
 
-3. Välj språket __Katalanska__ (__Catalan__) för __nordsamiska__, eller språket __Baskiska__ (__Basque__) för __lulesamiska__([1]):
+3. Välj språket __Katalanska__ (__Catalan__) för __nordsamiska__, eller språket
+__Baskiska__ (__Basque__) för __lulesamiska__([1]):
 
-  [Bild: |guvvieh/Mac_08_MSOffice_tools_language_c.png]
-  ----
+[Välj språk|guvvieh/Mac_08_MSOffice_tools_language_c.png]
+----
 
 4. Om du skriver mycket på samiska, kan du göra samiska till förvalt språk för
-  nya dokument genom att klicka på knappen __Default…__ (förra bilden), och
-  sedan klicka på knappen __Yes__:
+nya dokument genom att klicka på knappen __Default…__ (förra bilden), och
+sedan klicka på knappen __Yes__:
   
- [Bild: Vil du göra samiska till förvalt språk |guvvieh/Mac_08_MSOffice_tools_language_d.png]
-   ----
+[Vil du göra samiska till förvalt
+språk?|guvvieh/Mac_08_MSOffice_tools_language_d.png]
+----
   
 5. Nu kan du börja skriva samiska, och Divvun-verktygen hjälper dig att stava
 rätt:
  
-[Bild: |guvvieh/Mac_09_MSoffice_spelling_example_a.png]
+[Samisk text med skrivfel|guvvieh/Mac_09_MSoffice_spelling_example_a.png]
   
-[Bild: |guvvieh/Mac_09_MSoffice_spelling_example_c.png]
+[Rättstavningsdialog för
+skrivfelet|guvvieh/Mac_09_MSoffice_spelling_example_c.png]
 ----
 
-[#1] Microsoft har tills vidare inte skapat stöd för samiska i MS Office för Mac, fast samma stöd finns för MS Office för Windows. Förhoppningsvis kommer framtida versioner av MS Office för Mac att innehålla detta stöd. I mellantiden måste vi definiera samiska som ett annat, i MS Office redan befintligt språk.
+[#1] Microsoft har tills vidare inte skapat stöd för samiska i MS Office för
+Mac, fast samma stöd finns för MS Office för Windows. Förhoppningsvis kommer
+framtida versioner av MS Office för Mac att innehålla detta stöd. I mellantiden
+måste vi definiera samiska som ett annat, i MS Office redan befintligt språk.

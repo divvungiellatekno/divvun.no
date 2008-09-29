@@ -1,61 +1,66 @@
 !!!Installation och användning av produkten.
-För att installera Divvun kan man antingen ladda ner programmet från [http://www.divvun.no/] eller installera det från en CD. Vid användande av CD, sätt in CDn, installationsprogrammet startar av sig själv. Ifall du laddar ner programmet från vår hemsida måste du klicka på den nerladdade filen för att installationen av programmet ska starta. 
+För att installera Divvun kan man antingen ladda ner programmet från
+[http://www.divvun.no/static_files/DivvunInstaller.exe] eller installera det
+från en CD. Sätt in CDn eller klicka nerlastningslänken —
+installationsprogrammet startar av sig själv.
 
-!!Installation på Windows.
-1. Välj installationsspråk, d.v.s. det språk som används under själva installation av programmet: 
+!!!Installation på Windows.
+1. Välj installationsspråk, d.v.s. det språk som används under själva
+installation av programmet: 
 
-[Bild: Välj installationsspråk |guvvieh/PC_02_Install_choose_language_cut.png]
+[Välj installationsspråk|guvvieh/PC_02_Install_choose_language_cut.png]
 ----
 
 2. Fortsätt med installationen:
   
-[Bild: |guvvieh/PC_03_Install_start_a_cut.png]
-
+[Fortsätt med installationen|guvvieh/PC_03_Install_start_a_cut.png]
 ----
 
 3. Välj installationstyp, d.v.s. hela programmet:
 
-[Bild: Välj installationstyp  |guvvieh/PC_04_Install_choose_what_to_install_cut.png] 
+[Välj installationstyp|guvvieh/PC_04_Install_choose_what_to_install_cut.png] 
 ----
 
 4. Välj vad du ska installera, d.v.s. __Saami spelling checker:__
 
-[Bild: Välj vad du ska installera  |guvvieh/PC_05_Install_saami_spelling_checker_cut.png]
+[Välj vad du ska
+installera|guvvieh/PC_05_Install_saami_spelling_checker_cut.png]
 ----
 
 5. Börja installera programmet:
 
-[Bild: Börja installera |guvvieh/PC_06_Start_to_install_saami_cut.png]
-
+[Börja installera |guvvieh/PC_06_Start_to_install_saami_cut.png]
 
 Efter detta är installationen av programmet klar.
-----
 
-!!Inställningar i Windows för att kunna skriva på samiska.
+!!!Inställningar i Windows för att kunna skriva på samiska.
 1. För att kunna skriva med samiska bokstäver så måste du välja detta i
-  __Kontrollpanelen__. Där dubbelklickar du på ikonen
-  __Datum, klockslag, språk och internationella inställningar:__
+__Kontrollpanelen__. Där dubbelklickar du på ikonen
+__Datum, klockslag, språk och internationella inställningar:__
   
-[Bild: Datum, klockslag, språk och internationella  inställningar |guvvieh/PC_07_controlpanel_settings_date_clock_cut.png]
+[Datum, klockslag, språk och internationella
+inställningar|guvvieh/PC_07_controlpanel_settings_date_clock_cut.png]
 ----
   
-  2. Nu är du på internationella inställningar. Här dubbelklickar du på ikonen
-  __Inställningar för region och språk:__
+2. Nu är du på internationella inställningar. Här dubbelklickar du på ikonen
+__Inställningar för region och språk:__
   
-       [Bild: |guvvieh/PC_08_Settings_language_cut.png]
+[Dubbelklicka på ikonen "Inställningar för region och
+språk"|guvvieh/PC_08_Settings_language_cut.png]
 ----
 
 3. I denna box väljer du sedan fliken __Språk__ och trycker på knappen
 __Detaljer:__
 
-[Bild: |guvvieh/PC_09_Settings_language_details_cut.png]
+[trycker på knappen
+"Detaljer"|guvvieh/PC_09_Settings_language_details_cut.png]
 ----
 
-4. Här klickar du på __Lägg till...__. Nu kan du välja vilket språk du vill kunna
-  skriva på. Här väljer du __Samiska:__
+4. Här klickar du på __Lägg till...__. Nu kan du välja vilket språk du vill
+kunna skriva på. Här väljer du __Samiska:__
 
-  [Bild: |guvvieh/PC_10_settings_choose_language_cut.png].
-  
+[Bild: |guvvieh/PC_10_settings_choose_language_cut.png].
+----
   
 5. Nu kan du stänga alla fönster och gå tillbaks till skrivbordet.
 ----
@@ -68,7 +73,7 @@ __Detaljer:__
   Nu är tangentbordet inställt för samiska tecken, t.ex. ger tangenten "q" bokstaven "á", tangenten "¨" ger bokstaven  "ŋ" osv.
 ----
   
-!!Användning av Divvun på Windows
+!!!Användning av Divvun på Windows
 
 1. För att Divvun-verktygen skall kunna hjälpa dig, måste du berätta för datorn att du skriver på samiska genom att välja det som skriftspråk. När du öppnat MS Office klickar du på fliken
   __Se igenom__, väljer där __Ange språk__ och sen __Samiska:__
