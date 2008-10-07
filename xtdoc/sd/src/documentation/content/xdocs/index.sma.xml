@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nb">
+  <header>
+    <title>Dåvvome - saemien rïektestjaelemedïrrege</title>
+  </header>
+
+  <body>
+    <p>Divvun-projektet är ett projekt under det norska Sametinget för att
+    göra rättstavningsprogram för samiska, dvs rättstavningskontroll och
+    orddelning för nord-, lule- og sydsamiska. Verktygen fungerar på Linux
+    (snart), MacOS X och Windows i dom vanligaste kontorprogrammen. Verktyg
+    för nord- og lulesamiska är färdiga, sydsamiska verktyg arbetas det med i
+    det så kallade Divvun II-projektet.</p>
+
+    <section>
+      <title>Tillgängliga korrekturverktyg</title>
+
+      <p>Färdiga korrekturverktyg är gratis tillgängliga nedanför i form av
+      installationsprogram som enkelt installerar verktygen på datamaskinen.
+      Verktygen fungerar på samma sätt som motsvarande verktyg för andra
+      språk.</p>
+
+      <table>
+        <caption>Tabell över färdiga och kommande (x) produkter</caption>
+
+        <tr>
+          <th>Värdprogram</th>
+
+          <th>Operativsystem</th>
+
+          <th>Nedlastningslänk</th>
+
+          <th>Mer info</th>
+        </tr>
+
+        <tr>
+          <td rowspan="2">MS Office</td>
+
+          <td>Windows</td>
+
+          <td><a
+          href="http://www.divvun.no/static_files/DivvunInstaller.exe">1.0.1</a></td>
+
+          <td rowspan="2"><a
+          href="doc/proof/spelling/msoff/install_use.html">Release-dokument</a>
+          – <a
+          href="doc/proof/spelling/msoff/changes.html">versionshistoria</a></td>
+        </tr>
+
+        <tr>
+          <td>MacOS X</td>
+
+          <td><a
+          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">1.0.1</a></td>
+        </tr>
+
+        <tr>
+          <td rowspan="2">InDesign CS3</td>
+
+          <td>MacOS X</td>
+
+          <td><a
+          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">1.0</a></td>
+
+          <td rowspan="2"><a
+          href="/doc/proof/hyph/InDesign/index.html">Release-dokument</a></td>
+        </tr>
+
+        <tr>
+          <td>Windows</td>
+
+          <td>(kommer snart)</td>
+        </tr>
+
+        <tr>
+          <td>OpenOffice.org 2.4+</td>
+
+          <td>Windows, MacOS X, Linux, Solaris</td>
+
+          <td><a
+          href="http://www.divvun.no/static_files/se-pack.zip">1.0beta1</a></td>
+
+          <td><a
+          href="doc/proof/spelling/X-spell/install_use.html">Installation och
+          användning</a></td>
+        </tr>
+
+        <tr>
+          <td>OpenOffice.org 2.4+ &amp; <a
+          href="http://hunspell.sourceforge.net/">Hunspell</a>-<br />kompatibla
+          program</td>
+
+          <td>Linux</td>
+
+          <td><a
+          href="http://www.divvun.no/static_files/hunspell-se.tar.gz">1.0beta1</a></td>
+
+          <td><a
+          href="doc/proof/spelling/X-spell/install_linux.html">Installation</a></td>
+        </tr>
+
+        <tr>
+          <td>alla <a
+          href="http://hunspell.sourceforge.net/">Hunspell</a>-<br />kompatibla
+          program</td>
+
+          <td>Windows, MacOS X</td>
+
+          <td>(kommer snart)</td>
+
+          <td>x</td>
+        </tr>
+      </table>
+
+      <section>
+        <title>Utan Internet?</title>
+
+        <p>För användare med långsam eller ingen Internet-tillgång, är det
+        möjligt att beställa en CD från Sametinget genom att ringa till
+        telefonnummer: +47 78 48 42 22.</p>
+      </section>
+    </section>
+
+    <section>
+      <title>Källkod och dokumentation</title>
+
+      <section>
+        <title>Anonym cvs</title>
+
+        <p>Den delen av källkoden till detta projekt som tillhör Sametinget
+        och Universitetet i Tromsø är öppen och fri, och är tillgänglig via <a
+        href="doc/infra/anonymous-svn.html">anonym svn</a>. Vi har också
+        skrivit ett dokument om hur man <a href="doc/intro.html">finner
+        fram</a> i källkoden. Vissa delar är proprietära och är alltså
+        <em>inte</em> tillgängliga.</p>
+      </section>
+
+      <section>
+        <title>Läsa dokumentationen på egen PC</title>
+
+        <p>All dokumentation om detta projekt är tillgänglig på <a
+        href="http://divvun.no">projektets hemsida</a>. Om du vill ha denna
+        dokumentation på din egen datamaskin, följ instruktionerna om <a
+        href="doc/infra/anonymous-svn.html">anonym svn</a>, och gå därefter
+        till <a href="doc/infra/forrest-howto.html">installation av
+        forrest</a>. Efter detta är all dokumentation på din egen datamaskin,
+        och du kan navigera genom den med en web-browser utan att vara på
+        Internet.</p>
+      </section>
+    </section>
+
+    <section>
+      <title>Nyttiga länkar</title>
+
+      <ul>
+        <li><a href="mailto:divvun ved samediggi punkt no">E-post till
+        projektet</a></li>
+
+        <li><a href="http://hunspell.sourceforge.net/">Hunspell</a></li>
+
+        <li><a href="http://www.openoffice.org/">OpenOffice</a></li>
+
+        <li><a
+        href="http://www.xrce.xerox.com/competencies/content-analysis/fst/">
+        Xerox FST-verktyg</a></li>
+      </ul>
+    </section>
+
+    <p class="last_modified">Sista ändring: $Date: 2008-09-16 18:42:08 +0200
+    (Tis, 16 Sep 2008) $, by $Author: sjur $</p>
+  </body>
+</document>
