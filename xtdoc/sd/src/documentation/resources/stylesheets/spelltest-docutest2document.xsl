@@ -128,6 +128,7 @@
           <xsl:choose>
             <xsl:when test="$testtype = 'regression' or
                             $testtype = 'typos' or
+                            $testtype = 'wordtype' or
                             $testtype = 'baseform' ">
               <strong><xsl:value-of select="$testtype"/></strong>
             </xsl:when>
@@ -141,6 +142,10 @@
         <title>Result summary</title>
         <p>Number of input words:
         <strong><xsl:value-of select="$nrwords"/></strong></p>
+        <p>Number of spelling errors:
+        <strong><xsl:value-of select="$nrrealerr"/></strong> (<xsl:value-of
+                select="round(($nrrealerr div $nrwords) * 10000) div 100"/> % of all words)</p>
+
         <table>
           <caption>Precision and Recall</caption>
           <tr>
@@ -204,35 +209,57 @@
             <dd><xsl:value-of select="round($accuracy * 10000) div 100"/> %</dd>
         </dl>
 
-        <section>
-          <title>Suggestion statistics</title>
-          <ul>
-          <li>Number of spelling errors with <span class="correct">correct
-            suggestion</span>:
-          <xsl:value-of select="$corrected"/></li>
-          <li>Number of spelling errors with <span class="correct">correct
-           suggestion</span> in top <xsl:value-of select="$toplimit"/>:
-          <xsl:value-of select="$topthree"/></li>
-          <li>Number of spelling errors with only wrong suggestions:
-          <xsl:value-of select="$nocorrsugg - $nosugg"/></li>
-          <li>Number of spelling errors with no suggestions at all:
-          <xsl:value-of select="$nosugg"/></li>
-          </ul>
-        </section>
+        <table>
+          <caption>Suggestion statistics</caption>
+          <tr>
+            <td>Number of detected spelling errors with <span class="correct">correct
+                suggestion</span>:</td>
+            <td><xsl:value-of select="$corrected"/></td>
+            <td>(<xsl:value-of select="round(($corrected div $truepositive) * 10000) div 100"/> %)</td>
+          </tr>
+          <tr>
+            <td>Number of detected spelling errors with <span class="correct">correct
+                suggestion</span> in top <xsl:value-of select="$toplimit"/>:</td>
+            <td><xsl:value-of select="$topthree"/></td>
+            <td>(<xsl:value-of select="round(($topthree div $truepositive) * 10000) div 100"/> %)</td>
+          </tr>
+          <tr>
+            <td>Number of detected spelling errors with only wrong suggestions:</td>
+            <td><xsl:value-of select="$nocorrsugg "/></td>
+            <td>(<xsl:value-of select="round(($nocorrsugg div $truepositive) * 10000) div 100"/> %)</td>
+          </tr>
+          <tr>
+            <td>Number of detected spelling errors with no suggestions at all:</td>
+            <td><xsl:value-of select="$nosugg"/></td>
+            <td>(<xsl:value-of select="round(($nosugg div $truepositive) * 10000) div 100"/> %)</td>
+          </tr>
+        </table>
 
-        <section>
-          <title>Spelling error statistics</title>
-          <ul>
-          <li>Number of spelling errors :
-          <xsl:value-of select="$nrrealerr"/></li>
-          <li>Number of simple spelling errors :
-          <xsl:value-of select="$editdist1"/></li>
-          <li>Number of spelling errors with editing distance 2:
-          <xsl:value-of select="$editdist2"/></li>
-          <li>Number of spelling errors with editing distance 3 or more:
-          <xsl:value-of select="$editdist3"/></li>
-          </ul>
-        </section>
+        <p/>
+
+        <table>
+          <caption>Spelling error statistics</caption>
+          <tr>
+            <th>Spelling errors:</th>
+            <th><xsl:value-of select="$nrrealerr"/></th>
+            <th><xsl:value-of select="round(($nrrealerr div $nrrealerr) * 10000) div 100"/> %</th>
+          </tr>
+          <tr>
+            <td>Simple spelling errors / all spelling errors:</td>
+            <td><xsl:value-of select="$editdist1"/></td>
+            <td>(<xsl:value-of select="round(($editdist1 div $nrrealerr) * 10000) div 100"/> %)</td>
+          </tr>
+          <tr>
+            <td>Spelling errors with editing distance 2 / all spelling errors:</td>
+            <td><xsl:value-of select="$editdist2"/></td>
+            <td>(<xsl:value-of select="round(($editdist2 div $nrrealerr) * 10000) div 100"/> %)</td>
+          </tr>
+          <tr>
+            <td>Spelling errors with editing distance 3 or more / all spelling errors:</td>
+            <td><xsl:value-of select="$editdist3"/></td>
+            <td>(<xsl:value-of select="round(($editdist3 div $nrrealerr) * 10000) div 100"/> %)</td>
+          </tr>
+        </table>
       </section>
     </section>
   </xsl:template>
@@ -545,6 +572,26 @@
       </section>
     </xsl:if>
 
+    <xsl:if test="$testtype = 'wordtype'">
+      <section>
+        <title>All test data</title>
+          <table>
+            <tr>
+              <th>Input<br/>word</th>
+              <th>Expected<br/>correction</th>
+              <th>Editing<br/>distance</th>
+              <th>Suggestions</th>
+              <th>Comment</th>
+            </tr>
+            <xsl:apply-templates select="word">
+              <xsl:sort select="comment"/>
+              <xsl:sort select="original"/>
+              <xsl:with-param name="type" select="'wordtype'"/>
+            </xsl:apply-templates >
+          </table>
+        </section>
+    </xsl:if>
+
     <xsl:if test="$testtype = 'regression' and
                   count(word[not(bug)]) > 0">
       <section>
@@ -598,7 +645,8 @@
           <xsl:if test="((not(expected) and status = 'SplErr') or
                          (expected and status = 'SplCor')       )
                         and
-                         $type = 'nobug' ">
+                        ( $type = 'nobug' or
+                          $type = 'wordtype' ) ">
             <xsl:attribute name="class">
               <xsl:value-of select="'broken'"/>
             </xsl:attribute>
@@ -609,6 +657,7 @@
             <td><xsl:value-of select="edit_dist"/></td>
           </xsl:if>
           <xsl:if test="suggestions/@count > 0 or
+                        $testtype = 'wordtype' or
                         ($testtype = 'regression' and
                          $type != 'fn' and
                          suggestions/@count > 0 )">
@@ -624,8 +673,8 @@
               <xsl:apply-templates select="tokens"/>
             </td>
           </xsl:if>
-          <xsl:if test="$testtype = 'regression'">
-            <xsl:if test="$type != 'nobug'">
+          <xsl:if test="$testtype = 'regression' or $testtype = 'wordtype'">
+            <xsl:if test="$type != 'nobug' and $testtype = 'regression'">
               <td>
                 <a>
                   <xsl:attribute name="href">
