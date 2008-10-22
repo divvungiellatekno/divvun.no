@@ -2,31 +2,31 @@
 
 !!Projektet
 
-Arbetet med att utveckla ett rättstavningsverktyg för samiska språk inleddes den 1 januari 2003 då Sametinget som en del av eSápmi-projektet satte igång en förstudie till det som skulle bli Divvun-projeket. Hösten 2004 startade Sametinget tillsammans med Universitetet i Tromsø projektet Divvun. Ideen med projektet var att utveckla rättstavningsverktyg för samiska språk.  
+Arbetet med att utveckla ett rättstavningsverktyg för samiska språk inleddes i januari 2003 då Sametinget som en del av eSápmi-projektet satte igång en förstudie till det som skulle bli Divvun-projeket. Hösten 2004 startade Sametinget projektet Divvun i samarbete med Universitetet i Tromsø. Målet för projektet var att utveckla rättstavningsverktyg för samiska språk.  
 
 !!Produkten
-Divvun är ett samiskt rättstavningsverktyg. I dagsläget finns fullt fungerande versioner för nord- och lulesamiska. Sametinget och Universitet i Tromsø utvecklar nu en version för sydsamiska. I samband med Divvun-projektet utvecklar Universitetet i Tromsø även digitala pedagogiska läromedel. En elektronisk ordbok är också under utveckling.
+Divvun är ett samiskt rättstavningsverktyg. I dagsläget finns färdiga versioner för nord- och lulesamiska, och vi arbetar nu med en version för sydsamiska. I samband med Divvun-projektet utvecklar Universitetet i Tromsø även digitala pedagogiska läromedel. En elektronisk ordbok är också under utveckling.
 
 !!!Installation och användning av produkten.
-För att installera Divvun kan man antingen ladda ner programmet från [http://www.divvun.no/] eller installera det från en CD. Vid användande av CD, sätt in CDn, installationsprogrammet startar av sig själv. Ifall du laddar ner programmet från vår hemsida måste du klicka på den nerladdade filen för att installationen av programmet ska starta. 
+För att installera Divvun-verktygen kan man antingen ladda ner programmet från [http://www.divvun.no/] eller installera det från en CD. Noggranna instruktioner hittar du om du klickar på länkarna här nedanför:
 
 * [Installation på Windows|win-install.sv.html]
 * [Installation på MacOS X|mac-install.sv.html]
 
 !!!Om programmet
-Divvun-programmet är ett rättstavningsprogram som fungerar med MS Office, InDesign och OpenOffice för att nämna några program. Programmet kan användas på olika operativsystem som Windows (XP och Vista), Mac (OS X) samt Linux. Man kan alltså använda programmet på PC, Mac och Linux/Unix-datorer.
+Divvun-programmet är ett rättstavningsprogram som fungerar med MS Office, InDesign och OpenOffice för att nämna några program. Programmet kan användas på olika operativsystem som Windows (XP och Vista), MacOS X (10.3 och nyare) samt Linux. Man kan alltså använda programmet på de flesta PC, Mac och Linux/Unix-datorer som är införskaffade de senaste 5 åren. När programmet är installerat, fungerar det precis som vilket som helst annat rättstavningsprogram för andra språk.
 
 !!!Texter
-För att programmet ska bli så pålitligt och bra som möjligt behöver vi en stor orddatabas. Med detta menar vi att vi tar emot alla texter som finns på samiska. Det är väldigt bra om det finns en översatt parallelltext till den samiska texten på ett annat språk som norska, finska eller svenska för att nämna några exempel. Om ni vet om att Divvun-programmet markerar ett ord som felskrivet, fast ni vet att det är rättskrivet, så måste ni informera oss så att vi kan rätta till det. Ju fler ord vi får i vår orddatabas desto bättre och mer korrekt blir vårt rättstavningsprogram.
+För att programmet ska bli så pålitligt och bra som möjligt behöver vi en stor orddatabas. Med detta menar vi att vi tar emot alla texter som finns på samiska. Det är väldigt bra om det finns en översatt parallelltext till den samiska texten på ett annat språk som norska, finska eller svenska för att nämna några exempel. Om ni märker att Divvun-programmet markerar ett ord som felskrivet, fast ni vet att det är rätt skrivet, får ni gärna informera oss så att vi kan rätta till det. Ju fler ord vi får i vår orddatabas desto bättre och mer korrekt blir vårt rättstavningsprogram.
 
 Vi tar emot alla texter. De behöver inte vara rättstavade, vi vill gärna ha felstavade texter också. På så sätt kan vi kontrollera att vårt rättstavningsprogram verkligen fungerar.
 
 !!!Ordlista
-Det går att själv lägga till ord till ordlistan i MS Office. Ifall det är ett ord som inte Divvun-programmet känner igen kan ni alltså själva lägga in det i er egen ordlista. Ni kan därefter sända er egen ordlista som ni tagit fram genom att arbeta med Divvun till oss så kan vi lägga in den till nästa version av Divvun.
+Det går att själv lägga till ord till ordlistan i MS Office. Ifall det är ett ord som inte Divvun-programmet känner igen kan ni alltså själva lägga in det i er egen ordlista. Efter ett tag, när er egen ordlista innehåller en del ord, kan ni sända den till oss så kan vi lägga in den till nästa version av Divvun.
 
 !!!Skriftspråk eller dialekt
-Vi som utformar Divvun följer språkrådets normeringar, vi tar inte ställning till om man ska kunna skriva på sin egen dialekt eller om det ska vara normerat skriftspråk. Det är upp till språkrådet att godkänna olika ord och böjningar på samiska, om de är godkända av språkrådet så lägger vi in dessa i Divvun.
+Vi som utformar Divvun följer språkrådets normeringar, vi tar inte ställning till om man ska kunna skriva på sin egen dialekt eller om dialektformer skall vara normerat skriftspråk. Det är upp till språkrådet att godkänna olika ord och böjningar på samiska — om de är godkända av språkrådet så lägger vi in dessa i Divvun.
 
 !!!FAQ
-*Finns det en grammatikkontroll?
-*Godtar stavningskontrollen ord på min dialekt?
+* Finns det en grammatikkontroll?
+* Godtar stavningskontrollen ord på min dialekt?
