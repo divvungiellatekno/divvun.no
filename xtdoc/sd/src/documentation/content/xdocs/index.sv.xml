@@ -70,28 +70,35 @@
         </tr>
 
         <tr>
-          <td>OpenOffice.org 2.4+</td>
+          <td>OpenOffice.org 2.4.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta2: <a href="http://www.divvun.no/static_files/se-pack.zip">Nordsamiska</a>, <a href="http://www.divvun.no/static_files/smj-pack.zip">Lulesamiska</a></td>
+          <td>1.0beta3: <a href="http://www.divvun.no/static_files/smi-pack.zip">Nord -och lulesamiska</a></td>
           
           <td><a href="doc/proof/spelling/X-spell/install_use.html">Installation och användning</a></td>
         </tr>
 
-        <tr>
+		<tr>
+          <td>OpenOffice.org 3.x</td>
+          <td>Windows, MacOS X, Linux, Solaris</td>
+          <td>1.0beta3: <a href="http://www.divvun.no/static_files/smi.oxt">Nord -och lulesamiska</a></td>
+          <td><a href="">x</a></td>
+        </tr>
+
+		<tr>
           <td>OpenOffice.org 2.4+ &amp; <a
            href="http://hunspell.sourceforge.net/"
           >Hunspell</a>-<br/>kompatibla program</td>
           <td>Linux</td>
-          <td>1.0beta2: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Nordsamiska</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Lulesamiska</a></td>
+          <td>1.0beta3: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Nordsamiska</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Lulesamiska</a></td>
 	  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Installation</a></td>
         </tr>
 
         <tr>
-          <td>alla <a href="http://hunspell.sourceforge.net/"
+          <td>Alla <a href="http://hunspell.sourceforge.net/"
           >Hunspell</a>-<br/>kompatibla program</td>
           <td>Windows, MacOS X</td>
-          <td>1.0beta2: <a href="http://www.divvun.no/static_files/se.zip">Nordsamiska</a>, <a href="http://www.divvun.no/static_files/smj.zip">Lulesamiska</a></td>
-	  <td>x</td>
+          <td>1.0beta3: <a href="http://www.divvun.no/static_files/smi.zip">Nord- och lulesamiska</a></td>
+	      <td>x</td>
         </tr>
       </table>
 

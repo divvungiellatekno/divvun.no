@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="nb">
+<document xml:lang="sma">
   <header>
     <title>Dåvvome - saemien rïektestjaelemedïrrege</title>
   </header>
@@ -75,42 +75,35 @@
         </tr>
 
         <tr>
-          <td>OpenOffice.org 2.4+</td>
-
+          <td>OpenOffice.org 2.4.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-
-          <td><a
-          href="http://www.divvun.no/static_files/se-pack.zip">1.0beta1</a></td>
-
-          <td><a
-          href="doc/proof/spelling/X-spell/install_use.html">Installation och
-          användning</a></td>
+          <td>1.0beta3: <a href="http://www.divvun.no/static_files/smi-pack.zip">Nord -och lulesamiska</a></td>
+          
+          <td><a href="doc/proof/spelling/X-spell/install_use.html">Installation och användning</a></td>
         </tr>
 
-        <tr>
+		<tr>
+          <td>OpenOffice.org 3.x</td>
+          <td>Windows, MacOS X, Linux, Solaris</td>
+          <td>1.0beta3: <a href="http://www.divvun.no/static_files/smi.oxt">Nord -och lulesamiska</a></td>
+          <td><a href="">x</a></td>
+        </tr>
+
+		<tr>
           <td>OpenOffice.org 2.4+ &amp; <a
-          href="http://hunspell.sourceforge.net/">Hunspell</a>-<br />kompatibla
-          program</td>
-
+           href="http://hunspell.sourceforge.net/"
+          >Hunspell</a>-<br/>kompatibla program</td>
           <td>Linux</td>
-
-          <td><a
-          href="http://www.divvun.no/static_files/hunspell-se.tar.gz">1.0beta1</a></td>
-
-          <td><a
-          href="doc/proof/spelling/X-spell/install_linux.html">Installation</a></td>
+          <td>1.0beta3: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Nordsamiska</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Lulesamiska</a></td>
+	  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Installation</a></td>
         </tr>
 
         <tr>
-          <td>alla <a
-          href="http://hunspell.sourceforge.net/">Hunspell</a>-<br />kompatibla
-          program</td>
-
+          <td>Alla <a href="http://hunspell.sourceforge.net/"
+          >Hunspell</a>-<br/>kompatibla program</td>
           <td>Windows, MacOS X</td>
-
-          <td>(kommer snart)</td>
-
-          <td>x</td>
+          <td>1.0beta3: <a href="http://www.divvun.no/static_files/smi.zip">Nord- och lulesamiska</a></td>
+	      <td>x</td>
         </tr>
       </table>
 
