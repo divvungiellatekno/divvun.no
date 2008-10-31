@@ -69,8 +69,8 @@
         <tr>
           <td>OpenOffice.org 3.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta3: <a href="http://www.divvun.no/static_files/smi.oxt">Northern and Lule Sami</a></td>
-          <td><a href="">x</a></td>
+          <td>1.0beta3: <a href="http://www.divvun.no/static_files/smi.oxt">Nuortta -ja julevsámi</a></td>
+          <td><a href="doc/proof/spelling/X-spell/install_use_3x.html">Installasjåvnnå ja adno</a></td>
         </tr>
 
         <tr>
@@ -78,7 +78,7 @@
            href="http://hunspell.sourceforge.net/">Hunspell</a>-kompatibel</td>
           <td>Linux</td>
           <td>1.0beta3: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Nuorttasámi</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Julevsámi</a></td>
-	  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Installation</a></td>
+	  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Installasjåvnnå</a></td>
         </tr>
 
         <tr>
