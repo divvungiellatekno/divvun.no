@@ -1,7 +1,7 @@
 !!!Installation och användning av produkten.
 För att installera Divvun kan man antingen ladda ner programmet från
 [http://www.divvun.no/static_files/DivvunInstaller.exe] eller installera det
-från en CD. Sätt in CDn eller klicka nerlastningslänken —
+från en CD. Sätt in CDn eller klicka på nedladdninslänken —
 installationsprogrammet startar av sig själv.
 
 !!!Installation på Windows.
@@ -21,14 +21,14 @@ installationen av programmet:
 [Välj vad du ska installera|guvvieh/PC_04_install_continue.png]
 ----
 
-4. Fullför installationen, tryck på fullför:
+4. Fullför installationen, tryck på "fullför":
 
 [Börja installera |guvvieh/PC_05_install_complete.png]
 
-Efter detta är installationen av programmet klar.
+Därefter är installationen av programmet klar.
 
 !!!Inställningar i Windows för att kunna skriva på samiska.
-1. För att kunna skriva med samiska bokstäver så måste du välja detta i
+1. För att kunna skriva med samiska bokstäver måste du välja det i
 __Kontrollpanelen__. Där dubbelklickar du på ikonen
 __Datum, klockslag, språk och internationella inställningar:__
   
@@ -56,21 +56,20 @@ kunna skriva på. Här väljer du __Samiska:__
 [Bild: |guvvieh/PC_10_settings_choose_language_cut.png].
 ----
   
-5. Nu kan du stänga alla fönster och gå tillbaks till skrivbordet.
+5. Nu kan du stänga alla fönster och gå tillbaka till skrivbordet.
 ----
 
-6. När du sen skall skriva på samiska, klickar du på språkikonen nere i det
+6. När du sen ska skriva på samiska klickar du på språkikonen nere i det
 högra hörnet på skrivbordet och väljer __Samiska__:
 
 [Bild: |guvvieh/PC_11_dashboard_choose_language_cut.png]
   
 Nu är tangentbordet inställt för samiska tecken, t.ex. ger tangenten "q"
-bokstaven "á", tangenten "¨" ger bokstaven  "ŋ" osv.
+bokstaven "á" och tangenten "¨" ger bokstaven  "ŋ" osv.
   
 !!!Användning av Divvun på Windows
 
-1. För att Divvun-verktygen skall kunna hjälpa dig, måste du berätta för datorn
-att du skriver på samiska genom att välja det som skriftspråk. När du öppnat MS
+1. För att Divvun-verktygen ska kunna hjälpa dig, måste du informera datorn om att du skriver på samiska genom att välja det som skriftspråk. När du öppnat MS
 Office klickar du på fliken __Se igenom__, väljer där __Ange språk__ och sen
 __Samiska:__
   
