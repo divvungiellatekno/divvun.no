@@ -13,39 +13,18 @@ fönster öppnas även när CD:n är klar. Dubbelklicka på den gula lådan (ins
 installationspaketet|guvvieh/Mac_01_Installation_download_finished.png]
 ----
 
-3. Installationspaketet visar en kort välkomsttext:
-
-[Välkomsttext|guvvieh/Mac_02_installation_start.png]
-----
-
-4. Svara __Fortsätt__ på frågan om du vill fortsätta installationen — det här är en
-säker installation:
-
-[Bild: Fortsätt|guvvieh/Mac_03_Installation_continue.png]
-----
-
-5. Om du frågas om mål för installationen, väljer du startvolymen:
-
-[Välj startvolymen|guvvieh/Mac_04_installation_choose_where_to_install.png]
-----
-
-6. Sedan är du klar för själva installationen:
+3. Klicka på __Fortsätt__ tills du är klar för att börja själva installationen:
 
 [Bild: |guvvieh/Mac_05_installation_install.png]
 ----
 
-7. Om du inte är administrator måste installationen godkännas av en sådan:
+7. Om du inte är administratör måste installationen godkännas av en sådan:
 
 [Installationen måste godkännas av en
-administrator|guvvieh/Mac_05_installation_install_a.png]
+administratör|guvvieh/Mac_05_installation_install_a.png]
 ----
 
-8. Installationen kör igång:
-
-[Installationen kör igång|guvvieh/Mac_05_installation_install_b.png]
-----
-
-9. Installationen är klar och du har nu Divvun-verktygen på din dator!
+9. Installationen är nu klar och du har Divvun-verktygen på din dator!
 
 [Installationen är klar|guvvieh/Mac_05_installation_install_c.png]
 ----
