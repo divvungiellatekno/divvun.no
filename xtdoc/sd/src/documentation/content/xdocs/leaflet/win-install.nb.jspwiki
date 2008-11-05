@@ -1,0 +1,77 @@
+!!!Installering og bruk av Divvun-verktøyene på Windows
+For å installere Divvun-verktøyene kan man enten laste ned programmet fra
+[http://www.divvun.no/static_files/DivvunInstaller.exe] eller installere det
+fra en CD. Sett inn CD-en eller klikk på nedlastingslenka —
+installeringsprogrammet starter av seg selv.
+
+1. Velg installeringsspråk, d.v.s. det språk som skal brukes under
+selve installeringen av programmet: 
+
+[Velg installeringssspråk|guvvieh/PC_02_Install_choose_language_cut.png]
+----
+
+2. Fortsett med installeringen:
+  
+[Fortsett med installeringen|guvvieh/PC_03_Install_start_a_cut.png]
+----
+
+3. For å installere programmet, klikk på knappen __Installer__.
+
+[klikk på knappen "Installer"|guvvieh/PC_04_install_continue.png]
+----
+
+4. For å fullføre installeringen, klikk på __Fullfør__:
+
+[Fullfør installeringen|guvvieh/PC_05_install_complete.png]
+
+Deretter er installeringen av programmet ferdig.
+
+!!!Innstillinger i Windows for å kunne skrive på samisk
+1. For å kunne skrive med samiske bokstaver må du gå til
+__Kontrollpanel__. Der dobbelklikker du på ikonet
+__Dato, klokkeslett, språk og regionale innstillinger:__
+  
+[Dato, klokkeslett, språk og regionale innstillinger|guvvieh/PC_07_controlpanel_settings_date_clock_cut.png]
+----
+  
+2. Nå er du på regionale innstillinger. Her dobbelklikker du på ikonet
+__Innstillinger for region og språk:__
+  
+[Dobbelklikk på ikonet "Innstillinger for region og språk"|guvvieh/PC_08_Settings_language_cut.png]
+----
+
+3. I denne dialogruta velger du deretter fliken __Språk__ og klikker på knappen
+__Detaljer:__
+
+[Klikk på knappen "Detaljer"|guvvieh/PC_09_Settings_language_details_cut.png]
+----
+
+4. Her klikker du på __Legg til...__. Nå kan du velge vilket språk du vil
+kunne skrive på. Her velger du __Samisk:__
+
+[Velg samisk|guvvieh/PC_10_settings_choose_language_cut.png].
+----
+  
+5. Nå kan du lukke alle vinduene og gå tilbake til skrivebordet.
+----
+
+6. Når du heretter skal skrive på samisk, klikker du på språkikonet nede i det
+høyre hjørnet på skrivebordet og velger __Samisk__:
+
+[Velg samisk tastatur når du skriver samisk|guvvieh/PC_11_dashboard_choose_language_cut.png]
+  
+Nå er tastaturoppsettet stilt inn for samiske bokstaver, f.eks. gir tasten "q"
+bokstaven "á" og tasten "¨" gir bokstaven  "ŋ" osv.
+  
+!!!Bruke Divvun på Windows
+
+1. For at Divvun-verktøyene skal kunne hjelpe deg, må du fortelle datamaskinen  at du skriver på samisk ved å velge det som skrivespråk. Når du har åpnet MS
+Office klikker du på fliken __Se gjennom__, der velger du __Angi språk__ og til slutt
+__Samisk:__
+  
+[Velg "Samisk" som språk for teksten|guvvieh/PC_12_MSOffice_choose_language_cut.png]
+----
+
+2. Nå kan du begynne å skrive på samisk, og programmet hjelper deg å stave rett:
+  
+[Stavekontrollen i bruk|guvvieh/PC_13_MSOffice_example_cut.png]
