@@ -1,100 +1,83 @@
-!!!Installation och användning av produkten.
-För att installera Divvun kan man antingen ladda ner programmet från
-[http://www.divvun.no/static_files/sami-proofing-tools.dmg] eller installera det
-från en CD.
+!!!Installasjåvnnå ja nævoj adno.
+Gå installeri Divvom-nævojt máhttá viedtjat prográmmav dássta:
+[http://www.divvun.no/static_files/sami-proofing-tools.dmg] jali installerit dav skierros.
 
-!!!Installation på MacOS X
-1.  Ladda ned installationspaketet. Den senaste officiella versionen hittar du alltid
-[här|http://www.divvun.no/static_files/sami-proofing-tools.dmg]. Om du har
-CD:n, sätt då in den i datorn. När nedladdningen är klar öppnas ett fönster på ditt skrivbord. Samma
-fönster öppnas även när CD:n är klar. Dubbelklicka på den gula lådan (installationspaketet):
+!!!Installasjåvnnå MacOS X:n
+1.  Viettja installasjonpáhkav. Maŋemus versjåvnåv agev gávnnu
+[dánna|http://www.divvun.no/static_files/sami-proofing-tools.dmg]. Jus dujna le skierro, de bieja dav dáhtámasjijnnaj . Gå le gárves viettjadum klása rahpas tjállembievden. Sæmmi klása rahpas gå skierro aj le gárves. Dieddel visskis lådav (installasjonpáhkav) guovte gierde:
 
-[Dubbelklicka på
-installationspaketet|guvvieh/Mac_01_Installation_download_finished.png]
+[Dieddel visskis lådav (installasjonpáhkav) guovte gierde|guvvieh/Mac_01_Installation_download_finished.png]
 ----
 
-2. Klicka på __Fortsätt__ tills du är klar för att börja själva installationen:
+2. Dieddel __Fortsätt__ dassátjij gå le gárves álgadit installasjåvnåv:
 
 [Bild: |guvvieh/Mac_05_installation_install.png]
 ----
 
-3. Om du inte är administratör måste installationen godkännas av en sådan:
+3. Jus i le administráhtur, de sierra dakkár hæhttu dåhkkidit installasjåvnåv:
 
-[Installationen måste godkännas av en
-administratör|guvvieh/Mac_05_installation_install_a.png]
+[Administráhtur hæhttu dåhkkidit installasjåvnåv|guvvieh/Mac_05_installation_install_a.png]
 ----
 
-4. Installationen är nu klar och du har Divvun-verktygen på din dator!
+4. Installasjåvnnå dálla le gárves ja dujna li Divvom-nævo ietjat dáhtámasjijnan!
 
-[Installationen är klar|guvvieh/Mac_05_installation_install_c.png]
+[Installasjåvnnå le gárves|guvvieh/Mac_05_installation_install_c.png]
 ----
 
-!!!Inställningar i MacOS X för att kunna skriva på samiska
+!!!Hiebadusá MacOS X:n vaj máhtá tjállet sámev
 
-För att kunna skriva på samiska måste du använda en samisk
-tangentbordsuppsättning.
+Tjállem diehti sámev hæhttu adnet sáme tastatuvrav.
 
-1. Öppna __Systeminställningar__ 
+1. Rabá __Systeminställningar__ 
 
-[Bild: Öppna Systeminställningar|guvvieh/Mac_06a_Systemvalg.png]
+[Bild: Rabá Systemhiebadusájt|guvvieh/Mac_06a_Systemvalg.png]
 ----
 
-2. Klicka på __Internationellt__ eller skriv ett närliggande sökord i
-sökfältet:
+2. Dieddel __Internationellt__ jali tjále sjimugasj bágov åhtsåmklásaj:
 
-[Bild: Systeminställningar |guvvieh/Mac_06_Systemvalg.png]
+[Bild: Systemhiebadusá |guvvieh/Mac_06_Systemvalg.png]
 ----
 
-3. Klicka på fliken __Indatameny__ och kryssa i __Nordsamisk:__
+3. Dieddel __Indatameny__ ja vállji __Nordsamisk:__
 
-[Lägga till samiskt
-tangentbord|guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk.png]
+[Biedjat sáme tastatuvrav|guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk.png]
 ----
 
-4. Välj sedan samisk tangentbordsuppsättning i menyn till höger när du ska
-skriva på samiska:
+4. De vállji sáme tastatuvrav menyan oalges bielen gå galga tjállet sámev:
 
-[Välj samiskt tangentbord för
-inskrivning|guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png]
+[Vállji sáme tastatuvrav|guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png]
 
-!!!Användning av Divvun på Mac
-När du öppnat MS Office måste du informera Office om vilket språk texten är
-skriven på. Detta görs på samma sätt för både MS Office 2004 och MS Office 2008.
+!!!Gåktu adná divvomav Macan
+Gå le rahpam MS Office hæhttu diededit Officij makkir giellaj tæksta le. Dát dagáduvvá sæmmi láhkáj MS Office 2004:n gå MS Office 2008:n.
 ----
 
-1. Markera den samiska texten:
+1. Mierkki tevstav:
 
-[Markera den samiska texten|guvvieh/Mac_08_MSOffice_tools_language_a.png]
+[Mierkki tevstav|guvvieh/Mac_08_MSOffice_tools_language_a.png]
 ----
 
-2. Gå till menyn __Tools > Language…__:
+2. Maná menyaj __Tools > Language…__:
 
-[Gå till menyn "Tools > Language…"|guvvieh/Mac_08_MSOffice_tools_language_b.png]
+[Maná menyaj "Tools > Language…"|guvvieh/Mac_08_MSOffice_tools_language_b.png]
 ----
 
-3. Välj språket __Katalanska__ (__Catalan__) för __nordsamiska__, eller språket
-__Baskiska__ (__Basque__) för __lulesamiska__([1]):
+3. Vállji gielav __Katalanska__ (__Catalan__) jus le __nuorttasáme tæksta__, jali
+__Baskiska__ (__Basque__) jus le __julevsáme tæksta__([1]):
 
-[Välj språk|guvvieh/Mac_08_MSOffice_tools_language_c.png]
+[Vállji gielav|guvvieh/Mac_08_MSOffice_tools_language_c.png]
 ----
 
-4. Ifall du skriver mycket på samiska, kan du göra samiska till förvalt språk för nya dokument genom att klicka på knappen __Default…__ (förra bilden) och
-sedan klicka på knappen __Yes__:
+4. Jus ábaj tjálá sámegiellaj máhtá válljit dav standardgiellan náv:
+Dieddel __Default…__ (åvdep gåvvå) ja de vállji __Yes__:
   
-[Vil du göra samiska till förvalt
-språk?|guvvieh/Mac_08_MSOffice_tools_language_d.png]
+[Sidá gå válljit sámegielav standardgiellan?|guvvieh/Mac_08_MSOffice_tools_language_d.png]
 ----
   
-5. Nu kan du börja skriva på samiska och Divvun-verktygen hjälper dig att stava
-rätt:
+5. Dálla máhtá álgget sábmáj tjállet ja Divvom-nævo viehkedi stávimijn:
  
-[Samisk text med skrivfel|guvvieh/Mac_09_MSoffice_spelling_example_a.png]
+[Sáme tæksta stávimvigij|guvvieh/Mac_09_MSoffice_spelling_example_a.png]
   
-[Rättstavningsdialog för
-skrivfelet|guvvieh/Mac_09_MSoffice_spelling_example_c.png]
+[Korrekturklásan|guvvieh/Mac_09_MSoffice_spelling_example_c.png]
 ----
 
-[#1] Microsoft har tills vidare inte skapat stöd för samiska i MS Office för
-Mac, trots att samma stöd finns för MS Office för Windows. Förhoppningsvis kommer
-framtida versioner av MS Office för Mac att innehålla detta stöd. Tills dess
-måste vi definiera samiska som ett annat språk som redan finns i MS Office.
+[#1] Microsoft ij vil doarjo sámegielav Mac MS Officen, vajku dårja le Windows MS Officen. Mij sávvap ahte boahtte versjåvnåjn Mac MS Offices le dákkir dårja. Dassátjij mij hæhttup definerit sámev ietjá giellan, mij juo gávnnu MS Officen.
