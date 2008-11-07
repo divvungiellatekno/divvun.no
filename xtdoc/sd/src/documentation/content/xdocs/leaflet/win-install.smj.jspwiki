@@ -1,80 +1,71 @@
-!!!Installation och användning av produkten på Windows
-För att installera Divvun kan man antingen ladda ner programmet från
-[http://www.divvun.no/static_files/DivvunInstaller.exe] eller installera det
-från en CD. Sätt in CDn eller klicka på nedladdninslänken —
-installationsprogrammet startar av sig själv.
+!!!Installasjåvnnå ja nævoj adno Windowsin
+Gå installeri Divvom-nævojt máhttá viedtjat prográmmav dássta:
+[http://www.divvun.no/static_files/DivvunInstaller.exe] jali installerit dav skierros. Bieja skierrov dáhtámasjijnnaj jali dieddel viedtjamliŋkav - installasjonprográmma iesj álggá barggat.
 
-1. Välj installationsspråk, d.v.s. det språk som används under själva
-installationen av programmet: 
+1. Vállji installasjongielav. Dat le dat giella mij aneduvvá gå prográmma installeriduvvá:
 
-[Välj installationsspråk|guvvieh/PC_02_Install_choose_language_cut.png]
+[Vállji installasjongielav|guvvieh/PC_02_Install_choose_language_cut.png]
 ----
 
-2. Fortsätt med installationen:
+2. Joarke installasjåvnåv:
   
-[Fortsätt med installationen|guvvieh/PC_03_Install_start_a_cut.png]
+[Joarke installasjåvnåv|guvvieh/PC_03_Install_start_a_cut.png]
 ----
 
-3. Installera programmet, tryck på knappen __Installera__.
+3. Installeri prográmmav, dieddel __Installera__.
 
-[Välj vad du ska installera|guvvieh/PC_04_install_continue.png]
+[Vállji majt galga installerit|guvvieh/PC_04_install_continue.png]
 ----
 
-4. Fullför installationen, tryck på __Fullför__:
+4. Gárvet installasjåvnåv, dieddel __Fullför__:
 
-[Börja installera |guvvieh/PC_05_install_complete.png]
+[Álge installerit |guvvieh/PC_05_install_complete.png]
 
-Därefter är installationen av programmet klar.
+De installasjåvnnå le gárves.
 
-!!!Inställningar i Windows för att kunna skriva på samiska.
-1. För att kunna skriva med samiska bokstäver måste du välja det i
-__Kontrollpanelen__. Där dubbelklickar du på ikonen
+!!!Hiebadusá Windowsin gå galggá sábmáj tjállet.
+1. Gå sáme bokstávaj galga tjállet hæhttu válljit dav dánna: __Kontrollpanelen__. Dieddel dáv guovte gierde:
 __Datum, klockslag, språk och internationella inställningar:__
   
-[Datum, klockslag, språk och internationella
-inställningar|guvvieh/PC_07_controlpanel_settings_date_clock_cut.png]
+[Biejvenummar, kloahkkamierre, giella ja rijkajgasskasasj
+hiebadusá|guvvieh/PC_07_controlpanel_settings_date_clock_cut.png]
 ----
   
-2. Nu är du på internationella inställningar. Här dubbelklickar du på ikonen
+2. Dálla le dási ållim: __Internationella inställningar__. Dieddel dáv guovte gierde:
 __Inställningar för region och språk:__
   
-[Dubbelklicka på ikonen "Inställningar för region och
+[Dieddel guovte gierde "Inställningar för region och
 språk"|guvvieh/PC_08_Settings_language_cut.png]
 ----
 
-3. I denna box väljer du sedan fliken __Språk__ och trycker på knappen
-__Detaljer:__
+3. Dánna vállji  __Språk__ ja dieddela __Detaljer:__
 
-[trycker på knappen
+[dieddel
 "Detaljer"|guvvieh/PC_09_Settings_language_details_cut.png]
 ----
 
-4. Här klickar du på __Lägg till...__. Nu kan du välja vilket språk du vill
-kunna skriva på. Här väljer du __Samiska:__
+4. De dieddela __Lägg till...__. Dálla máhtá válljit gielav majt sidá tjállet: __Samiska:__
 
 [Bild: |guvvieh/PC_10_settings_choose_language_cut.png].
 ----
   
-5. Nu kan du stänga alla fönster och gå tillbaka till skrivbordet.
+5. Dálla oattjo stággit gájkka klásajt ja mannat ruopptot tjállembævddáj.
 ----
 
-6. När du sen ska skriva på samiska klickar du på språkikonen nere i det
-högra hörnet på skrivbordet och väljer __Samiska__:
+6. Gå dálla galga álgget tjállet sábmáj dieddela giellaikonav tjállembievde vuolep oalges tjiegan ja danna vállji __Samiska__:
 
 [Bild: |guvvieh/PC_11_dashboard_choose_language_cut.png]
   
-Nu är tangentbordet inställt för samiska tecken, t.ex. ger tangenten "q"
-bokstaven "á" och tangenten "¨" ger bokstaven  "ŋ" osv.
+Dálla dujna le sáme tastatuvrra, bv. oattjo "á" q-boalos ja "ŋ" ¨-boalos.
   
-!!!Användning av Divvun på Windows
+!!!Gåktu Divvomav adná Windowsin
 
-1. För att Divvun-verktygen ska kunna hjälpa dig, måste du informera datorn om att du skriver på samiska genom att välja det som skriftspråk. När du öppnat MS
-Office klickar du på fliken __Se igenom__, väljer där __Ange språk__ och sen
+1. Jus Divvom-nævo galggi årrot dunji viehkken, de hæhttu diededit dáhturij ahte dån tjálá sábmáj ja válljit dav tjállemgiellan. Gå la rahpam MS Office dieddela __Se igenom__. Dánna vállji __Ange språk__ ja de
 __Samiska:__
   
 [Bild: |guvvieh/PC_12_MSOffice_choose_language_cut.png]
 ----
 
-2. Nu kan börja skriva på samiska och programmet hjälper dig att stava rätt:
+2. Dal dån máhtá sámegiellaj tjállegoahtet ja prográmma viehket duv njuolgga stávit:
   
 [Bild: |guvvieh/PC_13_MSOffice_example_cut.png]
