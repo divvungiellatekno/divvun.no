@@ -7,8 +7,8 @@
   </header>
 
   <body>
-    <p>Divvom-prosjækta la prosjækta mij la Vuona Sámedikke vuolen ja la   dahkamin sámegiela divvomnævojt, degu stávimkontrållåv ja báhkojuohkemav
-       nuortta-, julev- ja oarjelsábmáj. Nævo doajmmi Linuxin, MacOS X:n ja Windowsin dábálamos kontåvrråprográmmajn. Nævo nuortta- ja julevsábmáj li gárvvása, ja oarjelsáme nævo li dagáduvvamin Divvun II-prosjevtan.</p>
+    <p>Divvom-prosjækta l prosjækta mij la Vuona Sámedikke vuolen ja l   dahkamin sámegiela divvomnævojt, degu stávimkontrållåv ja báhkojuohkemav
+       nuortta-, julev- ja oarjelsábmáj. Nævo doajmmi Linuxin, MacOS X:n ja Windowsin dábálamos kontåvrråprográmmajn. Nævo nuortta- ja julevsábmáj li gárvvása, ja oarjelsáme nævo l dagáduvvamin Divvun II-prosjevtan.</p>
 
     <section>
       <title>Gárves korrektuvrranævo</title>
@@ -93,7 +93,7 @@
       <section>
         <title>Internehta dagi?</title>
 
-        <p>Addne gejn Internæhtta le nuolle, jali ij le Internæhtta åvvånis, oadtju diŋŋgot CD-skierrov Vuona Sámedikkes: +47-78 48 42 22.</p>
+        <p>Addne gejn Internæhtta l nuolle, jali ij le Internæhtta åvvånis, oadtju diŋŋgot CD-skierrov Vuona Sámedikkes: +47-78 48 42 22.</p>
       </section>
     </section>
 
@@ -103,7 +103,7 @@
       <section>
         <title>Anonyma svn</title>
 
-        <p>Dán prosjevta gálldokåvdåjt æjgguji Sámedigge ja Råmså universitehta ja da li rahpasa ja friddja, ja li ållemmutton dánna: <a href="doc/infra/anonymous-svn.html">anonyma
+        <p>Dán prosjevta gálldokåvdåjt æjgguji Sámedigge ja Råmså universitehta ja da l rahpasa ja friddja, ja l ållemmutton dánna: <a href="doc/infra/anonymous-svn.html">anonyma
         svn</a>. Miján la aj tjála gåk <a
         href="doc/intro.html">gávnná</a> gálldokåvdåjn. Muhtem oase li
         proprieteridum ja <em>ælla</em> sadjihin.</p>
@@ -112,12 +112,12 @@
       <section>
         <title>Låhkåt dokumentasjåvnåv ietjas PC:n</title>
 
-        <p>Gájkka dokumentasjåvnnå majt dát prosjækta la tjállám gávnnu dánna <a
+        <p>Gájkka dokumentasjåvnnå majt dát prosjækta l tjállám gávnnu dánna <a
         href="http://divvun.no">Divvunprosjevta sijddabielen</a>. Jus sidá viedtjat dáv
         dokumentasjåvnåv iehtjat dáhturij, tjuovo bagádusáv dánna:
         <a href="doc/infra/anonymous-svn.html">anonyma svn</a> Dassta maŋŋela
         dási: <a href="doc/infra/forrest-howto.html">hiebadit forrest</a>.
-        Dálla gájkka dokumentasjåvnnå la duv dáhturin, ja dån iesj máhtá guorrat næhttalåhkke baktu vájku internæhtta ij la rahppot.</p>
+        Dálla gájkka dokumentasjåvnnå l duv dáhturin, ja dån iesj máhtá guorrat næhttalåhkke baktu vájku internæhtta ij la rahppot.</p>
       </section>
     </section>
 
