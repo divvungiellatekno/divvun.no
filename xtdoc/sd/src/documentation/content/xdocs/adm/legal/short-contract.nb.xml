@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nb">
+    <header>
+        <title>Kortversjonen av kontrakt mellom sametinget og forfatter/oversetter/forlag</title>
+        <authors>
+            <person email="borre.gaup@samediggi.no" name="Børre Gaup" />
+        </authors>
+    </header>
+    <body>
+        <section>
+            <title>Forfatter/oversetter/forlag</title>
+			<p>Forfatter/oversetter/forlag gir sametinget retten til å bruke tekster i elektronisk format til disse formålene:</p>
+			<ul>
+				<li>Vitenskapelig forskning</li>
+				<li>bruke trekkene ved språket i tekstene (f.eks. statiske data, grammatikkregler og den semantiske betydningen av ordene)</li>
+				<li>korte eksempelsitat</li>
+				<li>bruke tekstene i kommersielle og ikke-kommersielle språkteknologiske formål, men som samtidig ikke bryter med opphavsrettslover. Eksempler er stavekontroll, grammatikkontroll, pedagogisk programvare, maskinoversettelse, o.l.</li>
+			</ul>
+		</section>
+
+		<section>
+			<title>Sametinget</title>
+			<p>Sametinget forplikter seg til følgende:</p>
+			<ul>
+				<li>Å ikke forandre innholdet i tekstene</li>
+				<li>Lagre tekstene slik at ingen andre enn dem med rett til å bruke dem har tilgang til dem.</li>
+				<li>Bare la personer som underskriver en "Bruksrettskontrakt" få tilgang til tekstene. Bruksretten begrenses til de fire punktene ovenfor.</li>
+			</ul>
+		</section>
+	</body>
+</document>
