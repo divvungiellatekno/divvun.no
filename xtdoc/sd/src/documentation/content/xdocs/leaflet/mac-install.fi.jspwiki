@@ -1,0 +1,78 @@
+!!!Divvun-ohjelman asennus ja käyttö MacOS X -koneella
+Divvun-ohjelman voi ladata osoitteesta [http://www.divvun.no/static_files/sami-proofing-tools.dmg] tai se voidaan asentaa CD:ltä.
+
+1. Lataa asennusohjelma. Uusimman version löydät aina [täältä|http://www.divvun.no/static_files/sami-proofing-tools.dmg]. Jos sinulla on CD, asenna se tietokoneeseen. Kun lataus tai CD on valmis avautuu työpöydälle uusi ikkuna. Kaksoisosoita keltaista laatikkoa (asennuspaketti):
+
+[Kaksoisosoita asennuspakettia|guvvieh/Mac_01_Installation_download_finished.png]
+----
+
+2. Osoita __Jatka__ niin että pääset aloittamaan asennuksen:
+
+[Kuva: |guvvieh/Mac_05_installation_install.png]
+----
+
+3. Jos sinulla ei ole asennusoikeuksia tietokoneella, tulee sinun pyytää ylläpitäjän suorittaa asennus:
+
+[Ylläpitäjä hyväksyy asennuksen|guvvieh/Mac_05_installation_install_a.png]
+----
+
+4. Asennus on nyt valmis ja sinulla on Divvun-ohjelma tietokoneellasi!
+
+[Asennus on valmis|guvvieh/Mac_05_installation_install_c.png]
+----
+
+!!!MacOS X -asetukset kirjoitettaessa saameksi
+
+Saamenkielinen näppäimistö tulee ottaa käyttöön.
+
+1. Avaa __Järjestelmäasetukset__
+
+[Avaa Järjestelmäasetukset|guvvieh/Mac_06a_Systemvalg.png]
+----
+
+2. Osoita __Maakohtaiset:__
+
+[Järjestelmäasetukset|guvvieh/Mac_06_Systemvalg.png]
+----
+
+3. Osoita __Syöttövalikko__ ja valitse __Pohjoissaamelainen:__
+
+[Saamenkielinen näppäimistö|guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk.png]
+----
+
+4. Tästä lähtien voit valita saamenkielisen näppäimistön oikeassa yläkulmassa olevasta valikosta:
+
+[Valitse saamenkielinen näppäimistö|guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png]
+
+!!!Divvun-ohjelman käyttäminen
+Kun olet avannut MS Office-ohjelmiston sinun täytyy määritellä Office-ohjelmistolle millä kielellä kirjoitat. Tämä tapahtuu samalla tavalla sekä MS Office 2004 että MS Office 2008 versioissa.
+----
+
+1. Valitse saamenkielinen teksti:
+
+[Valitse saamenkielinen teksti|guvvieh/Mac_08_MSOffice_tools_language_a.png]
+----
+
+2. Valitse __Työkalut > Kieli…__:
+
+[Valitse "Työkalut > Kieli…"|guvvieh/Mac_08_MSOffice_tools_language_b.png]
+----
+
+3. Valitse kieleksi __Katalaani__ (__Catalan__) jos kirjoitat __pohjoissaamen kielellä__ tai __Baski__ (__Basque__) jos kirjoitat __luulajansaamen kielellä__([1]):
+
+[Valitse kieli|guvvieh/Mac_08_MSOffice_tools_language_c.png]
+----
+
+4. Jos kirjoitat paljon saamen kielellä voit valita sen oletuskieleksi osoittamalla __Oletus__-painiketta ja tämän jälkeen valitse __Kyllä__:
+
+[Haluatko käyttää saamea oletuskielenä?|guvvieh/Mac_08_MSOffice_tools_language_d.png]
+----
+  
+5. Nyt voit kirjoittaa saamen kielellä ja käyttää Divvun-työkalua apuna oikoluvussa:
+
+[Saamenkielinen teksti jossa kirjoitusvirhe|guvvieh/Mac_09_MSoffice_spelling_example_a.png]
+  
+[Korjausikkuna|guvvieh/Mac_09_MSoffice_spelling_example_c.png]
+----
+
+[#1] Microsoft ei vielä tue saamen kieltä Mac MS Office toimisto-ohjelmistossa, vaikka tuki löytyy Windows MS Office versiosta. Toivottavasti tulevat versiot sisältävät tuen saamen kielelle. Siihen asti saamen kieli tulee määritellä toiseksi kieleksi.
