@@ -97,11 +97,11 @@
       </section>
     </section>
 
-    <section>
+    <!--<section>
       <title>Gáldokoda ja dokumentašuvdna</title>
 
       <section>
-        <title>Anonym cvs</title>
+        <title>Anonym svn</title>
 
         <p>Oassi prošeavtta gáldokodas mii gullo Sámediggái ja Romssa Universitehtii lea rabas ja nuvttá ja oažžu dás: <a href="doc/infra/anonymous-svn.html">anonym svn</a>. Mii leat maid čállán dokumeantta got <a href="doc/intro.html">gávdnat</a> gáldokodas. Muhte soames oasit de fas leat proprietárat ja daid <em>ii</em> vaikko gii oaččo.</p>
       </section>
@@ -112,7 +112,7 @@
         <p>Visot dokumentašuvdna dán prošeavtta birra gávdná <a
         href="http://divvun.no">prošeavtta netsiiddus</a>. Jos siđat dán dokumentašuvnna iežat dihtorii, čuovo dán bagadusa: <a href="doc/infra/anonymous-svn.html">anonym svn</a>, ja mana dasto deike: <a href="doc/infra/forrest-howto.html">forrest sajáiduhttin</a>. De lea visot dokumentašuvdna du dihtoris, ja oaččut navigeret das web-browseriin Internet haga.</p>
       </section>
-    </section>
+    </section>-->
 
     <section>
       <title>Buorit liŋkkat</title>
