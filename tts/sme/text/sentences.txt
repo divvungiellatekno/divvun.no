@@ -1,11 +1,14 @@
-#This document contains the sentences that will be read for the demo for tts.
+# This document contains the sentences that will be read for the demo for tts.
 
-#The texts have been edited so that they will be natural to read:
-#long sentences are split into smaller ones
-#certain consonant clusters are simplified, tr > r
-#Strange passages are changed, such as "oat leai čietnjal:dat lei čienjal
-#words and suffixes changed according to the standard western dialects
-#e.g leai > lei, -eaddjiide > eddjiide, sártnodit > humadit
+# For the present phase, only the first 186 lines have been recorded,
+# i.e. the chapters Johan Turi, Sámegiella Sámedikkis and Davvin 3.
+
+# The texts have been edited so that they will be natural to read:
+# long sentences are split into smaller ones
+# certain consonant clusters are simplified, tr > r
+# Strange passages are changed, such as "oat leai čietnjal:dat lei čienjal
+# words and suffixes changed according to the standard western dialects
+# e.g leai > lei, -eaddjiide > eddjiide, sártnodit > humadit
 
 
 # First text: Johan Turi: Muitalus sámiid birra
