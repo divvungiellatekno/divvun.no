@@ -8,7 +8,7 @@
 
   <body>
     <p>Divvom-prosjækta l prosjækta mij la Vuona Sámedikke vuolen ja l   dahkamin sámegiela divvomnævojt, degu stávimkontrållåv ja báhkojuohkemav
-       nuortta-, julev- ja oarjelsábmáj. Nævo doajmmi Linuxin, MacOS X:n ja Windowsin dábálamos kontåvrråprográmmajn. Nævo nuortta- ja julevsábmáj li gárvvása, ja oarjelsáme nævo l dagáduvvamin Divvun II-prosjevtan.</p>
+       nuortta-, julev- ja oarjelsábmáj. Nævo doajmmi Linuxin, MacOS X:n ja Windowsin dábálamos kontåvrråprográmmajn. Nævo nuortta- ja julevsábmáj li gárvvása, ja oarjelsáme nævo li dagáduvvamin Divvun II-prosjevtan.</p>
 
     <section>
       <title>Gárves korrektuvrranævo</title>
@@ -103,7 +103,7 @@
       <section>
         <title>Anonyma svn</title>
 
-        <p>Dán prosjevta gálldokåvdåjt æjgguji Sámedigge ja Råmså universitehta ja da l rahpasa ja friddja, ja l ållemmutton dánna: <a href="doc/infra/anonymous-svn.html">anonyma
+        <p>Dán prosjevta gálldokåvdåjt æjgguji Sámedigge ja Råmså universitehta ja da li rahpasa ja friddja, ja li ållemmutton dánna: <a href="doc/infra/anonymous-svn.html">anonyma
         svn</a>. Miján la aj tjála gåk <a
         href="doc/intro.html">gávnná</a> gálldokåvdåjn. Muhtem oase li
         proprieteridum ja <em>ælla</em> sadjihin.</p>
