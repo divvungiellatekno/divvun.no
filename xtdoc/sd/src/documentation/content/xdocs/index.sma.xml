@@ -7,32 +7,24 @@
   </header>
 
   <body>
-    <p>Divvun-projektet är ett projekt under det norska Sametinget för att
-    göra rättstavningsprogram för samiska, dvs rättstavningskontroll och
-    orddelning för nord-, lule- og sydsamiska. Verktygen fungerar på Linux
-    (snart), MacOS X och Windows i dom vanligaste kontorprogrammen. Verktyg
-    för nord- og lulesamiska är färdiga, sydsamiska verktyg arbetas det med i
-    det så kallade Divvun II-projektet.</p>
+    <p>Divvun-prosjekte lea Saemiedigkien vuelelen jïh lea rïektestjaelemeprovgraammh noerhte- julev- jïh åarjelsaemien gïelide. Dïrreth daelie juhtieminie Linux:sne, MacOS X:sne jïh Windows:sne daej sïejhmemes kontovreprovgraammi sisnie. Dïrregh noerhte- jïh julevsaemien gïelide leah riejries jïh daelie åarjelsaemien dïrregh leah dorjesovveminie dunnie prosjektesne mij gåhtjoen Dåvvome II-prosjekte.</p>
 
     <section>
-      <title>Tillgängliga korrekturverktyg</title>
+      <title>Jaksoes dïrregh</title>
 
-      <p>Färdiga korrekturverktyg är gratis tillgängliga nedanför i form av
-      installationsprogram som enkelt installerar verktygen på datamaskinen.
-      Verktygen fungerar på samma sätt som motsvarande verktyg för andra
-      språk.</p>
+      <p>Rïektestjaelemedïrregh mah leah rïejries gåerede viedtjedh jïh sijjiedehtedh sov daatovrese. Daate lea maaksohts. Juktie dïrregem sijjiedehtedh die barre lea sijjiedehtemefijlem gaskeviermeste viedtjedh. Dïrregh hov saemma mietie juhtieh goh samma-laaketjh dïrregh jeatjaj gïelide.</p>
 
       <table>
-        <caption>Tabell över färdiga och kommande (x) produkter</caption>
+        <caption>Taabelle gaervies jïh båtije (x) dorjesigujmie </caption>
 
         <tr>
-          <th>Värdprogram</th>
+          <th>Gåassojeprograamme</th>
 
-          <th>Operativsystem</th>
+          <th>Operativsysteme</th>
 
-          <th>Nedlastningslänk</th>
+          <th>Viedtjemesvaalhtese</th>
 
-          <th>Mer info</th>
+          <th>Jienebe bievnesh</th>
         </tr>
 
         <tr>
@@ -71,22 +63,22 @@
         <tr>
           <td>Windows</td>
 
-          <td>(kommer snart)</td>
+          <td>(dallah-masten båata)</td>
         </tr>
 
         <tr>
           <td>OpenOffice.org 2.4.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta4: <a href="http://www.divvun.no/static_files/smi-pack.zip">Nord -och lulesamiska</a></td>
+          <td>1.0beta4: <a href="http://www.divvun.no/static_files/smi-pack.zip">Noerhte -jïh julevsaemien</a></td>
           
-          <td><a href="doc/proof/spelling/X-spell/install_use.html">Installation och användning</a></td>
+          <td><a href="doc/proof/spelling/X-spell/install_use.html">Sijjiedehteme jïh åtnoe</a></td>
         </tr>
 
 		<tr>
           <td>OpenOffice.org 3.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
           <td>1.0beta4: <a href="http://www.divvun.no/static_files/smi.oxt">Nord -och lulesamiska</a></td>
-          <td><a href="doc/proof/spelling/X-spell/install_use_3x.html">Installation och användning</a></td>
+          <td><a href="doc/proof/spelling/X-spell/install_use_3x.html">Sijjiedehteme jïh åtnoe</a></td>
         </tr>
 
 		<tr>
@@ -94,8 +86,8 @@
            href="http://hunspell.sourceforge.net/"
           >Hunspell</a>-<br/>kompatibla program</td>
           <td>Linux</td>
-          <td>1.0beta4: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Nordsamiska</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Lulesamiska</a></td>
-	  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Installation</a></td>
+          <td>1.0beta4: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Noerhtesaemien</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Julevsaemien</a></td>
+	  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Sijjiedehteme</a></td>
         </tr>
 
         <tr>
@@ -110,46 +102,36 @@
       <section>
         <title>Utan Internet?</title>
 
-        <p>För användare med långsam eller ingen Internet-tillgång, är det
-        möjligt att beställa en CD från Sametinget genom att ringa till
-        telefonnummer: +47 78 48 42 22.</p>
+        <p>Dejtie giej lea sööjmes gaskeviermie jallh eah jeaksieh gaskeviermiem gännah, maehtieh CD:m dängkodh Saemiedigkien tjïrrh jis daam nummerem ringkedh:
+        +47 78 48 42 22.</p>
       </section>
     </section>
 
 <!--    <section>
-      <title>Källkod och dokumentation</title>
+      <title>Gaaltijekode jïh dokumentasjovne</title>
 
       <section>
         <title>Anonym cvs</title>
 
-        <p>Den delen av källkoden till detta projekt som tillhör Sametinget
-        och Universitetet i Tromsø är öppen och fri, och är tillgänglig via <a
-        href="doc/infra/anonymous-svn.html">anonym svn</a>. Vi har också
-        skrivit ett dokument om hur man <a href="doc/intro.html">finner
-        fram</a> i källkoden. Vissa delar är proprietära och är alltså
-        <em>inte</em> tillgängliga.</p>
+        <p>Saemiedigkien jïh Tromsøen universiteten åessie daan projekten gaaltijekodeste lea gaahpode jïh frijje jïh daan baaktoe daam jaksa <a
+        href="doc/infra/anonymous-svn.html">anonym svn</a>. Mijjieh libie aaj tjaatsegem dorjeme mij tjïelkeste guktie <a href="doc/intro.html">gaavna </a> gaaltijekodesne. Naakenh åesieh leah proprieräre jïh die 
+        <em>eah</em> joksehke.</p>
       </section>
 
       <section>
-        <title>Läsa dokumentationen på egen PC</title>
+        <title>Jijtse PC:sne dokumentasjovnem lohkedh</title>
 
-        <p>All dokumentation om detta projekt är tillgänglig på <a
-        href="http://divvun.no">projektets hemsida</a>. Om du vill ha denna
-        dokumentation på din egen datamaskin, följ instruktionerna om <a
-        href="doc/infra/anonymous-svn.html">anonym svn</a>, och gå därefter
-        till <a href="doc/infra/forrest-howto.html">installation av
-        forrest</a>. Efter detta är all dokumentation på din egen datamaskin,
-        och du kan navigera genom den med en web-browser utan att vara på
-        Internet.</p>
+        <p>Gaajhke dokumentasjovne daan projekten bïjre daesnie <a
+        href="http://divvun.no"> prosjekten gåetiebielesne joksehke</a>. Jis sïjhth jïjtjedh daatovresne daam dokumentasjovem utnedh, dåeredh daam bïhkedimmiem daesnie<a
+        href="doc/infra/anonymous-svn.html">anonyme svn</a> dan männgan deakan <a href="doc/infra/forrest-howto.html">forrest sijjiedehteme </a>. Daan minngesne gaajhkh dokumentsjovne lea jïjtjedh daatovresne jïh datne web-lohkijinie dokumentasjovnem vuartasjidh,  läjhkan ih gaskeviermiem jaksh.</p>
       </section>
     </section>-->
 
     <section>
-      <title>Nyttiga länkar</title>
+      <title>Nuhtegs svaalhtesh</title>
 
       <ul>
-        <li><a href="mailto:divvun ved samediggi punkt no">E-post till
-        projektet</a></li>
+        <li><a href="mailto:divvun ved samediggi punkt no">E-påaste prosjektese</a></li>
 
         <li><a href="http://hunspell.sourceforge.net/">Hunspell</a></li>
 
