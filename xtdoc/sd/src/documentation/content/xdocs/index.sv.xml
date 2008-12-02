@@ -133,7 +133,7 @@
         denna dokumentation på din egen datamaskin, följ instruktionerna om
         <a href="doc/infra/anonymous-svn.html">anonym svn</a>, och gå därefter
         till <a href="doc/infra/forrest-howto.html">installation av forrest</a>.
-        Efter detta är all dokumentation på din egen datamaskin, och du kan
+        Efter detta är all dokumentation på din egen datamaskin och du kan
         navigera genom den med en web-browser utan att vara på
         Internet.</p>
       </section>
