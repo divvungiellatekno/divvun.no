@@ -64,14 +64,20 @@ Nå er tastaturoppsettet stilt inn for samiske bokstaver, f.eks. gir tasten "q"
 bokstaven "á" og tasten "¨" gir bokstaven  "ŋ" osv.
   
 !!!Bruke Divvun på Windows
+For at Divvun-verktøyene skal kunne hjelpe deg, må du fortelle datamaskinen  at du skriver på samisk ved å velge det som skrivespråk.
 
-1. For at Divvun-verktøyene skal kunne hjelpe deg, må du fortelle datamaskinen  at du skriver på samisk ved å velge det som skrivespråk. Når du har åpnet MS
-Office klikker du på fliken __Se gjennom__, der velger du __Angi språk__ og til slutt
-__Samisk:__
-  
-[Velg "Samisk" som språk for teksten|guvvieh/PC_12_MSOffice_choose_language_cut.png]
-----
+1a. MS Office 2003: Når du har åpnet MS Office velger du menyen __Verktøy ➿ Språk ➿ Angi språk …__
+[Meny for å velge samisk|guvvieh/PC_14_Office_2003_velg_sprak.png]
 
-2. Nå kan du begynne å skrive på samisk, og programmet hjelper deg å stave rett:
-  
+1b. Office 2007: Når du har åpnet MS
+Office klikker du på fliken __Se gjennom__, der velger du __Angi språk__
+
+2. I dialogen som dukker opp velger du __Samisk__ eller __Lulesamisk__. NB! Sørg også for at du sørger for at det ikke er en hake i __Identifiser språk automatisk__. Om det er det hopper Office automatisk tilbake til andre språk enn samisk hele tida, og divvun-verktøyene fungerer ikke som forventet.
+[Velg språk-dialog|guvvieh/PC_15_Office_2003_bestem_sprak.png]
+
+Nå kan du begynne å skrive på samisk, og programmet hjelper deg å stave rett. Du kan enten velge å høyretrykke på ord med røde streker under. Da ser det slik ut:
+
+[Forslag i meny|guvvieh/PC_16_Bruke_stavekontrollen.png]
+
+eller du kan starte stavekontrollen i eget vindu. Trykk på [abc-knappen|guvvieh/PC_17_abc_knapp.png]. Resultatet blir:
 [Stavekontrollen i bruk|guvvieh/PC_13_MSOffice_example_cut.png]
