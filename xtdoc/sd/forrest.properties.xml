@@ -23,4 +23,7 @@
     -->
   <property name="dispatcher.theme" value="pelt"/>
   <property name="dispatcher.theme-ext" value=".fv"/>
+  <property name="output.pdf.fontFamily.serif"     value="'DejaVu Serif'"/>
+  <property name="output.pdf.fontFamily.sansSerif" value="'DejaVu Sans'"/>
+  <property name="output.pdf.fontFamily.monospace" value="'DejaVu Sans Mono'"/>
 </properties>
