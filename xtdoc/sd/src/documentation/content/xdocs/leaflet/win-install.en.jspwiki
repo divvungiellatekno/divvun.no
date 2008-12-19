@@ -1,6 +1,6 @@
 !!!Installation and use of the Divvun proofing tools on Windows
 
-To install the Divvun tools you can either download the software from
+To install the Divvun tools you may either download the software from
 [http://www.divvun.no/static_files/DivvunInstaller.exe] or install it
 from a CD. Insert the CD or click the download link - the installation
 application will start automatically.
@@ -8,80 +8,69 @@ application will start automatically.
 1. Select installation language, that is, the interface language to be used
 during installation:
 
-1. Velg installeringsspråk, d.v.s. det språk som skal brukes under
-selve installeringen av programmet: 
-
-[Velg installeringssspråk|guvvieh/PC_02_Install_choose_language_cut.png]
+[Choose installation language|guvvieh/PC_02_Install_choose_language_cut.png]
 ----
-
-2. Fortsett med installeringen:
+2. Continue the installation:
   
-[Fortsett med installeringen|guvvieh/PC_03_Install_start_a_cut.png]
+[Continue the installation|guvvieh/PC_03_Install_start_a_cut.png]
 ----
 
-3. For å installere programmet, klikk på knappen __Installer__.
+3. To install the program, press the __Install__ button.
 
-[klikk på knappen "Installer"|guvvieh/PC_04_install_continue.png]
+[Press the __Install__ button|guvvieh/PC_04_install_continue.png]
 ----
 
-4. For å fullføre installeringen, klikk på __Fullfør__:
+4. To finish the installation, press the __Finish__ button:
 
-[Fullfør installeringen|guvvieh/PC_05_install_complete.png]
+[Finish the installation|guvvieh/PC_05_install_complete.png]
 
-Deretter er installeringen av programmet ferdig.
+Then the installation is finished.
 
-!!!Innstillinger i Windows for å kunne skrive på samisk
-1. For å kunne skrive med samiske bokstaver må du gå til
-__Kontrollpanel__. Der dobbelklikker du på ikonet
-__Dato, klokkeslett, språk og regionale innstillinger:__
+!!!Setting options in Windows to be able to write in Sami
+1. To be able to type Sami letters you will have to open the __Control Panel__. Double click the icon __Date, time, language and regional settings:__
   
-[Dato, klokkeslett, språk og regionale innstillinger|guvvieh/PC_07_controlpanel_settings_date_clock_cut.png]
+[Date, time, language and regional settings|guvvieh/PC_07_controlpanel_settings_date_clock_cut.png]
 ----
   
-2. Nå er du på regionale innstillinger. Her dobbelklikker du på ikonet
-__Innstillinger for region og språk:__
+2. Now regional settings is open. Double click the icon __Settings for region and language__:
   
-[Dobbelklikk på ikonet "Innstillinger for region og språk"|guvvieh/PC_08_Settings_language_cut.png]
+[Double click the "Regional and language settings" icon|guvvieh/PC_08_Settings_language_cut.png]
 ----
 
-3. I denne dialogruta velger du deretter fliken __Språk__ og klikker på knappen
-__Detaljer:__
+3. In this dialogue you choose the __Language__ tab and then press the __Details__ button:
 
-[Klikk på knappen "Detaljer"|guvvieh/PC_09_Settings_language_details_cut.png]
+[Press the "Details" button|guvvieh/PC_09_Settings_language_details_cut.png]
 ----
 
-4. Her klikker du på __Legg til...__. Nå kan du velge vilket språk du vil
-kunne skrive på. Her velger du __Samisk:__
+4. Press the __Add...__ button. Now you can choose which language you would like to use. Choose __Sami:__
 
-[Velg samisk|guvvieh/PC_10_settings_choose_language_cut.png].
+[Choose Sami|guvvieh/PC_10_settings_choose_language_cut.png].
 ----
   
-5. Nå kan du lukke alle vinduene og gå tilbake til skrivebordet.
+5. Close all windows and return to the Desktop.
 ----
 
-6. Når du heretter skal skrive på samisk, klikker du på språkikonet nede i det
-høyre hjørnet på skrivebordet og velger __Samisk__:
+6. When you want to write in Sami from now on, you click the language icon in the lower right corner on the desktop, and choose __Sami__:
 
-[Velg samisk tastatur når du skriver samisk|guvvieh/PC_11_dashboard_choose_language_cut.png]
+[Choose Sami keyboard setting when you write in Sami|guvvieh/PC_11_dashboard_choose_language_cut.png]
   
-Nå er tastaturoppsettet stilt inn for samiske bokstaver, f.eks. gir tasten "q"
-bokstaven "á" og tasten "¨" gir bokstaven  "ŋ" osv.
+Now the keyboard setting is tuned to Sami letters, e.g. the key "q" will give the letter "á" and the key "]" on a US keyboard (= the key "¨" on a Norwegian keyboard) will give the letter  "ŋ" etc.
   
-!!!Bruke Divvun på Windows
-For at Divvun-verktøyene skal kunne hjelpe deg, må du fortelle datamaskinen  at du skriver på samisk ved å velge det som skrivespråk.
+!!!Use  Divvun on Windows
+In order for the Divvun tools to be able to help you, you have to tell the computer that you actually do intend to write in Sami, by choosing Sami as the language of your text.
 
-1a. MS Office 2003: Når du har åpnet MS Office velger du menyen __Verktøy ➿ Språk ➿ Angi språk …__
-[Meny for å velge samisk|guvvieh/PC_14_Office_2003_velg_sprak.png]
+1a. MS Office 2003: When you have opened MS Office you choose the menu __Tools Languages Mark selected text as …__
+[Menu to choose Sami|guvvieh/PC_14_Office_2003_velg_sprak.png]
 
-1b. Office 2007: Når du har åpnet MS
-Office klikker du på fliken __Se gjennom__, der velger du __Angi språk__
+1b. Office 2007: When you have opened MS Office you click the tab __Se gjennom__, where you chose __Angi språk__
 
-2. I dialogen som dukker opp velger du __Samisk__ eller __Lulesamisk__. NB! Sørg også for at du sørger for at det ikke er en hake i __Identifiser språk automatisk__. Om det er det hopper Office automatisk tilbake til andre språk enn samisk hele tida, og divvun-verktøyene fungerer ikke som forventet.
-[Velg språk-dialog|guvvieh/PC_15_Office_2003_bestem_sprak.png]
+2. In the emerging dialogue you choose __Sami__ or __Lule Sami__. NB! Make sure that the box __Identify language automatically__ is not ticked. If that is the case, Office will jump back to languages other than Sami all the time, and Divvun will not work as expected.
 
-3. Nå kan du begynne å skrive på samisk, og programmet hjelper deg å stave rett. Du kan enten velge å høyretrykke på ord med røde streker under. Da ser det slik ut:
+[Choose language dialogue|guvvieh/PC_15_Office_2003_bestem_sprak.png]
 
-[Forslag i meny|guvvieh/PC_16_Bruke_stavekontrollen.png]
+3. Now you may start to write in Sami, and the program will then help you with your spelling. You may either right-click (ctrl-click) on words underlined with red, in which case it looks as follows:
 
-eller du kan starte stavekontrollen i eget vindu. Trykk på [abc-knappen|guvvieh/PC_17_abc_knapp.png]. Resultatet blir:
-[Stavekontrollen i bruk|guvvieh/PC_13_MSOffice_example_cut.png]
+[Suggestion in menu|guvvieh/PC_16_Bruke_stavekontrollen.png]
+
+or you may start the speller in a separate window. Press the  [abc-button|guvvieh/PC_17_abc_knapp.png]. The result is:
+[The spell checker in use|guvvieh/PC_13_MSOffice_example_cut.png]

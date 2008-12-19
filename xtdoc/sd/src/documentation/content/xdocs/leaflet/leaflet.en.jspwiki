@@ -1,32 +1,32 @@
+
 !!!About the Divvun project
 
 !!Background
+The process of developing speller tools for Sami languages began in January 2003, when the Norwegian Sami Parliament, as a part of the eSápmi project, embarked upon a pre-project of what was to become the Divvun project. The Sami Parliament and the University of Tromsø started working on the Divvun project in the autumn of 2004. The goal was to develop speller tools for the Sami languages.
 
-The process of developing 
+!!The product
+Divvun is a set of spell checkers for the Sami languages. As of today there exists final versions for Northern and Lule Sami, and we are currently working on a Southern Sami version. The University of Tromsø is also developing pedagogical programs (iCALL) and electronic dictionaries.
 
-Arbeidet med å utvikle et rettskrivingsverktøy for samiske språk ble satt i gang i januar 2003 da Sametinget som en del av eSápmi-prosjektet startet forprosjekteringen av det som ble Divvun-prosjeket. Høsten 2004 startet Sametinget Divvun-prosjektet i samarbeid med Universitetet i Tromsø. Målet for prosjektet var å utvikle rettskrivingsverktøy for samisk.  
+!!!Installing and usage of the product.
+In order to install of the Divvun tools one can either download the program from [http://www.divvun.no/] or install it from a CD. You will find detailed descriptions if you click on the links below:
 
-!!Produktet
-Divvun er et sett rettskrivingsverktøy for samisk. Pr i dag finnes ferdige versjoner for nord- og lulesamisk, og vi arbeider nå med en versjon for sørsamisk. Universitetet i Tromsø utvikler også digitale pedagogiske læremiddel, og en elektronisk ordbok er under utvikling.
+* [Installing on Windows|win-install.en.html]
+* [Installing on MacOS X|mac-install.en.html]
 
-!!!Installering og bruk av produktet
-For å installere Divvun-verktøyene kan man enten laste ned programmet fra [http://www.divvun.no/] eller installere det fra en CD. Detaljerte beskrivelser finner du om du klikker på lenkene nedenfor:
+!!!About the program
+The Divvun program is a spell checking program which works with MS Office, InDesign and OpenOffice.org, to mention some programs. The program can be used in different operating systems, such as Windows (XP and Vista), MacOS X (10.3 and later versions) and Linux. One may thus use the program on most PC-, Mac- and Linux/Unix computers sold during the last 5 years. Once the program has been installed, it works just as any other spell checking program for other languages.
 
-* [Installering på Windows|win-install.sv.html]
-* [Installering på MacOS X|mac-install.sv.html]
+!!! Texts
+In order to make the program as reliable as possible we are in need of a big database of words. To make such a database we gather as many Sami texts as possible. We would encourage you to send us your texts. The texts do not have to be flawless, as a matter of fact we would greatly appreciate texts with mistakes  as well. These texts will help us ensure that the spell checking tools actually work the way they are supposed to.
 
-!!!Om programmet
-Divvun-programmet er et rettskrivingsprogram som fungerer med MS Office, InDesign og OpenOffice.org for å nevne noen program. Programmet kan brukes på ulike operativsystem som Windows (XP og Vista), MacOS X (10.3 og nyere) samt Linux. Man kan altså bruke programmet på de fleste PC-, Mac- og Linux/Unix-datamaskiner som er solgt de siste 5 årene. Når programmet er installert, fungerer det akkurat som vilket som helst annet rettskrivingsprogram for andre språk.
+It will also be of great help if there is a parallel text (translation or original) to the Sami text, e.g. a Norwegian, Finnish or Swedish text. If you send us the parallal text(s) as well, it will help us in our work on Sami terminology.
 
-!!!Tekster
-For at programmet skal bli så pålitelig og bra som mulig trenger vi en stor orddatabase. For å bygge opp en slik samler vi inn samiske tekster. Derfor vil vi svært gjerne at du sender tekstene dine til oss. Tekstene behøver ikke være feilfrie, vi vil gjerne ha tekster med feil også. På det viset kan vi kontrollere at rettskrivingsverktøyet vårt faktisk fungerer.
+If you notice that the Divvun program marks a word as errouneous, even though you know it is correctly written, we would like you to inform us, so that we may correct the error in question.
 
-Det er også en stor hjelp om det finnes en oversatt parallelltekst til den samiske teksten på et annet språk, som f.eks. norsk, finsk eller svensk. Det er svært fint om du sender inn slike også.
+!!!Private dictionaries
+Making a privat dictionary in MS Office is indeed possible. If you encounter a word not recognised by the Divvun program, you may thus include it in your privat dictionary. Feel free to send us your private wordlist, we will then consider adding the missing word to the next version of Divvun.
 
-Om du merker at Divvun-programmet markerer et ord som feilskrevet selv om du vet at det er et korrekt ord, er det bra om du informerer oss slik at vi kan rette det opp.
+!!!Written standard or dialect
+We in the Divvun team obey the normative decisions of the Sami language council, and do not take a stand as to whether to write in your own dialect or not, or on the degree to which dialectal forms are to be accepted. The language council accepts words and wordforms in Sami, if they are accepted, we will include them in Divvun.
 
-!!!Egen ordliste
-Det går bra å legge egne ord til en privat ordliste i MS Office. Dersom det er et ord som Divvun-programmet ikke kjenner igjen, kan du altså selv legge det inn i denne ordlista. Etter en stund, når  ordlista di inneholder en del ord, kan du sende den til oss slik at vi kan legge inn ordene i neste versjon av Divvun.
 
-!!!Skriftspråk eller dialekt
-Vi som lager Divvun følger språkrådets normeringsvedtak, og tar ikke stilling til om man skal kunne skrive på sin egen dialekt eller i hvor stor grad dialektformer skal aksepteres. Det er opp til språkrådet å godkjenne ulike ord og ordformer på samisk — om de er godkjente av språkrådet så legger vi dem inn i Divvun.
