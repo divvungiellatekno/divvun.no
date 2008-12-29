@@ -1,29 +1,27 @@
-!!!Installering og bruk på MacOS X
+!!!Installation and usage on MacOS X
 To install the Divvun tools you may either download the software from [http://www.divvun.no/static_files/sami-proofing-tools.dmg] or install it
 from a CD. 
 
 1. Download the installation package. You will always find the latest version [here|http://www.divvun.no/static_files/sami-proofing-tools.dmg]. 
 
-If you have the CD, insert into the computer. When either the download is finished og when the CD is ready a window will open on your machine. Double click the yellow box (the installations package):
+If you have the CD, insert into the computer. When either the download is finished or when the CD is ready a window will open on your machine. Double click the yellow box (the installations package):
 
-[Dobbelklikk på
-installeringspakka|guvvieh/Mac_01_Installation_download_finished.png]
+[Double click the installation package|guvvieh/Mac_01_Installation_download_finished.png]
 ----
 
 2. Click __Continue__ untill you are ready to start the installation proper:
 
-[Start sevle installeringen|guvvieh/Mac_05_installation_install.png]
+[Click "Continue" untill installation can start|guvvieh/Mac_05_installation_install.png]
 ----
 
 3. An administrator has to accept the installation:
 
-[Installeringen må godkjennes av en
-administrator|guvvieh/Mac_05_installation_install_a.png]
+[The installation must be approved by an administrator|guvvieh/Mac_05_installation_install_a.png]
 ----
 
-4. The installation is now finished and the Divvun tools are now avaible on your computer!
+4. The installation is now finished and the Divvun tools are now available on your computer!
 
-[Installeringen er ferdig|guvvieh/Mac_05_installation_install_c.png]
+[Installation is ready|guvvieh/Mac_05_installation_install_c.png]
 ----
 
 !!!Setting options in MacOS X to be able to write in Sami
@@ -50,7 +48,7 @@ To write in Sami you need a Sami keyboard.
 [Choose the Sami keyboard|guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png]
 
 !!!Using Divvun on a Mac
-When you have opened MS Office you will have to tell Office which langauge the text is written in.
+When you have opened MS Office you will have to tell Office which langauge the text is written in.
 ----
 
 1. Mark the sami text:
@@ -63,10 +61,10 @@ When you have opened MS Office you will have to tell Office which langauge the 
 [Go to the menu "Tools > Language…"|guvvieh/Mac_08_MSOffice_tools_language_b.png]
 ----
 
-3. Choose the langauge  __Katalansk__ (__Catalan__) for __nordsamisk__, eller språket
-__Baskisk__ (__Basque__) for __lulesamisk__([1]):
+3. Choose the langauge  __Katalansk__ (__Catalan__) for __North Sámi__, or 
+__Baskisk__ (__Basque__) for __Julev Sámi__([1]):
 
-[Choose language|guvvieh/Mac_08_MSOffice_tools_language_c.png]
+[Choose the proper language|guvvieh/Mac_08_MSOffice_tools_language_c.png]
 ----
 
 4. If you usually write in Sami, you may make Sami your default language for new documents, by clicking the button __Default…__ (see previous picture) and thereafter click the button __Yes__:
