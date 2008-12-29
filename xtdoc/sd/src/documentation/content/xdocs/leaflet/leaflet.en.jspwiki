@@ -7,7 +7,7 @@ The process of developing speller tools for Sami languages began in January 2003
 !!The product
 Divvun is a set of spell checkers for the Sami languages. As of today there exists final versions for Northern and Lule Sami, and we are currently working on a Southern Sami version. The University of Tromsø is also developing pedagogical programs (iCALL) and electronic dictionaries.
 
-!!!Installing and usage of the product.
+!!!Installation and usage of the product.
 In order to install of the Divvun tools one can either download the program from [http://www.divvun.no/] or install it from a CD. You will find detailed descriptions if you click on the links below:
 
 * [Installing on Windows|win-install.en.html]
