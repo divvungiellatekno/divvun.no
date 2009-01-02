@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="nb">
+<document xml:lang="sv">
   <header>
     <title>Divvun - samiska rättskrivningsverktyg</title>
   </header>
@@ -16,7 +16,9 @@
 
     <section>
       <title>Tillgängliga korrekturverktyg</title>
-
+	  <note label="31.12.2008">
+		Ny version, 1.1, tillgänglig.
+	  </note>
       <p>Färdiga korrekturverktyg är gratis tillgängliga nedanför i form av
       installationsprogram som enkelt installerar verktygen på datamaskinen.
       Verktygen fungerar på samma sätt som motsvarande verktyg för andra
