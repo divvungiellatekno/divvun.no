@@ -16,7 +16,9 @@
 
     <section>
       <title>Tilgjengelige korrekturverktøy</title>
-
+	  <note>
+		Ny versjon, 1.1, tilgjengelig fra 19.12.2008
+	  </note>
       <p>Ferdige korrekturverktøy er gratis tilgjengelige nedenfor i form av
       installasjonsprogram som enkelt installerer verktøyene på datamaskinen.
       Verktøyene vil fungere på samme måten som tilsvarende verktøy for andre
@@ -40,7 +42,7 @@
           <td>Windows</td>
           <td><a
           href="http://www.divvun.no/static_files/DivvunInstaller.exe"
-          >1.0.1</a></td>
+          >1.1</a></td>
           <td rowspan="2"><a
           href="doc/proof/spelling/msoff/install_use.html">Slippnotater</a><a
           href="doc/proof/spelling/msoff/changes.html">versjonshistorie</a></td>
@@ -50,7 +52,7 @@
           <td>MacOS X</td>
           <td><a
           href="http://www.divvun.no/static_files/sami-proofing-tools.dmg"
-          >1.0.1</a></td>
+          >1.1</a></td>
         </tr>
 
         <tr>
@@ -71,14 +73,14 @@
         <tr>
           <td>OpenOffice.org 2.4.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta4: <a href="http://www.divvun.no/static_files/smi-pack.zip">Nord- og lulesamisk</a></td>
+          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi-pack.zip">Nord- og lulesamisk</a></td>
           <td><a href="doc/proof/spelling/X-spell/install_use.html">Installasjon og bruk</a></td>
         </tr>
 
         <tr>
           <td>OpenOffice.org 3.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta4: <a href="http://www.divvun.no/static_files/smi.oxt">Nord- og lulesamisk</a></td>
+          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi.oxt">Nord- og lulesamisk</a></td>
           <td><a href="doc/proof/spelling/X-spell/install_use_3x.html">Installasjon og bruk</a></td>
         </tr>
 
@@ -87,7 +89,7 @@
            href="http://hunspell.sourceforge.net/"
           >Hunspell</a>-kompatible program</td>
           <td>Linux</td>
-          <td>1.0beta4: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Nordsamisk</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Lulesamisk</a></td>
+          <td>1.0beta6: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Nordsamisk</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Lulesamisk</a></td>
 	  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Installasjon</a></td>
         </tr>
 
