@@ -38,31 +38,32 @@
         <tr>
           <td rowspan="2">MS Office</td>
           <td>Windows</td>
-          <td><a
-          href="http://www.divvun.no/static_files/DivvunInstaller.exe"
-          >1.0.1</a></td>
-          <td rowspan="2"><a
-          href="doc/proof/spelling/msoff/install_use.html">Release notes</a> –
-          <a
-          href="doc/proof/spelling/msoff/changes.html">Version history</a></td>
+          <td>
+		    <a href="http://www.divvun.no/static_files/DivvunInstaller.exe">1.1</a>
+		  </td>
+          <td rowspan="2">
+		    <a href="doc/proof/spelling/msoff/install_use.html">Release notes</a> –
+            <a href="doc/proof/spelling/msoff/changes.html">Version history</a>
+		  </td>
         </tr>
 
         <tr>
           <td>MacOS X</td>
-          <td><a
-          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg"
-          >1.0.1</a></td>
+          <td>
+		    <a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">1.1</a>
+		  </td>
         </tr>
 
         <tr>
           <td rowspan="2">InDesign CS3</td>
           <td>MacOS X</td>
 
-          <td><a
-          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg"
-          >1.0</a></td>
-          <td rowspan="2"><a
-          href="/doc/proof/hyph/InDesign/index.html">Release notes</a></td>
+          <td>
+		    <a href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">1.0</a>
+		  </td>
+          <td rowspan="2">
+		    <a href="/doc/proof/hyph/InDesign/index.html">Release notes</a>
+		  </td>
         </tr>
 
         <tr>
@@ -73,31 +74,28 @@
         <tr>
           <td>OpenOffice.org 2.4.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta4: <a href="http://www.divvun.no/static_files/smi-pack.zip">Northern and Lule Sami</a></td>
+          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi-pack.zip">Northern and Lule Sami</a></td>
           <td><a href="doc/proof/spelling/X-spell/install_use.html">Installation and usage</a></td>
         </tr>
 
         <tr>
           <td>OpenOffice.org 3.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta4: <a href="http://www.divvun.no/static_files/smi.oxt">Northern and Lule Sami</a></td>
+          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi.oxt">Northern and Lule Sami</a></td>
           <td><a href="doc/proof/spelling/X-spell/install_use_3x.html">Installation and usage</a></td>
         </tr>
 
         <tr>
-          <td>OpenOffice.org 2.4+ &amp; any <a
-           href="http://hunspell.sourceforge.net/">Hunspell</a><br/>
-          compatible application</td>
+          <td>OpenOffice.org 2.4+ &amp; any <a href="http://hunspell.sourceforge.net/">Hunspell</a><br/> compatible application</td>
           <td>Linux</td>
-          <td>1.0beta4: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Northern sami</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Lule sami</a></td>
-	  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Installation</a></td>
+          <td>1.0beta6: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Northern sami</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Lule sami</a></td>
+		  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Installation</a></td>
         </tr>
 
         <tr>
-          <td>Any <a href="http://hunspell.sourceforge.net/">Hunspell</a><br/>
-          compatible application</td>
+          <td>Any <a href="http://hunspell.sourceforge.net/">Hunspell</a><br/> compatible application</td>
           <td>Windows, MacOS X, Linux</td>
-          <td>1.0beta4: <a href="http://www.divvun.no/static_files/smi.zip">Northern and Lule Sami</a></td>
+          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi.zip">Northern and Lule Sami</a></td>
 		  <td>x</td>
         </tr>
       </table>

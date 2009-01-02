@@ -29,31 +29,20 @@
         <tr>
           <td rowspan="2">MS Office</td>
           <td>Windows</td>
-          <td><a
-          href="http://www.divvun.no/static_files/DivvunInstaller.exe"
-          >1.0.1</a></td>
-          <td rowspan="2"><a
-          href="doc/proof/spelling/msoff/install_use.html">Dokumentašuvdna</a> –
-          <a
-          href="doc/proof/spelling/msoff/changes.html">veršunhistorjá</a></td>
+          <td><a href="http://www.divvun.no/static_files/DivvunInstaller.exe">1.1</a></td>
+          <td rowspan="2"><a href="doc/proof/spelling/msoff/install_use.html">Dokumentašuvdna</a> – <a href="doc/proof/spelling/msoff/changes.html">veršunhistorjá</a></td>
         </tr>
 
         <tr>
           <td>MacOS X</td>
-          <td><a
-          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg"
-          >1.0.1</a></td>
+          <td><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">1.1</a></td>
         </tr>
 
         <tr>
           <td rowspan="2">InDesign CS3</td>
           <td>MacOS X</td>
-          <td><a
-          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg"
-          >1.0</a></td>
-          <td rowspan="2"><a
-          href="/doc/proof/hyph/InDesign/index.html"
-          >Release-dokumeanttat</a></td>
+          <td><a href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">1.0</a></td>
+          <td rowspan="2"><a href="/doc/proof/hyph/InDesign/index.html">Release-dokumeanttat</a></td>
         </tr>
 
         <tr>
@@ -64,30 +53,28 @@
         <tr>
           <td>OpenOffice.org 2.4.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta4: <a href="http://www.divvun.no/static_files/smi-pack.zip">Davvi -ja julevsámi</a></td>
+          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi-pack.zip">Davvi -ja julevsámi</a></td>
           <td><a href="doc/proof/spelling/X-spell/install_use.html">Sajáiduhttin ja geavaheapmi</a></td>
         </tr>
 
         <tr>
           <td>OpenOffice.org 3.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta4: <a href="http://www.divvun.no/static_files/smi.oxt">Davvi -ja julevsámi</a></td>
+          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi.oxt">Davvi -ja julevsámi</a></td>
           <td><a href="doc/proof/spelling/X-spell/install_use_3x.html">Sajáiduhttin ja geavaheapmi</a></td>
         </tr>
 
         <tr>
-          <td>OpenOffice.org 2.4. &amp; <br/><a
-           href="http://hunspell.sourceforge.net/">Hunspell</a></td>
+          <td>OpenOffice.org 2.4. &amp; <br/><a href="http://hunspell.sourceforge.net/">Hunspell</a></td>
           <td>Linux</td>
-          <td>1.0beta4: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Davvisámi</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Julevsámi</a></td>
-	  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Sajáiduhttin</a></td>
+          <td>1.0beta6: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Davvisámi</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Julevsámi</a></td>
+		  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Sajáiduhttin</a></td>
         </tr>
 
         <tr>
-          <td><a
-           href="http://hunspell.sourceforge.net/">Hunspell</a></td>
+          <td><a href="http://hunspell.sourceforge.net/">Hunspell</a></td>
           <td>Windows, MacOS X</td>
-          <td>1.0beta4: <a href="http://www.divvun.no/static_files/smi.zip">Davvi -ja julevsámi</a></td>
+          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi.zip">Davvi -ja julevsámi</a></td>
 	      <td>x</td>
         </tr>
       </table>

@@ -40,29 +40,31 @@
         <tr>
           <td rowspan="2">MS Office</td>
           <td>Windows</td>
-          <td><a
-          href="http://www.divvun.no/static_files/DivvunInstaller.exe"
-          >1.1</a></td>
+          <td>
+		    <a href="http://www.divvun.no/static_files/DivvunInstaller.exe">1.1</a>
+		  </td>
           <td rowspan="2"><a
-          href="doc/proof/spelling/msoff/install_use.html">Slippnotater</a><a
-          href="doc/proof/spelling/msoff/changes.html">versjonshistorie</a></td>
+			href="doc/proof/spelling/msoff/install_use.html">Slippnotater</a> – 
+			<a href="doc/proof/spelling/msoff/changes.html">versjonshistorie</a>
+		  </td>
         </tr>
 
         <tr>
           <td>MacOS X</td>
-          <td><a
-          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg"
-          >1.1</a></td>
+          <td>
+		    <a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">1.1</a>
+		  </td>
         </tr>
 
         <tr>
           <td rowspan="2">InDesign CS3</td>
           <td>MacOS X</td>
-          <td><a
-          href="http://www.divvun.no/static_files/indesign-divvuntools.dmg"
-          >1.0</a></td>
-          <td rowspan="2"><a
-          href="/doc/proof/hyph/InDesign/index.html">Slippnotater</a></td>
+          <td>
+			<a href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">1.0</a>
+		  </td>
+          <td rowspan="2">
+			<a href="/doc/proof/hyph/InDesign/index.html">Slippnotater</a>
+		  </td>
         </tr>
 
         <tr>
@@ -85,19 +87,16 @@
         </tr>
 
         <tr>
-          <td>OpenOffice.org 2.4+ &amp; <br/><a
-           href="http://hunspell.sourceforge.net/"
-          >Hunspell</a>-kompatible program</td>
+          <td>OpenOffice.org 2.4+ &amp; <br/><a href="http://hunspell.sourceforge.net/">Hunspell</a>-kompatible program</td>
           <td>Linux</td>
           <td>1.0beta6: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Nordsamisk</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Lulesamisk</a></td>
-	  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Installasjon</a></td>
+		  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Installasjon</a></td>
         </tr>
 
         <tr>
-          <td>Alle <a href="http://hunspell.sourceforge.net/"
-          >Hunspell</a>-kompatible program</td>
+          <td>Alle <a href="http://hunspell.sourceforge.net/">Hunspell</a>-kompatible program</td>
           <td>Windows, MacOS X</td>
-          <td>1.0beta4: <a href="http://www.divvun.no/static_files/smi.zip">Nord -og lulesamisk</a></td>
+          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi.zip">Nord -og lulesamisk</a></td>
 	      <td>x</td>
         </tr>
       </table>
