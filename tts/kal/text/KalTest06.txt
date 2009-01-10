@@ -1,0 +1,33 @@
+#############################################
+#  TESTTEKST TAGET FRA SQ5 OG MOSES OLSEN   #
+#############################################
+
+Ilaat sanimikkut karsimut angisuumut eqqaanarnerusunik queqarput ikaartarfilinnik.
+
+#############################################
+#     TEKSTEN SOM MASKINEGENERERET IPA      #
+#############################################
+
+i.³laːt  sa.ni.¹mik.kut  ¹kɑs.si.mut  a.ŋi.²suː.mut  ¹ɛq.²qaː.¹nɑn.nɛ.ʁu.su.nik  qu.ʷɛ.¹qɑp.put  i.³kɑːt.¹tɑf.fi.¹lin.nik  . 
+
+#############################################
+# TEKSTEN MED PARSERENS SYNTAKTISKE ANALYSE #
+#############################################
+
+"<Ilaat>"
+	"ila" N Abs Pl 3PlPoss @SUBJ> 
+"<sanimikkut>"
+	"sani" N Via Sg 4PlPoss @ADVL> 
+"<karsimut>"
+	"karsi" N Trm Sg @i-ADVL> 
+"<angisuumut>"
+	"angisooq" N Trm Sg @i-ADVL> 
+"<eqqaanarnerusunik>"
+	"eqqaa" NAR = NIRU vv TUQ vn N Ins Pl @i->N 
+"<queqarput>"
+	"qui" QAR nv V Ind 3Pl @PRED 
+"<ikaartarfilinnik>"
+	"ikaar" TAR vv VIK vn LIK nn N Ins Pl @i-N< 
+"<.>"
+	"." CLB 
+

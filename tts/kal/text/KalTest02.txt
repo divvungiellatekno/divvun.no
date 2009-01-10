@@ -1,0 +1,20 @@
+############################
+#  TESTTEKST TAGET FRA SQ5 #
+############################
+
+Qujanartumik.
+#############################################
+#     TEKSTEN SOM MASKINEGENERERET IPA      #
+#############################################
+
+qu.ja.¹nɑt.tu.mik  .
+#############################################
+# TEKSTEN MED PARSERENS SYNTAKTISKE ANALYSE #
+#############################################
+
+
+"<Qujanartumik>"
+	"quja" NAR vv TUQ vn N Ins Sg @ADVL> 
+"<.>"
+	"." CLB 
+

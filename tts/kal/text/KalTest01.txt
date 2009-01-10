@@ -1,0 +1,37 @@
+############################
+#  TESTTEKST TAGET FRA SQ5 #
+############################
+
+Eqqarsaatigiinnarnagu ingerlaannaq piviusunngortitsineq uannut naleqquttuuvoq, uinnillu tapersersorluarneqarama aallartippunga.
+
+#############################################
+#     TEKSTEN SOM MASKINEGENERERET IPA      #
+#############################################
+
+¹ɛq.¹qɑs.²saː.ȼi.³ɣiːn.¹nɑn.na.ɣu  i.¹ŋɛł.³łaːn.nɑq  pi.vi.ʲu.¹suŋ.¹ŋɔt.¹ȼit.ȼi.nɛq  u.¹ʷan.nut  na.¹lɛq.¹qut.²tuː.wɔq  ,  u.¹ʷin.¹nił.łu  ta.¹pɛs.¹sɛs.¹sɔł.łu.¹ʷɑn.nɛ.qɑ.ʁa.ma  ³aːł.¹łɑt.¹ȼip.pu.ŋa  .
+
+#############################################
+# TEKSTEN MED PARSERENS SYNTAKTISKE ANALYSE #
+#############################################
+
+"<Eqqarsaatigiinnarnagu>"
+	"eqqarsaatigiinnar" V InfNeg 4Sg 3SgO @i-ADVL> 
+"<ingerlaannaq>"
+	"ingerlaannaq" Part @i-ADVL> 
+"<piviusunngortitsineq>"
+	"pi" VIK nn U nv TUQ vn NNGUR TIP = HTR vv NIQ N Abs Sg @SUBJ> 
+"<uannut>"
+	"ua" Pron Trm 1Sg @i-ADVL> 
+"<naleqquttuuvoq>"
+	"naleqqup" TUQ vn U nv V Ind 3Sg @PRED 
+"<,>"
+	"," CLB 
+"<uinnillu>"
+	"ui" N Abl Sg 1SgPoss LU @AGENS 
+"<tapersersorluarneqarama>"
+	"tapersersor" LUAR = NIQAR vv V Cau 1Sg @CAU 
+"<aallartippunga>"
+	"aallar" TIP vv V Ind 1Sg @PRED 
+"<.>"
+	"." CLB 
+

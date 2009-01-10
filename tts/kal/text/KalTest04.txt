@@ -1,0 +1,33 @@
+############################
+#  TESTTEKST TAGET FRA SQ5 #
+############################
+
+Ilusilersuisutut piginnaassuseqarnera iluaqutigalugu Kalaallit Nunaannut tunngasunik pilersitsisinnaalernera nuanneqaaq
+
+#############################################
+#     TEKSTEN SOM MASKINEGENERERET IPA      #
+#############################################
+
+i.lu.si.¹lɛs.su.ʷi.su.tut  pi.¹ɣin.³naːs.su.sɛ.¹qɑn.nɛ.ʁa  i.lu.ʷɑ.qu.ȼi.ɣa.lu.ɣu  ka.³laːł.łit  nu.³naːn.nut  ¹tuŋ.ŋa.su.nik  pi.¹lɛs.¹sit.ȼi.¹sin.²naː.¹lɛn.nɛ.ʁa  nu.¹ʷan.nɛ.³qɑːq
+
+#############################################
+# TEKSTEN MED PARSERENS SYNTAKTISKE ANALYSE #
+#############################################
+
+"<Ilusilersuisutut>"
+	"iluseq" LIRSUR nv HTR TUQ vn N Aeq Sg @i-ADVL> 
+"<piginnaassuseqarnera>"
+	"piginnaa" SSUSIQ vn QAR nv NIQ N Abs Sg 1SgPoss @OBJ> 
+"<iluaqutigalugu>"
+	"iluaqut" GE nv V Inf 4Sg 3SgO @X 
+"<Kalaallit>"
+	"kalaaleq" N Rel Pl @POSS 
+"<Nunaannut>"
+	"nuna" N Trm Sg 3PlPoss @i-ADVL> 
+"<tunngasunik>"
+	"tunnga" TUQ vn N Ins Pl @i->N 
+"<pilersitsisinnaalernera>"
+	"pi" LIR = TIP HTR vv SINNAA NIQ vn N Abs Sg 1SgPoss @SUBJ> 
+"<nuanneqaaq>"
+	"nuanner" QE vv V Ind 3Sg @PRED 
+
