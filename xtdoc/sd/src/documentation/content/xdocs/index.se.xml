@@ -7,17 +7,17 @@
   </header>
 
   <body>
-    <p>Divvun-prošeakta gullo Norgga Sámediggái ja ráhkada sámi čállindárkkistanreaidduid; davvi-, julev- ja orjješsámi čállindárkkistan- ja sátnejuohkinprográmmaid. Reaiddut doibmet Linuxis, MacOS X:s ja Windowsis dábálaččamus kontorprográmmain. Davvi- ja julevsámi reaiddut juo leat válbmasat ja orjješsámi reaidduiguin leat dál bargame Divvun II-prošeavttas.</p>
+    <p>Divvun-prošeakta gullá Norgga Sámediggái ja ráhkada sámi čállindárkkistanreaidduid; davvi-, julev- ja lullisámi čállindárkkistan- ja sátnejuohkinprográmmaid. Reaiddut doibmet Linuxis, Mac OS X:s ja Windowsis dábálaččamus kontorprográmmain. Davvi- ja julevsámi reaiddut juo leat válbmasat ja lullisámi reaidduiguin leat dál bargamin Divvun II-prošeavttas.</p>
 
     <section>
       <title>Válmmas reaiddut</title>
 	  <note label="31.12.2008">
 		Ođđa veršuvdna, 1.1, olámuttus.
 	  </note>
-      <p>Reaidduid oažžu nuvttá viežžat vuollelis. Dat biddjojit álkes vuogi mielde dihtorii vásedin sajáiduhttinprográmmain. Reaiddut doibmet seamma ládje dego vaikko mat iežá giela reaiddut.</p>
+      <p>Reaidduid oažžu nuvttá viežžat vuollelis. Dat biddjojit álkes vuogi mielde dihtorii  sajáiduhttinprográmmain. Reaiddut doibmet seamma láhkai go eará giela reaiddut.</p>
 
       <table>
-        <caption>Tabealla válmmas ja boahtte (x) buktagiin</caption>
+        <caption>Tabealla gearggus ja boahtti (x) buktagiin</caption>
 
         <tr>
           <th>Vuođđoprográmma</th>
@@ -30,36 +30,36 @@
           <td rowspan="2">MS Office</td>
           <td>Windows</td>
           <td><a href="http://www.divvun.no/static_files/DivvunInstaller.exe">1.1</a></td>
-          <td rowspan="2"><a href="doc/proof/spelling/msoff/install_use.html">Dokumentašuvdna</a> – <a href="doc/proof/spelling/msoff/changes.html">veršunhistorjá</a></td>
+          <td rowspan="2"><a href="doc/proof/spelling/msoff/install_use.html">Dokumentašuvdna</a> – <a href="doc/proof/spelling/msoff/changes.html">Veršuvdnahistorjá</a></td>
         </tr>
 
         <tr>
-          <td>MacOS X</td>
+          <td>Mac OS X</td>
           <td><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">1.1</a></td>
         </tr>
 
         <tr>
           <td rowspan="2">InDesign CS3</td>
-          <td>MacOS X</td>
+          <td>Mac OS X</td>
           <td><a href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">1.0</a></td>
           <td rowspan="2"><a href="/doc/proof/hyph/InDesign/index.html">Release-dokumeanttat</a></td>
         </tr>
 
         <tr>
           <td>Windows</td>
-          <td>(boahtá hede)</td>
+          <td>(boahtá farga)</td>
         </tr>
 
         <tr>
           <td>OpenOffice.org 2.4.x</td>
-          <td>Windows, MacOS X, Linux, Solaris</td>
+          <td>Windows, Mac OS X, Linux, Solaris</td>
           <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi-pack.zip">Davvi -ja julevsámi</a></td>
           <td><a href="doc/proof/spelling/X-spell/install_use.html">Sajáiduhttin ja geavaheapmi</a></td>
         </tr>
 
         <tr>
           <td>OpenOffice.org 3.x</td>
-          <td>Windows, MacOS X, Linux, Solaris</td>
+          <td>Windows, Mac OS X, Linux, Solaris</td>
           <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi.oxt">Davvi -ja julevsámi</a></td>
           <td><a href="doc/proof/spelling/X-spell/install_use_3x.html">Sajáiduhttin ja geavaheapmi</a></td>
         </tr>
@@ -73,7 +73,7 @@
 
         <tr>
           <td><a href="http://hunspell.sourceforge.net/">Hunspell</a></td>
-          <td>Windows, MacOS X</td>
+          <td>Windows, Mac OS X</td>
           <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi.zip">Davvi -ja julevsámi</a></td>
 	      <td>x</td>
         </tr>
@@ -82,7 +82,7 @@
       <section>
         <title>Internet haga?</title>
 
-        <p>Dat geain lea hiđis Interneahtta dehe ii Interneahtta obanassiige, ožžot diládit CD Sámedikkis, tel: +47 78 48 42 22.</p>
+        <p>Sis geain lea njoazes Interneahtta dahje ii Interneahtta obanassiige, sáhttet diládit CD Sámedikkis, tel: +47 78 48 42 22.</p>
       </section>
     </section>
 
@@ -90,16 +90,16 @@
       <title>Gáldokoda ja dokumentašuvdna</title>
 
       <section>
-        <title>Anonym svn</title>
+        <title>Anonyma svn</title>
 
-        <p>Oassi prošeavtta gáldokodas mii gullo Sámediggái ja Romssa Universitehtii lea rabas ja nuvttá ja oažžu dás: <a href="doc/infra/anonymous-svn.html">anonym svn</a>. Mii leat maid čállán dokumeantta got <a href="doc/intro.html">gávdnat</a> gáldokodas. Muhte soames oasit de fas leat proprietárat ja daid <em>ii</em> vaikko gii oaččo.</p>
+        <p>Oassi prošeavtta gáldokodas mii gullo Sámediggái ja Romssa Universitehtii lea rabas ja nuvttá ja oažžu dás: <a href="doc/infra/anonymous-svn.html">anonyma svn</a>. Mii leat maid čállán dokumeantta got <a href="doc/intro.html">gávdnat</a> gáldokodas. Muhte soames oasit de fas leat proprietárat ja daid <em>ii</em> vaikko gii oaččo.</p>
       </section>
 
       <section>
         <title>Lohkat dokumentašuvnna iežas PC:s</title>
 
         <p>Visot dokumentašuvdna dán prošeavtta birra gávdná <a
-        href="http://divvun.no">prošeavtta neahttasiiddus</a>. Jos siđat dán dokumentašuvnna iežat dihtorii, čuovo dán bagadusa: <a href="doc/infra/anonymous-svn.html">anonym svn</a>, ja mana dasto deike: <a href="doc/infra/forrest-howto.html">forrest sajáiduhttin</a>. De lea visot dokumentašuvdna du dihtoris, ja oaččut navigeret das webbalohkkiin Internet haga.</p>
+        href="http://divvun.no">prošeavtta neahttasiiddus</a>. Jos siđat dán dokumentašuvnna iežat dihtorii, čuovo dán bagadusa: <a href="doc/infra/anonymous-svn.html">anonyma svn</a>, ja mana dasto deike: <a href="doc/infra/forrest-howto.html">forrest sajáiduhttin</a>. De lea visot dokumentašuvdna du dihtoris, ja oaččut navigeret das webbalohkkiin Internet haga.</p>
       </section>
     </section>-->
 
@@ -119,7 +119,5 @@
       </ul>
     </section>
 
-    <p class="last_modified">Maŋemus rievdaduvvon: $Date$, by
-    $Author$</p>
   </body>
 </document>
