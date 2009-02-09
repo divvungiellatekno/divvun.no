@@ -72,7 +72,7 @@ For at Divvun-verktøyene skal kunne hjelpe deg, må du fortelle datamaskinen  a
 1b. Office 2007: Når du har åpnet MS
 Office klikker du på fliken __Se gjennom__, der velger du __Angi språk__
 
-2. I dialogen som dukker opp velger du __Samisk__ eller __Lulesamisk__. NB! Sørg også for at du sørger for at det ikke er en hake i __Identifiser språk automatisk__. Om det er det hopper Office automatisk tilbake til andre språk enn samisk hele tida, og divvun-verktøyene fungerer ikke som forventet.
+2. I dialogen som dukker opp velger du __Samisk__ eller __Lulesamisk__. NB! Sørg for at det ikke er en hake i __Identifiser språk automatisk__. Om det er det hopper Office automatisk tilbake til andre språk enn samisk hele tida, og divvun-verktøyene fungerer ikke som forventet.
 [Velg språk-dialog|guvvieh/PC_15_Office_2003_bestem_sprak.png]
 
 3. Nå kan du begynne å skrive på samisk, og programmet hjelper deg å stave rett. Du kan enten velge å høyretrykke på ord med røde streker under. Da ser det slik ut:
