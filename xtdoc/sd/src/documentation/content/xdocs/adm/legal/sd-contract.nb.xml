@@ -12,8 +12,7 @@
         <title>Avtalepartar</title>
 
         <section>
-          <title>Dei som overfører bruksrett
-          (<code>avgjevar</code>)</title>
+          <title>Dei som overfører bruksrett (<code>avgjevar</code>)</title>
 
           <table>
             <tr><th>Rolle:</th>                   <th>Forfattar</th></tr>
@@ -40,8 +39,7 @@
         </section>
 
         <section>
-          <title>Den som får bruksrett
-          (<code>mottakar</code>)</title>
+          <title>Den som får bruksrett (<code>mottakar</code>)</title>
 
           <table>
             <tr><td>Namn</td>               <td>Sámediggi · Sametinget</td></tr>
@@ -115,20 +113,15 @@
       <code>avgjevar</code> med ein gong han/ho får kjennskap til
       mogleg brot på desse vilkåra.</p>
 
-      <p>3.8 Bruksrett gjeld rett til å utnytte (i samsvar med lov og reglar
-      for opphavsrett og med god vitskapleg skikk):</p>
+      <p>3.8 Bruksrett gjeld rett til å bruke <code>tekstsamlinga</code>  i
+      elektronisk format til desse formåla (i samsvar med lov og reglar for
+      opphavsrett og med god vitskapleg skikk):</p>
 
       <ul>
-        <li>tekstar for vitskapleg forsking,</li>
-
-        <li>dei språktrekka (t.d. statistiske data, grammatikkreglar og ordas
-        semantiske skildring) som ein har komme fram til ved å utforske
-        tekstane,</li>
-
-        <li>korte eksempelsitat frå tekstane, og</li>
-
-        <li>tekstar for kommersielle og ikkje-kommersielle språkteknologiske
-        eller tilsvarande formål som ikkje bryt med opphavsrettslover.</li>
+        <li>driva vitskapleg forsking</li>
+        <li>trekkja ut eigenskapar ved språket i tekstane (f.eks. statistiske data, grammatiske eigenskapar, ord)</li>
+        <li>publisera korte eksempelsitat</li>
+        <li>bruka tekstane for kommersielle og ikkje-kommersielle språkteknologiske formål som ikkje bryt med opphavsrettslovene. Eksempel er retteprogram, språklæringsprogram, maskinomsetjing, o.s.b.</li>
       </ul>
 
       <p>3.9 <code>Mottakar</code> forpliktar seg til å følgje slike
@@ -149,7 +142,7 @@
       <code>Avgjevaren</code> har rett til å seie opp denne kontrakten
       viss <code>mottakaren</code> på ein vesentleg måte bryt
       vilkåra i denne kontrakten, og ikkje rettar opp vilkårsbrota sine,
-      trass i skriftleg påpeiking, innan 60 dagar ettar at han har fått
+      trass i skriftleg påpeiking, innan 60 dagar etter at han har fått
       denne påpeikinga.</p>
 
       <p>3.13 Mogleg usemje i samband med denne kontrakten skal ein forsøke
