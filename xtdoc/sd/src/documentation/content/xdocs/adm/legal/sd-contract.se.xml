@@ -16,27 +16,19 @@
 
         <table>
           <tr>
-            <td>Rolla:</td>
-
-            <td>Čálli</td>
+            <td>Rolla:</td> <td>Čálli</td>
           </tr>
 
           <tr>
-            <td>Namma:</td>
-
-            <td></td>
+            <td>Namma:</td> <td></td>
           </tr>
 
           <tr>
-            <td>Čujuhus:</td>
-
-            <td></td>
+            <td>Čujuhus:</td> <td></td>
           </tr>
 
           <tr>
-            <td>Poastanummar ja -báiki:</td>
-
-            <td></td>
+            <td>Poastanummar ja -báiki:</td> <td></td>
           </tr>
         </table>
 
@@ -44,27 +36,19 @@
 
         <table>
           <tr>
-            <td>Rolla:</td>
-
-            <td>Jorgaleaddji:</td>
+            <td>Rolla:</td> <td>Jorgaleaddji:</td>
           </tr>
 
           <tr>
-            <td>Namma:</td>
-
-            <td>&nbsp;</td>
+            <td>Namma:</td> <td>&nbsp;</td>
           </tr>
 
           <tr>
-            <td>Čujuhus:</td>
-
-            <td>&nbsp;</td>
+            <td>Čujuhus:</td> <td>&nbsp;</td>
           </tr>
 
           <tr>
-            <td>Poastanummar ja -báiki:</td>
-
-            <td>&nbsp;</td>
+            <td>Poastanummar ja -báiki:</td> <td>&nbsp;</td>
           </tr>
         </table>
 
@@ -72,27 +56,19 @@
 
         <table>
           <tr>
-            <td>Rolla:</td>
-
-            <td>Goasttideaddji</td>
+            <td>Rolla:</td> <td>Goasttideaddji</td>
           </tr>
 
           <tr>
-            <td>Namma:</td>
-
-            <td></td>
+            <td>Namma:</td> <td></td>
           </tr>
 
           <tr>
-            <td>Čujuhus:</td>
-
-            <td></td>
+            <td>Čujuhus:</td> <td></td>
           </tr>
 
           <tr>
-            <td>Poastanummar ja -báiki</td>
-
-            <td></td>
+            <td>Poastanummar ja -báiki</td> <td></td>
           </tr>
         </table>
 
@@ -106,20 +82,16 @@
         <table>
           <tr>
             <td>Namma</td>
-
             <td>Sámediggi · Sametinget</td>
           </tr>
 
           <tr>
-            <td>Čujuhus</td>
-
-            <td>Ávjovárgeaidnu 50</td>
+            <td>Čujuhus</td> <td>Ávjovárgeaidnu 50</td>
           </tr>
 
           <tr>
             <td>Poastanummar ja -báiki </td>
-
-            <td>N-9730 Kárášjohka</td>
+<td>N-9730 Kárášjohka</td>
           </tr>
         </table>
       </section>
@@ -128,8 +100,7 @@
     <section>
       <title>Dán šiehtadusa ulbmil</title>
 
-      <p>2.1. Dát šiehtadus guoská
-      daid <code>teavsttaid</code> geavahanvuoigatvuođaide, mat leat dahje galget rievdaduvvot elektrovnnalaš hápmái. <code>Vuostáiváldi</code> sáhttá bidjat dan iežas <code>teakstačoakkáldahkii</code> ja geavahit dan dutkanulbmiliidda ja/dahje giellateknologalaš prográmma
+      <p>2.1. Dát šiehtadus guoská daid <code>teavsttaid</code> geavahanvuoigatvuođaide, mat leat dahje galget rievdaduvvot elektrovnnalaš hápmái. <code>Vuostáiváldi</code> sáhttá bidjat dan iežas <code>teakstačoakkáldahkii</code> ja geavahit dan dutkanulbmiliidda ja/dahje giellateknologalaš prográmma
       ovddideapmái.</p>
 
       <p>2.2 <code>Teavsttaid addit</code> sihkkarastet ahte sis lea vuoigatvuohta addit <code>vuostáiváldái</code> daid <code>teavsttaid</code> maid dát šiehtadus gusto.</p>
@@ -200,21 +171,15 @@
 
       <table>
         <tr>
-          <th>Teavsttaid addi</th>
-
-          <th>Vuostáiváldi</th>
+          <th>Teavsttaid addi</th> <th>Vuostáiváldi</th>
         </tr>
 
         <tr>
-          <td>Báiki ja áigi:</td>
-
-          <td>Báiki ja áigi:</td>
+          <td>Báiki ja áigi:</td> <td>Báiki ja áigi:</td>
         </tr>
 
         <tr>
-          <td>Vuolláičála:</td>
-
-          <td>Vuolláičála:</td>
+          <td>Vuolláičála:</td> <td>Vuolláičála:</td>
         </tr>
 
         <tr>
