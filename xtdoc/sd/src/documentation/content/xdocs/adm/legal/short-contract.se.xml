@@ -3,31 +3,57 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="se">
     <header>
-        <title>Kortversjonen av kontrakt mellom sametinget og forfatter/oversetter/forlag</title>
-        <authors>
-            <person email="borre.gaup@samediggi.no" name="Børre Gaup" />
-        </authors>
+        <title>Šiehtadus Sámediggi Norggas ja čálli, jorgaleaddji ja lágádus gaskkas, oaniduvvon veršuvdna</title>
     </header>
     <body>
         <section>
-            <title>Čálli/jorgaleaddji/lágádus</title>
-			<p>Čálli/jorgaleaddji/lágádus diktá Sámedikki geavahit teavsttaid elektronalaš hámis dása:</p>
+            <title>Čálli, jorgaleaddji ja lágádus</title>
+			<p>Čálli, jorgaleaddji ja lágádus addá Sámedikki Norggas (dán rájes Sámediggi) ii-eksklusiiva rievtti geavahit teavsttaid elektronalaš hámis dása:</p>
 			<ul>
-				<li>Dieđalaš dutkamii</li>
-				<li>daid giela iešvuođaid (ee. statistalaš dieđuid, giellaoahpalaš njuolggadusaid ja sáni semantihkalaš erohusaid) mat leat boahtán ovdan teavsttaid guorahaladettiin</li>
-				<li>oanehis ovdamearkasitáhtaid teavsttain</li>
-				<li>teavsttaid kommersiála ja ii-kommersiála giellateknologalaš dahje vástideaddji ulbmiliidda, mat eai rihkko dahkkivuoigatvuođalágaid. Ovdamearkkat leat čállindárkkisteapmi, grammatihkkadárkkisteapmi, pedagogalaš prográmmagálvvut, mašiidnajorgaleapmi, jna.</li>
+				<li>Dahkat dieđalaš dutkama</li>
+				<li>Gávdnat giela iešvuođaid teavsttain (ee. statistalaš dieđuid, giellaoahpalaš njuolggadusaid ja sáni semantihkalaš erohusaid)</li>
+				<li>Almmuhit oanehis ovdamearkasitáhtaid teavsttain</li>
+				<li>Geavahit teavsttaid kommersiála ja ii-kommersiála giellateknologalaš dahje vástideaddji ulbmiliidda mat eai rihkko dahkkivuoigatvuođalágaid. Ovdamearkkat leat čállindárkkisteapmi, grammatihkkadárkkisteapmi, pedagogalaš prográmmagálvvut, mašiidnajorgaleapmi, jna.</li>
 			</ul>
 		</section>
 
 		<section>
 			<title>Sámediggi</title>
-			<p>Sámediggi lohppida dán bargat:</p>
+			<p>Sámediggi čoaggá sámi teavsttaid vai ovdánahttit ođđa elektronalaš veahkkeneavvuid sámi servodahkii. Dát bargu lea oassi sámi gielaid nannemis.</p>
+			<p>Sámediggi lohpida ahte:</p>
 			<ul>
-				<li>Ii rievdat teavsttaid sisdoalu</li>
-				<li>Vurket teavsttaid vai dušše dain geas lea lohppi daid geavahit besset daidda.</li>
-				<li>Diktit dušše olbmoid geat leat vuolláičállán "Geavahanvuoigatvuođakontrávtta" geavahit teavsttaid. Geavahanvuoigatvuođat leat namuhan daid njeallji čuokkáin dás bajábealde.</li>
+				<li>Ii galgga rievdadit teavsttaid sisdoalu</li>
+				<li>Ii galgga almmuhit dahje diktit earáid almmuhit teavsttaid</li>
+				<li>Dušše olbmot geat leat vuolláičállán "Geavahanvuoigatvuođašiehtadusa" geavahit teavsttaid. Geavahanvuoigatvuođat leat namuhan daid njeallji čuoggáin dás bajábealde.</li>
+				<li>Vurke teavsttaid vai dušše sii geain lea lohpi daid geavahit besset daidda.</li>
 			</ul>
+		</section>
+		
+		<section>
+			<title>Barggut</title>
+			<p>Barggut maid dát šiehtadus gokčá čállojuvvojit sierra mildosii.</p>
+		</section>
+		
+		<section>
+			<title>Eretcealkin</title>
+			<p>Čálli, jorgaleaddji ja lágádus sáhttá cealkit eret dán šiehtadusa jus Sámediggi mealgadit rihkku dan eavttuid. Sámediggi galgá iežas eaktorihkkumuša njulget 60 beaivvi siste maŋŋelgo lea cuiggoduvvon.</p>
+		</section>
+		
+		<section>
+			<title>Vuolláičállagat</title>
+			<p>Dát lea oaniduvvon veršuvdna. Guhkibut veršuvdna gávdno <a href="sd-contract.se.html">Divvun-prošeavtta ruovttosiiddus</a>.</p>
+			<table>
+				<tr><td>Báiki ja áigi:</td>            <td>Báiki ja áigi:</td>           </tr>
+				<tr><td>Vuolláičála, čálli:</td>  <td>Vuolláičála, Sámediggi:</td></tr>
+				<tr><td>Báiki ja áigi:</td>                      </tr>
+				<tr><td>Vuolláičála, lágádus:</td>               </tr>
+				<tr><td>Báiki ja áigi:</td>                      </tr>
+				<tr><td>Vuolláičála, jorgaleaddji:</td>           </tr>
+				<tr><td>Báiki ja áigi:</td>                      </tr>
+				<tr><td>Vuolláičála:</td>                       </tr>
+				<tr><td>Báiki ja áigi:</td>                      </tr>
+				<tr><td>Vuolláičála:</td>                       </tr>
+			</table>
 		</section>
 	</body>
 </document>
