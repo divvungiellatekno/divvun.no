@@ -73,7 +73,7 @@ För att Divvun-verktygen skall kunna hjälpa dig, måste du göra klart för da
 1a. MS Office 2003: När du har öppnat MS Office väljer du menyn __Verktyg ➿ Språk ➿ Ange språk …__
 [Meny för att välja samisk|guvvieh/PC_14_Office_2003_velg_sprak.png]
   
-1b. Office 2007: När du har öppnat MS Office klickar du på fliken __Se igenom__, där väljer du __Ange språk__
+1b. Office 2007: När du har öppnat MS Office klickar du på fliken __Granska__, där väljer du __Ange språk__
 
 2. I dialogen som dyker upp väljer du __Samiska__ eller __Lulesamiska__. OBS! Se till att __Identifiera språk automatiskt__ inte är förhakad. Om den är det hoppar Office automatiskt tillbake till andra språk än samiska hela tiden, och divvun-verktygen fungerar inte som de ska.
 [Välj språk-dialog|guvvieh/PC_15_Office_2003_bestem_sprak.png]
