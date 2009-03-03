@@ -44,6 +44,7 @@ s/ŋ/N/g ;     #(n with downward right tail) velar nasal
 s/l/l/g ;     #alveolar lateral
 s/ʎ/L/g ;     #turned down y, alt. λ (Greek lambda) palatal lateral
 s/ɫ/5/g ;     #(l with middle tilde) velarized dental lateral
+s/ł/XXX/g ;    # Unvoiced l. Sampa?
 s/ɾ/4/g ;     #(r without upper-left serif) alveolar flap
 s/r/r/g ;     #alveolar trill
 s/ɹ/r\\/g ;     #(r rotated 180°) retroflexed alveolar approximant
