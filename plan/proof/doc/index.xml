@@ -9,7 +9,13 @@
   <body>
     <section>
       <title>Overview</title>
-      <p><a href="proofing-overview.html">Initial overview</a></p>
+      <p>The present main-stream / regular-user correction paradigm
+      is severely limited by arbitrary API decisions in the past.
+      Here are some thoughts about how we can improve on the situation:</p>
+      <ul>
+        <li><a href="proofing-overview.html">Old notes</a></li>
+        <li><a href="proofing-library.html">Library plans</a></li>
+      </ul>
     </section>
   </body>
 </document>
