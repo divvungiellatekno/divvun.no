@@ -1,0 +1,52 @@
+!!!A new platform for proofing tools
+
+The starting point is the transducer work done at Helsinki university, especially weighted transducers. The short-term plan is to make a speller engine using a transducer lexicon composed with a number of weighted replacement rules to give suggestions.
+
+Expanding on this idea, there are a number of different possibilities. The purpose of this document is to lay out these options, and try to categorize them to guide the future work on proofing tools.
+
+* interface
+* lg control
+* plug in different technologies
+* hfst on word level
+* outside this core different layers
+* real word error detection
+* context the whole document -- for different global checks 
+* (***if A locally*** than A globally)
+  ==> The program must be able to see the doc globally in order
+      to act locally
+* terminology
+* controled lg
+* known words
+* grammar detection
+
+
+
+!!!Functionality areas
+
+There are several areas of functionality that can be identified:
+* non-word detection (real typos)
+* real-word spelling errors (typos that happen to be a real word, undetectable by standard spelling checkers)
+* statistical spelling correction (an unknown word occuring several times is likely to be correct, and a similar but not identical unknown word is probably a misspelling of that unknown word)
+* intelligent user dictionaries (user dictionaries that are directly compilable into an automaton, with proper inflection and morphophonology; using heuristics and disambiguation to guess POS and inflection class, suggested to the user when added)
+* intelligent suggestions (remove impossible suggestions based on context) - target: only one suggestion, making it realistic to run (semi)automatic proofing
+* grammar checking (syntactic errors like agreement conflicts, compound splitting, wrong argument case, etc)
+* stylistic checking (use of abbreviations, punctuation, other formal elements in a text)
+* dialectal/variation control (use only a subset of the available forms, based on user preferences - control the usage, detect errors)
+* "linguistic editing" - manipulate linguistic entities in the editing process (swap coordination arguments, change person/number of subject and make the whole sentence automatically update, change the dialect from one variant to another coherently throughout the text, etc.)
+* text prediction
+* automatic word completion (up until the first splitting point, or returning a list of candidates matching the preceeding context)
+* terminology -- checking against a parallel document, a
+
+!!!Proofing library design
+
+* modular
+* expandable
+* somewhat technology-agnostic, although using the HFST transducers at the core / for lexically based processing
+* should be able to process a whole document (cf intelligent treatment of unknown words)
+* a defined way to communicate between the modules
+
+[Illustration|proofing-library.png]
+
+!!!Links
+
+List of links to relevant papers
