@@ -30,7 +30,7 @@ The present division of functionality and access to the text governed by arbitra
 
 We assume that we can have access to the text of the whole document, and at best even information about basic text structure. In environments with less capabilities, we should downgrade gracefully (ie provide less functionality in a controlled manner).
 
-Access to the whole document provides opportunities for another set of services to the user. Style and word-form alternatives can be deduced based on the whole document, and provide the basis for checks in a local context, unknown words can be spell-checked, topic identification can be used to filter suggestions, etc.
+Access to the whole document provides opportunities for new services to the user. Style and word-form alternatives can be deduced based on the whole document, and provide the basis for checks in a local context, unknown words can be spell-checked, topic identification can be used to filter suggestions, etc.
 
 !!!Functionality areas grouped
 
@@ -117,6 +117,18 @@ With many and/or complex error correction rules, the search space can easily gro
 
 Another problem area is correcting compounds with multiple misspellings in each part of the compound. To reduce the search space and response time, one could use a language-specific model of word boundary patterns, to identify possible word boundaries in the input string. Then each compound candidate could be corrected alone, and the correction candiates for each part recompounded (and checked) before being returned to the user.
 
+!!Compound analysis
+
+Only accept two-part compounds, but register or lexicalise all such compounds, such that new compounds formed by known compounds woiuld be accepted. This would reduce overgeneration tremendously, and still allow free compounding.
+
+!!Abbreviation compounds
+
+Use compound heuristiscs to find the non-abbr part, and suggest lexicalisaiton of the abbr.
+
+!!!OCR correction
+
+Automatised correction of OCR-scanned text (cf Google books, Finnish literature bank, Nasjonalbiblioteket, etc). St. Michels - there is always some OCR errors left, which resembles human spelling errors. Using the document-oriented approach, the quality of automatic correction could be high enough to be interesting.
+
 !!!Proofing library design
 
 * modular
@@ -138,3 +150,7 @@ Some links to papers on improving error detection and suggestion quality, as wel
 * Eckhard Bick: A Constraint Grammar Based Spellchecker for Danish with a Special Focus on Dyslexics - [http://www.ling.helsinki.fi/sky/julkaisut/SKY2006_1/1.6.1.%20BICK.pdf]
 * Amber Wilcox-O’Hearn, Graeme Hirst, and Alexander Budanitsky: Real-word spelling correction with trigrams: A reconsideration of the Mays, Damerau, and Mercer model - [http://ftp.cs.toronto.edu/pub/gh/WilcoxOHearn-etal-2008-poster.pdf]
 * Eneko Agirre, Koldo Gojenola, Kepa Sarasola & Atro Voutilainen: Towards a single proposal in spelling correction - [http://ixa.si.ehu.es/Ixa/Argitalpenak/Barne_txostenak/1001000786/publikoak/TR-8-98.ps]
+
+!!!Clarin
+
+Samisk korpus lagra i eit Clarin-senter. Den lette vegen å gje korpuset til forskingssamfunnet. CSC er eit slikt datasenter i Finland.
