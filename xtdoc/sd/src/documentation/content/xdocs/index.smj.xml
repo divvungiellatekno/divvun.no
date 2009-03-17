@@ -54,28 +54,28 @@
         <tr>
           <td>OpenOffice.org 2.4.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi-pack.zip">Nuortta -ja julevsámi</a></td>
+          <td>1.0beta7: <a href="http://www.divvun.no/static_files/smi-pack.zip">Nuortta -ja julevsámi</a></td>
           <td><a href="doc/proof/spelling/X-spell/install_use_OOo2x.html">Installasjåvnnå ja adno</a></td>
         </tr>
 
         <tr>
           <td>OpenOffice.org 3.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi.oxt">Nuortta -ja julevsámi</a></td>
+          <td>1.0beta7: <a href="http://www.divvun.no/static_files/smi.oxt">Nuortta -ja julevsámi</a></td>
           <td><a href="doc/proof/spelling/X-spell/install_use_OOo3x.html">Installasjåvnnå ja adno</a></td>
         </tr>
 
         <tr>
           <td>OpenOffice.org 2.4+ &amp; <br/><a href="http://hunspell.sourceforge.net/">Hunspell</a>-kompatibel</td>
           <td>Linux</td>
-          <td>1.0beta6: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Nuorttasámi</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Julevsámi</a></td>
+          <td>1.0beta7: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Nuorttasámi</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Julevsámi</a></td>
 		  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Installasjåvnnå</a></td>
         </tr>
 
         <tr>
           <td><a href="http://hunspell.sourceforge.net/">Hunspell</a>-kompatibel</td>
           <td>Windows, MacOS X</td>
-          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi.zip">Nuortta -ja julevsámi</a></td>
+          <td>1.0beta7: <a href="http://www.divvun.no/static_files/smi.zip">Nuortta -ja julevsámi</a></td>
 		  <td>x</td>
         </tr>
       </table>

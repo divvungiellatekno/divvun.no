@@ -65,7 +65,7 @@
         <tr>
           <td>OpenOffice.org 2.4.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi-pack.zip">Noerhte -jïh julevsaemien</a></td>
+          <td>1.0beta7: <a href="http://www.divvun.no/static_files/smi-pack.zip">Noerhte -jïh julevsaemien</a></td>
           
           <td><a href="doc/proof/spelling/X-spell/install_use_OOo2x.html">Sijjiedehteme jïh åtnoe</a></td>
         </tr>
@@ -73,21 +73,21 @@
 		<tr>
           <td>OpenOffice.org 3.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi.oxt">Nord -och lulesamiska</a></td>
+          <td>1.0beta7: <a href="http://www.divvun.no/static_files/smi.oxt">Nord -och lulesamiska</a></td>
           <td><a href="doc/proof/spelling/X-spell/install_use_OOo3x.html">Sijjiedehteme jïh åtnoe</a></td>
         </tr>
 
 		<tr>
           <td>OpenOffice.org 2.4+ &amp; <a href="http://hunspell.sourceforge.net/">Hunspell</a> – <br/>kompatibla program</td>
           <td>Linux</td>
-          <td>1.0beta6: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Noerhtesaemien</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Julevsaemien</a></td>
+          <td>1.0beta7: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Noerhtesaemien</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Julevsaemien</a></td>
 		  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Sijjiedehteme</a></td>
         </tr>
 
         <tr>
           <td>Alla <a href="http://hunspell.sourceforge.net/">Hunspell</a>-<br/>kompatibla program</td>
           <td>Windows, MacOS X</td>
-          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi.zip">Nord- och lulesamiska</a></td>
+          <td>1.0beta7: <a href="http://www.divvun.no/static_files/smi.zip">Nord- och lulesamiska</a></td>
 	      <td>x</td>
         </tr>
       </table>

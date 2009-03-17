@@ -74,28 +74,28 @@
         <tr>
           <td>OpenOffice.org 2.4.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi-pack.zip">Northern and Lule Sami</a></td>
+          <td>1.0beta7: <a href="http://www.divvun.no/static_files/smi-pack.zip">Northern and Lule Sami</a></td>
           <td><a href="doc/proof/spelling/X-spell/install_use_OOo2x.html">Installation and usage</a></td>
         </tr>
 
         <tr>
           <td>OpenOffice.org 3.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi.oxt">Northern and Lule Sami</a></td>
+          <td>1.0beta7: <a href="http://www.divvun.no/static_files/smi.oxt">Northern and Lule Sami</a></td>
           <td><a href="doc/proof/spelling/X-spell/install_use_OOo3x.html">Installation and usage</a></td>
         </tr>
 
         <tr>
           <td>OpenOffice.org 2.4+ &amp; any <a href="http://hunspell.sourceforge.net/">Hunspell</a><br/> compatible application</td>
           <td>Linux</td>
-          <td>1.0beta6: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Northern sami</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Lule sami</a></td>
+          <td>1.0beta7: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Northern sami</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Lule sami</a></td>
 		  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Installation</a></td>
         </tr>
 
         <tr>
           <td>Any <a href="http://hunspell.sourceforge.net/">Hunspell</a><br/> compatible application</td>
           <td>Windows, MacOS X, Linux</td>
-          <td>1.0beta6: <a href="http://www.divvun.no/static_files/smi.zip">Northern and Lule Sami</a></td>
+          <td>1.0beta7: <a href="http://www.divvun.no/static_files/smi.zip">Northern and Lule Sami</a></td>
 		  <td>x</td>
         </tr>
       </table>

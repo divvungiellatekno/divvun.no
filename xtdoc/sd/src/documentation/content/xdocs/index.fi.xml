@@ -75,7 +75,7 @@
           <td>OpenOffice.org 2.4.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
           <td>
-		    1.0beta6: <a href="http://www.divvun.no/static_files/smi-pack.zip">Pohjois- ja luulajansaame</a>
+		    1.0beta7: <a href="http://www.divvun.no/static_files/smi-pack.zip">Pohjois- ja luulajansaame</a>
 		  </td>
           <td>
 		    <a href="doc/proof/spelling/X-spell/install_use_OOo2x.html">Installation and usage</a>
@@ -86,7 +86,7 @@
           <td>OpenOffice.org 3.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
           <td>
-		    1.0beta6: <a href="http://www.divvun.no/static_files/smi.oxt">Pohjois- ja luulajansaame</a>
+		    1.0beta7: <a href="http://www.divvun.no/static_files/smi.oxt">Pohjois- ja luulajansaame</a>
 		  </td>
           <td>
 		    <a href="doc/proof/spelling/X-spell/install_use_OOo3x.html">Installation and usage</a>
@@ -99,7 +99,7 @@
 		  </td>
           <td>Linux</td>
           <td>
-		    1.0beta6: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Pohjoissaame</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Lulajansaame</a>
+		    1.0beta7: <a href="http://www.divvun.no/static_files/hunspell-se.tar.gz">Pohjoissaame</a>, <a href="http://www.divvun.no/static_files/hunspell-smj.tar.gz">Lulajansaame</a>
 		  </td>
 		  <td>
 			<a href="doc/proof/spelling/X-spell/install_linux.html">Installation</a>
@@ -112,7 +112,7 @@
 		  </td>
           <td>Windows, MacOS X</td>
           <td>
-		    1.0beta6: <a href="http://www.divvun.no/static_files/sme.zip">Pohjois- ja luulajansaame</a>
+		    1.0beta7: <a href="http://www.divvun.no/static_files/sme.zip">Pohjois- ja luulajansaame</a>
 		  </td>
 	      <td>x</td>
         </tr>
