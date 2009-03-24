@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!--
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<!DOCTYPE plugins [
+  <!ENTITY % links.att 'name CDATA #REQUIRED'>
+  <!ENTITY % link.att 'name CDATA #REQUIRED href CDATA #REQUIRED'>
+  <!ELEMENT plugins (plugin*)>
+  <!ATTLIST plugins type CDATA #REQUIRED>
+  <!ELEMENT plugin (description, forrestVersion)>
+  <!ATTLIST plugin name CDATA #REQUIRED
+                 type (input|output|internal) #REQUIRED
+                 url  CDATA #REQUIRED
+                 author CDATA #REQUIRED
+                 website CDATA #IMPLIED
+                 version CDATA #IMPLIED>
+  <!ELEMENT description (#PCDATA)>
+  <!ELEMENT forrestVersion (#PCDATA)>
+  ]>
+<plugins type="released">
+<!-- ================================================================== -->
+<!-- Input Plugins                                                      -->
+<!-- ================================================================== -->
+<!-- ================================================================== -->
+<!-- Output Plugins                                                     -->
+<!-- ================================================================== -->
+  <plugin name="MultilingualOOoDraw"
+        type="output"
+        author="Sjur Moshagen"
+        website="http://forrest.apache.org/~rgardler/testingGround/forrestPlugins/s5"
+        url="http://www.apache.org/~rgardler/testingGround/forrestPlugins/"
+        version="0.1">
+    <description>
+      Create a multilingual OpenOffice.org file from a number of parallell
+      xdocs each in a different language.
+    </description>
+    <forrestVersion>0.8</forrestVersion>
+  </plugin>
+<!-- ================================================================== -->
+<!-- Internal Plugins                                                   -->
+<!-- ================================================================== -->
+</plugins>
