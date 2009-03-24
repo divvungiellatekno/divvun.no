@@ -5,6 +5,8 @@
         <title>forfattere-og-boker-davvi-girji</title>
     </header>
     <body>
+		<section>
+			<title>Publisers</title>
         <table>
             <tr>
                 <th>Title</th>
@@ -2767,12 +2769,10 @@
                 <td></td>
             </tr>
         </table>
-    </body>
-</document>
-
-!!!Homepages
-
-
+		</section>
+		<section>
+			<title>Web pages</title>
+		<table>
             <tr>
                 <th>BD</th>
                 <th>http://www.bd.komforb.se/pagaendeprojekt/minoritetssprak/aarjelsaemiengielesydsamiska.4.1d87b26611d2c66bc568000232.html</th>
@@ -2800,3 +2800,8 @@
                 <th>Sørsamisk</th>
                 <th>090318</th>
             </tr>
+		</table>
+		</section>
+    </body>
+</document>
+
