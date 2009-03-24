@@ -1270,8 +1270,8 @@
 				</tr>
 				<tr>
 					<td>Galka lohkangirji</td>
-					<td>Davvi Girji</td>
 					<td>82-7374-513-9</td>
+					<td>Davvi Girji</td>
 					<td>Johan Jernsletten ovttas Sverre Hatliin</td>
 					<td>x</td>
 					<td>Nordsamisk</td>
@@ -2774,31 +2774,31 @@
 			<title>Web pages</title>
 			<table>
 				<tr>
-					<th>BD</th>
-					<th>http://www.bd.komforb.se/pagaendeprojekt/minoritetssprak/aarjelsaemiengielesydsamiska.4.1d87b26611d2c66bc568000232.html</th>
-					<th>Kommunförbundet Norrbotten</th>
-					<th>Writer(s)</th>
-					<th>Translator(s)</th>
-					<th>Sørsamisk</th>
-					<th>090318</th>
+					<td>BD</td>
+					<td><a href="http://www.bd.komforb.se/pagaendeprojekt/minoritetssprak/aarjelsaemiengielesydsamiska.4.1d87b26611d2c66bc568000232.html">Åarjelsaemiengiele - Sydsamiska - Kommunförbundet</a></td>
+					<td>Kommunförbundet Norrbotten</td>
+					<td>???</td>
+					<td>???</td>
+					<td>Sørsamisk</td>
+					<td>090318</td>
 				</tr>
 					<tr>
-					<th>BD</th>
-					<th>http://www.ntfk.no/bibliotek/saker/2009/FT/FT09007Sørsamisk.htm</th>
-					<th>Nord Trøndelag Fylkeskommune</th>
-					<th>???</th>
-					<th>???</th>
-					<th>Sørsamisk</th>
-					<th>090318</th>
+					<td>BD</td>
+					<td><a href="http://www.ntfk.no/bibliotek/saker/2009/FT/FT09007Sørsamisk.htm">Nord-Trøndelag fylkeskommune</a></td>
+					<td>Nord Trøndelag Fylkeskommune</td>
+					<td>???</td>
+					<td>???</td>
+					<td>Sørsamisk</td>
+					<td>090318</td>
 				</tr>
 				<tr>
-					<th>BD</th>
-					<th>http://www.sakerhetspolisen.se/ovrigt/andrasprak/sydsamiska.4.7671d7bb110e3dcb1fd800011376.html</th>
-					<th>Säkerhetspolisen Sverige</th>
-					<th>???</th>
-					<th>???</th>
-					<th>Sørsamisk</th>
-					<th>090318</th>
+					<td>BD</td>
+					<td><a href="http://www.sakerhetspolisen.se/ovrigt/andrasprak/sydsamiska.4.7671d7bb110e3dcb1fd800011376.html">Sydsamiska - Säkerhetspolisen</a></td>
+					<td>Säkerhetspolisen Sverige</td>
+					<td>???</td>
+					<td>???</td>
+					<td>Sørsamisk</td>
+					<td>090318</td>
 				</tr>
 			</table>
 		</section>
