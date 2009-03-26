@@ -18,22 +18,25 @@
 <map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
   <map:components>
     <map:serializers>
-      <map:serializer logger="sitemap.serializer.odt"  mime-type="application/vnd.oasis.opendocument.text" name="odt" src="org.apache.cocoon.serialization.ZipArchiveSerializer"/>
+      <map:serializer logger="sitemap.serializer.odt"
+                      mime-type="application/vnd.oasis.opendocument.text"
+                      name="odt"
+                      src="org.apache.cocoon.serialization.ZipArchiveSerializer"/>
     </map:serializers>
   </map:components>
   <map:pipelines>
     <map:pipeline>
       <map:match pattern="**.odg">
           <map:aggregate element="doc">
-              <map:part src="cocoon:/{1}.se.xml"/>
-              <map:part src="cocoon:/{1}.smj.xml"/>
-              <map:part src="cocoon:/{1}.sma.xml"/>
-              <map:part src="cocoon:/{1}.fi.xml"/>
-              <map:part src="cocoon:/{1}.sv.xml"/>
-              <map:part src="cocoon:/{1}.nb.xml"/>
+              <map:part src="cocoon://{1}.se.xml"/>
+              <map:part src="cocoon://{1}.smj.xml"/>
+              <map:part src="cocoon://{1}.sma.xml"/>
+              <map:part src="cocoon://{1}.fi.xml"/>
+              <map:part src="cocoon://{1}.sv.xml"/>
+              <map:part src="cocoon://{1}.nb.xml"/>
           </map:aggregate>
           <!--map:transform src="{lm:odg.transform.xdoc.odg}"/-->
-          <map:serialize type="xml"/>
+          <map:serialize type="xml" encoding="UTF-8"/>
           <!--map:serialize type="odt"/-->
       </map:match>
     </map:pipeline>
