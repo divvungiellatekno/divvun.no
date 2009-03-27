@@ -35,7 +35,7 @@
               <map:part src="cocoon://{1}.sv.xml"/>
               <map:part src="cocoon://{1}.nb.xml"/>
           </map:aggregate>
-          <!--map:transform src="{lm:odg.transform.xdoc.odg}"/-->
+          <map:transform src="{lm:odg.transform.xdoc.odg}"/>
           <map:serialize type="xml" encoding="UTF-8"/>
           <!--map:serialize type="odt"/-->
       </map:match>
