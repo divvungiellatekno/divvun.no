@@ -62,14 +62,17 @@
             <xsl:apply-templates select="@*|node()"/>
           </xsl:copy>
         </xsl:template>
+
         <xsl:template match="header">
                 <text:h text:outline-level="1" text:is-list-header="true"><xsl:value-of select="title"/></text:h>
                 <text:h text:outline-level="3" text:is-list-header="true"><xsl:value-of select="subtitle"/></text:h>
                 <text:p><xsl:value-of select="abstract"/></text:p>
         </xsl:template>
+
         <xsl:template match="body">
                 <xsl:apply-templates/>
         </xsl:template>
+
         <!-- work on the TOC stuff here -->
         <!-- <xsl:variable name="config" select="//skinconfig"/>
   <xsl:variable name="minitoc-location" select="//skinconfig/toc/@location"/>
@@ -103,15 +106,19 @@
     </xsl:if>
   </xsl:template>-->
         <!-- work on the TOC stuff ends -->
+
         <xsl:template match="section">
                 <xsl:apply-templates/>
         </xsl:template>
+
         <xsl:template match="title">
                 <text:h text:outline-level="2" text:is-list-header="true"><xsl:value-of select="."/></text:h>
         </xsl:template>
+
         <xsl:template match="a|link">
           <text:a xlink:type="simple" xlink:href="{@href}"><xsl:value-of select="."/></text:a>
         </xsl:template>
+
         <xsl:template match="p">
           <xsl:choose>
                   <xsl:when test="ol|ul">
@@ -122,16 +129,19 @@
             </xsl:otherwise>
           </xsl:choose>
         </xsl:template>
+
         <xsl:template match="ul">
                 <text:list>
                   <xsl:apply-templates/>
                 </text:list>
         </xsl:template>
+
         <xsl:template match="ol">
                 <text:list text:style-name="L1">
                   <xsl:apply-templates/>
                 </text:list>
         </xsl:template>
+
         <xsl:template match="li">
                 <text:list-item>
                   <xsl:choose>
@@ -146,26 +156,31 @@
                   </xsl:choose>
                 </text:list-item>
         </xsl:template>
+
         <xsl:template match="sub">
           <text:span text:style-name="T1">
             <xsl:value-of select="."/>
           </text:span>
         </xsl:template>
+
         <xsl:template match="sup">
           <text:span text:style-name="T2">
             <xsl:value-of select="."/>
           </text:span>
         </xsl:template>
+
         <xsl:template match="em">
           <text:span text:style-name="Emphasis">
             <xsl:value-of select="."/>
           </text:span>
         </xsl:template>
+
         <xsl:template match="code">
           <text:span text:style-name="Source_20_Text">
             <xsl:value-of select="."/>
           </text:span>
         </xsl:template>
+
         <xsl:template match="source">
           <text:p text:style-name="Standard">
             <text:span text:style-name="Source_20_Text">
@@ -173,6 +188,7 @@
             </text:span>
           </text:p>
         </xsl:template>
+
         <xsl:template match="strong">
           <text:span text:style-name="Strong_20_Text">
             <xsl:value-of select="."/>
@@ -189,6 +205,7 @@
             <xsl:otherwise><text:p text:style-name="P6">Fixme (<xsl:value-of select="@author"/>) <xsl:value-of select="."/></text:p></xsl:otherwise>
           </xsl:choose>
         </xsl:template>
+
         <xsl:template match="img|figure|icon">
                 <draw:frame>
                         <xsl:attribute name="draw:style-name">fr1</xsl:attribute>
@@ -202,6 +219,7 @@
             </draw:frame>
             <xsl:apply-templates/>
     </xsl:template>
+
     <xsl:template name="drawImage">
             <draw:image>
               <xsl:attribute name="xlink:href">Pictures/<xsl:call-template name="fileName">
@@ -212,7 +230,8 @@
                <xsl:attribute name="xlink:show">embed</xsl:attribute>
                <xsl:attribute name="xlink:actuate">onLoad</xsl:attribute>
        </draw:image>
-       </xsl:template>
+    </xsl:template>
+
     <!-- Tables -->
     <xsl:template match="table">
     <xsl:param name="count" select="count(following-sibling::tr)"/>
@@ -223,14 +242,17 @@
         <xsl:apply-templates/>
       </table:table>
     </xsl:template>
+
     <xsl:template match="th">
       <xsl:value-of select="."/>
     </xsl:template>
+
     <xsl:template match="tr">
       <table:table-row>
         <xsl:apply-templates/>
       </table:table-row>
     </xsl:template>
+
     <xsl:template match="td">
       <table:table-cell>
         <text:p>
@@ -239,6 +261,7 @@
        </table:table-cell>
     </xsl:template>
     <!-- /Tables -->
+
 <xsl:template name="createImageEntries">
   <xsl:for-each select="//img|//figure|//icon">
     <zip:entry>
