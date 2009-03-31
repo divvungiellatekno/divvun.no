@@ -8,7 +8,7 @@
 
   <body>
     <section>
-      <title>Avtaleparter</title>
+      <title>Avtalsparter</title>
 
       <section>
         <title>De som avger bruksrätt (<code>avgivare</code>)</title>
@@ -53,7 +53,7 @@
           </tr>
 
           <tr>
-            <td>Adresse:</td>
+            <td>Adress:</td>
 
             <td>&nbsp;</td>
           </tr>
@@ -79,7 +79,7 @@
           </tr>
 
           <tr>
-            <td>Adresse:</td>
+            <td>Adress:</td>
 
             <td>&nbsp;</td>
           </tr>
