@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header xml:lang="nn">
+    <title>Avtal om avgivande av rätt att använda texter</title>
+  </header>
+
+  <body>
+
+      <section>
+        <title>Avtaleparter</title>
+
+        <section>
+          <title>De som avger bruksrätt (<code>avgivare</code>)</title>
+
+          <table>
+            <tr><th>Roll:</th>                   <th>Författare</th></tr>
+            <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adress:</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Postnummer och ort:</td>     <td>&nbsp;</td></tr>
+          </table>
+
+          <table>
+            <tr><th>Roll:</th>                   <th>Översättare</th></tr>
+            <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adresse:</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Postnummer och ort:</td>     <td>&nbsp;</td></tr>
+          </table>
+
+
+          <table>
+            <tr><th>Roll:</th>                   <th>Förläggare</th></tr>
+            <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adresse:</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Postnummer och ort:</td>     <td>&nbsp;</td></tr>
+          </table>
+
+        </section>
+
+        <section>
+          <title>De som får bruksrätt(<code>mottagare</code>)</title>
+
+          <table>
+            <tr><td>Namn</td>               <td>Sámediggi · Sametinget</td></tr>
+            <tr><td>Adress</td>            <td>Ávjovárgeaidnu 50</td></tr>
+            <tr><td>Postnummer och ort</td><td>N-9730 Karasjok</td></tr>
+          </table>
+
+        </section>
+      </section>
+
+    <section>
+      <title>Meningen med avtalet</title>
+
+      <p>2.1. Det här avtalet gäller bruksrätt för <code>tekster</code> är eller överförs till elektronisk form.
+      <code>Mottagaren</code> kan lägga den till sin 
+      <code>textsamling</code> och använda den till forskningsändamål och/eller till att utveckla språkteknologiska program.</p>
+
+      <p>2.2 <code>Avgivarna</code> försäkrar att de innehar rätten att ge  <code>mottagaren</code> de <code>texter</code> detta kontrakt omfattar.</p>
+    </section>
+
+    <section>
+      <title>Brukrättens omfattning</title>
+
+      <p>3.1 <code>Tekstane</code> som får bruksretten sin overført blir
+      lista opp i Vedlegg 1 til denne kontrakten.</p>
+
+      <p>3.2 Opphavsretten och den immaterielle retten til desse
+      <code>tekstane</code> høyrer til <code>avgjevaren</code>.</p>
+
+      <p>3.3 <code>Mottakaren</code> får en ikke-eksklusiv rett til, utan
+      å betale <code>avgjevaren</code> for denne retten, å leggje
+       <code>tekstane</code> til
+      <code>tekstsamlinga</code> si. For å gjere dette kan tekstane bli
+      handsama både manuelt och maskinelt, men på ein slik måte at innhaldet
+      deira ikkje blir endra. Til <code>tekstane</code> er det likevel mochleg
+      å leggje til <code>koding</code> som trengst for den vitskaplege
+      granskinga, eller EDB-handsaminga, slik som informasjon om setningar,
+      avsnitt, ordklasse, och andre språklege eigenskapar eller anna
+      klassifisering.</p>
+
+      <p>3.4 <code>Avgjevarane</code> får ikkje opphavsrett eller
+      andre immaterielle rettar til forskingsresultata som kjem som eit
+      resultat av handsaminga av <code>tekstane</code>.
+      <code>Avgjevarane</code> skal likevel bli presentert i brosjyrer
+      och dokumentasjon for <code>tekstsamlinga</code>.</p>
+
+      <p>3.5 <code>Mottakar</code> kan lagre <code>tekstane</code>
+      på eiga datamaskin och/eller plassere tekstane hos ein ekstern datasentral.
+      <code>Mottakar</code> forpliktar seg til å sikre at
+      <code>tekstane</code> sin datatryggleik och vilkåra och pliktene som
+      fylgjer av denne kontrakten blir oppfylt.</p>
+
+      <p>3.6 <code>Mottakar</code> har ikkje rett til å gje
+      <code>tekstar</code>, kopiar av <code>tekstar</code> eller bruksrett til
+      <code>tekstar</code> til tredjepart, anna enn det som er nemnd i
+      punkt 3.7. Dersom <code>mottakar</code> lagrar
+      <code>tekstane</code> hos ein ekstern datasentral som nemnt i punkt
+      3.5, har tilsette ved datasentralen rett til å leggja tekstane til rette
+      for bruk som nemnt i 2.1</p>
+
+      <p>3.7 <code>Mottakar</code> kan gje personleg bruksrett til
+      <code>tekstsamlinga</code> til personar som har skrive under på
+      bruksrettskontrakten i Vedlegg 2. <code>Mottakar</code> skal
+      ikkje gje bruksrett til <code>tekstsamlinga</code> til personar som
+      ein har grunn til å tru vil bryte vilkåra i kontrakten.
+      <code>Mottakar</code> forpliktar seg til å informere
+      <code>avgjevar</code> med ein gong han/ho får kjennskap til
+      mochleg brot på desse vilkåra.</p>
+
+      <p>3.8 Bruksrett gjeld rett til å bruke <code>tekstsamlinga</code>  i
+      elektronisk format til desse formåla (i samsvar med lov och reglar for
+      opphavsrett och med god vitskapleg skikk):</p>
+
+      <ul>
+        <li>driva vitskapleg forsking</li>
+        <li>trekkja ut eigenskapar ved språket i tekstane (f.eks. statistiske data, grammatiske eigenskapar, ord)</li>
+        <li>publisera korte eksempelsitat</li>
+        <li>bruka tekstane for kommersielle och ikkje-kommersielle språkteknolochiske formål som ikkje bryt med opphavsrettslovene. Eksempel er retteprochram, språklæringsprochram, maskinomsetjing, o.s.b.</li>
+      </ul>
+
+      <p>3.9 <code>Mottakar</code> forpliktar seg til å følgje slike
+      teksthandsamingsprinsipp at datatryggleik och -vern er oppfylt.</p>
+
+      <p>3.10 <code>Mottakar</code> tilbyr seg å formidle ein
+      versjon av tekstane i den bearbeidde och koda forma som er lagt til
+      tekstsamlinga, attende til <code>avgjevaren</code>.</p>
+
+      <p>3.11 Denne kontrakten tek til å gjelde når alle kontraktspartane har
+      underskrive han.</p>
+
+      <p>3.12 <code>Mottakar</code> kan seie opp denne kontrakten
+      ved å returnere <code>tekstane</code> med alle kopiar attende til
+      <code>avgjevaren</code>, eller ved å slette
+      <code>tekstane</code> med alle kopiar, och opplyse om dette på ein
+      sakleg måte til <code>avgjevaren</code>.
+      <code>Avgjevaren</code> har rett til å seie opp denne kontrakten
+      viss <code>mottakaren</code> på ein vesentleg måte bryt
+      vilkåra i denne kontrakten, och ikkje rettar opp vilkårsbrota sine,
+      trass i skriftleg påpeiking, innan 60 dagar etter at han har fått
+      denne påpeikinga.</p>
+
+      <p>3.13 Mochleg usemje i samband med denne kontrakten skal ein forsøke
+      å forhandle om.</p>
+
+      <p>3.14 Kvar kontraktspartnar har eitt eksemplar av denne
+      kontrakten.</p>
+    </section>
+
+      <section>
+        <title>Underskrifter</title>
+
+        <table>
+            <tr><th>Avgjevarar</th>    <th>Mottakar</th></tr>
+            <tr><td>Stad och tid:</td>  <td>Stad och tid:</td></tr>
+            <tr><td>Underskrift:</td>  <td>Underskrift:</td></tr>
+            <tr><td>Stad och tid:</td>                       </tr>
+            <tr><td>Underskrift:</td>                       </tr>
+            <tr><td>Stad och tid:</td>                       </tr>
+            <tr><td>Underskrift:</td>                       </tr>
+          </table>
+
+      </section>
+
+      <section>
+        <title>Vedlegg</title>
+
+        <ul>
+            <li>Vedlegg 1: Tekstane kontrakten gjeld for</li>
+            <li>Vedlegg 2: Bruksrettsavtale for tekstsamlinga</li>
+        </ul>
+      </section>
+  </body>
+</document>
