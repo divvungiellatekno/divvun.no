@@ -1,0 +1,10 @@
+!!!Introduction
+
+This document specifies the proofing API to be used by outside processes when implementing proofing services based on this library. It is divided into X main sections:
+
+# document interface functions
+# word-level or lexical entity corrections
+# sentence or paragraph level corrections
+# document-level corrections
+# text prediction functions
+# functions for manipulating linguistic entities, structures and relationship

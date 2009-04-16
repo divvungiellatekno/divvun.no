@@ -1,0 +1,8 @@
+!!!Introduction
+
+This document specifies the implementation of the proofing library. It is divided into X main sections:
+
+# basic lexical functions
+# user lexicon operations
+# higher-level functions
+# text-editing functions
