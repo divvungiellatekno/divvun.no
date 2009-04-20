@@ -56,8 +56,9 @@
     <section>
       <title>Verk</title>
 
-      <p>Verket/verken som omfattas av kontraktet är specificerat på en egen
-      bilaga.</p>
+      <ul>
+      	<li>Jahkie lea guhkie, Olov Svensson, DAT</li>
+      </ul>
     </section>
 
     <section>
@@ -76,6 +77,18 @@
       <a href="sd-contract.nb.html">Divvun-projektets hemsida</a>.</p>
 
       <table>
+        <tr>
+          <td>Plats och datum:</td>
+
+          <td colspan="1" rowspan="1">Plats och datum:</td>
+        </tr>
+
+        <tr>
+          <td>Underskrift, författare:</td>
+
+          <td colspan="1" rowspan="1">Underskrift, Sametinget:</td>
+        </tr>
+
         <tr>
           <td>Plats och datum:</td>
 
