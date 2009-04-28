@@ -18,9 +18,9 @@
 <map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
   <map:components>
     <map:serializers>
-      <map:serializer logger="sitemap.serializer.odt"
-                      mime-type="application/vnd.oasis.opendocument.text"
-                      name="odt"
+      <map:serializer logger="sitemap.serializer.odg"
+                      mime-type="application/vnd.oasis.opendocument.graphics"
+                      name="odg"
                       src="org.apache.cocoon.serialization.ZipArchiveSerializer"/>
     </map:serializers>
   </map:components>
