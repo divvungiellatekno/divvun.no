@@ -9,7 +9,7 @@
 
   <body>
     <section>
-      <title>Författare, översättare och förlag</title>
+      <title>Boktitel, Författare och Förlag</title>
 
       <p>Författare, översättare och förlag ger Sametinget i Norge rätt att
       använda texter i elektroniskt format. Rätten är därmed inte
@@ -57,7 +57,7 @@
       <title>Verk</title>
 
       <ul>
-      	<li>Boktitel, författare och förlag</li>
+      	<li>Boktitel, Författare och Förlag</li>
       </ul>
     </section>
 
@@ -78,15 +78,15 @@
 
       <table>
         <tr>
-          <td>Plats och datum:</td>
+          <td>Plats, Datum:</td>
 
-          <td colspan="1" rowspan="1">Plats och datum:</td>
+          <td colspan="1" rowspan="1">Plats, Datum:</td>
         </tr>
 
         <tr>
-          <td>Underskrift, författare:</td>
+          <td>Underskrift, Författare:</td>
 
-          <td colspan="1" rowspan="1">Underskrift, Sametinget:</td>
+          <td colspan="1" rowspan="1">Underskrift, Sametinget genom Per-Eric Kuoljok:</td>
         </tr>
 
         <tr>
