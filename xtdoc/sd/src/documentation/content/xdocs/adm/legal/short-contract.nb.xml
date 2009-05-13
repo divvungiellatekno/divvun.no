@@ -57,8 +57,11 @@
     <section>
       <title>Verk</title>
 
-      <p>Verket/verkene som omfattes av kontrakten er spesifisert på et eget
-      vedlegg.</p>
+      <p>Verket/verkene som omfattes av kontrakten er:</p>
+	  <ul>
+		<li>Njieljie åålmeg-heamturh, ISBN: 82-7106-803-2</li>
+		<li>Lopmegaahtoe, ISBN: 82-7954-041-5</li>
+	  </ul>
     </section>
 
     <section>
@@ -79,14 +82,18 @@
       <table>
         <tr>
           <td>Sted og dato:</td>
+        </tr>
 
+        <tr>
+          <td>Underskrift, Sametinget:</td>
+        </tr>
+
+        <tr>
           <td>Sted og dato:</td>
         </tr>
 
         <tr>
-          <td>Underskrift, forfatter:</td>
-
-          <td>Underskrift, Sametinget:</td>
+          <td>Underskrift, forlag:</td>
         </tr>
 
         <tr>

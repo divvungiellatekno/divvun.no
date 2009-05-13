@@ -5404,15 +5404,15 @@
 
           <td>MLK</td>
 
-          <td>06.03.2009</td>
+          <td>AJ, 06.03.2009 <br /> ÅV 23.04.2009</td>
 
-          <td>12.03.2009, AJ</td>
+          <td>12.03.2009, AJ <br /> ÅV 09.05.2009</td>
 
           <td>N/A</td>
 
           <td>12.03.2009</td>
 
-          <td>02.04.2009</td>
+          <td></td>
 
           <td></td>
 
@@ -5673,9 +5673,9 @@
 
           <td>Sørsamisk</td>
 
-          <td>10.10.2008</td>
+          <td>DJ, 10.10.2008</td>
 
-          <td>090513</td>
+          <td>13.05.2009</td>
 
           <td>Signature, writer(s)</td>
 
@@ -5692,125 +5692,199 @@
 
         <tr>
           <td>Ovmese vaajesh</td>
-
           <td>91-7716-095-9</td>
-
           <td>Sameskolstyrelsen</td>
-
           <td>Sakka Nejne</td>
-
           <td>N/a</td>
-
           <td>Sørsamisk</td>
-
-          <td>10.10.2008</td>
-
-          <td>090513</td>
-
+          <td>DJ, 10.10.2008</td>
+          <td>13.05.2009</td>
           <td>Signature, writer(s)</td>
-
           <td>Signature, translator(s)</td>
-
           <td>Signature, publisher</td>
-
           <td>Signature, Sami parliament</td>
-
           <td>Contract archive number, date</td>
-
           <td>081010</td>
         </tr>
 
         <tr>
           <td>Vadtese - Saernie Kristusen bïjre</td>
-
           <td>978-82-760-1165-4</td>
-
           <td>Idut</td>
-
           <td>Anne-Grethe Leine Bientie</td>
-
           <td>N/A</td>
-
           <td>Sørsamisk</td>
-
           <td>DJ 14.04.2009</td>
-
           <td></td>
-
           <td></td>
-
           <td></td>
-
           <td></td>
-
           <td></td>
-
           <td></td>
-
           <td></td>
         </tr>
-
         <tr>
-          <!-- for new books, copy from here -->
-
-          <td></td>
-
-          <!-- title -->
-
-          <td></td>
-
-          <!-- isbn -->
-
-          <td></td>
-
-          <!-- publisher -->
-
-          <td></td>
-
-          <!-- writer(s) -->
-
-          <td></td>
-
-          <!-- Translator(s) -->
-
-          <td></td>
-
-          <!-- Language -->
-
-          <td></td>
-
-          <!-- contact -->
-
-          <td></td>
-
-          <!-- sent contrac -->
-
-          <td></td>
-
-          <!-- sign, writ -->
-
-          <td></td>
-
-          <!-- sign, trans -->
-
-          <td></td>
-
-          <!-- sign, pub -->
-
-          <td></td>
-
-          <!-- sign, sami parl -->
-
-          <td></td>
-
-          <!-- archive num -->
-
-          <td></td>
-
-          <!-- text added to corpus -->
+          <td>Deblie</td> <!-- title -->
+          <td>82-91047-85-5</td> <!-- isbn -->
+          <td>Samisk utdanningsråd</td> <!-- publisher -->
+          <td>Inger Seierstad</td> <!-- writer(s) -->
+          <td>Åsta Vangberg</td> <!-- Translator(s) -->
+          <td>South Sami</td> <!-- Language -->
+          <td>MLK</td> <!-- contact -->
+          <td>ÅV, 23.04.2009 <br /> xx.xx.xxxx IS <br /> xx.xx.xxxxx Publisher</td> <!-- sent contrac -->
+          <td></td> <!-- sign, writ -->
+          <td>02.05.2009</td> <!-- sign, trans -->
+          <td></td> <!-- sign, pub -->
+          <td></td> <!-- sign, sami parl -->
+          <td></td> <!-- archive num -->
+          <td></td> <!-- text added to corpus -->
         </tr>
-
-        <!-- to here -->
+        <tr>
+          <td>Gaahtoen tjovketje</td> <!-- title -->
+          <td>82-7954-012-1</td> <!-- isbn -->
+          <td>Samisk utdanningsråd</td> <!-- publisher -->
+          <td>Inger Seierstad</td> <!-- writer(s) -->
+          <td>Åsta Vangberg</td> <!-- Translator(s) -->
+          <td>South Sami</td> <!-- Language -->
+          <td>MLK</td> <!-- contact -->
+          <td>ÅV, 23.04.2009 <br /> xx.xx.xxxx IS <br /> xx.xx.xxxxx Publisher</td> <!-- sent contrac -->
+          <td></td> <!-- sign, writ -->
+          <td>02.05.2009</td> <!-- sign, trans -->
+          <td></td> <!-- sign, pub -->
+          <td></td> <!-- sign, sami parl -->
+          <td></td> <!-- archive num -->
+          <td></td> <!-- text added to corpus -->
+        </tr>
+        <tr>
+          <td>Guffa</td> <!-- title -->
+          <td>82-7954-016-4</td> <!-- isbn -->
+          <td>Samisk utdanningsråd</td> <!-- publisher -->
+          <td>Inger Seierstad</td> <!-- writer(s) -->
+          <td>Åsta Vangberg</td> <!-- Translator(s) -->
+          <td>South Sami</td> <!-- Language -->
+          <td>MLK</td> <!-- contact -->
+          <td>ÅV, 23.04.2009 <br /> xx.xx.xxxx IS <br /> xx.xx.xxxxx Publisher</td> <!-- sent contrac -->
+          <td></td> <!-- sign, writ -->
+          <td>02.05.2009</td> <!-- sign, trans -->
+          <td></td> <!-- sign, pub -->
+          <td></td> <!-- sign, sami parl -->
+          <td></td> <!-- archive num -->
+          <td></td> <!-- text added to corpus -->
+        </tr>
+        <tr>
+          <td>Laadtege-sualadæjja</td> <!-- title -->
+          <td>82-91047-98-7</td> <!-- isbn -->
+          <td>Samisk utdanningsråd</td> <!-- publisher -->
+          <td>Inger Seierstad</td> <!-- writer(s) -->
+          <td>Åsta Vangberg</td> <!-- Translator(s) -->
+          <td>South Sami</td> <!-- Language -->
+          <td>MLK</td> <!-- contact -->
+          <td>ÅV, 23.04.2009 <br /> xx.xx.xxxx IS <br /> xx.xx.xxxxx Publisher</td> <!-- sent contrac -->
+          <td></td> <!-- sign, writ -->
+          <td>02.05.2009</td> <!-- sign, trans -->
+          <td></td> <!-- sign, pub -->
+          <td></td> <!-- sign, sami parl -->
+          <td></td> <!-- archive num -->
+          <td></td> <!-- text added to corpus -->
+        </tr>
+        <tr>
+          <td>Gåaltoe</td> <!-- title -->
+          <td>82-521-4955-3</td> <!-- isbn -->
+          <td>Det Norske Samlaget</td> <!-- publisher -->
+          <td>Torvald Sund</td> <!-- writer(s) -->
+          <td>Åsta Vangberg</td> <!-- Translator(s) -->
+          <td>South Sami</td> <!-- Language -->
+          <td>MLK</td> <!-- contact -->
+          <td>ÅV, 23.04.2009</td> <!-- sent contrac -->
+          <td></td> <!-- sign, writ -->
+          <td>02.05.2009</td> <!-- sign, trans -->
+          <td></td> <!-- sign, pub -->
+          <td></td> <!-- sign, sami parl -->
+          <td></td> <!-- archive num -->
+          <td></td> <!-- text added to corpus -->
+        </tr>
+        <tr>
+          <td>Miehtjiesdajven baernie</td> <!-- title -->
+          <td>82-521-4954-5</td> <!-- isbn -->
+          <td>Det Norske Samlaget</td> <!-- publisher -->
+          <td>Torvald Sund</td> <!-- writer(s) -->
+          <td>Åsta Vangberg</td> <!-- Translator(s) -->
+          <td>South Sami</td> <!-- Language -->
+          <td>MLK</td> <!-- contact -->
+          <td>ÅV, 23.04.2009</td> <!-- sent contrac -->
+          <td></td> <!-- sign, writ -->
+          <td>02.05.2009</td> <!-- sign, trans -->
+          <td></td> <!-- sign, pub -->
+          <td></td> <!-- sign, sami parl -->
+          <td></td> <!-- archive num -->
+          <td></td> <!-- text added to corpus -->
+        </tr>
+        <tr>
+          <td>Njieljie åålmeg-heamturh</td> <!-- title -->
+          <td>82-7106-803-2</td> <!-- isbn -->
+          <td>Samisk utdanningsråd</td> <!-- publisher -->
+          <td>N/A</td> <!-- writer(s) -->
+          <td>Åsta Vangberg</td> <!-- Translator(s) -->
+          <td>South Sami</td> <!-- Language -->
+          <td>MLK</td> <!-- contact -->
+          <td>ÅV 23.04.2009</td> <!-- sent contrac -->
+          <td>N/A</td> <!-- sign, writ -->
+          <td></td> <!-- sign, trans -->
+          <td></td> <!-- sign, pub -->
+          <td></td> <!-- sign, sami parl -->
+          <td></td> <!-- archive num -->
+          <td></td> <!-- text added to corpus -->
+        </tr>
+        <tr>
+          <td>Lopmegaahtoe</td> <!-- title -->
+          <td>82-7954-041-5</td> <!-- isbn -->
+          <td>Samisk utdanningsråd</td> <!-- publisher -->
+          <td>N/A</td> <!-- writer(s) -->
+          <td>Åsta Vangberg</td> <!-- Translator(s) -->
+          <td>South Sami</td> <!-- Language -->
+          <td>MLK</td> <!-- contact -->
+          <td>ÅV 23.04.2009</td> <!-- sent contrac -->
+          <td>N/A</td> <!-- sign, writ -->
+          <td></td> <!-- sign, trans -->
+          <td></td> <!-- sign, pub -->
+          <td></td> <!-- sign, sami parl -->
+          <td></td> <!-- archive num -->
+          <td></td> <!-- text added to corpus -->
+        </tr>
+        <tr>
+          <td>Peanna</td> <!-- title -->
+          <td>82-7954-022-9</td> <!-- isbn -->
+          <td>Samisk utdanningsråd</td> <!-- publisher -->
+          <td>N/A</td> <!-- writer(s) -->
+          <td>Åsta Vangberg</td> <!-- Translator(s) -->
+          <td>South Sami</td> <!-- Language -->
+          <td>MLK</td> <!-- contact -->
+          <td>ÅV 23.04.2009</td> <!-- sent contrac -->
+          <td>N/A</td> <!-- sign, writ -->
+          <td></td> <!-- sign, trans -->
+          <td></td> <!-- sign, pub -->
+          <td></td> <!-- sign, sami parl -->
+          <td></td> <!-- archive num -->
+          <td></td> <!-- text added to corpus -->
+        </tr>
+		<!-- for new books, copy from here -->
+        <tr>
+          <td></td> <!-- title -->
+          <td></td> <!-- isbn -->
+          <td></td> <!-- publisher -->
+          <td></td> <!-- writer(s) -->
+          <td></td> <!-- Translator(s) -->
+          <td></td> <!-- Language -->
+          <td></td> <!-- contact -->
+          <td></td> <!-- sent contrac -->
+          <td></td> <!-- sign, writ -->
+          <td></td> <!-- sign, trans -->
+          <td></td> <!-- sign, pub -->
+          <td></td> <!-- sign, sami parl -->
+          <td></td> <!-- archive num -->
+          <td></td> <!-- text added to corpus -->
+        </tr>
+		<!-- to here -->
       </table>
     </section>
 
