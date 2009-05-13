@@ -1,3091 +1,5877 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
 <document>
-    <header>
-        <title>forfattere-og-boker-davvi-girji</title>
-    </header>
-    <body>
-		<section>
-			<title>Publisers</title>
-			<table>
-				<tr>
-					<th>Title</th>
-					<th>ISBN</th>
-					<th>Publisher</th>
-					<th>Writer(s)</th>
-					<th>Translator(s)</th>
-					<th>Language</th>
-					<th>Contact</th>
-					<th>Sent contract</th>
-					<th>Signature, writer(s)</th>
-					<th>Signature, translator(s)</th>
-					<th>Signature, publisher</th>
-					<th>Signature, Sami parliament</th>
-					<th>Contract archive number, date</th>
-					<th>Text added to corpus</th>
-				</tr>
-				<tr>
-					<td>Geografiija 8, oahppigirji</td>
-					<td>82-7374-412-4</td>
-					<td>Davvi Girji</td>
-					<td>Aage Solbakk</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG</td>
-					<td>x</td>
-					<td>15.03.2008</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td>09.03.2009</td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Geografiija 9</td>
-					<td>82-7374-443-4</td>
-					<td>Davvi Girji</td>
-					<td>Aage Solbakk</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG</td>
-					<td>x</td>
-					<td>15.03.2008</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td>09.03.2009</td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Sámi historjá I</td>
-					<td>82-7374-249-0</td>
-					<td>Davvi Girji</td>
-					<td>Aage Solbakk</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG</td>
-					<td>x</td>
-					<td>15.03.2008</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td>09.03.2009</td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Sámi historjá II</td>
-					<td>82-7374-262-8</td>
-					<td>Davvi Girji</td>
-					<td>Aage Solbakk</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG</td>
-					<td>x</td>
-					<td>15.03.2008</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td>09.03.2009</td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Ávjovári - Kárášjoga historjá</td>
-					<td>82-7374-493-0</td>
-					<td>Davvi Girji</td>
-					<td>Aage Solbakk</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG</td>
-					<td>x</td>
-					<td>15.03.2008</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td>09.03.2009</td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Sápmelaččat – giehtagirji</td>
-					<td>82-7374-175-3</td>
-					<td>Davvi Girji</td>
-					<td>Aage Solbakk</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG</td>
-					<td>x</td>
-					<td>15.03.2008</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td>09.03.2009</td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Gielas gillii, mielas millii 1 - Sámi čállingiela historjá</td>
-					<td>82-7374-349-7</td>
-					<td>Davvi Girji</td>
-					<td>Aage Solbakk</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG</td>
-					<td>x</td>
-					<td>15.03.2008</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td>09.03.2009</td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Olbmo ovdáneapmi</td>
-					<td>82-7374-291-1</td>
-					<td>Davvi Girji</td>
-					<td>Aimo Aikio</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Baalka</td>
-					<td>82-7374-510-4</td>
-					<td>Davvi Girji</td>
-					<td>Anita Dunfjeld Aagård og Tone Marie Larsen</td>
-					<td></td>
-					<td>Sørsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Duodjegáldu</td>
-					<td>82-7374-251-2</td>
-					<td>Davvi Girji</td>
-					<td>Anne Kirsten Eira, Marit Østby</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Sukká hávvá 5.0:Áhkku, muital munnje</td>
-					<td>82-7374-335-7</td>
-					<td>Davvi Girji</td>
-					<td>Anne Liisa Guttorm</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Luonddumearkkat</td>
-					<td>82-7374-347-0</td>
-					<td>Davvi Girji</td>
-					<td>Astrid Turi Gaup</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Sukká hávvá 6.0:Oahpaheaddjái veahkkin</td>
-					<td>82-7374-338-1</td>
-					<td>Davvi Girji</td>
-					<td>Balto / Guttorm / Eriksen</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Bures, bures fas! Lohkangirji</td>
-					<td>82-7374-200-8</td>
-					<td>Davvi Girji</td>
-					<td>Berit Johnskareng</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Bures, bures fas! bargogirji</td>
-					<td>82-7374-217-2</td>
-					<td>Davvi Girji</td>
-					<td>Berit Johnskareng</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Bures, bures fas! Jurddagirji</td>
-					<td>82-7374-218-0</td>
-					<td>Davvi Girji</td>
-					<td>Berit Johnskareng</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Oaidnalit - Lohkangirji</td>
-					<td>82-7374-245-8</td>
-					<td>Davvi Girji</td>
-					<td>Berit Johnskareng</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Oaidnalit -bargogirji</td>
-					<td>82-7374-246-6</td>
-					<td>Davvi Girji</td>
-					<td>Berit Johnskareng</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Nanne giela! Oahppiigirji</td>
-					<td>82-7374-247-4</td>
-					<td>Davvi Girji</td>
-					<td>Berit Johnskareng</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Boađe mu mielde: bargogirji</td>
-					<td>82-7374-426-4</td>
-					<td>Davvi Girji</td>
-					<td>Berit Johnskareng</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Bures boahtin - lohkangirji</td>
-					<td>82-7374-444-2</td>
-					<td>Davvi Girji</td>
-					<td>Berit Johnskareng</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Bures boahtin - bargogirji</td>
-					<td>82-7374-445-0</td>
-					<td>Davvi Girji</td>
-					<td>Berit Johnskareng</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Boađe mu mielde</td>
-					<td>82-7374-495-7</td>
-					<td>Davvi Girji</td>
-					<td>Berit Johnskareng</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Sárá ja su ustibat - bargogirji</td>
-					<td>82-7374-122-2</td>
-					<td>Davvi Girji</td>
-					<td>Berit Johnskareng og Marit Olsen</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Sárá ja su ustibat - lohkangirji</td>
-					<td>82-7374-121-4</td>
-					<td>Davvi Girji</td>
-					<td>Berit Johnskareng og Marit Olsen</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Ruksesgahpir ja Gumpe</td>
-					<td>82-7374-407-8</td>
-					<td>Davvi Girji</td>
-					<td>Bodil Cappelen</td>
-					<td>?</td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Rødhette</td>
-					<td>82-7374-508-2</td>
-					<td>Davvi Girji</td>
-					<td>Bodil Cappelen</td>
-					<td></td>
-					<td>Norsk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Ájjánieidda ja gálggonieida/Manndattera og kjerringdattera</td>
-					<td>82-7374-551-1</td>
-					<td>Davvi Girji</td>
-					<td>Bodil Cappelen</td>
-					<td>Issát Sámmol Heatta</td>
-					<td>Nordsamisk/norsk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Medisinsk lommeparlør</td>
-					<td>82-7374-388-8</td>
-					<td>Davvi Girji</td>
-					<td>Egil Utsi</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Silbasuonat</td>
-					<td>82-7374-418-3</td>
-					<td>Davvi Girji</td>
-					<td>Elen Ragnhild Sara</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Joatkke ain</td>
-					<td>82-7374-613-5</td>
-					<td>Davvi Girji</td>
-					<td>Elen Ragnhild Sara</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				
-				
-				<tr>
-					<td>Åarjel-saemien 3</td>
-					<td>82-7374-285-7</td>
-					<td>Davvi Girji</td>
-					<td>Ella Holm Bull</td>
-					<td></td>
-					<td>Sørsamisk</td>
-					<td>DJ, 12.12.2008</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Åarjel-saemien 4</td>
-					<td>82-7374-286-5</td>
-					<td>Davvi Girji</td>
-					<td>Ella Holm Bull</td>
-					<td></td>
-					<td>Sørsamisk</td>
-					<td>DJ, 12.12.2008</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Åarjel-saemien 5</td>
-					<td>82-7374-366-7</td>
-					<td>Davvi Girji</td>
-					<td>Ella Holm Bull</td>
-					<td></td>
-					<td>Sørsamisk</td>
-					<td>DJ, 12.12.2008</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Åarjel-saemien 1</td>
-					<td>82-7374-136-2</td>
-					<td>Davvi Girji</td>
-					<td>Ella Holm Bull</td>
-					<td></td>
-					<td>Sørsamisk</td>
-					<td>DJ, 12.12.2008</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Dejpeladtje muvhth vätnoeh jih vuekieh</td>
-					<td>91-973-815-1-9</td>
-					<td>Samernas utbildningscentrum, Idut</td>
-					<td>Ella Holm Bull</td>
-					<td></td>
-					<td>Sørsamisk</td>
-					<td>DJ, 12.12.2008</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Dovdda čuođi diidda</td>
-					<td>82-7374-570-8</td>
-					<td>Davvi Girji</td>
-					<td>Ellen Brita Anti</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Geavat giela ja gáhtte dan - oahppogirji</td>
-					<td>82-7374-344-6</td>
-					<td>Davvi Girji</td>
-					<td>Ellen Marit Guttom / Ragnhild S. Turi</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Geavat giela ja gáhtte dan - Bargogirji</td>
-					<td>82-7374-362-4</td>
-					<td>Davvi Girji</td>
-					<td>Ellen Marit Guttom / Ragnhild S. Turi</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Geavat giela ja gáhtte dan - Rávagirji</td>
-					<td>82-7374-363-2</td>
-					<td>Davvi Girji</td>
-					<td>Ellen Marit Guttom / Ragnhild S. Turi</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Áddjá ja mánat - ohppiidgirji</td>
-					<td>82-7374-472-8</td>
-					<td>Davvi Girji</td>
-					<td>Ellen Marit Guttorm</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Dat viđas - Ohpiidgirji</td>
-					<td>82-7374-473-6</td>
-					<td>Davvi Girji</td>
-					<td>Ellen Marit Guttorm</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Dat viđas - Bargogirji</td>
-					<td>82-7374-475-2</td>
-					<td>Davvi Girji</td>
-					<td>Ellen Marit Guttorm</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Áddjá ja mánát - Bargogirji</td>
-					<td>82-7374-474-4</td>
-					<td>Davvi Girji</td>
-					<td>Ellen Marit Guttorm og Anne D. Biti Mikalsen</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Verddežat</td>
-					<td>82-7374-394-2</td>
-					<td>Davvi Girji</td>
-					<td>Ellen Sara Eikås</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Gielas gillii, mielas millii 7 - Sánit teakstan - Cealkaoahppa ja giellagáhtten</td>
-					<td>82-7374-358-6</td>
-					<td>Davvi Girji</td>
-					<td>Else R. Turi, Johanna Ijäs</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Lottit luonddus</td>
-					<td>82-7374-348-9</td>
-					<td>Davvi Girji</td>
-					<td>Esko Aikio / Jouni Aikio / Anja West Aikio</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Filmma ja televišuvnna muitalanteknihkka ja dramaturgiija</td>
-					<td>82-7374-511-2</td>
-					<td>Davvi Girji</td>
-					<td>Geir Eriksen</td>
-					<td>Magne Ove Varsi</td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Riegádan gándan – Riegádan nieidan</td>
-					<td>82-7374-441-8</td>
-					<td>Davvi Girji</td>
-					<td>Gudrun Eliissá Eriksen Lindi</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Servodatoahppu 8</td>
-					<td>82-7374-360-8</td>
-					<td>Davvi Girji</td>
-					<td>Guri og Heaika Skum</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td>BG, 21.09.2007, no answer</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Servodatoahppu 9 oahppigirj</td>
-					<td>82-7374-435-3</td>
-					<td>Davvi Girji</td>
-					<td>Guri og Heaika Skum</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td>BG, 19.09.2007, no answer</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Servodatoahppu 8 ja 9</td>
-					<td>82-7374-453-1</td>
-					<td>Davvi Girji</td>
-					<td>Guri og Heaika Skum</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td>BG, 19.09.2007, no answer</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Sukká hávvá 7.0 - Vulgot stoahkat!</td>
-					<td>82-7374-337-3</td>
-					<td>Davvi Girji</td>
-					<td>Haldis Balto</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Vulgot meahccái</td>
-					<td>82-7374-590-2</td>
-					<td>Davvi Girji</td>
-					<td>Haldis Balto</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Rittus áhpái</td>
-					<td>82-7374-494-9</td>
-					<td>Davvi Girji</td>
-					<td>Hans Fredrik Eriksen</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Gielas gillii, mielas millii 8 - Čálagovat - Sámi girjjálašvuođahistorjá</td>
-					<td>82-7374-352-7</td>
-					<td>Davvi Girji</td>
-					<td>Harald Gaski</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Gielas gillii, mielas millii 2 - Skriftbilder- Samisk litteraturhistorie</td>
-					<td>82-7374-353-5</td>
-					<td>Davvi Girji</td>
-					<td>Harald Gaski</td>
-					<td></td>
-					<td>Nordsamisk og norsk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Min njálmmálaš árbevierru</td>
-					<td>82-7374-436-1</td>
-					<td>Davvi Girji</td>
-					<td>Harald Gaski, John T. Solbakk og Aage Solbakk</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Searvva fal!</td>
-					<td>82-7374-509-0</td>
-					<td>Davvi Girji</td>
-					<td>Heidi Guttorm Einarsen</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Šáike Šuvon 2 - rávagirji oahpaheaddjái</td>
-					<td>82-7374-392-6</td>
-					<td>Davvi Girji</td>
-					<td>Heidi Guttorm Einarsen</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Šáike Šuvon 3 - rávagirji oahpaheaddjái</td>
-					<td>82-7374-428-0</td>
-					<td>Davvi Girji</td>
-					<td>Heidi Guttorm Einarsen</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Šáike Šuvon 3</td>
-					<td>82-7374-429-9</td>
-					<td>Davvi Girji</td>
-					<td>Heidi Guttorm Einarsen</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Šáike Šuvon 4 - rávagirji oahpaheaddjái</td>
-					<td>82-7374-438-8</td>
-					<td>Davvi Girji</td>
-					<td>Heidi Guttorm Einarsen</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Šáike Šuvon 4 - Ohppiidgirji</td>
-					<td>82-7374-462-0</td>
-					<td>Davvi Girji</td>
-					<td>Heidi Guttorm Einarsen</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Divššodettiin sámástit</td>
-					<td>82-7374-166-4</td>
-					<td>Davvi Girji</td>
-					<td>Hjørdis Lishagen Rasmus</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Sáni sadji 5 - oahppiidgirji</td>
-					<td>82-7374-399-3</td>
-					<td>Davvi Girji</td>
-					<td>Inga Alette Anti og Solfrid Sara Eira</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Sáni sadji 5 - rávagirji</td>
-					<td>82-7374-400-0</td>
-					<td>Davvi Girji</td>
-					<td>Inga Alette Anti og Solfrid Sara Eira</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Dápmot</td>
-					<td>82-7374-427-2</td>
-					<td>Davvi Girji</td>
-					<td>Inga Guttorm</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Guovdageaingákti</td>
-					<td>82-529-1406-3</td>
-					<td>Davvi Girji</td>
-					<td>Inga Hermansen Hætta</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Jåvvå-viellja - Mannulahka Ukrainaj</td>
-					<td>82-7374-144-3</td>
-					<td>Davvi Girji</td>
-					<td>Inga Karlsen</td>
-					<td></td>
-					<td>Lulesamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Jåvvå-viellja - Reisen til Ukraina</td>
-					<td>82-7374-585-6</td>
-					<td>Davvi Girji</td>
-					<td>Inga Karlsen</td>
-					<td>Heidi Andersen</td>
-					<td>Norsk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Ruoktumet</td>
-					<td>82-7374-302-0</td>
-					<td>Davvi Girji</td>
-					<td>Inga Laila Hætta, Inga Hætta Skarvik</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Abráhám–Jesus - Oahppogirji 2.luohkkái</td>
-					<td>82-7374-281-4</td>
-					<td>Davvi Girji</td>
-					<td>Inga Ravna Eira</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Ovcci vuomi njolgá</td>
-					<td>82-7374-567-8</td>
-					<td>Davvi Girji</td>
-					<td>Inga Ravna Eira</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Abráhám–Jesus - Oahppijgirjje 2. jahkáj</td>
-					<td>82-7374-282-2</td>
-					<td>Davvi Girji</td>
-					<td>Inga Ravna Eira</td>
-					<td></td>
-					<td>Lulesamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Abráhám–Jesus - Rávagirji 2. luohkkái</td>
-					<td>82-7374-296-2</td>
-					<td>Davvi Girji</td>
-					<td>Inga Ravna Eira</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Áibmolaččat bohtet - </td>
-					<td>82-7374-451-5</td>
-					<td>Davvi Girji</td>
-					<td>Inger Eline Eira Buljo</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Lávllu juoigga čáli</td>
-					<td>82-7374-461-2</td>
-					<td>Davvi Girji</td>
-					<td>Issát Sámmol Heatta</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Væssj-Bualehke</td>
-					<td>82-7374-172-9</td>
-					<td>Davvi Girji</td>
-					<td>Jens Martin Mienna</td>
-					<td>Nora Marie Brandsfjell</td>
-					<td>Sørsamisk</td>
-					<td>MLK, ringte uke 19 </td>
-					<td>06.03.2009</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Fastteshurvi</td>
-					<td>82-7374-168-0</td>
-					<td>Davvi Girji</td>
-					<td>Jens Martin Mienna</td>
-					<td></td>
-					<td>Lulesamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Fastteshurvi</td>
-					<td>82-7374-547-3</td>
-					<td>Davvi Girji</td>
-					<td>Jens Martin Mienna</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Ginna lohkangiri</td>
-					<td>82-7374-470-1</td>
-					<td>Davvi Girji</td>
-					<td>Johan Jernsletten ovttas Sverre Hatliin</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG, 21.09.2007</td>
-					<td>x</td>
-					<td>Johan Jernsletten, 14.03.2008 <br />Sverre Hatle, waiting <br /> Karen Anne Oskal Eira, waiting</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Ginna bargogirji</td>
-					<td>82-7374-490-6</td>
-					<td>Davvi Girji</td>
-					<td>Johan Jernsletten ovttas Sverre Hatliin</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG, 21.09.2007</td>
-					<td>x</td>
-					<td>Johan Jernsletten, 14.03.2008 <br />Sverre Hatle, waiting <br /> Karen Anne Oskal Eira, waiting</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Galka bargogirji</td>
-					<td>82-7374-512-0</td>
-					<td>Davvi Girji</td>
-					<td>Johan Jernsletten ovttas Sverre Hatliin</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG, 21.09.2007</td>
-					<td>x</td>
-					<td>Johan Jernsletten, 14.03.2008 <br />Sverre Hatle, waiting <br /> Karen Anne Oskal Eira, waiting</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Galka lohkangirji</td>
-					<td>82-7374-513-9</td>
-					<td>Davvi Girji</td>
-					<td>Johan Jernsletten ovttas Sverre Hatliin</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG, 21.09.2007</td>
-					<td>x</td>
-					<td>Johan Jernsletten, 14.03.2008 <br />Sverre Hatle, waiting <br /> Karen Anne Oskal Eira, waiting</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Borta lohkangirji</td>
-					<td>82-7374-531-7</td>
-					<td>Davvi Girji</td>
-					<td>Johan Jernsletten ovttas Sverre Hatliin</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG, 21.09.2007</td>
-					<td>x</td>
-					<td>Johan Jernsletten, 14.03.2008</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Borta bargogirji</td>
-					<td>82-7374-532-5</td>
-					<td>Davvi Girji</td>
-					<td>Johan Jernsletten ovttas Sverre Hatliin</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG, 21.09.2007</td>
-					<td>x</td>
-					<td>Johan Jernsletten, 14.03.2008 <br />Sverre Hatle, waiting <br /> Karen Anne Oskal Eira, waiting</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Snorra lohkangirji</td>
-					<td>82-7374-540-6</td>
-					<td>Davvi Girji</td>
-					<td>Johan Jernsletten ovttas Sverre Hatliin</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG, 21.09.2007</td>
-					<td>x</td>
-					<td>Johan Jernsletten, 14.03.2008 <br />Sverre Hatle, waiting <br /> Karen Anne Oskal Eira, waiting</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Snorra bargogirji</td>
-					<td>82-7374-541-4</td>
-					<td>Davvi Girji</td>
-					<td>Johan Jernsletten ovttas Sverre Hatliin</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG, 21.09.2007</td>
-					<td>x</td>
-					<td>Johan Jernsletten, 14.03.2008 <br />Sverre Hatle, waiting <br /> Karen Anne Oskal Eira, waiting</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Med godstog over vidda 1945-75</td>
-					<td>82-7374-581-3</td>
-					<td>Davvi Girji</td>
-					<td>Johan Mahtis K Hætta</td>
-					<td></td>
-					<td>Nordsamisk/norsk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Jogašgátti nieiddat</td>
-					<td>82-7374-459-0</td>
-					<td>Davvi Girji</td>
-					<td>Johannes Niilas Guttorm</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Nanne giela! - Bargogirji</td>
-					<td>82-7374-248-2</td>
-					<td>Davvi Girji</td>
-					<td>Johnskareng / Mathisen / Skals</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Byttingene / Lonuhusatgánddaguovttos</td>
-					<td>82-7374-479-5</td>
-					<td>Davvi Girji</td>
-					<td>June Sommer</td>
-					<td>Rauni Magga Lukkari / Sunna Pentha</td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Giella Sámis II - Oahppogirji</td>
-					<td>82-7374-022-6</td>
-					<td>Davvi Girji</td>
-					<td>Kari Meløy</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG, 21.09.2007</td>
-					<td>x</td>
-					<td>13.03.2008</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td>09.03.2009</td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Giella Sámis III - Oahppogirji</td>
-					<td>82-7374-228-8</td>
-					<td>Davvi Girji</td>
-					<td>Kari Meløy</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG, 21.09.2007</td>
-					<td>x</td>
-					<td>13.03.2008</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td>09.03.2009</td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Giella Sámis III - bargogirji</td>
-					<td>82-7374-026-9</td>
-					<td>Davvi Girji</td>
-					<td>Kari Meløy</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG, 21.09.2007</td>
-					<td>x</td>
-					<td>13.03.2008</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td>09.03.2009</td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Giella Sámis II - bargogirji</td>
-					<td>82-7374-023-4</td>
-					<td>Davvi Girji</td>
-					<td>Kari Meløy</td>
-					<td>x</td>
-					<td>Nordsamisk</td>
-					<td>BG, 21.09.2007</td>
-					<td>x</td>
-					<td>13.03.2008</td>
-					<td>x</td>
-					<td>17.03.2008</td>
-					<td>09.03.2009</td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Soahti Billávuonas</td>
-					<td>82-7374-520-1</td>
-					<td>Davvi Girji</td>
-					<td>Kari Vinje</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Čomisteaddjit</td>
-					<td>82-7374-619-4</td>
-					<td>Davvi Girji</td>
-					<td>Kerttu Vuolab og Sverre Porsanger</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Sáni sadji 7 oahppigirji</td>
-					<td>82-7374-465-5</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Marit Olsen og Bodil Utsi Vars</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Sáni sadji 7 oahpaheaddji</td>
-					<td>82-7374-466-3</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Marit Olsen og Bodil Utsi Vars</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Sáni sadji 6 oahpaheaddji rávagirji</td>
-					<td>82-7374-478-7</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Marit Olsen og Bodil Utsi Vars</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Sáni sadji 6 - oahppigirji</td>
-					<td>82-7374-432-9</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Marit Olsen og Bodil Utsi Vars</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Govvamuitalusat</td>
-					<td>82-7374-087-0</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Hárjehusat III - čovddagirji</td>
-					<td>82-7374-256-3</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Geahččaleamit - Hárjehusat II</td>
-					<td>82-7374-179-6</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Geahččalemiid čovdosat -hárjehusat II</td>
-					<td>82-7374-181-8</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Fáddágirji 1a</td>
-					<td>82-7374-448-5</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Fáddágirji 1á</td>
-					<td>82-7374-449-3</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Fáddágirji 6</td>
-					<td>82-7374-240-7</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Hárjehusat II - čovddagirji</td>
-					<td>82-7374-417-5</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Geahččalemiid čovdosat -hárjehusat III</td>
-					<td>82-7374-259-8</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Fáddágirji 8</td>
-					<td>82-7374-242-3</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Geahččaleamit - Hárjehusat 1</td>
-					<td>82-7374-184-2</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Giellaoahpu váldogirji</td>
-					<td>82-7374-506-6</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Geahččalemiid čovdosat -hárjehusat I</td>
-					<td>82-7374-185-0</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Fáddágirji 3</td>
-					<td>82-7374-408-6</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Fáddágirji 5</td>
-					<td>82-7374-409-4</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Hárjehusat III</td>
-					<td>82-7374-191-5</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Fáddágirji 9</td>
-					<td>82-7374-410-8</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Hárjehusat I</td>
-					<td>82-7374-414-0</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Hárjehusat I - čovddagirji</td>
-					<td>82-7374-415-9</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Geahččaleamit - Hárjehusat III</td>
-					<td>82-7374-257-1</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Fáddágirji 10</td>
-					<td>82-7374-169-9</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Giellaoahpu váldogirji - Fasihtta</td>
-					<td>82-7374-568-6</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Hárjehusat II</td>
-					<td>82-7374-416-7</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Oahpaheaddjibagadus</td>
-					<td>82-7374-238-5</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Pope og Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Fiervái</td>
-					<td>82-7374-389-6</td>
-					<td>Davvi Girji</td>
-					<td>Kirsten Porsanger</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Suoláduvvan</td>
-					<td>82-7374-486-8</td>
-					<td>Davvi Girji</td>
-					<td>Kirsti Paltto</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Stjålet</td>
-					<td>82-7374-536-8</td>
-					<td>Davvi Girji</td>
-					<td>Kirsti Paltto</td>
-					<td>Ellen Anne Gaup, Mikkel A. Gaup ja Laila Stien</td>
-					<td>Norsk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Mearraguollebivdu</td>
-					<td>82-7374-422-1</td>
-					<td>Davvi Girji</td>
-					<td>Klemet Anders Sara</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Sáhkkeheapmi</td>
-					<td>82-7374-514-7</td>
-					<td>Davvi Girji</td>
-					<td>Knut Røe</td>
-					<td>Magne Ove Varsi</td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Mearragáttis duoddarii - sámi borramuš institušuvnnas</td>
-					<td>82-7374-582-1</td>
-					<td>Davvi Girji</td>
-					<td>Kristine Gaup Grønmo</td>
-					<td></td>
-					<td>Nordsamisk/norsk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Girjjo gárjjo</td>
-					<td>82-7374-434-5</td>
-					<td>Davvi Girji</td>
-					<td>Káren Ellen Gaup</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Gealdde gieđaid girdit</td>
-					<td>82-7374-484-1</td>
-					<td>Davvi Girji</td>
-					<td>Leammuid Biret Rávdná</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Sámiid historjá 1850 rádjái</td>
-					<td>82-7374-243-1</td>
-					<td>Davvi Girji</td>
-					<td>Leif Eriksen</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Jámešgušbákti ja Jiehtanas</td>
-					<td>82-7374-411-6</td>
-					<td>Davvi Girji</td>
-					<td>Lene Antonsen</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Sukká hávvá 8.O:Boahttet duddjot!</td>
-					<td>82-7374-202-4</td>
-					<td>Davvi Girji</td>
-					<td>Liisa Ahlakorpi, Anna-Liisa Guttorm, Anne Ingebjørg Svineng Eriksen</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Media-nuoraidskuvlii</td>
-					<td>82-7374-442-6</td>
-					<td>Davvi Girji</td>
-					<td>Liv Inger Somby</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Gielas gillii, mielas millii 6 - Mediagirji</td>
-					<td>82-7374-355-1</td>
-					<td>Davvi Girji</td>
-					<td>Liv Inger Somby</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Luondduipmašat</td>
-					<td>82-7374-560-0</td>
-					<td>Davvi Girji</td>
-					<td>Liv Tone Boine</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Gielas gillii, mielas millii 9 - Davvisámegiela suopmanat</td>
-					<td>82-7374-439-6</td>
-					<td>Davvi Girji</td>
-					<td>Maaren Palismaa og Inger Marie Gaup Eira</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Soigosiid sáhttu</td>
-					<td>82-7374-433-7</td>
-					<td>Davvi Girji</td>
-					<td>Mikkel Magnus Utsi</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Reinen - et gode fra vinden</td>
-					<td>82-7374-503-1</td>
-					<td>Davvi Girji</td>
-					<td>Mikkel Nils Sara</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Boazu lea biekka buorri</td>
-					<td>82-7374-502-3</td>
-					<td>Davvi Girji</td>
-					<td>Mikkel Nils Sara</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Fáddágirji 2</td>
-					<td>82-7374-255-5</td>
-					<td>Davvi Girji</td>
-					<td>Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Fáddágirji 4</td>
-					<td>82-7374-239-3</td>
-					<td>Davvi Girji</td>
-					<td>Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Eatnigiella - Fáddágirji 7</td>
-					<td>82-7374-241-5</td>
-					<td>Davvi Girji</td>
-					<td>Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Árvádusat</td>
-					<td>82-7374-644-5</td>
-					<td>Davvi Girji</td>
-					<td>Máret Sárá</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Čuohtelogu ráhkesvuođacuvccas</td>
-					<td>82-7374-526-0</td>
-					<td>Davvi Girji</td>
-					<td>Märta Tikkanen</td>
-					<td>Rauni Magga Lukkari</td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Skálveáddjá / Driftman</td>
-					<td>82-7374-516-3</td>
-					<td>Davvi Girji</td>
-					<td>Niillas A. Somby</td>
-					<td>Kaija Anttonen</td>
-					<td>Nordsamisk/engelsk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Boaldimis báhtui</td>
-					<td>82-7374-340-3</td>
-					<td>Davvi Girji</td>
-					<td>Niilo Aikio</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Movt áigi lea rievdan</td>
-					<td>82-7374-550-3</td>
-					<td>Davvi Girji</td>
-					<td>Nils Mathisen Sara</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Dá lea Sámi Radio</td>
-					<td>82-7374-548-1</td>
-					<td>Davvi Girji</td>
-					<td>Odd Mathis Hætta</td>
-					<td>Berit Margrethe Oskal</td>
-					<td>Nordsamisk/norsk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Láidehus sámegiela cealkkaoahpu dutkamii</td>
-					<td>82-7374-625-9</td>
-					<td>Davvi Girji</td>
-					<td>Pekka Sammallahti</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Gielas gillii, mielas millii 5 - Hála ja čále ná- Njálmmáláš ja čálalaš giellageavaheapmi</td>
-					<td>82-7374-350-0</td>
-					<td>Davvi Girji</td>
-					<td>Per Jernsletten</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Vuoi dan Kárenina</td>
-					<td>82-7374-458-2</td>
-					<td>Davvi Girji</td>
-					<td>Rauna Paadar-Leivo</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Árbeeadni</td>
-					<td>82-7374-318-7</td>
-					<td>Davvi Girji</td>
-					<td>Rauni Magga Lukkari</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Biejjien baernie</td>
-					<td>82-7374-539-2</td>
-					<td>Davvi Girji</td>
-					<td>Red: Harald Gaski</td>
-					<td></td>
-					<td>Lulesamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Gal rieban guođđá suvlli eahkedii</td>
-					<td>82-7374-272-5</td>
-					<td>Davvi Girji</td>
-					<td>Risten Sokki</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Mii leat ain dás</td>
-					<td>82-7374-250-4</td>
-					<td>Davvi Girji</td>
-					<td>Siri Broch Johansen</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Mátta-Várjjat sámit</td>
-					<td>82-7374-384-5</td>
-					<td>Sissel Sildnes</td>
-					<td>Davvi Girji</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Biehtár ja Duommá háhkábivdon</td>
-					<td>82-7374-467-1</td>
-					<td>Davvi Girji</td>
-					<td>Stig Riemmbe Gælok</td>
-					<td></td>
-					<td>Lulesamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Biehtár ja Duommá jávren stulliba</td>
-					<td>82-7374-421-3</td>
-					<td>Davvi Girji</td>
-					<td>Stig Riemmbe Gælok</td>
-					<td></td>
-					<td>Lulesamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Šattut Sámis</td>
-					<td>82-7374-145-1</td>
-					<td>Davvi Girji</td>
-					<td>Toivo Lukkari og Heikkiarmas Lukkari</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Njálaid guossit</td>
-					<td>82-7374-529-5</td>
-					<td>Davvi Girji</td>
-					<td>Torkel Rasmussen</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Boahtá gus ruohtta-áddjá dán jage?</td>
-					<td>82-7374-361-6</td>
-					<td>Davvi Girji</td>
-					<td>Torkel Rasmussen</td>
-					<td></td>
-					<td>Lulesamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Mæhttsáj láhppum</td>
-					<td>82-7374-528-7</td>
-					<td>Davvi Girji</td>
-					<td>Torkel Rasmussen</td>
-					<td>?</td>
-					<td>Lulesamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Gielas gillii, mielas millii 3 - Sámi guovttegielatvuohta</td>
-					<td>82-7374-357-8</td>
-					<td>Davvi Girji</td>
-					<td>Torkel Rasmussen</td>
-					<td></td>
-					<td>Nordsamisk</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Gïele lea faamoe</td>
-					<td>978-82-7374-571-2</td>
-					<td>Davvi Girji</td>
-					<td>Maaren Palismaa</td>
-					<td>Nora Marie Brandsfjell</td>
-					<td>Sørsamisk</td>
-					<td>MLK, ringte uke 19</td>
-					<td>06.03.2009</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Saajve-Læjsa</td>
-					<td>82-7374-214-8</td>
-					<td>Davvi Girji</td>
-					<td>Inger Margrethe Olsen</td>
-					<td>Nora Marie Brandsfjell</td>
-					<td>Sørsamisk</td>
-					<td>MLK, ringte uke 19</td>
-					<td>06.03.2009</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Naestietjoevkesne</td>
-					<td>82-993254-1-2</td>
-					<td>Sijti Jarnge</td>
-					<td>Nora Marie Brandsfjell, Anna Jacobsen</td>
-					<td>N/A</td>
-					<td>Sørsamisk</td>
-					<td>MLK, ringte NMB uke 19</td>
-					<td>06.03.2009</td>
-					<td>12.03.2009, AJ</td>
-					<td>N/A</td>
-					<td>12.03.2009, AJ</td>
-					<td>15.03.2009</td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Mojnestimmieh</td>
-					<td>82-91047-50-2</td>
-					<td>Samisk utdanningsråd</td>
-					<td>Nora Marie Brandsfjell</td>
-					<td></td>
-					<td>Sørsamisk</td>
-					<td>MLK, ringte uke 19</td>
-					<td>06.03.2009</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Universitetese?</td>
-					<td></td>
-					<td>Universitetet i Tromsø</td>
-					<td></td>
-					<td>Nora Marie Brandsfjell</td>
-					<td>Sørsamisk</td>
-					<td>MLK, ringte uke 19</td>
-					<td>06.03.2009</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Goltelidh ja sopstestidh</td>
-					<td>82-91000-01-8</td>
-					<td>Daasta Berteme</td>
-					<td>Anna Jacobsen</td>
-					<td>N/A</td>
-					<td>Sørsamisk</td>
-					<td>MLK</td>
-					<td>06.03.2009</td>
-					<td>12.03.2009</td>
-					<td>N/A</td>
-					<td>12.03.2009</td>
-					<td>02.04.2009</td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Don jih dan bijre I</td>
-					<td>82-91000-02-6</td>
-					<td>Daasta berteme</td>
-					<td>Anna Jacobsen</td>
-					<td>N/A</td>
-					<td>Sørsamisk</td>
-					<td>MLK</td>
-					<td>06.03.2009</td>
-					<td>12.03.2009</td>
-					<td>N/A</td>
-					<td>12.03.2009</td>
-					<td>02.04.2009</td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Don jih dan bijre II</td>
-					<td>82-91000-03-4</td>
-					<td>Daasta berteme</td>
-					<td>Anna Jacobsen</td>
-					<td>N/A</td>
-					<td>Sørsamisk</td>
-					<td>MLK</td>
-					<td>06.03.2009</td>
-					<td>12.03.2009</td>
-					<td>N/A</td>
-					<td>12.03.2009</td>
-					<td>02.04.2009</td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Don jih dan bijre III</td>
-					<td>82-91000-04-2</td>
-					<td>Daasta berteme</td>
-					<td>Anna Jacobsen</td>
-					<td>N/A</td>
-					<td>Sørsamisk</td>
-					<td>MLK</td>
-					<td>06.03.2009</td>
-					<td>12.03.2009</td>
-					<td>N/A</td>
-					<td>12.03.2009</td>
-					<td>02.04.2009</td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Mojhtesh</td>
-					<td></td>
-					<td>Mosjøen videregående skole</td>
-					<td>Anna Jacobsen aj Åsta Vangberg</td>
-					<td>N/A</td>
-					<td>Sørsamisk</td>
-					<td>MLK</td>
-					<td>06.03.2009</td>
-					<td>12.03.2009, AJ</td>
-					<td>N/A</td>
-					<td>12.03.2009</td>
-					<td>02.04.2009</td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Duedtie Novrlaantesne</td>
-					<td></td>
-					<td>Nordland fylkeskommune</td>
-					<td>Anna Jacobsen</td>
-					<td></td>
-					<td>Sørsamisk</td>
-					<td>mlk</td>
-					<td>06.03.2009</td>
-					<td>12.03.2009, AJ</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Gullie-tjååtsele</td>
-					<td>82-00-06356-9</td>
-					<td>Universitetsforlaget</td>
-					<td>Annukka ja Samuli Aikio</td>
-					<td>Anna Jacobsen</td>
-					<td>Sørsamisk</td>
-					<td>MLK</td>
-					<td>06.03.2009</td>
-					<td></td>
-					<td>12.03.2009</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Jupmelen rijhke lea gietskesne - Markosen veantjele</td>
-					<td>82-541-0388-7</td>
-					<td>Det Norske Bibelselskap</td>
-					<td></td>
-					<td>Anna Jacobsen aj Bierna Bientie</td>
-					<td>Sørsamisk</td>
-					<td>MLK</td>
-					<td>06.03.2009</td>
-					<td></td>
-					<td>12.03.2009, AJ <br /> BB</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Luste lohkedh</td>
-					<td>82-91047-44-8</td>
-					<td>Samisk utdanningsråd</td>
-					<td>Anna Jacobsen aj Anne-Lise Dunfjeld</td>
-					<td></td>
-					<td>Sørsamisk</td>
-					<td>MLK</td>
-					<td>06.03.2009</td>
-					<td>12.03.2009, AJ</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr>
-					<td>Gåessie dah jeatjebh åerieminie: naemhtie sopstesovvin Jïnjevaereste</td> <!-- title -->
-					<td>91-88238-75-X</td> <!-- ISBN -->
-					<td>Gullers förlag</td> <!-- Publisher -->
-					<td>Christer Olofsson</td> <!-- Writer(s) -->
-					<td>Gerd Persson</td> <!-- Translator(s) -->
-					<td>Swedish or South Sami</td> <!-- Language -->
-					<td>JF phonecall to GP 11.11.2008, information letter sent to GP 12.05.2009 <br /> Jf phonecall to CO 05.05.2008 </td> <!-- Contact -->
-					<td>xx.xx.xxxx, CO <br /> xx.xx.xxxx GP <br /> xx.xx.xxxx publisher</td> <!-- Sent contract -->
-					<td></td> <!-- Sign, writer -->
-					<td></td> <!-- Sign, trans -->
-					<td></td> <!-- Sign, pub -->
-					<td></td> <!-- Sign, parli-->
-					<td></td> <!-- Contr arch numb -->
-					<td></td> <!-- Added to corpus -->
-				</tr>
-				<tr> <!-- copy from here -->
-				    <td>Bovtsen guelmieh </td> <!-- title -->
-					<td>82-993254-0-4</td> <!-- isbn -->
-					<td>Sijtie Jarnge</td> <!-- publisher -->
-					<td>Utsi, Gun M.</td> <!-- writer(s) -->
-					<td>Gun Aira, </td> <!-- Translator(s) -->
-					<td>Swedish, South-, Julev-, and North Sami</td> <!-- Language -->
-					<td>JF, phone 05.05.2008</td> <!-- contact -->
-					<td>GU 06.06.2008<br /> GA 07.07.2008</td> <!-- sent contract -->
-					<td>20.09.2008</td> <!-- sign, writ -->
-					<td>27.01.2009 GA </td> <!-- sign, trans -->
-					<td>03.09.2008 </td> <!-- sign, pub -->
-					<td></td> <!-- sign, sami parl -->
-					<td></td> <!-- archive num -->
-					<td></td> <!-- text added to corpus -->
-				</tr>
+  <header>
+    <title>forfattere-og-boker-davvi-girji</title>
+  </header>
 
+  <body>
+    <section>
+      <title>Publisers</title>
 
-				<tr>
-					<td>Sanna, saemien-niejte Johkemehkeste</td>
-					<td>978-91-85717-05-7</td>
-					<td>Sameskolstyrelsen</td>
-					<td>Sara Aira Fjällström</td>
-					<td>Sakka Nejne</td>
-					<td>Sørsamisk</td>
-					<td>10.10.2008</td>
-					<td>Sent contract</td>
-					<td>Signature, writer(s)</td>
-					<td>Signature, translator(s)</td>
-					<td>Signature, publisher</td>
-					<td>Signature, Sami parliament</td>
-					<td>Contract archive number, date</td>
-					<td>081010</td>
-				</tr>
-				<tr>
-					<td>Ovmese vaajesh</td>
-					<td>91-7716-095-9</td>
-					<td>Sameskolstyrelsen</td>
-					<td>Sakka Nejne</td>
-					<td>N/a</td>
-					<td>Sørsamisk</td>
-					<td>10.10.2008</td>
-					<td>Sent contract</td>
-					<td>Signature, writer(s)</td>
-					<td>Signature, translator(s)</td>
-					<td>Signature, publisher</td>
-					<td>Signature, Sami parliament</td>
-					<td>Contract archive number, date</td>
-					<td>081010</td>
-				</tr>
-                <tr>
-					<td>Vadtese - Saernie Kristusen bïjre</td>
-					<td>978-82-760-1165-4</td>
-					<td>Idut</td>
-					<td>Anne-Grethe Leine Bientie</td>
-					<td>N/A</td>
-					<td>Sørsamisk</td>
-					<td>DJ 14.04.2009</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-				<tr> <!-- for new books, copy from here -->
-				    <td></td> <!-- title -->
-					<td></td> <!-- isbn -->
-					<td></td> <!-- publisher -->
-					<td></td> <!-- writer(s) -->
-					<td></td> <!-- Translator(s) -->
-					<td></td> <!-- Language -->
-					<td></td> <!-- contact -->
-					<td></td> <!-- sent contrac -->
-					<td></td> <!-- sign, writ -->
-					<td></td> <!-- sign, trans -->
-					<td></td> <!-- sign, pub -->
-					<td></td> <!-- sign, sami parl -->
-					<td></td> <!-- archive num -->
-					<td></td> <!-- text added to corpus -->
-				</tr> <!-- to here -->
-				
+      <table>
+        <tr>
+          <th>Title</th>
 
-			</table>
-		</section>
-		<section>
-			<title>Web pages</title>
-			<table>
-				<tr>
-					<td>BD</td>
-					<td><a href="http://www.bd.komforb.se/pagaendeprojekt/minoritetssprak/aarjelsaemiengielesydsamiska.4.1d87b26611d2c66bc568000232.html">Åarjelsaemiengiele - Sydsamiska - Kommunförbundet</a></td>
-					<td>Kommunförbundet Norrbotten</td>
-					<td>???</td>
-					<td>???</td>
-					<td>Sørsamisk</td>
-					<td>090318</td>
-				</tr>
-					<tr>
-					<td>BD</td>
-					<td><a href="http://www.ntfk.no/bibliotek/saker/2009/FT/FT09007Sørsamisk.htm">Nord-Trøndelag fylkeskommune</a></td>
-					<td>Nord Trøndelag Fylkeskommune</td>
-					<td>???</td>
-					<td>???</td>
-					<td>Sørsamisk</td>
-					<td>090318</td>
-				</tr>
-				<tr>
-					<td>BD</td>
-					<td><a href="http://www.sakerhetspolisen.se/ovrigt/andrasprak/sydsamiska.4.7671d7bb110e3dcb1fd800011376.html">Sydsamiska - Säkerhetspolisen</a></td>
-					<td>Säkerhetspolisen Sverige</td>
-					<td>???</td>
-					<td>???</td>
-					<td>Sørsamisk</td>
-					<td>090318</td>
-				</tr>
-			</table>
-		</section>
-    </body>
+          <th>ISBN</th>
+
+          <th>Publisher</th>
+
+          <th>Writer(s)</th>
+
+          <th>Translator(s)</th>
+
+          <th>Language</th>
+
+          <th>Contact</th>
+
+          <th>Sent contract</th>
+
+          <th>Signature, writer(s)</th>
+
+          <th>Signature, translator(s)</th>
+
+          <th>Signature, publisher</th>
+
+          <th>Signature, Sami parliament</th>
+
+          <th>Contract archive number, date</th>
+
+          <th>Text added to corpus</th>
+        </tr>
+
+        <tr>
+          <td>Geografiija 8, oahppigirji</td>
+
+          <td>82-7374-412-4</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Aage Solbakk</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG</td>
+
+          <td>x</td>
+
+          <td>15.03.2008</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td>09.03.2009</td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Geografiija 9</td>
+
+          <td>82-7374-443-4</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Aage Solbakk</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG</td>
+
+          <td>x</td>
+
+          <td>15.03.2008</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td>09.03.2009</td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Sámi historjá I</td>
+
+          <td>82-7374-249-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Aage Solbakk</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG</td>
+
+          <td>x</td>
+
+          <td>15.03.2008</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td>09.03.2009</td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Sámi historjá II</td>
+
+          <td>82-7374-262-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Aage Solbakk</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG</td>
+
+          <td>x</td>
+
+          <td>15.03.2008</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td>09.03.2009</td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Ávjovári - Kárášjoga historjá</td>
+
+          <td>82-7374-493-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Aage Solbakk</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG</td>
+
+          <td>x</td>
+
+          <td>15.03.2008</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td>09.03.2009</td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Sápmelaččat – giehtagirji</td>
+
+          <td>82-7374-175-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Aage Solbakk</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG</td>
+
+          <td>x</td>
+
+          <td>15.03.2008</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td>09.03.2009</td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Gielas gillii, mielas millii 1 - Sámi čállingiela historjá</td>
+
+          <td>82-7374-349-7</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Aage Solbakk</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG</td>
+
+          <td>x</td>
+
+          <td>15.03.2008</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td>09.03.2009</td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Olbmo ovdáneapmi</td>
+
+          <td>82-7374-291-1</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Aimo Aikio</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Baalka</td>
+
+          <td>82-7374-510-4</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Anita Dunfjeld Aagård og Tone Marie Larsen</td>
+
+          <td></td>
+
+          <td>Sørsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Duodjegáldu</td>
+
+          <td>82-7374-251-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Anne Kirsten Eira, Marit Østby</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Sukká hávvá 5.0:Áhkku, muital munnje</td>
+
+          <td>82-7374-335-7</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Anne Liisa Guttorm</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Luonddumearkkat</td>
+
+          <td>82-7374-347-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Astrid Turi Gaup</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Sukká hávvá 6.0:Oahpaheaddjái veahkkin</td>
+
+          <td>82-7374-338-1</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Balto / Guttorm / Eriksen</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Bures, bures fas! Lohkangirji</td>
+
+          <td>82-7374-200-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Berit Johnskareng</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Bures, bures fas! bargogirji</td>
+
+          <td>82-7374-217-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Berit Johnskareng</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Bures, bures fas! Jurddagirji</td>
+
+          <td>82-7374-218-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Berit Johnskareng</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Oaidnalit - Lohkangirji</td>
+
+          <td>82-7374-245-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Berit Johnskareng</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Oaidnalit -bargogirji</td>
+
+          <td>82-7374-246-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Berit Johnskareng</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Nanne giela! Oahppiigirji</td>
+
+          <td>82-7374-247-4</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Berit Johnskareng</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Boađe mu mielde: bargogirji</td>
+
+          <td>82-7374-426-4</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Berit Johnskareng</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Bures boahtin - lohkangirji</td>
+
+          <td>82-7374-444-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Berit Johnskareng</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Bures boahtin - bargogirji</td>
+
+          <td>82-7374-445-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Berit Johnskareng</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Boađe mu mielde</td>
+
+          <td>82-7374-495-7</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Berit Johnskareng</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Sárá ja su ustibat - bargogirji</td>
+
+          <td>82-7374-122-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Berit Johnskareng og Marit Olsen</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Sárá ja su ustibat - lohkangirji</td>
+
+          <td>82-7374-121-4</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Berit Johnskareng og Marit Olsen</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Ruksesgahpir ja Gumpe</td>
+
+          <td>82-7374-407-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Bodil Cappelen</td>
+
+          <td>?</td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Rødhette</td>
+
+          <td>82-7374-508-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Bodil Cappelen</td>
+
+          <td></td>
+
+          <td>Norsk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Ájjánieidda ja gálggonieida/Manndattera og kjerringdattera</td>
+
+          <td>82-7374-551-1</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Bodil Cappelen</td>
+
+          <td>Issát Sámmol Heatta</td>
+
+          <td>Nordsamisk/norsk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Medisinsk lommeparlør</td>
+
+          <td>82-7374-388-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Egil Utsi</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Silbasuonat</td>
+
+          <td>82-7374-418-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Elen Ragnhild Sara</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Joatkke ain</td>
+
+          <td>82-7374-613-5</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Elen Ragnhild Sara</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Åarjel-saemien 3</td>
+
+          <td>82-7374-285-7</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Ella Holm Bull</td>
+
+          <td></td>
+
+          <td>Sørsamisk</td>
+
+          <td>DJ, 12.12.2008</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Åarjel-saemien 4</td>
+
+          <td>82-7374-286-5</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Ella Holm Bull</td>
+
+          <td></td>
+
+          <td>Sørsamisk</td>
+
+          <td>DJ, 12.12.2008</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Åarjel-saemien 5</td>
+
+          <td>82-7374-366-7</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Ella Holm Bull</td>
+
+          <td></td>
+
+          <td>Sørsamisk</td>
+
+          <td>DJ, 12.12.2008</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Åarjel-saemien 1</td>
+
+          <td>82-7374-136-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Ella Holm Bull</td>
+
+          <td></td>
+
+          <td>Sørsamisk</td>
+
+          <td>DJ, 12.12.2008</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Dejpeladtje muvhth vätnoeh jih vuekieh</td>
+
+          <td>91-973-815-1-9</td>
+
+          <td>Samernas utbildningscentrum, Idut</td>
+
+          <td>Ella Holm Bull</td>
+
+          <td></td>
+
+          <td>Sørsamisk</td>
+
+          <td>DJ, 12.12.2008</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Dovdda čuođi diidda</td>
+
+          <td>82-7374-570-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Ellen Brita Anti</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Geavat giela ja gáhtte dan - oahppogirji</td>
+
+          <td>82-7374-344-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Ellen Marit Guttom / Ragnhild S. Turi</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Geavat giela ja gáhtte dan - Bargogirji</td>
+
+          <td>82-7374-362-4</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Ellen Marit Guttom / Ragnhild S. Turi</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Geavat giela ja gáhtte dan - Rávagirji</td>
+
+          <td>82-7374-363-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Ellen Marit Guttom / Ragnhild S. Turi</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Áddjá ja mánat - ohppiidgirji</td>
+
+          <td>82-7374-472-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Ellen Marit Guttorm</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Dat viđas - Ohpiidgirji</td>
+
+          <td>82-7374-473-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Ellen Marit Guttorm</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Dat viđas - Bargogirji</td>
+
+          <td>82-7374-475-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Ellen Marit Guttorm</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Áddjá ja mánát - Bargogirji</td>
+
+          <td>82-7374-474-4</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Ellen Marit Guttorm og Anne D. Biti Mikalsen</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Verddežat</td>
+
+          <td>82-7374-394-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Ellen Sara Eikås</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Gielas gillii, mielas millii 7 - Sánit teakstan - Cealkaoahppa
+          ja giellagáhtten</td>
+
+          <td>82-7374-358-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Else R. Turi, Johanna Ijäs</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Lottit luonddus</td>
+
+          <td>82-7374-348-9</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Esko Aikio / Jouni Aikio / Anja West Aikio</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Filmma ja televišuvnna muitalanteknihkka ja dramaturgiija</td>
+
+          <td>82-7374-511-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Geir Eriksen</td>
+
+          <td>Magne Ove Varsi</td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Riegádan gándan – Riegádan nieidan</td>
+
+          <td>82-7374-441-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Gudrun Eliissá Eriksen Lindi</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Servodatoahppu 8</td>
+
+          <td>82-7374-360-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Guri og Heaika Skum</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG, 21.09.2007, no answer</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Servodatoahppu 9 oahppigirj</td>
+
+          <td>82-7374-435-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Guri og Heaika Skum</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG, 19.09.2007, no answer</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Servodatoahppu 8 ja 9</td>
+
+          <td>82-7374-453-1</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Guri og Heaika Skum</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG, 19.09.2007, no answer</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Sukká hávvá 7.0 - Vulgot stoahkat!</td>
+
+          <td>82-7374-337-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Haldis Balto</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Vulgot meahccái</td>
+
+          <td>82-7374-590-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Haldis Balto</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Rittus áhpái</td>
+
+          <td>82-7374-494-9</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Hans Fredrik Eriksen</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Gielas gillii, mielas millii 8 - Čálagovat - Sámi
+          girjjálašvuođahistorjá</td>
+
+          <td>82-7374-352-7</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Harald Gaski</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Gielas gillii, mielas millii 2 - Skriftbilder- Samisk
+          litteraturhistorie</td>
+
+          <td>82-7374-353-5</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Harald Gaski</td>
+
+          <td></td>
+
+          <td>Nordsamisk og norsk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Min njálmmálaš árbevierru</td>
+
+          <td>82-7374-436-1</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Harald Gaski, John T. Solbakk og Aage Solbakk</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Searvva fal!</td>
+
+          <td>82-7374-509-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Heidi Guttorm Einarsen</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Šáike Šuvon 2 - rávagirji oahpaheaddjái</td>
+
+          <td>82-7374-392-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Heidi Guttorm Einarsen</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Šáike Šuvon 3 - rávagirji oahpaheaddjái</td>
+
+          <td>82-7374-428-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Heidi Guttorm Einarsen</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Šáike Šuvon 3</td>
+
+          <td>82-7374-429-9</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Heidi Guttorm Einarsen</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Šáike Šuvon 4 - rávagirji oahpaheaddjái</td>
+
+          <td>82-7374-438-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Heidi Guttorm Einarsen</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Šáike Šuvon 4 - Ohppiidgirji</td>
+
+          <td>82-7374-462-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Heidi Guttorm Einarsen</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Divššodettiin sámástit</td>
+
+          <td>82-7374-166-4</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Hjørdis Lishagen Rasmus</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Sáni sadji 5 - oahppiidgirji</td>
+
+          <td>82-7374-399-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Inga Alette Anti og Solfrid Sara Eira</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Sáni sadji 5 - rávagirji</td>
+
+          <td>82-7374-400-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Inga Alette Anti og Solfrid Sara Eira</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Dápmot</td>
+
+          <td>82-7374-427-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Inga Guttorm</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Guovdageaingákti</td>
+
+          <td>82-529-1406-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Inga Hermansen Hætta</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Jåvvå-viellja - Mannulahka Ukrainaj</td>
+
+          <td>82-7374-144-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Inga Karlsen</td>
+
+          <td></td>
+
+          <td>Lulesamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Jåvvå-viellja - Reisen til Ukraina</td>
+
+          <td>82-7374-585-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Inga Karlsen</td>
+
+          <td>Heidi Andersen</td>
+
+          <td>Norsk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Ruoktumet</td>
+
+          <td>82-7374-302-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Inga Laila Hætta, Inga Hætta Skarvik</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Abráhám–Jesus - Oahppogirji 2.luohkkái</td>
+
+          <td>82-7374-281-4</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Inga Ravna Eira</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Ovcci vuomi njolgá</td>
+
+          <td>82-7374-567-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Inga Ravna Eira</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Abráhám–Jesus - Oahppijgirjje 2. jahkáj</td>
+
+          <td>82-7374-282-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Inga Ravna Eira</td>
+
+          <td></td>
+
+          <td>Lulesamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Abráhám–Jesus - Rávagirji 2. luohkkái</td>
+
+          <td>82-7374-296-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Inga Ravna Eira</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Áibmolaččat bohtet -</td>
+
+          <td>82-7374-451-5</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Inger Eline Eira Buljo</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Lávllu juoigga čáli</td>
+
+          <td>82-7374-461-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Issát Sámmol Heatta</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Væssj-Bualehke</td>
+
+          <td>82-7374-172-9</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Jens Martin Mienna</td>
+
+          <td>Nora Marie Brandsfjell</td>
+
+          <td>Sørsamisk</td>
+
+          <td>MLK, ringte uke 19</td>
+
+          <td>06.03.2009</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Fastteshurvi</td>
+
+          <td>82-7374-168-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Jens Martin Mienna</td>
+
+          <td></td>
+
+          <td>Lulesamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Fastteshurvi</td>
+
+          <td>82-7374-547-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Jens Martin Mienna</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Ginna lohkangiri</td>
+
+          <td>82-7374-470-1</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Johan Jernsletten ovttas Sverre Hatliin</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG, 21.09.2007</td>
+
+          <td>x</td>
+
+          <td>Johan Jernsletten, 14.03.2008 <br />Sverre Hatle, waiting <br />
+          Karen Anne Oskal Eira, waiting</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Ginna bargogirji</td>
+
+          <td>82-7374-490-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Johan Jernsletten ovttas Sverre Hatliin</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG, 21.09.2007</td>
+
+          <td>x</td>
+
+          <td>Johan Jernsletten, 14.03.2008 <br />Sverre Hatle, waiting <br />
+          Karen Anne Oskal Eira, waiting</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Galka bargogirji</td>
+
+          <td>82-7374-512-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Johan Jernsletten ovttas Sverre Hatliin</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG, 21.09.2007</td>
+
+          <td>x</td>
+
+          <td>Johan Jernsletten, 14.03.2008 <br />Sverre Hatle, waiting <br />
+          Karen Anne Oskal Eira, waiting</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Galka lohkangirji</td>
+
+          <td>82-7374-513-9</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Johan Jernsletten ovttas Sverre Hatliin</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG, 21.09.2007</td>
+
+          <td>x</td>
+
+          <td>Johan Jernsletten, 14.03.2008 <br />Sverre Hatle, waiting <br />
+          Karen Anne Oskal Eira, waiting</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Borta lohkangirji</td>
+
+          <td>82-7374-531-7</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Johan Jernsletten ovttas Sverre Hatliin</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG, 21.09.2007</td>
+
+          <td>x</td>
+
+          <td>Johan Jernsletten, 14.03.2008</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Borta bargogirji</td>
+
+          <td>82-7374-532-5</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Johan Jernsletten ovttas Sverre Hatliin</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG, 21.09.2007</td>
+
+          <td>x</td>
+
+          <td>Johan Jernsletten, 14.03.2008 <br />Sverre Hatle, waiting <br />
+          Karen Anne Oskal Eira, waiting</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Snorra lohkangirji</td>
+
+          <td>82-7374-540-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Johan Jernsletten ovttas Sverre Hatliin</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG, 21.09.2007</td>
+
+          <td>x</td>
+
+          <td>Johan Jernsletten, 14.03.2008 <br />Sverre Hatle, waiting <br />
+          Karen Anne Oskal Eira, waiting</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Snorra bargogirji</td>
+
+          <td>82-7374-541-4</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Johan Jernsletten ovttas Sverre Hatliin</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG, 21.09.2007</td>
+
+          <td>x</td>
+
+          <td>Johan Jernsletten, 14.03.2008 <br />Sverre Hatle, waiting <br />
+          Karen Anne Oskal Eira, waiting</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Med godstog over vidda 1945-75</td>
+
+          <td>82-7374-581-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Johan Mahtis K Hætta</td>
+
+          <td></td>
+
+          <td>Nordsamisk/norsk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Jogašgátti nieiddat</td>
+
+          <td>82-7374-459-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Johannes Niilas Guttorm</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Nanne giela! - Bargogirji</td>
+
+          <td>82-7374-248-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Johnskareng / Mathisen / Skals</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Byttingene / Lonuhusatgánddaguovttos</td>
+
+          <td>82-7374-479-5</td>
+
+          <td>Davvi Girji</td>
+
+          <td>June Sommer</td>
+
+          <td>Rauni Magga Lukkari / Sunna Pentha</td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Giella Sámis II - Oahppogirji</td>
+
+          <td>82-7374-022-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kari Meløy</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG, 21.09.2007</td>
+
+          <td>x</td>
+
+          <td>13.03.2008</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td>09.03.2009</td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Giella Sámis III - Oahppogirji</td>
+
+          <td>82-7374-228-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kari Meløy</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG, 21.09.2007</td>
+
+          <td>x</td>
+
+          <td>13.03.2008</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td>09.03.2009</td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Giella Sámis III - bargogirji</td>
+
+          <td>82-7374-026-9</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kari Meløy</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG, 21.09.2007</td>
+
+          <td>x</td>
+
+          <td>13.03.2008</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td>09.03.2009</td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Giella Sámis II - bargogirji</td>
+
+          <td>82-7374-023-4</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kari Meløy</td>
+
+          <td>x</td>
+
+          <td>Nordsamisk</td>
+
+          <td>BG, 21.09.2007</td>
+
+          <td>x</td>
+
+          <td>13.03.2008</td>
+
+          <td>x</td>
+
+          <td>17.03.2008</td>
+
+          <td>09.03.2009</td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Soahti Billávuonas</td>
+
+          <td>82-7374-520-1</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kari Vinje</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Čomisteaddjit</td>
+
+          <td>82-7374-619-4</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kerttu Vuolab og Sverre Porsanger</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Sáni sadji 7 oahppigirji</td>
+
+          <td>82-7374-465-5</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Marit Olsen og Bodil Utsi Vars</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Sáni sadji 7 oahpaheaddji</td>
+
+          <td>82-7374-466-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Marit Olsen og Bodil Utsi Vars</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Sáni sadji 6 oahpaheaddji rávagirji</td>
+
+          <td>82-7374-478-7</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Marit Olsen og Bodil Utsi Vars</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Sáni sadji 6 - oahppigirji</td>
+
+          <td>82-7374-432-9</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Marit Olsen og Bodil Utsi Vars</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Govvamuitalusat</td>
+
+          <td>82-7374-087-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Hárjehusat III - čovddagirji</td>
+
+          <td>82-7374-256-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Geahččaleamit - Hárjehusat II</td>
+
+          <td>82-7374-179-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Geahččalemiid čovdosat -hárjehusat II</td>
+
+          <td>82-7374-181-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Fáddágirji 1a</td>
+
+          <td>82-7374-448-5</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Fáddágirji 1á</td>
+
+          <td>82-7374-449-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Fáddágirji 6</td>
+
+          <td>82-7374-240-7</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Hárjehusat II - čovddagirji</td>
+
+          <td>82-7374-417-5</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Geahččalemiid čovdosat -hárjehusat III</td>
+
+          <td>82-7374-259-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Fáddágirji 8</td>
+
+          <td>82-7374-242-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Geahččaleamit - Hárjehusat 1</td>
+
+          <td>82-7374-184-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Giellaoahpu váldogirji</td>
+
+          <td>82-7374-506-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Geahččalemiid čovdosat -hárjehusat I</td>
+
+          <td>82-7374-185-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Fáddágirji 3</td>
+
+          <td>82-7374-408-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Fáddágirji 5</td>
+
+          <td>82-7374-409-4</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Hárjehusat III</td>
+
+          <td>82-7374-191-5</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Fáddágirji 9</td>
+
+          <td>82-7374-410-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Hárjehusat I</td>
+
+          <td>82-7374-414-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Hárjehusat I - čovddagirji</td>
+
+          <td>82-7374-415-9</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Geahččaleamit - Hárjehusat III</td>
+
+          <td>82-7374-257-1</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Fáddágirji 10</td>
+
+          <td>82-7374-169-9</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Giellaoahpu váldogirji - Fasihtta</td>
+
+          <td>82-7374-568-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Hárjehusat II</td>
+
+          <td>82-7374-416-7</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Oahpaheaddjibagadus</td>
+
+          <td>82-7374-238-5</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Pope og Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Fiervái</td>
+
+          <td>82-7374-389-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsten Porsanger</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Suoláduvvan</td>
+
+          <td>82-7374-486-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsti Paltto</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Stjålet</td>
+
+          <td>82-7374-536-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kirsti Paltto</td>
+
+          <td>Ellen Anne Gaup, Mikkel A. Gaup ja Laila Stien</td>
+
+          <td>Norsk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Mearraguollebivdu</td>
+
+          <td>82-7374-422-1</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Klemet Anders Sara</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Sáhkkeheapmi</td>
+
+          <td>82-7374-514-7</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Knut Røe</td>
+
+          <td>Magne Ove Varsi</td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Mearragáttis duoddarii - sámi borramuš institušuvnnas</td>
+
+          <td>82-7374-582-1</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Kristine Gaup Grønmo</td>
+
+          <td></td>
+
+          <td>Nordsamisk/norsk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Girjjo gárjjo</td>
+
+          <td>82-7374-434-5</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Káren Ellen Gaup</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Gealdde gieđaid girdit</td>
+
+          <td>82-7374-484-1</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Leammuid Biret Rávdná</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Sámiid historjá 1850 rádjái</td>
+
+          <td>82-7374-243-1</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Leif Eriksen</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Jámešgušbákti ja Jiehtanas</td>
+
+          <td>82-7374-411-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Lene Antonsen</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Sukká hávvá 8.O:Boahttet duddjot!</td>
+
+          <td>82-7374-202-4</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Liisa Ahlakorpi, Anna-Liisa Guttorm, Anne Ingebjørg Svineng
+          Eriksen</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Media-nuoraidskuvlii</td>
+
+          <td>82-7374-442-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Liv Inger Somby</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Gielas gillii, mielas millii 6 - Mediagirji</td>
+
+          <td>82-7374-355-1</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Liv Inger Somby</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Luondduipmašat</td>
+
+          <td>82-7374-560-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Liv Tone Boine</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Gielas gillii, mielas millii 9 - Davvisámegiela suopmanat</td>
+
+          <td>82-7374-439-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Maaren Palismaa og Inger Marie Gaup Eira</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Soigosiid sáhttu</td>
+
+          <td>82-7374-433-7</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Mikkel Magnus Utsi</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Reinen - et gode fra vinden</td>
+
+          <td>82-7374-503-1</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Mikkel Nils Sara</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Boazu lea biekka buorri</td>
+
+          <td>82-7374-502-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Mikkel Nils Sara</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Fáddágirji 2</td>
+
+          <td>82-7374-255-5</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Fáddágirji 4</td>
+
+          <td>82-7374-239-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Eatnigiella - Fáddágirji 7</td>
+
+          <td>82-7374-241-5</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Árvádusat</td>
+
+          <td>82-7374-644-5</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Máret Sárá</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Čuohtelogu ráhkesvuođacuvccas</td>
+
+          <td>82-7374-526-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Märta Tikkanen</td>
+
+          <td>Rauni Magga Lukkari</td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Skálveáddjá / Driftman</td>
+
+          <td>82-7374-516-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Niillas A. Somby</td>
+
+          <td>Kaija Anttonen</td>
+
+          <td>Nordsamisk/engelsk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Boaldimis báhtui</td>
+
+          <td>82-7374-340-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Niilo Aikio</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Movt áigi lea rievdan</td>
+
+          <td>82-7374-550-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Nils Mathisen Sara</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Dá lea Sámi Radio</td>
+
+          <td>82-7374-548-1</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Odd Mathis Hætta</td>
+
+          <td>Berit Margrethe Oskal</td>
+
+          <td>Nordsamisk/norsk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Láidehus sámegiela cealkkaoahpu dutkamii</td>
+
+          <td>82-7374-625-9</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Pekka Sammallahti</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Gielas gillii, mielas millii 5 - Hála ja čále ná- Njálmmáláš ja
+          čálalaš giellageavaheapmi</td>
+
+          <td>82-7374-350-0</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Per Jernsletten</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Vuoi dan Kárenina</td>
+
+          <td>82-7374-458-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Rauna Paadar-Leivo</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Árbeeadni</td>
+
+          <td>82-7374-318-7</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Rauni Magga Lukkari</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Biejjien baernie</td>
+
+          <td>82-7374-539-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Red: Harald Gaski</td>
+
+          <td></td>
+
+          <td>Lulesamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Gal rieban guođđá suvlli eahkedii</td>
+
+          <td>82-7374-272-5</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Risten Sokki</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Mii leat ain dás</td>
+
+          <td>82-7374-250-4</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Siri Broch Johansen</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Mátta-Várjjat sámit</td>
+
+          <td>82-7374-384-5</td>
+
+          <td>Sissel Sildnes</td>
+
+          <td>Davvi Girji</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Biehtár ja Duommá háhkábivdon</td>
+
+          <td>82-7374-467-1</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Stig Riemmbe Gælok</td>
+
+          <td></td>
+
+          <td>Lulesamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Biehtár ja Duommá jávren stulliba</td>
+
+          <td>82-7374-421-3</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Stig Riemmbe Gælok</td>
+
+          <td></td>
+
+          <td>Lulesamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Šattut Sámis</td>
+
+          <td>82-7374-145-1</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Toivo Lukkari og Heikkiarmas Lukkari</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Njálaid guossit</td>
+
+          <td>82-7374-529-5</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Torkel Rasmussen</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Boahtá gus ruohtta-áddjá dán jage?</td>
+
+          <td>82-7374-361-6</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Torkel Rasmussen</td>
+
+          <td></td>
+
+          <td>Lulesamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Mæhttsáj láhppum</td>
+
+          <td>82-7374-528-7</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Torkel Rasmussen</td>
+
+          <td>?</td>
+
+          <td>Lulesamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Gielas gillii, mielas millii 3 - Sámi guovttegielatvuohta</td>
+
+          <td>82-7374-357-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Torkel Rasmussen</td>
+
+          <td></td>
+
+          <td>Nordsamisk</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Gïele lea faamoe</td>
+
+          <td>978-82-7374-571-2</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Maaren Palismaa</td>
+
+          <td>Nora Marie Brandsfjell</td>
+
+          <td>Sørsamisk</td>
+
+          <td>MLK, ringte uke 19</td>
+
+          <td>06.03.2009</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Saajve-Læjsa</td>
+
+          <td>82-7374-214-8</td>
+
+          <td>Davvi Girji</td>
+
+          <td>Inger Margrethe Olsen</td>
+
+          <td>Nora Marie Brandsfjell</td>
+
+          <td>Sørsamisk</td>
+
+          <td>MLK, ringte uke 19</td>
+
+          <td>06.03.2009</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Naestietjoevkesne</td>
+
+          <td>82-993254-1-2</td>
+
+          <td>Sijti Jarnge</td>
+
+          <td>Nora Marie Brandsfjell, Anna Jacobsen</td>
+
+          <td>N/A</td>
+
+          <td>Sørsamisk</td>
+
+          <td>MLK, ringte NMB uke 19</td>
+
+          <td>06.03.2009</td>
+
+          <td>12.03.2009, AJ</td>
+
+          <td>N/A</td>
+
+          <td>12.03.2009, AJ</td>
+
+          <td>15.03.2009</td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Mojnestimmieh</td>
+
+          <td>82-91047-50-2</td>
+
+          <td>Samisk utdanningsråd</td>
+
+          <td>Nora Marie Brandsfjell</td>
+
+          <td></td>
+
+          <td>Sørsamisk</td>
+
+          <td>MLK, ringte uke 19</td>
+
+          <td>06.03.2009</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Universitetese?</td>
+
+          <td></td>
+
+          <td>Universitetet i Tromsø</td>
+
+          <td></td>
+
+          <td>Nora Marie Brandsfjell</td>
+
+          <td>Sørsamisk</td>
+
+          <td>MLK, ringte uke 19</td>
+
+          <td>06.03.2009</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Goltelidh ja sopstestidh</td>
+
+          <td>82-91000-01-8</td>
+
+          <td>Daasta Berteme</td>
+
+          <td>Anna Jacobsen</td>
+
+          <td>N/A</td>
+
+          <td>Sørsamisk</td>
+
+          <td>MLK</td>
+
+          <td>06.03.2009</td>
+
+          <td>12.03.2009</td>
+
+          <td>N/A</td>
+
+          <td>12.03.2009</td>
+
+          <td>02.04.2009</td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Don jih dan bijre I</td>
+
+          <td>82-91000-02-6</td>
+
+          <td>Daasta berteme</td>
+
+          <td>Anna Jacobsen</td>
+
+          <td>N/A</td>
+
+          <td>Sørsamisk</td>
+
+          <td>MLK</td>
+
+          <td>06.03.2009</td>
+
+          <td>12.03.2009</td>
+
+          <td>N/A</td>
+
+          <td>12.03.2009</td>
+
+          <td>02.04.2009</td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Don jih dan bijre II</td>
+
+          <td>82-91000-03-4</td>
+
+          <td>Daasta berteme</td>
+
+          <td>Anna Jacobsen</td>
+
+          <td>N/A</td>
+
+          <td>Sørsamisk</td>
+
+          <td>MLK</td>
+
+          <td>06.03.2009</td>
+
+          <td>12.03.2009</td>
+
+          <td>N/A</td>
+
+          <td>12.03.2009</td>
+
+          <td>02.04.2009</td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Don jih dan bijre III</td>
+
+          <td>82-91000-04-2</td>
+
+          <td>Daasta berteme</td>
+
+          <td>Anna Jacobsen</td>
+
+          <td>N/A</td>
+
+          <td>Sørsamisk</td>
+
+          <td>MLK</td>
+
+          <td>06.03.2009</td>
+
+          <td>12.03.2009</td>
+
+          <td>N/A</td>
+
+          <td>12.03.2009</td>
+
+          <td>02.04.2009</td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Mojhtesh</td>
+
+          <td></td>
+
+          <td>Mosjøen videregående skole</td>
+
+          <td>Anna Jacobsen aj Åsta Vangberg</td>
+
+          <td>N/A</td>
+
+          <td>Sørsamisk</td>
+
+          <td>MLK</td>
+
+          <td>06.03.2009</td>
+
+          <td>12.03.2009, AJ</td>
+
+          <td>N/A</td>
+
+          <td>12.03.2009</td>
+
+          <td>02.04.2009</td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Duedtie Novrlaantesne</td>
+
+          <td></td>
+
+          <td>Nordland fylkeskommune</td>
+
+          <td>Anna Jacobsen</td>
+
+          <td></td>
+
+          <td>Sørsamisk</td>
+
+          <td>mlk</td>
+
+          <td>06.03.2009</td>
+
+          <td>12.03.2009, AJ</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Gullie-tjååtsele</td>
+
+          <td>82-00-06356-9</td>
+
+          <td>Universitetsforlaget</td>
+
+          <td>Annukka ja Samuli Aikio</td>
+
+          <td>Anna Jacobsen</td>
+
+          <td>Sørsamisk</td>
+
+          <td>MLK</td>
+
+          <td>06.03.2009</td>
+
+          <td></td>
+
+          <td>12.03.2009</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Jupmelen rijhke lea gietskesne - Markosen veantjele</td>
+
+          <td>82-541-0388-7</td>
+
+          <td>Det Norske Bibelselskap</td>
+
+          <td></td>
+
+          <td>Anna Jacobsen aj Bierna Bientie</td>
+
+          <td>Sørsamisk</td>
+
+          <td>MLK</td>
+
+          <td>06.03.2009</td>
+
+          <td></td>
+
+          <td>12.03.2009, AJ <br /> BB</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Luste lohkedh</td>
+
+          <td>82-91047-44-8</td>
+
+          <td>Samisk utdanningsråd</td>
+
+          <td>Anna Jacobsen aj Anne-Lise Dunfjeld</td>
+
+          <td></td>
+
+          <td>Sørsamisk</td>
+
+          <td>MLK</td>
+
+          <td>06.03.2009</td>
+
+          <td>12.03.2009, AJ</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>Gåessie dah jeatjebh åerieminie: naemhtie sopstesovvin
+          Jïnjevaereste</td>
+
+          <!-- title -->
+
+          <td>91-88238-75-X</td>
+
+          <!-- ISBN -->
+
+          <td>Gullers förlag</td>
+
+          <!-- Publisher -->
+
+          <td>Christer Olofsson</td>
+
+          <!-- Writer(s) -->
+
+          <td>Gerd Persson</td>
+
+          <!-- Translator(s) -->
+
+          <td>Swedish or South Sami</td>
+
+          <!-- Language -->
+
+          <td>JF phonecall to GP 11.11.2008, information letter sent to GP
+          12.05.2009 <br /> Jf phonecall to CO 05.05.2008</td>
+
+          <!-- Contact -->
+
+          <td>xx.xx.xxxx, CO <br /> xx.xx.xxxx GP <br /> xx.xx.xxxx
+          publisher</td>
+
+          <!-- Sent contract -->
+
+          <td></td>
+
+          <!-- Sign, writer -->
+
+          <td></td>
+
+          <!-- Sign, trans -->
+
+          <td></td>
+
+          <!-- Sign, pub -->
+
+          <td></td>
+
+          <!-- Sign, parli-->
+
+          <td></td>
+
+          <!-- Contr arch numb -->
+
+          <td></td>
+
+          <!-- Added to corpus -->
+        </tr>
+
+        <tr>
+          <!-- copy from here -->
+
+          <td>Bovtsen guelmieh</td>
+
+          <!-- title -->
+
+          <td>82-993254-0-4</td>
+
+          <!-- isbn -->
+
+          <td>Sijtie Jarnge</td>
+
+          <!-- publisher -->
+
+          <td>Utsi, Gun M.</td>
+
+          <!-- writer(s) -->
+
+          <td>Gun Aira,</td>
+
+          <!-- Translator(s) -->
+
+          <td>Swedish, South-, Julev-, and North Sami</td>
+
+          <!-- Language -->
+
+          <td>JF, phone 05.05.2008</td>
+
+          <!-- contact -->
+
+          <td>GU 06.06.2008<br /> GA 07.07.2008</td>
+
+          <!-- sent contract -->
+
+          <td>20.09.2008</td>
+
+          <!-- sign, writ -->
+
+          <td>27.01.2009 GA</td>
+
+          <!-- sign, trans -->
+
+          <td>03.09.2008</td>
+
+          <!-- sign, pub -->
+
+          <td></td>
+
+          <!-- sign, sami parl -->
+
+          <td></td>
+
+          <!-- archive num -->
+
+          <td></td>
+
+          <!-- text added to corpus -->
+        </tr>
+
+        <tr>
+          <td>Sanna, saemien-niejte Johkemehkeste</td>
+
+          <td>978-91-85717-05-7</td>
+
+          <td>Sameskolstyrelsen</td>
+
+          <td>Sara Aira Fjällström</td>
+
+          <td>Sakka Nejne</td>
+
+          <td>Sørsamisk</td>
+
+          <td>10.10.2008</td>
+
+          <td>090513</td>
+
+          <td>Signature, writer(s)</td>
+
+          <td>Signature, translator(s)</td>
+
+          <td>Signature, publisher</td>
+
+          <td>Signature, Sami parliament</td>
+
+          <td>Contract archive number, date</td>
+
+          <td>081010</td>
+        </tr>
+
+        <tr>
+          <td>Ovmese vaajesh</td>
+
+          <td>91-7716-095-9</td>
+
+          <td>Sameskolstyrelsen</td>
+
+          <td>Sakka Nejne</td>
+
+          <td>N/a</td>
+
+          <td>Sørsamisk</td>
+
+          <td>10.10.2008</td>
+
+          <td>090513</td>
+
+          <td>Signature, writer(s)</td>
+
+          <td>Signature, translator(s)</td>
+
+          <td>Signature, publisher</td>
+
+          <td>Signature, Sami parliament</td>
+
+          <td>Contract archive number, date</td>
+
+          <td>081010</td>
+        </tr>
+
+        <tr>
+          <td>Vadtese - Saernie Kristusen bïjre</td>
+
+          <td>978-82-760-1165-4</td>
+
+          <td>Idut</td>
+
+          <td>Anne-Grethe Leine Bientie</td>
+
+          <td>N/A</td>
+
+          <td>Sørsamisk</td>
+
+          <td>DJ 14.04.2009</td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+
+          <td></td>
+        </tr>
+
+        <tr>
+          <!-- for new books, copy from here -->
+
+          <td></td>
+
+          <!-- title -->
+
+          <td></td>
+
+          <!-- isbn -->
+
+          <td></td>
+
+          <!-- publisher -->
+
+          <td></td>
+
+          <!-- writer(s) -->
+
+          <td></td>
+
+          <!-- Translator(s) -->
+
+          <td></td>
+
+          <!-- Language -->
+
+          <td></td>
+
+          <!-- contact -->
+
+          <td></td>
+
+          <!-- sent contrac -->
+
+          <td></td>
+
+          <!-- sign, writ -->
+
+          <td></td>
+
+          <!-- sign, trans -->
+
+          <td></td>
+
+          <!-- sign, pub -->
+
+          <td></td>
+
+          <!-- sign, sami parl -->
+
+          <td></td>
+
+          <!-- archive num -->
+
+          <td></td>
+
+          <!-- text added to corpus -->
+        </tr>
+
+        <!-- to here -->
+      </table>
+    </section>
+
+    <section>
+      <title>Web pages</title>
+
+      <table>
+        <tr>
+          <td>BD</td>
+
+          <td><a
+          href="http://www.bd.komforb.se/pagaendeprojekt/minoritetssprak/aarjelsaemiengielesydsamiska.4.1d87b26611d2c66bc568000232.html">Åarjelsaemiengiele
+          - Sydsamiska - Kommunförbundet</a></td>
+
+          <td>Kommunförbundet Norrbotten</td>
+
+          <td>???</td>
+
+          <td>???</td>
+
+          <td>Sørsamisk</td>
+
+          <td>090318</td>
+        </tr>
+
+        <tr>
+          <td>BD</td>
+
+          <td><a
+          href="http://www.ntfk.no/bibliotek/saker/2009/FT/FT09007Sørsamisk.htm">Nord-Trøndelag
+          fylkeskommune</a></td>
+
+          <td>Nord Trøndelag Fylkeskommune</td>
+
+          <td>???</td>
+
+          <td>???</td>
+
+          <td>Sørsamisk</td>
+
+          <td>090318</td>
+        </tr>
+
+        <tr>
+          <td>BD</td>
+
+          <td><a
+          href="http://www.sakerhetspolisen.se/ovrigt/andrasprak/sydsamiska.4.7671d7bb110e3dcb1fd800011376.html">Sydsamiska
+          - Säkerhetspolisen</a></td>
+
+          <td>Säkerhetspolisen Sverige</td>
+
+          <td>???</td>
+
+          <td>???</td>
+
+          <td>Sørsamisk</td>
+
+          <td>090318</td>
+        </tr>
+      </table>
+    </section>
+  </body>
 </document>
-
