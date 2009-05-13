@@ -23,80 +23,80 @@
         </xsl:template>
 
 	<xsl:template match="/document/body/section[1]/table/tr" >
-		<tr><xsl:for-each select="td">
-			
+		<tr>
+			<xsl:for-each select="td">
 				<xsl:if test="position() = 1">
-					<td id="title">
+					<td class="title">
 						<xsl:value-of select="."/>
 					</td>
 				</xsl:if>
 				<xsl:if test="position() = 2">
-					<td id="isbn">
+					<td class="isbn">
 					<xsl:value-of select="."/>
 					</td>
 				</xsl:if>
 				<xsl:if test="position() = 3">
-					<td id="publisher">
+					<td class="publisher">
 					<xsl:value-of select="."/>
 					</td>
 				</xsl:if>
 				<xsl:if test="position() = 4">
-					<td id="writer">
+					<td class="writer">
 					<xsl:value-of select="."/>
 					</td>
 				</xsl:if>
 				<xsl:if test="position() = 5">
-					<td id="translator">
+					<td class="translator">
 					<xsl:value-of select="."/>
 					</td>
 				</xsl:if>
 				<xsl:if test="position() = 6">
-					<td id="language">
+					<td class="language">
 					<xsl:value-of select="."/>
 					</td>
 				</xsl:if>
 				<xsl:if test="position() = 7">
-					<td id="contact">
+					<td class="contact">
 					<xsl:value-of select="."/>
 					</td>
 				</xsl:if>
 				<xsl:if test="position() = 8">
-					<td id="sent_contract">
+					<td class="sent_contract">
 					<xsl:value-of select="."/>
 					</td>
 				</xsl:if>
 				<xsl:if test="position() = 9">
-					<td id="sign_writ">
+					<td class="sign_writ">
 					<xsl:value-of select="."/>
 					</td>
 				</xsl:if>
 				<xsl:if test="position() = 10">
-					<td id="sign_trans">
+					<td class="sign_trans">
 					<xsl:value-of select="."/>
 					</td>
 				</xsl:if>
 				<xsl:if test="position() = 11">
-					<td id="sign_publisher">
+					<td class="sign_publisher">
 					<xsl:value-of select="."/>
 					</td>
 				</xsl:if>
 				<xsl:if test="position() = 12">
-					<td id="sign_samiparl">
+					<td class="sign_samiparl">
 					<xsl:value-of select="."/>
 					</td>
 				</xsl:if>
 				<xsl:if test="position() = 13">
-					<td id="arch_numb">
+					<td class="arch_numb">
 					<xsl:value-of select="."/>
 					</td>
 				</xsl:if>
 				<xsl:if test="position() = 14">
-					<td id="text_added_to_corp">
+					<td class="text_added_to_corp">
 					<xsl:value-of select="."/>
 					</td>
 				</xsl:if>
-			
-		</xsl:for-each></tr>
+			</xsl:for-each>
+		</tr>
 	</xsl:template>
 
 </xsl:stylesheet>
