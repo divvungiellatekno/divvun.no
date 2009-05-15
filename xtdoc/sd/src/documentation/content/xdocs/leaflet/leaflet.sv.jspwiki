@@ -7,7 +7,7 @@ Arbetet med att utveckla ett rättstavningsverktyg för samiska språk inleddes 
 !!Produkten
 Divvun är ett rättstavningsverktyg för samiska. I dagsläget finns färdiga versioner för nord- och lulesamiska, och vi arbetar nu med en version för sydsamiska. Universitetet i Tromsø utvecklar även digitala pedagogiska läromedel. En elektronisk ordbok är också under utveckling.
 
-!!!Installation och användning av produkten.
+!!!Installation och användning av produkten
 För att installera Divvun-verktygen kan man antingen ladda ner programmet från [http://www.divvun.no/] eller installera det från en CD. Noggranna instruktioner hittar du om du klickar på länkarna här nedanför:
 
 * [Installation på Windows|win-install.sv.html]
