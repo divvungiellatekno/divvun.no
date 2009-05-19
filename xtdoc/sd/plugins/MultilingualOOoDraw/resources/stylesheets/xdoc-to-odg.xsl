@@ -36,7 +36,7 @@
     <!-- improves the readability of the resulting document
         when using xsltproc. Should probably be deleted for
         the final version -->
-    <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" />
+<!--     <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" /> -->
     <xsl:template match="doc">
         <zip:archive>
             <zip:entry name="content.xml" serializer="xml">
@@ -55,7 +55,7 @@
                 &manifest;
             </zip:entry>
             <zip:entry name="mimetype" serializer="text">
-                <text>application/vnd.oasis.opendocument.text</text>
+                <text>application/vnd.oasis.opendocument.graphics</text>
             </zip:entry>
             <xsl:apply-templates select="//document[1]/body"/>
             <xsl:call-template name="createImageEntries"/>
