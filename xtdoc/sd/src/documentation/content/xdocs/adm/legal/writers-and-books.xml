@@ -3380,22 +3380,70 @@
           <td class="arch_numb"></td>
           <td class="text_added_to_corp"></td>
 		</tr>
+    <tr>
+        <td class="title">Gapta/gåptoe arepie-guedtijinie</td>
+        <td class="isbn">82-7374-524-4</td>
+        <td class="publisher">Davvi Girji</td>
+        <td class="writer">Maja Dunfjell</td>
+        <td class="translator">Sig-Britt Persson</td>
+        <td class="language">South Sami</td>
+        <td class="contact">MLK</td>
+        <td class="sent_contract">23.04.2009 SBP</td>
+        <td class="sign_writ"></td>
+        <td class="sign_trans">20.05.2009</td>
+        <td class="sign_publisher"></td>
+        <td class="sign_samiparl"></td>
+        <td class="arch_numb"></td>
+        <td class="text_added_to_corp"></td>
+    </tr>
+    <tr>
+        <td class="title">Maadtoe/Laahkoe</td>
+        <td class="isbn">82-7374-524-4</td>
+        <td class="publisher">Davvi Girji</td>
+        <td class="writer">Tom Kappfjell</td>
+        <td class="translator">Sig-Britt Persson</td>
+        <td class="language">South Sami</td>
+        <td class="contact">MLK</td>
+        <td class="sent_contract">23.04.2009 SBP</td>
+        <td class="sign_writ"></td>
+        <td class="sign_trans">20.05.2009</td>
+        <td class="sign_publisher"></td>
+        <td class="sign_samiparl"></td>
+        <td class="arch_numb"></td>
+        <td class="text_added_to_corp"></td>
+    </tr>
+    <tr>
+        <td class="title">Eahperestujme</td>
+        <td class="isbn">82-7374-196-6</td>
+        <td class="publisher">Davvi Girji</td>
+        <td class="writer">Bjørn Nitteberg</td>
+        <td class="translator">Sig-Britt Persson</td>
+        <td class="language">South Sami</td>
+        <td class="contact">MLK</td>
+        <td class="sent_contract">23.04.2009</td>
+        <td class="sign_writ"></td>
+        <td class="sign_trans">20.05.2009</td>
+        <td class="sign_publisher"></td>
+        <td class="sign_samiparl"></td>
+        <td class="arch_numb"></td>
+        <td class="text_added_to_corp"></td>
+    </tr>
 		<!-- for new books, copy from here -->
-        <tr>
-          <td class="title"></td>
-          <td class="isbn"></td>
-          <td class="publisher"></td>
-          <td class="writer"></td>
-          <td class="translator"></td>
-          <td class="language"></td>
-          <td class="contact"></td>
-          <td class="sent_contract"></td>
-          <td class="sign_writ"></td>
-          <td class="sign_trans"></td>
-          <td class="sign_publisher"></td>
-          <td class="sign_samiparl"></td>
-          <td class="arch_numb"></td>
-          <td class="text_added_to_corp"></td>
+    <tr>
+        <td class="title"></td>
+        <td class="isbn"></td>
+        <td class="publisher"></td>
+        <td class="writer"></td>
+        <td class="translator"></td>
+        <td class="language"></td>
+        <td class="contact"></td>
+        <td class="sent_contract"></td>
+        <td class="sign_writ"></td>
+        <td class="sign_trans"></td>
+        <td class="sign_publisher"></td>
+        <td class="sign_samiparl"></td>
+        <td class="arch_numb"></td>
+        <td class="text_added_to_corp"></td>
 		</tr>
 		<!-- to here -->
       </table>
