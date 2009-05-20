@@ -3429,6 +3429,386 @@
         <td class="text_added_to_corp"></td>
     </tr>
 		<!-- for new books, copy from here -->
+		<tr>
+          <td class="Title">Bibeltekster</td>
+          <td class="ISBN">Unpublish texts</td>
+          <td class="Publisher">X</td>
+          <td class=""></td>
+          <td class="Translator">Bierna Bientie</td>
+          <td class="language"South sami</td>
+          <td class="Contact">MLK</td>
+          <td class="Sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+        <tr>
+          <td class="Title">Vadtese-Saernie Kristusen bijre</td>
+          <td class="ISBN">978-82-7601-165-4</td>
+          <td class="Publisher">Idut</td>
+          <td class="Writer">Anne Grethe Leine Bientie</td>
+          <td class="translator"></td>
+          <td class="Language">South sami</td>
+          <td class="Contact">MLK</td>
+          <td class="Sent_vontract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+		<tr>
+          <td class="title">Åarjel-saemien 1, Barkoegærja"</td>
+          <td class="isbn">ISBN 82-91047-36-7</td>
+          <td class="publisher">Samisk Utdanningsråd</td>
+          <td class="writer">Ella HOlm Bull</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+          <td class="title">Åarjel-saemien 2, Barkoegærja"</td>
+          <td class="isbn"> 82-91047-39-1</td>
+          <td class="publisher">Samisk Utdanningsråd</td>
+          <td class="writer">Ella HOlm Bull</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+
+<td class="Title">Åarjel-saemien 3, Barkoegærja"</td>
+          <td class="isbn">82-91047-54-5</td>
+          <td class="publisher">Samisk Utdanningsråd</td>
+          <td class="writer">Ella HOlm Bull</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+
+<td class="title">Åarjel-saemien 4, Barkoegærja</td>
+          <td class="isbn">??</td>
+          <td class="publisher">Samisk Utdanningsråd</td>
+          <td class="writer">Ella HOlm Bull</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+
+<td class="title">Åarjel-saemien 5, Barkoegærja</td>
+          <td class="isbn">ISBN 82-91047-78-2</td>
+          <td class="publisher">Samisk Utdanningsråd</td>
+          <td class="writer">Ella HOlm Bull</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+
+<td class="title">Åarjel-saemien 6</td>
+          <td class="isbn">82-7601-045-8</td>
+          <td class="publisher">Samisk Utdanningsråd</td>
+          <td class="writer">Ella HOlm Bull</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+
+<td class="title">Åarjel-saemien 1,lohkeme-gærja</td>
+          <td class="isbn">??</td>
+          <td class="publisher">Samisk Utdanningsråd</td>
+          <td class="writer">Ella HOlm Bull</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+
+<td class="title">Åarjel-saemien 2,lohkeme-gærja</td>
+          <td class="isbn">??</td>
+          <td class="publisher">Samisk Utdanningsråd</td>
+          <td class="writer">Ella HOlm Bull</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+
+<td class="title">Åarjel-saemien 3, lohkeme-gærja</td>
+          <td class="isbn">??</td>
+          <td class="publisher">Samisk Utdanningsråd</td>
+          <td class="writer">Ella HOlm Bull</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+
+<td class="Title">Åarjel-saemien 4, Lohkemegærja</td>
+          <td class="isbn">??</td>
+          <td class="publisher">Samisk Utdanningsråd</td>
+          <td class="writer">Ella HOlm Bull</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+
+<td class="Title">Åarjel-saemien 5, Lohkemegærja</td>
+          <td class="isbn">??</td>
+          <td class="publisher">Samisk Utdanningsråd</td>
+          <td class="writer">Ella HOlm Bull</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+
+<td class="Title">Lohkede saemien</td>
+          <td class="isbn">82-00-09356-5</td>
+          <td class="publisher">Universitetsforlaget</td>
+          <td class="writer">Ella HOlm Bull</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+
+<td class="Title">Dejpeladtje muvhth vätnoeh jih vuekieh</td>
+          <td class="isbn">91-973815-1-9</td>
+          <td class="publisher">Samernas Utbildningssentrum</td>
+          <td class="writer">Ella HOlm Bull</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+<td class="Title">Jielije saeemien 1</td>
+          <td class="isbn">82-91047-29-4</td>
+          <td class="publisher">Samisk utdanningsråd</td>
+          <td class="writer">Ella HOlm Bull</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+<td class="Title">Jielije saemien 2</td>
+          <td class="isbn">82-91047-45-6</td>
+          <td class="publisher">Samisk Utdanningsråd</td>
+          <td class="writer">Ella HOlm Bull</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+<td class="Title">laavlomh maanide</td>
+          <td class="isbn">82-7601-038-5</td>
+          <td class="publisher">Idut</td>
+          <td class="writer">Ella HOlm Bull</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+<td class="Title">Jåvle-laavlomh</td>
+          <td class="isbn">?</td>
+          <td class="publisher">?</td>
+          <td class="writer">Ella HOlm Bull</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+<td class="Title">Staaloeh vienhtieh aske lea dålle</td>
+          <td class="isbn">ISBN 82-02-21156-5</td>
+          <td class="publisher">Cappelen</td>
+          <td class="writer">Collection of south-sami adventures</td>
+          <td class="translator">Ella HOlm Bull</td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+<td class="Title">Mejtie sån jåvle-aajja daan jaepien båata?</td>
+          <td class="isbn">82-7374-379-9</td>
+          <td class="publisher">Davvi Girji OS</td>
+          <td class="writer">Torkel Rasmussen og Liisa Helander</td>
+          <td class="translator">Ella HOlm Bull</td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+<td class="Title">Aesuvpen soptsesh</td>
+          <td class="isbn">82-7601-106-3</td>
+          <td class="publisher">Idut</td>
+          <td class="writer">Collection of adventures</td>
+          <td class="translator">Ella HOlm Bull</td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+<td class="Title">Åarjel-saemien 5 b, baakoe-lista,
+     Aalfabeten mietie</td>
+          <td class="isbn">??</td>
+          <td class="publisher">??</td>
+          <td class="writer">Ella Holm BUll</td>
+          <td class="translator"></td>
+          <td class="language">South-sami</td>
+          <td class="contact">MLK</td>
+          <td class="sent_contract">20.05.2009</td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+		</tr>
+
+
+		<!-- to here -->
+		<!-- for new books, copy from here -->
+        <tr>
+          <td class="title"></td>
+          <td class="isbn"></td>
+          <td class="publisher"></td>
+          <td class="writer"></td>
+          <td class="translator"></td>
+          <td class="language"></td>
+          <td class="contact"></td>
+          <td class="sent_contract"></td>
+          <td class="sign_writ"></td>
+          <td class="sign_trans"></td>
+          <td class="sign_publisher"></td>
+          <td class="sign_samiparl"></td>
+          <td class="arch_numb"></td>
+          <td class="text_added_to_corp"></td>
+=======
     <tr>
         <td class="title"></td>
         <td class="isbn"></td>
@@ -3444,6 +3824,7 @@
         <td class="sign_samiparl"></td>
         <td class="arch_numb"></td>
         <td class="text_added_to_corp"></td>
+>>>>>>> .r26177
 		</tr>
 		<!-- to here -->
       </table>
