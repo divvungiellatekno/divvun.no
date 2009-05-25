@@ -36,7 +36,7 @@
     <!-- improves the readability of the resulting document
         when using xsltproc. Should probably be deleted for
         the final version -->
-<!--     <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" /> -->
+    <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" />
     <xsl:template match="doc">
         <zip:archive>
             <zip:entry name="content.xml" serializer="xml">
@@ -57,8 +57,10 @@
             <zip:entry name="mimetype" serializer="text">
                 <text>application/vnd.oasis.opendocument.graphics</text>
             </zip:entry>
-            <xsl:apply-templates select="//document[1]/body"/>
-            <xsl:call-template name="createImageEntries"/>
+            <!--<zip:entry>
+                <xsl:apply-templates select="//document[1]/body"/>
+            </zip:entry>-->
+<!--             <xsl:call-template name="createImageEntries"/> -->
         </zip:archive>
     </xsl:template>
 
@@ -70,15 +72,19 @@
     <xsl:template match="//document[1]/body">
         <xsl:for-each select="section">
             <xsl:variable name="sectionPosition" select="position()"/>
-            <xsl:for-each select="//section[$sectionPosition]/title">
-                <text:h text:outline-level="2" text:is-list-header="true"><xsl:apply-templates/></text:h>
-            </xsl:for-each>
-            <xsl:for-each select="p">
-                <xsl:variable name="pPosition" select="position()" />
-                <xsl:for-each select="//section[$sectionPosition]/p[$pPosition]" >
-                    <text:p text:style-name="P2"><xsl:apply-templates/></text:p>
-                </xsl:for-each>
-            </xsl:for-each>
+            <draw:frame>
+                <draw:text-box>
+                    <xsl:for-each select="//section[$sectionPosition]/title">
+                        <text:h text:outline-level="2" text:is-list-header="true"><xsl:apply-templates/></text:h>
+                    </xsl:for-each>
+                    <xsl:for-each select="p">
+                        <xsl:variable name="pPosition" select="position()" />
+                        <xsl:for-each select="//section[$sectionPosition]/p[$pPosition]" >
+                            <text:p text:style-name="P2"><xsl:apply-templates/></text:p>
+                        </xsl:for-each>
+                    </xsl:for-each>
+                </draw:text-box>
+            </draw:frame>
         </xsl:for-each>
     </xsl:template>
 
