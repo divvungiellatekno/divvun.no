@@ -89,7 +89,7 @@
     </office:automatic-styles>
     <office:body>
         <office:drawing>
-<!--             <office:drawing:apply-templates /> -->
+            <xsl:apply-templates />
         </office:drawing>
     </office:body>
 </office:document-content>
