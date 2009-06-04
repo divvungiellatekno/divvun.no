@@ -3106,7 +3106,7 @@
           <td class="translator">Anna Jacobsen</td>
           <td class="language">Sørsamisk</td>
           <td class="contact">MLK</td>
-          <td class="sent_contract">06.03.2009</td>
+          <td class="sent_contract">06.03.2009 and 04.05.2009 to Samuli Juhani Aikio</td>
           <td class="sign_writ"></td>
           <td class="sign_trans">12.03.2009</td>
           <td class="sign_publisher"></td>
@@ -3796,7 +3796,7 @@
           <td class="isbn">82-7374-524-4</td>
           <td class="publisher">Davvi Girji OS </td>
           <td class="writer">Tom Kappfjell</td>
-          <td class="translator">Sig-Britt Pärsson</td>
+          <td class="translator"></td>
           <td class="language">South-sami</td>
           <td class="contact">MLK </td>
           <td class="sent_contract">02052009</td>
@@ -3826,20 +3826,24 @@
 		<!-- to here -->
 		<!-- for new books, copy from here -->
         <tr>
-          <td class="title"></td>
-          <td class="isbn"></td>
-          <td class="publisher"></td>
-          <td class="writer"></td>
-          <td class="translator"></td>
-          <td class="language"></td>
-          <td class="contact"></td>
-          <td class="sent_contract"></td>
-          <td class="sign_writ"></td>
-          <td class="sign_trans"></td>
-          <td class="sign_publisher"></td>
-          <td class="sign_samiparl"></td>
-          <td class="arch_numb"></td>
-          <td class="text_added_to_corp"></td>
+            
+        <tr>
+        <td class="title">Sïlpegaaltije</td>
+        <td class="isbn">91 7716 088 6</td>
+        <td class="publisher">Saemienskuvleståvroe</td>
+        <td class="writer">Sig-Britt Persson</td>
+        <td class="translator"></td>
+        <td class="language">South-sami</td>
+        <td class="contact">MLK</td>
+        <td class="sent_contract">23042009</td>
+        <td class="sign_writ"></td>
+        <td class="sign_trans"></td>
+        <td class="sign_publisher"></td>
+        <td class="sign_samiparl"></td>
+        <td class="arch_numb"></td>
+        <td class="text_added_to_corp"></td>
+
+
 =======
     <tr>
         <td class="title"></td>
