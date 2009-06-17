@@ -3221,22 +3221,6 @@
 		</tr>
 
         <tr>
-          <td class="title">Vadtese - Saernie Kristusen bïjre</td>
-          <td class="isbn">978-82-760-1165-4</td>
-          <td class="publisher">Idut</td>
-          <td class="writer">Anne-Grethe Leine Bientie</td>
-          <td class="translator">N/A</td>
-          <td class="language">Sørsamisk</td>
-          <td class="contact">DJ 14.04.2009</td>
-          <td class="sent_contract"></td>
-          <td class="sign_writ"></td>
-          <td class="sign_trans"></td>
-          <td class="sign_publisher"></td>
-          <td class="sign_samiparl"></td>
-          <td class="arch_numb"></td>
-          <td class="text_added_to_corp"></td>
-		</tr>
-        <tr>
           <td class="title">Deblie</td>
           <td class="isbn">82-91047-85-5</td>
           <td class="publisher">Samisk utdanningsråd</td>
@@ -3437,7 +3421,7 @@
           <td class="Translator">Bierna Bientie</td>
           <td class="language">South sami</td>
           <td class="Contact">MLK</td>
-          <td class="Sent_contract">20.05.2009</td>
+          <td class="Sent_contract"></td>
           <td class="sign_writ"></td>
           <td class="sign_trans"></td>
           <td class="sign_publisher"></td>
@@ -3454,7 +3438,7 @@
           <td class="translator"></td>
           <td class="Language">South sami</td>
           <td class="Contact">MLK</td>
-          <td class="Sent_vontract">20.05.2009</td>
+          <td class="Sent_contract"></td>
           <td class="sign_writ"></td>
           <td class="sign_trans"></td>
           <td class="sign_publisher"></td>
@@ -3464,7 +3448,7 @@
 		</tr>
         
 		<tr>
-          <td class="title">Åarjel-saemien 1, Barkoegærja"</td>
+          <td class="title">Åarjel-saemien 1, Barkoegærja</td>
           <td class="isbn">ISBN 82-91047-36-7</td>
           <td class="publisher">Samisk Utdanningsråd</td>
           <td class="writer">Ella Holm Bull</td>
