@@ -59,6 +59,9 @@ Exempel på andra akronymer som det här kan göras gällande för är: NATO, CD
 
 Märk att i exemplen har kasusen ackusativ och inessiv används, men frågorna aktualiseras i samband med alla kasusändelser
 
+Anna Jacobsson använder - som gränsmarkör, NRK-en och NRK-e. Se Don jïh daan bïjre 1 (32).
+Ella Holm Bull använder ' som gränsmarkör, a'ese. Se Åarjelsaemien 6 (2000:11)
+
 Sammanfattningsvis är det som behövs normeras tre saker.
 
 Vilket tecken ska vi använda i ordgränser i samband med förkortningar?
@@ -102,8 +105,52 @@ verb - bååhkesjidh,rååhkesdjidh, baakadidh, etc. maatadidh,
            adjektiv: 
            
 5. Bindestreck
-6. Tal 10,1000:ede osv.
+Bruket av talord
 
-7. 10-inie bielesne jfr. 10-de bielesne, (kongruens) eller ej
+6. Talord och böjning i kasus
+När det gäller naturliga tal är normen helt klar när det gäller både tal och skrift. De skriv: akte, göökte, golme osv.
+Ordningstalen har en del variation, men att skriva dem är inte heller några problem.
+Voestes, mubpie, gåelmede osv.
 
+När man inte vill skriva ut hela talet med bokstäver utan istället väljer siffror är det inte längre lika klart hur man ska gå till väga. Vi tar gåalmede som exempel.
+
+3de, 3:de, 3'de, 3-de är alla möjliga sätt att skriva gåalmede.
+
+För voestes blir de möjliga förkortningarna lite andra: 1es, 1:es, 1'es, 1-es
+
+För mubpie bör det bli så här: 2ie, 2:ie, 2'ie, 2-ie.
+
+När det gäller större tal baserar man ändelsen på den sista siffran, vilket gör att det blir samma system, t.ex. 13:de, 93:de, 103:de osv.
+
+En strategi som Ella Holm Bull väljer är att bara sätta ut siffra och punkt vid ordningstal med siffror. Det här blir resultatet av den strategin:
+voestes - 1.
+mubpie - 2.
+gåalmede - 3.
+
+Det finns många möjliga sätta att göra det. Att använda den strategi som Ella Holm Bull använder har fördelen att man inte behöver ta hänsyn om ordet slutar på -ie, -es eller -de.
+
+Vi föreslår att man använder den strategin i fortsättningen.
+
+vidare är frågan hur man lägger till kasusändelser. Om vi följer Ellas strategi gör man så här:
+
+ack. 3.-m
+gen. 3.-n
+ill. 3.???
+ine. 3.-nie
+ela. 3.-stie
+
+2:
+ine. 2.-ne
+
+2:
+ine. 1.-es (Ingen kongruens när det gäller voestes, voestes bielesne)
+
+Exempel finns hos Ella Holm Bulle. V.g. låhkadinie bielesne, luhkie-voestes bielesne, göökte-luhkie gaatsadinie bielesne osv. De här visar ett sätt att uttrycka ordningstal i kasus som har full kongruens.
+Ett alternativt sätt är att inte ha någon kongruens. Det skulle då se ut så här:
+
+1. sijjesne
+2. sijjesne
+3. bielesne
+4. gåetesne
+5. bielesne
 
