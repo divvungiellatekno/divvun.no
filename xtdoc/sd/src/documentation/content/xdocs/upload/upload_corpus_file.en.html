@@ -11,19 +11,24 @@
   
   <body>
 
+<h1> Web upload is temporarily unavailable!! </h1>
+
+<p> We are moving to a new computer and the file upload is unavailable
+for while. Please visit our pages again later.</p>
+
     <h1>Select file, language, and license type</h1>
 
- <form  action="http://sami-cgi-bin.uit.no/cgi-bin/smi/upload.cgi"
-    		 method="post" enctype="multipart/form-data">
+ <form  ACTION="http://sami-cgi-bin.uit.no/cgi-bin/smi/upload.cgi"
+    		 METHOD="post" ENCTYPE="multipart/form-data">
 <table>
-<tr><td> File to upload: </td><td><input type="file" name="document"/></td></tr>
+<tr><td> File to upload: </td><td><INPUT TYPE="file" NAME="document"></td></tr>
 <tr><td> Main language: </td><td>
     <select name="mainlang">
-    <option value="sme">North Sámi</option>
-    <option value="smj">Julev Sámi</option>
-    <option value="sma">South Sámi</option>
+    <option value="sme">North S&aacute;mi</option>
+    <option value="smj">Julev S&aacute;mi</option>
+    <option value="sma">South S&aacute;mi</option>
     <option value="nno">Nynorsk</option>
-    <option value="nob">Bokmål</option>
+    <option value="nob">Bokm&aring;l</option>
     <option value="fin">Finnish</option>
     <option value="swe">Swedish</option>
     <option value="eng">English</option>
@@ -38,14 +43,39 @@
     </select>
 </td></tr>
 </table>
-<p>
- <input type="submit" name="Submit" value="Submit Form" />
-</p>
+<br/>
+ <INPUT TYPE="submit" NAME="Submit" VALUE="Submit Form" > 
     </form>
+
+    <h1>Upload multiple files</h1>
+
+ <form  ACTION="http://sami-cgi-bin.uit.no/cgi-bin/smi/upload.cgi"
+    		 METHOD="post" ENCTYPE="multipart/form-data">
+<table>
+<tr><td> Number of files:
+    <select name="file_count">
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    </select></td>
+</tr>
+</table>
+
+ <INPUT TYPE="submit" NAME="Submit" VALUE="Submit Form" > 
+ <INPUT TYPE="hidden" NAME="print_multiple" VALUE="1" > 
+
+    </form>
+
 
 <p>Send feedback and questions to <a
 href="mailto:corpus@giellatekno.uit.no?subject=Feedback%C2%A0upload.cg\
-i">corpus@giellatekno.uit.no</a></p>
+i">corpus@giellatekno.uit.no</mail></p>
 
   </body>
 </html>
