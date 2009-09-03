@@ -152,18 +152,34 @@
       kontrakten.</p>
     </section>
 
-      <section>
+    <p class="pageBreakAfter"></p>
+    
+    <section>
+        <title>Tekstane kontrakten gjeld for</title>
+        <ul>
+            <li>Tittel, ISBN: xxxxxxxx</li>
+        </ul>
+    </section>
+
+    <section>
         <title>Underskrifter</title>
 
         <table>
-            <tr><th>Avgjevarar</th>    <th>Mottakar</th></tr>
-            <tr><td>Stad og tid:</td>  <td>Stad og tid:</td></tr>
-            <tr><td>Underskrift:</td>  <td>Underskrift:</td></tr>
-            <tr><td>Stad og tid:</td>                       </tr>
-            <tr><td>Underskrift:</td>                       </tr>
-            <tr><td>Stad og tid:</td>                       </tr>
-            <tr><td>Underskrift:</td>                       </tr>
+            <tr><th>Avgjevarar</th></tr>
+            <tr><td>Stad og tid:</td></tr>
+            <tr><td>Underskrift, forfattar:</td></tr>
+            <tr><td>Stad og tid:</td></tr>
+            <tr><td>Underskrift, omsetjar:</td></tr>
+            <tr><td>Stad og tid:</td></tr>
+            <tr><td>Underskrift, forlag:</td></tr>
           </table>
+          
+          <table>
+              <tr><th>Mottakar</th></tr>
+            <tr><td>Stad og tid:</td></tr>
+            <tr><td>Underskrift, Sametinget:</td></tr>
+          </table>
+
 
       </section>
 
@@ -171,8 +187,7 @@
         <title>Vedlegg</title>
 
         <ul>
-            <li>Vedlegg 1: Tekstane kontrakten gjeld for</li>
-            <li>Vedlegg 2: Bruksrettsavtale for tekstsamlinga</li>
+            <li>Bruksrettsavtale for tekstsamlinga</li>
         </ul>
       </section>
   </body>
