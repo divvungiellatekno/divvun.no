@@ -167,3 +167,7 @@ p {
   font-family: "Courier New", Courier, monospace;
   font-size: 110%;
 }
+
+/* hack to add page break in pdfs */
+.pageBreakBefore { margin-bottom: 0; page-break-before: always; } 
+.pageBreakAfter { margin-bottom: 0; page-break-after: always; }
