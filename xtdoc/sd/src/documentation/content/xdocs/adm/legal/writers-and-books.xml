@@ -6049,8 +6049,6 @@
           <td class="text_added_to_corp"></td>
         </tr>
 
-        <!-- for new books, copy from here -->
-
         <tr>
           <td class="Title">Bibeltekster</td>
 
@@ -6772,14 +6770,41 @@
           <td class="text_added_to_corp"></td>
         </tr>
 
-        <!-- to here -->
-
-        <!-- for new books, copy from here -->
-
         <tr>
           <td class="title">Laahkoeh</td>
 
-          <td class="isbn">?</td>
+          <td class="isbn"><a href="http://www.nb.no/utlevering/contentview.jsf?&&urn=URN:NBN:no-nb_digibok_2008022704013">82-90537-36-0</a></td>
+
+          <td class="publisher">Th. Blaasværs forl.</td>
+
+          <td class="writer">Tom Kappfjell</td>
+
+          <td class="translator"></td>
+
+          <td class="language">South Sami</td>
+
+          <td class="contact">SNM</td>
+
+          <td class="sent_contract">12062008</td>
+
+          <td class="sign_writ">12062008</td>
+
+          <td class="sign_trans"></td>
+
+          <td class="sign_publisher"></td>
+
+          <td class="sign_samiparl">08092009</td>
+
+          <td class="arch_numb"></td>
+
+          <td class="text_added_to_corp"></td>
+
+        </tr>
+
+        <tr>
+          <td class="title">Arvut (Aarvoeh?)</td>
+
+          <td class="isbn"></td>
 
           <td class="publisher"></td>
 
@@ -6789,25 +6814,22 @@
 
           <td class="language">South Sami</td>
 
-          <td class="contact">MLK</td>
+          <td class="contact">SNM</td>
 
-          <td class="sent_contract">02052009</td>
+          <td class="sent_contract">12062008</td>
 
-          <td class="sign_writ"></td>
+          <td class="sign_writ">12062008</td>
 
           <td class="sign_trans"></td>
 
           <td class="sign_publisher"></td>
 
-          <td class="sign_samiparl"></td>
+          <td class="sign_samiparl">08092009</td>
 
           <td class="arch_numb"></td>
 
           <td class="text_added_to_corp"></td>
 
-          <!-- to here -->
-
-          <!-- for new books, copy from here -->
         </tr>
 
         <tr>
@@ -6873,6 +6895,7 @@
         </tr>
 
         <!-- to here -->
+
       </table>
     </section>
 
@@ -6881,57 +6904,104 @@
 
       <table>
         <tr>
-          <td>BD</td>
+          <td class="contact">BD</td>
 
-          <td><a
+          <td> class="title, url"<a
           href="http://www.bd.komforb.se/pagaendeprojekt/minoritetssprak/aarjelsaemiengielesydsamiska.4.1d87b26611d2c66bc568000232.html">Åarjelsaemiengiele
           - Sydsamiska - Kommunförbundet</a></td>
 
-          <td>Kommunförbundet Norrbotten</td>
+          <td class="publisher">Kommunförbundet Norrbotten</td>
 
           <td>???</td>
 
-          <td>???</td>
+          <td class="date-added-to-corpus">???</td>
 
-          <td>Sørsamisk</td>
+          <td class="language">Sørsamisk</td>
 
-          <td>090318</td>
+          <td class="datefound">20090318</td>
         </tr>
 
         <tr>
-          <td>BD</td>
+          <td class="contact">BD</td>
 
-          <td><a
+          <td class="title, url"><a
           href="http://www.ntfk.no/bibliotek/saker/2009/FT/FT09007Sørsamisk.htm">Nord-Trøndelag
           fylkeskommune</a></td>
 
-          <td>Nord Trøndelag Fylkeskommune</td>
+          <td class="publisher">Nord Trøndelag Fylkeskommune</td>
 
           <td>???</td>
 
-          <td>???</td>
+          <td class="date-added-to-corpus">???</td>
 
-          <td>Sørsamisk</td>
+          <td class="language">Sørsamisk</td>
 
-          <td>090318</td>
+          <td class="datefound">20090318</td>
         </tr>
 
         <tr>
-          <td>BD</td>
+          <td class="contact">BD</td>
 
-          <td><a
+          <td class="title, url"><a
           href="http://www.utdanningsdirektoratet.no/upload/Kartleggingsprover/sorsamisk_ranselpost_31.03.08.pdf"></a></td>
 
-          <td>Utdanningsdirektioratet</td>
+          <td class="publisher">Utdanningsdirektioratet</td>
 
           <td>???</td>
 
-          <td>???</td>
+          <td class="date-added-to-corpus">???</td>
 
-          <td>Sørsamisk</td>
+          <td class="language">Sørsamisk</td>
 
-          <td>090522</td>
+          <td class="datefound">20090522</td>
         </tr>
+        <tr>
+          <td class="contact">SNM</td>
+
+          <td class="title, url"><a href="http://skuvla.info/skolehist/villmo-s.htm">Åvtehke båatsoeburrie-øøhpehtimmesne</a></td>
+
+          <td class="publisher">Davvi Girji 2007, <a href="http://skuvla.info">http://skuvla.info</a></td>
+
+          <td>???</td>
+
+          <td class="date-added-to-corpus">???</td>
+
+          <td class="language">Sørsamisk</td>
+
+          <td class="datefound">20090522</td>
+        </tr>
+        <tr>
+          <td class="contact">SNM</td>
+
+          <td class="title, url"><a href="http://skuvla.info/skolehist/fjellheim-s.htm">Voestes lohkehtæjja båatsoeburrie-skuvlesne</a></td>
+
+          <td class="publisher">Davvi Girji 2007, <a href="http://skuvla.info">http://skuvla.info</a></td>
+
+          <td>???</td>
+
+          <td class="date-added-to-corpus">???</td>
+
+          <td class="language">Sørsamisk</td>
+
+          <td class="datefound">20090522</td>
+        </tr>
+        <!-- for new web pages, copy from here -->
+        <tr>
+          <td class="contact">XXX</td>
+
+          <td class="title, url"><a href="">XXX</a></td>
+
+          <td class="publisher"XXX</td>
+
+          <td>???</td>
+
+          <td class="date-added-to-corpus">???</td>
+
+          <td class="language">XXX</td>
+
+          <td class="datefound">XXX</td>
+        </tr>
+        <!-- to here -->
       </table>
     </section>
   </body>
