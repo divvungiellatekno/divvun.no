@@ -6773,7 +6773,7 @@
         <tr>
           <td class="title">Laahkoeh</td>
 
-          <td class="isbn"><a href="http://www.nb.no/utlevering/contentview.jsf?&&urn=URN:NBN:no-nb_digibok_2008022704013">82-90537-36-0</a></td>
+          <td class="isbn"><a href="http://www.nb.no/utlevering/contentview.jsf?&amp;&amp;urn=URN:NBN:no-nb_digibok_2008022704013">82-90537-36-0</a></td>
 
           <td class="publisher">Th. Blaasværs forl.</td>
 
