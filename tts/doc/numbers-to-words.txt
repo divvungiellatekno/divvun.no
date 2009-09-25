@@ -19,7 +19,7 @@ NUM     number (cardinal), for amounts, room numbers, book chapters, reindeer
 NORD    ordinal numbers
 NADDR:  street adress:  Davviluohkká 27: Davviluohkká guoktelogičieža
         post box        Poastaboksa 208: Poastaboksa guoktečuođigávcci
-PRCT    percentage:     32%: guoktelogigolbma proseantta 
+PRCT    percentage:     32%: golbmalogiguokte proseantta 
 NYER    years. We have some of this already in the date converter, but we need more for expressions like 1980-logut, 80-logut, 1900-logus, and also for case markings.
 
 
@@ -86,13 +86,17 @@ Fractions:
 Case marking:
 Some number types will have case marking. Usually the colon will indicate when the number should be in loc., ill or com. singular. However, there is no marking to separate nominative from accusative and genitive.
 
+For most numerals, accusative and nominative singular are the same anyway, the exceptions being 1, 0, and mill, for which accusative and genitive are similar. For the other numerals, genitive is used mostly with postpositions, or within an NP which is in gen., ill or loc.sg.
+
+
 Types with case marking:
 
 NUM:    SAM-3014:s lea rievdan lohkanmearri.
         SAM golbmaduhátnjealljenuppelogis   
             LOC
+        
 NYER:   Lean bargan dáppe 1991 rájes.       
-        ovccinuppelotčuođiovtta             
+        ovccinuppelotčuođiovccilogiovtta             
         GEN
 PRCT:   Jávkan lea lassánan 32%:s 40%:i.
         golbmalogiguovtti proseanttas njealljelot prosentii 
