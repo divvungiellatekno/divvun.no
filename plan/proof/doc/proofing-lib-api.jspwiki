@@ -1,5 +1,29 @@
 !!!Introduction
 
+Here's a first, tenative list of functions that should be available in the API. So far the list is unordered and ungrouped - as the API develops, that will certainly be necessary.
+
+!!!Services API
+
+The upper side, where applications or end users ask for linguistic services
+
+!!Wish list
+
+count-words
+parse-document -> basic document structure + default, language independent flat analysis/statistics + language identification + whatever ling. analyses are returned by the ling. processing
+
+!!Compatibility API (spell checker, grammar checker integration, etc)
+
+!!!Langtech API
+
+The lower side, where language technology tools integrate to offer their services in a uniform way by way of the library/API/Upper side.
+
+
+!!!Varioius notes
+
+* we need encryption on both sides: document content and linguistic analysis, if requested by user or tool provider
+----
+
+!!!Old stuff
 This document specifies the proofing API to be used by outside processes when implementing proofing services based on this library. It is divided into X main sections:
 
 # document interface functions
@@ -8,3 +32,5 @@ This document specifies the proofing API to be used by outside processes when im
 # document-level corrections
 # text prediction functions
 # functions for manipulating linguistic entities, structures and relationship
+
+

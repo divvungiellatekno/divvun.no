@@ -5,5 +5,8 @@
   <index href="index.html" label="Introduction" />
   <overview href="proofing-overview.html" label="Some old notess" />
   <lib href="proofing-library.html" label="A new proofing library" />
+  <spec href="proofing-lib-spec.html" label="Specification" />
+  <api href="proofing-lib-api.html" label="ProofLib API" />
+  <lom href="DLOM.html" label="Document Linguistic Object Model" />
 
 </proofdoc>
