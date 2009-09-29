@@ -8,8 +8,8 @@ The upper side, where applications or end users ask for linguistic services
 
 !!Wish list
 
-count-words
-parse-document -> basic document structure + default, language independent flat analysis/statistics + language identification + whatever ling. analyses are returned by the ling. processing
+* count-words (or probably count-strings, as "words" is quite ambiguous)
+* parse-document. Returns: true/false depending on whether the parse succeeded. Within the library, the LDOM is stored, that is: basic document structure + default, language independent flat analysis/statistics + language identification + whatever ling. analyses are returned by the ling. processing
 
 !!Compatibility API (spell checker, grammar checker integration, etc)
 
