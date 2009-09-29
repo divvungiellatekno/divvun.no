@@ -2,7 +2,7 @@
 
 The starting point is the transducer work done at Helsinki university, especially weighted transducers. The short-term plan is to make a speller engine using a transducer lexicon composed with a number of weighted replacement rules to give suggestions.
 
-Expanding on this idea, there are a number of different possibilities. The purpose of this document is to lay out these options, and try to categorize them to guide the future work on proofing tools.
+Expanding on this idea, there are a number of different possibilities. The purpose of this document is to lay out these options, and try to categorise them to guide the future work on proofing tools.
 
 The work on [HFST|http://www.ling.helsinki.fi/kieliteknologia/tutkimus/hfst/] and [Foma|http://foma.sourceforge.net/] creates a unique opportunity to start over from scratch, and set a new standard for what proofing and linguistically founded editing tools could do. We need to ensure that we design a library that can grow with future development and technical innovations.
 
@@ -11,7 +11,7 @@ The work on [HFST|http://www.ling.helsinki.fi/kieliteknologia/tutkimus/hfst/] a
 This is a random list of areas of functionality that would be possible based on the linguistic processing library & API we're presenting:
 * non-word detection (real typos)
 * real-word spelling errors (typos that happen to be a real word, undetectable by standard spelling checkers)
-* statistical spelling correction (an unknown word occuring several times is likely to be correct, and a similar but not identical unknown word is probably a misspelling of that unknown word)
+* statistical spelling correction (an unknown word occurring several times is likely to be correct, and a similar but not identical unknown word is probably a misspelling of that unknown word)
 * intelligent user dictionaries (user dictionaries that are directly compilable into an automaton, with proper inflection and morphophonology; using heuristics and disambiguation to guess POS and inflection class, suggested to the user when added)
 * intelligent suggestions (remove impossible suggestions based on context) - target: only one suggestion, making it realistic to run (semi)automatic proofing
 * grammar checking (syntactic errors like agreement conflicts, compound splitting, wrong argument case, etc)
@@ -19,9 +19,9 @@ This is a random list of areas of functionality that would be possible based on 
 * dialectal/variation control (use only a subset of the available forms, based on user preferences - control the usage, detect errors)
 * "linguistic editing" - manipulate linguistic entities in the editing process (swap coordination arguments, change person/number of subject and make the whole sentence automatically update, change the dialect from one variant to another coherently throughout the text, etc.)
 * text prediction
-* automatic word completion (up until the first splitting point, or returning a list of candidates matching the preceeding context)
+* automatic word completion (up until the first splitting point, or returning a list of candidates matching the preceding context)
 * terminology -- checking against a parallel document, and assure consistent translation of the terms in the originating language
-* simultaneous MT - the document is translated as you write it
+* simultaneous MT - the document is translated as you write it, with the translated text showing up in another document in a separate window which is still syncronised with the original text
 
 !!Observation
 
@@ -29,7 +29,7 @@ The present division of functionality and access to the text, which is governed 
 
 !!Assumption
 
-We assume that we can have access to the text of the whole document, and also information about basic text structure. In environments with less capabilities, we should downgrade gracefully (ie provide less functionality in a controlled manner), but still try to infer as much as possible about the text structure based on the available information.
+We assume that we can have access to the text of the whole document, and also information about basic text structure. In environments with less capabilities, we should downgrade gracefully (i.e. provide less functionality in a controlled manner), but still try to infer as much as possible about the text structure based on the available information.
 
 Access to the whole document provides opportunities for new services to the user. Style and word-form alternatives can be deduced based on the whole document, and provide the basis for checks in a local context, unknown words can be spell-checked, topic identification can be used to filter suggestions, etc.
 
@@ -78,7 +78,7 @@ Even though compounding is free, for some groups of writers it can be problemati
 
 !Configuration summary
 
-If the speller transducer is a regular, weighted transducer giving analyses on the upper side, then one possibility could be to dynamically change the weight of some arcs (tags) based on a settings file, ie change the weight of +Px tags and +Compound tags from 0 to 1, or apply a filter restricting the number of +Compound tags (you get one such tag each time you pass the dynamic compound point, ie dynamic word boundary, as opposed to lexicalised word boundaries).
+If the speller transducer is a regular, weighted transducer giving analyses on the upper side, then one possibility could be to dynamically change the weight of some arcs (tags) based on a settings file, i.e. change the weight of +Px tags and +Compound tags from 0 to 1, or apply a filter restricting the number of +Compound tags (you get one such tag each time you pass the dynamic compound point, i.e. dynamic word boundary, as opposed to lexicalised word boundaries).
 
 !!Suggestions sorted according to lexeme frequency
 
@@ -86,7 +86,7 @@ The ordering of correction suggestions is of course governed by many different f
 
 !!Suggestions sorted according to inflection frequency
 
-Independently of lexeme frequency, specific wordforms or inflections also have different frequency patterns. Given two otherwise equal suggestions, the one with the most frequent inflectional ending should be suggested first.
+Independently of lexeme frequency, specific word forms or inflections also have different frequency patterns. Given two otherwise equal suggestions, the one with the most frequent inflectional ending should be suggested first.
 
 !!Arbitrarily complex replace rules for suggestions
 
@@ -124,7 +124,7 @@ Only accept two-part compounds, but register or lexicalise all such compounds, s
 
 !!Abbreviation compounds
 
-Use compound heuristiscs to find the non-abbr part, and suggest lexicalisation of the abbr.
+Use compound heuristics to find the non-abbr part, and suggest lexicalisation of the abbr.
 
 !!!OCR correction
 
