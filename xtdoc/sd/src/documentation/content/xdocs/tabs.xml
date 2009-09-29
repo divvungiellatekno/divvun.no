@@ -14,8 +14,7 @@
         displayed when their parent tab is selected.
     -->
 <!-- The id attribute in the tab tag has to match the tab attribute in site.xml --> 
-    <tab dir="" id="Ruoktu" label="Ruoktu" indexfile="index.html" >
-    </tab>
+    <tab dir="" id="Ruoktu" label="Ruoktu" indexfile="index.html" />
 
     <tab id="adm" label="Administrašuvdna" dir="adm" indexfile="index.html" >
         <tab id="adm-gen" label="Oppalaš" dir="adm" indexfile="index.html" />
@@ -34,10 +33,11 @@
     <!-- The Proofing Tech-Doc tab -->
     <xi:include href="doc/tabs-frag.xml#xpointer(/tabs/tab[@id='proof'])" />
 
-    <!-- The Words Tech-Doc tab -->
-<!--    <xi:include href="wordsdoc/tabs-frag.xml" />-->
+    <!-- The Words Tech-Doc tab
+    <xi:include href="wordsdoc/tabs-frag.xml" /> -->
 
-    <!--tab dir="future" id="Plan" label="Future plans" indexfile="index.html">
-       <xi:include href="future/proofdoc/tabs-frag.xml" />
-    </tab-->
+    <tab dir="future" id="Plan" label="Future plans" indexfile="index.html">
+        <!-- The Proofing plans tab -->
+        <xi:include href="future/proofing/tabs-frag.xml" />
+    </tab>
 </tabs>
