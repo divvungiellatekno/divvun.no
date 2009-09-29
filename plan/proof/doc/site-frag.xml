@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--  $Id$ -->
-<proofdoc href="proofplan/" tab="futproof" label="Proofing plans">
+<proofdoc href="proofing/" tab="futproof" label="Proofing plans">
 
   <index href="index.html" label="Introduction" />
   <overview href="proofing-overview.html" label="Some old notess" />
