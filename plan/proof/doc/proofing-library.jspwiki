@@ -145,7 +145,7 @@ A newer version of the same ideas, now with the end user applications on top, an
 
 [Proofing Library Illustration, take 2|img/ProofingLib.png]
 
-The __DLOM__ part is meant to be a full representation of the textual content of the document, automatically kept in sync with the "real" document. The DLOM automatically gives a very basic linguistic structure of the whole document, which can be expanded and enriched by the available linguistic tools for each language. Further details [on a separate page.|DLOM.html]
+The __LDOM__ part is meant to be a full representation of the textual content of the document, automatically kept in sync with the "real" document. The LDOM automatically gives a very basic linguistic structure of the whole document, which can be expanded and enriched by the available linguistic tools for each language. Further details [on a separate page.|LDOM.html]
 
 !!Design goal
 
