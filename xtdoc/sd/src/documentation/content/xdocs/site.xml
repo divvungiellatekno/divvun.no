@@ -255,10 +255,10 @@
   <xi:include href="doc/site-proof-frag.xml" />
   <!--xi:include href="wordsdoc/site-frag.xml" /-->
 
-  <future href="future/" label="fremtidige planer" tab="Plan">
+  <future href="future/" label="Divvun future plans" tab="Plan">
     <index href="index.html"
           label="Overview"
-          description="Overview of future projects and project ideas for Divvun" />
+          description="Overview of future projects and plans" />
     <xi:include href="future/proofing/site-frag.xml" />
   </future>
 
