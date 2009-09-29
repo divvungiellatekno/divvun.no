@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  $Id$ -->
 <proofdoc href="proofing/" tab="futproof" label="Proofing plans">
 
   <index href="index.html" label="Introduction" />
-  <overview href="proofing-overview.html" label="Some old notess" />
   <lib href="proofing-library.html" label="A new proofing library" />
-  <spec href="proofing-lib-spec.html" label="Specification" />
-  <api href="proofing-lib-api.html" label="ProofLib API" />
   <ldom href="LDOM.html" label="Linguistic Document Object Model" />
+  <api href="proofing-lib-api.html" label="ProofLib API" />
+  <spec href="proofing-lib-spec.html" label="Specification" />
+  <old href="proofing-overview.html" label="Some old notes" />
 
 </proofdoc>

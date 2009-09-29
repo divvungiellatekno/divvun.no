@@ -4,11 +4,11 @@ The starting point is the transducer work done at Helsinki university, especiall
 
 Expanding on this idea, there are a number of different possibilities. The purpose of this document is to lay out these options, and try to categorize them to guide the future work on proofing tools.
 
-The HFST work creates a unique opportunity to start over from scratch, and set a new standard for what proofing and linguistically founded editing tools could do. We need to ensure that we design a library that can grow with future development and technical innovations.
+The work on [HFST|http://www.ling.helsinki.fi/kieliteknologia/tutkimus/hfst/] and [Foma|http://foma.sourceforge.net/] creates a unique opportunity to start over from scratch, and set a new standard for what proofing and linguistically founded editing tools could do. We need to ensure that we design a library that can grow with future development and technical innovations.
 
 !!!Functionality areas
 
-This is a random list of areas of functionality that would be nice to have in a new proofing platform:
+This is a random list of areas of functionality that would be possible based on the linguistic processing library & API we're presenting:
 * non-word detection (real typos)
 * real-word spelling errors (typos that happen to be a real word, undetectable by standard spelling checkers)
 * statistical spelling correction (an unknown word occuring several times is likely to be correct, and a similar but not identical unknown word is probably a misspelling of that unknown word)
@@ -21,14 +21,15 @@ This is a random list of areas of functionality that would be nice to have in a 
 * text prediction
 * automatic word completion (up until the first splitting point, or returning a list of candidates matching the preceeding context)
 * terminology -- checking against a parallel document, and assure consistent translation of the terms in the originating language
+* simultaneous MT - the document is translated as you write it
 
 !!Observation
 
-The present division of functionality and access to the text governed by arbitrary (and old) API decisions hinder development of new functionality. We now have a unique chance to start over, and we should take it.
+The present division of functionality and access to the text, which is governed by arbitrary (and old) API decisions, hinder development of new functionality. We now have a unique chance to start over, and we should take it.
 
 !!Assumption
 
-We assume that we can have access to the text of the whole document, and at best even information about basic text structure. In environments with less capabilities, we should downgrade gracefully (ie provide less functionality in a controlled manner).
+We assume that we can have access to the text of the whole document, and also information about basic text structure. In environments with less capabilities, we should downgrade gracefully (ie provide less functionality in a controlled manner), but still try to infer as much as possible about the text structure based on the available information.
 
 Access to the whole document provides opportunities for new services to the user. Style and word-form alternatives can be deduced based on the whole document, and provide the basis for checks in a local context, unknown words can be spell-checked, topic identification can be used to filter suggestions, etc.
 
@@ -115,15 +116,15 @@ With many and/or complex error correction rules, the search space can easily gro
 
 !!Compound border heuristics
 
-Another problem area is correcting compounds with multiple misspellings in each part of the compound. To reduce the search space and response time, one could use a language-specific model of word boundary patterns, to identify possible word boundaries in the input string. Then each compound candidate could be corrected alone, and the correction candiates for each part recompounded (and checked) before being returned to the user.
+Another problem area is correcting compounds with multiple misspellings in each part of the compound. To reduce the search space and response time, one could use a language-specific model of word boundary patterns, to identify possible word boundaries in the input string. Then each compound candidate could be corrected alone, and the correction candidates for each part recompounded (and checked) before being returned to the user.
 
 !!Compound analysis
 
-Only accept two-part compounds, but register or lexicalise all such compounds, such that new compounds formed by known compounds woiuld be accepted. This would reduce overgeneration tremendously, and still allow free compounding.
+Only accept two-part compounds, but register or lexicalise all such compounds, such that new compounds formed by known compounds would be accepted. This would reduce over-generation tremendously, and still allow free compounding.
 
 !!Abbreviation compounds
 
-Use compound heuristiscs to find the non-abbr part, and suggest lexicalisaiton of the abbr.
+Use compound heuristiscs to find the non-abbr part, and suggest lexicalisation of the abbr.
 
 !!!OCR correction
 
@@ -137,11 +138,11 @@ Automatised correction of OCR-scanned text (cf Google books, Finnish literature 
 * should be able to process a whole document (cf intelligent treatment of unknown words)
 * a defined way to communicate between the modules
 
-Here's a graphical sketch of the design - the end user applications are at the bottom, the linguistic modules at the top:
+Here's a graphical sketch of the design - the end user applications are at the top, the linguistic modules at the bottom:
 
 [Proofing Library Illustration|img/proofing-library.png]
 
-A newer version of the same ideas, now with the end user applications on top, and the linguistic modules on the bottom:
+A newer version of the same ideas:
 
 [Proofing Library Illustration, take 2|img/ProofingLib.png]
 
@@ -151,6 +152,8 @@ The __LDOM__ part is meant to be a full representation of the textual content of
 
 The library should be multithreading. This is needed to allow slower, full-text analysis to take place at the same time as local processing around the editing point can happen "immediately" (as perceived by the user).
 
+There could also be several documents or applications accessing the library at any single time. The library needs to be able to keep track of the different documents and the corresponding linguistic processing.
+
 !!!Links
 
 Some links to papers on improving error detection and suggestion quality, as well as real-word error detection:
@@ -159,6 +162,8 @@ Some links to papers on improving error detection and suggestion quality, as wel
 * Amber Wilcox-O’Hearn, Graeme Hirst, and Alexander Budanitsky: Real-word spelling correction with trigrams: A reconsideration of the Mays, Damerau, and Mercer model - [http://ftp.cs.toronto.edu/pub/gh/WilcoxOHearn-etal-2008-poster.pdf]
 * Eneko Agirre, Koldo Gojenola, Kepa Sarasola & Atro Voutilainen: Towards a single proposal in spelling correction - [http://ixa.si.ehu.es/Ixa/Argitalpenak/Barne_txostenak/1001000786/publikoak/TR-8-98.ps]
 
-!!!Clarin
+!!!Other notes
+
+!!Clarin
 
 Samisk korpus lagra i eit Clarin-senter. Den lette vegen å gje korpuset til forskingssamfunnet. CSC er eit slikt datasenter i Finland.

@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
   <header>
-    <title>Proofing -  what it should have been</title>
+    <title>Proofing -  what it should be</title>
   </header>
 
   <body>
@@ -11,10 +11,18 @@
       <title>Overview</title>
       <p>The present main-stream / regular-user correction paradigm
       is severely limited by arbitrary API decisions in the past.
-      Here are some thoughts about how we can improve on the situation:</p>
+      To change the technology foundation for providing more extensive
+      services in the future, a new architecture for the whole linguistic
+      processiong is suggested. Both overview notes and drafts for an
+      API is presented here.</p>
+      <p>The development and immplementation is a cooperation between
+      the Divvun project at the Norwegian Sámi Parliament and Helsinki
+      University, Department of General Linguistics.</p>
       <ul>
-        <li><a href="proofing-overview.html">Old notes</a></li>
         <li><a href="proofing-library.html">Library plans</a></li>
+        <li><a href="LDOM.html">The Linguistic Document Object Model</a></li>
+        <li><a href="proofing-lib-api.html">The API</a></li>
+        <!--li><a href="proofing-lib-spec.html">The Specification</a></li-->
       </ul>
     </section>
   </body>

@@ -1,6 +1,6 @@
 !!!Introduction
 
-Here's a first, tenative list of functions that should be available in the API. So far the list is unordered and ungrouped - as the API develops, that will certainly be necessary.
+Here's a first, tentative list of functions that should be available in the API. So far the list is unordered and ungrouped - as the API develops, that will certainly be necessary.
 
 !!!Services API
 
@@ -18,7 +18,7 @@ The upper side, where applications or end users ask for linguistic services
 The lower side, where language technology tools integrate to offer their services in a uniform way by way of the library/API/Upper side.
 
 
-!!!Varioius notes
+!!!Various notes
 
 * we need encryption on both sides: document content and linguistic analysis, if requested by user or tool provider
 ----
