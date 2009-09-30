@@ -1,7 +1,7 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="se">
+<document xml:lang="en">
   <header>
     <title>Future Plans Relating to the Divvun Project</title>
     <authors>
@@ -15,12 +15,11 @@
 
     <section>
       <title>List of smaller project extensions for the future</title>
-	  <ul label="Documentation videos available">
+	  <ul>
 		<li><a href="proofing/index.html">Future development of proofing tools</a></li>
 	  </ul>
     </section>
 
-    <hr/>
     <p class="last_modified" >$Date$,
     by $Author$</p>
   </body>
