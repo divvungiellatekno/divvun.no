@@ -1,0 +1,107 @@
+From orthography to phonology - some unresolved issues
+
+The North Sámi orthography does not represent certain features:
+
+#allegro shortening
+#difference between long and short geminates, QIII vs QII
+#difference between long and short monophthongs
+#difference between long and short diphthongs
+#consonants within the foot and between two consecutive feet
+
+ALLEGRO SHORTENING
+Words with long latus vowels can be allegro shortened. This means (disyllabic) words with final vowel /ii/, /aa/ and /uu/. These vowels shorten to /e/, /a/ and /o/ respectively. 
+
+Some of this shortening is 'represented' in the orthography, specifically shortening of /ii/ and /uu/ to /e/ and /o/. When these monophthongs are preceded by diphthongs, we know the words are in allegro form, and that the diphthongs will be shorter tha usual. This is because original /e/ and /o/ always lead to diphthong simplification. /a/ is problematic, because there is also an original short /a/ which does not lead to diphthong shortening:
+/ŏasta/ vs /poasta/.
+
+Morphological tags can solve this. Here are some rules for allegro shortening:
+Compounds: when modifier component is in nom.sg:boastabiila: pŏastapij:la
+present tense connegatives: in oađe: in ŏađe
+2sg imperative: oađe: ŏađe
+
+
+GEMINATES
+While long and short clusters are differentiated in orthography, long geminates are written with two letters, exactly like short geminates:
+
+orthographic        phonological
+Guossi.nom.sg        /kuos:sii/
+Guossi.acc.sg        /kuossii/
+guossa.nom.sg        /kuossa/
+
+There are some rules that can help decide between QIII and QII:
+
+- Primary lengthening: Strong grade short geminates lengthen to QIII between short monophthongs in the vowel centre and long vowels in the latus. This means the geminates that alternate with a singleton consonant in the weak grade.
+
+- Stem class: contracted verbs are always QIII: 
+besset.inf: /pes:seht/ vs besset.1pl.present: /peesseht/ - beassat
+This means verbs with-e, -o or -á in the latus.
+
+- Passive formation: o-passives are always QIII
+borrot.inf: /por:roht/ vs borrot.1pl.imp: /porroht/
+This is just a special case of the stem class rule.
+
+- Present participle: Present participles are always QIII
+borri.PrsPrc: /por:rii/
+
+- Imperative: 1du and 2du are always QIII: borru: /por:ruu/ borri: /por:rii/
+
+MONOPHTHONGS
+The three main rules are:
+Monophthongs are short (except á)
+Monophthongs that stem from diphthongs are long before QI and QII.
+Monophthongs that stem from diphthongs are short before QIII.
+
+The first and third rule are not problematic, we have that already, since monophthongs are represented as short everywhere.
+
+We get long monophthongs in these environments:
+before latus /o/
+before latus /e/
+before latus+finis /ij/
+before /uj/ in illative singular
+(There are also some -uj adjectives with diphthong simplification, but these are all QIII, so the monophthong is short anyway.)
+
+
+Original (not allegroshortened) /e/ and /o/ and /ij/ always monophthongize preceding diphthongs. /uj/ does so only in illative singular. A monophthong 
+/i, o, e, u/ before /e/, /o/ and /ij/ can thus be a monophthongized diphthong. If it is, it will be long before QI and QII consonant centre. The monophthong could be a simplified diphthong or an orginal monophthong. Check out the homonyms from -at and -it verbs:
+
+Soahpat - moai sohpe: /soohpe/
+Sohpat - moai sohpe: /sohpe/
+Diehtit - moai dihte: /tiihte/
+dan dihte:          /tihte/
+Bieđđat - moai biđđe: /piiđđe/ 
+Biđđit - moai biđđe:   /piđđe/ 
+
+There are same kind of problems with /ij/:
+Biđđit - son biđii: /piđij/
+Diehtit - son diđii:/diiđij/
+
+
+DIPHTHONGS
+The difference between short and long diphthongs is determined phonologically, so we already have rules for these:
+
+define DiphthongShorteningIIIGr: diphthongs shorten before QIII
+define DiphthongShorteningSecLng: diphthongs shorten after secondary lengthening
+define DiphthongShorteningAllegro: diphthongs shorten in allegro forms
+
+(Some modifications are needed, for example to make the first rule recognize all QIII:s, and to make the last rule not apply to demonstratives+question particle, such as 'duogo', and other similar constructions. The last rule only recognizes allegro forms with /e/ and /o/ in the latus, but not forms with /a/ in the latus).
+
+
+POSITIONS
+Different positions are problematic when it comes to words with consecutive stresses, in which the first syllable has a coda, such as:
+vilbealli
+njálfáhtta
+máilbmi
+
+In these words, the consonant centre is between the ultimate and penultimate vowels. Now there is nothing that identifies the consonant centre in that way. Phonological /l.p/ and /lə.p/ are represented in the same way orthographically, and we get transcriptions like:
+
+vilbealli: /vilə.peæl.li/ What we want is: /vil.peæl.lii/
+máilbmi: / mɑːjl.bmiː/ We want: /maa.jilə.pmiː/
+
+The same is also true for compounds with one simplified element:
+Bihkkajárgáddi: /pihː.kɑ.jɑrə.kɑːdː.ti/ We want: /pihː.kɑ.jɑr.kɑːdː.tii/
+
+Counting syllables is therefore not good enough.
+
+
+
+
