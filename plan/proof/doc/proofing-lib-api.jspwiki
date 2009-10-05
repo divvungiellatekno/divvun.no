@@ -1,6 +1,6 @@
 !!!Introduction
 
-Here's a first, tentative list of functions that should be available in the API. So far the list is unordered and ungrouped - as the API develops, that will certainly be necessary.
+Here's a first, tentative list of functions that should be available in the API. In this first draft, the function names are prefixed with OLA, short for Open Linuistic API.
 
 !!!Services API
 
@@ -11,7 +11,28 @@ The upper side, where applications or end users ask for linguistic services
 * count-words (or probably count-strings, as "words" is quite ambiguous)
 * parse-document. Returns: true/false depending on whether the parse succeeded. Within the library, the LDOM is stored, that is: basic document structure + default, language independent flat analysis/statistics + language identification + whatever ling. analyses are returned by the ling. processing
 
-!!Compatibility API (spell checker, grammar checker integration, etc)
+!!!Compatibility Functions
+
+This set of functions is meant to ease integration with existing API's in applications such as OpenOffice.org, etc.
+
+!!Spell checker
+
+* OLA_check_word(word, language) -> true/false
+* OLA_get_suggestions(word, language) -> ordered list of strings
+* OLA_add_word_to_user_dictionary(word, language) -> boolean (succeed)
+* OLA_ignore_word(word) -> boolean (succeed)
+* OLA_reject_word_in_speller(word, language) -> boolean (succeed)
+
+
+!!Grammar checker
+
+!!Hyphenation
+
+!!TYhesaurus
+
+!!Dictionary
+
+!!Translation
 
 !!!Langtech API
 
