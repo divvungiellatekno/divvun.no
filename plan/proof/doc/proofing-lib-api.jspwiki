@@ -17,8 +17,8 @@ This set of functions is meant to ease integration with existing API's in applic
 
 !!Spell checker
 
-* OLA_check_word(word, language) -> true/false
-* OLA_get_suggestions(word, language) -> ordered list of strings
+* OLA_check_spelling(word, language) -> true/false
+* OLA_get_speller_suggestions(word, language) -> ordered list of strings
 * OLA_add_word_to_user_dictionary(word, language) -> boolean (succeed)
 * OLA_ignore_word(word) -> boolean (succeed)
 * OLA_reject_word_in_speller(word, language) -> boolean (succeed)
@@ -33,6 +33,19 @@ This set of functions is meant to ease integration with existing API's in applic
 !!Dictionary
 
 !!Translation
+
+!!MS Office AS verbs
+
+* apply correction v : Replaces a range with the value of the specified autocorrect entry.
+* check grammar v : Begins a grammar check for the text range. Returns true if the text range had no errors
+* check spelling v : Begins a spelling check for the text range. Returns true if the text range had no errors
+* check synonyms v : Displays the thesaurus dialog box, which lists alternative word choices, or synonyms, for the text in the text range.
+* get spelling suggestions v : Returns a record that specifies the error kind and a list of words. The AEKeyword for the error kind is type and AEKeyword for the list is list.
+* get synonym info object v : Returns a synonym info object that contains the information from the thesaurus on the synonyms, antonyms, or related words and expressions for the specified word or phrase.
+* get synonym list for v : Get the list of synonyms for a particular word
+* get synonym list from v : Get the list of synonyms using an index into the list of meanings
+* text range spelling suggestions v : Returns a record that contains the spelling error type and the list of words suggested as replacements for the first word in the specified range
+
 
 !!!Langtech API
 

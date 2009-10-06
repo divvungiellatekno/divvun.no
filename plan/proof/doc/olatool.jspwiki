@@ -1,0 +1,20 @@
+!!!olatool
+
+This is a command-line tool that provides an interface to the Open Linguistic Architecture library.
+
+!!!Usage
+
+{{{
+olatool [options] INPUTFILE
+}}}
+
+If the INPUTFILE is not specified, it will read from {{stdin}}.
+
+!!!Options
+
+Command-line options to the {{olatool}}:
+
+* {{--lang=STRING}} - one or more to specify the language(s) of the input document. Possible values for {{STRING}} are:
+** an ISO 639 code (both two or three letter codes accepted), possibly extended with country and variant codes to specify an exact language locale
+** the string {{mono}} - it indicates that the document is monolingual; if used alone, the built-in language identifier will be utilised to guess the language; if used together with ''one'' specific language code (in a separate {{--lang}} option), it is superfluous; if used together with multiple language specifications it is meaningless and will be ignored
+** the string {{multi}} - it indicates that the document is multilingual; if used alone, the built-in language identifier will be utilised to guess the languages; if used together with ''one'' specific language code (in a separate {{--lang}} option), it triggers the language identifier to try to identify other languages than the given; if used together with multiple language specifications the specified languages take precedense, and it will be ignored.

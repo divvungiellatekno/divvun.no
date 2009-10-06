@@ -22,6 +22,7 @@
         <li><a href="proofing-library.html">Library plans</a></li>
         <li><a href="LDOM.html">The Linguistic Document Object Model</a></li>
         <li><a href="proofing-lib-api.html">The API</a></li>
+        <li><a href="olatool.html">The <code>olatool</code> command line tool</a></li>
         <!--li><a href="proofing-lib-spec.html">The Specification</a></li-->
       </ul>
     </section>
