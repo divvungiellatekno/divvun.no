@@ -1,0 +1,10 @@
+!!!OOo integration
+
+This is a first draft of how a tighter integration with OOo could be done, which would form the basis for more advanced functionality later on.
+
+At present, this amounts to a set of hopefully useful links to the OOo api documentation:
+
+* [http://api.openoffice.org/docs/common/ref/com/sun/star/module-ix.html]
+* [http://api.openoffice.org/docs/common/ref/com/sun/star/linguistic2/module-ix.html]
+* [http://api.openoffice.org/docs/common/ref/com/sun/star/text/module-ix.html]
+* [http://api.openoffice.org/docs/common/ref/com/sun/star/text/GenericTextDocument.html]
