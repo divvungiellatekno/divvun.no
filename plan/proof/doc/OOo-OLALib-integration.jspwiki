@@ -8,3 +8,5 @@ At present, this amounts to a set of hopefully useful links to the OOo api docum
 * [http://api.openoffice.org/docs/common/ref/com/sun/star/linguistic2/module-ix.html]
 * [http://api.openoffice.org/docs/common/ref/com/sun/star/text/module-ix.html]
 * [http://api.openoffice.org/docs/common/ref/com/sun/star/text/GenericTextDocument.html]
+
+Regarding the user interface, [LanguageTool|http://www.languagetool.org/] could be a source for inspiration, and possibly code + cooperation.
