@@ -36,7 +36,10 @@
     <!-- The Words Tech-Doc tab
     <xi:include href="wordsdoc/tabs-frag.xml" /> -->
 
-    <tab dir="future" id="Plan" label="Future plans" indexfile="index.html">
+    <!-- The TTS documentation tab -->
+    <xi:include href="ttsdoc/tabs-frag.xml" />
+
+    <tab dir="future" id="Plan" label="Future" indexfile="index.html">
         <!-- The Proofing plans tab -->
         <xi:include href="future/proofing/tabs-frag.xml" />
     </tab>
