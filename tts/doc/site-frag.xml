@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--  $Id: site-frag.xml 27645 2009-10-20 06:43:27Z sjur $ -->
+<tts href="ttsdoc/" label="TTS documentation" tab="TTS">
+
+  <index href="index.html"  label="Overview" />
+
+  <admin href="admin/" label="Project" tab="ttsadmin">
+    <index href="index.html"  label="Overview" />
+    <meetings href="" label="Meetings" >
+      <meeting href="meeting-2009-10-28.html" label="28.10.2009" />
+      <meeting href="meeting-2009-10-26.html" label="26.10.2009" />
+      <meeting href="meeting-2009-09-10-kickoff.html" label="Kickoff 10.09.2009" />
+      <meeting href="meeting-2009-09-08.html" label="08.09.2009" />
+      <meeting href="meeting-2009-08-17.html" label="17.08.2009" />
+      <meeting href="meeting-2008-12-05.html" label="05.12.2008" />
+      <meeting href="meeting-2008-08-22.html" label="22.08.2008" />
+    </meetings>
+  </admin>
+
+
+  <lang href="lang/" label="Languages" tab="ttslangs">
+    <index href="index.html" label="Index" />
+
+    <!--common href="common/" label="Common Linguistic Resources">
+      <index href="sem-dbl-tag.html"  label="Semantic Double Tagging of Names" />
+      <index href="compoundtags.html" label="Compounding tags for the spellers" />
+    </common-->
+
+    <sme href="sme/" label="Northern Sámi">
+      <index href="index.html" label="Overview" />
+    </sme>
+  </lang>
+  
+  <tools href="tools/" label="Tools" tab="ttstools">
+    <index href="index.html" label="Index" />
+  </tools>
+
+</tts>
