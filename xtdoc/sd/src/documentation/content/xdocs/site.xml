@@ -255,6 +255,8 @@
   <xi:include href="doc/site-proof-frag.xml" />
   <!--xi:include href="wordsdoc/site-frag.xml" /-->
 
+  <xi:include href="ttsdoc/site-frag.xml" />
+
   <future href="future/" label="Divvun future plans" tab="Plan">
     <index href="index.html"
           label="Overview"
