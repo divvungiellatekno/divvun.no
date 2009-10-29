@@ -12,8 +12,8 @@
 * modell av samisk prosodi (diskuter med __Patrik__)
 * forbetringar av taggaren for å matsje prosodimodellen
 
-Diskutere prosodi med Helsingfors
-Snakk med Patrik om kva vi vil ha :-)
+* Diskutere prosodi med Helsingfors
+* Snakk med Patrik om kva vi vil ha
 
 !!Preprosessering
 
@@ -41,16 +41,16 @@ konverterast til ein fonologisk streng.
 
 Kasusbøying av taluttrykk som del av ein kasusbøygd frase/NP
 
-{{
+{{{
 cd gtsvn/gt/common/src/
 xfst -e "read lexc num.txt"
 save num.fst
 lookup num.fst
 12.12.1234
-}}
+}}}
 
 Andre talformat
-
+{{{
 6,50  seks-femti kuus-ja-viiskymmentä
 12 23 23 
 
@@ -58,7 +58,7 @@ Andre talformat
 95500234 => 955 00 234 mobil initial 4, 5, 9
 12345678 => 12 345 678,- NOK/€
 12.345.678 => 12 345 678,- NOK/€
-
+}}}
 fst for desse og andre talformat
 
 !!Arbeidsoppgåver
