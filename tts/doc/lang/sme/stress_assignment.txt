@@ -7,7 +7,7 @@
 2. Secondary stress will fall on the following odd numbered syllables, such as the third and fifth. 
 3. Stress never falls on the final syllable of a word.
 4. There are 4 levels of word prominence: unstressed, weak secondary stress, strong secondary stress and main stress. Strong secondary stress always coincides with word boundary, and occurs only in compounds.
-5. Each stressed syllable begins a new stress group. Stress groups can have either two or three syllables.
+5. Each stressed syllable begins a new stress group. Stress groups can have one, two or three syllables.
 
 
 This means that in trisyllabic stems, the third syllable will be stressless, when being the ultimate syllable, and stressed when being the penultimate. 
@@ -53,6 +53,14 @@ In compounds of three words, the middle element is sometimes shortened. When it 
 ("sámegiel)('girji)
 ("sotnabeai)('skuvla)
 
+Disyllabic suffixes constitute disyllabic feet, such as
+-goahtit and -vuohta. (also haga, according to Sammallahti 1977, but it is usually written separately).
+
+("vázzi)('goahtit)
+("boradiš)('goahtit)
+("ráhkis)('vuohta)
+("oskkáldas)('vuohta)
+
 
 
 Words with consecutive stress
@@ -73,7 +81,7 @@ I.If there is a diphthong in the second syllable, the first syllable constitutes
 
 II. If there are consonants between the second and third syllable, which cannot occur in the consonant margin, such as /lbm/, then the first syllable is a stress group of its own, and the second syllable bears secondary stress and starts a new stress group.
 
-The importance of this goes well beyond the stress assignment istelf. It will also affect the correct identification of the consonant centre, for example in the word ("vil.)('bealli), which is treated by our current phonological rules as if the 'lb' is the centre, and a schwa is inserted between the consonants: vilᵊpealli.
+The importance of this goes well beyond the stress assignment itself. It will also affect the correct identification of the consonant centre, for example in the word ("vil.)('bealli), which is treated by our current phonological rules as if the 'lb' is the centre, and a schwa is inserted between the consonants: vilᵊpealli.
 
 
 Other exceptions:
