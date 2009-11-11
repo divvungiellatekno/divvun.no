@@ -102,6 +102,18 @@ Bihkkajárgáddi: /pihː.kɑ.jɑrə.kɑːdː.ti/ We want: /pihː.kɑ.jɑr.kɑːd
 
 Counting syllables is therefore not good enough.
 
+Positions within a stress group in North Sámi:
+Initium: word initial consonant (stress group initial consonant)
+Vowel centre: stressed vowel
+Consonant centre: consonants following the stressed vowel
+Latus: first unstressed vowel position
+Consonant margin: consonants between two unstressed vowels
+Vowel margin: second unstressed vowel position
+Finis: word final consonants
+
+The centre (vowel and consonant centre) is richest in contrast, whereas the other positions are more restricted. For example, diphthongs can only occur in the vowel centre, and not in the other vowel positions. Certain consonant clusters can only occur in the consonant centre, such as preglottalized nasals (orthographically tn, dn, bm, pm, kŋ, gŋ, dnj, tnj). The segmental restrictions of the other positions could be used to identify the centre correctly in many cases, such as in vilbealli and máilbmi.
+
+
 
 
 
