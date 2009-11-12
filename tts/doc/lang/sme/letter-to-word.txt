@@ -5,14 +5,14 @@ Letter  Orthographic representation
 
 A, a:   a                           /aa/
 Á, á:   akseanta a                  /"ak'sean:hta aa/ 
-B, b:   bee                         /bee/
+B, b:   bee                         /pee/
 C, c:   cee                         /tsee/
 Č, č:   čee                         /tʃee/
-D, d:   dee                         /dee/
+D, d:   dee                         /tee/
 Đ, đ:   đee                         /đee/
 E, e:   ee                          /ee/
 F, f:   eaffa                       /ĕaf:fa/
-G, g:   gee                         /gee/
+G, g:   gee                         /kee/
 H, h:   hoo                         /hoo/
 I, i:   i                           /ii/
 J, j:   je                          /jee/
@@ -38,7 +38,7 @@ Other letters:
 Q, q:   kʉʉ                         /kʉʉ/
 W, w:   duppal vee                  /tup:paal vee/
 X, x:   eaksa                       /eak:sa/
-Y, y:   yy                          /yy/
+Y, y:   yy                          /yy/ (if Norwegian)
 Æ, æ:   ææ                          /ææ/
 Ø, ø:   øø                          /øø/
 Å, å:   oo                          /oo/
@@ -68,5 +68,11 @@ Z, z: eazz      /ĕadts/
 Ž, ž: eažž      /ĕadtʃ/
 X, x: eaks      /ĕaks/
 
-#The /ea/ in the disyllabic forms comes from Norwegian practice.
+#The /ea/ in the disyllabic forms comes from Norwegian practice, and it is the correct pronunciation for all these letters, exept for ž, z. For these two, the natural pronunciation is with /e/:
 
+Z, z : ezz /edts/, ezza /ed:tsa/
+Ž, ž: ežž  /edtʃ/, ežža /ed:tʃa/
+
+#The implementation of letter to word rules will have some consequences for our grapheme to IPA rules. As it is now, we do not differentiate between initial voiceless unaspirates and voiceless aspirated. However, to differentiate between b and p, we will have to have rules for that: /pee/ and /phee/, /tee/ and /thee/. 
+
+#Á, á is problematic, because the well-known words 'guhkes a' and 'čuvges a' refer to phonetic characteristics in two main dialects. 'guhkes a' will mean nothing to people from eastern Finnmark. The 'akseanta a' for á is dialect neutral, although it might be less known and less used than the two others.  We will have to look in real texts what kind of realization this letter should have. The 'akseanta-a' seems to be appropriate in texts about IT-stuff. However, in abbreviations, it is possible that only 'aa' is natural. 
