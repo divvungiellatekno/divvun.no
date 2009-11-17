@@ -1,0 +1,15 @@
+#This document explains the differences between the text types chosen for recording.
+
+#Considering that we want our end product to be able to read "everything", the texts must range from formal language to colloqial language. The different styles show different preferences for long words, possessive suffixes and particles, which in turn has different implications for prosody. We need a good mixture of these styles.
+
+
+*Formal language: translated, 'bureaucratic' texts. These usually have much longer sentences than texts that are written originally in Sámi. A whole paragraph can be one sentence. Other characteristics: many subordinate clauses, passive sentences, mostly 3 person singular and 1 person plural verb forms (short suffixes), participle constructions preferred to relative clauses (sentences are initially heavy), possessive suffixes are common, particles are uncommon. Bureacratic, political vocabulary with long words.
+
+* Semi-formal language: Original language is Sámi, scholar/text book style. Slightly shorter sentences, relative clauses preferred to participial constructions, passive sentences, more verb forms such as dual verbs (disyllabic suffixes). Possessive suffixes are common, particles occur. Everyday vocabulary with elements of technical and traditional terminology, mixture of long and short words. 
+
+*Neutral language: Original language is Sámi, children's text book style: Short sentences, core word order, use of particles, possessive suffixes occur but are not common, everyday vocabulary, mostly short words. 
+
+*Semi-colloqial language: Original language is Sámi, conversation style. Long sentences, with relative clauses or non-finite small clauses. Non-finite small clauses with gerunds and agentive preferred to relative clauses. Subjectless sentences. Sentences prefer to have more material towards the end. Extensive use of particles, possessive suffixes occur. Traditional vocabulary with many derived verb forms, mixture of long and short words.
+
+
+*List of single words, letters, numbers and dates.  
