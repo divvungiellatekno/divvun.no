@@ -1,22 +1,104 @@
 Infrequent consonant centres and candidate words
 
 #This document is a list of the most infrequent consonant centres, and possible words to be added to the texts for recording.
+#The parentheses give the number of centres found in the text assembled so far.
 
 
 f:f:    suffá - suffái, Juffá-Juffái
 ff:     gáffe, jáffo-, koaffar, gáffal, oaffáruššat
 
-ŧ:      ruoŧa, muoŧá, 
-ŧŧ:     ruoŧŧa, muoŧŧá, ruŧŧii, muoŧŧái
+ŧ:      ruoŧa, muoŧá, deaŧalaš (9)
+ŧŧ:     ruoŧŧa, muoŧŧá, ruŧŧii, muoŧŧái (1)
+ŧ:ŧ:    muoŧ:ŧái
 
 l:lj:   duollji, šillju, viellja, gallji
 
 l:j     olju, solju
-lj:j    oljju, soljju
+lj:j    oljju, soljju (1)
 
 hl:     gihligiisá, guhlit, gihládeaddji, cuhladit, cuhlai
 hll:    cuhllen, cuhllen, cuhllat
 hl:l:   cuhllá  
 
-hr:     cihran, snuhraidit, skuhraidit, čahradit, guoikgáhrit  
+hr:     cihran, snuhraidit, skuhraidit, čahradit, guoikgáhrit  (2)
+hrr:    čahrrat, cihrrat, skuhrrat, snuhrrat, čahrret, cihrret, skuhrret
+hr:r:   čahrrá, cihrrá, skurrá, snuhrrá (1)
+
+hm:     liehmu, ruhmut, liehmudit
+
+c:c:    gaccun, gaccut, njaccui, ruccistit
+č:č:    čuoččui, giččut, njiččit
+
+rt:n:   gortnit, girtnut, vuortnun
+
+r:dnj:  gardnjil, skurdjnát, goargŋut, gorgŋet (1)
+(r:gŋ)
+rdnj/rgŋ: skurdnje-sorta, gardnjil-lađas
+rtnj:   goarkŋui, gorkŋodit, eartnjehas
+rt:nj   skurtnjui, skurtnjun
+
+r:bm:   fierbmi, skierbmu, jierbmi, suorbma, dearbmi, guorbmi (7)
+rbm:    skierbme-beana, jierbmemánná, suorbmagoahti, guorbmebiila, (3)
+rpm:    jirpmiin, suorpmat, dearpmi
+rp:m:   skierpmun, jierpmi, fierpmi,hirpmáhuvvat, hirpmus (5)
+
+t:k:     dutkat, dutki, hutkat, hutki (7)
+
+bm:     biebmoráhkadeapmi, gobmemáinnas, biebmolatnja, biebmománná (7)
+i:bm:   čuoibmat, guoibmi, luoibmat (6)
+đ:bm:   lieđbmi, gieđbmi, čáđbmi
+đbm:    lieđbmečoarvi, gieđbmeguoika
+đmm:    liđmmiid, giđmmiid, meađmmagit, 
+đm:m:   lieđmmi, gieđmmi
+
+dn:     eadnebealli, gudneáŋgir, ladnedoardna
+
+d:nj:   čegŋedit, čigŋái, duogŋat, duogŋasa, jogŋet, jiegŋái, lodnjái
+(g:ŋ)
+dnj (gŋ): soagŋut, čeagŋát, soagŋogába, soagŋoolmmái, lodnjegákti
+t:nj:   fitnjut, sakŋidit, lutnjá
+(k:ŋ)
+
+l:dn:   suoldni, goldnat
+ldn:    gáldnat, gáldnadit, suoldnečalbmi
+lnn:    gálnnai
+ln:n    suolnni
+
+l:dnj   algŋa, jalgŋát, goalgŋadit
+(l:gŋ)
+lnnj/lŋŋ: goalŋŋai, alŋŋa
+ln:nj/lŋ:ŋ: jalŋŋis
+
+v:dnj:  gavdnjet, gavdnja, savdnjit, suovdnji, sevdnjes (1)
+vdnj:   sávdnji, rávdnji, seavdnjat, (6)
+vnnj:   gavnnja, sávnnji, rávnnji, sevnnjodii (4)
+vn:nj:  savnnján, savnnját, suovnnji
+
+đ:b:    beađbi, šođbat
+đb:     beađbedákti, beađbelađas
+đbb:    beađbbi, šođbbodit
+đb:b:   šođbbut
+
+đ:g:    geađgi, sieđga, buođga, biđget, čoađgi (5)
+đg:     geađgeáigi, sieđgašattut (4)
+đgg:    geađggi, sieđgga, buođgga, čoađggi (3)
+
+đ:j:    guđju, viđji, várreviđji
+đj:     guđjoávnnas, viđječalbmi, várreviđjemáhccun
+đjj:    viđjjiid
+đj:j:   viđjji, guđjju (1)
+
+đ:v:    njoađvut, báđva, bađvi
+đv:     báđveávnnas, bađverássi
+đvv:    njoađvvui, báđvva
+đv:v:   bađvvi, bađvvis
+
+i:b:    ruibut, Eibo, Eibos (2) 
+ibb:    seaibbi, gáibbi, láibbi, láibbui, niibbiid (4)
+ib:b:   ruibbui, ruibbu, niibbi, niibbit (2)
+
+i:c:    buici, luoicat
+ic:     gáica, 
+
+
 
