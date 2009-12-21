@@ -39,7 +39,7 @@ rt:nj   skurtnjui, skurtnjun
 
 r:bm:   fierbmi, skierbmu, jierbmi, suorbma, dearbmi, guorbmi (7)
 rbm:    skierbme-beana, jierbmemánná, suorbmagoahti, guorbmebiila, (3)
-rpm:    jirpmiin, suorpmat, dearpmi
+rpm:    jirpmiin, suorpmat, dearpmi (8)
 rp:m:   skierpmun, jierpmi, fierpmi,hirpmáhuvvat, hirpmus (5)
 
 t:k:     dutkat, dutki, hutkat, hutki (7)
@@ -73,6 +73,7 @@ v:dnj:  gavdnjet, gavdnja, savdnjit, suovdnji, sevdnjes (1)
 vdnj:   sávdnji, rávdnji, seavdnjat, (6)
 vnnj:   gavnnja, sávnnji, rávnnji, sevnnjodii (4)
 vn:nj:  savnnján, savnnját, suovnnji
+vn:n:   gievnni, duvnni, rievnnut, bivnnut (2)
 
 đ:b:    beađbi, šođbat
 đb:     beađbedákti, beađbelađas
@@ -97,8 +98,43 @@ i:b:    ruibut, Eibo, Eibos (2)
 ibb:    seaibbi, gáibbi, láibbi, láibbui, niibbiid (4)
 ib:b:   ruibbui, ruibbu, niibbi, niibbit (2)
 
-i:c:    buici, luoicat
-ic:     gáica, 
+i:c:    buici, luoicat, soica
+ic:     gáica, (2)
+icc:    gáicca, luoiccai, luoiccas, soiccas, baicca
+ic:c:   buicci
+
+i:f:    gaifát, 
+if:f    riiffu
+ig:g:   cuoiggun, cuoiggut, biiggát, cuoiggui (3)
+ik:k:   gaikkui, gaikkun, gaikkut, buikku, buikkut (4),
+
+i:l:    huilát, luoilá (1)
+il:     áilu, váilu, seailu, 
+ill:    billa, miilla (2), feailla, váillui
+il:l:   giillu, fiillu,
+
+i:hl:   máihli
+ihl:    máihledahkki
+ihll:   máihlli
+i:hm:   duihmi, duihmut
+ihm:    duihmesorta
+ihmm:   duihmmiid
+ihm:m:  duihmmi
+i:hn:   čuihnut
+ihn:    čáihni
+ihnn:   čáihnni
+ihn:n:  čuihnnui
+
+i:p:    cuipát, cuipi, duipi, duipet
+ip:     fáiput, duipe-, cuipe-
+ipp:    fáippui, duippas, cuippas
+ip:p:   duippidit, cuippihit
+
+i:r:    guoirudit, guoirat
+ir:     gáiru, áiru, áirasa (1)
+irr:    guoirras, áirras (3)
+ir:r:   ?
+
 
 
 
