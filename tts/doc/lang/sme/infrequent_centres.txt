@@ -2,12 +2,12 @@ Infrequent consonant centres and candidate words
 
 #This document is a list of the most infrequent consonant centres, and possible words to be added to the texts for recording.
 #The parentheses give the number of centres found in the text assembled so far.
+#For unit-selection synthesis, each combination should occur at least 3 times.
 
 
 f:f:    suffá - suffái, Juffá-Juffái
 ff:     gáffe, jáffo-, koaffar, gáffal, oaffáruššat
 
-ŧ:      ruoŧa, muoŧá, deaŧalaš (9)
 ŧŧ:     ruoŧŧa, muoŧŧá, ruŧŧii, muoŧŧái (1)
 ŧ:ŧ:    muoŧ:ŧái
 
@@ -37,15 +37,6 @@ rdnj/rgŋ: skurdnje-sorta, gardnjil-lađas
 rtnj:   goarkŋui, gorkŋodit, eartnjehas
 rt:nj   skurtnjui, skurtnjun
 
-r:bm:   fierbmi, skierbmu, jierbmi, suorbma, dearbmi, guorbmi (7)
-rbm:    skierbme-beana, jierbmemánná, suorbmagoahti, guorbmebiila, (3)
-rpm:    jirpmiin, suorpmat, dearpmi (8)
-rp:m:   skierpmun, jierpmi, fierpmi,hirpmáhuvvat, hirpmus (5)
-
-t:k:     dutkat, dutki, hutkat, hutki (7)
-
-bm:     biebmoráhkadeapmi, gobmemáinnas, biebmolatnja, biebmománná (7)
-i:bm:   čuoibmat, guoibmi, luoibmat (6)
 đ:bm:   lieđbmi, gieđbmi, čáđbmi
 đbm:    lieđbmečoarvi, gieđbmeguoika
 đmm:    liđmmiid, giđmmiid, meađmmagit, 
@@ -70,8 +61,6 @@ lnnj/lŋŋ: goalŋŋai, alŋŋa
 ln:nj/lŋ:ŋ: jalŋŋis
 
 v:dnj:  gavdnjet, gavdnja, savdnjit, suovdnji, sevdnjes (1)
-vdnj:   sávdnji, rávdnji, seavdnjat, (6)
-vnnj:   gavnnja, sávnnji, rávnnji, sevnnjodii (4)
 vn:nj:  savnnján, savnnját, suovnnji
 vn:n:   gievnni, duvnni, rievnnut, bivnnut (2)
 
@@ -79,10 +68,6 @@ vn:n:   gievnni, duvnni, rievnnut, bivnnut (2)
 đb:     beađbedákti, beađbelađas
 đbb:    beađbbi, šođbbodit
 đb:b:   šođbbut
-
-đ:g:    geađgi, sieđga, buođga, biđget, čoađgi (5)
-đg:     geađgeáigi, sieđgašattut (4)
-đgg:    geađggi, sieđgga, buođgga, čoađggi (3)
 
 đ:j:    guđju, viđji, várreviđji
 đj:     guđjoávnnas, viđječalbmi, várreviđjemáhccun
@@ -94,8 +79,7 @@ vn:n:   gievnni, duvnni, rievnnut, bivnnut (2)
 đvv:    njoađvvui, báđvva
 đv:v:   bađvvi, bađvvis
 
-i:b:    ruibut, Eibo, Eibos (2) 
-ibb:    seaibbi, gáibbi, láibbi, láibbui, niibbiid (4)
+i:b:    ruibut, Eibo, Eibos, suoibut (2) 
 ib:b:   ruibbui, ruibbu, niibbi, niibbit (2)
 
 i:c:    buici, luoicat, soica
@@ -105,8 +89,6 @@ ic:c:   buicci
 
 i:f:    gaifát, 
 if:f    riiffu
-ig:g:   cuoiggun, cuoiggut, biiggát, cuoiggui (3)
-ik:k:   gaikkui, gaikkun, gaikkut, buikku, buikkut (4),
 
 i:l:    huilát, luoilá (1)
 il:     áilu, váilu, seailu, 
@@ -132,7 +114,6 @@ ip:p:   duippidit, cuippihit
 
 i:r:    guoirudit, guoirat
 ir:     gáiru, áiru, áirasa (1)
-irr:    guoirras, áirras (3)
 ir:r:   ?
 
 
