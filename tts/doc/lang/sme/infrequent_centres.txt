@@ -116,6 +116,191 @@ i:r:    guoirudit, guoirat
 ir:     gáiru, áiru, áirasa (1)
 ir:r:   ?
 
+i:s:    nuoisulit, guoisut, nuoisut
+iss:    háissui, reaissu (1), gáissat, aviissat
+is:s:   viisis, viissui, giissá, 
+
+iv:v:   moivvi, moivváskit, ruivvi, 
+iz:    máizat, máizadit, 
+izz:   máizzai, máizzas
+
+lb:     holberavda, galbarihcci, silbarávdi
+lbb:    duolbbas, gálbbi, (1), silbbat, hilbbohallat
+lb:b:   holbbi, guolbbi
+
+l:c:    spalca, njoalci, culci, hilcu
+lc:     spalcamuotki, njoalcebivttas
+lc:c:   culcci, hilccu
+
+l:č:    čoalčát, šnjilča, vealči, čoalči, smilči
+lč:     šnjilčeborggit, čoalčejuolgi
+lčč:    čoalččas, čelččen, mulččehit
+lč:č:   smilčči
+
+l:f:    spálfu, skuolfi, bolfát, bolfi
+lf:     bolfebeana, bolfeoaivi, skuolfeloddi, 
+lff:    spálffu, bolffas, bolffagit
+lf:f    skuolffi, bolffi
+
+lk:     fuolkegiella, fuolkedeaivvadeapmi, fuolkemánná (1), moalkemuorra
+l:p:    nulpu, stoalpu, vuolpu, (2)
+lp:     stoalpodiagrámma, vuolpominsttar, vuolporássi
+lpp:    stoalppu, skoalppas, njoalppas
+lp:p:   nulppu, vuolppu (2)
+
+ls:     goalsemális, bálseráktu, soalselurvu
+ls:s:   molssun, molssut, molssui
+l:š:    vuolši, šulset, šulši, vuolšut
+lš:     álšateasta, vuolševuoiddas
+lšš:    álššaiduvvat, álššat, vulššiid
+lš:š:   vuolšši, vuolššit, šulšši, vuolššui
+
+l:t:    boltut, filtet
+lt:     čoaltu, sálti (2)
+lt:t:   bolttun, bolttut
+lv:v:   gilvván, gilvvát, duolvvidit (2)
+
+l:ž:    skilži, buolža, skilžut, buolžái
+lž:     buolžačielgi, skálžu, solžaságat
+lžž:    buolžža, skilžžas, skálžžut 
+lž:ž:   skilžži
+
+m:b:    bumbá, rumbu
+mb:     deambut, feambil
+mb:b:   bumbbá, rumbbu
+
+mp:     gumpeválvi, geampa (2), steamput
+mpp:    gumppet, geamppat, steamppun, (2)
+mp:p:   gimppu, gimppun
+
+m:s:    himsi, rimsi, romsa, himsasaddat
+ms:     himsesorta, rimsobivttas, rámsoloavddo
+mss:    romssas, rimssagit, rámssagit, hámssádit
+ms:s:   himssi, rimssi
+
+m:š:    rumšu
+mš:     rámšu
+mšš:    rámššas, rumššagit
+mš:š:   rumššu
+
+n:c:    bunci, buncut, gincut
+nc:     roanci, vuoncáváris (2)
+ncc:    roancci, linccas, šleanccas, linccagit
+nc:c:   buncci, vuonccis, ginccun (2)
+
+n:č:    rinčát, rinči, rinčut
+nč:     ránčát, ránči, ránčut
+nčč:    ránččagit, rinččagit
+nčč:    rinčči, rinččun
+
+n:s:    linsa
+ns:     dánsut, balánsa, sekveansa
+nss:    dánssui, balánssa (1)
+
+
+n:t:    prentet, ánte, lunta, kontu 
+n:z:    rinzi, šlinzi, runzi
+nz:     goanzi, leanzi, reanzi
+nzz:    goanzzi, leanzzi, reanzzi
+nz:z:   rinzzi, šlinzzi, runzzi
+n:ž:    stunžet, bunžalit
+nž:     stánži, steanži
+nžž:    stánžži, steanžži, steanžžehit
+nž:ž:   bunžžuhit
+
+ŋg:g:   iŋggá, Ruŋggu, Ruŋggus
+ŋ:k:    reŋko, faŋkut, faŋkát, boŋkit
+ŋk:     beaŋka, báŋku, beaŋkaravda, báŋkokontu
+ŋkk:    bánkku, beankka, boŋkkas
+ŋk:k:   boŋkkihit, bonkkuhit
+
+r:b:    čuorbi, vuorbi, árbi, árbet, vuorbádit
+rb:     árbeeana, vuorbegeassin,árbevierut (2)
+rb:b:   čuorbbášit, čuorbbit, vuorbbi (1)
+
+r:c:    bircu, vierca, harcet, garcut (1)
+rc:     bircospeallu, harcabáddi
+rcc:    fiercca, birccostallat, garccastit
+rc:c:   birccu, garccui
+r:z:    birzi, 
+rz:     birzediŋga
+rzz:    birzziid bárzziid, birzzas, birzzet
+rz:z:   birzzi, birzzit
+
+r:č:    skurču,hárči, hárčát, dirči
+rč:     dirčediŋga, morčesuotna
+rčč:    hárčči, hárččui, 
+rč:č:   skurčču, vuorččis, dirčči
+r:ž:    gárži, gorži, guoržu
+rž:     goržeráigge
+ržž:    gáržžádus, gáržžášit
+rž:ž:   goržži, guoržžu (1)
+
+rd:d:   sirddášit, sirddán, murddán (1)
+r:f:    fárfu, lurfi, márfi, márfut (1)
+rf:     márfelihtti, lurfeoaivi, darfegoahti
+rff:    márffi, fárffu, darffiid (1)
+rf:f:   lurffi, lurffuhit, darffit 
+rk:k:   nurkkis, nurkkit, vuorkkás
+rp:     soarpečáhci, árporulla
+rpp:    soarppi, árppu (2)
+rp:p:   gurppun, gurpput, gurppi
+
+rs:s:   jurssán, jurssát, 
+r:š:    boršut, buršasa, duorši, duoršu
+rš:     buršemánná, duoršočivga
+ršš:    burššas, duorššagit, duorššas
+rš:š:   borššui, borššu, duoršši, duorššu
+
+rt:     čurtebuvssat, jortamovra, nuortasuopman
+rtt:    kártta, koartta (2)
+rt:t:   fierttut, gurtti, virttis (2)
+
+s:m:    bisma
+sm:     bismačoahkkin, leasmi, bismma
+t:m:    fitmat,
+tmm:    fátmmastit, fátmi (1)
+s:p:    luspi, vispil, vispet
+sp:     lusppi, bisppa
+š:m:    šušmi
+šmm:    šušmmi, lášmat, lášmmohallat (1)
+š:t:    gušta, guštet, beštor, 
+št:     meaštir, 
+
+š:v:    gišvarasmáhtu
+šv:     gišvvardit
+
+vg:g:   šlivggun, šlivggui, šluvggán (1)
+v:j:    gavja, uvja, jievja, ruovji
+vjj:    ruvjjiid, uvjjaid, jievjja (2)
+vj:j:   sievjjus
+
+vk:k:   savkkástallat, cuovkkui, cuovkkun, nivkkun
+
+v:hl:   čivhli, skoavhli, guvhli
+vhl:    čivhle-, guvhlegállu, skoavhle
+vhll:   skoavhlli, skoavhllagit
+vhl:l:  guvhlli, guvhllár, čivhllit
+
+v:p:    lovpet, lovpár
+vr:     divreveagat, sávri
+v:z:    livzi, rivzi
+vz:     sávza, ceavzit (2)
+vzz:    sávzzat, cevzzii (1)
+vz:z:   livzzi, rivzzi, civzza
+v:ž:    guovža, njuovžat, njuovžil (1)
+vž:     skávža, čeavži, ávži, lávži
+vžž:    lávžži, skávžžaid, ávžži, čeavžžit, guovžža (2)
+vž:ž:   livžžui, livžžádit
+
+
+
+
+
+
+
+
+
 
 
 
