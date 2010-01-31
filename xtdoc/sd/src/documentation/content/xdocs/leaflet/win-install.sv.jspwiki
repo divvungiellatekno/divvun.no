@@ -1,6 +1,6 @@
 !!!Installation och användning av produkten på Windows
 För att installera Divvun kan man antingen ladda ner programmet från
-[http://www.divvun.no/static_files/DivvunInstaller.exe] eller installera det
+[http://www.divvun.no/static_files/DivvunInstaller.exe] eller installera det
 från en CD. Sätt in CDn eller klicka på nedladdningslänken —
 installationsprogrammet startar av sig själv.
 
@@ -15,19 +15,19 @@ installationen av programmet:
 [Fortsätt med installationen|guvvieh/PC_03_Install_start_a_cut.png]
 ----
 
-3. Installera programmet, tryck på knappen __Installera__.
+3. För att installera programmet, tryck på knappen __Installera__.
 
 [Välj vad du ska installera|guvvieh/PC_04_install_continue.png]
 ----
 
-4. Fullför installationen, tryck på __Fullför__:
+4. För att fullfölja  installationen, tryck på __Fullför__:
 
 [Börja installera |guvvieh/PC_05_install_complete.png]
 
 Därefter är installationen av programmet klar.
 
 !!!Inställningar i Windows för att kunna skriva på samiska
-1. För att kunna skriva med samiska bokstäver måste du välja det i
+1. För att kunna skriva med samiska bokstäver måste du ställa in det i
 __Kontrollpanelen__. Där dubbelklickar du på ikonen
 __Datum, klockslag, språk och internationella inställningar:__
   
@@ -61,21 +61,22 @@ kunna skriva på. Här väljer du __Samiska:__
 6. När du sen ska skriva på samiska klickar du på språkikonen nere i det
 högra hörnet på skrivbordet och väljer __Samiska__:
 
-[Bild: |guvvieh/PC_11_dashboard_choose_language_cut.png]
+[Bild: Välja samiska|guvvieh/PC_11_dashboard_choose_language_cut.png]
   
 Nu är tangentbordet inställt för samiska tecken, t.ex. ger tangenten "q"
 bokstaven "á" och tangenten "¨" ger bokstaven  "ŋ" osv.
   
-!!!Användning av Divvun på Windows
+!!!Användning av Divvun i Microsoft Office
 
 För att Divvun-verktygen skall kunna hjälpa dig, måste du göra klart för datamaskinen att du skriver på samiska genom att välja det som inspråk.
 
-1a. MS Office 2003: När du har öppnat MS Office väljer du menyn __Verktyg ➿ Språk ➿ Ange språk …__
+1a. __MS Office 2003:__ När du har öppnat MS Office väljer du menyn __Verktyg ⇒ Språk ⇒ Ange språk …__
 [Meny för att välja samisk|guvvieh/PC_14_Office_2003_velg_sprak.png]
   
-1b. Office 2007: När du har öppnat MS Office klickar du på fliken __Granska__, där väljer du __Ange språk__
+1b. __Office 2007:__ När du har öppnat MS Office klickar du på fliken __Granska__, där väljer du __Ange språk__
 
-2. I dialogen som dyker upp väljer du __Samiska__ eller __Lulesamiska__. OBS! Se till att __Identifiera språk automatiskt__ inte är förhakad. Om den är det hoppar Office automatiskt tillbake till andra språk än samiska hela tiden, och divvun-verktygen fungerar inte som de ska.
+2. I dialogen som dyker upp väljer du __Samiska__ eller __Lulesamiska__. OBS! Se till att __Identifiera språk automatiskt__ inte är förhakad. Om den är det hoppar Office automatiskt tillbaka till andra språk än samiska hela tiden, och Divvun-verktygen fungerar inte som de ska.
+
 [Välj språk-dialog|guvvieh/PC_15_Office_2003_bestem_sprak.png]
 
 3. Nu kan du börja skriva på samiska, och programmet hjälper dig att stava. Du kan antingen välja att högerklicka på ord med röda streck under. Då ser det ut så här:
@@ -86,5 +87,5 @@ eller du kan starta rättstavningskontrollen i eget fönster. Tryck på [abc-kna
 
 [Rättstavningskontrollen i användning|guvvieh/PC_13_MSOffice_example_cut.png]
 
-4. När man arbetar med en text på samiska kan det hända att man behöver skriva vissa ord från andra språk, t.ex. svenska eller norska, och då behöver man även ställa in vilket tangentbord man använder. Det som händer då är att stavningskontrollen automatiskt går till det språk som tangentbord är inställt för. För att komma tillbaks till den samiska stavningskontrollen måste man då markera hela texten och sedan välja att man skriver på samiska. Se beskrivningen i punkt 1 och punkt 2 i__Användning av Divvun på Windows__ för hur man väljer samiska som språk.
+4. När man arbetar med en text på samiska kan det hända att man behöver skriva vissa ord från andra språk, t.ex. svenska eller norska, och då behöver man även ställa in vilket tangentbord man använder. Det som händer då är att stavningskontrollen automatiskt går till det språk som tangentbordet är inställt för. För att komma tillbaks till den samiska stavningskontrollen måste man då markera hela texten och sedan välja att man skriver på samiska. Se beskrivningen i punkt 1 och punkt 2 i__Användning av Divvun på Windows__ för hur man väljer samiska som språk.
 
