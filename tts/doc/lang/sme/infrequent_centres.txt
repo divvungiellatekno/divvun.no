@@ -119,9 +119,6 @@ ln:nj/lŋ:ŋ: jalŋŋis
 
 l:lj:   duollji, šillju, viellja, gallji
 
-l:j     olju, solju
-lj:     oljobohkamat
-lj:j    oljju, soljju (1)
 lb:     holberavda, galbarihcci, silbarávdi
 lbb:    duolbbas, gálbbi, (1), silbbat, hilbbohallat
 lb:b:   holbbi, guolbbi
@@ -139,7 +136,7 @@ l:f:    spálfu, skuolfi, bolfát, bolfi
 lf:     bolfebeana, bolfeoaivi, skuolfeloddi, 
 lf:f    skuolffi, bolffi
 
-lk:     fuolkegiella, fuolkedeaivvadeapmi, fuolkemánná (1), moalkemuorra
+lk:     fuolkegiella, fuolkedeaivvadeapmi, fuolkemánná (2), moalkemuorra
 l:p:    nulpu, stoalpu, vuolpu, (2)
 lp:     stoalpodiagrámma, vuolpominsttar, vuolporássi
 lpp:    stoalppu, skoalppas, njoalppas
@@ -153,7 +150,6 @@ lšš:    álššaiduvvat, álššat, vulššiid
 lš:š:   vuolšši, vuolššit, šulšši, vuolššui
 
 l:t:    boltut, filtet
-lt:     čoaltu, sálti (2)
 lt:t:   bolttun, bolttut
 lv:v:   gilvván, gilvvát, duolvvidit (2)
 
@@ -233,7 +229,6 @@ rdnj/rgŋ: skurdnje-sorta, gardnjil-lađas
 rtnj:   goarkŋui, gorkŋodit, eartnjehas (1)
 rt:nj   skurtnjui, skurtnjun
 
-r:b:    čuorbi, vuorbi, árbi, árbet, vuorbádit (2)
 rb:     árbeeana, vuorbegeassin,árbevierut (2)
 rb:b:   čuorbbášit, čuorbbit, vuorbbi (1)
 
@@ -330,7 +325,7 @@ v:s:    ruvsu
 vs:     ruvsogihppu
 
 kc:     lákcagáhkku, 
-vcc:    lávcca, návcca, civccun, gávccis
+vcc:    lávcca, návcca, civccun, gávccis (2)
 vc:c    ovccis (1)
 
 vč:č:  livččii (1)
@@ -339,10 +334,9 @@ k:st:   teaksta, táksta,
 kst:    teakstabihttá, tákstareive
 vstt:   teavstta, távstta
 
-kš:     šákšabivdu, ákšonađđa
-všš:    vávššui, divššodit
+kš:     šákšabivdu, ákšonađđa (2)
+všš:    vávššui, divššodit (1)
 vš:š:   divššu
-
 
 ŧŧ:     ruoŧŧa, muoŧŧá, ruŧŧii, muoŧŧái (1)
 ŧ:ŧ:    muoŧ:ŧái
