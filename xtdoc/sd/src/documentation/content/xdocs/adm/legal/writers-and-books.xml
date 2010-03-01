@@ -6862,6 +6862,96 @@
           <td class="text_added_to_corp"></td>
         </tr>
 
+        <tr>
+          <td class="title">Gïele lea faamoe</td>
+
+          <td class="isbn"></td>
+
+          <td class="publisher"></td>
+
+          <td class="Writer"></td>
+
+          <td class="translator">Nora Marie Bransfjell</td>
+
+          <td class="language">South Sámi</td>
+
+          <td class="contact"></td>
+
+          <td class="sent_contract"></td>
+
+          <td class="sign_writ"></td>
+
+          <td class="sign_trans">26092009</td>
+
+          <td class="sign_publisher"></td>
+
+          <td class="sign_samiparl"></td>
+
+          <td class="arch_numb"></td>
+
+          <td class="text_added_to_corp"></td>
+        </tr>
+
+        <tr>
+          <td class="title">Mojnestimmieh</td>
+
+          <td class="isbn"></td>
+
+          <td class="publisher"></td>
+
+          <td class="Writer">Nora Marie Bransfjell</td>
+
+          <td class="translator"></td>
+
+          <td class="language">South Sámi</td>
+
+          <td class="contact">MLK</td>
+
+          <td class="sent_contract"></td>
+
+          <td class="sign_writ">26092009</td>
+
+          <td class="sign_trans"></td>
+
+          <td class="sign_publisher"></td>
+
+          <td class="sign_samiparl"></td>
+
+          <td class="arch_numb"></td>
+
+          <td class="text_added_to_corp"></td>
+        </tr>
+
+        <tr>
+          <td class="title">Væssj-bualehke</td>
+
+          <td class="isbn"></td>
+
+          <td class="publisher"></td>
+
+          <td class="Writer"></td>
+
+          <td class="translator">Nora Marie Bransfjell</td>
+
+          <td class="language">South Sámi</td>
+
+          <td class="contact">MLK</td>
+
+          <td class="sent_contract"></td>
+
+          <td class="sign_writ"></td>
+
+          <td class="sign_trans">26092009</td>
+
+          <td class="sign_publisher"></td>
+
+          <td class="sign_samiparl"></td>
+
+          <td class="arch_numb"></td>
+
+          <td class="text_added_to_corp"></td>
+        </tr>
+
         <!-- for new books, copy from here -->
 
         <tr>
