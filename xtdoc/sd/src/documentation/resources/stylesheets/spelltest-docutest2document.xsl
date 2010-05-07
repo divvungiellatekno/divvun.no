@@ -13,7 +13,7 @@
 
   <xsl:param name="testlang"/>
   <xsl:param name="testtype"/>
-  <xsl:param name="toplimit">5</xsl:param>
+  <xsl:param name="toplimit">3</xsl:param>
   <xsl:param name="bugurl">http://giellatekno.uit.no/bugzilla/show_bug.cgi?id=</xsl:param>
 
   <xsl:key name="bugid" match="word" use="./bug"/>
@@ -57,6 +57,8 @@
     <xsl:param name="recall" select="$truepositive div ($truepositive + $falsenegative)"/>
     <xsl:param name="accuracy" select="($truepositive+$truenegative) div
                             ($nrflaggedwords + $nracceptwords)"/>
+
+    <!-- Classification of spelling errors according to suggestions: -->
     <xsl:param name="corrected"
      select="count(../results/word[status='SplErr'][expected][position > 0])"/>
     <xsl:param name="topthree"
@@ -70,6 +72,8 @@
     <xsl:param name="nosugg"
      select="count(../results/word[status='SplErr'][expected]
                                   [suggestions/@count = 0])"/>
+
+    <!-- Classification of spelling errors according to editing distance: -->
     <xsl:param name="editdist1"
      select="count(../results/word[expected]
                                   [edit_dist = 1])"/>
@@ -82,6 +86,83 @@
     <xsl:param name="errorinput"
      select="count(../results/word[status='Error']
                                   [expected])"/>
+
+    <!-- The X product of suggestions and spelling errors above: -->
+    <xsl:param name="correctedSimple"
+     select="count(../results/word[status='SplErr']
+                                  [expected]
+                                  [position > 0]
+                                  [edit_dist = 1])"/>
+    <xsl:param name="correctedEdit2"
+     select="count(../results/word[status='SplErr']
+                                  [expected]
+                                  [position > 0]
+                                  [edit_dist = 2])"/>
+    <xsl:param name="correctedEdit3"
+     select="count(../results/word[status='SplErr']
+                                  [expected]
+                                  [position > 0]
+                                  [edit_dist > 2])"/>
+
+    <xsl:param name="topthreeSimple"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position &lt;= $toplimit]
+                                  [edit_dist = 1])"/>
+    <xsl:param name="topthreeEdit2"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position &lt;= $toplimit]
+                                  [edit_dist = 2])"/>
+    <xsl:param name="topthreeEdit3"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position &lt;= $toplimit]
+                                  [edit_dist > 2])"/>
+
+    <xsl:param name="nocorrsuggSimple"
+     select="count(../results/word[status='SplErr']
+                                  [expected]
+                                  [suggestions/@count > 0]
+                                  [position = 0]
+                                  [edit_dist = 1])"/>
+    <xsl:param name="nocorrsuggEdit2"
+     select="count(../results/word[status='SplErr']
+                                  [expected]
+                                  [suggestions/@count > 0]
+                                  [position = 0]
+                                  [edit_dist = 2])"/>
+    <xsl:param name="nocorrsuggEdit3"
+     select="count(../results/word[status='SplErr']
+                                  [expected]
+                                  [suggestions/@count > 0]
+                                  [position = 0]
+                                  [edit_dist > 2])"/>
+    <xsl:param name="nosuggSimple"
+     select="count(../results/word[status='SplErr']
+                                  [expected]
+                                  [suggestions/@count = 0]
+                                  [edit_dist = 1])"/>
+    <xsl:param name="nosuggEdit2"
+     select="count(../results/word[status='SplErr']
+                                  [expected]
+                                  [suggestions/@count = 0]
+                                  [edit_dist = 2])"/>
+    <xsl:param name="nosuggEdit3"
+     select="count(../results/word[status='SplErr']
+                                  [expected]
+                                  [suggestions/@count = 0]
+                                  [edit_dist > 2])"/>
+    <xsl:param name="falsenegSimple"
+     select="count(../results/word[status='SplCor' and ./expected]
+                                  [edit_dist = 1])"/>
+    <xsl:param name="falsenegEdit2"
+     select="count(../results/word[status='SplCor' and ./expected]
+                                  [edit_dist = 2])"/>
+    <xsl:param name="falsenegEdit3"
+     select="count(../results/word[status='SplCor' and ./expected]
+                                  [edit_dist > 2])"/>
+
     <section>
       <title>Overview</title>
       <section>
@@ -210,56 +291,75 @@
         </dl>
 
         <table>
-          <caption>Suggestion statistics</caption>
+          <caption>Suggestion &amp; Spelling error statistics</caption>
           <tr>
-            <td>Number of detected spelling errors with <span class="correct">correct
+            <td colspan="2" rowspan="2"> </td>
+            <th colspan="3">Spelling errors: <xsl:value-of select="$nrrealerr"/></th>
+          </tr>
+          <tr>
+            <th>Simple errors<br/>
+                (edit dist. 1):</th>
+            <th>Errors with edit<br/>
+                distance 2:</th>
+            <th>Errors with edit<br/>
+                distance ≥3:</th>
+          </tr>
+          <tr>
+            <th colspan="2">Suggestion statistics for true positives (tp =
+                <xsl:value-of select="$truepositive"/>):</th>
+            <td><xsl:value-of select="$editdist1"/>
+                (<xsl:value-of select="round(($editdist1 div $nrrealerr) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$editdist2"/>
+                (<xsl:value-of select="round(($editdist2 div $nrrealerr) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$editdist3"/>
+                (<xsl:value-of select="round(($editdist3 div $nrrealerr) * 10000) div 100"/> %)</td>
+          </tr>
+          <tr>
+            <td>No of detected spelling errors with <span class="correct">correct
                 suggestion</span>:</td>
-            <td><xsl:value-of select="$corrected"/></td>
-            <td>(<xsl:value-of select="round(($corrected div $truepositive) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$corrected"/>
+                (<xsl:value-of select="round(($corrected div $truepositive) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$correctedSimple"/></td>
+            <td><xsl:value-of select="$correctedEdit2"/></td>
+            <td><xsl:value-of select="$correctedEdit3"/></td>
           </tr>
           <tr>
-            <td>Number of detected spelling errors with <span class="correct">correct
+            <td>No of detected spelling errors with <span class="correct">correct
                 suggestion</span> in top <xsl:value-of select="$toplimit"/>:</td>
-            <td><xsl:value-of select="$topthree"/></td>
-            <td>(<xsl:value-of select="round(($topthree div $truepositive) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$topthree"/>
+                (<xsl:value-of select="round(($topthree div $truepositive) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$topthreeSimple"/></td>
+            <td><xsl:value-of select="$topthreeEdit2"/></td>
+            <td><xsl:value-of select="$topthreeEdit3"/></td>
           </tr>
           <tr>
-            <td>Number of detected spelling errors with only wrong suggestions:</td>
-            <td><xsl:value-of select="$nocorrsugg "/></td>
-            <td>(<xsl:value-of select="round(($nocorrsugg div $truepositive) * 10000) div 100"/> %)</td>
+            <td>No of detected spelling errors with only wrong suggestions:</td>
+            <td><xsl:value-of select="$nocorrsugg "/>
+                (<xsl:value-of select="round(($nocorrsugg div $truepositive) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$nocorrsuggSimple"/></td>
+            <td><xsl:value-of select="$nocorrsuggEdit2"/></td>
+            <td><xsl:value-of select="$nocorrsuggEdit3"/></td>
           </tr>
           <tr>
-            <td>Number of detected spelling errors with no suggestions at all:</td>
-            <td><xsl:value-of select="$nosugg"/></td>
-            <td>(<xsl:value-of select="round(($nosugg div $truepositive) * 10000) div 100"/> %)</td>
+            <td>No of detected spelling errors with no suggestions at all:</td>
+            <td><xsl:value-of select="$nosugg"/>
+                (<xsl:value-of select="round(($nosugg div $truepositive) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$nosuggSimple"/></td>
+            <td><xsl:value-of select="$nosuggEdit2"/></td>
+            <td><xsl:value-of select="$nosuggEdit3"/></td>
+          </tr>
+          <tr>
+            <td>Undetected spelling errors:</td>
+            <td><xsl:value-of select="$falsenegative"/>
+                (<xsl:value-of select="round(($falsenegative div $truepositive) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$falsenegSimple"/></td>
+            <td><xsl:value-of select="$falsenegEdit2"/></td>
+            <td><xsl:value-of select="$falsenegEdit3"/></td>
           </tr>
         </table>
 
         <p/>
 
-        <table>
-          <caption>Spelling error statistics</caption>
-          <tr>
-            <th>Spelling errors:</th>
-            <th><xsl:value-of select="$nrrealerr"/></th>
-            <th><xsl:value-of select="round(($nrrealerr div $nrrealerr) * 10000) div 100"/> %</th>
-          </tr>
-          <tr>
-            <td>Simple spelling errors / all spelling errors:</td>
-            <td><xsl:value-of select="$editdist1"/></td>
-            <td>(<xsl:value-of select="round(($editdist1 div $nrrealerr) * 10000) div 100"/> %)</td>
-          </tr>
-          <tr>
-            <td>Spelling errors with editing distance 2 / all spelling errors:</td>
-            <td><xsl:value-of select="$editdist2"/></td>
-            <td>(<xsl:value-of select="round(($editdist2 div $nrrealerr) * 10000) div 100"/> %)</td>
-          </tr>
-          <tr>
-            <td>Spelling errors with editing distance 3 or more / all spelling errors:</td>
-            <td><xsl:value-of select="$editdist3"/></td>
-            <td>(<xsl:value-of select="round(($editdist3 div $nrrealerr) * 10000) div 100"/> %)</td>
-          </tr>
-        </table>
       </section>
     </section>
   </xsl:template>
