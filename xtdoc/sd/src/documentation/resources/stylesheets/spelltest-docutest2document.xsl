@@ -387,6 +387,9 @@
               <th>Bug ID</th>
               <th>Comment</th>
             </xsl:if>
+            <xsl:if test="not($testtype = 'regression') and ./word/comment">
+              <th>Comment</th>
+            </xsl:if>
           </tr>
           <xsl:apply-templates select="word[status='SplErr']
                                            [expected]
@@ -418,6 +421,9 @@
                 <th>Bug ID</th>
                 <th>Comment</th>
               </xsl:if>
+              <xsl:if test="not($testtype = 'regression') and ./word/comment">
+                <th>Comment</th>
+              </xsl:if>
             </tr>
             <xsl:apply-templates select="word[status='SplErr']
                                              [expected]
@@ -445,6 +451,9 @@
               <th>Editing<br/>distance</th>
               <xsl:if test="$testtype = 'regression'">
                 <th>Bug ID</th>
+                <th>Comment</th>
+              </xsl:if>
+              <xsl:if test="not($testtype = 'regression') and ./word/comment">
                 <th>Comment</th>
               </xsl:if>
             </tr>
@@ -775,7 +784,7 @@
               <xsl:apply-templates select="tokens"/>
             </td>
           </xsl:if>
-          <xsl:if test="$testtype = 'regression' or $testtype = 'wordtype'">
+          <xsl:if test="$testtype = 'regression' or $testtype = 'wordtype' or ./comment">
             <xsl:if test="$type != 'nobug' and $testtype = 'regression'">
               <td>
                 <a>
