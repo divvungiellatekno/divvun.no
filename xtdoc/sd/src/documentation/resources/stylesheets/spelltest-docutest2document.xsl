@@ -59,11 +59,14 @@
                             ($nrflaggedwords + $nracceptwords)"/>
 
     <!-- Classification of spelling errors according to suggestions: -->
-    <xsl:param name="corrected"
-     select="count(../results/word[status='SplErr'][expected][position > 0])"/>
     <xsl:param name="topthree"
-     select="count(../results/word[status='SplErr'][position > 0]
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
                                   [position &lt;= $toplimit])"/>
+    <xsl:param name="NotTopThree"
+     select="count(../results/word[status='SplErr']
+                                  [expected]
+                                  [position > $toplimit])"/>
     <xsl:param name="nocorrsugg"
      select="count(../results/word[status='SplErr']
                                   [expected]
@@ -88,20 +91,20 @@
                                   [expected])"/>
 
     <!-- The X product of suggestions and spelling errors above: -->
-    <xsl:param name="correctedSimple"
+    <xsl:param name="NotTopThreeSimple"
      select="count(../results/word[status='SplErr']
                                   [expected]
-                                  [position > 0]
+                                  [position > $toplimit]
                                   [edit_dist = 1])"/>
-    <xsl:param name="correctedEdit2"
+    <xsl:param name="NotTopThreeEdit2"
      select="count(../results/word[status='SplErr']
                                   [expected]
-                                  [position > 0]
+                                  [position > $toplimit]
                                   [edit_dist = 2])"/>
-    <xsl:param name="correctedEdit3"
+    <xsl:param name="NotTopThreeEdit3"
      select="count(../results/word[status='SplErr']
                                   [expected]
-                                  [position > 0]
+                                  [position > $toplimit]
                                   [edit_dist > 2])"/>
 
     <xsl:param name="topthreeSimple"
@@ -221,9 +224,9 @@
       </section>
       <section>
         <title>Result summary</title>
-        <p>Number of input words:
+        <p>Nº of input words:
         <strong><xsl:value-of select="$nrwords"/></strong></p>
-        <p>Number of spelling errors:
+        <p>Nº of spelling errors:
         <strong><xsl:value-of select="$nrrealerr"/></strong> (<xsl:value-of
                 select="round(($nrrealerr div $nrwords) * 10000) div 100"/> % of all words)</p>
 
@@ -236,10 +239,10 @@
           </tr>
           <tr>
             <td>Speller Positive<br/>
-              (number of flagged words):<br/>
+              (Nº of flagged words):<br/>
               <strong><xsl:value-of select="$nrflaggedwords"/></strong></td>
             <td>Speller Negative<br/>
-              (number of accepted words):<br/>
+              (Nº of accepted words):<br/>
               <strong><xsl:value-of select="$nracceptwords"/></strong></td>
             <th>All tokenisation<br/>
               errors:<br/>
@@ -247,28 +250,28 @@
           </tr>
           <tr>
             <th rowspan="2">Reality</th>
-            <td>Number of real errors:<br/>
+            <td>Nº of real errors:<br/>
               <strong><xsl:value-of select="$nrrealerr"/></strong></td>
-            <td>Number of true positives<br/>
+            <td>Nº of true positives<br/>
               (detected real errors):<br/>
               <strong><xsl:value-of select="$truepositive"/></strong></td>
-            <td>Number of false negatives<br/>
+            <td>Nº of false negatives<br/>
               (unflagged spelling errors):<br/>
               <strong><xsl:value-of select="$falsenegative"/></strong></td>
-            <td>Number of errouneously<br/>
+            <td>Nº of errouneously<br/>
               tokenized spelling errors:<br/>
               <strong><xsl:value-of select="$TokErrSpellErr"/></strong></td>
           </tr>
           <tr>
-            <td>Number of real correct words:<br/>
+            <td>Nº of real correct words:<br/>
               <strong><xsl:value-of select="$nrrealcorr"/></strong></td>
-            <td>Number of false positives<br/>
+            <td>Nº of false positives<br/>
               (incorrectly flagged words):<br/>
               <strong><xsl:value-of select="$falsepositive"/></strong></td>
-            <td>Number of true negatives<br/>
+            <td>Nº of true negatives<br/>
               (unflagged correct words):<br/>
               <strong><xsl:value-of select="$truenegative"/></strong></td>
-            <td>Number of errouneously<br/>
+            <td>Nº of errouneously<br/>
               tokenized correct words:<br/>
               <strong><xsl:value-of select="$TokErrSpellCor"/></strong></td>
           </tr>
@@ -306,7 +309,7 @@
           </tr>
           <tr>
             <th colspan="2">Suggestion statistics for true positives (tp =
-                <xsl:value-of select="$truepositive"/>):</th>
+                <xsl:value-of select="$truepositive"/> = 100%):</th>
             <td><xsl:value-of select="$editdist1"/>
                 (<xsl:value-of select="round(($editdist1 div $nrrealerr) * 10000) div 100"/> %)</td>
             <td><xsl:value-of select="$editdist2"/>
@@ -315,16 +318,7 @@
                 (<xsl:value-of select="round(($editdist3 div $nrrealerr) * 10000) div 100"/> %)</td>
           </tr>
           <tr>
-            <td>No of detected spelling errors with <span class="correct">correct
-                suggestion</span>:</td>
-            <td><xsl:value-of select="$corrected"/>
-                (<xsl:value-of select="round(($corrected div $truepositive) * 10000) div 100"/> %)</td>
-            <td><xsl:value-of select="$correctedSimple"/></td>
-            <td><xsl:value-of select="$correctedEdit2"/></td>
-            <td><xsl:value-of select="$correctedEdit3"/></td>
-          </tr>
-          <tr>
-            <td>No of detected spelling errors with <span class="correct">correct
+            <td>Nº of detected spelling errors with <span class="correct">correct
                 suggestion</span> in top <xsl:value-of select="$toplimit"/>:</td>
             <td><xsl:value-of select="$topthree"/>
                 (<xsl:value-of select="round(($topthree div $truepositive) * 10000) div 100"/> %)</td>
@@ -333,7 +327,16 @@
             <td><xsl:value-of select="$topthreeEdit3"/></td>
           </tr>
           <tr>
-            <td>No of detected spelling errors with only wrong suggestions:</td>
+            <td>Nº of detected spelling errors with <span class="correct">correct
+                suggestion</span> <em>below</em> top <xsl:value-of select="$toplimit"/>:</td>
+            <td><xsl:value-of select="$NotTopThree"/>
+                (<xsl:value-of select="round(($NotTopThree div $truepositive) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$NotTopThreeSimple"/></td>
+            <td><xsl:value-of select="$NotTopThreeEdit2"/></td>
+            <td><xsl:value-of select="$NotTopThreeEdit3"/></td>
+          </tr>
+          <tr>
+            <td>Nº of detected spelling errors with only wrong suggestions:</td>
             <td><xsl:value-of select="$nocorrsugg "/>
                 (<xsl:value-of select="round(($nocorrsugg div $truepositive) * 10000) div 100"/> %)</td>
             <td><xsl:value-of select="$nocorrsuggSimple"/></td>
@@ -341,7 +344,7 @@
             <td><xsl:value-of select="$nocorrsuggEdit3"/></td>
           </tr>
           <tr>
-            <td>No of detected spelling errors with no suggestions at all:</td>
+            <td>Nº of detected spelling errors with no suggestions at all:</td>
             <td><xsl:value-of select="$nosugg"/>
                 (<xsl:value-of select="round(($nosugg div $truepositive) * 10000) div 100"/> %)</td>
             <td><xsl:value-of select="$nosuggSimple"/></td>
@@ -350,8 +353,7 @@
           </tr>
           <tr>
             <td>Undetected spelling errors:</td>
-            <td><xsl:value-of select="$falsenegative"/>
-                (<xsl:value-of select="round(($falsenegative div $truepositive) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$falsenegative"/></td>
             <td><xsl:value-of select="$falsenegSimple"/></td>
             <td><xsl:value-of select="$falsenegEdit2"/></td>
             <td><xsl:value-of select="$falsenegEdit3"/></td>
@@ -392,7 +394,7 @@
                                            [position > 0]">
             <xsl:sort select="bug" data-type="number"/>
             <xsl:sort select="edit_dist" order="descending" data-type="number"/>
-            <xsl:sort select="position" order="descending"/>
+            <xsl:sort select="position" order="descending" data-type="number"/>
           </xsl:apply-templates >
         </table>
       </section>
