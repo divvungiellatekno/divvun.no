@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--+
     | Transforms corpus content documents to Forrest documents according
     | to the language parameter - only content for the given language is
