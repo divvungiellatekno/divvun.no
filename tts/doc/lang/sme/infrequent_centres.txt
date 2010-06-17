@@ -4,47 +4,46 @@ Infrequent consonant centres and candidate words
 #The parentheses give the number of centres found in the text assembled so far.
 #For unit-selection synthesis, each combination should occur at least 3 times.
 
-c:c:    gaccun, gaccut, njaccui, ruccistit
-dn:     eadnebealli, gudneáŋgir, ladnedoardna (1)
+c:c:    gaccun, gaccut, njaccui, ruccistit, giccui (3)
+dn:     eadnebealli, gudneáŋgir, ladnedoardna (3)
 
-đ:bm:   lieđbmi, gieđbmi, čáđbmi
-đbm:    lieđbmečoarvi, gieđbmeguoika
-đmm:    liđmmiid, giđmmiid, meađmmagit, 
-đm:m:   lieđmmi, gieđmmi
-đb:     beađbedákti, beađbelađas (2)
-đbb:    beađbbi, šođbbodit (2)
-đb:b:   šođbbut
-đg:g:   bieđgguid (1)
+đ:bm:   lieđbmi, gieđbmi, čáđbmi (3)
+đbm:    lieđbmečoarvi, gieđbmeravda (3)
+đmm:    liđmmiid, giđmmiid, meađmmagit, (3)
+đm:m:   lieđmmi, gieđmmi (3)
+đb:     beađbedákti, beađbelađas (3)
+đbb:    beađbbi, šođbbodit (3)
+đb:b:   šođbbut (3)
+đg:g:   bieđgguid (3)
 
-đ:j:    guđju, viđji, várreviđji (2)
-đjj:    viđjjiid (2)
+đ:j:    guđju, viđji, várreviđji (3)
+đjj:    viđjjiid (3)
 
-đ:gŋ    jađgŋat, beađgŋát, siđgŋat, vuođgŋit
-đgŋ:    siđgŋebiktasat, vuođgŋebivdu
-đŋŋ:    beađŋŋis, 
-đŋ:ŋ:   vuođŋŋán,
+đ:gŋ    jađgŋat, beađgŋát, siđgŋat, vuođgŋit (3)
+đgŋ:    siđgŋebiktasat, vuođgŋebivdu (3)
+đŋŋ:    beađŋŋis, (3)
+đŋ:ŋ:   vuođŋŋán, (3)
 
-đ:v:    njoađvut, báđva, bađvi
-đv:     báđveávnnas, bađverássi
-đvv:    njoađvvui, báđvva
-đv:v:   bađvvi, bađvvis
+đ:v:    njoađvut, báđva, bađvi (3)
+đvv:    njoađvvui, báđvva (3)
+đv:v:   bađvvi, bađvvis (3)
 
-f:f:    suffá - suffái, Juffá-Juffái
+f:f:    suffá - suffái, Juffá-Juffái (3)
 
-hl:     gihligiisá, guhlit, gihládeaddji, cuhladit, cuhlai (2)
-hll:    cuhllen, cuhllen, cuhllat
-hl:l:   cuhllá  
+hl:     gihligiisá, guhlit, gihládeaddji, cuhladit, cuhlai (3)
+hll:    cuhllen, cuhllen, cuhllat (3)
+hl:l:   cuhllá  (3)
 
-hrr:    čahrrat, cihrrat, skuhrrat, snuhrrat, čahrret, cihrret, skuhrret
-hr:r:   čahrrá, cihrrá, skurrá, snuhrrá (1)
+hrr:    čahrrat, cihrrat, skuhrrat, snuhrrat, čahrret, cihrret, skuhrret (3)
+hr:r:   čahrrá, cihrrá, skurrá, snuhrrá (3)
 
-hm:     liehmu, ruhmut, liehmudit
+hm:     liehmu, ruhmut, liehmudit (3)
 
-i:b:    ruibut, Eibo, Eibos, suoibut (2) 
-ib:b:   ruibbui, ruibbu, niibbi, niibbit (2)
+i:b:    ruibut, Eibo, Eibos, suoibut (3) 
+ib:b:   ruibbui, ruibbu, niibbi, niibbit (3)
 
 i:c:    buici, luoicat, soica
-icc:    gáicca, luoiccai, luoiccas, soiccas, baicca (2)
+icc:    gáicca, luoiccai, luoiccas, soiccas, baicca (3)
 ic:c:   buicci
 
 i:f:    gaifát, 
@@ -69,7 +68,7 @@ ipp:    fáippui, duippas, cuippas
 ip:p:   duippidit, cuippihit
 
 i:r:    guoirudit, guoirat (2)
-ir:r:   ?
+ir:r:   guoirruhit
 
 i:s:    nuoisulit, guoisut, nuoisut (1)
 
@@ -111,7 +110,6 @@ lf:     bolfebeana, bolfeoaivi, skuolfeloddi,
 lf:f    skuolffi, bolffi (2)
 
 lp:     stoalpodiagrámma, vuolpominsttar, vuolporássi
-lp:p:   nulppu, vuolppu (2)
 
 ls:     goalsemális, bálseráktu, soalselurvu
 ls:s:   molssun, molssut, molssui
@@ -144,8 +142,6 @@ m:šk:   limški, limškut
 mškk:   rámškkui, rimškkas
 mšk:k:  limškkui
 
-nsk:    ránska, dánska
-nskk:   ránskka, dánskka (2)
 n:šk:   rinški, 
 nšk:    ránšku, ránškut
 nškk:   ránškkui 
@@ -161,10 +157,8 @@ nčč:    rinčči, rinččun
 
 n:s:    linsa
 ns:     dánsut, balánsa, sekveansa
-nss:    dánssui, balánssa (1)
 
-
-n:t:    prentet, ánte, lunta, kontu 
+n:t:    prentet, ánte, lunta, kontu, gintala (1)
 nt:t:   konttu, ginttál
 n:z:    rinzi, šlinzi, runzi
 nz:     goanzi, leanzi, reanzi
@@ -175,9 +169,8 @@ nž:     stánži, steanži
 nžž:    stánžži, steanžži, steanžžehit
 nž:ž:   bunžžuhit
 
-ŋg:g:   iŋggá, Ruŋggu, Ruŋggus
 ŋ:k:    reŋko, faŋkut, faŋkát, boŋkit (2)
-ŋk:     beaŋka, báŋku, beaŋkaravda, báŋkokontu
+ŋk:     beaŋka, báŋku, beaŋkaravda, báŋkokontu (2)
 ŋk:k:   boŋkkihit, bonkkuhit
 
 rt:n:   gortnit, girtnut, vuortnun (1)
@@ -190,10 +183,9 @@ rt:nj   skurtnjui, skurtnjun
 
 rb:b:   čuorbbášit, čuorbbit, vuorbbi (1)
 
-r:c:    bircu, vierca, harcet, garcut (1)
+r:c:    bircu, vierca, harcet, garcut (2)
 rc:     bircospeallu, harcabáddi
 rcc:    fiercca, birccostallat, garccastit
-rc:c:   birccu, garccui
 r:z:    birzi, 
 rz:     birzediŋga
 rzz:    birzziid bárzziid, birzzas, birzzet
@@ -214,7 +206,7 @@ rk:k:   nurkkis, nurkkit, vuorkkás (1)
 rp:     soarpečáhci, árporulla
 rp:p:   gurppun, gurpput, gurppi
 
-rs:s:   jurssán, jurssát, 
+rs:s:   jurssán, jurssát, (2)
 r:š:    boršut, buršasa, duorši, duoršu (1)
 rš:     buršemánná, duoršočivga
 ršš:    burššas, duorššagit, duorššas
@@ -230,8 +222,6 @@ r:st:   horsta, kirste
 rst:    horstaseahkka
 rstt:   horsttat, kirstte
 
-s:m:    bisma
-sm:     bismačoahkkin, leasmi, bismma
 t:m:    fitmat,
 tmm:    fátmmastit, fátmi (1)
 s:p:    luspi, vispil, vispet
@@ -246,8 +236,6 @@ sp:     lusppi, bisppa
 vn:nj:  savnnján, savnnját, suovnnji
 
 vg:g:   šlivggun, šlivggui, šluvggán (1)
-v:j:    gavja, uvja, jievja, ruovji (2)
-vj:j:   sievjjus (1)
 
 v:hl:   čivhli, skoavhli, guvhli (2)
 vhl:    čivhle-, guvhlegállu, skoavhle
@@ -257,7 +245,6 @@ vhl:l:  guvhlli, guvhllár, čivhllit
 v:p:    lovpet, lovpár
 v:z:    livzi, rivzi
 vz:z:   livzzi, rivzzi, civzza
-vž:     skávža, čeavži, ávži, lávži (1)
 vž:ž:   livžžui, livžžádit
 
 v:sk:   livsku, luvsku
@@ -267,25 +254,29 @@ vsk:k:  livskku, luvskku
 v:st:   hevste, hevstet
 vst:    návstu
 
-v:s:    ruvsu
-vs:     ruvsogihppu
-
 kc:     lákcagáhkku, 
 vc:c    ovccis (2)
 
-k:st:   teaksta, táksta, 
-kst:    teakstabihttá, tákstareive (1)
-vstt:   teavstta, távstta (1)
 
-kš:     šákšabivdu, ákšonađđa (2)
-všš:    vávššui, divššodit (1)
-vš:š:   divššu, divššár (1)
+kst:    teakstabihttá, tákstareive (2)
 
 ŧŧ:     ruoŧŧa, muoŧŧá, ruŧŧii, muoŧŧái (2)
 ŧ:ŧ:    muoŧ:ŧái
 
 
+Infrequent onsets:
 
+snj: rare, only in some dialects
+sl:
+sr:
+
+skr: skriidna, skrinet, skruvva
+gl: glássa, gluovva, glottála
+bl: bliánta, bláđeŧ, bláđđi
+br: bráhkka, breahtta, bronsa, bruvsa
+dr: dronnet, drámá
+fl: flágga, flásku (2)
+kn: knáhppa, knáhppá, knihppet (2)
 
 
 
