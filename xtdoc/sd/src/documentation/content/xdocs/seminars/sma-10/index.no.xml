@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+   <header>
+      <title>Ordbokssseminar i Trondheim</title>
+   </header>
+   <body>
+      <p>Divvun-prosjektet ved Sametinget i samarbeid med Universitetet i Tromsø inviterer til ei seminarveke om
+      ordbøker i Trondheim.</p>
+      <dl>
+         <dt>Tid:</dt>
+         <dd>30.8.-3.-9.2010</dd>
+      </dl>
+      <dl>
+         <dt>Stad:</dt>
+         <dd>Universitetet i Trondheim, NTNU-Dragvoll</dd>
+      </dl>
+      <section>
+         <title>Program</title>
+         <table>
+            <tr>
+               <th>Tidspunkt</th>
+               <th>Måndag</th>
+               <th>Tysdag</th>
+               <th>Onsdag</th>
+               <th>Torsdag</th>
+               <th>Fredag</th>
+            </tr>
+            <tr>
+               <td>9-12</td>
+               <td>reise</td>
+               <td>sdf</td>
+               <td>sdg</td>
+               <td>sdfg</td>
+               <td>sdfg</td>
+            </tr>
+            <tr>
+               <td>12-13</td>
+               <td>beapmoeh</td>
+               <td>beapmoeh</td>
+               <td>beapmoeh</td>
+               <td>beapmoeh</td>
+               <td>beapmoeh</td>
+            </tr>
+            <tr>
+               <th>13-16</th>
+               <th>asd</th>
+               <th>asdf</th>
+               <th>asdf</th>
+               <th>asdf</th>
+               <th>heimreise</th>
+            </tr>
+         </table>
+         <p>Programmet kan bli endra.</p>
+      </section>
+   </body>
+</document>
