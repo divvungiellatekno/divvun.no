@@ -42,23 +42,23 @@ hm:     liehmu, ruhmut, liehmudit (3)
 i:b:    ruibut, Eibo, Eibos, suoibut (3) 
 ib:b:   ruibbui, ruibbu, niibbi, niibbit (3)
 
-i:c:    buici, luoicat, soica
+i:c:    buici, luoicat, soica (3)
 icc:    gáicca, luoiccai, luoiccas, soiccas, baicca (3)
-ic:c:   buicci
+ic:c:   buicci (3)
 
-i:f:    gaifát, 
-iff:    gaiffodit
-if:f    riiffu
+i:f:    gaifát, (3)
+iff:    náiffa (3)
+if:f    riiffu (3)
 
-i:l:    huilát, luoilá (2)
-il:l:   giillu, fiillu,
+i:l:    huilát, luoilá (3)
+il:l:   giillu, fiillu, (3)
 
-ihl:    máihledahkki (1)
-ihll:   máihlli (2)
-i:hm:   duihmi, duihmut
+ihl:    máihledahkki (3)
+ihll:   máihlli (3)
+i:hm:   duihmi, duihmut (2)
 ihm:    duihmesorta
-ihmm:   duihmmiid
-ihm:m:  duihmmi
+ihmm:   duihmmiid (2)
+ihm:m:  duihmmi (2)
 i:hn:   čuihnut
 ihn:n:  čuihnnui
 
@@ -148,7 +148,7 @@ nškk:   ránškkui
 nšk:k   rinškki
 
 n:c:    bunci, buncut, gincut (2)
-nc:     roanci, vuoncáváris (2)
+nc:     roanci, vuoncáváris (3)
 
 n:č:    rinčát, rinči, rinčut
 nč:     ránčát, ránči, ránčut
@@ -156,10 +156,10 @@ nčč:    ránččagit, rinččagit
 nčč:    rinčči, rinččun
 
 n:s:    linsa
-ns:     dánsut, balánsa, sekveansa
+ns:     dánsut, balánsa, sekveansa (1)
 
 n:t:    prentet, ánte, lunta, kontu, gintala (1)
-nt:t:   konttu, ginttál
+nt:t:   konttu, ginttál (1)
 n:z:    rinzi, šlinzi, runzi
 nz:     goanzi, leanzi, reanzi
 nzz:    goanzzi, leanzzi, reanzzi
@@ -222,7 +222,7 @@ r:st:   horsta, kirste
 rst:    horstaseahkka
 rstt:   horsttat, kirstte
 
-t:m:    fitmat,
+t:m:    fitmat, (3)
 tmm:    fátmmastit, fátmi (1)
 s:p:    luspi, vispil, vispet
 sp:     lusppi, bisppa
@@ -273,7 +273,7 @@ sr:
 skr: skriidna, skrinet, skruvva
 gl: glássa, gluovva, glottála
 bl: bliánta, bláđeŧ, bláđđi
-br: bráhkka, breahtta, bronsa, bruvsa
+br: bráhkka, breahtta, bronsa, bruvsa (2)
 dr: dronnet, drámá
 fl: flágga, flásku (2)
 kn: knáhppa, knáhppá, knihppet (2)
