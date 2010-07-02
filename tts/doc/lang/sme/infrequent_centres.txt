@@ -55,59 +55,59 @@ il:l:   giillu, fiillu, (3)
 
 ihl:    máihledahkki (3)
 ihll:   máihlli (3)
-i:hm:   duihmi, duihmut (2)
-ihm:    duihmesorta
-ihmm:   duihmmiid (2)
-ihm:m:  duihmmi (2)
-i:hn:   čuihnut
-ihn:n:  čuihnnui
+i:hm:   duihmi, duihmut (3)
+ihm:    duihmesorta (3)
+ihmm:   duihmmiid (3)
+ihm:m:  duihmmi (3)
+i:hn:   čuihnut (3)
+ihn:n:  čuihnnui (3)
 
-i:p:    cuipát, cuipi, duipi, duipet
-ip:     fáiput, duipe-, cuipe-
-ipp:    fáippui, duippas, cuippas
-ip:p:   duippidit, cuippihit
+i:p:    cuipát, cuipi, duipi, duipet (3)
+ip:     fáiput, duipe-, cuipe- (3)
+ipp:    fáippui, duippas, cuippas (3)
+ip:p:   duippidit, cuippihit (3)
 
-i:r:    guoirudit, guoirat (2)
-ir:r:   guoirruhit
+i:r:    guoirudit, guoirat (3)
+ir:r:   guoirruhit (3)
 
-i:s:    nuoisulit, guoisut, nuoisut (1)
+i:s:    nuoisulit, guoisut, nuoisut (3)
 
-i:sk:   duiska, guiski
-iskk:   báiskki, beaiskku, duiskka (1)
-isk:k:  guiskki
+i:sk:   duiska, guiski (3)
+iskk:   báiskki, beaiskku, duiskka (3)
+isk:k:  guiskki (3)
 
-i:st:   luistet, goistet, (1)
-ist:    báiste, máistit
-istt:   máisttii, luisttat
+i:st:   luistet, goistet, (3)
+ist:    báiste, máistit (3)
+istt:   máisttii, luisttat (3)
 
-iv:v:   moivvi, moivváskit, ruivvi, 
-izz:   máizzai, máizzas
+iv:v:   moivvi, moivváskit, ruivvi, (3)
+izz:   máizzai, máizzas (3)
 
-ldn:    gáldnat, gáldnadit, suoldnečalbmi
-lnn:    gálnnai
-ln:n    suolnni (2)
+ldn:    gáldnat, gáldnadit, suoldnečalbmi (3)
+lnn:    gálnnai (3)
+ln:n    suolnni (3)
 
-lnnj/lŋŋ: goalŋŋai, alŋŋa (1)
-ln:nj/lŋ:ŋ: jalŋŋis
+lnnj/lŋŋ: goalŋŋai, alŋŋa (3)
+ln:nj/lŋ:ŋ: jalŋŋis (3)
 
 
-l:lj:   duollji, šillju, viellja, gallji (2)
+l:lj:   duollji, šillju, viellja, gallji (3)
 
-lb:     holberavda, galbarihcci, silbarávdi (1)
-lb:b:   holbbi, guolbbi
+lb:     holberavda, galbarihcci, silbarávdi (3)
+lb:b:   holbbi, guolbbi (3)
 
-l:c:    spalca, njoalci, culci, hilcu
-lc:     spalcamuotki, njoalcebivttas
-lc:c:   culcci, hilccu
+l:c:    spalca, njoalci, culci, hilcu (3)
+lc:     spalcamuotki, njoalcebivttas (3)
+lc:c:   culcci, hilccu (3)
 
-l:č:    čoalčát, šnjilča, vealči, čoalči, smilči
-lč:     šnjilčeborggit, čoalčejuolgi
-lčč:    čoalččas, čelččen, mulččehit
-lč:č:   smilčči
+l:č:    čoalčát, šnjilča, vealči, čoalči, smilči (3)
+lč:     šnjilčeborggit, čoalčejuolgi (3)
+lčč:    čoalččas, čelččen, mulččehit (3)
+lč:č:   smilčči (3)
 
-l:f:    spálfu, skuolfi, bolfát, bolfi
-lf:     bolfebeana, bolfeoaivi, skuolfeloddi, 
-lf:f    skuolffi, bolffi (2)
+l:f:    spálfu, skuolfi, bolfát, bolfi (3)
+lf:     bolfebeana, bolfeoaivi, skuolfeloddi, (3)
+lf:f    skuolffi, bolffi (3)
 
 lp:     stoalpodiagrámma, vuolpominsttar, vuolporássi
 
@@ -119,15 +119,17 @@ lš:š:   vuolšši, vuolššit, šulšši, vuolššui
 l:t:    boltut, filtet, vielti
 lt:t:   bolttun, bolttut, vielttis (1)
 
-l:ž:    skilži, buolža, skilžut, buolžái
+l:ž:    skilži, buolža, skilžut, buolžái (2)
 lž:ž:   skilžži
+l:sk    hilsku, hilsket
+lskk:   fálskkár
 
 m:b:    bumbá, rumbu
 mb:b:   bumbbá, rumbbu
-mp:p:   gimppu, gimppun
+mp:p:   gimppu, gimppun (1)
 
-m:s:    himsi, rimsi, romsa, himsasaddat (1)
-ms:     himsesorta, rimsobivttas, rámsoloavddo
+m:s:    himsi, rimsi, romsa, himsasaddat (2)
+ms:     himsesorta, rimsobivttas, rámsoloavddo (1)
 ms:s:   himssi, rimssi
 
 m:š:    rumšu
@@ -158,7 +160,7 @@ nčč:    rinčči, rinččun
 n:s:    linsa
 ns:     dánsut, balánsa, sekveansa (1)
 
-n:t:    prentet, ánte, lunta, kontu, gintala (1)
+n:t:    prentet, ánte, lunta, kontu, gintala (2)
 nt:t:   konttu, ginttál (1)
 n:z:    rinzi, šlinzi, runzi
 nz:     goanzi, leanzi, reanzi
@@ -170,7 +172,7 @@ nžž:    stánžži, steanžži, steanžžehit
 nž:ž:   bunžžuhit
 
 ŋ:k:    reŋko, faŋkut, faŋkát, boŋkit (2)
-ŋk:     beaŋka, báŋku, beaŋkaravda, báŋkokontu (2)
+ŋk:     beaŋka, báŋku, beaŋkaravda, báŋkokontu (3)
 ŋk:k:   boŋkkihit, bonkkuhit
 
 rt:n:   gortnit, girtnut, vuortnun (1)
@@ -224,7 +226,7 @@ rstt:   horsttat, kirstte
 
 t:m:    fitmat, (3)
 tmm:    fátmmastit, fátmi (1)
-s:p:    luspi, vispil, vispet
+s:p:    luspi, vispil, vispet (1)
 sp:     lusppi, bisppa
 š:m:    šušmi
 šmm:    šušmmi, lášmat, lášmmohallat (2) 
@@ -274,7 +276,7 @@ skr: skriidna, skrinet, skruvva
 gl: glássa, gluovva, glottála
 bl: bliánta, bláđeŧ, bláđđi
 br: bráhkka, breahtta, bronsa, bruvsa (2)
-dr: dronnet, drámá
+dr: dronnet, drámá (1)
 fl: flágga, flásku (2)
 kn: knáhppa, knáhppá, knihppet (2)
 
