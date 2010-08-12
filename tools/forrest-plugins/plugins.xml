@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!--
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<!DOCTYPE plugins [
+  <!ENTITY % links.att 'name CDATA #REQUIRED'>
+  <!ENTITY % link.att 'name CDATA #REQUIRED href CDATA #REQUIRED'>
+  <!ELEMENT plugins (plugin*)>
+  <!ATTLIST plugins type CDATA #REQUIRED>
+  <!ELEMENT plugin (description, forrestVersionInitial, forrestVersion)>
+  <!ATTLIST plugin name CDATA #REQUIRED
+                 type (input|output|internal) #REQUIRED
+                 url  CDATA #REQUIRED
+                 author CDATA #REQUIRED
+                 website CDATA #IMPLIED
+                 publish CDATA #IMPLIED
+                 version CDATA #IMPLIED>
+  <!ELEMENT description (#PCDATA)>
+  <!ELEMENT forrestVersionInitial (#PCDATA)>
+  <!ELEMENT forrestVersion (#PCDATA)>
+  ]>
+<plugins type="giellatekno">
+<!-- ================================================================== -->
+<!-- Input Plugins                                                      -->
+<!-- ================================================================== -->
+  <plugin name="no.divvun.forrest.plugin.input.proofingTestrResults"
+        type="input"
+        author="Divvun team @Sámi parliament"
+        website="http://forrest.apache.org/pluginDocs/plugins_0_80/org.apache.forrest.plugin.input.proofingTestrResults/"
+        url="http://forrest.apache.org/plugins/"
+        publish="false"
+        version="0.1">
+    <description>
+      Use Forrest to produce different types of reports based on the raw test data from the proofing tools test bench.
+    </description>
+    <forrestVersionInitial>0.9</forrestVersionInitial>
+    <forrestVersion>0.9</forrestVersion>
+  </plugin>
+  
+<!-- ================================================================== -->
+<!-- Output Plugins                                                     -->
+<!-- ================================================================== -->
+  <!--plugin name="org.apache.forrest.plugin.output.Anakia"
+        type="output"
+        author="Apache Forrest Project"
+        website="http://forrest.apache.org/pluginDocs/plugins_0_80/org.apache.forrest.plugin.output.Anakia/"
+        url="http://forrest.apache.org/plugins/"
+        publish="true"
+        version="0.2">
+    <description>
+      Produce output in Anakia-like "xdoc" format. Enables use of Forrest as a
+      tool for gathering input from various sources, and export a consistent
+      set of xml output documents.
+    </description>
+    <forrestVersionInitial>0.8</forrestVersionInitial>
+    <forrestVersion>0.8</forrestVersion>
+  </plugin-->
+
+<!-- ================================================================== -->
+<!-- Internal Plugins                                                   -->
+<!-- ================================================================== -->
+  <!--plugin name="org.apache.forrest.plugin.internal.DevTools"
+        type="internal"
+        author="Apache Forrest Project"
+        website="http://forrest.apache.org/pluginDocs/plugins_0_80/org.apache.forrest.plugin.internal.DevTools/"
+        url="http://forrest.apache.org/plugins/"
+        publish="false"
+        version="0.1">
+    <description>
+      Provides various tools that are useful during the development of your Forrest based content object.
+    </description>
+    <forrestVersionInitial>0.8</forrestVersionInitial>
+    <forrestVersion>0.8</forrestVersion>
+  </plugin-->
+</plugins>
