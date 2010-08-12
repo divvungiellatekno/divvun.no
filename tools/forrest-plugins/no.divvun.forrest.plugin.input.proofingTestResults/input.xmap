@@ -18,9 +18,9 @@
 <map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
   <map:pipelines>
     <map:pipeline>
-      <map:match pattern="**.xml">
+      <map:match pattern="**.*.xml">
         <map:generate src="{lm:project.{1}.xml}" />
-        <map:transform src="{lm:tei.transform.tei.document}" />
+        <map:transform src="{lm:divvun.transform.prooftest.{2}}" />
         <map:serialize type="xml-document"/>
       </map:match>
     </map:pipeline>
