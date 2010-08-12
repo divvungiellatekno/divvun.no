@@ -36,7 +36,7 @@
 <!-- ================================================================== -->
 <!-- Input Plugins                                                      -->
 <!-- ================================================================== -->
-  <plugin name="no.divvun.forrest.plugin.input.proofingTestrResults"
+  <plugin name="no.divvun.forrest.plugin.input.proofingTestResults"
         type="input"
         author="Divvun team @Sámi parliament"
         website="http://forrest.apache.org/pluginDocs/plugins_0_80/org.apache.forrest.plugin.input.proofingTestrResults/"
