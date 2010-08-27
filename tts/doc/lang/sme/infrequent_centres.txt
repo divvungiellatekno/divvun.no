@@ -199,92 +199,110 @@ rz:     birzediŋga (3)
 rzz:    birzziid bárzziid, birzzas, birzzet (3)
 rz:z:   birzzi, birzzit (3)
 
-r:č:    skurču,hárči, hárčát, dirči
-rč:     dirčediŋga, morčesuotna
-rčč:    hárčči, hárččui, (2)
-rč:č:   skurčču, vuorččis, dirčči
-r:ž:    gárži, gorži, guoržu
-rž:     goržeráigge
-ržž:    gáržžádus, gáržžášit (1)
-rž:ž:   goržži, guoržžu (1)
+r:č:    skurču,hárči, hárčát, dirči (3)
+rč:     dirčediŋga, morčesuotna (3)
+rčč:    hárčči, hárččui, (3)
+rč:č:   skurčču, vuorččis, dirčči (3)
+r:ž:    gárži, gorži, guoržu (3)
+rž:     gorženiski (3)
+ržž:    gáržžádus, gáržžášit (3)
+rž:ž:   goržži, guoržžu (3)
 
 rd:d:   sirddášit, sirddán, murddán (3)
-rf:f:   lurffi, lurffuhit, darffit (1)
+rf:f:   lurffi, lurffuhit, darffit (3)
 rk:k:   nurkkis, nurkkit, vuorkkás (3)
-rp:     soarpečáhci, árporulla
-rp:p:   gurppun, gurpput, gurppi
+rp:     soarpečáhci, árporulla (3)
+rp:p:   gurppun, gurpput, gurppi (3)
 
-rs:s:   jurssán, jurssát, (2)
-r:š:    boršut, buršasa, duorši, duoršu (1)
-rš:     buršemánná, duoršočivga
-ršš:    burššas, duorššagit, duorššas
-rš:š:   borššui, borššu, duoršši, duorššu (1)
+rs:s:   jurssán, jurssát, (3)
+r:š:    boršut, buršasa, duorši, duoršu (3)
+rš:     buršemánná, duoršočivga (3)
+ršš:    burššas, duorššagit, duorššas (3)
+rš:š:   borššui, borššu, duoršši, duorššu (3)
 
-rt:     čurtebuvssat, jortamovra, nuortasuopman (1)
-rt:t:   fierttut, gurtti, virttis (2)
+rt:     čurtebuvssat, jortamovra, nuortasuopman (3)
+rt:t:   fierttut, gurtti, virttis (3)
 
-rsk:    herskobiebmu,herskostallat, dorskebivdu (2)
-rskk:   herskkot (1)
+rsk:    herskobiebmu,herskostallat, dorskebivdu (4)
+rskk:   herskkot (3)
 
 r:st:   horsta, kirste (3)
-rst:    horstaseahkka (1)
+rst:    horstaseahkka (3)
 rstt:   horsttat, kirstte (3)
 
 t:m:    fitmat, (3)
-tmm:    fátmmastit, fátmi (1)
-s:p:    luspi, vispil, vispet (1)
-sp:     lusppi, bisppa
-š:m:    šušmi
-šmm:    šušmmi, lášmat, lášmmohallat (2) 
-št:     meaštir, 
+tmm:    fátmmastit, fátmi (3)
+s:p:    luspi, vispil, vispet (3)
+sp:     lusppi, bisppa (3)
+š:m:    šušmi, došmi (3)
+šmm:    šušmmi, lášmat, lášmmohallat (3) 
+št:     meaštir, (3)
 
-š:v:    gišvarasmáhtu
-šv:     gišvvardit
+š:v:    gišvarasmáhtu (3)
+šv:     gišvvardit (3)
 
-vn:nj:  savnnján, savnnját, suovnnji
+vn:nj:  savnnján, savnnját, suovnnji (3)
 
-vg:g:   šlivggun, šlivggui, šluvggán (1)
+vg:g:   šlivggun, šlivggui, šluvggán (3)
 
-v:hl:   čivhli, skoavhli, guvhli (2)
-vhl:    čivhle-, guvhlegállu, skoavhle
-vhll:   skoavhlli, skoavhllagit (1)
-vhl:l:  guvhlli, guvhllár, čivhllit
+v:hl:   čivhli, skoavhli, guvhli (3)
+vhl:    čivhle-, guvhlegállu, skoavhle (3)
+vhll:   skoavhlli, skoavhllagit (3)
+vhl:l:  guvhlli, guvhllár, čivhllit (3)
 
-v:p:    lovpet, lovpár
-v:z:    livzi, rivzi
-vz:z:   livzzi, rivzzi, civzza
-vž:ž:   livžžui, livžžádit
+v:p:    lovpet, lovpár (3)
+v:z:    givzat, guovzat (3)
+vz:z:   livzzi, rivzzi, livzzistit (3)
+vž:ž:   livžžui, livžžádit (3)
 
-v:sk:   livsku, luvsku
-vsk:    hávski, heavskái (1)
-vskk:   hávskkui
-vsk:k:  livskku, luvskku
-v:st:   hevste, hevstet
-vst:    návstu
+v:sk:   livsku, luvsku (3)
+vsk:    hávski, heavskái (3)
+vskk:   hávskkui, heavskkálaš (3)
+vsk:k:  livskku, luvskku (3)
+v:st:   hevste, hevstet (3)
+vst:    návstu (3)
 
-kc:     lákcagáhkku, 
-vc:c    ovccis (2)
+kc:     lákcagáhkku, (3)
+vc:c    ovccis (3)
 
-
-kst:    teakstabihttá, tákstareive (2)
+k:st:   tekstet, tekstii (3)
+kst:    teakstabihttá, tákstareive (3)
 
 ŧŧ:     ruoŧŧa, muoŧŧá, ruŧŧii, muoŧŧái (3)
-ŧ:ŧ:    muoŧ:ŧái
+ŧ:ŧ:    muoŧ:ŧái (3)
 
 
 Infrequent onsets:
 
-snj: rare, only in some dialects
-sl:
-sr:
-
-skr: skriidna, skrinet, skruvva
-gl: glássa, gluovva, glottála
-bl: bliánta, bláđeŧ, bláđđi
+sr: srubistit, srukta, sroba (3)
+sv: Svein, Sválla (3)
+skr: skriidna, skrinet, skruvva (3)
+gl: glássa, gluovva, glottála (3)
+gn: gneaisa (3)
+bl: bliánta, bláđet, bláđđi (3)
 br: bráhkka, breahtta, bronsa, bruvsa (3)
-dr: dronnet, drámá (1)
-fl: flágga, flásku (2)
-kn: knáhppa, knáhppá, knihppet (2)
+dr: dronnet, drámá (3)
+fl: flágga, flásku (3)
+kn: knáhppa, knáhppá, knihppet, kneakta (3)
+
+Clusters in the Consonant margin:
+
+st: bonjastit, oamastit: more than 3
+ld: buđalit, oaivvildit: more than 3
+sk: dájáskit, ealáskit, ovttaskas: more than 3
+lm: mihtilmas, vuorddálmas, čájálmas: 3
+lv: buozalvas:
+lg: jámalgit
+št: beroštit, gáđaštit
+rm: ?
+rd: guokkardit
+rs: vuobirsat
+jm:manaimet, viegaimet
+jd:bohccuidan, mánáidan, gižaidit
+jg: mánáiguin
+jn:mánáinan
+jst: guoldduistit
+sm: boarásmit, hejosmit
 
 
 
