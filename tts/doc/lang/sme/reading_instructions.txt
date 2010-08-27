@@ -27,11 +27,21 @@ t-clusters:         gotka vs. goaski, fátmi vs. leasmi
 voiced nasal clusters:  eadni vs. eatni
 ŧ:                      muoŧŧá vs. guossa
 
+Notice also the difference between muoŧŧái (to maternal aunt) and muoŧ'ŧái (having many maternal aunts). They are spelt the same way, but pronounced differently. Anticipating some disambiguation in the future, we should maintain the difference in reading. 'Muoŧ'ŧái' is the only word with QIII quantity of 'ŧ'.
+
 (This leaves one neutralization, velar vs. coronal nasal clusters. I don't think it is realistic to expect speakers to be able pronounce the velar clusters while at the same time maintaining good reading fluency.)
 
 #Choice of words
-Some words have been chosen because they contain infrequent consonant centres. One example is 'gieđbmi - gieđmmi'. The variant used in Guovdageaidnu is 'gievdni - gievnni'. To ensure enough occurernces of 'đbm-đmm', 'gieđbmi' is used in the text, and must not be replaced by 'gievdni'. 
+Some words have been chosen because they contain infrequent consonant centres. One example is 'gieđbmi - gieđmmi'. The variant used in Guovdageaidnu is 'gievdni - gievnni'. To ensure enough occurences of 'đbm-đmm', 'gieđbmi' is used in the text, and must not be replaced by 'gievdni'. 
 Another one is 'guđju'. It shoud not be read as 'gulju'. 
 
-The texts have been adapted to Guovdageaidnu reading, so he few 'alien' things remaining, should be read as they are written.
+Some words are represented with all their different consonant centres: 
+'bispa' and 'bisma' are both used in the texts, and should be read as written, to ensure enough occurrences of 'sp' and 'sm'.
+The word for cloth can be pronounced in a number of ways, all of which are represented in the text, 'limsku' 'livsku' and 'linsku'. These should be read as they are written. All the consonant centres are infrequent and occur in few words.
+
+Onsets:
+Certain onsets are typical of the Eastern dialects, such as 'gl-'. The word 'glássa' is 'láse' in Guovdageaidnu. However, in order to ensure enough occurrences of 'gl' in onset position, 'glása' occurs in the text and should be reas as it is written. Other words are 'flágga' and 'flásku'.
+The onset  'sr-', is rare in the Guovdageaidni dialect. In the text, some words will occur with these onsets, such as 'sroba', and srubistit (šlubistit in Guovdag.), and the words should be pronounced as written.
+
+The texts have been adapted to Guovdageaidnu reading, so the few 'alien' things remaining, should be read as they are written.
 
