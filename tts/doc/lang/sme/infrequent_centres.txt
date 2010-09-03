@@ -288,21 +288,28 @@ kn: knáhppa, knáhppá, knihppet, kneakta (3)
 Clusters in the Consonant margin:
 
 st: bonjastit, oamastit: more than 3
-ld: buđalit, oaivvildit: more than 3
+ld: buđaldit, oaivvildit: more than 3
 sk: dájáskit, ealáskit, ovttaskas: more than 3
 lm: mihtilmas, vuorddálmas, čájálmas: 3
 lv: buozalvas:
-lg: jámalgit
-št: beroštit, gáđaštit
-rm: ?
-rd: guokkardit
+lg: jámalgit, gájálgit, deanjalgit
+št: beroštit, gáđaštit, mátkkoštit (more than 3)
+rd: guokkardit, bulljardit, mulljardit, vizardit (more than 3)
 rs: vuobirsat
-jm:manaimet, viegaimet
-jd:bohccuidan, mánáidan, gižaidit
-jg: mánáiguin
-jn:mánáinan
+jm:manaimet, viegaimet (more than 3)
+jd:bohccuidan, mánáidan, gižaidit (more than 3)
+jg: mánáiguin, boraiga: (more than 3)
+jn:mánáinan (2)
 jst: guoldduistit
 sm: boarásmit, hejosmit
+sl: dievaslaš
+šl: bearašlaš, 
+tl: heahpatlaš, ustitlaš, geavatlaš
+
+Clusters in Word final position:
+
+jn: more than 3
+jŧ: more than 3
 
 
 
