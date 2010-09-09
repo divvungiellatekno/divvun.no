@@ -285,31 +285,36 @@ dr: dronnet, drámá (3)
 fl: flágga, flásku (3)
 kn: knáhppa, knáhppá, knihppet, kneakta (3)
 
+sl: variant of šl-, not represented in text
+snj: variant of šnj-, not represented in text
+
 Clusters in the Consonant margin:
 
 st: bonjastit, oamastit: more than 3
 ld: buđaldit, oaivvildit: more than 3
 sk: dájáskit, ealáskit, ovttaskas: more than 3
 lm: mihtilmas, vuorddálmas, čájálmas: 3
-lv: buozalvas:
-lg: jámalgit, gájálgit, deanjalgit
+lv: buozalvas: (mentioned in KN)
+lg: jámálgit, gájálgit, deanjalgit (3)
 št: beroštit, gáđaštit, mátkkoštit (more than 3)
 rd: guokkardit, bulljardit, mulljardit, vizardit (more than 3)
 rs: vuobirsat
 jm:manaimet, viegaimet (more than 3)
 jd:bohccuidan, mánáidan, gižaidit (more than 3)
 jg: mánáiguin, boraiga: (more than 3)
-jn:mánáinan (2)
-jst: guoldduistit
-sm: boarásmit, hejosmit
-sl: dievaslaš
-šl: bearašlaš, 
-tl: heahpatlaš, ustitlaš, geavatlaš
+jn:mánáinan, muitalusainis (3)
+sm: boarásmit, hejosmit (3)
+sl: dievaslaš, ollislaš (3)
+šl: bearašlaš, dárbbašlaš, dearvvašlaš (more than 3)
+tl: heahpatlaš, ustitlaš, geavatlaš (3)
+rm: sihkarmit, ealjármit (constructed for this purpose) (2)
+
+jst: guoldduistit (variant of guolddustit) - not represented in text
 
 Clusters in Word final position:
 
 jn: more than 3
-jŧ: more than 3
+jt: more than 3
 
 
 
