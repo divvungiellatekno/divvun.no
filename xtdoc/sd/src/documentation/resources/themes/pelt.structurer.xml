@@ -29,59 +29,7 @@
   </forrest:structure>
 <!-- CSS View of the request e.g. index.dispatcher.css -->
   <forrest:structure type="css" hooksXpath="/">
-    <forrest:contract name="branding-theme-profiler">
-      <forrest:properties contract="branding-theme-profiler">
-        <forrest:property name="branding-theme-profiler-theme">
-          Pelt</forrest:property>
-        <forrest:property name="branding-theme-profiler">
-          <!-- Color group: Forrest: example colors similar to forrest.apache.org
-    Some of the element names are obscure, so comments are added to show how
-    the "pelt" theme uses them, other themes might use these elements in a different way.
-    Tip: temporarily change the value of an element to red (#ff0000) and see the effect.
-     pelt: breadtrail: the strip at the top of the page and the second strip under the tabs
-     pelt: header: top strip containing project and group logos
-     pelt: heading|subheading: section headings within the content
-     pelt: navstrip: the strip under the tabs which contains the published date
-     pelt: menu: the left-hand navigation panel
-     pelt: toolbox: the selected menu item
-     pelt: border: line border around selected menu item
-     pelt: searchbox: the background of the searchbox
-     pelt: body: any remaining parts, e.g. the bottom of the page
-     pelt: footer: the second from bottom strip containing credit logos and published date
-     pelt: feedback: the optional bottom strip containing feedback link
--->
-
-          <!-- Color group: pelt -->
-          
-    <color name="breadtrail" value="#CFDCED" font="#0F3660" link="#0F3660" vlink="#0F3660" hlink="#000066"/>
-    <color name="header" value="#FFFFFF"/>
-    <color name="tab-selected" value="#4A6D8C" link="#FFFFFF" vlink="#FFFFFF" hlink="#FFFFFF"/>
-    <color name="tab-unselected" value="#CFDCED"/>
-    <color name="subtab-selected" value="#4A6D8C"/>
-    <color name="subtab-unselected" value="#CFDCED"/>
-    <color name="heading" value="#CFDCED"/>
-    <color name="subheading" value="#CFDCED"/>
-    <color name="published" value="#4A6D8C" font="#FFFFFF"/>
-    <color name="feedback" value="#4A6D8C" font="#FFFFFF" align="center"/>
-    <color name="navstrip" value="#4A6D8C" font="#FFFFFF" link="#0F3660" vlink="#0F3660" hlink="#000066"/>
-    <color name="menu" value="#4A6D8C" font="#CFDCED" link="#FFFFFF" vlink="#FFFFFF" hlink="#FFCF00"/>    
-    <color name="toolbox" value="#CFDCED"/>
-    <color name="border" value="#999999"/>
-    <color name="dialog" value="#4A6D8C"/>
-    <color name="searchbox" value="#4A6D8C" font="#000000"/>
-    <color name="body" value="#FFFFFF" link="#0F3660" vlink="#009999" hlink="#000066"/>
-    <color name="table" value="#7099C5"/>    
-    <color name="table-cell" value="#F0F0FF"/>    
-    <color name="highlight" value="#FFFF00"/>
-    <color name="fixme" value="#CC6600"/>
-    <color name="note" value="#006699"/>
-    <color name="warning" value="#990000"/>
-    <color name="code" value="#CFDCED"/>
-    <color name="footer" value="#CEDFEF"/>
-
-        </forrest:property>
-      </forrest:properties>
-    </forrest:contract>
+    <jx:import uri="cocoon://prepare.panels.common-fo" />
   </forrest:structure>
   <!-- HTML View of the request (e.g. index.html)-->
   <forrest:structure type="html" hooksXpath="/html/body">
