@@ -15,13 +15,13 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<forrest:views xmlns:forrest="http://apache.org/forrest/templates/1.0" 
+<forrest:structurer xmlns:forrest="http://apache.org/forrest/templates/1.0" 
   xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
   <!-- The following variables are used to contact data models and/or contracts. -->
   <jx:set var="getRequest" value="#{$cocoon/parameters/getRequest}"/>
   <jx:set var="getRequestExtension" value="#{$cocoon/parameters/getRequestExtension}" />
   <!-- CSS View of the request e.g. index.dispatcher.css -->
-  <forrest:view type="css" hooksXpath="/">
+  <forrest:structure type="css" hooksXpath="/">
     <forrest:contract name="branding-theme-profiler">
       <forrest:properties contract="branding-theme-profiler">
         <forrest:property name="branding-theme-profiler-theme">
@@ -80,9 +80,9 @@ hlink="#000066"/>
         </forrest:property>
       </forrest:properties>
     </forrest:contract>
-  </forrest:view>
+  </forrest:structure>
   <!-- HTML View of the request (e.g. index.html)-->
-  <forrest:view type="html" hooksXpath="/html/body">
+  <forrest:structure type="html" hooksXpath="/html/body">
     <!-- 
         @type defines this structurer to html.
         @hooksXpath defines where all hooks will be injected (as prefix).
@@ -186,13 +186,6 @@ dt {
 
 .error {
   background-color: red;
-}
-
-#truenegatives {
-  border-top: thick solid gray;
-  border-bottom: thick solid gray;
-  padding-top: 2px;
-  padding-bottom: 2px;
 }
 
 </css>
@@ -407,5 +400,5 @@ provider="google"/>
   </forrest:contract>
       </forrest:hook>
     </forrest:hook>
-  </forrest:view>
-</forrest:views>
+  </forrest:structure>
+</forrest:structurer>
