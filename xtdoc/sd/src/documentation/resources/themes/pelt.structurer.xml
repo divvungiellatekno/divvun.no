@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<forrest:views xmlns:forrest="http://apache.org/forrest/templates/1.0" 
+<forrest:structurer xmlns:forrest="http://apache.org/forrest/templates/1.0" 
   xmlns:jx="http://apache.org/cocoon/templates/jx/1.0"
   jx:cache-key="#{$cocoon/parameters/getRequest}" 
   jx:cache-validity="${Packages.org.apache.excalibur.source.impl.validity.NOPValidity()}">
@@ -23,11 +23,12 @@
   <jx:set var="contextPath" value="#{$cocoon/parameters/contextPath}"/>
   <jx:set var="getRequest" value="#{$cocoon/parameters/getRequest}"/>
   <jx:set var="getRequestExtension" value="#{$cocoon/parameters/getRequestExtension}" />
-  <forrest:view type="fo" hooksXpath="/">
+  <!-- FO View of the request (e.g. index.fo, usually further processed to pdf)-->
+  <forrest:structure type="fo" hooksXpath="/">
     <jx:import uri="cocoon://prepare.panels.common-fo"/>
-  </forrest:view>
+  </forrest:structure>
 <!-- CSS View of the request e.g. index.dispatcher.css -->
-  <forrest:view type="css" hooksXpath="/">
+  <forrest:structure type="css" hooksXpath="/">
     <forrest:contract name="branding-theme-profiler">
       <forrest:properties contract="branding-theme-profiler">
         <forrest:property name="branding-theme-profiler-theme">
@@ -81,9 +82,9 @@
         </forrest:property>
       </forrest:properties>
     </forrest:contract>
-  </forrest:view>
+  </forrest:structure>
   <!-- HTML View of the request (e.g. index.html)-->
-  <forrest:view type="html" hooksXpath="/html/body">
+  <forrest:structure type="html" hooksXpath="/html/body">
     <!-- 
         @type defines this structurer to html.
         @hooksXpath defines where all hooks will be injected (as prefix).
@@ -386,5 +387,5 @@ provider="google"/>
   </forrest:contract>
       </forrest:hook>
     </forrest:hook>
-  </forrest:view>
-</forrest:views>
+  </forrest:structure>
+</forrest:structurer>
