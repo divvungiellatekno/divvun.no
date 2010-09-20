@@ -171,22 +171,22 @@ table caption {
 #header .round-top-left-small {
   background-repeat: no-repeat;
   background-position: top left;
-  background-image: url(../themes/images/roundcorner-t-l-5-bg294563-stroke4A6D8C-fg4A6D8C.png);
+  background-image: url(../themes/images/roundcorner-t-l-5-bgFFFFFF-stroke4A6D8C-fg4A6D8C.png);
   } 
 #header .round-top-right-small {
   background-repeat: no-repeat;
   background-position: top right;
-  background-image: url(../themes/images/roundcorner-t-r-5-bg294563-stroke4A6D8C-fg4A6D8C.png);
+  background-image: url(../themes/images/roundcorner-t-r-5-bgFFFFFF-stroke4A6D8C-fg4A6D8C.png);
   }
 .round-bottom-left-small {
   background-repeat: no-repeat;
   background-position: bottom left;
-  background-image: url(../themes/images/roundcorner-b-l-5-bg294563-stroke4A6D8C-fg4A6D8C.png);
+  background-image: url(../themes/images/roundcorner-b-l-5-bgFFFFFF-stroke4A6D8C-fg4A6D8C.png);
   } 
 .round-bottom-right-small {
   background-repeat: no-repeat;
   background-position: bottom right;
-  background-image: url(../themes/images/roundcorner-b-r-5-bg294563-stroke4A6D8C-fg4A6D8C.png);
+  background-image: url(../themes/images/roundcorner-b-r-5-bgFFFFFF-stroke4A6D8C-fg4A6D8C.png);
   }
 .round-bottom-left-big {
   background-repeat: no-repeat;
@@ -215,7 +215,7 @@ table caption {
 
 #nav-main li {
     float: left;
-    background-image: url(../themes/images/roundcorner-t-r-5-bg294563-strokeB5C7E7-fgB5C7E7.png);
+    background-image: url(../themes/images/roundcorner-t-r-5-bgFFFFFF-strokeB5C7E7-fgB5C7E7.png);
     background-repeat: no-repeat;
     background-position: top right;
     background-color: #B5C7E7;
@@ -230,7 +230,7 @@ table caption {
     text-decoration: none;
     color: black;
     white-space: nowrap;
-    background-image: url(../themes/images/roundcorner-t-l-5-bg294563-strokeB5C7E7-fgB5C7E7.png);
+    background-image: url(../themes/images/roundcorner-t-l-5-bgFFFFFF-strokeB5C7E7-fgB5C7E7.png);
     background-repeat: no-repeat;
     background-position: top left;
     padding: 5px 15px 4px;
@@ -248,7 +248,7 @@ table caption {
 
 #nav-main .current {
     background-color: #4A6D8C;
-    background-image: url(../themes/images/roundcorner-t-r-5-bg294563-stroke4A6D8C-fg4A6D8C.png);
+    background-image: url(../themes/images/roundcorner-t-r-5-bgFFFFFF-stroke4A6D8C-fg4A6D8C.png);
     background-repeat: no-repeat;
     background-position: top right;
 }
@@ -256,7 +256,7 @@ table caption {
     font-weight: bold;
     padding-bottom: 5px;
     color: #000000;
-    background-image: url(../themes/images/roundcorner-t-l-5-bg294563-stroke4A6D8C-fg4A6D8C.png);
+    background-image: url(../themes/images/roundcorner-t-l-5-bgFFFFFF-stroke4A6D8C-fg4A6D8C.png);
     background-repeat: no-repeat;
     background-position: top left;
 }
