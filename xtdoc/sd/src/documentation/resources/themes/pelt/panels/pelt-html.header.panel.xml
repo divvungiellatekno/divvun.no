@@ -17,12 +17,12 @@
 -->
 <forrest:template xmlns:forrest="http://apache.org/forrest/templates/1.0"
 xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
-  <forrest:contract name="branding-breadcrumbs">
+    <forrest:contract name="branding-breadcrumbs">
     <forrest:property name="branding-breadcrumbs">
-      <trail>
-        <link1 name="MyGroup" href="http://www.apache.org/" />
-        <link2 name="MyProject" href="http://forrest.apache.org/" />
-      </trail>
+        <trail>
+        <link1 name="Sámediggi" href="http://www.samediggi.no/"/>
+        <link2 name="Divvun" href="http://www.divvun.no/"/>
+        </trail>
     </forrest:property>
   </forrest:contract>
   <forrest:hook name="header">
@@ -34,25 +34,18 @@ xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
     </forrest:contract>
     <forrest:hook class="logo">
       <forrest:contract name="branding-logo">
-        <forrest:property name="branding-logo-name">MyGroup</forrest:property>
-        <forrest:property name="branding-logo-description">MyGroup
-        Description</forrest:property>
-        <forrest:property name="branding-logo-url">
-        http://example.org/</forrest:property>
-        <forrest:property name="branding-logo-logo">
-        images/group.png</forrest:property>
+        <forrest:property name="branding-logo-name">Sámediggi</forrest:property>
+        <forrest:property name="branding-logo-description">The Norwegian Sámi Parliament</forrest:property>
+        <forrest:property name="branding-logo-url">http://www.samediggi.no/</forrest:property>
+        <forrest:property name="branding-logo-logo">images/menu.png</forrest:property>
       </forrest:contract>
     </forrest:hook>
     <forrest:hook class="logo">
       <forrest:contract name="branding-logo">
-        <forrest:property name="branding-logo-name">
-        MyProject</forrest:property>
-        <forrest:property name="branding-logo-description">MyProject
-        Description</forrest:property>
-        <forrest:property name="branding-logo-url">
-        http://example.org/myproj/</forrest:property>
-        <forrest:property name="branding-logo-logo">
-        project-logo.png</forrest:property>
+        <forrest:property name="branding-logo-name">Divvun - Sámi Proofing</forrest:property>
+        <forrest:property name="branding-logo-description">Sámi Proofing Tools Project</forrest:property>
+        <forrest:property name="branding-logo-url">http://www.divvun.no/</forrest:property>
+        <forrest:property name="branding-logo-logo">images/divvun.png</forrest:property>
       </forrest:contract>
     </forrest:hook>
     <jx:import uri="cocoon://prepare.panels.pelt-html.nav-main" />

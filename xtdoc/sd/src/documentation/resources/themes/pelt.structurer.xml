@@ -39,63 +39,7 @@
         @hooksXpath defines where all hooks will be injected (as prefix).
         -->
     <forrest:hook name="container">
-      <forrest:contract name="branding-breadcrumbs">
-        <forrest:property name="branding-breadcrumbs">
-          <trail>
-            <link1 name="Sámediggi" href="http://www.samediggi.no/"/>
-            <link2 name="Divvun" href="http://www.divvun.no/"/>
-          </trail>
-        </forrest:property>
-      </forrest:contract>
-      <forrest:hook name="header">
-        <forrest:contract name="branding-tagline">
-          <forrest:property name="branding-tagline-name">new 
-            seed</forrest:property>
-          <forrest:property name="branding-tagline-tagline">powered by the 
-            dispatcher</forrest:property>
-        </forrest:contract>
-        <forrest:hook class="logo">
-          <forrest:contract name="branding-logo">
-            <forrest:property name="branding-logo-name">
-              Sámediggi</forrest:property>
-            <forrest:property name="branding-logo-description">The Norwegian
-             Sámi Parliament</forrest:property>
-            <forrest:property name="branding-logo-url">
-              http://www.samediggi.no/</forrest:property>
-            <forrest:property name="branding-logo-logo">
-              images/menu.png</forrest:property>
-          </forrest:contract>
-        </forrest:hook>
-        <forrest:hook class="logo">
-          <forrest:contract name="branding-logo">
-            <forrest:property name="branding-logo-name">
-              Divvun - Sámi Proofing</forrest:property>
-            <forrest:property name="branding-logo-description">Sámi Proofing
-             Tools Project</forrest:property>
-            <forrest:property name="branding-logo-url">
-              http://www.divvun.no/</forrest:property>
-            <forrest:property name="branding-logo-logo">
-              images/divvun.png</forrest:property>
-          </forrest:contract>
-        </forrest:hook>
-        <!-- -->
-        <forrest:contract name="search-input">
-          <forrest:property name="input-size">22</forrest:property>
-          <forrest:property name="search-input">
-            <search name="divvun" domain="http://www.divvun.no/"
-provider="google"/>
-          </forrest:property>
-        </forrest:contract>
-        <forrest:hook name="nav-main-hook">
-          <forrest:contract name="nav-main" 
-            dataURI="cocoon://#{$getRequest}.navigation.xml"/>
-          <forrest:hook name="publishedStrip" nbsp="true">
-            <forrest:contract name="nav-main-sub" 
-              dataURI="cocoon://#{$getRequest}.navigation.xml"/>
-            <forrest:contract name="siteinfo-last-published"/>
-          </forrest:hook>
-        </forrest:hook>
-      </forrest:hook>
+      <jx:import uri="cocoon://prepare.panels.pelt-html.header" />
       <forrest:hook name="page">
         <forrest:hook class="breadtrail" nbsp="true" />
         <!--<forrest:contract name="branding-breadcrumbs">
