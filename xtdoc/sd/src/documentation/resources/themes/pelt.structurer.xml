@@ -29,7 +29,7 @@
   </forrest:structure>
 <!-- CSS View of the request e.g. index.dispatcher.css -->
   <forrest:structure type="css" hooksXpath="/">
-    <jx:import uri="cocoon://prepare.panels.common-fo" />
+    <jx:import uri="cocoon://prepare.panels.pelt-css" />
   </forrest:structure>
   <!-- HTML View of the request (e.g. index.html)-->
   <forrest:structure type="html" hooksXpath="/html/body">
