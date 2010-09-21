@@ -22,14 +22,15 @@ xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
             <forrest:property name="nav-section-toc" nugget="get.tov">
                 <jx:import uri="cocoon://#{$cocoon/parameters/getRequest}.toc.xml"/>
             </forrest:property>
-            <forrest:property name="expanding">true</forrest:property>
+            <forrest:property name="expanding">false</forrest:property>
                 <!--<forrest:property name="toc" max-depth="2"/>-->
             </forrest:contract>
             <!-- <forrest:contract name="genericMarkup">
                 <forrest:property name="genericMarkup">
                     <hr/>
                 </forrest:property>
-            </forrest:contract>-->
+            </forrest:contract>
+            -->
             <!-- <forrest:contract name="search-input">
                 <forrest:property name="input-size">18</forrest:property>
                 <forrest:property name="search-input">
@@ -39,7 +40,7 @@ xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
             <forrest:contract name="siteinfo-credits">
                 <forrest:property name="box-location">credit</forrest:property>
                 <forrest:property name="top-separator">true</forrest:property>
-                <!--<forrest:property name="siteinfo-credits">
+                <forrest:property name="siteinfo-credits">
                     <credits>
                         <credit>
                             <name>Built with Apache Forrest</name>
@@ -49,7 +50,7 @@ xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
                             <height>31</height>
                         </credit>
                     </credits>
-                </forrest:property>-->
+                </forrest:property>
             </forrest:contract>
             <!-- <forrest:contract name="genericMarkup">
                 <forrest:property name="genericMarkup">
