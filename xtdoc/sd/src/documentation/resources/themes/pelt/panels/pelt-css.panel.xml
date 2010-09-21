@@ -21,19 +21,19 @@ xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
     <forrest:properties contract="branding-theme-profiler">
       <forrest:property name="branding-theme-profiler-theme">Pelt</forrest:property>
       <forrest:property name="branding-theme-profiler">
-        <color name="breadtrail" value="#CFDCED" font="#0F3660" link="#0F3660" vlink="#0F3660" hlink="#000066"/>
+        <color name="breadtrail" value="#BBC7D6" font="#0F3660" link="#0F3660" vlink="#0F3660" hlink="#000066"/>
         <color name="header" value="#FFFFFF"/>
         <color name="tab-selected" value="#4A6D8C" link="#FFFFFF" vlink="#FFFFFF" hlink="#FFFFFF"/>
-        <color name="tab-unselected" value="#CFDCED"/>
+        <color name="tab-unselected" value="#BBC7D6"/>
         <color name="subtab-selected" value="#4A6D8C"/>
-        <color name="subtab-unselected" value="#CFDCED"/>
-        <color name="heading" value="#CFDCED"/>
-        <color name="subheading" value="#CFDCED"/>
+        <color name="subtab-unselected" value="#BBC7D6"/>
+        <color name="heading" value="#BBC7D6"/>
+        <color name="subheading" value="#BBC7D6"/>
         <color name="published" value="#4A6D8C" font="#FFFFFF"/>
         <color name="feedback" value="#4A6D8C" font="#FFFFFF" align="center"/>
         <color name="navstrip" value="#4A6D8C" font="#FFFFFF" link="#0F3660" vlink="#0F3660" hlink="#000066"/>
-        <color name="menu" value="#4A6D8C" font="#CFDCED" link="#FFFFFF" vlink="#FFFFFF" hlink="#FFCF00"/>
-        <color name="toolbox" value="#CFDCED"/>
+        <color name="menu" value="#4A6D8C" font="#BBC7D6" link="#FFFFFF" vlink="#FFFFFF" hlink="#FFCF00"/>
+        <color name="toolbox" value="#BBC7D6"/>
         <color name="border" value="#999999"/>
         <color name="dialog" value="#4A6D8C"/>
         <color name="searchbox" value="#4A6D8C" font="#000000"/>
@@ -44,7 +44,7 @@ xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
         <color name="fixme" value="#CC6600"/>
         <color name="note" value="#006699"/>
         <color name="warning" value="#990000"/>
-        <color name="code" value="#CFDCED"/>
+        <color name="code" value="#BBC7D6"/>
         <color name="footer" value="#CEDFEF"/>
 
       </forrest:property>
