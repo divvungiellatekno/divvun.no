@@ -6,7 +6,7 @@
    <header>
       <title>Hfst speller files</title>
       <subtitle>Specification for an hfst-based speller lexicon file format</subtitle>
-      <version>0.1</version>
+      <version>0.2</version>
    </header>
    <body>
       <p>This document specifies the different parts of a speller lexicon file format to be used together with an
@@ -24,14 +24,19 @@
          <p>This format has several benefits: the deliverable is one binary, it is easily extendable with more content
          without breaking backwards compatibility (at least with some planning ahead), and support for this format
          should be easy to find both as open-source and closed-source if one doesn't want to do it oneself.</p>
+         <p>The excact specification of allowable zip archive options within this specification will be added later.</p>
          <section>
             <title>File naming convention</title>
             <p>The default file name for the zip file is:</p>
-            <source>LOCALE.zhfst</source>
+            <source>LOCALE-spl.zhfst</source>
             <p>where</p>
             <dl>
                <dt><code>LOCALE</code></dt>
-               <dd>specifies the locale for which the speller lexicon is meant to be used for, following BCP 47</dd>
+               <dd>specifies the locale for which the speller lexicon is meant to be used for, following BCP 47; this
+               would also include the use of private use subtags for specifying e.g. domains for specialised spellers,
+               e.g <code>-x-legal</code>.</dd>
+               <dt><code>-spl</code></dt>
+               <dd>indicates that this is an archive for spelling purposes</dd>
                <dt><code>zhfst</code></dt>
                <dd>indicates a zipped collection of (mostly) hfst files</dd>
             </dl>
