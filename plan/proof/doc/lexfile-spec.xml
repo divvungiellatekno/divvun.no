@@ -24,7 +24,9 @@
          <p>This format has several benefits: the deliverable is one binary, it is easily extendable with more content
          without breaking backwards compatibility (at least with some planning ahead), and support for this format
          should be easy to find both as open-source and closed-source if one doesn't want to do it oneself.</p>
-         <p>The excact specification of allowable zip archive options within this specification will be added later.</p>
+         <p>The ZIP file must not be encrypted and it must be compatible with to ZIP format version 2.0 as defined by
+         PKWare application note 6.2.0: <a
+         href="http://www.pkware.com/support/application-note-archives">http://www.pkware.com/support/application-note-archives</a>.</p>
          <section>
             <title>File naming convention</title>
             <p>The default file name for the zip file is:</p>
@@ -40,41 +42,67 @@
                <dt><code>zhfst</code></dt>
                <dd>indicates a zipped collection of (mostly) hfst files</dd>
             </dl>
+            <p>Examples:</p>
+            <ul>
+               <li><code>se-spl.zhfst</code> (North Sámi speller lexicon, all geographies)</li>
+               <li><code>fi-x-legal-spl.zhfst</code> (Finnish legal terms speller lexicon, all geographies)</li>
+               <li><code>fi-SE-spl.zhfst</code> (speller lexicon for Finnish as used in Sweden)</li>
+            </ul>
          </section>
          <section>
             <title>Exceptions to file naming conventions</title>
             <p>There might be application-specific or even plattform-specific reasons to not follow the locale
             convention above, cases where the plattform or the host application prescribes a different naming
-            conventions. Only when such naming conventions are mandatory should the naming convention described in this
-            document be deviated from. In all other cases the file naming convention described above should be
-            followed.</p>
+            conventions. The filenaming convention is only a recommendation, but care should be taken to make sure the
+            filename is reasonably informative within the limits of external requirements, and in one way or another
+            convey the information in the three parts above (ie locale, that it is a speller, and that the content is
+            hfst-based).</p>
          </section>
       </section>
       <section>
          <title>Zip file content - file naming conentions of contained files</title>
          <p>The zip archive should contain the following files:</p>
          <source>index.xml
-LOCALE.hfst
-errmodel1.hfst
-errmodel2.hfst
-...
-errmodeln.hfst</source>
+acceptor.hfst
+acceptor.analyser.hfst
+acceptor.DESCR.hfst
+errmodel.hfst
+errmodel.ocr.hfst
+errmodel.DESCR.hfst</source>
          <p>where</p>
          <dl>
             <dt><code>index.xml</code></dt>
-            <dd>is a simple xml file (structure described below) giving details about the rest of the zip file
-            content.</dd>
-            <dt><code>LOCALE.hfst</code></dt>
-            <dd>is the acceptance transducer; filename as for the zip file, although there are NO exceptions to the
-            filename convention for this file (ie it MUST follow BCP 47). The transducer can either be a one-level or a
-            two-level transducer; if it is a two-level transducer, the other level must produce analyses of the correct
-            words or the accepted suggestions produced by the error models, and the fact that it is a two-level
-            transducer producing analyses must be expressed in the <code>index.xml</code> file's description of this
-            file. It is an error to archive an analysing speller transducer without stating so in the
-            <code>index.xml</code> file.</dd>
-            <dt><code>errmodel1.hfst...errmodeln.hfst</code></dt>
-            <dd>is one or more transducers containing spelling error corrections ("error models") for the speller.</dd>
+            <dd>is a simple xml file (structure described below) giving details about the rest of the zip file content.
+            REQUIRED.</dd>
+            <dt><code>acceptor.hfst</code></dt>
+            <dd>is the default acceptance transducer. The transducer can either be a one-level or a two-level
+            transducer; if it is a two-level transducer, the other level must produce analyses of the correct words or
+            the accepted suggestions produced by the error models, and the fact that it is a two-level transducer
+            producing analyses must be expressed in the <code>index.xml</code> file's description of this file. It is an
+            error to archive an analysing speller transducer without stating so in the <code>index.xml</code>
+            file.<br/>At least one acceptor transducer is REQUIRED. Whether this is the default or a more specific
+            transducer (see next) depends on the use case.</dd>
+            <dt><code>acceptor.DESCR.hfst</code></dt>
+            <dd>is one or more optional, additional acceptor files. Such acceptor files can be an analysing acceptor
+            file (if the default one is non-analysing), it can be additional specialised terminology, or whatever seems
+            appropriate in each use case. <strong>DESCR</strong> should be a short, preferably one-word description of
+            the lexicon. If the archive is a distribution of a specialised terminology speller, this transducer might be
+            the only transducer in the archive.<br/>At least one such transducer is REQUIRED if no default acceptor
+            transducer is present.</dd>
+            <dt><code>errmodel.hfst</code></dt>
+            <dd>is the default transducer containing spelling error corrections ("error models") for the speller.
+            Although usually recommended, such a default error model is not required. OPTIONAL.</dd>
+            <dt><code>errmodel.DESCR.hfst</code></dt>
+            <dd>is one or more additional transducers containing spelling error corrections ("error models") for the
+            speller. OPTIONAL.</dd>
          </dl>
+         <p>The basic idea is that by just using the defaults and the file naming convention described above, it would
+         be possible to perform spell checking for the requested language without further work, e.g. without the XML
+         machinery needed to process the <code>index.xml</code> file (but that file is still required for an archive to
+         be in accordance with this specification).</p>
+         <p>The absolute minimal content in a zhfst archive is thus:</p>
+         <source>index.xml
+acceptor.hfst -OR- acceptor.DESCR.hfst</source>
       </section>
       <section>
          <title>Structure of <code>index.xml</code></title>
@@ -83,6 +111,7 @@ errmodeln.hfst</source>
          <source>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;hfstspeller version="1.0"&gt;
     &lt;info&gt;
+        &lt;locale&gt;se&lt;/locale&gt;
         &lt;title&gt;Davvisámegiela divvunxxx&lt;/title&gt;
         &lt;title xml:lang="nn"&gt;Nordsamisk stavekontroll&lt;/title&gt;
         &lt;title xml:lang="en"&gt;North Sámi speller&lt;/title&gt;
