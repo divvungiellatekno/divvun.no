@@ -61,12 +61,10 @@
       </section>
       <section>
          <title>Zip file content - file naming conentions of contained files</title>
-         <p>The zip archive should contain the following files:</p>
+         <p>The zip archive should contain files as follows (not all required, see below):</p>
          <source>index.xml
-acceptor.hfst
-acceptor.analyser.hfst
+acceptor.default.hfst
 acceptor.DESCR.hfst
-errmodel.hfst
 errmodel.ocr.hfst
 errmodel.DESCR.hfst</source>
          <p>where</p>
@@ -74,32 +72,31 @@ errmodel.DESCR.hfst</source>
             <dt><code>index.xml</code></dt>
             <dd>is a simple xml file (structure described below) giving details about the rest of the zip file content.
             REQUIRED.</dd>
-            <dt><code>acceptor.hfst</code></dt>
-            <dd>is the default acceptance transducer. The transducer can either be a one-level or a two-level
+            <dt><code>acceptor.DESCR.hfst</code></dt>
+            <dd><p>is one or more acceptor transducers. A transducer can either be a one-level or a two-level
             transducer; if it is a two-level transducer, the other level must produce analyses of the correct words or
             the accepted suggestions produced by the error models, and the fact that it is a two-level transducer
             producing analyses must be expressed in the <code>index.xml</code> file's description of this file. It is an
-            error to archive an analysing speller transducer without stating so in the <code>index.xml</code>
-            file.<br/>At least one acceptor transducer is REQUIRED. Whether this is the default or a more specific
-            transducer (see next) depends on the use case.</dd>
-            <dt><code>acceptor.DESCR.hfst</code></dt>
-            <dd>is one or more optional, additional acceptor files. Such acceptor files can be an analysing acceptor
-            file (if the default one is non-analysing), it can be additional specialised terminology, or whatever seems
-            appropriate in each use case. <strong>DESCR</strong> should be a short, preferably one-word description of
-            the lexicon. If the archive is a distribution of a specialised terminology speller, this transducer might be
-            the only transducer in the archive.<br/>At least one such transducer is REQUIRED if no default acceptor
-            transducer is present.</dd>
-            <dt><code>errmodel.hfst</code></dt>
-            <dd>is the default transducer containing spelling error corrections ("error models") for the speller.
-            Although usually recommended, such a default error model is not required. OPTIONAL.</dd>
+            error to provide an analysing speller transducer without stating so in the <code>index.xml</code>
+            file.</p><p>The filename <code>acceptor.default.hfst</code> is reserved for the default acceptor in case
+            there are multiple acceptors (for implementations or situations where the acceptor to be used can not be
+            determined at runtime).</p><p>Additional acceptor files can be analysing acceptors (if the default one is
+            non-analysing), or they can be additional specialised terminology, or whatever seems appropriate in each use
+            case. <strong>DESCR</strong> should be a short, preferably one-word description of the lexicon. If the
+            archive is a distribution of a specialised terminology speller, this transducer may be the only transducer
+            in the archive.</p><p>It would also be possible to indicate if an acceptor is analysing by using an
+            <code>anl.</code> infix before the filename suffix, like <code>acceptor.default.anl.hfst</code>. This option
+            is left open at the moment, and subject to feedback from implementors.</p><p>At least one acceptor is
+            REQUIRED.</p></dd>
             <dt><code>errmodel.DESCR.hfst</code></dt>
-            <dd>is one or more additional transducers containing spelling error corrections ("error models") for the
-            speller. OPTIONAL.</dd>
+            <dd>is zero or more error model transducers containing spelling error corrections ("error models") for the
+            speller. The reserved filename <code>errmodel.default.hfst</code> is to be used as the fallback error model
+            if an implementation is not able to otherwise choose which one to use. OPTIONAL.</dd>
          </dl>
-         <p>The basic idea is that by just using the defaults and the file naming convention described above, it would
-         be possible to perform spell checking for the requested language without further work, e.g. without the XML
-         machinery needed to process the <code>index.xml</code> file (but that file is still required for an archive to
-         be in accordance with this specification).</p>
+         <p>The basic idea is that by just using the defaults and the file naming convention described above (ie
+         conveying the intended locale), it would be possible to perform spell checking for the requested language
+         without further work, e.g. without the XML machinery needed to process the <code>index.xml</code> file (but
+         that file is still required for an archive to be in accordance with this specification).</p>
          <p>The absolute minimal content in a zhfst archive is thus:</p>
          <source>index.xml
 acceptor.hfst -OR- acceptor.DESCR.hfst</source>
@@ -150,7 +147,7 @@ acceptor.hfst -OR- acceptor.DESCR.hfst</source>
     &lt;/errmodel&gt;
 &lt;/hfstspeller&gt;</source>
          <p>This corresponds to the following DTD:</p>
-         <source>&lt;!ELEMENT hfstspeller (info, acceptor, errmodel+)&gt;
+         <source>&lt;!ELEMENT hfstspeller (info, acceptor+, errmodel*)&gt;
 &lt;!ATTLIST hfstspeller 
   version  CDATA #IMPLIED
   &gt;
@@ -203,8 +200,8 @@ acceptor.hfst -OR- acceptor.DESCR.hfst</source>
             by the host application, f.ex. in a user interface to present the speller, or in an interface element where
             correction models can be chosen.</dd>
             <dt>errmodel</dt>
-            <dd>at least one is required; each specified corresponds to a transducer with the filename given in the
-            <code>id</code> attribute.</dd>
+            <dd>optional; each specified corresponds to a transducer with the filename given in the <code>id</code>
+            attribute.</dd>
             <dt>id</dt>
             <dd>is the name of the transducer file in the zip archive</dd>
             <dt>vcsrev</dt>
@@ -213,7 +210,7 @@ acceptor.hfst -OR- acceptor.DESCR.hfst</source>
       </section>
       <section>
          <title>Acceptance transducer</title>
-         <p>The default acceptance transducer is a one-level automaton, weighted. All complying implementations must
+         <p>The default acceptance transducer is a weighted, one-level automaton. All complying implementations must
          support this.</p>
          <p>It is also possible to use a two-level, weighted analysing transducer. The analysis output could be used to
          support concext-based filtering of suggestions (ie only present suggestions with a POS that fits in the given
@@ -224,17 +221,18 @@ acceptor.hfst -OR- acceptor.DESCR.hfst</source>
       </section>
       <section>
          <title>Error model transducers</title>
-         <p>At least one error model transducer must be present. It is an error for the archive not to contain a
-         transducer file named <code>errmodel1.hfst</code>.</p>
-         <p>The behaviour when there are multiple error models included is at present undefined, and subject to feedback
-         from implementors. Possible options are:</p>
-         <ul>
-            <li>only apply one at a time, at the users choice through a user configuration interface</li>
+         <p>There can be zero or more error models in the zhfst archive. There is one reserved error model filename:
+         <code>errmodel.default.hfst</code> (see further below). The behaviour when there are multiple error models
+         included is at present undefined, and subject to feedback from implementors. Possible options are at least:</p>
+         <ol>
+            <li>only apply one at a time, at the user's choice through a user configuration interface</li>
+            <li>apply a subset of the error models, at the user's choice; all selected error models are applied
+            together, as if they were joined (in the fst sense of the word)</li>
             <li>apply all the requested error models together, as if they were joined</li>
-         </ul>
+         </ol>
          <p>Supporting multiple error models is optional. An implementation that does not support more than one error
-         model must use the error model named <code>errmodel1.hfst</code>, and silently ignore the other error models
-         when opening a speller file containing multiple error models.</p>
+         model must use the default error model named <code>errmodel.default.hfst</code>, and silently ignore the other
+         error models when opening a speller file containing multiple error models.</p>
       </section>
    </body>
 </document>
