@@ -214,7 +214,9 @@ acceptor.hfst -OR- acceptor.DESCR.hfst</source>
             <dd>this is the version of the hfst header in the transducer files, can be used for compatibility testing
             during initialisation</dd>
             <dt>locale</dt>
-            <dd>the locale of the transducer(s) in the archive, following BCP47.</dd>
+            <dd>the locale of the transducer(s) in the archive, following BCP47. If there is any conflict between locale
+            in the filename of the archive and the value of this element, the value in this element takes
+            precedence.</dd>
             <dt>title, description</dt>
             <dd>at least one is required, which corresponds to the locale of the speller lexicon; no xml:lang attribute
             is required for this one; an unlimited number of additional elements can be added, each with its own unique
