@@ -212,7 +212,8 @@ acceptor.hfst -OR- acceptor.DESCR.hfst</source>
             initialisation</dd>
             <dt>@hfstversion of hfstspeller</dt>
             <dd>this is the version of the hfst header in the transducer files, can be used for compatibility testing
-            during initialisation</dd>
+            during initialisation. The only version accepted at the moment is version 3, the latest major version of the
+            HFST tools.</dd>
             <dt>locale</dt>
             <dd>the locale of the transducer(s) in the archive, following BCP47. If there is any conflict between locale
             in the filename of the archive and the value of this element, the value in this element takes
@@ -250,8 +251,8 @@ acceptor.hfst -OR- acceptor.DESCR.hfst</source>
          speller zip archive.</p>
          <p>There can be more than one accepting transducer in the archive. Usually there should be one general-language
          transducer, and possibly one or more specialised transducers, but if an archive is meant to just complement an
-         existing installation, only specialised transducers could be specified as well.</p>
-         <p>The acceptor transducers must include a HFST 3 or newer metadata header.</p>
+         existing installation, only specialised transducers could be included.</p>
+         <p>The acceptor transducers must include a HFST 3 metadata header.</p>
       </section>
       <section>
          <title>Error model transducers</title>
@@ -267,7 +268,7 @@ acceptor.hfst -OR- acceptor.DESCR.hfst</source>
          <p>Supporting multiple error models is optional. An implementation that does not support more than one error
          model must use the default error model named <code>errmodel.default.hfst</code>, and silently ignore the other
          error models when opening a speller archive containing multiple error models.</p>
-         <p>The error model transducers must include a HFST 3 or newer metadata header.</p>
+         <p>The error model transducers must include a HFST 3 metadata header.</p>
       </section>
    </body>
 </document>
