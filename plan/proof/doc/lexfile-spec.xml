@@ -251,23 +251,23 @@ acceptor.hfst -OR- acceptor.DESCR.hfst</source>
          <p>There can be more than one accepting transducer in the archive. Usually there should be one general-language
          transducer, and possibly one or more specialised transducers, but if an archive is meant to just complement an
          existing installation, only specialised transducers could be specified as well.</p>
-         <p>The acceptor transducers must include a HFST 3 metadata header.</p>
+         <p>The acceptor transducers must include a HFST 3 or newer metadata header.</p>
       </section>
       <section>
          <title>Error model transducers</title>
          <p>There can be zero or more error models in the zhfst archive. There is one reserved error model filename:
          <code>errmodel.default.hfst</code> (see further below). The behaviour when there are multiple error models
          included is at present undefined, and subject to feedback from implementors. Possible options are at least:</p>
-         <ol>
+         <ul>
             <li>only apply one at a time, at the user's choice through a user configuration interface</li>
             <li>apply a subset of the error models, at the user's choice; all selected error models are applied
             together, as if they were joined (in the fst sense of the word)</li>
             <li>apply all the requested error models together, as if they were joined</li>
-         </ol>
+         </ul>
          <p>Supporting multiple error models is optional. An implementation that does not support more than one error
          model must use the default error model named <code>errmodel.default.hfst</code>, and silently ignore the other
          error models when opening a speller archive containing multiple error models.</p>
-         <p>The error model transducers must include a HFST 3 metadata header.</p>
+         <p>The error model transducers must include a HFST 3 or newer metadata header.</p>
       </section>
    </body>
 </document>
