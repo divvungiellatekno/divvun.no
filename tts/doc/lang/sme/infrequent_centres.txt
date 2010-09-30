@@ -294,11 +294,11 @@ st: bonjastit, oamastit: more than 3
 ld: buđaldit, oaivvildit: more than 3
 sk: dájáskit, ealáskit, ovttaskas: more than 3
 lm: mihtilmas, vuorddálmas, čájálmas: 3
-lv: buozalvas: (mentioned in KN)
+lv: buozalvas: (mentioned in KN): (3)
 lg: jámálgit, gájálgit, deanjalgit (3)
 št: beroštit, gáđaštit, mátkkoštit (more than 3)
 rd: guokkardit, bulljardit, mulljardit, vizardit (more than 3)
-rs: vuobirsat
+rs: vuobirsat (3)
 jm:manaimet, viegaimet (more than 3)
 jd:bohccuidan, mánáidan, gižaidit (more than 3)
 jg: mánáiguin, boraiga: (more than 3)
@@ -307,7 +307,7 @@ sm: boarásmit, hejosmit (3)
 sl: dievaslaš, ollislaš (3)
 šl: bearašlaš, dárbbašlaš, dearvvašlaš (more than 3)
 tl: heahpatlaš, ustitlaš, geavatlaš (3)
-rm: sihkarmit, ealjármit (constructed for this purpose) (2)
+rm: sihkarmit, ealjármit (constructed for this purpose) (3)
 
 jst: guoldduistit (variant of guolddustit) - not represented in text
 
@@ -315,6 +315,7 @@ Clusters in Word final position:
 
 jn: more than 3
 jt: more than 3
+rs: vuobirs (3)
 
 
 
