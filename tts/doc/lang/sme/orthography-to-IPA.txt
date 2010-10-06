@@ -1,23 +1,26 @@
 From orthography to phonology - some unresolved issues
 
-The North Sámi orthography does not represent certain features:
+The North Sámi orthography does not represent/differentiate between certain features:
 
 #allegro shortening
 #difference between long and short geminates, QIII vs QII
 #difference between long and short monophthongs
 #difference between long and short diphthongs
 #consonants within the foot and between two consecutive feet
+#monosyllabic word and particle written together vs. disyllabic words
 
 ALLEGRO SHORTENING
 Words with long latus vowels can be allegro shortened. This means (disyllabic) words with final vowel /ii/, /aa/ and /uu/. These vowels shorten to /e/, /a/ and /o/ respectively. 
 
 Some of this shortening is 'represented' in the orthography, specifically shortening of /ii/ and /uu/ to /e/ and /o/. When these monophthongs are preceded by diphthongs, we know the words are in allegro form, and that the diphthongs will be shorter tha usual. This is because original /e/ and /o/ always lead to diphthong simplification. /a/ is problematic, because there is also an original short /a/ which does not lead to diphthong shortening:
 /ŏasta/ vs /poasta/.
+NOTE: Rule for allegro shortening of diphthongs before /e/ and /o/ is already made. 
+NOTE: I am not sure that allegro shortening of orthographic á to a will be a problem. After having looked at what Divvun accepts, and what is common in some dictionaries, the shortening from á to a is not regular. In fact, in most cases there is no shortening at all. There is siessábealle, muoŧŧábealle, mánnáčuolbma. 
 
-Morphological tags can solve this. Here are some rules for allegro shortening:
-Compounds: when modifier component is in nom.sg:boastabiila: pŏastapij:la
-present tense connegatives: in oađe: in ŏađe
-2sg imperative: oađe: ŏađe
+Morphological tags can solve allegro shortening problem with /a/. We need morphological tags anyway to have allegroshortening when monophthongs are in the vowel centre. Some consonant centres shorten from QIII to QII. Notice also that in allegro-shortening environments, certain rules should not apply, such as latus lengthening. So we need these tags to block rules from applying. Here are some rules for allegro shortening:
+Compounds: when modifier component is in nom.sg:gohppolahkki: kohpolah:kii
+present tense connegatives: in loga: in loka (with latus lengthening: in lokaa)
+2sg imperative: loga: loka (with latus lengthening: lokaa)  
 
 
 GEMINATES
@@ -54,8 +57,8 @@ Monophthongs that stem from diphthongs are short before QIII.
 The first and third rule are not problematic, we have that already, since monophthongs are represented as short everywhere.
 
 We get long monophthongs in these environments:
-before latus /o/
-before latus /e/
+before latus /o/ (except when o is allegroshortened)
+before latus /e/  (except when e is allegroshortened)
 before latus+finis /ij/
 before /uj/ in illative singular
 (There are also some -uj adjectives with diphthong simplification, but these are all QIII, so the monophthong is short anyway.)
@@ -74,7 +77,10 @@ Biđđit - moai biđđe:   /piđđe/
 There are same kind of problems with /ij/:
 Biđđit - son biđii: /piđij/
 Diehtit - son diđii:/diiđij/
+Boahtit - son bođii: /poođij/
+Gođđit - son gođii: /kođij/
 
+Loanwords from Norwegian, with a long monophthong in the centre, should be marked somehow. For instance 'toga', now we have "toga:" (with latus lengthening, bad). We want 'to:ga'.
 
 DIPHTHONGS
 The difference between short and long diphthongs is determined phonologically, so we already have rules for these:
@@ -83,7 +89,7 @@ define DiphthongShorteningIIIGr: diphthongs shorten before QIII
 define DiphthongShorteningSecLng: diphthongs shorten after secondary lengthening
 define DiphthongShorteningAllegro: diphthongs shorten in allegro forms
 
-(Some modifications are needed, for example to make the first rule recognize all QIII:s, and to make the last rule not apply to demonstratives+question particle, such as 'duogo', and other similar constructions. The last rule only recognizes allegro forms with /e/ and /o/ in the latus, but not forms with /a/ in the latus).
+(Some modifications are needed, for example to make the first rule recognize all QIII:s, and to make the last rule not apply to demonstratives+question particle, such as 'duogo', and other similar constructions. The last rule only recognizes allegro forms with /e/ and /o/ in the latus, but not forms with /a/ in the latus.) 
 
 
 POSITIONS
@@ -113,7 +119,16 @@ Finis: word final consonants
 
 The centre (vowel and consonant centre) is richest in contrast, whereas the other positions are more restricted. For example, diphthongs can only occur in the vowel centre, and not in the other vowel positions. Certain consonant clusters can only occur in the consonant centre, such as preglottalized nasals (orthographically tn, dn, bm, pm, kŋ, gŋ, dnj, tnj). The segmental restrictions of the other positions could be used to identify the centre correctly in many cases, such as in vilbealli and máilbmi.
 
+We could base this on stress, since stress always leads to a new stress group with a new centre.
+One rule could be: dipthongs attract stress.
+All diphthongs in a word create a new stressgroup, and therefore a new vowel and  consonant centre. This would take care of the 'vilbealli'-type words.
+Another rule could be: consonant centres of the type.... must be preceded by a stressed vowel (primary or secondary). This would take care of the 'máilbmi'-type.
 
 
+#MONOSYLLABIC WORD AND PARTICLE
 
+The problem with positions and diphthongs also extends to monosyllabic words. When they are written together with a particle, they look like disyllabic words. Our converter will interpret these as disyllabic, and give them a consonant centre. This is obviously bad, because what looks like a consonant centre is actually finis+initium. In adition to that, several rules might apply, such as allegro shortening.  The sentence 'In dovdda geange' is now transcribed as: 
+in toβtː.tɑː kĕæŋŋ.ke. 
+We want the converter to recognize the allegro-shortening environment after the negation, and to recognize the monosyllabic pronoun and particle -ge. We want 'in toβt.tɑ keæn ke'.
 
+Sometimes latuslengthening also applies, as in the sentence 'Miiba de': mijː.pɑː te. Compare with 'mii ba de': mij pɑ te.
