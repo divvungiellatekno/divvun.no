@@ -73,6 +73,4 @@ X, x: eaks      /ĕaks/
 Z, z : ezz /edts/, ezza /ed:tsa/
 Ž, ž: ežž  /edtʃ/, ežža /ed:tʃa/
 
-#The implementation of letter to word rules will have some consequences for our grapheme to IPA rules. As it is now, we do not differentiate between initial voiceless unaspirates and voiceless aspirated. However, to differentiate between b and p, we will have to have rules for that: /pee/ and /phee/, /tee/ and /thee/. 
-
 #Á, á is problematic, because the well-known words 'guhkes a' and 'čuvges a' refer to phonetic characteristics in two main dialects. 'guhkes a' will mean nothing to people from eastern Finnmark. The 'akseanta a' for á is dialect neutral, although it might be less known and less used than the two others.  We will have to look in real texts what kind of realization this letter should have. The 'akseanta-a' seems to be appropriate in texts about IT-stuff. However, in abbreviations, it is possible that only 'aa' is natural. 
