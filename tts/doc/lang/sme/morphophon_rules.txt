@@ -1,0 +1,107 @@
+Morphophonological rules to decide:
+
+#allegro shortening environments
+#long and short geminates, QIII vs QII
+#long and short monophthongs
+#difference between long and short diphthongs
+#consonants within the foot and between two consecutive feet
+#monosyllabic word and particle written together vs. disyllabic words
+
+ALLEGRO SHORTENING ENVIRONMENTS
+Words with long latus vowels can be allegro shortened. This means (disyllabic) words with final vowel /ii/, /aa/ and /uu/. These vowels shorten to /e/, /a/ and /o/ respectively. 
+
+Morphological environments for allegro shortening:
+For disyllabic verbs:
+present tense connegative: in loga ->in loka (now we have /in lokaa/ with latus lengthening.
+2sg imperative: loga -> loka (we have /lokaa/)
+(contracted and trisyllabic verbs do not have allegro shortening)
+Compund nouns: sometimes first part is shortened. The rules for á-a shortening are not clear. Suggestion: let orthography decide. If /e/ or /o/ in latus, and diphthong in centre, then allegro. Otherwise, largo.
+
+We already have allegro shortening for diphthongs preceding /e/ and /o/. We need morphological tags to have allegroshortening when monophthongs are in the vowel centre, because allegro shortening in some cases shortens consonants, as well. Some consonant centres shorten from QIII to QII. In allegro-shortening environments, certain rules should not apply, such as latus lengthening and secondary lengthening. So we need these tags to block rules from applying.  
+
+Example: orthographic form 'čolgga' receives several analyses:
+
+čolgga	čolga+N+Sg+Gen
+čolgga	čolga+N+Sg+Acc
+čolgga	čolgat+V+TV+VGen
+čolgga	čolgat+V+TV+Imprt+ConNeg
+čolgga	čolgat+V+TV+Imprt+Sg2
+čolgga	čolgat+V+TV+Ind+Prs+ConNeg
+
+The three topmost analyses are not allegro shortening environments, so latus lengthening and secondary lengthening apply: 
+
+/tʃolkː.kɑː/
+
+The rest are all allegro shortening environments, and this shortening should block other rules: /tʃolk.kɑ/.
+
+LONG AND SHORT GEMINATES
+While long and short clusters are differentiated in orthography, long geminates are written with two letters, exactly like short geminates:
+
+orthographic        phonological
+Guossi.nom.sg        /kuos:sii/
+Guossi.acc.sg        /kuossii/
+guossa.nom.sg        /kuossa/
+
+Today we do not have QIII geminates in the transcriptions at all (geminates that alternate with identical geminates in weak grade.). QIII and QII are only differentiated when there is a difference in the orthography. 
+
+Possible tags:
+
+- Stem class: contracted verbs are always QIII: 
+besset.inf: /pes:seht/ vs besset.1pl.present: /peesseht/ - beassat
+This means verbs with-e, -o or -á in the latus.
+Note that this means only when the centre is a geminate. Words like 'málet' are obviously QI.
+
+- Passive formation: o-passives are always QIII
+borrot.inf: /por:roht/ vs borrot.1pl.imp: /porroht/
+gullot. inf /kul:loht/ vs gullot.1pl.imp: /kulloht/
+borrojuvvot: /por:rojuv:voht/
+This is just a special case of the stem class rule.
+
+- Present participle: Present participles are always QIII
+borri.PrsPrc: /por:rii/
+
+- Imperative: 1du and 2du are always QIII: borru: /por:ruu/ borri: /por:rii/
+
+-Contracted nouns, QIII everywhere, except nominative singular and essive:
+sullo /sul:lo/.
+
+Problems: Nouns and verbs with QIII strong grade, such as 'vuoššat' and 'golli'
+
+vuoššat.inf /vuoš:šaht/ vs vuoššat.2sg.present /vuoššaht/
+golli.nom.sg /kol:lii/ vs golli.acc.sg /kollii/
+
+In lexicon, G3 is specified for nouns. When G3 + Nom.sg, ill.sg or essive, then QIII.
+G3 is not specified for verbs, since it has not been necessary so far. 
+
+There is also a rule called Primary lengthening that we have not implemented:
+Strong grade short geminates lengthen to QIII between short monophthongs in the vowel centre and long vowels in the latus. This can be doen with out morphology/lexicon. 
+
+LONG AND SHORT MONOPHTHONGS
+Monophthongs that stem from diphthong simplification are long before QII and QII. 
+
+Diphthong simplification environments:
+before latus /o/ (except when o is allegroshortened)
+before latus /e/  (except when e is allegroshortened)
+before latus+finis /ij/ or orthographic ii
+before /uj/ in illative singular
+(There are also some -uj adjectives with diphthong simplification, but these are all QIII, so the monophthong is short anyway.)
+
+A monophthong /i, o, e, u/ before /e/, /o/ and /ij/, and illative /uj/ can thus be a monophthongized diphthong. If it is, it will be long before QI and QII consonant centre. The monophthong could be a simplified diphthong or an orginal monophthong. Check out the -at and -it verbs:
+
+oađđit - mun ođđen /oođđen/
+gođđit - mun gođđen: /kođđen/
+dan dihte:          /tihte/
+diehtit - moai dihte /tiihte/
+Biđđit - son biđii: /piđij/
+Diehtit - son diđii:/diiđij/
+Goahti - gođiid: /koođiiht/
+Gođđit - son gođii: /kođij/
+
+Some orthographic forms are also ambiguous between two readings. To differentiate, we need to use the same disambiguation as in translations:
+
+moai sohpe: /soohpe/ from soahpat and /sohpe/ from sohpat
+moai biđđe: /piiđđe/ from bieđđat and /piđđe/ from biđđit
+
+Loanwords from Norwegian:
+Norwegian monosyllabic words with long vowel and short consonant are represented with a long monophthong in the centre. They should be marked somehow. For instance 'toga', now we have "toga:" (with latus lengthening, bad). We want 'to:ga'. (Note: Short vowel + long consonant is represented as QIII: buss: /bus:se/, penn: /phen:na/)
+
