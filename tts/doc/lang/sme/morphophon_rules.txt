@@ -3,8 +3,6 @@ Morphophonological rules to decide:
 #allegro shortening environments
 #long and short geminates, QIII vs QII
 #long and short monophthongs
-#difference between long and short diphthongs
-#consonants within the foot and between two consecutive feet
 #monosyllabic word and particle written together vs. disyllabic words
 
 ALLEGRO SHORTENING ENVIRONMENTS
@@ -103,5 +101,39 @@ moai sohpe: /soohpe/ from soahpat and /sohpe/ from sohpat
 moai biđđe: /piiđđe/ from bieđđat and /piđđe/ from biđđit
 
 Loanwords from Norwegian:
-Norwegian monosyllabic words with long vowel and short consonant are represented with a long monophthong in the centre. They should be marked somehow. For instance 'toga', now we have "toga:" (with latus lengthening, bad). We want 'to:ga'. (Note: Short vowel + long consonant is represented as QIII: buss: /bus:se/, penn: /phen:na/)
+Norwegian monosyllabic words with long vowel and short consonant are represented with a long monophthong in the centre. They should be marked somehow. For instance 'toga', now we have "thoga:" (with latus lengthening, bad). We want 'tho:ga'. (Note: Short vowel + long consonant is represented as QIII: buss: /bus:se/, penn: /phen:na/). We might also want /tho:ga:/ from Norwegian 'toga'. 
+
+
+#MONOSYLLABIC WORD AND PARTICLE
+
+When monosyllabic words are written together with a particle, they look like disyllabic words. Our converter will interpret these as disyllabic, and give them a consonant centre. This is obviously bad, because what looks like a consonant centre is actually finis+initium. In adition to that, several rules might apply, such as allegro shortening.  The sentence 'In dovdda geange' is now transcribed as: 
+in toβtː.tɑː kĕæŋŋ.ke. 
+We want the converter to recognize the allegro-shortening environment after the negation, and to recognize the monosyllabic pronoun and particle -ge. We want 'in toβt.tɑ keæn ke'.
+
+Now latuslengthening also applies to the particle, as in the sentence 'Miiba de': mijː.pɑː te. Compare with separate pronoun and particle 'mii ba de': mij pɑ te.
+
+manatgo: /ma.naat.go/     /manat go: ma.naah ko/
+
+Many particles end with e or o, thus creating a potential allegro shortening environment. 
+We have different transcriptions of 'moaige' and 'moai ge':
+/mŏɑjː.ke/ vs. /moɑj ke/
+
+
+
+#MISCELLANEOUS
+
+Some small, but important, words are not subject to usual phonological rules.
+Oba, not subject to latus lengthening: /o.pa/ not /o.paa/
+oppa, not subject to latus lengthening, or secondary lenghthening: /op.pa/ not /op.paa/. (unlike the noun oppas, which is correctly /op:paas/.
+
+Once allegro shortening of consonants is up an running, certain words that are originally allegro, are now largo: mielde, and guokte. They have diphthong + e, allegro shortening environment. The consonant centre should be QIII, still.
+
+Movt, govt and nuvt do not have t -> h word finally. We now have /movh/, /kovh/ and /nuvh/. We want /movht, kovht and nuvht/. The /movh, kovh and nuvh/ pronunciation can work utterance internally but not utterance finally. Perhaps the best thing to do is to have t ->ht apply utterance finally or to words in isolation, and t ->h word finally elsewhere. This has already been pointed out by Helsinki.
+
+orthographic 'vuodjá' has two pronunciations:
+/vuoccaa/ if 3sg of /vuodjat/
+/vuoc:caa/ if 3sg of /vuodjit/
+
+This means that secondary lengthening does not apply to first, even though it meets the environment description. The application of the rule instead looks into the latus vowel of the infinitive, which is short. (Extremely interesting (morpho)phonologically, I could go on an on about it, but hopefully there is a practical solution to this).
+
 
