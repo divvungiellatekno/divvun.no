@@ -100,6 +100,13 @@ Some orthographic forms are also ambiguous between two readings. To differentiat
 moai sohpe: /soohpe/ from soahpat and /sohpe/ from sohpat
 moai biđđe: /piiđđe/ from bieđđat and /piđđe/ from biđđit
 
+Derived words:
+Some derived words have long monophthongs throughout their paradigm, and no diphthong anywhere:
+
+firon /fiiron/, from 'fierrut'
+doron /tooron/, from 'doarrut'
+geso /keeso/, another form of 'geaŧŧu'
+
 Loanwords from Norwegian:
 Norwegian monosyllabic words with long vowel and short consonant are represented with a long monophthong in the centre. They should be marked somehow. For instance 'toga', now we have "thoga:" (with latus lengthening, bad). We want 'tho:ga'. (Note: Short vowel + long consonant is represented as QIII: buss: /bus:se/, penn: /phen:na/). We might also want /tho:ga:/ from Norwegian 'toga'. 
 
@@ -112,13 +119,15 @@ We want the converter to recognize the allegro-shortening environment after the 
 
 Now latuslengthening also applies to the particle, as in the sentence 'Miiba de': mijː.pɑː te. Compare with separate pronoun and particle 'mii ba de': mij pɑ te.
 
-manatgo: /ma.naat.go/     /manat go: ma.naah ko/
+
 
 Many particles end with e or o, thus creating a potential allegro shortening environment. 
 We have different transcriptions of 'moaige' and 'moai ge':
 /mŏɑjː.ke/ vs. /moɑj ke/
 
+This alos affects other words. Word final consonants are not recocnized as such, and /t/ remains, when it should disappear. 
 
+manatgo: /ma.naat.go/     /manat go: ma.naah ko/
 
 #MISCELLANEOUS
 
