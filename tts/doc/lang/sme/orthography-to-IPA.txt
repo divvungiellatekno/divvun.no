@@ -55,7 +55,10 @@ Monophthongs are short (except á)
 Monophthongs that stem from diphthongs are long before QI and QII.
 Monophthongs that stem from diphthongs are short before QIII.
 
-The first and third rule are not problematic, we have that already, since monophthongs are represented as short everywhere.
+The first and third rule are not problematic, we have that already, since monophthongs are represented as short almost everywhere. We have a vowel lengthening rule that lengthens monophthongs before QI and short h-clusters. The problem is that only vowel taht are originally diphthongs lengthen in this position. 
+
+dihten: /tiihten/
+sihten: /sihten/, but we have /siihten/
 
 We get long monophthongs in these environments:
 before latus /o/ (except when o is allegroshortened)

@@ -106,6 +106,17 @@ Some derived words have long monophthongs throughout their paradigm, and no diph
 firon /fiiron/, from 'fierrut'
 doron /tooron/, from 'doarrut'
 geso /keeso/, another form of 'geaŧŧu'
+bures /puures/, from /buorre/
+
+We have vowel lengthening today: 
+define VowelLengthening e -> e e , i -> i i , o -> o o , u -> u u 
+                             || .#. (Cns*) _ (h) %^ Cns Vow [Cns | .#. ] ;
+This takes care of the four words above. However, this environment also has short monophthongs (especially allegro forms):
+
+visot: /visoht/ vs. visoš /viisoš7
+spoađđu - spođoš /spoođoš/
+nođđu - nođoš /nođoš/
+bođii /poođij/gođii /kođij/
 
 Loanwords from Norwegian:
 Norwegian monosyllabic words with long vowel and short consonant are represented with a long monophthong in the centre. They should be marked somehow. For instance 'toga', now we have "thoga:" (with latus lengthening, bad). We want 'tho:ga'. (Note: Short vowel + long consonant is represented as QIII: buss: /bus:se/, penn: /phen:na/). We might also want /tho:ga:/ from Norwegian 'toga'. 
@@ -125,7 +136,7 @@ Many particles end with e or o, thus creating a potential allegro shortening env
 We have different transcriptions of 'moaige' and 'moai ge':
 /mŏɑjː.ke/ vs. /moɑj ke/
 
-This alos affects other words. Word final consonants are not recocnized as such, and /t/ remains, when it should disappear. 
+This also affects other words. Word final consonants are not recocnized as such, and /t/ remains, when it should disappear. 
 
 manatgo: /ma.naat.go/     /manat go: ma.naah ko/
 
