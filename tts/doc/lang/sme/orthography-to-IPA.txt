@@ -34,7 +34,7 @@ guossa.nom.sg        /kuossa/
 
 There are some rules that can help decide between QIII and QII:
 
-- Primary lengthening: Strong grade short geminates lengthen to QIII between short monophthongs in the vowel centre and long vowels in the latus. This means the geminates that alternate with a singleton consonant in the weak grade.
+- Primary lengthening: Strong grade short geminates lengthen to QIII between short monophthongs in the vowel centre and long vowels in the latus. This means the geminates that alternate with a singleton consonant in the weak grade. BA: Already done for most geminates. Left out f and ŧ for now, no words exist for which this lengthening would apply. hrr and hll are also left out for the time being.
 
 - Stem class: contracted verbs are always QIII: 
 besset.inf: /pes:seht/ vs besset.1pl.present: /peesseht/ - beassat

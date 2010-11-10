@@ -40,7 +40,7 @@ Guossi.nom.sg        /kuos:sii/
 Guossi.acc.sg        /kuossii/
 guossa.nom.sg        /kuossa/
 
-Today we do not have QIII geminates in the transcriptions at all (geminates that alternate with identical geminates in weak grade.). QIII and QII are only differentiated when there is a difference in the orthography. 
+Today we only have QIII geminates when primary lengthening applies. QIII and QII are otherwise only differentiated when there is a difference in the orthography. 
 
 Possible tags:
 
@@ -70,9 +70,6 @@ golli.nom.sg /kol:lii/ vs golli.acc.sg /kollii/
 
 In lexicon, G3 is specified for nouns. When G3 + Nom.sg, ill.sg or essive, then QIII.
 G3 is not specified for verbs, since it has not been necessary so far. 
-
-There is also a rule called Primary lengthening that we have not implemented:
-Strong grade short geminates lengthen to QIII between short monophthongs in the vowel centre and long vowels in the latus. This can be doen with out morphology/lexicon. 
 
 LONG AND SHORT MONOPHTHONGS
 Monophthongs that stem from diphthong simplification are long before QII and QII. 
