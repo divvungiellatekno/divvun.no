@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon14, part of koffice: http://www.koffice.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="744.094px" height="1052.36px">
+  <defs>
+    <path id="defitem0" fill="none" stroke="#000000" d="M182.596 202.538L469.604 202.538"  fill-rule="evenodd" />
+  </defs>
+  <g id="Layer">
+    <g id="layer1">
+      <g id="g3608">
+        <path id="path2172" fill="none" stroke="#4bf015" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" d="M201.269 67.344L145.287 197.968L115.963 135.322"  fill-rule="evenodd" />
+      </g>
+    </g>
+    <text fill="#000000" stroke="#000000" font-family="Bitstream Vera Sans" font-size="144">
+      <textPath xlink:href="#defitem0">ÁBČ</textPath>
+    </text>
+  </g>
+</svg>
