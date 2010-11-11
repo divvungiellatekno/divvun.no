@@ -31,7 +31,7 @@
           <td rowspan="2">MS Office</td>
           <td>Windows</td>
           <td><a href="http://divvun.no/static_files/DivvunInstaller.exe">1.1</a></td>
-          <td rowspan="2"><a href="doc/proof/spelling/msoff/install_use.html">Release-dokumenta</a> – <a href="doc/proof/spelling/msoff/changes.html">versjonhistorjjá</a></td>
+          <td rowspan="2"><a href="proofdoc/spell/msoff/install_use.html">Release-dokumenta</a> – <a href="doc/proof/spelling/msoff/changes.html">versjonhistorjjá</a></td>
         </tr>
 
         <tr>
@@ -43,7 +43,7 @@
           <td rowspan="2">InDesign CS3</td>
           <td>MacOS X</td>
           <td><a href="http://divvun.no/static_files/indesign-divvuntools.dmg">1.0</a></td>
-          <td rowspan="2"><a href="/doc/proof/hyph/InDesign/index.html">Release-dokumenta</a></td>
+          <td rowspan="2"><a href="proofdoc/hyph/InDesign/index.html">Release-dokumenta</a></td>
         </tr>
 
         <tr>
@@ -55,21 +55,21 @@
           <td>OpenOffice.org 2.4.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
           <td>1.0beta7: <a href="http://divvun.no/static_files/smi-pack.zip">Nuortta -ja julevsámi</a></td>
-          <td><a href="doc/proof/spelling/X-spell/install_use_OOo2x.html">Installasjåvnnå ja adno</a></td>
+          <td><a href="proofdoc/spell/X-spell/install_use_OOo2x.html">Installasjåvnnå ja adno</a></td>
         </tr>
 
         <tr>
           <td>OpenOffice.org 3.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
           <td>1.0beta7: <a href="http://divvun.no/static_files/smi.oxt">Nuortta -ja julevsámi</a></td>
-          <td><a href="doc/proof/spelling/X-spell/install_use_OOo3x.html">Installasjåvnnå ja adno</a></td>
+          <td><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">Installasjåvnnå ja adno</a></td>
         </tr>
 
         <tr>
           <td>OpenOffice.org 2.4+ &amp; <br/><a href="http://hunspell.sourceforge.net/">Hunspell</a>-kompatibel</td>
           <td>Linux</td>
           <td>1.0beta7: <a href="http://divvun.no/static_files/hunspell-se.tar.gz">Nuorttasámi</a>, <a href="http://divvun.no/static_files/hunspell-smj.tar.gz">Julevsámi</a></td>
-		  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Installasjåvnnå</a></td>
+		  <td><a href="proofdoc/spell/X-spell/install_linux.html">Installasjåvnnå</a></td>
         </tr>
 
         <tr>

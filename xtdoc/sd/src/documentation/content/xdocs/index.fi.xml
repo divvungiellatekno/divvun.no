@@ -43,8 +43,8 @@
 			<a href="http://divvun.no/static_files/DivvunInstaller.exe">1.1</a>
 		  </td>
           <td rowspan="2">
-			<a href="doc/proof/spelling/msoff/install_use.fi.html">Julkaisutiedot</a> –
-			<a href="doc/proof/spelling/msoff/changes.html">Versiohistoria</a>
+			<a href="proofdoc/spell/msoff/install_use.fi.html">Julkaisutiedot</a> –
+			<a href="proofdoc/spell/msoff/changes.html">Versiohistoria</a>
 		  </td>
         </tr>
 
@@ -62,7 +62,7 @@
 		    <a href="http://divvun.no/static_files/indesign-divvuntools.dmg">1.0</a>
 		  </td>
           <td rowspan="2">
-		    <a href="/doc/proof/hyph/InDesign/index.html">Julkaisutiedot</a>
+		    <a href="proofdoc/hyph/InDesign/index.html">Julkaisutiedot</a>
 		  </td>
         </tr>
 
@@ -78,7 +78,7 @@
 		    1.0beta7: <a href="http://divvun.no/static_files/smi-pack.zip">Pohjois- ja luulajansaame</a>
 		  </td>
           <td>
-		    <a href="doc/proof/spelling/X-spell/install_use_OOo2x.html">Installation and usage</a>
+		    <a href="proofdoc/spell/X-spell/install_use_OOo2x.html">Installation and usage</a>
 		  </td>
         </tr>
 
@@ -89,7 +89,7 @@
 		    1.0beta7: <a href="http://divvun.no/static_files/smi.oxt">Pohjois- ja luulajansaame</a>
 		  </td>
           <td>
-		    <a href="doc/proof/spelling/X-spell/install_use_OOo3x.html">Installation and usage</a>
+		    <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">Installation and usage</a>
 		  </td>
         </tr>
 
@@ -102,7 +102,7 @@
 		    1.0beta7: <a href="http://divvun.no/static_files/hunspell-se.tar.gz">Pohjoissaame</a>, <a href="http://divvun.no/static_files/hunspell-smj.tar.gz">Lulajansaame</a>
 		  </td>
 		  <td>
-			<a href="doc/proof/spelling/X-spell/install_linux.html">Installation</a>
+			<a href="proofdoc/spell/X-spell/install_linux.html">Installation</a>
 		  </td>
         </tr>
 

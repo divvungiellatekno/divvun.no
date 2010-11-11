@@ -37,7 +37,7 @@
 
           <td><a href="http://divvun.no/static_files/DivvunInstaller.exe">1.1</a></td>
 
-          <td rowspan="2"><a href="doc/proof/spelling/msoff/install_use.html">Release-dokument</a> – <a href="doc/proof/spelling/msoff/changes.html">versionshistoria</a></td>
+          <td rowspan="2"><a href="proofdoc/spell/msoff/install_use.html">Release-dokument</a> – <a href="doc/proof/spelling/msoff/changes.html">versionshistoria</a></td>
         </tr>
 
         <tr>
@@ -53,7 +53,7 @@
 
           <td><a href="http://divvun.no/static_files/indesign-divvuntools.dmg">1.0</a></td>
 
-          <td rowspan="2"><a href="/doc/proof/hyph/InDesign/index.html">Release-dokument</a></td>
+          <td rowspan="2"><a href="proofdoc/hyph/InDesign/index.html">Release-dokument</a></td>
         </tr>
 
         <tr>
@@ -67,21 +67,21 @@
           <td>Windows, MacOS X, Linux, Solaris</td>
           <td>1.0beta7: <a href="http://divvun.no/static_files/smi-pack.zip">Noerhte -jïh julevsaemien</a></td>
           
-          <td><a href="doc/proof/spelling/X-spell/install_use_OOo2x.html">Sijjiedehteme jïh åtnoe</a></td>
+          <td><a href="proofdoc/spell/X-spell/install_use_OOo2x.html">Sijjiedehteme jïh åtnoe</a></td>
         </tr>
 
 		<tr>
           <td>OpenOffice.org 3.x</td>
           <td>Windows, MacOS X, Linux, Solaris</td>
           <td>1.0beta7: <a href="http://divvun.no/static_files/smi.oxt">Nord -och lulesamiska</a></td>
-          <td><a href="doc/proof/spelling/X-spell/install_use_OOo3x.html">Sijjiedehteme jïh åtnoe</a></td>
+          <td><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">Sijjiedehteme jïh åtnoe</a></td>
         </tr>
 
 		<tr>
           <td>OpenOffice.org 2.4+ &amp; <a href="http://hunspell.sourceforge.net/">Hunspell</a> – <br/>kompatibla program</td>
           <td>Linux</td>
           <td>1.0beta7: <a href="http://divvun.no/static_files/hunspell-se.tar.gz">Noerhtesaemien</a>, <a href="http://divvun.no/static_files/hunspell-smj.tar.gz">Julevsaemien</a></td>
-		  <td><a href="doc/proof/spelling/X-spell/install_linux.html">Sijjiedehteme</a></td>
+		  <td><a href="proofdoc/spell/X-spell/install_linux.html">Sijjiedehteme</a></td>
         </tr>
 
         <tr>
