@@ -27,8 +27,6 @@
                label="Prošeavtta plánat" />
     <spelling description="Mo reaiddut ráhkaduvvot" href="howmake.html"
               label="Mo reaiddut ráhkaduvvojit" />
-    <!--matta description="Manne máttasámegiella ii leat oassi prošeavttas"
-           href="sma-background.html" label="Máttasámegiella" /-->
     <downloads description="Download files from divvun.no" href="downloads.html"
                label="Downloads" />
     <download_log description="Download log for the Divvun tools" href="Download_log.html" label="Download log" />
@@ -41,26 +39,8 @@
 		 <pr3 description="reaidduid almmuhus"
 		 href="pressrelease-20071210.html" label="PRD: 2007.12.10" />
     </pr>
-    <svn label="Subversion">
-		<svn1 href="doc/infra/setup-svn.html" label="Setup svn" />
-		<svn2 href="doc/tools/docu-svn-user.html" label="Howto use SVN" />
-		<svn3 href="doc/infra/system/addsvn-users.html" label="Admin svn users" />
-    </svn>
-    <!-- Commented these out, as it will bring a lot of load on the server if these are used.
-	        <all_site label="Full HTML" href="wholesite.html"/>    
-		<all_sitePDF label="Full PDF" href="wholesite.pdf"/>  
-		-->
   </about>
 
-
-  <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab != 'how'])" />
-
-  <!--
-        The href must be wholesite.html/pdf  You can change the labels and node names <all label="All">
-    <whole_site_html label="Whole Site HTML" href="wholesite.html"/>
-    <whole_site_pdf label="Whole Site PDF" href="wholesite.pdf"/>
-      </all>
-        -->
 
   <adm href="adm/" label="Administration" tab="adm">
     <overview description="Administrative documentation" href="index.html" label="Index" />
@@ -77,14 +57,6 @@
     <sam1 href="sd-contract-part-3.html" label="SD Contract, 3. part" description="SD Contract, third part" />
     <howto href="contracts-howto.html" label="Hvordan man fyller i kontraktene" />
   </legal>
-
-  <!--outsourcing href="adm/outsourcing/" label="Outsourcing" tab="outsrc">
-    <overview href="overview.html" label="Overview" description="Overview of the outsourcing of certain tasks" />
-    <qualcrit href="qual-criterias.html" label="Qualification Criterias" description="Qualification Criterias to attend the public tender" />
-    <selcrit  href="selection-criterias.html" label="Selection Criterias" description="Selection Criterias for choosing the best offer" />
-    <delivers href="deliveries.html" label="Deliverables" description="Exact specification of deliverables" />
-    <techspec href="req-spec.html" label="Requirements Specification" description="Requirements specification for the outsourced tasks" />
-  </outsourcing-->
 
   <polderland href="adm/polderland/" label="Polderland" tab="polderland">
     <index    href="index.html" label="Overview" description="Overview of the cooperation documents" />
@@ -251,12 +223,6 @@
             label="Cooperation meeting 3.10.2005" />
   </uit>
 
-  <xi:include href="doc/site-frag.xml#xpointer(/tech/*[@tab = 'how'])" />
-  <xi:include href="doc/site-proof-frag.xml" />
-  <!--xi:include href="wordsdoc/site-frag.xml" /-->
-
-  <xi:include href="ttsdoc/site-frag.xml" />
-
   <future href="future/" label="Divvun future plans" tab="Plan">
     <index href="index.html"
           label="Overview"
@@ -264,7 +230,4 @@
     <xi:include href="future/proofing/site-frag.xml" />
   </future>
 
-  <external-refs>
-    <disamb href="http://giellatekno.uit.no/" />
-  </external-refs>
 </site>
