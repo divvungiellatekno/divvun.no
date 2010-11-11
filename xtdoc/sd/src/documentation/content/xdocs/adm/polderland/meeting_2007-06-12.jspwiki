@@ -54,7 +54,7 @@ Test string is: {{nuvviD}}, even {{nuvviDpeople}}
 
 !Japn and Napn
 
-The noun and adjective subclasses J[apn] and N[apn] accept also regular J and N classes?
+The noun and adjective subclasses Japn and Napn accept also regular J and N classes?
 
  - subclass a can have subclasses a and n and classes J and N on the right side
  - subclass p can have subclasses p and n and classes J and N on the right side
