@@ -134,7 +134,7 @@ Divvun-projekti työskentelee avoimen lähdekoodin periaatteiden mukaan, ts. par
 * Jos halutaan rakentaa ohjelmia lähdetiedostojemme perusteella, tarvitaan Xeroxin tekemiä suljettuja ohjelmia. Ne saa helposti ostamalla kirjan "[ Finite State Morphology|http://www.fsmbook.com/]". Ohjelmat löytyvät kirjaan liitetystä CD:stä.
 * Ohjelmat Microsoft Officelle tarkoitettujen ohjelmien tekemiseen kuuluvat ohjelmatalolle Polderland, ja niitä ei ole saatavilla. ''Näistä korjausohjelmista ei siis ole mahdollista tehdä omia versioita.''  OpenOffice.org:ille tarkoitetuissa oikolukuohjelmissa ei tule olemaan tällaisia rajoituksia, vaan ne tulevat perustumaan avoimeen lähdekoodiin myös oikolukuohjelmakoodin osalta (oikolukuohjelma OOo:ta varten tulee myöhemmin).
 
-Lisää tietoa Divvun-projektin lähdekoodin lataamisesta ja asennuksesta löytyy [tästä|/doc/infra/anonymous-cvs.html].
+Lisää tietoa Divvun-projektin lähdekoodin lataamisesta ja asennuksesta löytyy [tästä|http://divvun.no/doc/infra/anonymous-svn.html].
 
 
 !!!Päivittäminen

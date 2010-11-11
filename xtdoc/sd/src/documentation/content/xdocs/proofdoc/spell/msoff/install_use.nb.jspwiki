@@ -135,7 +135,7 @@ Divvun-prosjektet arbeider etter prinsippene om åpen kildekode. Dvs. at det med
 * programvaren for å lage korrekturprogram til Microsoft Office tilhører Polderland, og er ikke tilgjengelig. ''Det er derfor ikke mulig å lage egne versjoner av disse korrekturprogrammene.'' Korrekturprogrammene for OpenOffice.org vil derimot ikke ha slike begrensninger, og vil bruke en stavekontrollmotor basert på åpen kildekode (korrekturprogram for OOo vil komme litt senere).
 
 
-Mer informasjon om hvordan man laster ned og installerer kildekoden for Divvun-prosjektet finnes på [denne siden|/doc/infra/anonymous-cvs.html].
+Mer informasjon om hvordan man laster ned og installerer kildekoden for Divvun-prosjektet finnes på [denne siden|http://divvun.no/doc/infra/anonymous-svn.html].
 
 !!!Oppgradering
 

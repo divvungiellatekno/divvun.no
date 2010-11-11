@@ -134,7 +134,7 @@ The Divvun project works according to the principles of open source code. This m
 * the programs needed to make the proofing tools for Microsoft Office belongs to Polderland, and is not available. ''It is thus not possible to make your own versions of the proofing tools for Microsoft Office.'' The proofing tools for OpenOffice.org will not have such limitations, and it will use an open source speller engine (proofing tools for OOo will be released a bit later).
 
 
-More information on how to download and install the source code for the Divvun project is found on [this page|/doc/infra/anonymous-cvs.html].
+More information on how to download and install the source code for the Divvun project is found on [this page|http://divvun.no/doc/infra/anonymous-svn.html].
 
 !!!Upgrading
 
