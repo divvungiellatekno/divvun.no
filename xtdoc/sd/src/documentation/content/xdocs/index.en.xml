@@ -121,9 +121,9 @@
 
           <p>The source code for this project belonging to the Norwegian Sámi
           Parliament and/or the University of Tromsø is open source, and is
-          available through <a href="doc/infra/anonymous-svn.html">anonymous
+          available through <a href="http://divvun.no/doc/infra/anonymous-svn.html">anonymous
           svn</a>. We have also written a document on how to <a
-          href="doc/intro.html">find your way</a> through the source code.</p>
+          href="http://divvun.no/doc/intro.html">find your way</a> through the source code.</p>
         </section>
 
         <section>
@@ -132,8 +132,8 @@
           <p>All the documentation on this project is available on this site.
           If you would like to have this documentation on your own computer,
           follow the instruction on <a
-          href="doc/infra/anonymous-svn.html">anonymous svn</a>, then go on to
-          <a href="doc/infra/forrest-howto.html">setup forrest</a>. After that
+          href="http://divvun.no/doc/infra/anonymous-svn.html">anonymous svn</a>, then go on to
+          <a href="http://divvun.no/doc/infra/forrest-howto.html">setup forrest</a>. After that
           all our documentation will be on your own computer, and you can
           navigate through it with a web browser.</p>
         </section>

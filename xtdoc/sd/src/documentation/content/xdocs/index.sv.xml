@@ -107,9 +107,9 @@
 
         <p>Den delen av källkoden till detta projekt som tillhör
         Sametinget och Universitetet i Tromsø är öppen och fri, och är
-        tillgänglig via <a href="doc/infra/anonymous-svn.html">anonym
+        tillgänglig via <a href="http://divvun.no/doc/infra/anonymous-svn.html">anonym
         svn</a>. Vi har också skrivit ett dokument om hur man <a
-        href="doc/intro.html">finner fram</a> i källkoden. Vissa delar är
+        href="http://divvun.no/doc/intro.html">finner fram</a> i källkoden. Vissa delar är
         proprietära och är alltså <em>inte</em> tillgängliga.</p>
       </section>
 
@@ -119,8 +119,8 @@
         <p>All dokumentation om detta projekt är tillgänglig på <a
         href="http://divvun.no">projektets hemsida</a>. Om du vill ha
         denna dokumentation på din egen datamaskin, följ instruktionerna om
-        <a href="doc/infra/anonymous-svn.html">anonym svn</a>, och gå därefter
-        till <a href="doc/infra/forrest-howto.html">installation av forrest</a>.
+        <a href="http://divvun.no/doc/infra/anonymous-svn.html">anonym svn</a>, och gå därefter
+        till <a href="http://divvun.no/doc/infra/forrest-howto.html">installation av forrest</a>.
         Efter detta är all dokumentation på din egen datamaskin och du kan
         navigera genom den med en web-browser utan att vara på
         Internet.</p>
