@@ -18,27 +18,27 @@
         <section>
             <title>Korpusfijla</title>
             <ul>
-                <li> Friddja Oarjjelsáme tevsta, <a href="static_files/sma-free-txt.zip">Dábálasj tæksta</a> (9,4 KB)</li>
-                <li>Friddja Nuorttasáme tevsta, <a href="static_files/sme-free-txt.zip">Dábálasj tæksta</a> (4,5 MB)</li>
-                <li>Friddja Julevsáme tevsta, <a href="static_files/smj-free-txt.zip">Dábálasj tæksta</a> (141 KB)</li>
-                <li>Friddja Oarjjelsáme tevsta, <a href="static_files/sma-free-xml.zip">xml-formáhtta</a> (10,9 KB)</li>
-                <li>Friddja Nuorttasáme tevsta, <a href="static_files/sme-free-xml.zip">xml-formáhtta</a> (4,9 MB)</li>
-                <li>Friddja Julevsáme tevsta, <a href="static_files/smj-free-xml.zip">xml-formáhtta</a> (152,2 KB)</li>
+                <li> Friddja Oarjjelsáme tevsta, <a href="http://divvun.no/static_files/sma-free-txt.zip">Dábálasj tæksta</a> (9,4 KB)</li>
+                <li>Friddja Nuorttasáme tevsta, <a href="http://divvun.no/static_files/sme-free-txt.zip">Dábálasj tæksta</a> (4,5 MB)</li>
+                <li>Friddja Julevsáme tevsta, <a href="http://divvun.no/static_files/smj-free-txt.zip">Dábálasj tæksta</a> (141 KB)</li>
+                <li>Friddja Oarjjelsáme tevsta, <a href="http://divvun.no/static_files/sma-free-xml.zip">xml-formáhtta</a> (10,9 KB)</li>
+                <li>Friddja Nuorttasáme tevsta, <a href="http://divvun.no/static_files/sme-free-xml.zip">xml-formáhtta</a> (4,9 MB)</li>
+                <li>Friddja Julevsáme tevsta, <a href="http://divvun.no/static_files/smj-free-xml.zip">xml-formáhtta</a> (152,2 KB)</li>
             </ul>
         </section>
         <section>
             <title>Báhkolissto</title>
             <ul>
-                <li>Nuorttasáme <a href="static_files/wordlist-sme-2007-06-04.txt.gz">Báhkolissto gånnå divna såjådum háme gávnnuji</a> rievddaduvvam 2007-06-04 (10 GB)</li>
-                <li>Julevsáme <a href="static_files/wordlist-sme-2007-06-04.txt.gz">Báhkolissto gånnå divna såjådum háme gávnnuji</a> rievddaduvvam 2007-06-04 (8 GB)</li>
+                <li>Nuorttasáme <a href="http://divvun.no/static_files/wordlist-sme-2007-06-04.txt.gz">Báhkolissto gånnå divna såjådum háme gávnnuji</a> rievddaduvvam 2007-06-04 (10 GB)</li>
+                <li>Julevsáme <a href="http://divvun.no/static_files/wordlist-sme-2007-06-04.txt.gz">Báhkolissto gånnå divna såjådum háme gávnnuji</a> rievddaduvvam 2007-06-04 (8 GB)</li>
             </ul>
         </section>
         <section>
             <title>Misc.</title>
             <ul>
-                <li><a href="static_files/divvun_forrest.tar.bz2">Divvoma forrest versjåvnnå (39 MB)</a></li>
-		<li><a href="static_files/gobby-fink-ppc.tar.bz2">Fink gånnå l gobby, ppc versjåvnnå (788 MB)</a></li>
-		<li><a href="static_files/gobby-fink-intel.tar.bz2">Fink gånnå l gobby, intel versjåvnnå (623 MB)</a></li>
+                <li><a href="http://divvun.no/static_files/divvun_forrest.tar.bz2">Divvoma forrest versjåvnnå (39 MB)</a></li>
+		<li><a href="http://divvun.no/static_files/gobby-fink-ppc.tar.bz2">Fink gånnå l gobby, ppc versjåvnnå (788 MB)</a></li>
+		<li><a href="http://divvun.no/static_files/gobby-fink-intel.tar.bz2">Fink gånnå l gobby, intel versjåvnnå (623 MB)</a></li>
             </ul>
         </section>
     </body>
