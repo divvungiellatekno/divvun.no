@@ -28,16 +28,13 @@
     <tab href="http://giellatekno.uit.no" label="Sámi disamb. proj." />
 
     <!-- The Tech-Doc tab -->
-    <xi:include href="doc/tabs-frag.xml#xpointer(/tabs/tab[@id='TechDoc'])" />
+    <tab href="http://divvun.no/doc/index.html" label="	TechDoc" />
 
     <!-- The Proofing Tech-Doc tab -->
-    <xi:include href="doc/tabs-frag.xml#xpointer(/tabs/tab[@id='proof'])" />
-
-    <!-- The Words Tech-Doc tab
-    <xi:include href="wordsdoc/tabs-frag.xml" /> -->
+    <tab href="http://divvun.no/doc/proof/index.html" label="Proofing" />
 
     <!-- The TTS documentation tab -->
-    <xi:include href="ttsdoc/tabs-frag.xml" />
+    <tab href="http://divvun.no/ttsdoc/index.html" label="TTS" />
 
     <tab dir="future" id="Plan" label="Future" indexfile="index.html">
         <!-- The Proofing plans tab -->
