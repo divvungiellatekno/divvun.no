@@ -15,7 +15,7 @@
 	<title>Install dictionaries</title>
 	
 	<note>
-		These installation instructions are for <em>OpenOffice.org 2.4.x</em>. We have also have <a href="install_use_3x.html">installation instructions for OpenOffice.org 3.x</a>
+		These installation instructions are for <em>OpenOffice.org 2.4.x</em>. We have also have <a href="install_use_OOo3x.html">installation instructions for OpenOffice.org 3.x</a>
 	</note>
 
 	<ol>
@@ -33,7 +33,7 @@
 
     <section>
 		<title>Using the speller</title>
-		<p>To use the speller <a href="install_use_3x.html#Using+the+speller">follow these instructions</a></p>
+		<p>To use the speller <a href="install_use_OOo3x.html#Using+the+speller">follow these instructions</a></p>
     </section>
     <p class="last_modified">Last modified: $Date: 2009-03-11 12:57:35 +0200 (ons, 11 mar 2009) $, by
     $Author: sjur $</p>
