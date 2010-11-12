@@ -63,7 +63,7 @@ $56,50:     vihttalogiguhtta dollara ja vihttalogi sentte
 £56,50:     vihttalogiguhtta punda ja vihttalogi penni
 €56, 50:    vihttalogiguhtta euro ja vihttalogi sentte
 
-Or do we just use 'čuokkis':
+Or do we just use 'čuokkis' or 'rihkku':
 
 $56,50:     vihttalogiguhtta čuokkis vihttalogi dollara
 £56,50:     vihttalogiguhtta čuokkis vihttalogi punda
@@ -87,6 +87,16 @@ Case marking:
 Some number types will have case marking. Usually the colon will indicate when the number should be in loc., ill or com. singular. However, there is no marking to separate nominative from accusative and genitive.
 
 For most numerals, accusative and nominative singular are the same anyway, the exceptions being 1, 0, and mill, for which accusative and genitive are similar. For the other numerals, genitive is used mostly with postpositions, or within an NP which is in gen., ill or loc.sg.
+
+Numerals for which nom/acc/gen are the same anyway: čieža (7), gávcci (8), ovcci (9), logi (10), čuođi (100).
+
+Compound  numerals:
+
+Whole tens and hundreds have a difference between nom/acc on the one hand and genitive on the other. While the final part 'logi' or 'čuođi' remains the same, the first or middle number will change:
+
+20: guoktelogi.nom/acc or guovttilogi.gen
+200: guoktečuođi.nom/acc or guovttičuođi.gen
+67: guhttalogičieža.nom/acc or guđalogičieža.gen
 
 
 Types with case marking:
