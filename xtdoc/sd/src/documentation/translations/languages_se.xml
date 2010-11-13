@@ -15,20 +15,18 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<catalogue>
-  <!-- HTML translations: -->
-  <message key="Font size:">Fontasturrodat:</message>
-  <message key="Last Published:">Maŋemuš ođasmahtton:</message>
-  <message key="Search">Oza</message>
-  <message key="More">Eanet</message>
-  <message key="Search the site with">Oza dán neahttabáikkis</message>
-  <!-- PDF/fo translations: -->
-  <message key="NOTICE:">FUOMÁŠ:</message>
-  <message key="by">Čállán </message>
-  <message key="Note:">Notáhta:</message>
-  <message key="FIXME">DIVUMU</message>
-  <message key="Table">Tabealla</message>
-  <message key="Table of contents">Sisdoallu</message>
-  <message key="Page 1">Siidu {0}</message>
-  <message key="Page 1 of 1">Siidu {0} {1} siiddus</message>
+<catalogue xml:lang="se">
+  <message key="en" >Dát siidu eŋgelasgillii</message>
+  <message key="es" >Dát siidu spánskkagillii</message>
+  <message key="nl" >Dát siidu hollánddagillii</message>
+  <message key="de" >Dát siidu duiskkagillii</message>
+  <message key="fr" >Dát siidu fránskkagillii</message>
+  <message key="se" >Dát siidu davvisámegillii</message>
+  <message key="nb" >Dát siidu girjedárogillii</message>
+  <message key="nn" >Dát siidu ođđadárogillii</message>
+  <message key="no" >Dát siidu dárogillii</message>
+  <message key="sv" >Dát siidu ruoŧagillii</message>
+  <message key="fi" >Dát siidu suomagillii</message>
+  <message key="smj">Dát siidu julevsámegillii</message>
+  <message key="sma">Dát siidu lullisámegillii</message>
 </catalogue>
