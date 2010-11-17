@@ -20,7 +20,10 @@
 
   <about label="Davvisámegiella" tab="Ruoktu">
     <index description="Bures boahttin divvun.no prošektii"
-           href="index.html" label="Álgosiidu" />
+		href="index.html" label="Álgosiidu"/>
+	<divvun href="leaflet/" label="Reaiddut">
+			<win-msoffice description="Windows/Microsoft Office" href="win-install.html" label="Windows/Microsoft Office" />
+			<mac-msoffice description="Mac OS X/Microsoft Office" href="mac-install.html" label="Mac OS X/Microsoft Office" />	</divvun>
     <lang description="Proseavtta giellapolitihkka" href="lang-policy.html"
           label="Giellapolitihkka" />
     <timetable description="Prošeavtta plánat" href="timetable.html"

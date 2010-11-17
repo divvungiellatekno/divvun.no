@@ -2,158 +2,29 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="nb">
-  <header>
-    <title>Divvun - samiske korrekturverktøy</title>
-  </header>
+	<header>
+		<title>Divvun - samiske korrekturverktøy</title>
+	</header>
 
-  <body>
-    <p>Divvun-prosjektet er et prosjekt under det norske Sametinget for å lage
-    retteprogram for samisk, dvs stavekontroll og orddeling for nord-, lule-
-    og sørsamisk. Verktøyene fungerer på Linux (snart), MacOS X og Windows i
-    de vanligste kontorprogrammene. Verktøy for nord- og lulesamisk er
-    ferdige, sørsamiske verktøy er under arbeid i det såkalte Divvun
-    II-prosjektet.</p>
-
-    <section>
-      <title>Tilgjengelige korrekturverktøy</title>
-	  <note label="Dokumentasjonsvideoer tilgjengelig">
-		<a href="http://divvun.blip.tv">Hvordan man installerer og bruker Divvun.</a>
-	  </note>
-      <p>Ferdige korrekturverktøy er gratis tilgjengelige nedenfor i form av
-      installasjonsprogram som enkelt installerer verktøyene på datamaskinen.
-      Verktøyene vil fungere på samme måten som tilsvarende verktøy for andre
-      språk.</p>
-
-      <table>
-        <caption>Tabell over ferdige og kommende (x) produkter</caption>
-
-        <tr>
-          <th>Vertsprogram</th>
-
-          <th>Operativsystem</th>
-
-          <th>Nedlastingslenke</th>
-
-          <th>Mer info</th>
-        </tr>
-
-        <tr>
-          <td rowspan="2">MS Office</td>
-          <td>Windows</td>
-          <td>
-		    <a href="http://divvun.no/static_files/DivvunInstaller.exe">1.1</a>
-		  </td>
-          <td rowspan="2"><a
-			href="proofdoc/spell/msoff/install_use.html">Slippnotater</a> – 
-			<a href="proofdoc/spell/msoff/changes.html">versjonshistorie</a>
-		  </td>
-        </tr>
-
-        <tr>
-          <td>MacOS X</td>
-          <td>
-		    <a href="http://divvun.no/static_files/sami-proofing-tools.dmg">1.1</a>
-		  </td>
-        </tr>
-
-        <tr>
-          <td rowspan="2">InDesign CS3</td>
-          <td>MacOS X</td>
-          <td>
-			<a href="http://divvun.no/static_files/indesign-divvuntools.dmg">1.0</a>
-		  </td>
-          <td rowspan="2">
-			<a href="proofdoc/hyph/InDesign/index.html">Slippnotater</a>
-		  </td>
-        </tr>
-
-        <tr>
-          <td>Windows</td>
-          <td>(kommer snart)</td>
-        </tr>
-
-        <tr>
-          <td>OpenOffice.org 2.4.x</td>
-          <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta7: <a href="http://divvun.no/static_files/smi-pack.zip">Nord- og lulesamisk</a></td>
-          <td><a href="proofdoc/spell/X-spell/install_use_OOo2x.html">Installasjon og bruk</a></td>
-        </tr>
-
-        <tr>
-          <td>OpenOffice.org 3.x</td>
-          <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta7: <a href="http://divvun.no/static_files/smi.oxt">Nord- og lulesamisk</a></td>
-          <td><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">Installasjon og bruk</a></td>
-        </tr>
-
-        <tr>
-          <td>OpenOffice.org 2.4+ &amp; <br/><a href="http://hunspell.sourceforge.net/">Hunspell</a>-kompatible program</td>
-          <td>Linux</td>
-          <td>1.0beta7: <a href="http://divvun.no/static_files/hunspell-se.tar.gz">Nordsamisk</a>, <a href="http://divvun.no/static_files/hunspell-smj.tar.gz">Lulesamisk</a></td>
-		  <td><a href="proofdoc/spell/X-spell/install_linux.html">Installasjon</a></td>
-        </tr>
-
-        <tr>
-          <td>Alle <a href="http://hunspell.sourceforge.net/">Hunspell</a>-kompatible program</td>
-          <td>Windows, MacOS X</td>
-          <td>1.0beta7: <a href="http://divvun.no/static_files/smi.zip">Nord -og lulesamisk</a></td>
-	      <td>x</td>
-        </tr>
-      </table>
-
-      <section>
-        <title>Uten Internett?</title>
-
-        <p>For brukere med langsom eller ingen Internett-tilgang, er det mulig
-        å bestille en CD fra Sametinget ved å ringe til telefonnummer: 78 48
-        42 22.</p>
-      </section>
-    </section>
-
-    <section>
-      <title>Kildekode og dokumentasjon</title>
-
-      <section>
-        <title>Anonym cvs</title>
-
-        <p>Den delen av kildekoden til dette prosjektet som tilhører
-        Sametinget og Universitetet i Tromsø er åpen og fri, og er
-        tilgjengelig via <a href="http://divvun.no/doc/infra/anonymous-svn.html">anonym
-        svn</a>. Vi har også skrevet et dokument om hvordan man <a
-        href="http://divvun.no/doc/intro.html">finner frem</a> i kildekoden. Visse deler er
-        proprietære og er altså <em>ikke</em> tilgjengelige.</p>
-      </section>
-
-      <section>
-        <title>Lese dokumentasjonen på egen PC</title>
-
-        <p>All dokumentasjonen om dette prosjektet er tilgjengelig på <a
-        href="http://divvun.no">prosjektets hjemmeside</a>. Hvis du vil ha
-        denne dokumentasjonen på din egen datamaskin, følg instruksjonene om
-        <a href="http://divvun.no/doc/infra/anonymous-svn.html">anonym svn</a>, og gå deretter
-        til <a href="http://divvun.no/doc/infra/forrest-howto.html">oppsett av forrest</a>.
-        Etter dette er all dokumentasjonen på din egen datamaskin, og du kan
-        navigere gjennom den med en nettleser uten å være tilkoblet
-        Internett.</p>
-      </section>
-    </section>
-
-    <section>
-      <title>Nyttige lenker</title>
-
-      <ul>
-        <li><a href="mailto:divvun ved samediggi punkt no">E-post til
-        prosjektet</a></li>
-
-        <li><a href="http://hunspell.sourceforge.net/">Hunspell</a></li>
-
-        <li><a href="http://www.openoffice.org/">OpenOffice</a></li>
-
-        <li><a
-        href="http://www.xrce.xerox.com/competencies/content-analysis/fst/">
-        Xerox FST-verktøy</a></li>
-      </ul>
-    </section>
-
-  </body>
+	<body>
+		<note label="Windows">
+			<ul>
+				<li><a href="leaflet/win-install.html">Microsoft Office</a></li>
+				<li><a href="">OpenOffice.org</a></li>
+			</ul>
+		</note>
+		<note label="Mac OS X">
+			<ul>
+				<li><a href="leaflet/mac-install.html">Microsoft Office</a></li>
+				<li><a href="">OpenOffice.org</a></li>
+				<li><a href="">For andre program</a></li>
+			</ul>
+		</note>
+		<note label="Linux">
+			<ul>
+				<li><a href="">OpenOffice.org</a></li>
+				<li><a href="">For hele systemet</a></li>
+			</ul>
+		</note>
+	</body>
 </document>

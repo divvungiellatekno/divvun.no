@@ -2,130 +2,29 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="smj">
-  <header>
-    <title>Divvun - sáme divudimnævo</title>
-  </header>
+	<header>
+		<title>Divvun - sáme divudimnævo</title>
+	</header>
 
-  <body>
-    <p>Divvom-prosjækta l prosjækta mij la Vuona Sámedikke vuolen ja l   dahkamin sámegiela divvomnævojt, degu stávimkontrållåv ja báhkojuohkemav
-       nuortta-, julev- ja oarjelsábmáj. Nævo doajmmi Linuxin, MacOS X:n ja Windowsin dábálamos kontåvrråprográmmajn. Nævo nuortta- ja julevsábmáj li gárvvása, ja oarjelsáme nævo li dagáduvvamin Divvun II-prosjevtan.</p>
-
-	<section>
-      <title>Gárves korrektuvrranævo</title>
-	  <note label="Documentation videos available">
-		<a href="http://divvun.blip.tv">How to install and use Divvun</a>
-	  </note>
-      <p>Gárves korrektuvrranævo gávnnuji nåvkå sadjihin dánna vuollelin installerimprográmman, mij álkket installeri nævojt dáhtámasjijnaj. Nævo doajmmi sæmmiláhkáj degu dakkir nævo ietjá gielajn.</p>
-
-      <table>
-        <caption>Tabælla gárves ja boahtte (x) buktagijn</caption>
-
-        <tr>
-          <th>Vuodoprográmma</th>
-          <th>Operativsystebma</th>
-          <th>Viedtjamliŋka</th>
-          <th>Ienep diedo</th>
-        </tr>
-
-        <tr>
-          <td rowspan="2">MS Office</td>
-          <td>Windows</td>
-          <td><a href="http://divvun.no/static_files/DivvunInstaller.exe">1.1</a></td>
-          <td rowspan="2"><a href="proofdoc/spell/msoff/install_use.html">Release-dokumenta</a> – <a href="proofdoc/spell/msoff/changes.html">versjonhistorjjá</a></td>
-        </tr>
-
-        <tr>
-          <td>MacOS X</td>
-          <td><a href="http://divvun.no/static_files/sami-proofing-tools.dmg">1.1</a></td>
-        </tr>
-
-        <tr>
-          <td rowspan="2">InDesign CS3</td>
-          <td>MacOS X</td>
-          <td><a href="http://divvun.no/static_files/indesign-divvuntools.dmg">1.0</a></td>
-          <td rowspan="2"><a href="proofdoc/hyph/InDesign/index.html">Release-dokumenta</a></td>
-        </tr>
-
-        <tr>
-          <td>Windows</td>
-          <td>(båhti ruvva)</td>
-        </tr>
-
-        <tr>
-          <td>OpenOffice.org 2.4.x</td>
-          <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta7: <a href="http://divvun.no/static_files/smi-pack.zip">Nuortta -ja julevsámi</a></td>
-          <td><a href="proofdoc/spell/X-spell/install_use_OOo2x.html">Installasjåvnnå ja adno</a></td>
-        </tr>
-
-        <tr>
-          <td>OpenOffice.org 3.x</td>
-          <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta7: <a href="http://divvun.no/static_files/smi.oxt">Nuortta -ja julevsámi</a></td>
-          <td><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">Installasjåvnnå ja adno</a></td>
-        </tr>
-
-        <tr>
-          <td>OpenOffice.org 2.4+ &amp; <br/><a href="http://hunspell.sourceforge.net/">Hunspell</a>-kompatibel</td>
-          <td>Linux</td>
-          <td>1.0beta7: <a href="http://divvun.no/static_files/hunspell-se.tar.gz">Nuorttasámi</a>, <a href="http://divvun.no/static_files/hunspell-smj.tar.gz">Julevsámi</a></td>
-		  <td><a href="proofdoc/spell/X-spell/install_linux.html">Installasjåvnnå</a></td>
-        </tr>
-
-        <tr>
-          <td><a href="http://hunspell.sourceforge.net/">Hunspell</a>-kompatibel</td>
-          <td>Windows, MacOS X</td>
-          <td>1.0beta7: <a href="http://divvun.no/static_files/smi.zip">Nuortta -ja julevsámi</a></td>
-		  <td>x</td>
-        </tr>
-      </table>
-
-      <section>
-        <title>Internehta dagi?</title>
-
-        <p>Addne gejn Internæhtta l nuolle, jali ij la Internæhtta åvvånis, oadtju diŋŋgot CD-skierrov Vuona Sámedikkes: +47-78 48 42 22.</p>
-      </section>
-    </section>
-
-    <section>
-      <title>Gálldokåvddå ja dokumentasjåvnnå</title>
-
-      <section>
-        <title>Anonyma svn</title>
-
-        <p>Dán prosjevta gálldokåvdåjt æjgguji Sámedigge ja Råmså universitehta ja da li rahpasa ja friddja, ja li ållemmutton dánna: <a href="http://divvun.no/doc/infra/anonymous-svn.html">anonyma
-        svn</a>. Miján la aj tjála gåk <a
-        href="http://divvun.no/doc/intro.html">gávnná</a> gálldokåvdåjn. Muhtem oase li
-        proprieteridum ja <em>ælla</em> sadjihin.</p>
-      </section>
-
-      <section>
-        <title>Låhkåt dokumentasjåvnåv ietjas PC:n</title>
-
-        <p>Gájkka dokumentasjåvnnå majt dát prosjækta l tjállám gávnnu dánna <a
-        href="http://divvun.no">Divvunprosjevta sijddabielen</a>. Jus sidá viedtjat dáv
-        dokumentasjåvnåv iehtjat dáhturij, tjuovo bagádusáv dánna:
-        <a href="http://divvun.no/doc/infra/anonymous-svn.html">anonyma svn</a> Dassta maŋŋela
-        dási: <a href="http://divvun.no/doc/infra/forrest-howto.html">hiebadit forrest</a>.
-        Dálla gájkka dokumentasjåvnnå l duv dáhturin, ja dån iesj máhtá guorrat næhttalåhkke baktu vájku internæhtta ij la rahppot.</p>
-      </section>
-    </section>
-
-    <section>
-      <title>Ávkkás sválldasa</title>
-
-      <ul>
-        <li><a href="mailto:divvun ved samediggi punkt no">E-poassta prosjæktaj</a></li>
-
-        <li><a href="http://hunspell.sourceforge.net/">Hunspell</a></li>
-
-        <li><a href="http://www.openoffice.org/">OpenOffice</a></li>
-
-        <li><a
-        href="http://www.xrce.xerox.com/competencies/content-analysis/fst/">
-        Xerox FST-nævo</a></li>
-      </ul>
-    </section>
-
-  </body>
+	<body>
+		<note label="Windows">
+			<ul>
+				<li><a href="leaflet/win-install.html">Microsoft Office</a></li>
+				<li><a href="">OpenOffice.org</a></li>
+			</ul>
+		</note>
+		<note label="Mac OS X">
+			<ul>
+				<li><a href="leaflet/mac-install.html">Microsoft Office</a></li>
+				<li><a href="">OpenOffice.org</a></li>
+				<li><a href="">For andre program</a></li>
+			</ul>
+		</note>
+		<note label="Linux">
+			<ul>
+				<li><a href="">OpenOffice.org</a></li>
+				<li><a href="">For hele systemet</a></li>
+			</ul>
+		</note>
+	</body>
 </document>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.3//EN" "document-v13.dtd">
+<document>
+  <header>
+    <title>win-install.nb</title>
+  </header>
+  <body>
+    <section>
+      <title>Installering og bruk av Divvun-verktøyene på Windows
+</title>
+      <p>For å installere Divvun-verktøyene kan man enten laste ned programmet fra <link href="http://www.divvun.no/static_files/DivvunInstaller.exe">http://www.divvun.no/static_files/DivvunInstaller.exe</link>eller installere det fra en CD. Sett inn CD-en eller klikk på nedlastingslenka &#8212; installeringsprogrammet starter av seg selv. </p>
+      <p>1. Velg installeringsspråk, d.v.s. det språk som skal brukes under selve installeringen av programmet:  </p>
+      <p>
+        <img src="guvvieh/PC_02_Install_choose_language_cut.png" alt="Velg installeringssspråk"/>
+      </p>
+      <hr/>
+      <p>2. Fortsett med installeringen: </p>
+      <p>
+        <img src="guvvieh/PC_03_Install_start_a_cut.png" alt="Fortsett med installeringen"/>
+      </p>
+      <hr/>
+      <p>3. For å installere programmet, klikk på knappen  <strong>Installer</strong> . </p>
+      <p>
+        <img src="guvvieh/PC_04_install_continue.png" alt="klikk på knappen &quot;Installer&quot;"/>
+      </p>
+      <hr/>
+      <p>4. For å fullføre installeringen, klikk på  <strong>Fullfør</strong> : </p>
+      <p>
+        <img src="guvvieh/PC_05_install_complete.png" alt="Fullfør installeringen"/>
+      </p>
+      <p>Deretter er installeringen av programmet ferdig. </p>
+    </section>
+    <section>
+      <title>Innstillinger i Windows for å kunne skrive på samisk
+</title>
+      <p>1. For å kunne skrive med samiske bokstaver må du gå til <strong>Kontrollpanel</strong> . Der dobbelklikker du på ikonet <strong>Dato, klokkeslett, språk og regionale innstillinger:</strong> </p>
+      <p>
+        <img src="guvvieh/PC_07_controlpanel_settings_date_clock_cut.png" alt="Dato, klokkeslett, språk og regionale innstillinger"/>
+      </p>
+      <hr/>
+      <p>2. Nå er du på regionale innstillinger. Her dobbelklikker du på ikonet <strong>Innstillinger for region og språk:</strong> </p>
+      <p>
+        <img src="guvvieh/PC_08_Settings_language_cut.png" alt="Dobbelklikk på ikonet &quot;Innstillinger for region og språk&quot;"/>
+      </p>
+      <hr/>
+      <p>3. I denne dialogruta velger du deretter fliken  <strong>Språk</strong> og klikker på knappen <strong>Detaljer:</strong> </p>
+      <p>
+        <img src="guvvieh/PC_09_Settings_language_details_cut.png" alt="Klikk på knappen &quot;Detaljer&quot;"/>
+      </p>
+      <hr/>
+      <p>4. Her klikker du på  <strong>Legg til...</strong> . Nå kan du velge vilket språk du vil kunne skrive på. Her velger du  <strong>Samisk:</strong> </p>
+      <p><img src="guvvieh/PC_10_settings_choose_language_cut.png" alt="Velg samisk"/>. </p>
+      <hr/>
+      <p>5. Nå kan du lukke alle vinduene og gå tilbake til skrivebordet. </p>
+      <hr/>
+      <p>6. Når du heretter skal skrive på samisk, klikker du på språkikonet nede i det høyre hjørnet på skrivebordet og velger  <strong>Samisk</strong> : </p>
+      <p>
+        <img src="guvvieh/PC_11_dashboard_choose_language_cut.png" alt="Velg samisk tastatur når du skriver samisk"/>
+      </p>
+      <p>Nå er tastaturoppsettet stilt inn for samiske bokstaver, f.eks. gir tasten "q" bokstaven "á" og tasten "¨" gir bokstaven  "&#331;" osv. </p>
+    </section>
+    <section>
+      <title>Bruke Divvun på Windows
+</title>
+      <p>For at Divvun-verktøyene skal kunne hjelpe deg, må du fortelle datamaskinen  at du skriver på samisk ved å velge det som skrivespråk. </p>
+      <p>1a. MS Office 2003: Når du har åpnet MS Office velger du menyen  <strong>Verktøy -&gt; Språk -&gt; Angi språk &#8230;</strong> <img src="guvvieh/PC_14_Office_2003_velg_sprak.png" alt="Meny for å velge samisk"/></p>
+      <p>1b. Office 2007: Når du har åpnet MS Office klikker du på fliken  <strong>Se gjennom</strong> , der velger du  <strong>Angi språk</strong> </p>
+      <p>2. I dialogen som dukker opp velger du  <strong>Samisk</strong> eller  <strong>Lulesamisk</strong> . NB! Sørg for at det ikke er en hake i  <strong>Identifiser språk automatisk</strong> . Om det er det hopper Office automatisk tilbake til andre språk enn samisk hele tida, og divvun-verktøyene fungerer ikke som forventet. <img src="guvvieh/PC_15_Office_2003_bestem_sprak.png" alt="Velg språk-dialog"/></p>
+      <p>3. Nå kan du begynne å skrive på samisk, og programmet hjelper deg å stave rett. Du kan enten velge å høyretrykke på ord med røde streker under. Da ser det slik ut: </p>
+      <p>
+        <img src="guvvieh/PC_16_Bruke_stavekontrollen.png" alt="Forslag i meny"/>
+      </p>
+      <p>eller du kan starte stavekontrollen i eget vindu. Trykk på  <img src="guvvieh/PC_17_abc_knapp.png" alt="abc-knappen"/>. Resultatet blir: <img src="guvvieh/PC_13_MSOffice_example_cut.png" alt="Stavekontrollen i bruk"/></p>
+    </section>
+  </body>
+</document>

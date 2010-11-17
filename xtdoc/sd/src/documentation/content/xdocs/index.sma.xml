@@ -2,139 +2,29 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
-  <header>
-    <title>Dåvvome - saemien rïektestjaelemedïrrege</title>
-  </header>
+	<header>
+		<title>Divvun - saemien rïektestjaelemedïrrege</title>
+	</header>
 
-  <body>
-    <p>Divvun-prosjekte lea Saemiedigkien vuelelen jïh lea rïektestjaelemeprovgraammh noerhte- julev- jïh åarjelsaemien gïelide. Dïrreth daelie juhtieminie Linux:sne, MacOS X:sne jïh Windows:sne daej sïejhmemes kontovreprovgraammi sisnie. Dïrregh noerhte- jïh julevsaemien gïelide leah riejries jïh daelie åarjelsaemien dïrregh leah dorjesovveminie dunnie prosjektesne mij gåhtjoen Dåvvome II-prosjekte.</p>
-
-    <section>
-      <title>Jaksoes dïrregh</title>
-	  <note label="Documentation videos available">
-		<a href="http://divvun.blip.tv">How to install and use Divvun</a>
-	  </note>
-
-      <p>Rïektestjaelemedïrregh mah leah rïejries gåerede viedtjedh jïh sijjiedehtedh sov daatovrese. Daate lea maaksohts. Juktie dïrregem sijjiedehtedh die barre lea sijjiedehtemefijlem gaskeviermeste viedtjedh. Dïrregh hov saemma mietie juhtieh goh samma-laaketjh dïrregh jeatjaj gïelide.</p>
-
-      <table>
-        <caption>Taabelle gaervies jïh båtije (x) dorjesigujmie </caption>
-
-        <tr>
-          <th>Gåassojeprograamme</th>
-
-          <th>Operativsysteme</th>
-
-          <th>Viedtjemesvaalhtese</th>
-
-          <th>Jienebe bievnesh</th>
-        </tr>
-
-        <tr>
-          <td rowspan="2">MS Office</td>
-
-          <td>Windows</td>
-
-          <td><a href="http://divvun.no/static_files/DivvunInstaller.exe">1.1</a></td>
-
-          <td rowspan="2"><a href="proofdoc/spell/msoff/install_use.html">Release-dokument</a> – <a href="proofdoc/spell/msoff/changes.html">versionshistoria</a></td>
-        </tr>
-
-        <tr>
-          <td>MacOS X</td>
-
-          <td><a href="http://divvun.no/static_files/sami-proofing-tools.dmg">1.1</a></td>
-        </tr>
-
-        <tr>
-          <td rowspan="2">InDesign CS3</td>
-
-          <td>MacOS X</td>
-
-          <td><a href="http://divvun.no/static_files/indesign-divvuntools.dmg">1.0</a></td>
-
-          <td rowspan="2"><a href="proofdoc/hyph/InDesign/index.html">Release-dokument</a></td>
-        </tr>
-
-        <tr>
-          <td>Windows</td>
-
-          <td>(dallah-masten båata)</td>
-        </tr>
-
-        <tr>
-          <td>OpenOffice.org 2.4.x</td>
-          <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta7: <a href="http://divvun.no/static_files/smi-pack.zip">Noerhte -jïh julevsaemien</a></td>
-          
-          <td><a href="proofdoc/spell/X-spell/install_use_OOo2x.html">Sijjiedehteme jïh åtnoe</a></td>
-        </tr>
-
-		<tr>
-          <td>OpenOffice.org 3.x</td>
-          <td>Windows, MacOS X, Linux, Solaris</td>
-          <td>1.0beta7: <a href="http://divvun.no/static_files/smi.oxt">Nord -och lulesamiska</a></td>
-          <td><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">Sijjiedehteme jïh åtnoe</a></td>
-        </tr>
-
-		<tr>
-          <td>OpenOffice.org 2.4+ &amp; <a href="http://hunspell.sourceforge.net/">Hunspell</a> – <br/>kompatibla program</td>
-          <td>Linux</td>
-          <td>1.0beta7: <a href="http://divvun.no/static_files/hunspell-se.tar.gz">Noerhtesaemien</a>, <a href="http://divvun.no/static_files/hunspell-smj.tar.gz">Julevsaemien</a></td>
-		  <td><a href="proofdoc/spell/X-spell/install_linux.html">Sijjiedehteme</a></td>
-        </tr>
-
-        <tr>
-          <td>Alla <a href="http://hunspell.sourceforge.net/">Hunspell</a>-<br/>kompatibla program</td>
-          <td>Windows, MacOS X</td>
-          <td>1.0beta7: <a href="http://divvun.no/static_files/smi.zip">Nord- och lulesamiska</a></td>
-	      <td>x</td>
-        </tr>
-      </table>
-
-      <section>
-        <title>Utan Internet?</title>
-
-        <p>Dejtie giej lea sööjmes gaskeviermie jallh eah jeaksieh gaskeviermiem gännah, maehtieh CD:m dängkodh Saemiedigkien tjïrrh jis daam nummerem ringkedh:
-        +47 78 48 42 22.</p>
-      </section>
-    </section>
-
-    <section>
-      <title>Gaaltijekode jïh dokumentasjovne</title>
-
-      <section>
-        <title>Anonym cvs</title>
-
-        <p>Saemiedigkien jïh Tromsøen universiteten åessie daan projekten gaaltijekodeste lea gaahpode jïh frijje jïh daan baaktoe daam jaksa <a
-        href="http://divvun.no/doc/infra/anonymous-svn.html">anonym svn</a>. Mijjieh libie aaj tjaatsegem dorjeme mij tjïelkeste guktie <a href="http://divvun.no/doc/intro.html">gaavna </a> gaaltijekodesne. Naakenh åesieh leah proprieräre jïh die
-        <em>eah</em> joksehke.</p>
-      </section>
-
-      <section>
-        <title>Jijtse PC:sne dokumentasjovnem lohkedh</title>
-
-        <p>Gaajhke dokumentasjovne daan projekten bïjre daesnie <a
-        href="http://divvun.no"> prosjekten gåetiebielesne joksehke</a>. Jis sïjhth jïjtjedh daatovresne daam dokumentasjovem utnedh, dåeredh daam bïhkedimmiem daesnie<a
-        href="http://divvun.no/doc/infra/anonymous-svn.html">anonyme svn</a> dan männgan deakan <a href="http://divvun.no/doc/infra/forrest-howto.html">forrest sijjiedehteme </a>. Daan minngesne gaajhkh dokumentsjovne lea jïjtjedh daatovresne jïh datne web-lohkijinie dokumentasjovnem vuartasjidh,  läjhkan ih gaskeviermiem jaksh.</p>
-      </section>
-    </section>
-
-    <section>
-      <title>Nuhtegs svaalhtesh</title>
-
-      <ul>
-        <li><a href="mailto:divvun ved samediggi punkt no">E-påaste prosjektese</a></li>
-
-        <li><a href="http://hunspell.sourceforge.net/">Hunspell</a></li>
-
-        <li><a href="http://www.openoffice.org/">OpenOffice</a></li>
-
-        <li><a
-        href="http://www.xrce.xerox.com/competencies/content-analysis/fst/">
-        Xerox FST-verktyg</a></li>
-      </ul>
-    </section>
-
-  </body>
+	<body>
+		<note label="Windows">
+			<ul>
+				<li><a href="leaflet/win-install.html">Microsoft Office</a></li>
+				<li><a href="">OpenOffice.org</a></li>
+			</ul>
+		</note>
+		<note label="Mac OS X">
+			<ul>
+				<li><a href="leaflet/mac-install.html">Microsoft Office</a></li>
+				<li><a href="">OpenOffice.org</a></li>
+				<li><a href="">For andre program</a></li>
+			</ul>
+		</note>
+		<note label="Linux">
+			<ul>
+				<li><a href="">OpenOffice.org</a></li>
+				<li><a href="">For hele systemet</a></li>
+			</ul>
+		</note>
+	</body>
 </document>
