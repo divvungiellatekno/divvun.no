@@ -36,6 +36,8 @@ FeFo (gen) (1)
 FeFo (nom) (1)
 FeFo:s (1)
 FeFo:i (1)
+ČSV:s (1)
+SÁNAG (nom) (1)
 
 Numerals, grouping is loosely based on expansion:
 
