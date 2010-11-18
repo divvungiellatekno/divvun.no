@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.3//EN" "document-v13.dtd">
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
 	<header>
-		<title>win-install.en</title>
+		<title>Installation and use of the Divvun proofing tools on Windows</title>
 	</header>
 	<body>
 		<section>
+			<title>Get Divvun</title>
+			<p><a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Download http://www.divvun.no/static_files/DivvunInstaller.exe</a> or order a CD from the Sámi parliament, tel: +47 78 48 42 22.</p>
+		</section>
+		<section>
 			<title>Installation and use of the Divvun proofing tools on Windows</title>
-			<p>To install the Divvun tools you may either download the software from <link href="http://www.divvun.no/static_files/DivvunInstaller.exe">http://www.divvun.no/static_files/DivvunInstaller.exe</link>or install it from a CD. Insert the CD or click the download link - the installation application will start automatically. </p>
+			<p>Insert the CD or click the download link - the installation application will start automatically. </p>
 			<p>1. Select installation language, that is, the interface language to be used during installation: </p>
 			<p>
 				<img src="guvvieh/PC_02_Install_choose_language_cut.png" alt="Choose installation language"/>
