@@ -8,21 +8,25 @@
 
 	<body>
 		<note label="Windows">
+			<a href="http://divvun.no/static_files/SouthSámiDivvunBeta1_installer.exe">South Sámi betaversion for Microsoft Office, published on the 27th of August, 2010</a>
+			<br />
 			<a href="leaflet/win-install.html">Microsoft Office, published on the 31st of December, 2008</a>
 			<br />
-			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, published the 18th of March, 2009</a>
+			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, published on the 18th of March, 2009</a>
 		</note>
 		<note label="Mac OS X">
+			<a href="http://divvun.no/static_files/sami-proofing-tools-20100827.dmg">South Sámi betaversion for Microsoft Office, published on the 27th of August, 2010</a>
+			<br />
 			<a href="leaflet/mac-install.html">Microsoft Office, published on the 31st of December, 2008</a>
 			<br />
 			<a href="proofdoc/hyph/InDesign/index.html">InDesign CS3, published on the 12th of November, 2009</a>
 			<br />
-			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, published the 18th of March, 2009</a>
+			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, published on the 18th of March, 2009</a>
 			<!--<br />
 			<a href="">For other programs</a>-->
 		</note>
 		<note label="Linux">
-			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, published the 18th of March, 2009</a>
+			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, published on the 18th of March, 2009</a>
 			<!--<br />
 			<a href="">For the whole system</a>
 			<br />-->
