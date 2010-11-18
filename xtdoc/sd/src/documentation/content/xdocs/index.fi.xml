@@ -8,24 +8,23 @@
 
 	<body>
 		<note label="Windows">
-			<ul>
-				<li><a href="leaflet/win-install.html">Microsoft Office</a></li>
-				<li><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org</a></li>
-			</ul>
+			<a href="leaflet/win-install.html">Microsoft Office</a>
+			<br />
+			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org</a>
 		</note>
 		<note label="Mac OS X">
-			<ul>
-				<li><a href="leaflet/mac-install.html">Microsoft Office</a></li>
-				<li><a href="proofdoc/hyph/InDesign/index.html">InDesign CS3</a></li>
-				<li><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org</a></li>
-				<li><a href="">For other programs</a></li>
-			</ul>
+			<a href="leaflet/mac-install.html">Microsoft Office</a>
+			<br />
+			<a href="proofdoc/hyph/InDesign/index.html">InDesign CS3</a>
+			<br />
+			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org</a>
+			<br />
+			<a href="">For other programs</a>
 		</note>
 		<note label="Linux">
-			<ul>
-				<li><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org</a></li>
-				<li><a href="">For the whole system</a></li>
-			</ul>
+			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org</a>
+			<br />
+			<a href="">For the whole system</a>
 		</note>
 	</body>
 </document>
