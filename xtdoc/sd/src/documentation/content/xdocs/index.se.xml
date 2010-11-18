@@ -10,19 +10,20 @@
 		<note label="Windows">
 			<ul>
 				<li><a href="leaflet/win-install.html">Microsoft Office</a></li>
-				<li><a href="">OpenOffice.org</a></li>
+				<li><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org</a></li>
 			</ul>
 		</note>
 		<note label="Mac OS X">
 			<ul>
 				<li><a href="leaflet/mac-install.html">Microsoft Office</a></li>
-				<li><a href="">OpenOffice.org</a></li>
+				<li><a href="proofdoc/hyph/InDesign/index.html">InDesign CS3</a></li>
+				<li><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org</a></li>
 				<li><a href="">Eará prográmmaide</a></li>
 			</ul>
 		</note>
 		<note label="Linux">
 			<ul>
-				<li><a href="">OpenOffice.org</a></li>
+				<li><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org</a></li>
 				<li><a href="">Olles vuogádahkii</a></li>
 			</ul>
 		</note>
