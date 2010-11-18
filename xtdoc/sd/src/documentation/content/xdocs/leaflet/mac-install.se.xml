@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.3//EN" "document-v13.dtd">
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
 	<header>
 		<title>Sajáiduhttit ja geavahit reaidduid</title>
@@ -8,31 +8,31 @@
 	<section>
 		<title>Sajáiduhttit ja geavahit reaidduid
 	</title>
-		<p>Jus áiggut sajáiduhttit Divvuma de sáhtát viežžat prográmma <link href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">http://www.divvun.no/static_files/sami-proofing-tools.dmg</link>báikkis dahje sajáiduhttit dan CD:s. </p>
+		<p>Jus áiggut sajáiduhttit Divvuma de sáhtát viežžat prográmma <a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">http://www.divvun.no/static_files/sami-proofing-tools.dmg</a>báikkis dahje sajáiduhttit dan CD:s. </p>
 	</section>
 	<section>
 		<title>Sajáiduhttin Mac OS X:s
 	</title>
-		<p>1. Viečča sajáiduhttinpáhka. Ođđaseamos veršuvnna gávnnat álo  <link href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">dás</link>. Jus dus lea CD, coggal dan dihtorii. Go viežžan lea geargan, de rahpasa láse du čállinbeavddis. Seamma láse rahpasa go CD lea gearggus. Duppacoahkkal fiskes boksa (sajáiduhttinpáhka): </p>
+		<p>1. Viečča sajáiduhttinpáhka. Ođđaseamos veršuvnna gávnnat álo  <a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">dás</a>. Jus dus lea CD, coggal dan dihtorii. Go viežžan lea geargan, de rahpasa láse du čállinbeavddis. Seamma láse rahpasa go CD lea gearggus. Duppacoahkkal fiskes boksa (sajáiduhttinpáhka): </p>
 		<p>
 		<img src="guvvieh/Mac_01_Installation_download_finished.png" alt="Duppalcoahkkal sajáiduhttinpáhka"/>
 		</p>
-		<hr/>
+		
 		<p>2. Coahkkal  <strong>Fortsätt</strong> dassáigo galggat álggahit ieš sajáiduhttima: </p>
 		<p>
 		<img src="guvvieh/Mac_05_installation_install.png" alt="Govva: "/>
 		</p>
-		<hr/>
+		
 		<p>3. Jus it ieš leat hálddašeaddji, de dakkár ferte dohkkehit sajáiduhttima: </p>
 		<p>
 		<img src="guvvieh/Mac_05_installation_install_a.png" alt="Hálddašeaddji ferte dohkkehit sajáiduhttima"/>
 		</p>
-		<hr/>
+		
 		<p>4. Sajáiduhttin lea dál geargan ja dus leat Divvun-reaiddut du dihtoris! </p>
 		<p>
 		<img src="guvvieh/Mac_05_installation_install_c.png" alt="Geargan sajáiduhttimis"/>
 		</p>
-		<hr/>
+		
 	</section>
 	<section>
 		<title>Heivet Mac OS X nu ahte lea vejolaš čállit sámegiela</title>
@@ -41,17 +41,17 @@
 		<p>
 		<img src="guvvieh/Mac_06a_Systemvalg.png" alt="Govva: Raba Systeminställningar"/>
 		</p>
-		<hr/>
+		
 		<p>2. Coahkkal  <strong>Internationellt</strong> ja čális muhtun dakkárlágán sáni ohcangieddái: </p>
 		<p>
 		<img src="guvvieh/Mac_06_Systemvalg.png" alt="Govva: Systeminställningar "/>
 		</p>
-		<hr/>
+		
 		<p>3. Coahkkal gilkora  <strong>Indatameny</strong> ja merke  <strong>Nordsamisk:</strong> </p>
 		<p>
 		<img src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk.png" alt="Lasit sámi boallobeavddi"/>
 		</p>
-		<hr/>
+		
 		<p>4. Vállje de sámi boallobeavddi fálus olgešbealde go áiggut čállit sámegiela: </p>
 		<p>
 		<img src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png" alt="Vállje sámi boallobeavddi"/>
@@ -61,27 +61,27 @@
 		<title>Geavahit Divvuma Macas
 	</title>
 		<p>Go leat rahpan MS Office, de fertet muitalit Officii makkár gillii teaksta lea. Dan bargá seamma láhkái MS Office 2004:s go MS Office 2008:s. </p>
-		<hr/>
+		
 		<p>1. Merke sámi teavstta: </p>
 		<p>
 		<img src="guvvieh/Mac_08_MSOffice_tools_language_a.png" alt="Merke sámi teavstta"/>
 		</p>
-		<hr/>
+		
 		<p>2. Mana fállui  <strong>Tools &gt; Language &#8230;</strong> : </p>
 		<p>
 		<img src="guvvieh/Mac_08_MSOffice_tools_language_b.png" alt="Mana fállui &quot;Tools &gt; Language &#8230;&quot;"/>
 		</p>
-		<hr/>
-		<p>3. Vállje giela  <strong>Katalanska</strong> ( <strong>Catalan</strong> ) jus leat čállimin <strong>davvisámegillii</strong> , giela <strong>Baskiska</strong> ( <strong>Basque</strong> ) jus čálát  <strong>julevsámegillii</strong> , dahje giela <strong>Slovakiska</strong> ( <strong>Slovak</strong> ) jus čálát  <strong>lullisámegillii</strong> ( <link href="#1">1</link>): </p>
+		
+		<p>3. Vállje giela  <strong>Katalanska</strong> ( <strong>Catalan</strong> ) jus leat čállimin <strong>davvisámegillii</strong> , giela <strong>Baskiska</strong> ( <strong>Basque</strong> ) jus čálát  <strong>julevsámegillii</strong> , dahje giela <strong>Slovakiska</strong> ( <strong>Slovak</strong> ) jus čálát  <strong>lullisámegillii</strong> ( <a href="#1">1</a>): </p>
 		<p>
 		<img src="guvvieh/Mac_08_MSOffice_tools_language_c.png" alt="Vállje giela"/>
 		</p>
-		<hr/>
+		
 		<p>4. Jus eanas áiggi čálát sámegiela, de vállje sámegiela standárdan ná: Coahkkal boalu  <strong>Default&#8230;</strong> (ovddit govas) ja de coahkkal boalu  <strong>Yes</strong> : </p>
 		<p>
 		<img src="guvvieh/Mac_08_MSOffice_tools_language_d.png" alt="Sámegiella standárdan?"/>
 		</p>
-		<hr/>
+		
 		<p>5. De sáhtát čállit sámegiela ja Divvun-reaiddut veahkehit du čállimiin: </p>
 		<p>
 		<img src="guvvieh/Mac_09_MSoffice_spelling_example_a.png" alt="Sámi teaksta mas leat čállinmeattáhusat"/>
@@ -89,8 +89,8 @@
 		<p>
 		<img src="guvvieh/Mac_09_MSoffice_spelling_example_c.png" alt="&#268;állindárkkistanláses"/>
 		</p>
-		<hr/>
-		<p><p><em>1:</em><anchor id="1"/></p>Microsoft ii leat dán rádjái heivehan MS Office Macas nu ahte dat doarju sámegiela, vaikkoge dát gávdno Windowsis. Sávvamis boahttevaš veršuvnnat ožžot dán doarjaga. Dassážii lea bággu defineret sámegiela eará giellan maid MS Office juo doarju. </p>
+		
+		<p>Microsoft ii leat dán rádjái heivehan MS Office Macas nu ahte dat doarju sámegiela, vaikkoge dát gávdno Windowsis. Sávvamis boahttevaš veršuvnnat ožžot dán doarjaga. Dassážii lea bággu defineret sámegiela eará giellan maid MS Office juo doarju. </p>
 	</section>
 	</body>
 </document>
