@@ -8,23 +8,24 @@
 
 	<body>
 		<note label="Windows">
-			<a href="leaflet/win-install.html">Microsoft Office</a>
+			<a href="leaflet/win-install.html">Microsoft Office, almmuhuvvon juovlamánu 31. b. 2008</a>
 			<br />
-			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org</a>
+			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, almmuhuvvon njukčamánu 18. b. 2009</a>
 		</note>
 		<note label="Mac OS X">
-			<a href="leaflet/mac-install.html">Microsoft Office</a>
+			<a href="leaflet/win-install.html">Microsoft Office, almmuhuvvon juovlamánu 31. b. 2008</a>
 			<br />
-			<a href="proofdoc/hyph/InDesign/index.html">InDesign CS3</a>
+			<a href="proofdoc/hyph/InDesign/index.html">InDesign CS3, almmuhuvvon skábmamánu 12. b. 2009</a>
 			<br />
-			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org</a>
-			<br />
-			<a href="">Eará prográmmaide</a>
+			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, almmuhuvvon njukčamánu 18. b. 2009</a>
+			<!--<br />
+			<a href="">For other programs</a>-->
 		</note>
 		<note label="Linux">
-			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org</a>
-			<br />
-			<a href="">Olles vuogádahkii</a>
+			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, almmuhuvvon njukčamánu 18. b. 2009</a>
+			<!--<br />
+			<a href="">For the whole system</a>
+			<br />-->
 		</note>
 	</body>
 </document>
