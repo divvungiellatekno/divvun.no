@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.3//EN" "document-v13.dtd">
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v13.dtd">
 <document>
 	<header>
 		<title>Sajáiduhttit ja geavahit reaidduid Windowsis</title>
 	</header>
 	<body>
 		<section>
+			<title>Skáhpput Divvuma</title>
+			<p><a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Viečča http://www.divvun.no/static_files/DivvunInstaller.exe</a> dahje dahje diŋgo CD Sámedikkis, tel: +47 78 48 42 22.</p>
+		</section>
+		<section>
 			<title>Sajáiduhttit ja geavahit reaidduid Windowsis</title>
-			<p>Jus áiggut sajáiduhttit Divvuma de sáhtát viežžat prográmma <link href="http://www.divvun.no/static_files/DivvunInstaller.exe">http://www.divvun.no/static_files/DivvunInstaller.exe</link>báikkis dahje sajáiduhttit dan CD:s. Coggal sisa CD dahje coahkkal viežžanliŋkka - sajáiduhttinprográmma álgá automáhtalaččat. </p>
+			<p>Coggal sisa CD dahje coahkkal viežžanliŋkka - sajáiduhttinprográmma álgá automáhtalaččat. </p>
 			<p>1. Vállje sajáiduhttingiela, dat mearkkaša, dan giela mii geavahuvvo prográmma sajáiduhtedettiin:  </p>
 			<p>
 				<img src="guvvieh/PC_02_Install_choose_language_cut.png" alt="Vállje sajáiduhttingiela"/>
@@ -36,7 +40,7 @@
 				<img src="guvvieh/PC_07_controlpanel_settings_date_clock_cut.png" alt="Dato, klokkeslag, språk och regionale innstillinger"/>
 			</p>
 			<hr/>
-			<p>2. Dál leat riikkaidgaskasaš heivehusaid siste. Dás duppalcoahkkalat govaža  <strong>Instillinger for region och språk</strong> : </p>
+			<p>2. Dál leat riikkaidgaskasaš heivehusaid siste. Dás duppalcoahkkalat govaža  <strong>Innstillinger for region och språk</strong> : </p>
 			<p>
 				<img src="guvvieh/PC_08_Settings_language_cut.png" alt="Duppalcoahkkal govaža &quot;Instillinger for region och språk&quot;"/>
 			</p>
