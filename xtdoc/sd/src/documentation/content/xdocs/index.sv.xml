@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="sv">
+<document xml:lang="nb">
 	<header>
 		<title>Divvun - sámi čállindárkkistanreaiddut</title>
 	</header>
@@ -10,17 +10,17 @@
 		<section>
 			<title>Windows/MSOffice</title>
 			<ul>
-				<li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller.exe">Last ned Divvun, v1.1</a></li>
-				<li><a href="leaflet/win-install.html">Dokument</a> som viser hvordan man installerer og bruker Windows/MSOffice-verktøyene</li>
-				<li><a href="win-msoffice-video.html">Videoer</a> som viser hvordan man installerer og bruker Windows/MSOffice-verktøyene</li>
+				<li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller.exe">Lasta ned Divvun, v1.1</a></li>
+				<li><a href="leaflet/win-install.html">Dokument</a> som visar hur man installerar och använder Windows/MSOffice-verktygen</li>
+				<li><a href="win-msoffice-video.html">Videor</a> som visar hur man installerar och använder Windows/MSOffice-verktygen</li>
 			</ul>
 		</section>
 
 		<section>
 			<title>Mac/MSOffice</title>
 			<ul>
-				<li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg">Last ned Divvun, v1.1</a></li>
-				<li><a href="leaflet/mac-install.html">Dokument</a> som viser hvordan man installerer og bruker Mac/MSOffice-verktøyene</li>
+				<li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg">Lasta ned Divvun, v1.1</a></li>
+				<li><a href="leaflet/mac-install.html">Dokument</a> som visar hur man installerar och använder Mac/MSOffice-verktygen</li>
 <!-- 				<li><a href="mac-msoffice-video.html">Videot</a> mat čájehit mo sajáiduhttá ja geavaha Windows/MSOffice reaidduid -->
 			</ul>
 		</section>
@@ -28,30 +28,30 @@
 		<section>
 			<title>OpenOffice.org</title>
 			<ul>
-				<li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Last ned Divvun</a></li>
-				<li><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">Dokument</a> som viser hvordan man installerer og bruker OpenOffice.org-verktøyene</li>
-				<li><a href="ooo-video.html">Videoer</a> som viser hvordan man installerer og bruker OpenOffice.org-verktøyene</li>
+				<li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Lasta ned Divvun</a></li>
+				<li><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">Dokument</a> som visar hur man installerar och använder OpenOffice.org-verktygen</li>
+				<li><a href="ooo-video.html">Videor</a> som visar hur man installerar och använder OpenOffice.org-verktygen</li>
 			</ul>
 		</section>
+
 
 		<section>
 			<title>InDesign CS3</title>
 			<ul>
-				<li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Viečča Divvuma</a></li>
-				<li><a href="proofdoc/hyph/InDesign/index.html">Dokumeanta</a> mii čájeha mo sajáiduhttá ja geavaha InDesign CS3-reaidduid</li>
+				<li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Last ned Divvun</a></li>
+				<li><a href="proofdoc/hyph/InDesign/index.html">Dokument</a> som visar hur man installerar och använder InDesign CS3-verktygen</li>
 			</ul>
 		</section>
 
 		<section>
 			<title>Mac OS X</title>
-			<p><a href="proofdoc/hyph/InDesign/index.html">Dokumeanta</a> mii čájeha mo sajáiduhttá ja geavaha Divvun olles Mac OS X:s</p>
+			<p><a href="proofdoc/hyph/InDesign/index.html">Dokument</a> som visar hur man installerar och använder Divvun i hela Mac OS X</p>
 		</section>
 
 		<section>
 			<title>Linux</title>
-			<p><a href="proofdoc/hyph/InDesign/index.html">Dokumeanta</a> mii čájeha mo sajáiduhttá ja geavaha Divvun olles Linuxas</p>
+			<p><a href="proofdoc/hyph/InDesign/index.html">Dokument</a> som visar hur man installerar och använder Divvun i hela Linux</p>
 		</section>
-
 <!--		<note label="Windows">
 			<a href="http://divvun.no/static_files/SouthSámiDivvunBeta1_installer.exe">South Sámi betaversion for Microsoft Office, almmuhuvvon borgemánu 27. b. 2010</a>
 			<br />
