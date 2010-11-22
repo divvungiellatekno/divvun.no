@@ -7,7 +7,51 @@
 	</header>
 
 	<body>
-		<note label="Windows">
+		<section>
+			<title>Windows/MSOffice</title>
+			<ul>
+				<li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller.exe">Viečča Divvuma, v1.1</a></li>
+				<li><a href="leaflet/win-install.html">Dokumeanta</a> mii čájeha mo sajáiduhttá ja geavaha Windows/MSOffice reaidduid</li>
+				<li><a href="win-msoffice-video.html">Videot</a> mat čájehit mo sajáiduhttá ja geavaha Windows/MSOffice reaidduid</li>
+			</ul>
+		</section>
+
+		<section>
+			<title>Mac/MSOffice</title>
+			<ul>
+				<li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg">Viečča Divvuma</a></li>
+				<li><a href="leaflet/mac-install.html">Dokumeanta</a> mii čájeha mo sajáiduhttá ja geavaha Mac/MSOffice reaidduid</li>
+<!-- 				<li><a href="mac-msoffice-video.html">Videot</a> mat čájehit mo sajáiduhttá ja geavaha Windows/MSOffice reaidduid -->
+			</ul>
+		</section>
+
+		<section>
+			<title>OpenOffice.org</title>
+			<ul>
+				<li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Viečča Divvuma</a></li>
+				<li><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">Dokumeanta</a> mii čájeha mo sajáiduhttá ja geavaha OpenOffice.org-reaidduid</li>
+				<li><a href="ooo-video.html">Videot</a> mat čájehit mo sajáiduhttá ja geavaha OpenOffice.org-reaidduid</li>
+			</ul>
+		</section>
+
+		<section>
+			<title>InDesign CS3</title>
+			<ul>
+				<li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Viečča Divvuma</a></li>
+				<li><a href="proofdoc/hyph/InDesign/index.html">Dokumeanta</a> mii čájeha mo sajáiduhttá ja geavaha InDesign CS3-reaidduid</li>
+			</ul>
+		</section>
+
+		<section>
+			<title>Mac OS X</title>
+			<p><a href="proofdoc/hyph/InDesign/index.html">Dokumeanta</a> mii čájeha mo sajáiduhttá ja geavaha Divvun olles Mac OS X:s</p>
+		</section>
+
+		<section>
+			<title>Linux</title>
+			<p><a href="proofdoc/hyph/InDesign/index.html">Dokumeanta</a> mii čájeha mo sajáiduhttá ja geavaha Divvun olles Linuxas</p>
+		</section>
+<!--		<note label="Windows">
 			<a href="http://divvun.no/static_files/SouthSámiDivvunBeta1_installer.exe">South Sámi betaversion for Microsoft Office, almmuhuvvon borgemánu 27. b. 2010</a>
 			<br />
 			<a href="leaflet/win-install.html">Microsoft Office, almmuhuvvon juovlamánu 31. b. 2008</a>
@@ -22,14 +66,14 @@
 			<a href="proofdoc/hyph/InDesign/index.html">InDesign CS3, almmuhuvvon skábmamánu 12. b. 2009</a>
 			<br />
 			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, almmuhuvvon njukčamánu 18. b. 2009</a>
-			<!--<br />
-			<a href="">For other programs</a>-->
+			<br />
+			<a href="">For other programs</a>
 		</note>
 		<note label="Linux">
 			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, almmuhuvvon njukčamánu 18. b. 2009</a>
-			<!--<br />
+			<br />
 			<a href="">For the whole system</a>
-			<br />-->
-		</note>
+			<br />
+		</note>-->
 	</body>
 </document>

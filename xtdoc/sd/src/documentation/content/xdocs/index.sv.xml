@@ -3,33 +3,78 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sv">
 	<header>
-		<title>Divvun - samiska rättskrivningsverktyg</title>
+		<title>Divvun - sámi čállindárkkistanreaiddut</title>
 	</header>
 
 	<body>
-		<note label="Windows">
-			<a href="http://divvun.no/static_files/SouthSámiDivvunBeta1_installer.exe">South Sámi betaversion for Microsoft Office, publiserad 27. augusti 2010</a>
+		<section>
+			<title>Windows/MSOffice</title>
+			<ul>
+				<li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller.exe">Last ned Divvun, v1.1</a></li>
+				<li><a href="leaflet/win-install.html">Dokument</a> som viser hvordan man installerer og bruker Windows/MSOffice-verktøyene</li>
+				<li><a href="win-msoffice-video.html">Videoer</a> som viser hvordan man installerer og bruker Windows/MSOffice-verktøyene</li>
+			</ul>
+		</section>
+
+		<section>
+			<title>Mac/MSOffice</title>
+			<ul>
+				<li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg">Last ned Divvun, v1.1</a></li>
+				<li><a href="leaflet/mac-install.html">Dokument</a> som viser hvordan man installerer og bruker Mac/MSOffice-verktøyene</li>
+<!-- 				<li><a href="mac-msoffice-video.html">Videot</a> mat čájehit mo sajáiduhttá ja geavaha Windows/MSOffice reaidduid -->
+			</ul>
+		</section>
+
+		<section>
+			<title>OpenOffice.org</title>
+			<ul>
+				<li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Last ned Divvun</a></li>
+				<li><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">Dokument</a> som viser hvordan man installerer og bruker OpenOffice.org-verktøyene</li>
+				<li><a href="ooo-video.html">Videoer</a> som viser hvordan man installerer og bruker OpenOffice.org-verktøyene</li>
+			</ul>
+		</section>
+
+		<section>
+			<title>InDesign CS3</title>
+			<ul>
+				<li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Viečča Divvuma</a></li>
+				<li><a href="proofdoc/hyph/InDesign/index.html">Dokumeanta</a> mii čájeha mo sajáiduhttá ja geavaha InDesign CS3-reaidduid</li>
+			</ul>
+		</section>
+
+		<section>
+			<title>Mac OS X</title>
+			<p><a href="proofdoc/hyph/InDesign/index.html">Dokumeanta</a> mii čájeha mo sajáiduhttá ja geavaha Divvun olles Mac OS X:s</p>
+		</section>
+
+		<section>
+			<title>Linux</title>
+			<p><a href="proofdoc/hyph/InDesign/index.html">Dokumeanta</a> mii čájeha mo sajáiduhttá ja geavaha Divvun olles Linuxas</p>
+		</section>
+
+<!--		<note label="Windows">
+			<a href="http://divvun.no/static_files/SouthSámiDivvunBeta1_installer.exe">South Sámi betaversion for Microsoft Office, almmuhuvvon borgemánu 27. b. 2010</a>
 			<br />
-			<a href="leaflet/win-install.html">Microsoft Office, publiserad 31. december, 2008</a>
+			<a href="leaflet/win-install.html">Microsoft Office, almmuhuvvon juovlamánu 31. b. 2008</a>
 			<br />
-			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, publiserad 18. mars, 2009</a>
+			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, almmuhuvvon njukčamánu 18. b. 2009</a>
 		</note>
 		<note label="Mac OS X">
-			<a href="http://divvun.no/static_files/sami-proofing-tools-20100827.dmg">South Sámi betaversion for Microsoft Office, publiserad 27. augusti 2010</a>
+			<a href="http://divvun.no/static_files/sami-proofing-tools-20100827.dmg">South Sámi betaversion for Microsoft Office, almmuhuvvon borgemánu 27. b. 2010</a>
 			<br />
-			<a href="leaflet/mac-install.html">Microsoft Office, publiserad 31. december, 2008</a>
+			<a href="leaflet/win-install.html">Microsoft Office, almmuhuvvon juovlamánu 31. b. 2008</a>
 			<br />
-			<a href="proofdoc/hyph/InDesign/index.html">InDesign CS3, publiserad 12. november, 2009</a>
+			<a href="proofdoc/hyph/InDesign/index.html">InDesign CS3, almmuhuvvon skábmamánu 12. b. 2009</a>
 			<br />
-			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, publiserad 18. mars, 2009</a>
-			<!--<br />
-			<a href="">For other programs</a>-->
+			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, almmuhuvvon njukčamánu 18. b. 2009</a>
+			<br />
+			<a href="">For other programs</a>
 		</note>
 		<note label="Linux">
-			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, publiserad 18. mars, 2009</a>
-			<!--<br />
+			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, almmuhuvvon njukčamánu 18. b. 2009</a>
+			<br />
 			<a href="">For the whole system</a>
-			<br />-->
-		</note>
+			<br />
+		</note>-->
 	</body>
 </document>
