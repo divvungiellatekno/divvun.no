@@ -2,57 +2,88 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="nb">
-	<header>
-		<title>Divvun - sámi čállindárkkistanreaiddut</title>
-	</header>
-
-	<body>
-		<section>
-			<title>Windows/MSOffice</title>
-			<ul>
-				<li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller.exe">Last ned Divvun, v1.1</a></li>
-				<li><a href="leaflet/win-install.html">Dokument</a> som viser hvordan man installerer og bruker Windows/MSOffice-verktøyene</li>
-				<li><a href="win-msoffice-video.html">Videoer</a> som viser hvordan man installerer og bruker Windows/MSOffice-verktøyene</li>
-			</ul>
-		</section>
-
-		<section>
-			<title>Mac/MSOffice</title>
-			<ul>
-				<li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg">Last ned Divvun, v1.1</a></li>
-				<li><a href="leaflet/mac-install.html">Dokument</a> som viser hvordan man installerer og bruker Mac/MSOffice-verktøyene</li>
-<!-- 				<li><a href="mac-msoffice-video.html">Videot</a> mat čájehit mo sajáiduhttá ja geavaha Windows/MSOffice reaidduid -->
-			</ul>
-		</section>
-
-		<section>
-			<title>OpenOffice.org</title>
-			<ul>
-				<li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Last ned Divvun</a></li>
-				<li><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">Dokument</a> som viser hvordan man installerer og bruker OpenOffice.org-verktøyene</li>
-				<li><a href="ooo-video.html">Videoer</a> som viser hvordan man installerer og bruker OpenOffice.org-verktøyene</li>
-			</ul>
-		</section>
-
-
-		<section>
-			<title>InDesign CS3</title>
-			<ul>
-				<li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Last ned Divvun</a></li>
-				<li><a href="proofdoc/hyph/InDesign/index.html">Dokument</a> som viser hvordan man installerer og bruker InDesign CS3-verktøyene</li>
-			</ul>
-		</section>
-
-		<section>
-			<title>Mac OS X</title>
-			<p><a href="proofdoc/hyph/InDesign/index.html">Dokument</a> som viser hvordan man installerer og bruker Divvun i hele Mac OS X</p>
-		</section>
-
-		<section>
-			<title>Linux</title>
-			<p><a href="proofdoc/hyph/InDesign/index.html">Dokument</a> som viser hvordan man installerer og bruker Divvun i hele Linux</p>
-		</section>
-<!--		<note label="Windows">
+   <header>
+      <title>Divvun - samiske rettskrivningsverktøy</title>
+   </header>
+   <body>
+      <note>Divvun 2.0 med støtte for MS Office 2010 (Windows), MS Office 2011 (Mac) og InDesign CS4 blir lansert 8.
+      desember 2010.</note>
+      <section>
+         <title>Last ned Divvun 1.1 for:</title>
+         <ul>
+            <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller.exe">MS Office — Windows</a> —
+            <a href="leaflet/win-install.html">veiledning</a> — <a
+            href="win-msoffice-video.html">instruksjonsvideoer</a> </li>
+            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg">MS Office — MacOS X</a>
+            — <a href="leaflet/mac-install.html">veiledning</a> </li>
+            <li class="Download"><a href="http://divvun.no/static_files/smi.oxt">OpenOffice 3 — alle operativsystem</a>
+            — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">veiledning</a> — <a
+            href="ooo-video.html">instruksjonsvideoer</a> </li>
+            <li class="Download">InDesign — MacOS X</li>
+         </ul>
+      </section>
+      <section>
+         <title>Andre installeringsalternativ</title>
+         <ul>
+            <li>Divvun for hele MacOS X</li>
+            <li>Divvun for hele Linux</li>
+            <li>Andre nedlastingspakker og eldre versjoner</li>
+         </ul>
+      </section>
+      <section>
+         <title>Om Divvun</title>
+         <p>Litt tekst her...</p>
+      </section>
+      <section>
+         <title>Divvun for MS Office — Windows</title>
+         <ul>
+            <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller.exe">Last ned nyeste Divvun</a>
+            (v1.1, desember 2008)</li>
+            <li><a href="leaflet/win-install.html">Dokument</a> som viser hvordan man installerer og bruker
+            Windows/MSOffice-verktøyene</li>
+            <li><a href="win-msoffice-video.html">Videoer</a> som viser hvordan man installerer og bruker
+            Windows/MSOffice-verktøyene</li>
+         </ul>
+      </section>
+      <section>
+         <title>Divvun for MS Office — MacOS X</title>
+         <ul>
+            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg">Last ned Divvun</a>
+            (v1.1, desember 2008)</li>
+            <li><a href="leaflet/mac-install.html">Dokument</a> som viser hvordan man installerer og bruker
+            Mac/MSOffice-verktøyene</li>
+            <!-- 				<li><a href="mac-msoffice-video.html">Videot</a> mat čájehit mo sajáiduhttá ja geavaha Windows/MSOffice reaidduid -->
+         </ul>
+      </section>
+      <section>
+         <title>Divvun for OpenOffice.org — alle operativsystem</title>
+         <ul>
+            <li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Last ned Divvun</a></li>
+            <li><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">Dokument</a> som viser hvordan man installerer
+            og bruker OpenOffice.org-verktøyene</li>
+            <li><a href="ooo-video.html">Videoer</a> som viser hvordan man installerer og bruker
+            OpenOffice.org-verktøyene</li>
+         </ul>
+      </section>
+      <section>
+         <title>Divvun for InDesign — MacOS X</title>
+         <ul>
+            <li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Last ned Divvun</a></li>
+            <li><a href="proofdoc/hyph/InDesign/index.html">Dokument</a> som viser hvordan man installerer og bruker
+            InDesign CS3-verktøyene</li>
+         </ul>
+      </section>
+      <section>
+         <title>Divvun for Mac OS X</title>
+         <p><a href="proofdoc/hyph/InDesign/index.html">Dokument</a> som viser hvordan man installerer og bruker Divvun
+         i hele Mac OS X</p>
+      </section>
+      <section>
+         <title>Divvun for Linux</title>
+         <p><a href="proofdoc/hyph/InDesign/index.html">Dokument</a> som viser hvordan man installerer og bruker Divvun
+         i hele Linux</p>
+      </section>
+      <!--		<note label="Windows">
 			<a href="http://divvun.no/static_files/SouthSámiDivvunBeta1_installer.exe">South Sámi betaversion for Microsoft Office, almmuhuvvon borgemánu 27. b. 2010</a>
 			<br />
 			<a href="leaflet/win-install.html">Microsoft Office, almmuhuvvon juovlamánu 31. b. 2008</a>
@@ -76,5 +107,5 @@
 			<a href="">For the whole system</a>
 			<br />
 		</note>-->
-	</body>
+   </body>
 </document>
