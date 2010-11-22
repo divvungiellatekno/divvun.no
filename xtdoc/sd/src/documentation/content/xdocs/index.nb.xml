@@ -7,77 +7,35 @@
    </header>
    <body>
       <note>Divvun 2.0 med støtte for MS Office 2010 (Windows), MS Office 2011 (Mac) og InDesign CS4 blir lansert 8.
-      desember 2010.</note>
+      desember 2010. Støtte for InDesign CS5 er underveis men blir ikke ferdig til 2.0-lanseringen 8. desember.</note>
       <section>
          <title>Last ned Divvun</title>
          <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller.exe">MS Office — Windows, v1.1</a> —
-            <a href="leaflet/win-install.html">veiledning</a> — <a
-            href="win-msoffice-video.html">instruksjonsvideoer</a> </li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg">MS Office — MacOS X, v1.1</a>
-            — <a href="leaflet/mac-install.html">veiledning</a> </li>
-            <li class="Download"><a href="http://divvun.no/static_files/smi.oxt">OpenOffice 3 — alle operativsystem, v.1.0beta7</a>
-            — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">veiledning</a> — <a
-            href="ooo-video.html">instruksjonsvideoer</a> </li>
-            <li class="Download">InDesign — MacOS X</li>
+            <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller.exe"><icon alt="Download"
+            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
+            v1.1</a> — <a href="leaflet/win-install.html">veiledning</a> — <a
+            href="win-msoffice-video.html">instruksjonsvideoer</a></li>
+            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon alt="Download"
+            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
+            v1.1</a> — <a href="leaflet/mac-install.html">veiledning</a><!--				<li><a href="mac-msoffice-video.html">instruksjonsvideoer</a>--></li>
+            <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — alle operativsystem, Divvun
+            v.1.0beta7</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">veiledning</a> — <a
+            href="ooo-video.html">instruksjonsvideoer</a></li>
+            <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun v1.1</a> — <a
+            href="proofdoc/hyph/InDesign/index.html">veiledning</a> </li>
          </ul>
       </section>
       <section>
          <title>Andre installeringsalternativ</title>
          <ul>
-            <li>Divvun for hele MacOS X</li>
-            <li>Divvun for hele Linux</li>
-            <li>Andre nedlastingspakker og eldre versjoner</li>
+            <li>Divvun for hele MacOS X: <a href="proofdoc/hyph/InDesign/index.html">instruksjoner</a> for hvordan man
+            installerer og bruker Divvun-verktøyene i hele Mac OS X</li>
+            <li>Divvun for hele Linux: <a href="proofdoc/hyph/InDesign/index.html">instruksjoner</a> for hvordan man
+            installerer og bruker Divvun-verktøyene i hele Linux</li>
+            <li><a href="more_downloads.nb.html">Andre nedlastingspakker og eldre versjoner</a></li>
          </ul>
-      </section>
-      <section>
-         <title>Divvun for MS Office — Windows</title>
-         <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller.exe">Last ned nyeste Divvun</a>
-            (v1.1, desember 2008)</li>
-            <li><a href="leaflet/win-install.html">Dokument</a> som viser hvordan man installerer og bruker
-            Windows/MSOffice-verktøyene</li>
-            <li><a href="win-msoffice-video.html">Videoer</a> som viser hvordan man installerer og bruker
-            Windows/MSOffice-verktøyene</li>
-         </ul>
-      </section>
-      <section>
-         <title>Divvun for MS Office — MacOS X</title>
-         <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg">Last ned Divvun</a>
-            (v1.1, desember 2008)</li>
-            <li><a href="leaflet/mac-install.html">Dokument</a> som viser hvordan man installerer og bruker
-            Mac/MSOffice-verktøyene</li>
-            <!-- 				<li><a href="mac-msoffice-video.html">Videot</a> mat čájehit mo sajáiduhttá ja geavaha Windows/MSOffice reaidduid -->
-         </ul>
-      </section>
-      <section>
-         <title>Divvun for OpenOffice.org — alle operativsystem</title>
-         <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Last ned Divvun</a></li>
-            <li><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">Dokument</a> som viser hvordan man installerer
-            og bruker OpenOffice.org-verktøyene</li>
-            <li><a href="ooo-video.html">Videoer</a> som viser hvordan man installerer og bruker
-            OpenOffice.org-verktøyene</li>
-         </ul>
-      </section>
-      <section>
-         <title>Divvun for InDesign — MacOS X</title>
-         <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Last ned Divvun</a></li>
-            <li><a href="proofdoc/hyph/InDesign/index.html">Dokument</a> som viser hvordan man installerer og bruker
-            InDesign CS3-verktøyene</li>
-         </ul>
-      </section>
-      <section>
-         <title>Divvun for Mac OS X</title>
-         <p><a href="proofdoc/hyph/InDesign/index.html">Dokument</a> som viser hvordan man installerer og bruker Divvun
-         i hele Mac OS X</p>
-      </section>
-      <section>
-         <title>Divvun for Linux</title>
-         <p><a href="proofdoc/hyph/InDesign/index.html">Dokument</a> som viser hvordan man installerer og bruker Divvun
-         i hele Linux</p>
       </section>
       <!--		<note label="Windows">
 			<a href="http://divvun.no/static_files/SouthSámiDivvunBeta1_installer.exe">South Sámi betaversion for Microsoft Office, almmuhuvvon borgemánu 27. b. 2010</a>
