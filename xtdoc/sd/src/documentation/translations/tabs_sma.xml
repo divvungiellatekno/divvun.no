@@ -15,13 +15,13 @@
     See the License for the specific language governing permissions and
     limitations under the License.
     -->
-<catalogue xml:lang="sv">
-    <message key="Ruoktu">Hem</message>
-    <message key="Administrašuvdna">Administration</message>
+<catalogue xml:lang="sma">
+    <message key="Ruoktu">Hjem</message>
+    <message key="Administrašuvdna">Administrasjon</message>
     <message key="Oppalaš">Generelt</message>
     <message key="Raporttat">Rapporter</message>
     <message key="Outsourcing">Outsourcing</message>
-    <message key="Styringsgruppa">Styrningsgruppen</message>
-    <message key="Legal">Juridik</message>
-    <message key="Sámi disamb. proj.">Disamb-projektet</message>
+    <message key="Styringsgruppa">Styringsgruppa</message>
+    <message key="Legal">Juridiske saker</message>
+    <message key="Sámi disamb. proj.">Disamb-prosjektet</message>
 </catalogue>

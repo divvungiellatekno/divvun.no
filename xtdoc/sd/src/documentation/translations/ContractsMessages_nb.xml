@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<catalogue>
+<catalogue xml:lang="nb">
   <!-- HTML translations: -->
   <message key="Font size:">Fontstørrelse:</message>
   <message key="Last Published:">Sist publisert:</message>
