@@ -11,10 +11,12 @@ nr.         (nummár/nummir)
 km          (kilomehter, kilomehtera)
 jna         ( ja nu ain)
 jnv         (ja nu viidáseappot)
+dl          desilihtter/desilihttera
 
 accr.:
 K.B. Wiklund (nom) (2)
 ON (nom) (3)
+(ON) (gen) (1)
 ON:s (1)
 UNICEF (nom) (2)
 ON-beaivi (nom) (1)
@@ -38,6 +40,13 @@ FeFo:s (1)
 FeFo:i (1)
 ČSV:s (1)
 SÁNAG (nom) (1)
+UNN:in (1)
+SMS (acc) (1)
+NSR:s (1)
+NSR:i (1)
+NSR (nom) (1)
+H2O (nom) (1)
+USA:s (1)
 
 Numerals, grouping is loosely based on expansion:
 
