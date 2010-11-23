@@ -25,7 +25,7 @@
         <tab id="legal"   label="Legal" dir="adm/legal" indexfile="index.html" />
     </tab>
 
-    <tab href="http://giellatekno.uit.no" label="Sámi disamb. proj." />
+    <tab href="http://giellatekno.uit.no" label="Giellatekno" />
 
     <!-- The Tech-Doc tab -->
     <tab href="http://divvun.no/doc/index.html" label="	TechDoc" />
