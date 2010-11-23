@@ -37,6 +37,16 @@
             <li><a href="more_downloads.nb.html">Andre nedlastingspakker og eldre versjoner</a></li>
          </ul>
       </section>
+      <section>
+         <title>Om Divvun-verktøyene</title>
+         <p>Divvun-verktøyene har blitt utviklet i to treårige prosjekt under Sametinget, finansiert av Sametinget, FAD
+         og KD, for å ta fram skrivestøtteprogram for de vanligste kontorprogrammene i de tre store operativsystemene
+         (Linux, MacOS X og Windows). Divvun I (nord- og lulesamisk) varte fra 2004 til 2007, og Divvun II (sørsamisk)
+         fra 2008 til 2010. Fra 2011 vil prosjektet bli flyttet over til Universtitetet i Tromsø, og bli en permanent
+         enhet som skal fortsette å videreutvikle samisk språkteknologi og praktiske hjelpemidler basert på denne
+         språkteknologien i nært samarbeid med Senter for samisk språkteknologi. Mer informasjon finnes i menyene til
+         venstre.</p>
+      </section>
       <!--		<note label="Windows">
 			<a href="http://divvun.no/static_files/SouthSámiDivvunBeta1_installer.exe">South Sámi betaversion for Microsoft Office, almmuhuvvon borgemánu 27. b. 2010</a>
 			<br />
