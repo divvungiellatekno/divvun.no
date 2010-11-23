@@ -3,24 +3,24 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
 	<header>
-		<title>Divvun - sámi čállindárkkistanreaiddut</title>
+		<title>Divvun - saemien staeriedimmiedïrregh</title>
 	</header>
 
 	<body>
 		<section>
 			<title>Windows/MSOffice</title>
 			<ul>
-				<li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller.exe">Last ned Divvun, v1.1</a></li>
-				<li><a href="leaflet/win-install.html">Dokument</a> som viser hvordan man installerer og bruker Windows/MSOffice-verktøyene</li>
-				<li><a href="win-msoffice-video.html">Videoer</a> som viser hvordan man installerer og bruker Windows/MSOffice-verktøyene</li>
+				<li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller.exe">Vïedtjelh Divvunem, v1.1</a></li>
+				<li><a href="leaflet/win-install.html">Dokumente</a> mij vuesehte guktie siejjiedehtedh jïh utnedh dam Windows/MSOffice-dïrregidie</li>
+				<li><a href="win-msoffice-video.html">Videovh</a> mah vuesiehtieh guktie siejjiedehtedh jïh utnedh Windows/MSOffice-dïrregidie</li>
 			</ul>
 		</section>
 
 		<section>
 			<title>Mac/MSOffice</title>
 			<ul>
-				<li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg">Last ned Divvun, v1.1</a></li>
-				<li><a href="leaflet/mac-install.html">Dokument</a> som viser hvordan man installerer og bruker Mac/MSOffice-verktøyene</li>
+				<li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg">Vïedtjelh Divvunem, v1.1</a></li>
+				<li><a href="leaflet/mac-install.html">Dokumente</a> mij vuesehte guktie siejjiedehtedh jïh utnedh Mac/MSOffice-dïrregidie</li>
 <!-- 				<li><a href="mac-msoffice-video.html">Videot</a> mat čájehit mo sajáiduhttá ja geavaha Windows/MSOffice reaidduid -->
 			</ul>
 		</section>
@@ -28,28 +28,28 @@
 		<section>
 			<title>OpenOffice.org</title>
 			<ul>
-				<li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Last ned Divvun</a></li>
-				<li><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">Dokument</a> som viser hvordan man installerer og bruker OpenOffice.org-verktøyene</li>
-				<li><a href="ooo-video.html">Videoer</a> som viser hvordan man installerer og bruker OpenOffice.org-verktøyene</li>
+				<li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Vïedtjelh Divvunem</a></li>
+				<li><a href="proofdoc/spell/X-spell/install_use_OOo3x.html">Dokumente</a> mij vuesehte guktie siejjiedehtedh jïh utnedh OpenOffice.org-dïrregidie</li>
+				<li><a href="ooo-video.html">Videovh</a> mah vuesiehtieh guktie siejjiedehtedh jïh utnedh OpenOffice.org-dïrregidie</li>
 			</ul>
 		</section>
 
 		<section>
 			<title>InDesign CS3</title>
 			<ul>
-				<li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Viečča Divvuma</a></li>
-				<li><a href="proofdoc/hyph/InDesign/index.html">Dokumeanta</a> mii čájeha mo sajáiduhttá ja geavaha InDesign CS3-reaidduid</li>
+				<li class="Download"><a href="http://divvun.no/static_files/smi.oxt">Vïedtjelh Divvunem</a></li>
+				<li><a href="proofdoc/hyph/InDesign/index.html">Dokumente</a> mij vuesehte guktie siejjiedehtedh jïh utnedh InDesign CS3-dïrregidie</li>
 			</ul>
 		</section>
 
 		<section>
 			<title>Mac OS X</title>
-			<p><a href="proofdoc/hyph/InDesign/index.html">Dokumeanta</a> mii čájeha mo sajáiduhttá ja geavaha Divvun olles Mac OS X:s</p>
+			<p><a href="proofdoc/hyph/InDesign/index.html">Dokumente</a> mij vuesehte guktie siejjiedehtedh jïh utnedh Divvunem Mac OS X:sne</p>
 		</section>
 
 		<section>
 			<title>Linux</title>
-			<p><a href="proofdoc/hyph/InDesign/index.html">Dokumeanta</a> mii čájeha mo sajáiduhttá ja geavaha Divvun olles Linuxas</p>
+			<p><a href="proofdoc/hyph/InDesign/index.html">Dokumente</a> mij vuesehte guktie siejjiedehtedh jïh utnedh Divvunem Linuxisnie</p>
 		</section>
 
 <!--		<note label="Windows">
@@ -77,4 +77,78 @@
 			<br />
 		</note>-->
 	</body>
+</document>
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nb">
+   <header>
+      <title>Divvun - saemien staeriedimmiedïrregh</title>
+   </header>
+   <body>
+      <note>Divvun 2.0 mij dåarjohte MS Officem 2010 (Windows), MS Officem 2011 (Mac) og InDesign CS4 båata 8.
+      desembere 2010. Mijjieh libie barkeminie InDesign CS5 dåarjoehtimmine  men ij leah riejries 8. desemberasse.</note>
+      <section>
+         <title>Vïedtjelh Divvunem</title>
+         <ul>
+            <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller.exe"><icon alt="Download"
+            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
+            v1.1</a> — <a href="leaflet/win-install.html">bïhkedimmie</a> — <a
+            href="win-msoffice-video.html">bïhkedimmievideovh</a></li>
+            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon alt="Download"
+            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
+            v1.1</a> — <a href="leaflet/mac-install.html">veiledning</a><!--				<li><a href="mac-msoffice-video.html">instruksjonsvideoer</a>--></li>
+            <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — dovne operatijvesysteemh, Divvun
+            v.1.0beta7</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">bïhkedimmie</a> — <a
+            href="ooo-video.html">bïhkedimmievideovh</a></li>
+            <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun v1.1</a> — <a
+            href="proofdoc/hyph/InDesign/index.html">veiledning</a> </li>
+         </ul>
+      </section>
+      <section>
+         <title>Jeatja sijjiedehtemealternatijvh</title>
+         <ul>
+            <li>Divvun  dam MacOS X:se <a href="proofdoc/hyph/InDesign/index.html">bïhkedimmieh</a> guktie siejjiedehtedh jïh utnedh dam Mac OS X:sne</li>
+            <li>Divvun dam Linux:se <a href="proofdoc/hyph/InDesign/index.html">bïhkedimmieh</a> guktie siejjiedehtedh jïh utnedh Divvun-dïrregidie dam Linux:sne</li>
+            <li><a href="more_downloads.nb.html">Jeatja paahkeh jïh båarasåbpoe versjovneh</a></li>
+         </ul>
+      </section>
+      <section>
+         <title>Divvun-dïrregem bïjre</title>
+         <p>Divvun-dïrregh leah uvtiedovveme göökten golme-jaepien prosjektesne Saemiendigkien vueline, maam Saemiendigkie, FAD
+         jïh KD leah beetnegehteme, uvtiedovvedh staeriedimmiedïrregidie sïejhmemes kontovreprogrammide golme stööremes operatijvesysteemese
+         (Linux, MacOS X jïh Windows). Divvun I (noerhte- jïh luvlijesaemie) lij 2004 raejeste 2007 raajan, jïh Divvun II (åarjelsaemie)
+         2008 raejeste 2010 raajan. 2011 raejeste særtasåvva prosjekte ahkedh Tromsen Universiteetese, gusnie edtja uvtiedidh saemien gïeleteknologijem jïh dæjpeles dïrregidie daehtie
+         gïeleteknologijeste aktene Saemien gïeleteknologijen gåavtasjinie. Jienebe daejremh menyesne gårroehbielesne.</p>
+      </section>
+      <!--		<note label="Windows">
+			<a href="http://divvun.no/static_files/SouthSámiDivvunBeta1_installer.exe">South Sámi betaversion for Microsoft Office, almmuhuvvon borgemánu 27. b. 2010</a>
+			<br />
+			<a href="leaflet/win-install.html">Microsoft Office, almmuhuvvon juovlamánu 31. b. 2008</a>
+			<br />
+			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, almmuhuvvon njukčamánu 18. b. 2009</a>
+		</note>
+		<note label="Mac OS X">
+			<a href="http://divvun.no/static_files/sami-proofing-tools-20100827.dmg">South Sámi betaversion for Microsoft Office, almmuhuvvon borgemánu 27. b. 2010</a>
+			<br />
+			<a href="leaflet/win-install.html">Microsoft Office, almmuhuvvon juovlamánu 31. b. 2008</a>
+			<br />
+			<a href="proofdoc/hyph/InDesign/index.html">InDesign CS3, almmuhuvvon skábmamánu 12. b. 2009</a>
+			<br />
+			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, almmuhuvvon njukčamánu 18. b. 2009</a>
+			<br />
+			<a href="">For other programs</a>
+		</note>
+		<note label="Linux">
+			<a href="proofdoc/spell/X-spell/install_use_OOo3x.html">OpenOffice.org, almmuhuvvon njukčamánu 18. b. 2009</a>
+			<br />
+			<a href="">For the whole system</a>
+			<br />
+		</note>-->
+   </body>
 </document>
