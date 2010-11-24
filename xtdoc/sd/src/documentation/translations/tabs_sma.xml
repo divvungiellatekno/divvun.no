@@ -23,4 +23,6 @@
     <message key="Outsourcing">Outsourcing</message>
     <message key="Styringsgruppa">Styringsgruppa</message>
     <message key="Legal">Juridiske saker</message>
+	<message key="Proofing">Stavekontroll</message>
+	<message key="Future">Fremtiden</message>
 </catalogue>
