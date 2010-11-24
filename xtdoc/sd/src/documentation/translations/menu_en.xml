@@ -21,7 +21,7 @@
   <message key="Giellapolitihkka">Language policy</message>
   <message key="Prošeavtta plánat">Project plans</message>
   <message key="Mo reaiddut ráhkaduvvojit">How the tools are made</message>
-  <message key="Máttasámegiella">South sami</message>
+  <message key="Máttasámegiella">South Sámi</message>
   <message key="Preassadieđáhusat">Press releases</message>
   <message key="Sáddes fiillaid midjiide">Send us files</message>
   <message key="Administration">Administration</message>
@@ -37,15 +37,15 @@
   <message key="SD Contract, 3. part">3. part, the Sami Parliament</message>
   <message key="Outsourcing">Outsourcing</message>
   <message key="Overview">Overview</message>
-  <message key="Qualification Criterias">Qualification criterias</message>
-  <message key="Selection Criterias">Selection criterias</message>
+  <message key="Qualification Criterias">Qualification criteria</message>
+  <message key="Selection Criterias">Selection criteria</message>
   <message key="Deliverables">Deliverables</message>
   <message key="Requirements Specification">Requirements specification</message>
   <message key="Styringsgruppa">Board</message>
   <message key="Oversikt">Overview</message>
-  <message key="1. halvårsrapport">First half yearly report</message>
+  <message key="1. halvårsrapport">First biannual report</message>
   <message key="Permanent driftsorganisasjon">Permanent maintenance organisation</message>
-  <message key="Sørsamisk stavekontroll">South sami spellchecker</message>
+  <message key="Sørsamisk stavekontroll">South Sámi spellchecker</message>
   <message key="Møte">Meetings</message>
   <message key="4. 10. 2005">4. october 2005</message>
   <message key="Monthly reports">Monthly reports</message>
@@ -64,7 +64,7 @@
   <message key="Feb '05">Feb. '05</message>
   <message key="Jan '05">Jan. '05</message>
   <message key="Oct-Dec '04">Oct.-Dec. '04</message>
-  <message key="Cooperation with UiT">Cooperation with UiTø</message>
+  <message key="Cooperation with UiT">Cooperation with UiT</message>
   <message key="Cooperation meeting 3.10.2005">Cooperation meeting 3.10.2005</message>
   <message key="Installation and usage">Installation and usage</message>
 </catalogue>
