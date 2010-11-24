@@ -28,7 +28,7 @@
     <tab href="http://giellatekno.uit.no" label="Giellatekno" />
 
     <!-- The Tech-Doc tab -->
-    <tab href="http://divvun.no/doc/index.html" label="	TechDoc" />
+    <tab href="http://divvun.no/doc/index.html" label="TechDoc" />
 
     <!-- The Proofing Tech-Doc tab -->
     <tab href="http://divvun.no/doc/proof/index.html" label="Proofing" />
