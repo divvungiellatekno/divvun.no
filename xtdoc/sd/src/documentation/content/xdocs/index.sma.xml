@@ -2,51 +2,52 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
-	<header>
-		<title>Divvun - saemien staeriedimmiedïrregh</title>
-	</header>
-
+   <header>
+      <title>Divvun - saemien staeriedimmiedïrregh</title>
+   </header>
    <body>
       <note>Divvun 2.0 med støtte for MS Office 2010 (Windows), MS Office 2011 (Mac) og InDesign CS4 blir lansert 8.
       desember 2010. Støtte for InDesign CS5 er underveis men blir ikke ferdig til 2.0-lanseringen 8. desember.</note>
       <section>
-         <title>Last ned Divvun</title>
+         <title>Vïedtjelh Divvunem</title>
          <ul>
             <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller.exe"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
-            v1.1</a> — <a href="leaflet/win-install.html">veiledning</a> — <a
+            v1.1</a> — <a href="leaflet/win-install.html">bïhkedimmie</a> — <a
             href="win-msoffice-video.html">instruksjonsvideoer</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
-            v1.1</a> — <a href="leaflet/mac-install.html">veiledning</a> — <a href="mac-video.html">instruksjonsvideoer</a></li>
+            v1.1</a> — <a href="leaflet/mac-install.html">bïhkedimmie</a> — <a
+            href="mac-video.html">instruksjonsvideoer</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
             src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — alle operativsystem, Divvun
-            v.1.0beta7</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">veiledning</a> — <a
+            v.1.0beta7</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">bïhkedimmie</a> — <a
             href="ooo-video.html">instruksjonsvideoer</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
             src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun v1.1</a> — <a
-            href="proofdoc/hyph/InDesign/index.html">veiledning</a> </li>
+            href="proofdoc/hyph/InDesign/index.html">bïhkedimmie</a></li>
          </ul>
       </section>
       <section>
-         <title>Andre installeringsalternativ</title>
+         <title>Jeatjh-laakan sijjiedehtedh</title>
          <ul>
-            <li>Divvun for hele MacOS X: <a href="proofdoc/hyph/InDesign/index.html">instruksjoner</a> for hvordan man
-            installerer og bruker Divvun-verktøyene i hele Mac OS X</li>
-            <li>Divvun for hele Linux: <a href="proofdoc/hyph/InDesign/index.html">instruksjoner</a> for hvordan man
-            installerer og bruker Divvun-verktøyene i hele Linux</li>
+            <li>Divvun MacOS Xese: <a href="proofdoc/hyph/InDesign/index.html">instruksjoner</a> guktie sijjiedehtedh
+            jïh provhkedh Divvundïrregidie Mac OS Xesne </li>
+            <li>Divvun Linuxese: <a href="proofdoc/hyph/InDesign/index.html">instruksjoner</a> guktie sijjiedehtedh jïh
+            provhkedh Divvundïrregidie Linuxesne</li>
             <li><a href="more_downloads.nb.html">Andre nedlastingspakker og eldre versjoner</a></li>
          </ul>
       </section>
       <section>
-         <title>Om Divvun-verktøyene</title>
-         <p>Divvun-verktøyene har blitt utviklet i to treårige prosjekt under Sametinget, finansiert av Sametinget, FAD
-         og KD, for å ta fram skrivestøtteprogram for de vanligste kontorprogrammene i de tre store operativsystemene
-         (Linux, MacOS X og Windows).</p>
-		 <p>Divvun I (nord- og lulesamisk) varte fra 2004 til 2007, og Divvun II (sørsamisk)
-         fra 2008 til 2010. Fra 2011 vil prosjektet bli flyttet over til Universitetet i Tromsø, og bli en permanent
-         enhet som skal fortsette å videreutvikle samisk språkteknologi og praktiske hjelpemidler basert på denne
-         språkteknologien i nært samarbeid med Senter for samisk språkteknologi.</p>
+         <title>Divvun-dïrregi bïjre</title>
+         <p>Saemiedigkien prosjekten åelesne leah Divvun-dïrregh dorjesovveme daejnie göökte prosjektine. Prosjekte lea
+         beetneh-vierhtieh åådtjeme Saemiedigkeste, FADeste jïh KDeste jïh ulmie lij tjaelemeprogrammh darjodh duejtie
+         sïejhmemes kontovreprogrammide mah lea dejnie golme stööremes operativsysteminie. (Linux, MacOS X jïh
+         Windows).</p>
+         <p>Divvun I (noerhte- jïh luvlesaemien) lij 2004 raejeste 2007 raajan, jïh Divvun II (åarjelsaemien) 2008
+         raejeste 2010 raajan. 2011 raejeste prosjektete Tromsøen Universiteeten åelesne sjædta jïh dellie vihties
+         barkojne sjædta mij galka evtiedidh saemien gïeleteknologijem jïh praktihke viehkievierhtieh darjodh Senter for
+         samisk språkteknologi:ene ektesne. </p>
       </section>
    </body>
 </document>
