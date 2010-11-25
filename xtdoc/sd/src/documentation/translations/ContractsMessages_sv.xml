@@ -17,18 +17,18 @@
 -->
 <catalogue xml:lang="sv">
   <!-- HTML translations: -->
-  <message key="Font size:">Fontstørrelse:</message>
-  <message key="Last Published:">Sist publisert:</message>
-  <message key="Search">Søk</message>
+  <message key="Font size:">Teckensnittstorlek:</message>
+  <message key="Last Published:">Sist publicerat:</message>
+  <message key="Search">Sök</message>
   <message key="More">Mer</message>
-  <message key="Search the site with">Søk nettstedet</message>
+  <message key="Search the site with">Sök internetsidan</message>
   <!-- PDF/fo translations: -->
-  <message key="NOTICE:">MERKNAD:</message>
+  <message key="NOTICE:">OBS:</message>
   <message key="by">av </message>
-  <message key="Note:">Merk:</message>
-  <message key="FIXME">FIKSMEG</message>
+  <message key="Note:">Obs:</message>
+  <message key="FIXME">FIXAMEJ</message>
   <message key="Table">Tabell</message>
-  <message key="Table of contents">Innhold</message>
-  <message key="Page 1">Side {0}</message>
-  <message key="Page 1 of 1">Side {0} av {1}</message>
+  <message key="Table of contents">Innehåll</message>
+  <message key="Page 1">Sida {0}</message>
+  <message key="Page 1 of 1">Sida {0} av {1}</message>
 </catalogue>
