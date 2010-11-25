@@ -7,46 +7,44 @@
 	</header>
 
    <body>
-      <note>Divvun 2.0 med støtte for MS Office 2010 (Windows), MS Office 2011 (Mac) og InDesign CS4 blir lansert 8.
-      desember 2010. Støtte for InDesign CS5 er underveis men blir ikke ferdig til 2.0-lanseringen 8. desember.</note>
+      <note>Divvun 2.0 MS Office 2010-doarjjagijn (Windows), MS Office 2011 (Mac) ja InDesign CS4 almoduvvá javllamánno 8. biejve 2010. InDesign CS5-dårja boahtá ruvvaláhkáj válla ij la gárves 2.0-almodibmáj javllamáno 8. biejve.</note>
       <section>
-         <title>Last ned Divvun</title>
+         <title>Viedtjala Divvunav</title>
          <ul>
             <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller.exe"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
-            v1.1</a> — <a href="leaflet/win-install.html">veiledning</a> — <a
-            href="win-msoffice-video.html">instruksjonsvideoer</a></li>
+            v1.1</a> — <a href="leaflet/win-install.html">bagádis</a> — <a
+            href="win-msoffice-video.html">bagádimvideo</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
-            v1.1</a> — <a href="leaflet/mac-install.html">veiledning</a> — <a href="mac-video.html">instruksjonsvideoer</a></li>
+            v1.1</a> — <a href="leaflet/mac-install.html">bagádis</a> — <a href="mac-video.html">bagádimvideo</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
-            src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — alle operativsystem, Divvun
-            v.1.0beta7</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">veiledning</a> — <a
-            href="ooo-video.html">instruksjonsvideoer</a></li>
+            src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — divna operativsystema, Divvun
+            v.1.0beta7</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">bagádis</a> — <a
+            href="ooo-video.html">bagádimvideo</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
             src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun v1.1</a> — <a
-            href="proofdoc/hyph/InDesign/index.html">veiledning</a> </li>
+            href="proofdoc/hyph/InDesign/index.html">bagádis</a> </li>
          </ul>
       </section>
       <section>
-         <title>Andre installeringsalternativ</title>
+         <title>Ietjá installerimmáhttelisvuoda</title>
          <ul>
-            <li>Divvun for hele MacOS X: <a href="proofdoc/hyph/InDesign/index.html">instruksjoner</a> for hvordan man
-            installerer og bruker Divvun-verktøyene i hele Mac OS X</li>
-            <li>Divvun for hele Linux: <a href="proofdoc/hyph/InDesign/index.html">instruksjoner</a> for hvordan man
-            installerer og bruker Divvun-verktøyene i hele Linux</li>
-            <li><a href="more_downloads.nb.html">Andre nedlastingspakker og eldre versjoner</a></li>
+            <li>Divvun divna MacOS X:j <a href="proofdoc/hyph/InDesign/index.html">bagádisá</a> gåktå
+            installerit ja adnet Divvun-nævojt divna Mac OS X:n</li>
+            <li>Divvun divna Linuxij  <a href="proofdoc/hyph/InDesign/index.html">bagádisá</a> gåktå
+            installerit ja adnet Divvun-nævojt divna Linuxin</li>
+            <li><a href="more_downloads.nb.html">Ietjá páhke ja boarrásup versjåvnå</a></li>
          </ul>
       </section>
       <section>
-         <title>Om Divvun-verktøyene</title>
-         <p>Divvun-verktøyene har blitt utviklet i to treårige prosjekt under Sametinget, finansiert av Sametinget, FAD
-         og KD, for å ta fram skrivestøtteprogram for de vanligste kontorprogrammene i de tre store operativsystemene
-         (Linux, MacOS X og Windows). Divvun I (nord- og lulesamisk) varte fra 2004 til 2007, og Divvun II (sørsamisk)
-         fra 2008 til 2010. Fra 2011 vil prosjektet bli flyttet over til Universitetet i Tromsø, og bli en permanent
-         enhet som skal fortsette å videreutvikle samisk språkteknologi og praktiske hjelpemidler basert på denne
-         språkteknologien i nært samarbeid med Senter for samisk språkteknologi. Mer informasjon finnes i menyene til
-         venstre.</p>
+         <title>Divvun-nævojt birra</title>
+         <p>Divvun-nævo li åvddånahteduvvam guovte gålmå-jagák prosjevtan Sámedikke vuolen, majt Sámedigge, FAD
+         ja KD li ruhtadam, åvddånahtátjit tjállemdårjaprográmmajt dábálamos kontorprográmmajda gålmå stuoremus operativsysteman
+         (Linux, MacOS X ja Windows). Divvun I (nuortta- ja julevsáme) lej 2004 rájes 2007 rádjáj, ja Divvun II (oarjjelijsáme)
+         2008 rájes 2010 rádjáj. 2011 rájes sirddeduvvá prosjækta Råmså Universitetaj, ja sjaddá stuoves
+         avtadahka mij galggá sáme giellateknologijav ja praktihkalasj viehkkenævojt dát teknologijas
+          åvddånahttet lahkalakkoj Sáme giellateknologijaguovdátjijn. </p>
       </section>
    </body>
 </document>
