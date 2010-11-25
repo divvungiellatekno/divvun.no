@@ -147,7 +147,7 @@ which will be used to configure the chosen Forrest skin.
       font-weight: bold;
       font-size: small;
     }
-    .nonvalid {
+    .nonvalid, .broken, .nonvalid td, .broken td {
       background-color: pink !important;
     }
     .correct {
@@ -159,6 +159,9 @@ which will be used to configure the chosen Forrest skin.
 
     .forced, .forced td {
       background-color: yellow;
+    }
+    .ForrestTable {
+      background-color: #aaa;
     }
   </extra-css>
   <colors>
