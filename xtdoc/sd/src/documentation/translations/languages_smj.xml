@@ -16,17 +16,17 @@
   limitations under the License.
 -->
 <catalogue xml:lang="nb">
-  <message key="en" >Denne siden på engelsk</message>
-  <message key="es" >Denne siden på spansk</message>
-  <message key="nl" >Denne siden på nederlandsk</message>
-  <message key="de" >Denne siden på tysk</message>
-  <message key="fr" >Denne siden på fransk</message>
-  <message key="se" >Denne siden på nordsamisk</message>
-  <message key="nb" >Denne siden på bokmål</message>
-  <message key="nn" >Denne siden på nynorsk</message>
-  <message key="no" >Denne siden på norsk</message>
-  <message key="sv" >Denne siden på svensk</message>
-  <message key="fi" >Denne siden på finsk</message>
-  <message key="smj">Denne siden på lulesamisk</message>
-  <message key="sma">Denne siden på sørsamisk</message>
+  <message key="en" >Dát sijddo ieŋŋgisgiellaj</message>
+  <message key="es" >Dát sijddo spánskagiellaj</message>
+  <message key="nl" >Dát sijddo Hollánda giellaj</message>
+  <message key="de" >Dát sijddo tusskaj</message>
+  <message key="fr" >Dát sijddo franskagiellaj</message>
+  <message key="se" >Dát sijddo nuorttasábmáj</message>
+  <message key="nb" >Dát sijddo vuona girjjedárogiellaj</message>
+  <message key="nn" >Dát sijddo ådådárogiellaj</message>
+  <message key="no" >Dát sijddo vuona dárruj</message>
+  <message key="sv" >Dát sijddo svierjji dárruj</message>
+  <message key="fi" >Dát sijddo suomagiellaj</message>
+  <message key="smj">Dát sijddo julevsábmáj</message>
+  <message key="sma">Dát sijddo oarjjelijsábmáj</message>
 </catalogue>

@@ -16,17 +16,17 @@
   limitations under the License.
 -->
 <catalogue xml:lang="sv">
-  <message key="en" >Denna sidan på engelska</message>
-  <message key="es" >Denna sidan på spanska</message>
-  <message key="nl" >Denna sidan på nederländska</message>
-  <message key="de" >Denna sidan på tyska</message>
-  <message key="fr" >Denna sidan på franska</message>
-  <message key="se" >Denna sidan på nordsamiska</message>
-  <message key="nb" >Denna sidan på bokmål</message>
-  <message key="nn" >Denna sidan på nynorska</message>
-  <message key="no" >Denna sidan på norska</message>
-  <message key="sv" >Denna sidan på svenska</message>
-  <message key="fi" >Denna sidan på finska</message>
-  <message key="smj">Denna sidan på lulesamiska</message>
-  <message key="sma">Denna sidan på sydsamiska</message>
+  <message key="en" >Denna sida på engelska</message>
+  <message key="es" >Denna sida på spanska</message>
+  <message key="nl" >Denna sida på nederländska</message>
+  <message key="de" >Denna sida på tyska</message>
+  <message key="fr" >Denna sida på franska</message>
+  <message key="se" >Denna sida på nordsamiska</message>
+  <message key="nb" >Denna sida på norskt bokmål</message>
+  <message key="nn" >Denna sida på nynorska</message>
+  <message key="no" >Denna sida på norska</message>
+  <message key="sv" >Denna sida på svenska</message>
+  <message key="fi" >Denna sida på finska</message>
+  <message key="smj">Denna sida på lulesamiska</message>
+  <message key="sma">Denna sida på sydsamiska</message>
 </catalogue>
