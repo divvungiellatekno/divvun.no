@@ -18,11 +18,11 @@
 <catalogue xml:lang="sv">
     <message key="Ruoktu">Hem</message>
     <message key="Administrašuvdna">Administration</message>
-    <message key="Oppalaš">Generelt</message>
+    <message key="Oppalaš">Generellt</message>
     <message key="Raporttat">Rapporter</message>
     <message key="Outsourcing">Outsourcing</message>
     <message key="Styringsgruppa">Styrningsgruppen</message>
     <message key="Legal">Juridik</message>
-	<message key="Proofing">Stavekontroll</message>
-	<message key="Future">Fremtiden</message>
+	<message key="Proofing">Stavningskontroll</message>
+	<message key="Future">Framtiden</message>
 </catalogue>
