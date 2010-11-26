@@ -16,6 +16,7 @@
   limitations under the License.
 -->
 <catalogue xml:lang="smj">
+  <message key="About">Divvun birra</message>
   <message key="Davvisámegiella">Sijdda</message>
   <message key="Álgosiidu">Álggosijddo</message>
   <message key="Giellapolitihkka">Giellapolitihkka</message>

@@ -16,6 +16,7 @@
   limitations under the License.
 -->
 <catalogue xml:lang="sma">
+  <message key="About">Divvun bïjre</message>
   <message key="Davvisámegiella">Hjem</message>
   <message key="Álgosiidu">Startside</message>
   <message key="Giellapolitihkka">Språklige retningslinjer</message>

@@ -15,6 +15,7 @@
   limitations under the License.
 -->
 <catalogue xml:lang="se">
+  <message key="About">Dieđut Divvumis</message>
   <message key="Davvisámegiella">Ruoktu</message>
   <message key="Álgosiidu">Álgosiidu</message>
   <message key="Giellapolitihkka">Giellapolitihkka</message>

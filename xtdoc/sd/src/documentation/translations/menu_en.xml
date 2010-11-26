@@ -16,6 +16,7 @@
   limitations under the License.
 -->
 <catalogue xml:lang="en">
+  <message key="About">About Divvun</message>
   <message key="Davvisámegiella">Home</message>
   <message key="Álgosiidu">Start page</message>
   <message key="Giellapolitihkka">Language policy</message>

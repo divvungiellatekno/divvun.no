@@ -16,6 +16,7 @@
   limitations under the License.
 -->
 <catalogue xml:lang="sv">
+  <message key="About">Om Divvun</message>
   <message key="Davvisámegiella">Hem</message>
   <message key="Álgosiidu">Startsida</message>
   <message key="Giellapolitihkka">Språkliga riktlinjer</message>

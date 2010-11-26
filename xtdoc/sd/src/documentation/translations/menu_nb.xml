@@ -16,6 +16,7 @@
   limitations under the License.
 -->
 <catalogue xml:lang="nb">
+  <message key="About">Om Divvun</message>
   <message key="Davvisámegiella">Hjem</message>
   <message key="Álgosiidu">Startside</message>
   <message key="Giellapolitihkka">Språklige retningslinjer</message>
