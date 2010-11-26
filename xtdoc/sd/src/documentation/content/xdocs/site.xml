@@ -20,6 +20,7 @@
 
   <about label="Davvisámegiella" tab="Ruoktu">
     <index description="Bures boahttin divvun.no prošektii" href="index.html" label="Álgosiidu"/>
+    <bout description="Info about Divvun" href="about_divvun.html" label="About"/>
 	<divvun label="Dokumentašuvdna">
 		<win-msoffice description="Windows/Microsoft Office" href="leaflet/win-install.html" label="Windows/Microsoft Office" />
 		<mac-msoffice description="Mac OS X/Microsoft Office" href="leaflet/mac-install.html" label="Mac OS X/Microsoft Office" />
