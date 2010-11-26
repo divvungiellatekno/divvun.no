@@ -33,7 +33,6 @@
 	</videot>
     <timetable description="Prošeavtta plánat" href="timetable.html" label="Prošeavtta plánat" />
     <spelling description="Mo reaiddut ráhkaduvvot" href="howmake.html" label="Mo reaiddut ráhkaduvvojit" />
-    <downloads description="Download files from divvun.no" href="downloads.html" label="Downloads" />
     <download_log description="Download log for the Divvun tools" href="Download_log.html" label="Download log" />
     <upload href="upload/upload_corpus_file.html" description="Dás sáhtát sáddet midjiide fiillaid" label="Sáddes fiillaid midjiide" />
     <pr href="pr/" label="Preassadieđáhusat">
