@@ -18,7 +18,7 @@
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
             v1.1</a> — <a href="leaflet/mac-install.html">instruction</a> — <a href="mac-video.html">instructional videos</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
-            src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — alle operativsystem, Divvun
+            src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — all operating systems, Divvun
             v.1.0beta7</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">instruction</a> — <a
             href="ooo-video.html">instructional videos</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
@@ -29,15 +29,18 @@
       <section>
          <title>Other installation options</title>
          <ul>
-			<li>Divvun for MacOS X: <a href="proofdoc/hyph/InDesign/index.html">instructions</a> on how to install and use the Divvun tools in Mac OS X</li>
-            <li>Divvun for Linux: <a href="proofdoc/hyph/InDesign/index.html">instructions</a>  on how to install and use the Divvun tools in Linux</li>
-            <li><a href="more_downloads.html">Other downloads and older versions</a></li>
+            <li>Divvun for MacOS X: <a href="proofdoc/spell/X-spell/install_macosx.html">instructions</a> on how to
+            install and use the Divvun tools in Mac OS X</li>
+            <li>Divvun for Linux: <a href="proofdoc/spell/X-spell/install_linux.html">instructions</a> on how to install
+            and use the Divvun tools in Linux</li>
+            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> to burn an installation CD
+            for all three operating systems</li>
          </ul>
       </section>
       <section>
          <title>About the Divvun tools</title>
 		 <p>The Divvun tools have been developed during two three year long projects. The proofing tools are available for the most popular office suites on Windows, Mac OS X and Linux. The <a href="http://www.sametinget.no/">Norwegian Sámi Parliament</a>, the <a href="http://www.regjeringen.no/en/dep/fad.html?id=339">Ministry of Government administration, Reform and Church affairs</a> and the <a href="http://www.regjeringen.no/en/dep/kd.html?id=586">Ministry of Education and Research</a> have funded these projects.</p>
-		 <p>Divvun I (Northern and Lule Sámi) lasted from 2004 to 2007, and Divvun II (Southern Sámi) from 2008 to 2010. From 2011 and onwards the project will be under the administration of the University of Tromsø and become a permanent unit which will continue developing sámi language technology and practical tools based on language technoloy in cooperation with the <a href="giellatekno.uit.no">Sámi language technoly center</a>.</p>
+		 <p>Divvun I (Northern and Lule Sámi) lasted from 2004 to 2007, and Divvun II (Southern Sámi) from 2008 to 2010. From 2011 and onwards the project will be under the administration of the University of Tromsø and become a permanent unit which will continue developing sámi language technology and practical tools based on language technoloy in cooperation with the <a href="http://giellatekno.uit.no">Sámi language technoly center</a>.</p>
       </section>
    </body>
 </document>

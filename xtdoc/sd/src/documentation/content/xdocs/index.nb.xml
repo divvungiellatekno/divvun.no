@@ -30,21 +30,21 @@
       <section>
          <title>Andre installeringsalternativ</title>
          <ul>
-            <li>Divvun for hele MacOS X: <a href="proofdoc/hyph/InDesign/index.html">instruksjoner</a> for hvordan man
-            installerer og bruker Divvun-verktøyene i hele Mac OS X</li>
-            <li>Divvun for hele Linux: <a href="proofdoc/hyph/InDesign/index.html">instruksjoner</a> for hvordan man
-            installerer og bruker Divvun-verktøyene i hele Linux</li>
-            <li><a href="more_downloads.nb.html">Andre nedlastingspakker og eldre versjoner</a></li>
+            <li>Divvun for hele MacOS X: <a href="proofdoc/spell/X-spell/install_macosx.html">instruksjoner</a> for
+            hvordan man installerer og bruker Divvun-verktøyene i hele Mac OS X</li>
+            <li>Divvun for hele Linux: <a href="proofdoc/spell/X-spell/install_linux.html">instruksjoner</a> for hvordan
+            man installerer og bruker Divvun-verktøyene i hele Linux</li>
+            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> for å brenne en
+            installerings-cd for alle tre operativsystemene</li>
          </ul>
       </section>
       <section>
          <title>Om Divvun-verktøyene</title>
-         <p>Divvun-verktøyene har blitt utviklet i to treårige prosjekt under Sametinget, finansiert av Sametinget, FAD
-         og KD, for å ta fram skrivestøtteprogram for de vanligste kontorprogrammene i de tre store operativsystemene
+		 <p>Divvun-verktøyene har blitt utviklet i to treårige prosjekt under Sametinget, finansiert av det norske <a href="http://www.sametinget.no">Sametinget</a>,<a href="http://www.regjeringen.no/nb/dep/fad.html?id=339">Fornyings-, administrasjons- og kirkedepartementet</a> och <a href="http://www.regjeringen.no/nb/dep/kd.html?id=586">Kunnskapsdepartementet</a> for å ta fram skrivestøtteprogram for de vanligste kontorprogrammene i de tre store operativsystemene
          (Linux, MacOS X og Windows). Divvun I (nord- og lulesamisk) varte fra 2004 til 2007, og Divvun II (sørsamisk)
          fra 2008 til 2010. Fra 2011 vil prosjektet bli flyttet over til Universitetet i Tromsø, og bli en permanent
          enhet som skal fortsette å videreutvikle samisk språkteknologi og praktiske hjelpemidler basert på denne
-         språkteknologien i nært samarbeid med Senter for samisk språkteknologi.</p>
+         språkteknologien i nært samarbeid med <a href="http://giellatekno.uit.no">Senter for samisk språkteknologi</a>.</p>
       </section>
    </body>
 </document>
