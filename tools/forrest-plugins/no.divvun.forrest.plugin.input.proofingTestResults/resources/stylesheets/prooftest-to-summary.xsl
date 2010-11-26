@@ -32,6 +32,8 @@
   </xsl:template>
 
   <xsl:template match="header">
+
+    <!-- Basic facts: -->
     <xsl:param name="nrwords" select="count(../results/word)"/>
     <xsl:param name="nrflaggedwords"
      select="count(../results/word[status='SplErr'])"/>
