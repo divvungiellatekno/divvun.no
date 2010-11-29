@@ -710,7 +710,7 @@ if (VERSION > 3) {
   <xsl:template match="div[@id='disable-font-script']">
     <xsl:if test="$disable-font-script = 'false'">
 	  <div class="trail">
-	         <i18n:text >Font size:</i18n:text> 
+	         <i18n:text>Font size:</i18n:text>
 	          &#160;<input type="button" onclick="ndeSetTextSize('reset'); return false;" title="Reset text" class="resetfont" value="Reset"/>      
 	          &#160;<input type="button" onclick="ndeSetTextSize('decr'); return false;" title="Shrink text" class="smallerfont" value="-a"/>
 	          &#160;<input type="button" onclick="ndeSetTextSize('incr'); return false;" title="Enlarge text" class="biggerfont" value="+a"/>
