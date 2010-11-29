@@ -31,7 +31,8 @@ Section handling
 
 -->
 <xsl:stylesheet version="1.0"
-                xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+                xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+                xmlns:i18n="http://apache.org/cocoon/i18n/2.1" exclude-result-prefixes="i18n">
   <xsl:param name="dynamic-page" select="'false'"/>
   <xsl:param name="notoc"/>
   <xsl:param name="path"/>
@@ -136,9 +137,9 @@ Section handling
           <xsl:when test="@label">
             <xsl:value-of select="@label"/>
           </xsl:when>
-          <xsl:when test="local-name() = 'note'">Note</xsl:when>
-          <xsl:when test="local-name() = 'warning'">Warning</xsl:when>
-          <xsl:otherwise>Fixme (<xsl:value-of select="@author"/>)</xsl:otherwise>
+          <xsl:when test="local-name() = 'note'"><i18n:text>Note</i18n:text></xsl:when>
+          <xsl:when test="local-name() = 'warning'"><i18n:text>Warning</i18n:text></xsl:when>
+          <xsl:otherwise><i18n:text>Fixme</i18n:text> (<xsl:value-of select="@author"/>)</xsl:otherwise>
         </xsl:choose>
       </div>
       <div class="content">
