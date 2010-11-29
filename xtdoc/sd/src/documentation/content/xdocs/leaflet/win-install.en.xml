@@ -76,5 +76,17 @@
 			</p>
 			<p>or you may start the speller in a separate window. Press the   <img src="guvvieh/PC_17_abc_knapp.png" alt="abc-button"/>. The result is: <img src="guvvieh/PC_13_MSOffice_example_cut.png" alt="The spell checker in use"/></p>
 		</section>
+		<section>
+			<title>Uninstallation</title>
+			<ul>
+				<li>Open the Control Panel <br />
+				<img src="guvvieh/control_panel" alt="Windows Control Panel"/></li>
+				<li>Press "Add or remove programs"</li>
+				<li>Browse down to "Sámi Proofing Tools" and click the item <br />
+				<img src="guvvieh/sami_proofing_tools.png" alt="Sami Proofing tools are marked"/></li>
+				<li>Press the Remove button.</li>
+				<li>When the removal process is finished, the "Sámi Proofing Tools" item in the list of installed programs will have disappeared</li>
+			</ul>
+		</section>
 	</body>
 </document>
