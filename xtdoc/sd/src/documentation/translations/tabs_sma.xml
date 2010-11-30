@@ -16,13 +16,13 @@
     limitations under the License.
     -->
 <catalogue xml:lang="sma">
-    <message key="Ruoktu">Hjem</message>
-    <message key="Administrašuvdna">Administrasjon</message>
-    <message key="Oppalaš">Generelt</message>
-    <message key="Raporttat">Rapporter</message>
+    <message key="Ruoktu">Gåetide</message>
+    <message key="Administra分uvdna">Reereme</message>
+    <message key="Oppala分">Sïejhme</message>
+    <message key="Raporttat">Reektemh</message>
     <message key="Outsourcing">Outsourcing</message>
-    <message key="Styringsgruppa">Styringsgruppa</message>
-    <message key="Legal">Juridiske saker</message>
-	<message key="Proofing">Stavekontroll</message>
-	<message key="Future">Fremtiden</message>
+    <message key="Styringsgruppa">Ståvroedåehkie</message>
+    <message key="Legal">Juridïhken aamhtesh</message>
+	<message key="Proofing">Staeriedimmieprogramme</message>
+	<message key="Future">Båetije biejjieh</message>
 </catalogue>
