@@ -15,18 +15,46 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<catalogue xml:lang="nb">
-  <message key="en" >Denne siden på engelsk</message>
-  <message key="es" >Denne siden på spansk</message>
-  <message key="nl" >Denne siden på nederlandsk</message>
-  <message key="de" >Denne siden på tysk</message>
-  <message key="fr" >Denne siden på fransk</message>
-  <message key="se" >Denne siden på nordsamisk</message>
-  <message key="nb" >Denne siden på bokmål</message>
-  <message key="nn" >Denne siden på nynorsk</message>
-  <message key="no" >Denne siden på norsk</message>
-  <message key="sv" >Denne siden på svensk</message>
-  <message key="fi" >Denne siden på finsk</message>
-  <message key="smj">Denne siden på lulesamisk</message>
-  <message key="sma">Denne siden på sørsamisk</message>
-</catalogue>
+<catalogue
+xml:lang="nb"
+><message
+key="en"
+>Daate sæjroe lea Englaantengïelese</message
+><message
+key="es"
+>Daate sæjroe lea spanskegïelese</message
+><message
+key="nl"
+>Denne siden på nederlandsk</message
+><message
+key="de"
+>Daate sæjroe lea tyskegïelese</message
+><message
+key="fr"
+>Daate sæjroe lea frankrïjhkengïelese</message
+><message
+key="se"
+>Daate særjoe lea noerhtesaemiengïelese</message
+><message
+key="nb"
+></message
+><message
+key="nn"
+>Daate sæjroe lea orredaaroengïelese</message
+><message
+key="no"
+>Daate sæjroe lea daaroengïelese</message
+><message
+key="sv"
+>Daate sæjroe lea sveerjengïelese</message
+><message
+key="fi"
+>Daate sæjroe lea Suomigïelese</message
+><message
+key="smj"
+>Daate sæjroe lea julevsaemiengïelese</message
+><message
+key="sma"
+>Daate sæjroe lea åarjelsaemiengïelese</message
+></catalogue
+>
