@@ -17,18 +17,18 @@
 -->
 <catalogue xml:lang="sma">
   <!-- HTML translations: -->
-  <message key="Font size:">Fontstørrelse:</message>
-  <message key="Last Published:">Sist publisert:</message>
-  <message key="Search">Søk</message>
-  <message key="More">Mer</message>
-  <message key="Search the site with">Søk nettstedet</message>
+  <message key="Font size:">Baakoej ståaroe:</message>
+  <message key="Last Published:">Minngemes åehpiedahteme:</message>
+  <message key="Search">Ohtsedh</message>
+  <message key="More">Vielie</message>
+  <message key="Search the site with">Ohtsedh nedtesijjiem</message>
   <!-- PDF/fo translations: -->
-  <message key="NOTICE:">MERKNAD:</message>
-  <message key="by">av </message>
-  <message key="Note:">Merk:</message>
-  <message key="FIXME">FIKSMEG</message>
-  <message key="Table">Tabell</message>
-  <message key="Table of contents">Innhold</message>
-  <message key="Page 1">Side {0}</message>
-  <message key="Page 1 of 1">Side {0} av {1}</message>
+  <message key="NOTICE:">MÏERHKESJIMMIE:</message>
+  <message key="by">Giestie/Giejstie</message>
+  <message key="Note:">Mïerhkesjh:</message>
+  <message key="FIXME">STAEREDHMANNEM</message>
+  <message key="Table">Tabelle</message>
+  <message key="Table of contents">Sisvege</message>
+  <message key="Page 1">Sæjroe {0}</message>
+  <message key="Page 1 of 1">Sæjroe {0} {1} (siste tallet bør stå i ellativ)</message>
 </catalogue>
