@@ -139,7 +139,7 @@ Section handling
           </xsl:when>
           <xsl:when test="local-name() = 'note'"><i18n:text>Note</i18n:text></xsl:when>
           <xsl:when test="local-name() = 'warning'"><i18n:text>Warning</i18n:text></xsl:when>
-          <xsl:otherwise><i18n:text>Fixme</i18n:text> (<xsl:value-of select="@author"/>)</xsl:otherwise>
+          <xsl:otherwise><i18n:text>FIXME</i18n:text> (<xsl:value-of select="@author"/>)</xsl:otherwise>
         </xsl:choose>
       </div>
       <div class="content">
