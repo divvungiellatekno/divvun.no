@@ -17,19 +17,19 @@
 -->
 <catalogue xml:lang="fi">
   <!-- HTML translations: -->
-  <message key="Font size:">Fontstørrelse:</message>
-  <message key="Last Published:">Sist publisert:</message>
-  <message key="Search">Søk</message>
-  <message key="More">Mer</message>
-  <message key="Search the site with">Søk nettstedet</message>
+  <message key="Font size:">Fonttikoko:</message>
+  <message key="Last Published:">Julkaistu viimeeksi:</message>
+  <message key="Search">Hae</message>
+  <message key="More">Lisää</message>
+  <message key="Search the site with">Hae internetistä</message>
   <!-- PDF/fo translations: -->
-  <message key="NOTICE:">MERKNAD:</message>
-  <message key="by">av </message>
-  <message key="Note">Merk</message>
-  <message key="FIXME">FIKSMEG</message>
-  <message key="Warning">Warning</message>
-  <message key="Table">Tabell</message>
-  <message key="Table of contents">Innhold</message>
-  <message key="Page 1">Side {0}</message>
-  <message key="Page 1 of 1">Side {0} av {1}</message>
+  <message key="NOTICE:">HUOMAA:</message>
+  <message key="by"> </message>
+  <message key="Note:">Huomautus:</message>
+  <message key="FIXME">KORJAA</message>
+  <message key="Warning">Varoitus</message>
+  <message key="Table">Taulukko</message>
+  <message key="Table of contents">Sisältö</message>
+  <message key="Page 1">Sivu {0}</message>
+  <message key="Page 1 of 1">Sivu {0} {1}:stä</message>
 </catalogue>
