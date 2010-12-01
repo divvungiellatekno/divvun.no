@@ -24,8 +24,9 @@
   <!-- PDF/fo translations: -->
   <message key="NOTICE:">HUOM:</message>
   <message key="by">Tjállám </message>
-  <message key="Note:">Notáhtta</message>
+  <message key="Note">Notáhtta</message>
   <message key="FIXME">DIVOMUV</message>
+  <message key="Warning">Warning</message>
   <message key="Table">Tabælla</message>
   <message key="Table of contents">Sisanedus</message>
   <message key="Page 1">Sijddo {0}</message>

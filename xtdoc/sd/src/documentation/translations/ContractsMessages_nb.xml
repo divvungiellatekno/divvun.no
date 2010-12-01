@@ -25,8 +25,9 @@
   <!-- PDF/fo translations: -->
   <message key="NOTICE:">MERKNAD:</message>
   <message key="by">av </message>
-  <message key="Note:">Merk:</message>
+  <message key="Note">Merk</message>
   <message key="FIXME">FIKSMEG</message>
+  <message key="Warning">Advarsel</message>
   <message key="Table">Tabell</message>
   <message key="Table of contents">Innhold</message>
   <message key="Page 1">Side {0}</message>

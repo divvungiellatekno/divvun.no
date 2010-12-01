@@ -25,8 +25,9 @@
   <!-- PDF/fo translations: -->
   <message key="NOTICE:">OBS:</message>
   <message key="by">av </message>
-  <message key="Note:">Obs:</message>
+  <message key="Note">Obs</message>
   <message key="FIXME">FIXAMEJ</message>
+  <message key="Warning">Warning</message>
   <message key="Table">Tabell</message>
   <message key="Table of contents">Innehåll</message>
   <message key="Page 1">Sida {0}</message>
