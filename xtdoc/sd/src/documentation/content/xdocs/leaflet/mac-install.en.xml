@@ -72,9 +72,11 @@ the spelling error" src="guvvieh/Mac_09_MSoffice_spelling_example_c.png" /></p>
          <section>
             <title>Divvun 2.x</title>
             <ul>
-               <li>Open the folder <strong>DivvunTools</strong> in the <strong>/Library</strong> folder:</li>
-               <li>Run the <strong>Remove Sami Tools</strong> application in the subfolder for the application you want
-               to remove Divvun from</li>
+               <li>Open the folder <strong>DivvunTools</strong> in the <strong>/Library</strong> folder:<figure
+               alt="Divvun 2 Uninstallation program" src="guvvieh/Mac_10_Divvun2_Uninstallation.png" /></li>
+               <li>Run the <strong>Remove Divvun for Office</strong> application in the subfolder for the application
+               you want to remove Divvun from, and confirm that you want to remove Divvun when asked:<figure
+               alt="Confirm uninstallation" src="guvvieh/Mac_11_Divvun2_Uninstallation_confirmation.png" /></li>
                <li>If it is the last or only Divvun installation, the whole folder <strong>DivvunTools</strong> will be
                removed as well.</li>
             </ul>
