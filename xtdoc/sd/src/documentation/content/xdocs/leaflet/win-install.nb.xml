@@ -73,5 +73,21 @@
 			</p>
 			<p>eller du kan starte stavekontrollen i eget vindu. Trykk på  <img src="guvvieh/PC_17_abc_knapp.png" alt="abc-knappen"/>. Resultatet blir: <img src="guvvieh/PC_13_MSOffice_example_cut.png" alt="Stavekontrollen i bruk"/></p>
 			</section>
+      <section>
+         <title>Uninstallation</title>
+         <ul>
+            <li>Open the <strong>Control Panel</strong> <br /> <img alt="Windows Control Panel"
+            src="guvvieh/PC_18_control_panel_addremove.png" /></li>
+            <li>Press <strong>Add or remove programs</strong></li>
+            <li>Browse down to <strong>Sámi Proofing Tools</strong> and click the item <br /> <img
+            alt="Sami Proofing tools are marked" src="guvvieh/PC_19_remove_sami_proofing_tools.png" /></li>
+            <li>Click the <strong>Remove</strong> button.</li>
+            <li>When the removal process is finished, the <strong>Sámi Proofing Tools</strong> item in the list of
+            installed programs will have disappeared</li>
+            <li>If you have the South Sámi beta installed and want to remove it, select
+            <strong>SouthSamiSpellerBeta1</strong> and click <strong>Change/Remove</strong>:<br /><img alt="???"
+            src="guvvieh/PC_20_remove_sma_beta.png" /></li>
+         </ul>
+      </section>
 	</body>
 </document>
