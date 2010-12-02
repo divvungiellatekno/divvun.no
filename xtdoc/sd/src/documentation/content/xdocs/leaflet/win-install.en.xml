@@ -58,8 +58,10 @@
          <p>1b. Office 2007: When you have opened MS Office you click the tab <strong>Se gjennom</strong> , where you
          chose <strong>Angi språk</strong></p>
          <p>2. In the emerging dialogue you choose <strong>Sami</strong> or <strong>Lule Sami</strong> . NB! Make sure
-         that the box <strong>Identify language automatically</strong> is not ticked. If that is the case, Office will
-         jump back to languages other than Sami all the time, and Divvun will not work as expected.</p>
+         that the box <strong>Identify language automatically</strong> is <em>not</em> ticked. If it <em>is</em> ticked,
+         Office will guess the text is in languages other than Sami for a long time, and Divvun will not work as
+         expected (most users report that it will eventually settle with the user's language setting, but that it takes
+         time).</p>
          <p><img alt="Choose language dialogue" src="guvvieh/PC_15_Office_2003_bestem_sprak.png" /></p>
          <p>3. Now you may start to write in Sami, and the program will then help you with your spelling. You may either
          right-click (ctrl-click) on words underlined with red, in which case it looks as follows:<br /></p>
