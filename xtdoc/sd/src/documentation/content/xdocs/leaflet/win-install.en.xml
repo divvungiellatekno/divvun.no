@@ -62,22 +62,26 @@
          jump back to languages other than Sami all the time, and Divvun will not work as expected.</p>
          <p><img alt="Choose language dialogue" src="guvvieh/PC_15_Office_2003_bestem_sprak.png" /></p>
          <p>3. Now you may start to write in Sami, and the program will then help you with your spelling. You may either
-         right-click (ctrl-click) on words underlined with red, in which case it looks as follows:</p>
+         right-click (ctrl-click) on words underlined with red, in which case it looks as follows:<br /></p>
          <p><img alt="Suggestion in menu" src="guvvieh/PC_16_Bruke_stavekontrollen.png" /></p>
          <p>or you may start the speller in a separate window. Press the <img alt="abc-button"
-         src="guvvieh/PC_17_abc_knapp.png" />. The result is: <img alt="The spell checker in use"
+         src="guvvieh/PC_17_abc_knapp.png" />. The result is:<br /><img alt="The spell checker in use"
          src="guvvieh/PC_13_MSOffice_example_cut.png" /></p>
       </section>
       <section>
          <title>Uninstallation</title>
          <ul>
-            <li>Open the Control Panel <br /> <img alt="Windows Control Panel" src="guvvieh/control_panel.png" /></li>
-            <li>Press "Add or remove programs"</li>
-            <li>Browse down to "Sámi Proofing Tools" and click the item <br /> <img alt="Sami Proofing tools are marked"
-            src="guvvieh/sami_proofing_tools.png" /></li>
-            <li>Press the Remove button.</li>
-            <li>When the removal process is finished, the "Sámi Proofing Tools" item in the list of installed programs
-            will have disappeared</li>
+            <li>Open the <strong>Control Panel</strong> <br /> <img alt="Windows Control Panel"
+            src="guvvieh/PC_18_control_panel_addremove.png" /></li>
+            <li>Press <strong>Add or remove programs</strong></li>
+            <li>Browse down to <strong>Sámi Proofing Tools</strong> and click the item <br /> <img
+            alt="Sami Proofing tools are marked" src="guvvieh/PC_19_remove_sami_proofing_tools.png" /></li>
+            <li>Click the <strong>Remove</strong> button.</li>
+            <li>When the removal process is finished, the <strong>Sámi Proofing Tools</strong> item in the list of
+            installed programs will have disappeared</li>
+            <li>If you have the South Sámi beta installed and want to remove it, select
+            <strong>SouthSamiSpellerBeta1</strong> and click <strong>Change/Remove</strong>:<br /><img alt="???"
+            src="guvvieh/PC_20_remove_sma_beta.png" /></li>
          </ul>
       </section>
    </body>
