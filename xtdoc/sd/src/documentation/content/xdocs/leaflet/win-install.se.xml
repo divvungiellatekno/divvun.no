@@ -77,18 +77,17 @@
 			<p>dahje sáhtát álggahit čállindárkkisteami sierra lásežis. Coahkkal  <img src="guvvieh/PC_17_abc_knapp.png" alt="abc-boalu"/>. Boađus lea: <img src="guvvieh/PC_13_MSOffice_example_cut.png" alt="Govva: "/></p>
 		</section>
       <section>
-         <title>Uninstallation</title>
+         <title>Eretváldin</title>
          <ul>
-            <li>Open the <strong>Control Panel</strong> <br /> <img alt="Windows Control Panel"
+            <li>Raba <strong>Kontrollpanel</strong> <br /> <img alt="Windows Control Panel"
             src="guvvieh/PC_18_control_panel_addremove.png" /></li>
-            <li>Press <strong>Add or remove programs</strong></li>
-            <li>Browse down to <strong>Sámi Proofing Tools</strong> and click the item <br /> <img
+            <li>Duppalcoahkkal <strong>Legg til eller ta vekk programmer</strong></li>
+            <li>Bláđe vulos gitta <strong>Sámi Proofing Tools</strong> merkošii ja coahkkal dan<br /> <img
             alt="Sami Proofing tools are marked" src="guvvieh/PC_19_remove_sami_proofing_tools.png" /></li>
-            <li>Click the <strong>Remove</strong> button.</li>
-            <li>When the removal process is finished, the <strong>Sámi Proofing Tools</strong> item in the list of
-            installed programs will have disappeared</li>
-            <li>If you have the South Sámi beta installed and want to remove it, select
-            <strong>SouthSamiSpellerBeta1</strong> and click <strong>Change/Remove</strong>:<br /><img alt="???"
+            <li>Coahkkal <strong>Fjern</strong>-boalu</li>
+            <li>Go eretváldin lea geargan de <strong>Sámi Proofing Tools</strong>-mearkkuš lea jávkan listtus</li>
+            <li>Jus leat sajáiduhttán máttasámegiel betačállindarkkisteaddji de vállje
+			<strong>SouthSamiSpellerBeta1</strong> ja coahkkal <strong>Forandre/Fjern</strong>:<br /><img alt="Máttasámegiel čállindárkkisteaddji"
             src="guvvieh/PC_20_remove_sma_beta.png" /></li>
          </ul>
       </section>

@@ -74,18 +74,17 @@
 			<p>eller du kan starte stavekontrollen i eget vindu. Trykk på  <img src="guvvieh/PC_17_abc_knapp.png" alt="abc-knappen"/>. Resultatet blir: <img src="guvvieh/PC_13_MSOffice_example_cut.png" alt="Stavekontrollen i bruk"/></p>
 			</section>
       <section>
-         <title>Uninstallation</title>
+         <title>Avinstallasjon</title>
          <ul>
-            <li>Open the <strong>Control Panel</strong> <br /> <img alt="Windows Control Panel"
+            <li>Åpne <strong>Kontrollpanel</strong> <br /> <img alt="Windows Control Panel"
             src="guvvieh/PC_18_control_panel_addremove.png" /></li>
-            <li>Press <strong>Add or remove programs</strong></li>
-            <li>Browse down to <strong>Sámi Proofing Tools</strong> and click the item <br /> <img
+            <li>Dobbeltklikk <strong>Legg eller ta vekk programmer</strong></li>
+            <li>Bla ned til <strong>Sámi Proofing Tools</strong> og klikk på den <br /> <img
             alt="Sami Proofing tools are marked" src="guvvieh/PC_19_remove_sami_proofing_tools.png" /></li>
-            <li>Click the <strong>Remove</strong> button.</li>
-            <li>When the removal process is finished, the <strong>Sámi Proofing Tools</strong> item in the list of
-            installed programs will have disappeared</li>
-            <li>If you have the South Sámi beta installed and want to remove it, select
-            <strong>SouthSamiSpellerBeta1</strong> and click <strong>Change/Remove</strong>:<br /><img alt="???"
+            <li>Klikk på <strong>Fjern</strong>-knappen.</li>
+            <li>Når avinstallasjonsprosessen er ferdig har <strong>Sámi Proofing Tools</strong> forsvunnet fra listen over installerte programmer.</li>
+            <li>Hvis du har den sørsamiske betastavekontrollen installert, velg 
+			<strong>SouthSamiSpellerBeta1</strong> og klikk <strong>Forandre/Fjerne</strong>:<br /><img alt="Sørsamisk betastavekontroll"
             src="guvvieh/PC_20_remove_sma_beta.png" /></li>
          </ul>
       </section>
