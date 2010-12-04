@@ -25,7 +25,7 @@
   <!-- PDF/fo translations: -->
   <message key="NOTICE:">HUOMAA:</message>
   <message key="by"> </message>
-  <message key="Note:">Huomautus:</message>
+  <message key="Note">Huomautus</message>
   <message key="FIXME">KORJAA</message>
   <message key="Warning">Varoitus</message>
   <message key="Table">Taulukko</message>
