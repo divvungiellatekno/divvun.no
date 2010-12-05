@@ -6,7 +6,9 @@
       <title>Divvun - sámi proofing tools</title>
    </header>
    <body>
-      <note>Divvun 2.0 with support forOffice 2010 (Windows), MS Office 2011 (Mac) and InDesign CS4 will be launched 8th of December 2010. Support for InDesign CS5 is on it's way, but will not be ready for the 2.0 launch on December 8th.</note>
+      <note>Divvun 2.0 with support for <strong>South Sámi</strong> will be released on Desember 8, 2010. Divvun 2.0
+      will also include support for MS Office 2011 (Mac). Support for Office 2010 (Windows) and InDesign CS4 and CS5 is
+      under development, but won't be ready for the Desember 8, 2.0 release.</note>
       <section>
          <title>Download Divvun</title>
          <ul>
@@ -16,14 +18,15 @@
             href="win-msoffice-video.html">instructional videos</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
-            v1.1</a> — <a href="leaflet/mac-install.html">instruction</a> — <a href="mac-video.html">instructional videos</a></li>
+            v1.1</a> — <a href="leaflet/mac-install.html">instruction</a> — <a href="mac-video.html">instructional
+            videos</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
-            src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — all operating systems, Divvun
-            v.1.0beta7</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">instruction</a> — <a
+            src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — all operating systems,
+            Divvun v.1.0beta7</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">instruction</a> — <a
             href="ooo-video.html">instructional videos</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
             src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun v1.1</a> — <a
-            href="proofdoc/hyph/InDesign/index.html">instruction</a> </li>
+            href="proofdoc/hyph/InDesign/index.html">instruction</a></li>
             <li><a href="downloads.html">Other installation options</a></li>
          </ul>
       </section>

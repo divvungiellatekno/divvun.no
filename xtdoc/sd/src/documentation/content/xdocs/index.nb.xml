@@ -6,8 +6,9 @@
       <title>Divvun - samiske rettskrivningsverktøy</title>
    </header>
    <body>
-      <note>Divvun 2.0 med støtte for MS Office 2010 (Windows), MS Office 2011 (Mac) og InDesign CS4 blir lansert 8.
-      desember 2010. Støtte for InDesign CS5 er underveis men blir ikke ferdig til 2.0-lanseringen 8. desember.</note>
+      <note>Divvun 2.0 med støtte for <strong>sørsamisk</strong> blir lansert 8. desember 2010. Divvun 2.0 inkluderer
+      også støtte for MS Office 2011 (Mac). Støtte for Office 2010 (Windows) og InDesign CS4 og CS5 er underveis men
+      blir ikke ferdig til 2.0-lanseringen 8. desember.</note>
       <section>
          <title>Last ned Divvun</title>
          <ul>
@@ -17,14 +18,15 @@
             href="win-msoffice-video.html">instruksjonsvideoer</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
-            v1.1</a> — <a href="leaflet/mac-install.html">veiledning</a> — <a href="mac-video.html">instruksjonsvideoer</a></li>
+            v1.1</a> — <a href="leaflet/mac-install.html">veiledning</a> — <a
+            href="mac-video.html">instruksjonsvideoer</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
             src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — alle operativsystem, Divvun
             v.1.0beta7</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">veiledning</a> — <a
             href="ooo-video.html">instruksjonsvideoer</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
             src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun v1.1</a> — <a
-            href="proofdoc/hyph/InDesign/index.html">veiledning</a> </li>
+            href="proofdoc/hyph/InDesign/index.html">veiledning</a></li>
             <li><a href="downloads.html">Andre installeringsalternativ</a></li>
          </ul>
       </section>
