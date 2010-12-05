@@ -1,98 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
 <document>
-	<header>
-		<title>Installation och användning av produkten</title>
-	</header>
-	<body>
+   <header>
+      <title>Installation och användning av produkten</title>
+   </header>
+   <body>
       <note>When writing Sámi on the Mac, use the languages <strong>Catalan</strong> (=North Sámi),
       <strong>Basque</strong> (=Lule Sámi) or <strong>Slovak</strong> (=South Sámi). Don't blame us, blame MS for the
       situation.</note>
-		<section>
-			<title>Installation</title>
+      <section>
+         <title>Installation</title>
          <note>If you are upgrading from version 1, please uninstal the version old version before installing version
          2.</note>
-			<p>För att installera Divvun kan man antingen ladda ner programmet från <a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">http://www.divvun.no/static_files/sami-proofing-tools.dmg</a>eller installera det från en CD. </p>
-		</section>
-		<section>
-			<title>Installation på MacOS X</title>
-			<p>1.  Ladda ned installationspaketet. Den senaste officiella versionen hittar du alltid <a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">här</a>. Om du har CD:n, sätt då in den i datorn. När nedladdningen är klar öppnas ett fönster på ditt skrivbord. Samma fönster öppnas även när CD:n är klar. Dubbelklicka på den gula lådan med texten Divvun Installer på  (installationspaketet): </p>
-			<p>
-				<img src="guvvieh/Mac_01_Installation_download_finished.png" alt="Dubbelklicka på&#10;installationspaketet"/>
-			</p>
-
-			<p>2. Klicka på  <strong>Fortsätt</strong> tills du är klar för att börja själva installationen: </p>
-			<p>
-				<img src="guvvieh/Mac_05_installation_install.png" alt="Klicka på &quot;Fortsätt&quot;"/>
-			</p>
-
-			<p>3. Om du inte är administratör måste installationen godkännas av en sådan: </p>
-			<p>
-				<img src="guvvieh/Mac_05_installation_install_a.png" alt="Installationen måste godkännas av en&#10;administratör"/>
-			</p>
-
-			<p>4. Installationen är nu klar och du har Divvun-verktygen på din dator! </p>
-			<p>
-				<img src="guvvieh/Mac_05_installation_install_c.png" alt="Installationen är klar"/>
-			</p>
-		</section>
-		<section>
-			<title>Inställningar i MacOS X för att kunna skriva på samiska</title>
-			<p>För att kunna skriva på samiska måste du använda en samisk tangentbordsuppsättning. </p>
-			<p>1. Öppna  <strong>Systeminställningar</strong> </p>
-			<p>
-				<img src="guvvieh/Mac_06a_Systemvalg.png" alt="Öppna Systeminställningar"/>
-			</p>
-
-			<p>2. Klicka på  <strong>Internationellt</strong> eller skriv ett närliggande sökord i sökfältet: </p>
-			<p>
-				<img src="guvvieh/Mac_06_Systemvalg.png" alt="Systeminställningar"/>
-			</p>
-
-			<p>3. Klicka på fliken  <strong>Indatameny</strong> och kryssa för  <strong>Nordsamisk:</strong> </p>
-			<p>
-				<img src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk.png" alt="Lägga till samiskt&#10;tangentbord"/>
-			</p>
-
-			<p>4. Välj sedan samisk tangentbordsuppsättning i menyn till höger när du vill skriva på samiska: </p>
-			<p>
-				<img src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png" alt="Välj samiskt tangentbord för&#10;inskrivning"/>
-			</p>
-		</section>
-		<section>
-			<title>Användning av Divvun på Mac</title>
-			<p>När du öppnat MS Office måste du informera Office om vilket språk texten är skriven på. Detta görs på samma sätt för både MS Office 2004 och MS Office 2008. </p>
-
-			<p>1. Markera den samiska texten: </p>
-			<p>
-				<img src="guvvieh/Mac_08_MSOffice_tools_language_a.png" alt="Markera den samiska texten"/>
-			</p>
-
-			<p>2. Gå till menyn  <strong>Tools &gt; Language&#8230;</strong> : </p>
-			<p>
-				<img src="guvvieh/Mac_08_MSOffice_tools_language_b.png" alt="Gå till menyn &quot;Tools &gt; Language&#8230;&quot;"/>
-			</p>
-
-			<p>3. Välj språket  <strong>Katalanska</strong> ( <strong>Catalan</strong> ) för  <strong>nordsamiska</strong> , språket  <strong>Baskiska</strong> ( <strong>Basque</strong> ) för  <strong>lulesamiska</strong> , eller språket  <strong>Slovakiska</strong> ( <strong>Slovak</strong> ) för  <strong>sydsamiska</strong> ( <a href="#1">1</a>): </p>
-			<p>
-				<img src="guvvieh/Mac_08_MSOffice_tools_language_c.png" alt="Välj språk"/>
-			</p>
-
-			<p>4. Ifall du skriver mycket på samiska, kan du göra samiska till förvalt språk för nya dokument genom att klicka på knappen  <strong>Default&#8230;</strong> (förra bilden) och sedan klicka på knappen  <strong>Yes</strong> : </p>
-			<p>
-				<img src="guvvieh/Mac_08_MSOffice_tools_language_d.png" alt="Vil du göra samiska till förvalt&#10;språk?"/>
-			</p>
-
-			<p>5. Nu kan du börja skriva på samiska och Divvun-verktygen hjälper dig att stava rätt: </p>
-			<p>
-				<img src="guvvieh/Mac_09_MSoffice_spelling_example_a.png" alt="Samisk text med skrivfel"/>
-			</p>
-			<p>
-				<img src="guvvieh/Mac_09_MSoffice_spelling_example_c.png" alt="Rättstavningsdialog för&#10;skrivfelet"/>
-			</p>
-
-			<p>Microsoft har tills vidare inte skapat stöd för samiska i MS Office för Mac, trots att samma stöd finns för MS Office för Windows. Förhoppningsvis kommer framtida versioner av MS Office för Mac att innehålla detta stöd. Tills dess måste vi definiera samiska som ett annat språk som redan finns i MS Office. </p>
-		</section>
+         <p>För att installera Divvun kan man antingen ladda ner programmet från <a
+         href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">http://www.divvun.no/static_files/sami-proofing-tools.dmg</a>eller
+         installera det från en CD.</p>
+      </section>
+      <section>
+         <title>Installation på MacOS X</title>
+         <p>1. Ladda ned installationspaketet. Den senaste officiella versionen hittar du alltid <a
+         href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">här</a>. Om du har CD:n, sätt då in den i
+         datorn. När nedladdningen är klar öppnas ett fönster på ditt skrivbord. Samma fönster öppnas även när CD:n är
+         klar. Dubbelklicka på den gula lådan med texten Divvun Installer på (installationspaketet):</p>
+         <p><img alt="Dubbelklicka på
+installationspaketet" src="guvvieh/Mac_01_Installation_download_finished.png" /></p>
+         <p>2. Klicka på <strong>Fortsätt</strong> tills du är klar för att börja själva installationen:</p>
+         <p><img alt="Klicka på &quot;Fortsätt&quot;" src="guvvieh/Mac_05_installation_install.png" /></p>
+         <p>3. Om du inte är administratör måste installationen godkännas av en sådan:</p>
+         <p><img alt="Installationen måste godkännas av en
+administratör" src="guvvieh/Mac_05_installation_install_a.png" /></p>
+         <p>4. Installationen är nu klar och du har Divvun-verktygen på din dator!</p>
+         <p><img alt="Installationen är klar" src="guvvieh/Mac_05_installation_install_c.png" /></p>
+      </section>
+      <section>
+         <title>Inställningar i MacOS X för att kunna skriva på samiska</title>
+         <p>För att kunna skriva på samiska måste du använda en samisk tangentbordsuppsättning.</p>
+         <p>1. Öppna <strong>Systeminställningar</strong></p>
+         <p><img alt="Öppna Systeminställningar" src="guvvieh/Mac_06a_Systemvalg.png" /></p>
+         <p>2. Klicka på <strong>Internationellt</strong> eller skriv ett närliggande sökord i sökfältet:</p>
+         <p><img alt="Systeminställningar" src="guvvieh/Mac_06_Systemvalg.png" /></p>
+         <p>3. Klicka på fliken <strong>Indatameny</strong> och kryssa för <strong>Nordsamisk:</strong></p>
+         <p><img alt="Lägga till samiskt
+tangentbord" src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk.png" /></p>
+         <p>4. Välj sedan samisk tangentbordsuppsättning i menyn till höger när du vill skriva på samiska:</p>
+         <p><img alt="Välj samiskt tangentbord för
+inskrivning" src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png" /></p>
+      </section>
+      <section>
+         <title>Användning av Divvun på Mac</title>
+         <p>När du öppnat MS Office måste du informera Office om vilket språk texten är skriven på. Detta görs på samma
+         sätt för både MS Office 2004 och MS Office 2008.</p>
+         <p>1. Markera den samiska texten:</p>
+         <p><img alt="Markera den samiska texten" src="guvvieh/Mac_08_MSOffice_tools_language_a.png" /></p>
+         <p>2. Gå till menyn <strong>Tools &gt; Language…</strong> :</p>
+         <p><img alt="Gå till menyn &quot;Tools &gt; Language…&quot;"
+         src="guvvieh/Mac_08_MSOffice_tools_language_b.png" /></p>
+         <p>3. Välj språket <strong>Katalanska</strong> ( <strong>Catalan</strong> ) för <strong>nordsamiska</strong> ,
+         språket <strong>Baskiska</strong> ( <strong>Basque</strong> ) för <strong>lulesamiska</strong> , eller språket
+         <strong>Slovakiska</strong> ( <strong>Slovak</strong> ) för <strong>sydsamiska</strong> ( <a
+         href="#1">1</a>):</p>
+         <p><img alt="Välj språk" src="guvvieh/Mac_08_MSOffice_tools_language_c.png" /></p>
+         <p>4. Ifall du skriver mycket på samiska, kan du göra samiska till förvalt språk för nya dokument genom att
+         klicka på knappen <strong>Default…</strong> (förra bilden) och sedan klicka på knappen <strong>Yes</strong>
+         :</p>
+         <p><img alt="Vil du göra samiska till förvalt
+språk?" src="guvvieh/Mac_08_MSOffice_tools_language_d.png" /></p>
+         <p>5. Nu kan du börja skriva på samiska och Divvun-verktygen hjälper dig att stava rätt:</p>
+         <p><img alt="Samisk text med skrivfel" src="guvvieh/Mac_09_MSoffice_spelling_example_a.png" /></p>
+         <p><img alt="Rättstavningsdialog för
+skrivfelet" src="guvvieh/Mac_09_MSoffice_spelling_example_c.png" /></p>
+         <p>Microsoft har tills vidare inte skapat stöd för samiska i MS Office för Mac, trots att samma stöd finns för
+         MS Office för Windows. Förhoppningsvis kommer framtida versioner av MS Office för Mac att innehålla detta stöd.
+         Tills dess måste vi definiera samiska som ett annat språk som redan finns i MS Office.</p>
+      </section>
       <section>
          <title>Uninstallation</title>
          <section>
@@ -119,5 +100,5 @@
             </ul>
          </section>
       </section>
-	</body>
+   </body>
 </document>

@@ -1,98 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
 <document>
-	<header>
-		<title>Guktie sijjiedehtedh jih utnedh</title>
-	</header>
-	<body>
+   <header>
+      <title>Guktie sijjiedehtedh jïh utnedh</title>
+   </header>
+   <body>
       <note>When writing Sámi on the Mac, use the languages <strong>Catalan</strong> (=North Sámi),
       <strong>Basque</strong> (=Lule Sámi) or <strong>Slovak</strong> (=South Sámi). Don't blame us, blame MS for the
       situation.</note>
-		<section>
-			<title>Sijjiedehtedh</title>
+      <section>
+         <title>Sijjiedehtedh</title>
          <note>If you are upgrading from version 1, please uninstal the version old version before installing version
          2.</note>
-			<p>Jis Divvun-prograammem sijjiedehtedh maahta programmem vïedtjelidh daestie  <a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">http://www.divvun.no/static_files/sami-proofing-tools.dmg</a>jallh CD:ste sijjiedehtedh.  </p>
-		</section>
-		<section>
-			<title>Sijjiedehteme MacOS X:sne</title>
-			<p>1. Vïedtjelh sijjiedehtemepaahkem. Mïnngemes versjovnem iktesth daesnie gaavnah  <a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">daesnie</a>. Jis dov CD, bïejh daam daatovren sïjse. Gosse vïedtjeme, dellie klaase rïhpese tjaelemebuertesne. Seamma klaase rïhpese aaj gosse CD lea gaervies. Daam vïskes borhtjem guektien aejkien diedtieh(sijjiedehtemepaahka):  </p>
-			<p>
-				<img src="guvvieh/Mac_01_Installation_download_finished.png" alt="Dubbelklicka på&#10;installationspaketet"/>
-			</p>
-
-			<p>2. Diedtieh<strong>Fortsätt</strong>guktie dellie aalka sijjiedehtedh</p>
-			<p>
-				<img src="guvvieh/Mac_05_installation_install.png" alt="Bild: "/>
-			</p>
-
-			<p>3. Jis ih leah jïjtje dïhte reerije, dellie dihte guhte lea reerije tjoevere sijjiedehtemem dååhkesjehtedh: </p>
-			<p>
-				<img src="guvvieh/Mac_05_installation_install_a.png" alt="Installationen måste godkännas av en&#10;administratör"/>
-			</p>
-
-			<p>4. Joe leah sijjiedahteme jïh dov leah daelie Divvun-dïrregh dov daatovrisnie! </p>
-			<p>
-				<img src="guvvieh/Mac_05_installation_install_c.png" alt="Installationen är klar"/>
-			</p>
-		</section>
-		<section>
-			<title>Sjïehtedimmieh MacOS X:sne juktie maehtedh saemien gïelesne tjaeledh.</title>
-			<p>Jis edtjh buektiehtidh noerhtesaemien gïelesne tjaeledh, dle tjoeverh saemien båaloebuertiem veedtjedh</p>
-			<p>1. Rïhpesth  <strong>Systeminställningar</strong> </p>
-			<p>
-				<img src="guvvieh/Mac_06a_Systemvalg.png" alt="Bild: Öppna Systeminställningar"/>
-			</p>
-
-			<p>2. Diedtieh  <strong>Internationellt</strong> jallh ohtsedh dam baakoem ohtsemesijjesne: </p>
-			<p>
-				<img src="guvvieh/Mac_06_Systemvalg.png" alt="Bild: Systeminställningar "/>
-			</p>
-
-			<p>3. Diedtieh <strong>Indatameny</strong> jïh vïhtesjh  <strong>Nordsamisk:</strong> </p>
-			<p>
-				<img src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk.png" alt="Lägga till samiskt&#10;tangentbord"/>
-			</p>
-
-			<p>4. Veeljh dellie saemien båaloebuertiem menyesne åelkiesbielesne gosse edtjh saemien gïelesne tjaeledh: </p>
-			<p>
-				<img src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png" alt="Välj samiskt tangentbord för&#10;inskrivning"/>
-			</p>
-		</section>
-		<section>
-			<title>Divvun Mac:esne utnedh</title>
-			<p>Gosse datne MS Office:m rïhpestamme, dle tjoerh daatovrem stïlledh saemien gïelesne staeriedidh. Daam darjoeh seamma vuekien mietie MS Office 2004:se jïh MS Office 2008:se.  </p>
-
-			<p>1. Mïerhkesjh saemien tjaaladahkem: </p>
-			<p>
-				<img src="guvvieh/Mac_08_MSOffice_tools_language_a.png" alt="Markera den samiska texten"/>
-			</p>
-
-			<p>2. Mïnnh menyesne <strong>Tools &gt; Language&#8230;</strong> : </p>
-			<p>
-				<img src="guvvieh/Mac_08_MSOffice_tools_language_b.png" alt="Gå till menyn &quot;Tools &gt; Language&#8230;&quot;"/>
-			</p>
-
-			<p>3. Veeljh gïelem  <strong>Katalanska</strong> ( <strong>Catalan</strong> ) dan  <strong>noerhtesaemien gïele</strong> , veeljh  <strong>Baskiska</strong> ( <strong>Basque</strong> ) dan  <strong>julevsaemien gïele</strong> , jallh veeljh  <strong>Slovakiska</strong> ( <strong>Slovak</strong> ) dan  <strong>åarjelsaemien gïele</strong> ( <a href="#1">1</a>): </p>
-			<p>
-				<img src="guvvieh/Mac_08_MSOffice_tools_language_c.png" alt="Välj språk"/>
-			</p>
-
-			<p>4. Jis datne jïjnje saemien tjaalah, dle maahtah saemien voestesveeljeme gïeline darjodh orre tjaatsegidie. Dam hov naemhtie darjoeh: Diedtieh båaloem  <strong>Default&#8230;</strong> (minngemes guvvie) jïh die diedtieh båaloem  <strong>Yes</strong> : </p>
-			<p>
-				<img src="guvvieh/Mac_08_MSOffice_tools_language_d.png" alt="Vil du göra samiska till förvalt&#10;språk?"/>
-			</p>
-
-			<p>5. Daelie maahtah aelkedh saemien tjaeledh jïh prograamme datnem viehkehte rïekteslaakan tjaeledh:  </p>
-			<p>
-				<img src="guvvieh/Mac_09_MSoffice_spelling_example_a.png" alt="Samisk text med skrivfel"/>
-			</p>
-			<p>
-				<img src="guvvieh/Mac_09_MSoffice_spelling_example_c.png" alt="Rättstavningsdialog för&#10;skrivfelet"/>
-			</p>
-
-			<p>Ij leah Microsoftdaan raajan naan sjïere dovtegem dorjeme guktie saemien gïelide Mac:esne dåarjele, jilhts dovtege MS Office:ese Windows:ese gååvnese. Håhkoe lea ahte båetijebiejjide versjovnh dan MS Office:este Mac:ese daam dovtegem åtna. Dan raajan tjoeveribie saemien gïelide jeatjah gïeline tjïelkestidh mah gååvnesieh MS Office:esne. </p>
-		</section>
+         <p>Jis Divvun-prograammem sijjiedehtedh maahta programmem vïedtjelidh daestie <a
+         href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">http://www.divvun.no/static_files/sami-proofing-tools.dmg</a>jallh
+         CD:ste sijjiedehtedh.</p>
+      </section>
+      <section>
+         <title>Sijjiedehteme MacOS X:sne</title>
+         <p>1. Vïedtjelh sijjiedehtemepaahkem. Mïnngemes versjovnem iktesth daesnie gaavnah <a
+         href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">daesnie</a>. Jis dov CD, bïejh daam daatovren
+         sïjse. Gosse vïedtjeme, dellie klaase rïhpese tjaelemebuertesne. Seamma klaase rïhpese aaj gosse CD lea
+         gaervies. Daam vïskes borhtjem guektien aejkien diedtieh(sijjiedehtemepaahka):</p>
+         <p><img alt="Dubbelklicka på
+installationspaketet" src="guvvieh/Mac_01_Installation_download_finished.png" /></p>
+         <p>2. Diedtieh<strong>Fortsätt</strong>guktie dellie aalka sijjiedehtedh</p>
+         <p><img alt="Bild: " src="guvvieh/Mac_05_installation_install.png" /></p>
+         <p>3. Jis ih leah jïjtje dïhte reerije, dellie dihte guhte lea reerije tjoevere sijjiedehtemem
+         dååhkesjehtedh:</p>
+         <p><img alt="Installationen måste godkännas av en
+administratör" src="guvvieh/Mac_05_installation_install_a.png" /></p>
+         <p>4. Joe leah sijjiedahteme jïh dov leah daelie Divvun-dïrregh dov daatovrisnie!</p>
+         <p><img alt="Installationen är klar" src="guvvieh/Mac_05_installation_install_c.png" /></p>
+      </section>
+      <section>
+         <title>Sjïehtedimmieh MacOS X:sne juktie maehtedh saemien gïelesne tjaeledh.</title>
+         <p>Jis edtjh buektiehtidh noerhtesaemien gïelesne tjaeledh, dle tjoeverh saemien båaloebuertiem veedtjedh</p>
+         <p>1. Rïhpesth <strong>Systeminställningar</strong></p>
+         <p><img alt="Bild: Öppna Systeminställningar" src="guvvieh/Mac_06a_Systemvalg.png" /></p>
+         <p>2. Diedtieh <strong>Internationellt</strong> jallh ohtsedh dam baakoem ohtsemesijjesne:</p>
+         <p><img alt="Bild: Systeminställningar " src="guvvieh/Mac_06_Systemvalg.png" /></p>
+         <p>3. Diedtieh <strong>Indatameny</strong> jïh vïhtesjh <strong>Nordsamisk:</strong></p>
+         <p><img alt="Lägga till samiskt
+tangentbord" src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk.png" /></p>
+         <p>4. Veeljh dellie saemien båaloebuertiem menyesne åelkiesbielesne gosse edtjh saemien gïelesne tjaeledh:</p>
+         <p><img alt="Välj samiskt tangentbord för
+inskrivning" src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png" /></p>
+      </section>
+      <section>
+         <title>Divvun Mac:esne utnedh</title>
+         <p>Gosse datne MS Office:m rïhpestamme, dle tjoerh daatovrem stïlledh saemien gïelesne staeriedidh. Daam
+         darjoeh seamma vuekien mietie MS Office 2004:se jïh MS Office 2008:se.</p>
+         <p>1. Mïerhkesjh saemien tjaaladahkem:</p>
+         <p><img alt="Markera den samiska texten" src="guvvieh/Mac_08_MSOffice_tools_language_a.png" /></p>
+         <p>2. Mïnnh menyesne <strong>Tools &gt; Language…</strong> :</p>
+         <p><img alt="Gå till menyn &quot;Tools &gt; Language…&quot;"
+         src="guvvieh/Mac_08_MSOffice_tools_language_b.png" /></p>
+         <p>3. Veeljh gïelem <strong>Katalanska</strong> ( <strong>Catalan</strong> ) dan <strong>noerhtesaemien
+         gïele</strong> , veeljh <strong>Baskiska</strong> ( <strong>Basque</strong> ) dan <strong>julevsaemien
+         gïele</strong> , jallh veeljh <strong>Slovakiska</strong> ( <strong>Slovak</strong> ) dan <strong>åarjelsaemien
+         gïele</strong> ( <a href="#1">1</a>):</p>
+         <p><img alt="Välj språk" src="guvvieh/Mac_08_MSOffice_tools_language_c.png" /></p>
+         <p>4. Jis datne jïjnje saemien tjaalah, dle maahtah saemien voestesveeljeme gïeline darjodh orre tjaatsegidie.
+         Dam hov naemhtie darjoeh: Diedtieh båaloem <strong>Default…</strong> (minngemes guvvie) jïh die diedtieh
+         båaloem <strong>Yes</strong> :</p>
+         <p><img alt="Vil du göra samiska till förvalt
+språk?" src="guvvieh/Mac_08_MSOffice_tools_language_d.png" /></p>
+         <p>5. Daelie maahtah aelkedh saemien tjaeledh jïh prograamme datnem viehkehte rïekteslaakan tjaeledh:</p>
+         <p><img alt="Samisk text med skrivfel" src="guvvieh/Mac_09_MSoffice_spelling_example_a.png" /></p>
+         <p><img alt="Rättstavningsdialog för
+skrivfelet" src="guvvieh/Mac_09_MSoffice_spelling_example_c.png" /></p>
+         <p>Ij leah Microsoftdaan raajan naan sjïere dovtegem dorjeme guktie saemien gïelide Mac:esne dåarjele, jilhts
+         dovtege MS Office:ese Windows:ese gååvnese. Håhkoe lea ahte båetijebiejjide versjovnh dan MS Office:este
+         Mac:ese daam dovtegem åtna. Dan raajan tjoeveribie saemien gïelide jeatjah gïeline tjïelkestidh mah gååvnesieh
+         MS Office:esne.</p>
+      </section>
       <section>
          <title>Uninstallation</title>
          <section>
@@ -119,5 +102,5 @@
             </ul>
          </section>
       </section>
-	</body>
+   </body>
 </document>
