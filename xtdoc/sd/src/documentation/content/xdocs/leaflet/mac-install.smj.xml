@@ -5,8 +5,13 @@
 		<title>Installasjåvnnå ja nævoj adno</title>
 	</header>
 	<body>
+      <note>When writing Sámi on the Mac, use the languages <strong>Catalan</strong> (=North Sámi),
+      <strong>Basque</strong> (=Lule Sámi) or <strong>Slovak</strong> (=South Sámi). Don't blame us, blame MS for the
+      situation.</note>
 		<section>
 			<title>Installasjåvnnå</title>
+         <note>If you are upgrading from version 1, please uninstal the version old version before installing version
+         2.</note>
 			<p>Gå installeri Divvom-nævojt máhttá viedtjat prográmmav dássta: <a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">http://www.divvun.no/static_files/sami-proofing-tools.dmg</a>jali installerit dav skierros. </p>
 		</section>
 		<section>
@@ -88,5 +93,31 @@
 
 			<p>Microsoft ij vil doarjo sámegielav Mac MS Officen, vajku dårja l Windows MS Officen. Mij sávvap ahte boahtte versjåvnåjn Mac MS Offices la dákkir dårja. Dassátjij mij hæhttup definerit sámev ietjá giellan, mij juo gávnnu MS Officen. </p>
 		</section>
+      <section>
+         <title>Uninstallation</title>
+         <section>
+            <title>Divvun 2.x</title>
+            <ul>
+               <li>Open the folder <strong>DivvunTools</strong> in the <strong>/Library</strong> folder:<figure
+               alt="Divvun 2 Uninstallation program" src="guvvieh/Mac_10_Divvun2_Uninstallation.png" /></li>
+               <li>Run the <strong>Remove Divvun for Office</strong> application in the subfolder for the application
+               you want to remove Divvun from, and confirm that you want to remove Divvun when asked:<figure
+               alt="Confirm uninstallation" src="guvvieh/Mac_11_Divvun2_Uninstallation_confirmation.png" /></li>
+               <li>If it is the last or only Divvun installation, the whole folder <strong>DivvunTools</strong> will be
+               removed as well.</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 1.x</title>
+            <ul>
+               <li>Open the folder <strong>SamiProofingTools</strong> in the <strong>Applications</strong>
+               folder:<figure alt="Uninstallation of Divvun1" src="guvvieh/Mac_12_Divvun1_Uinstallation.png" /></li>
+               <li>Run (one of) the <strong>Remove SamiProofingTools</strong> application(s). Click <strong>OK</strong>
+               when done:<figure alt="Uninstallation complete"
+               src="guvvieh/Mac_13_Divvun1_Uninstallation_done.png" /></li>
+               <li>Manually delete the folder <strong>SamiProofingTools</strong> if it isn't automatically deleted</li>
+            </ul>
+         </section>
+      </section>
 	</body>
 </document>
