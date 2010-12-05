@@ -11,6 +11,7 @@
 		</section>
 		<section>
 			<title>Divvun-ohjelman asennus Windows-koneella</title>
+         <note>If you are upgrading from version 1, please uninstal the old version before installing version 2.</note>
 			<p>Aseta CD asemaan tai osoita latauslinkkiä - asennusohjelma käynnistyy itsestään. </p>
 			<p>1. Valitse asennuskieli jota käytetään asennuksen yhteydessä: </p>
 			<p>
