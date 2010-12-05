@@ -6,12 +6,12 @@
       <title>Installering og bruk på MacOS X</title>
    </header>
    <body>
-      <note>When writing Sámi on the Mac, use the languages <strong>Catalan</strong> (=North Sámi),
-      <strong>Basque</strong> (=Lule Sámi) or <strong>Slovak</strong> (=South Sámi). Don't blame us, blame MS for the
-      situation.</note>
+      <note>Når du skriver samisk på Mac, må du bruke språkene <strong>Katalansk</strong> (=nordsamisk),
+      <strong>Baskisk</strong> (=lulesamisk) eller <strong>Slovakisk</strong> (=sørsamisk). Skyld ikke på oss, skyld på
+      Microsoft.</note>
       <section>
          <title>Installering på MacOS X</title>
-         <note>If you are upgrading from version 1, please uninstal the version old version before installing version
+         <note>Om du oppgraderer fra versjon 1, må du avinstallere den gamle versjonen før du installerer versjon
          2.</note>
          <p>For å installere Divvun-verktøyene kan man enten laste ned programmet fra <a
          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">http://www.divvun.no/static_files/sami-proofing-tools.dmg</a>eller
@@ -71,28 +71,29 @@ skrivefeilen" src="guvvieh/Mac_09_MSoffice_spelling_example_c.png" /></p>
          støtten. Inntil da må vi late som om samiske språk er andre språk som alt er definert i MS Office.</p>
       </section>
       <section>
-         <title>Uninstallation</title>
+         <title>Avinstallering</title>
          <section>
             <title>Divvun 2.x</title>
             <ul>
-               <li>Open the folder <strong>DivvunTools</strong> in the <strong>/Library</strong> folder:<figure
+               <li>Åpne mappen <strong>DivvunTools</strong> i <strong>/Library</strong>-mappen:<figure
                alt="Divvun 2 Uninstallation program" src="guvvieh/Mac_10_Divvun2_Uninstallation.png" /></li>
-               <li>Run the <strong>Remove Divvun for Office</strong> application in the subfolder for the application
-               you want to remove Divvun from, and confirm that you want to remove Divvun when asked:<figure
+               <li>Start programmet <strong>Remove Divvun for Office</strong> i undermappen for det programmet du vil
+               fjerne Divvun fra, og bekreft at du vil fjene Divvun når du blir spurt om det:<figure
                alt="Confirm uninstallation" src="guvvieh/Mac_11_Divvun2_Uninstallation_confirmation.png" /></li>
-               <li>If it is the last or only Divvun installation, the whole folder <strong>DivvunTools</strong> will be
-               removed as well.</li>
+               <li>Om det er den siste eller eneste Divvun-installasjonen vil mappen <strong>DivvunTools</strong> også
+               bli fjernet.</li>
             </ul>
          </section>
          <section>
             <title>Divvun 1.x</title>
             <ul>
-               <li>Open the folder <strong>SamiProofingTools</strong> in the <strong>Applications</strong>
-               folder:<figure alt="Uninstallation of Divvun1" src="guvvieh/Mac_12_Divvun1_Uinstallation.png" /></li>
-               <li>Run (one of) the <strong>Remove SamiProofingTools</strong> application(s). Click <strong>OK</strong>
-               when done:<figure alt="Uninstallation complete"
+               <li>Åpne mappen <strong>SamiProofingTools</strong> i <strong>Applications</strong>-mappen:<figure
+               alt="Uninstallation of Divvun1" src="guvvieh/Mac_12_Divvun1_Uinstallation.png" /></li>
+               <li>Start (ett av) <strong>Remove SamiProofingTools</strong>-programmet(-ene). Klikk <strong>OK</strong>
+               når avinstalleringen er klar:<figure alt="Uninstallation complete"
                src="guvvieh/Mac_13_Divvun1_Uninstallation_done.png" /></li>
-               <li>Manually delete the folder <strong>SamiProofingTools</strong> if it isn't automatically deleted</li>
+               <li>Det kan hende at du må slette mappen <strong>SamiProofingTools</strong> manuelt dersom den ikke
+               slettes automatisk.</li>
             </ul>
          </section>
       </section>
