@@ -60,8 +60,7 @@
          src="guvvieh/Mac_08_MSOffice_tools_language_d.png" /></p>
          <p>5. Now you may start writing in Sami, and the Divvun tools will help you spell correctly:</p>
          <p><img alt="Sami text with spelling error" src="guvvieh/Mac_09_MSoffice_spelling_example_a.png" /></p>
-         <p><img alt="Orthography dialogue for
-the spelling error" src="guvvieh/Mac_09_MSoffice_spelling_example_c.png" /></p>
+         <figure alt="Orthography dialogue for the spelling error" src="guvvieh/Mac_09_MSoffice_spelling_example_c.png" />
          <p>So far, Microsoft has not included support for Sami in MS Office for Mac, despite the fact that such a
          support is provided for MS Office for Windows. Hopefully future verisions of MS Office for Mac will include
          this support. Until then we will have to pretend that the Sami languages are other languages, already defined
@@ -86,6 +85,7 @@ the spelling error" src="guvvieh/Mac_09_MSoffice_spelling_example_c.png" /></p>
             <ul>
                <li>Open the folder <strong>SamiProofingTools</strong> in the <strong>Applications</strong> folder:</li>
                <li>Run (one of) the <strong>Remove Sami Tools</strong> application(s)</li>
+               <li>Manually delete the folder <strong>SamiProofingTools</strong> if it isn't automatically deleted</li>
             </ul>
          </section>
       </section>
