@@ -2,16 +2,16 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
 	<header>
-		<title>Guktie sijjiedehtedh jih utnedh Windows:sne</title>
+		<title>Guktie sijjiedehtedh jih utnedh programmem Windows:sne</title>
 	</header>
 	<body>
 		<section>
-			<title>Divvunmem vïedtjedh</title>
+			<title>Divvunmem veedtjedh</title>
 			<p><a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Veedtjh http://www.divvun.no/static_files/DivvunInstaller.exe</a> jallh dænghkodh CD Saemiedigkeste, tel: +47 78 48 42 22.</p>
 		</section>
 		<section>
-			<title>Guktie sijjiedehtedh Windows:se</title>
-         <note>If you are upgrading from version 1, please uninstal the old version before installing version 2.</note>
+			<title>Guktie sijjiedehtedh programmem Windows:se</title>
+         <note>Jis edtjh orrestehtedh programmem voestes versjovneste mubpie versjovnese, dellie tjoeverh vaeltedh dam båeries versjovnem destie, åvteli dam orre mubpie versjovnem bïejh.</note>
 			<p>Bïejh CD:m jallh diedtieh vïedtjemesvaalhtesem - dïhte sijjiedehtemeprograamme dellie jïjtje aalka</p>
 			<p>1. Veeljh sijjiedehtemegïelem, dam gïelem guhte åtnasåvva prograammen sijjiedehtemen mietie:</p>
 			<p>
@@ -23,12 +23,12 @@
 				<img src="guvvieh/PC_03_Install_start_a_cut.png" alt="Fortsätt med installationen"/>
 			</p>
 			
-			<p>3. Sijjiedehtedh prograammem, diedtieh båaloem  <strong>Installera</strong> . </p>
+			<p>3. Gosse programmem Sijjiedehtedh, diedtieh båaloem  <strong>Installera</strong> . </p>
 			<p>
 				<img src="guvvieh/PC_04_install_continue.png" alt="Välj vad du ska installera"/>
 			</p>
 			
-			<p>4.Orrejh dellie sijjiedehtedh, diedtieh<strong>Fullför</strong> båaloem: </p>
+			<p>4.Gosse orrijidh dam sijjiedehtemem, diedtieh dellie<strong>Fullför</strong> båaloem: </p>
 			<p>
 				<img src="guvvieh/PC_05_install_complete.png" alt="Börja installera "/>
 			</p>
@@ -36,12 +36,12 @@
 		</section>
 		<section>
 			<title>Guktie maehtedh Windows:sne saemien tjaeledh</title>
-			<p>1. Jis edtjh buektiehtidh noerhtesaemien baakoejgujmie tjaeledh tjoeverh dellie veeljedh<strong>Kontrollpanelen</strong>.Desnie guvviem guektien aejkien diedtelh.<strong>Datum, klockslag, språk och internationella inställningar:</strong> </p>
+			<p>1. Jis edtjh buektiehtidh noerhtesaemien baakoejgujmie tjaeledh tjoeverh dellie veeljedh<strong>Kontrollpanelen</strong>.Desnie guvviem guektien aejkien diedtieh.<strong>Datum, klockslag, språk och internationella inställningar:</strong> </p>
 			<p>
 				<img src="guvvieh/PC_07_controlpanel_settings_date_clock_cut.png" alt="Datum, klockslag, språk och internationella&#10;inställningar"/>
 			</p>
 			
-			<p>2.Daelie datne gaskenasjovne sjïehtedimmiej sisnie.Daesnie guvviem<strong>Inställningar för region och språk:</strong> guektien aejkien diedtelh</p>
+			<p>2.Daelie datne gaskenasjovne sjïehtedimmiej sisnie.Daesnie guvviem<strong>Inställningar för region och språk:</strong> guektien aejkien diedtieh</p>
 			<p>
 				<img src="guvvieh/PC_08_Settings_language_cut.png" alt="Dubbelklicka på ikonen &quot;Inställningar för region och&#10;språk&quot;"/>
 			</p>
