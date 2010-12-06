@@ -3,14 +3,13 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
    <header>
-      <title>Divvun - saemien staeriedimmiedïrregh</title>
+      <title>Divvun - Saemien staeriedimmiedïrregh</title>
    </header>
    <body>
-      <note>Divvun 2.0 med støtte for <strong>sørsamisk</strong> blir lansert 8. desember 2010. Divvun 2.0 inkluderer
-      også støtte for MS Office 2011 (Mac). Støtte for Office 2010 (Windows) og InDesign CS4 og CS5 er underveis men
-      blir ikke ferdig til 2.0-lanseringen 8. desember.</note>
+      <note>Divvun 2.0 mij dåarjele<strong>åarjelsaemiengïelem</strong>åvtese båata Goeven 8.biejjien 2010. Divvun 2.0 aaj dåarjele 
+       MS Officem 2011 (Mac). Dovtege Officese 2010 (Windows) jïh InDesign CS4 jïh CS5:ese leah båetiemisnie, mohte eah gaervies sjïdth 2.0-åehpiedehtemebeajjan mij lea Goeven 8.biejjien.</note>
       <section>
-         <title>Vïedtjelh Divvunem</title>
+         <title>Veedtjh Divvunem</title>
          <ul>
             <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller.exe"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
@@ -21,7 +20,7 @@
             v1.1</a> — <a href="leaflet/mac-install.html">bïhkedimmie</a> — <a
             href="mac-video.html">vuesiehtimmievidejovvh</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
-            src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — alle operativsystem, Divvun
+            src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — gaajhkh operativsysteemh, Divvun
             v.1.0beta7</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">bïhkedimmie</a> — <a
             href="ooo-video.html">vuesiehtimmievidejovvh</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
