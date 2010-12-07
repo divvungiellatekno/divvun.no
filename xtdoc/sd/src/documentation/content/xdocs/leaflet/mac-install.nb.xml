@@ -17,11 +17,7 @@
          <title>Installering på MacOS X</title>
          <note>Om du oppgraderer fra versjon 1, må du avinstallere den gamle versjonen før du installerer versjon
          2.</note>
-         <p>For å installere Divvun-verktøyene kan man enten laste ned programmet fra <a
-         href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">http://www.divvun.no/static_files/sami-proofing-tools.dmg</a>eller
-         installere det fra en CD.</p>
-         <p>1. Last ned installeringspakka. Nyeste offisielle versjon finner du alltid <a
-         href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">her</a>. Om du har CD-en, putt den inn i
+         <p>1. Om du har CD-en, putt den inn i
          datamaskinen. Når nedlastinga eller CD-en er klar åpnes et vindu på skrivebordet ditt. Dobbelklikk på den gule
          esken (installeringspakka):</p>
          <p><img alt="Dobbelklikk på
