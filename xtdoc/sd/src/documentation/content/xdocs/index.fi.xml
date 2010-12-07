@@ -3,31 +3,30 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>Divvun - sámi proofing tools</title>
+      <title>Divvun - saamen kielen oikolukutyökalut</title>
    </header>
    <body>
-      <note>Divvun 2.0 med støtte for <strong>sørsamisk</strong> blir lansert 8. desember 2010. Divvun 2.0 inkluderer
-      også støtte for MS Office 2011 (Mac). Støtte for Office 2010 (Windows) og InDesign CS4 og CS5 er underveis men
-      blir ikke ferdig til 2.0-lanseringen 8. desember.</note>
+      <note>Divvun 2.0 joka sisältää tuen <strong>eteläsaamelle</strong> julkaistaan 8. joulukuuta 2010. Divvun 2.0
+      sisältää myös tuen MS Office 2011 (Mac):lle. Tuki Office 2010 (Windows):lle ja InDesign CS4 ja CS5:lee on
+      tuloillaan, mutta ei sisälly 2.0 päivitykseen.</note>
       <section>
-         <title>Download Divvun</title>
+         <title>Lataa Divvun</title>
          <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller.exe"><icon alt="Download"
+            <li class="Lataa"><a href="http://divvun.no/static_files/DivvunInstaller.exe"><icon alt="Lataa"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
-            v2.0</a> — <a href="leaflet/win-install.html">instruction</a> — <a
-            href="win-msoffice-video.html">instructional videos</a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon alt="Download"
+            v2.0</a> — <a href="leaflet/win-install.html">ohjeet</a> — <a
+            href="win-msoffice-video.html">ohjevideo</a></li>
+            <li class="Lataa"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon alt="Lataa"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
-            v2.0</a> — <a href="leaflet/mac-install.html">instruction</a> — <a href="mac-video.html">instructional
-            videos</a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
-            src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — all operating systems,
-            Divvun v.1.0beta8</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">instruction</a> — <a
-            href="ooo-video.html">instructional videos</a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon alt="Download" height="32"
+            v2.0</a> — <a href="leaflet/mac-install.html">ohjeet</a> — <a href="mac-video.html">ohjevideo</a></li>
+            <li class="Lataa"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Lataa" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — kaikki käyttöjärjestelmät,
+            Divvun v.1.0beta8</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">ohjeet</a> — <a
+            href="ooo-video.html">ohjevideo</a></li>
+            <li class="Lataa"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Lataa" height="32"
             src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun v2.0</a> — <a
-            href="proofdoc/hyph/InDesign/index.html">instruction</a></li>
-            <li><a href="downloads.html">Other installation options</a></li>
+            href="proofdoc/hyph/InDesign/index.html">ohjeet</a></li>
+            <li><a href="downloads.html">Muut latausvaihtoehdot</a></li>
          </ul>
       </section>
    </body>

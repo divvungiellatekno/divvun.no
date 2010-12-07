@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
           "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="en"> 
+<document xml:lang="fi"> 
     <header>
-        <title>Downloads</title>
+        <title>Lataukset</title>
     </header>
     <body>
       <section>
-         <title>Other installation options</title>
+         <title>Muut asennusvaihtoehdot</title>
          <ul>
-            <li>Divvun for MacOS X: <a href="proofdoc/spell/X-spell/install_macosx.html">instructions</a> on how to
-            install and use the Divvun tools in Mac OS X</li>
-            <li>Divvun for Linux: <a href="proofdoc/spell/X-spell/install_linux.html">instructions</a> on how to install
-            and use the Divvun tools in Linux</li>
-            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> to burn an installation CD
-            for all three operating systems</li>
+            <li>Divvun MacOS X:lle: <a href="proofdoc/spell/X-spell/install_macosx.html">ohjeet</a> kuinka asentaa
+            Divvun työkalut Mac OS X:lle</li>
+            <li>Divvun Linuxille: <a href="proofdoc/spell/X-spell/install_linux.html">ohjeet</a> kuinka asentaa
+            Divvun työkalut Linuxille</li>
+            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> joka voidaan polttaa CD:lle</li>
          </ul>
       </section>
 	  <section>
