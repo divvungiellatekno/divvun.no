@@ -3,7 +3,7 @@
 "document-v20.dtd">
 <document>
    <header>
-      <title>Installation and use of the Divvun proofing tools on Windows</title>
+      <title>Installation and use on Windows</title>
    </header>
    <body>
       <section>
@@ -18,11 +18,9 @@
          <p>Insert the CD or click the download link - the installation application will start automatically.</p>
          <p>1. Select installation language, that is, the interface language to be used during installation:</p>
          <p><img alt="Choose installation language" src="guvvieh/PC_02_Install_choose_language_cut.png" /></p>
-         <p>2. Continue the installation:</p>
-         <p><img alt="Continue the installation" src="guvvieh/PC_03_Install_start_a_cut.png" /></p>
-         <p>3. To install the program, press the <strong>Install</strong> button.</p>
+         <p>2. To install the program, press the <strong>Install</strong> button.</p>
          <p><img alt="Press the __Install__ button" src="guvvieh/PC_04_install_continue.png" /></p>
-         <p>4. To finish the installation, press the <strong>Finish</strong> button:</p>
+         <p>3. To finish the installation, press the <strong>Finish</strong> button:</p>
          <p><img alt="Finish the installation" src="guvvieh/PC_05_install_complete.png" /></p>
          <p>Then the installation is finished.</p>
       </section>

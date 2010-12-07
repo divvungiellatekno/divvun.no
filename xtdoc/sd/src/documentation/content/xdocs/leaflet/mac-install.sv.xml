@@ -3,12 +3,16 @@
 "document-v20.dtd">
 <document>
    <header>
-      <title>Installation och användning av produkten</title>
+      <title>Installation och användning av Divvun på MacOS X</title>
    </header>
    <body>
       <note>Då du skriver samiska på Mac, välj språken <strong>Katalanska</strong> (=Nordsamiska),
       <strong>Baskiska</strong> (=Lulesamiska) or <strong>Slovakiska</strong> (=Sydsamiska). Skyll inte på oss, men på MS för
       detta.</note>
+		<section>
+			<title>Skaffa Divvun</title>
+			<p><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Hämta http://www.divvun.no/static_files/sami-proofing-tools.dmg</a> eller beställ en CD från Sametinget, tel: +47 78 48 42 22.</p>
+		</section>
       <section>
          <title>Installation</title>
          <note>Om du uppgraderar från version 1, så måste du avinstallera den gamla versionen innan du installerar version
