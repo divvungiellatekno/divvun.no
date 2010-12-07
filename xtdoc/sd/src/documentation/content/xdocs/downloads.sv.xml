@@ -17,5 +17,19 @@
             installerings-cd för alla tre operativsystem</li>
          </ul>
       </section>
+	  	  <section>
+		  <title>Older versions</title>
+		  <ul>
+			  <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20081231.exe"><icon alt="Download"
+            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
+            v1.1</a> — <a href="leaflet/win-install.html">vägledning</a> — <a
+            href="win-msoffice-video.html">instruktionsvideor</a></li>
+            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20081231.dmg"><icon alt="Download"
+            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
+            v1.1</a> — <a href="leaflet/mac-install.html">vägledning</a> — <a
+            href="mac-video.html">instruktionsvideor</a></li>
+            </ul>
+		</section>
+
    </body>
 </document>
