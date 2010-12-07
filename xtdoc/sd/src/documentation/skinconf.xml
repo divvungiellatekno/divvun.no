@@ -117,6 +117,25 @@ which will be used to configure the chosen Forrest skin.
         in the class attribute of a <p> node.
         e.g. <p class="quote"/>
     -->
+	#lang-choice {
+	width: 100%;
+	padding: 0px 0px 10px 0px;
+	font-family: Verdana, sans-serif;
+	}
+
+#lang-choice p {
+	display: inline;
+	}
+
+#lang-choice ul, #lang-choice li {
+	display: inline;
+	margin: 0;
+	padding: 0;
+	font-size: 95%;
+	}
+
+
+
     p.last_modified {
       margin-left: 2em;
       padding: .5em;
