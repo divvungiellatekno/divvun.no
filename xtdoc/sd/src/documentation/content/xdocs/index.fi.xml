@@ -9,7 +9,10 @@
       <note>Divvun 2.0 joka sisältää tuen <strong>eteläsaamelle</strong> julkaistaan 8. joulukuuta 2010. Divvun 2.0
       sisältää myös tuen MS Office 2011 (Mac):lle. Tuki Office 2010 (Windows):lle ja InDesign CS4 ja CS5:lee on
       tuloillaan, mutta ei sisälly 2.0 päivitykseen.</note>
-      <section>
+      
+      <warning>Before you install Divvun 2.0 you must uninstall older versions of Divvun. Here you find instructions for <a href="leaflet/win-install.html">Windows</a> and <a href="leaflet/mac-install.html">MacOS X</a>
+      </warning>
+	  <section>
          <title>Lataa Divvun</title>
          <ul>
             <li class="Lataa"><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon alt="Lataa"

@@ -8,7 +8,9 @@
    <body>
       <note>Divvun 2.0 mas lea maid <strong>máttasámi čállindárkkisteaddji</strong> almmuhuvvo juovlamánu 8. b. 2010.
 	  Divvun 2.0 doarju MS Office 2011 (Mac). Veršuvdna mii doarju Microsoft Office 2010 (Windows), InDesign CS4 ja CS5 lea jođus muhto ii gárván 2.0-almmuhussii juovlamánu 8. beaivái.</note>
-      <section>
+      <warning>Ovdalgo sajáiduhtát Divvun 2.0 fertet váldit eret boares Divvun-veršuvnnaid. Dás gávnnat bagadusat <a href="leaflet/win-install.html">Windowsii</a> ja <a href="leaflet/mac-install.html">MacOS X:i</a>
+      </warning>
+	  <section>
          <title>Viečča Divvuma</title>
          <ul>
             <li class="Download"><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon alt="Download"
