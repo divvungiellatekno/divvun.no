@@ -193,9 +193,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
     +</xsl:comment> 
             <div class="searchbox">
              <xsl:variable name="search-prompt">
-               <i18n:text>Search the site with</i18n:text>
-               <xsl:text> </xsl:text>
-               <xsl:value-of select="$config/search/@provider"/>
+               <i18n:text>Search the site</i18n:text>
              </xsl:variable>
              <xsl:choose>
               <xsl:when test="$config/search/@provider = 'lucene'">
