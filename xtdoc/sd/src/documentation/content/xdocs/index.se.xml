@@ -3,11 +3,11 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="se">
    <header>
-      <title>Divvun - sámi čállindárkkistanreaiddut</title>
+      <title>Divvun 2 - sámi čállindárkkistanreaiddut</title>
    </header>
    <body>
-      <note>Divvun 2.0 mas lea maid <strong>máttasámi čállindárkkisteaddji</strong> almmuhuvvo juovlamánu 8. b. 2010 (<a href="http://www.samediggi.no/Artikkel.aspx?AId=4002">Preassadieđáhus</a>).
-	  Divvun 2.0 doarju MS Office 2011 (Mac). Veršuvdna mii doarju Microsoft Office 2010 (Windows), InDesign CS4 ja CS5 lea jođus muhto ii gárván 2.0-almmuhussii juovlamánu 8. beaivái.</note>
+      <p>Divvun 2.0 mas lea maid <strong>máttasámi čállindárkkisteaddji</strong> almmuhuvvo juovlamánu 8. b. 2010 (<a href="http://www.samediggi.no/Artikkel.aspx?AId=4002">Preassadieđáhus</a>).
+	  Divvun 2.0 doarju MS Office 2011 (Mac). Veršuvdna mii doarju Microsoft Office 2010 (Windows), InDesign CS4 ja CS5 lea jođus muhto ii gárván 2.0-almmuhussii juovlamánu 8. beaivái.</p>
       <warning>Ovdalgo sajáiduhtát Divvun 2.0 fertet váldit eret boares Divvun-veršuvnnaid. Dás gávnnat bagadusat <a href="leaflet/win-install.html">Windowsii</a> ja <a href="leaflet/mac-install.html">MacOS X:i</a>
       </warning>
 	  <section>

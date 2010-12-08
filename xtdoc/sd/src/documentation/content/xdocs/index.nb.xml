@@ -3,12 +3,12 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="nb">
    <header>
-      <title>Divvun - samiske rettskrivningsverktøy</title>
+      <title>Divvun 2 - samiske rettskrivningsverktøy</title>
    </header>
    <body>
-      <note>Divvun 2.0 med støtte for <strong>sørsamisk</strong> blir lansert 8. desember 2010 (<a href="http://www.sametinget.no/Artikkel.aspx?AId=4002">Pressemelding</a>). Divvun 2.0 inkluderer
+      <p>Divvun 2.0 med støtte for <strong>sørsamisk</strong> blir lansert 8. desember 2010 (<a href="http://www.sametinget.no/Artikkel.aspx?AId=4002">Pressemelding</a>). Divvun 2.0 inkluderer
       også støtte for MS Office 2011 (Mac). Støtte for Office 2010 (Windows) og InDesign CS4 og CS5 er underveis men
-      blir ikke ferdig til 2.0-lanseringen 8. desember.</note>
+      blir ikke ferdig til 2.0-lanseringen 8. desember.</p>
       
       <warning>Før du installerer Divvun 2.0 må du avinstallere eldre versjoner av Divvun. Her finner du veiledning for <a href="leaflet/win-install.html">Windows</a> og <a href="leaflet/mac-install.html">MacOS X</a>
       </warning>

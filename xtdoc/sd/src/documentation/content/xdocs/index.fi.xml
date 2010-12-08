@@ -3,12 +3,12 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>Divvun - saamen kielen oikolukutyökalut</title>
+      <title>Divvun 2 - saamen kielen oikolukutyökalut</title>
    </header>
    <body>
-      <note>Divvun 2.0 joka sisältää tuen <strong>eteläsaamelle</strong> julkaistaan 8. joulukuuta 2010 (<a href="http://www.samediggi.no/Artikkel.aspx?AId=4002">Lehdistötiedo</a>). Divvun 2.0
+      <p>Divvun 2.0 joka sisältää tuen <strong>eteläsaamelle</strong> julkaistaan 8. joulukuuta 2010 (<a href="http://www.samediggi.no/Artikkel.aspx?AId=4002">Lehdistötiedo</a>). Divvun 2.0
       sisältää myös tuen MS Office 2011 (Mac):lle. Tuki Office 2010 (Windows):lle ja InDesign CS4 ja CS5:lee on
-      tuloillaan, mutta ei sisälly 2.0 päivitykseen.</note>
+      tuloillaan, mutta ei sisälly 2.0 päivitykseen.</p>
       
       <warning>Before you install Divvun 2.0 you must uninstall older versions of Divvun. Here you find instructions for <a href="leaflet/win-install.html">Windows</a> and <a href="leaflet/mac-install.html">MacOS X</a>
       </warning>

@@ -3,12 +3,12 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="smj">
    <header>
-      <title>Divvun - sáme riektatjállemnævo</title>
+      <title>Divvun 2 - sáme riektatjállemnævo</title>
    </header>
    <body>
-      <note>Divvun 2.0 <strong>oarjjelijsáme</strong> doarjjagijn almoduvvá javllamáno 8. 2010 (<a href="http://www.samediggi.no/Artikkel.aspx?AId=4002">Præssadiedádus</a>). Divvun 2.0:n la
+      <p>Divvun 2.0 <strong>oarjjelijsáme</strong> doarjjagijn almoduvvá javllamáno 8. 2010 (<a href="http://www.samediggi.no/Artikkel.aspx?AId=4002">Præssadiedádus</a>). Divvun 2.0:n la
       MS Office 2011 (Mac) dårja aj. Office 2010 (Windows), InDesign CS4 ja CS5 dårja boahtá ruvvaláhkáj valla
-      ij sjatta gárvves 2.0-almodibmáj javllamáno 8. biejve.</note>
+      ij sjatta gárvves 2.0-almodibmáj javllamáno 8. biejve.</p>
 	  <warning>Åvddål gå installeri Divvun 2.0  válldet ierit boares Divvun-versjånåjt. Dánna gávna bagádusajt <a href="leaflet/win-install.html">Windowsii</a> ja <a href="leaflet/mac-install.html">MacOS X:i</a></warning>
       <section>
          <title>Viedtjala Divvunav</title>
