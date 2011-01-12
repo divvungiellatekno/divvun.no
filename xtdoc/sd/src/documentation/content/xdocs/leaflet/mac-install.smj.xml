@@ -7,24 +7,25 @@
    </header>
    <body>
       <note>Gå tjálá sámegiellaj Macajn, vállji gielajt <strong>Katalansk</strong> (=Nuorttasábme),
-      <strong>Baskisk</strong> (=Julevsábme) jali <strong>Slovakisk</strong> (=Oarjjelijsábme). Ale sivádahte mijáv, sivádahte MS dan
-      diehti.</note>
-		<section>
-			<title>Viedtjala Divvumav</title>
-			<p><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Viedtjala dánna: http://www.divvun.no/static_files/sami-proofing-tools.dmg</a> jali diŋgo CD:v Sámedikkes, tel: +47 78 48 42 22.</p>
-		</section>
+      <strong>Baskisk</strong> (=Julevsábme) jali <strong>Slovakisk</strong> (=Oarjjelijsábme). Ale sivádahte mijáv,
+      sivádahte MS dan diehti.</note>
+      <section>
+         <title>Viedtjala Divvumav</title>
+         <p><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Viedtjala dánna:
+         http://www.divvun.no/static_files/sami-proofing-tools.dmg</a> jali diŋgo CD:v Sámedikkes, tel: +47 78 48 42
+         22.</p>
+      </section>
       <section>
          <title>Installasjåvnnå</title>
-         <note>Jus dujna juo la version 1, de hähttu ierit válldet boares versjåvnåv åvddål gå bieja version
-         2.</note>
+         <note>Jus dujna juo la version 1, de hähttu ierit válldet boares versjåvnåv åvddål gå bieja version 2.</note>
          <p>Gå installeri Divvom-nævojt máhttá viedtjat prográmmav dássta: <a
          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">http://www.divvun.no/static_files/sami-proofing-tools.dmg</a>jali
          installerit dav skierros.</p>
       </section>
       <section>
          <title>Installasjåvnnå MacOS X:n</title>
-         <p>1. Gå l gárvásit viettjaduvvam vinndek rahpas tjállembievden. Sæmmi vinndek rahpas gå skierro aj
-         la gárves. Dieddela visskis lådav (installasjonpáhkav) guokti:</p>
+         <p>1. Gå l gárvásit viettjaduvvam vinndek rahpas tjállembievden. Sæmmi vinndek rahpas gå skierro aj la gárves.
+         Dieddela visskis lådav (installasjonpáhkav) guokti:</p>
          <p><img alt="Dieddela visskis lådav (installasjonpáhkav) guokti"
          src="guvvieh/Mac_01_Installation_download_finished.png" /></p>
          <p>2. Diette <strong>Fortsätt</strong> dassátjij gå l gárves álgadit installasjåvnåv:</p>
@@ -79,20 +80,21 @@
             <ul>
                <li>Rabá <strong>DivvunTools</strong> máhpav <strong>/Bibliotek</strong> máhpa sinne:<figure
                alt="Divvun 2 Uninstallation program" src="guvvieh/Mac_10_Divvun2_Uninstallation.png" /></li>
-               <li>Bieja jåhtuj <strong>Remove Divvun for Office</strong> prográmmav dan prográmma vuollásasjmáhpa sinne
-               massta dån sidá válldet Divvunav ierit, ja duodasta ahte sidá válldet ierit Divvunav gå oattjo gatjálvisáv:<figure
-               alt="Confirm uninstallation" src="guvvieh/Mac_11_Divvun2_Uninstallation_confirmation.png" /></li>
-               <li>Jus la maŋemus jali ájnna Divvun-installasjåvnnå, gájkka <strong>DivvunTools</strong>máhppa váldeduvvá
-               ierit.</li>
+               <li>Bieja jåhtuj <strong>Remove Divvun for Office</strong> prográmmav dan prográmma vuollásasjmáhpa
+               sinne massta dån sidá válldet Divvunav ierit, ja duodasta ahte sidá válldet ierit Divvunav gå oattjo
+               gatjálvisáv:<figure alt="Confirm uninstallation"
+               src="guvvieh/Mac_11_Divvun2_Uninstallation_confirmation.png" /></li>
+               <li>Jus la maŋemus jali ájnna Divvun-installasjåvnnå, gájkka <strong>DivvunTools</strong>máhppa
+               váldeduvvá ierit.</li>
             </ul>
          </section>
          <section>
             <title>Divvun 1.x</title>
             <ul>
-               <li>Rabá <strong>SamiProofingTools</strong>máhpav <strong>Programmer</strong>
-               máhpa sinne:<figure alt="Uninstallation of Divvun1" src="guvvieh/Mac_12_Divvun1_Uinstallation.png" /></li>
-               <li>Bieja jåhtuj avtav dajs <strong>Remove SamiProofingTools</strong> prográmmajs. Dieddela <strong>OK</strong>
-               gå la gárves:<figure alt="Uninstallation complete"
+               <li>Rabá <strong>SamiProofingTools</strong>máhpav <strong>Programmer</strong> máhpa sinne:<figure
+               alt="Uninstallation of Divvun1" src="guvvieh/Mac_12_Divvun1_Uinstallation.png" /></li>
+               <li>Bieja jåhtuj avtav dajs <strong>Remove SamiProofingTools</strong> prográmmajs. Dieddela
+               <strong>OK</strong> gå la gárves:<figure alt="Uninstallation complete"
                src="guvvieh/Mac_13_Divvun1_Uninstallation_done.png" /></li>
                <li>Hæhttu iesj bálkestit ierit <strong>SamiProofingTools</strong> jus ij iesj jávka</li>
             </ul>

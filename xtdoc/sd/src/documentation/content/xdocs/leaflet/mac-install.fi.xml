@@ -6,13 +6,15 @@
       <title>Divvun-ohjelman asennus ja käyttö MacOS X -koneella</title>
    </header>
    <body>
-      <note>When writing Sámi on the Mac, use the languages <strong>Catalan</strong> (=North Sámi),
-      <strong>Basque</strong> (=Lule Sámi) or <strong>Slovak</strong> (=South Sámi). Don't blame us, blame MS for the
-      situation.</note>
-		<section>
-			<title>Hae Divvun</title>
-			<p><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Lataa http://www.divvun.no/static_files/sami-proofing-tools.dmg</a> tai tilaa CD Norjan saamelaiskäräjiltä, puh: +47 78 48 42 22.</p>
-		</section>
+      <note>Kun kirjoitat saamea Microsoft Office for Mac:lle, käyta kielet When writing Sámi on the Mac, use the
+      languages <strong>Catalan</strong> (=North Sámi), <strong>Basque</strong> (=Lule Sámi) or <strong>Slovak</strong>
+      (=South Sámi). Don't blame us, blame MS for the situation.</note>
+      <section>
+         <title>Hae Divvun</title>
+         <p><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Lataa
+         http://www.divvun.no/static_files/sami-proofing-tools.dmg</a> tai tilaa CD Norjan saamelaiskäräjiltä, puh: +47
+         78 48 42 22.</p>
+      </section>
       <section>
          <title>Divvun-ohjelman asennus MacOS X -koneella</title>
          <note>If you are upgrading from version 1, please uninstal the version old version before installing version
@@ -20,9 +22,8 @@
          <p>Divvun-ohjelman voi ladata osoitteesta <a
          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">http://www.divvun.no/static_files/sami-proofing-tools.dmg</a>tai
          se voidaan asentaa CD:ltä.</p>
-         <p>1. Jos sinulla on CD, asenna se
-         tietokoneeseen. Kun lataus tai CD on valmis avautuu työpöydälle uusi ikkuna. Kaksoisosoita keltaista laatikkoa
-         (asennuspaketti):</p>
+         <p>1. Jos sinulla on CD, asenna se tietokoneeseen. Kun lataus tai CD on valmis avautuu työpöydälle uusi ikkuna.
+         Kaksoisosoita keltaista laatikkoa (asennuspaketti):</p>
          <p><img alt="Kaksoisosoita asennuspakettia" src="guvvieh/Mac_01_Installation_download_finished.png" /></p>
          <p>2. Osoita Jatka niin että pääset aloittamaan asennuksen:</p>
          <p><img alt="Kuva: " src="guvvieh/Mac_05_installation_install.png" /></p>

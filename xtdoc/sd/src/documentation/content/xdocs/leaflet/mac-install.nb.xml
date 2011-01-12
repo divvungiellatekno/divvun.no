@@ -9,24 +9,24 @@
       <note>Når du skriver samisk på Mac, må du bruke språkene <strong>Katalansk</strong> (=nordsamisk),
       <strong>Baskisk</strong> (=lulesamisk) eller <strong>Slovakisk</strong> (=sørsamisk). Skyld ikke på oss, skyld på
       Microsoft.</note>
-		<section>
-			<title>Skaffe Divvun</title>
-			<p><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Hent http://www.divvun.no/static_files/sami-proofing-tools.dmg</a> eller bestill en CD fra Sametinget, tel: +47 78 48 42 22.</p>
-		</section>
+      <section>
+         <title>Skaffe Divvun</title>
+         <p><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Hent
+         http://www.divvun.no/static_files/sami-proofing-tools.dmg</a> eller bestill en CD fra Sametinget, tel: +47 78
+         48 42 22.</p>
+      </section>
       <section>
          <title>Installering på MacOS X</title>
          <note>Om du oppgraderer fra versjon 1, må du avinstallere den gamle versjonen før du installerer versjon
          2.</note>
-         <p>1. Om du har CD-en, putt den inn i
-         datamaskinen. Når nedlastinga eller CD-en er klar åpnes et vindu på skrivebordet ditt. Dobbelklikk på den gule
-         esken (installeringspakka):</p>
-         <p><img alt="Dobbelklikk på
-installeringspakka" src="guvvieh/Mac_01_Installation_download_finished.png" /></p>
+         <p>1. Om du har CD-en, putt den inn i datamaskinen. Når nedlastinga eller CD-en er klar åpnes et vindu på
+         skrivebordet ditt. Dobbelklikk på den gule esken (installeringspakka):</p>
+         <p><img alt="Dobbelklikk på installeringspakka" src="guvvieh/Mac_01_Installation_download_finished.png" /></p>
          <p>2. Klikk på <strong>Fortsett</strong> til du er klar til å begynne selve installeringen:</p>
          <p><img alt="Start sevle installeringen" src="guvvieh/Mac_05_installation_install.png" /></p>
          <p>3. Om du ikke er administrator må installeringen godkjennes av en:</p>
-         <p><img alt="Installeringen må godkjennes av en
-administrator" src="guvvieh/Mac_05_installation_install_a.png" /></p>
+         <p><img alt="Installeringen må godkjennes av en administrator"
+         src="guvvieh/Mac_05_installation_install_a.png" /></p>
          <p>4. Installeringen er nå ferdig og du har Divvun-verktøyene på datamaskinen din!</p>
          <p><img alt="Installeringen er ferdig" src="guvvieh/Mac_05_installation_install_c.png" /></p>
       </section>
@@ -38,11 +38,10 @@ administrator" src="guvvieh/Mac_05_installation_install_a.png" /></p>
          <p>2. Klikk på <strong>Internasjonalt</strong> eller skriv et nærliggende søkeord i søkefeltet:</p>
          <p><img alt="Systemvalg…" src="guvvieh/Mac_06_Systemvalg.png" /></p>
          <p>3. Klikk på fliken <strong>Tastaturmeny</strong> og sett et kryss foran <strong>Nordsamisk:</strong></p>
-         <p><img alt="Legge til samisk
-tastatur" src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk.png" /></p>
+         <p><img alt="Legge til samisk tastatur" src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk.png" /></p>
          <p>4. Velg deretter samisk tastaturoppsett i tastaturmenyen til høyre når du skal skrive på samisk:</p>
-         <p><img alt="Velg samisk tastatur for
-skriving" src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png" /></p>
+         <p><img alt="Velg samisk tastatur for skriving"
+         src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png" /></p>
       </section>
       <section>
          <title>Bruke Divvun på Mac</title>
@@ -60,12 +59,10 @@ skriving" src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png" /></p>
          <p><img alt="Velg språk" src="guvvieh/Mac_08_MSOffice_tools_language_c.png" /></p>
          <p>4. Om du skriver mye på samisk, kan du gjøre samisk til forvalgt språk for nye dokumenter ved å klikke på
          knappen <strong>Default…</strong> (se forrige bilde) og deretter klikke på knappen <strong>Yes</strong> :</p>
-         <p><img alt="Vil du gjøre samisk til forvalgt
-språk?" src="guvvieh/Mac_08_MSOffice_tools_language_d.png" /></p>
+         <p><img alt="Vil du gjøre samisk til forvalgt språk?" src="guvvieh/Mac_08_MSOffice_tools_language_d.png" /></p>
          <p>5. Nå kan du begynne å skrive på samisk, og Divvun-verktøyene hjelper deg med å stave rett:</p>
          <p><img alt="Samisk tekst med skrivefeil" src="guvvieh/Mac_09_MSoffice_spelling_example_a.png" /></p>
-         <p><img alt="Rettskrivingsdialog for
-skrivefeilen" src="guvvieh/Mac_09_MSoffice_spelling_example_c.png" /></p>
+         <p><img alt="Rettskrivingsdialog for skrivefeilen" src="guvvieh/Mac_09_MSoffice_spelling_example_c.png" /></p>
          <p>Microsoft har inntil videre ikke laget støtte for samisk i MS Office for Mac, tross at den samme støtten
          finnes for MS Office for Windows. Forhåpentligvis inneholder kommende versjoner av MS Office for Mac denne
          støtten. Inntil da må vi late som om samiske språk er andre språk som alt er definert i MS Office.</p>
