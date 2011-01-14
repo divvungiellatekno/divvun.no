@@ -6,10 +6,9 @@
       <title>Divvun 2 - sámi proofing tools</title>
    </header>
    <body>
-      <p>Divvun 2.0 with support for <strong>South Sámi</strong> will be released on Desember 8, 2010 (<a
-      href="http://www.sametinget.no/Artikkel.aspx?AId=4002">Press release in Norwegian</a>). Divvun 2.0 will also
+      <p>Divvun 2.0 with support for <strong>South Sámi</strong> was released on Desember 8, 2010. Divvun 2.0 does also
       include support for MS Office 2011 (Mac). Support for Office 2010 (Windows) and InDesign CS4 and CS5 is under
-      development, but won't be ready for the Desember 8, 2.0 release.</p>
+      development, but isn't ready yet.</p>
       <warning>Before you install Divvun 2.0 you must uninstall older versions of Divvun. Here you find instructions for
       <a href="leaflet/win-install.html">Windows</a> and <a href="leaflet/mac-install.html">MacOS X</a></warning>
       <section>

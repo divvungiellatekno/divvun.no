@@ -6,10 +6,9 @@
       <title>Divvun 2 - samiska rättstavningsverktyg</title>
    </header>
    <body>
-      <p>Divvun 2.0 med stöd för <strong>sydsamiska</strong> lanseras 8. december 2010 (<a
-      href="http://www.sametinget.no/Artikkel.aspx?AId=4002">Pressmeddelande</a>). Divvun 2.0 inkluderar också stöd för
-      MS Office 2011 (Mac). Stöd för Office 2010 (Windows) och InDesign CS4 och CS5 är på kommande men hinner inte bli
-      färdigt till 2.0-lanseringen 8. december.</p>
+      <p>Divvun 2.0 med stöd för <strong>sydsamiska</strong> lanserades 8. december 2010. Divvun 2.0 inkluderar också
+      stöd för MS Office 2011 (Mac). Stöd för Office 2010 (Windows) och InDesign CS4 och CS5 är på kommande men hann
+      inte bli färdigt till 2.0-lanseringen.</p>
       <warning>Innan du installerar Divvun 2.0, måste tidigare versioner av Divvun avinstalleras. Här hittar du
       vägledningar för <a href="leaflet/win-install.html">Windows</a> och <a href="leaflet/mac-install.html">MacOS
       X</a></warning>
