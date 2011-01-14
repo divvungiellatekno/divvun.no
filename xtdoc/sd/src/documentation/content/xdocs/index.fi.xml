@@ -6,13 +6,14 @@
       <title>Divvun 2 - saamen kielen oikolukutyökalut</title>
    </header>
    <body>
-      <p>Divvun 2.0 joka sisältää tuen <strong>eteläsaamelle</strong> julkaistaan 8. joulukuuta 2010 (<a href="http://www.samediggi.no/Artikkel.aspx?AId=4002">Lehdistötiedo</a>). Divvun 2.0
-      sisältää myös tuen MS Office 2011 (Mac):lle. Tuki Office 2010 (Windows):lle ja InDesign CS4 ja CS5:lee on
-      tuloillaan, mutta ei sisälly 2.0 päivitykseen.</p>
-      
-      <warning>Ennen kuin asennat Divvun 2.0:n sinun tulee poistaa Divvun työkalujen aiemmat versiot. Täältä löydät ohjeet <a href="leaflet/win-install.html">Windows:lle</a> ja <a href="leaflet/mac-install.html">MacOS X:lle</a>
-      </warning>
-	  <section>
+      <p>Divvun 2.0 joka sisältää tuen <strong>eteläsaamelle</strong> julkaistaan 8. joulukuuta 2010 (<a
+      href="http://www.samediggi.no/Artikkel.aspx?AId=4002">Lehdistötiedo</a>). Divvun 2.0 sisältää myös tuen MS Office
+      2011 (Mac):lle. Tuki Office 2010 (Windows):lle ja InDesign CS4 ja CS5:lee on tuloillaan, mutta ei sisälly 2.0
+      päivitykseen.</p>
+      <warning>Ennen kuin asennat Divvun 2.0:n sinun tulee poistaa Divvun työkalujen aiemmat versiot. Täältä löydät
+      ohjeet <a href="leaflet/win-install.html">Windows:lle</a> ja <a href="leaflet/mac-install.html">MacOS
+      X:lle</a></warning>
+      <section>
          <title>Lataa Divvun</title>
          <ul>
             <li class="Lataa"><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon alt="Lataa"

@@ -6,10 +6,12 @@
       <title>Divvun 2 - sáme riektatjállemnævo</title>
    </header>
    <body>
-      <p>Divvun 2.0 <strong>oarjjelijsáme</strong> doarjjagijn almoduvvá javllamáno 8. 2010 (<a href="http://www.samediggi.no/Artikkel.aspx?AId=4002">Præssadiedádus</a>). Divvun 2.0:n la
-      MS Office 2011 (Mac) dårja aj. Office 2010 (Windows), InDesign CS4 ja CS5 dårja boahtá ruvvaláhkáj valla
-      ij sjatta gárvves 2.0-almodibmáj javllamáno 8. biejve.</p>
-	  <warning>Åvddål gå installeri Divvun 2.0  válldet ierit boares Divvun-versjånåjt. Dánna gávna bagádusajt <a href="leaflet/win-install.html">Windowsii</a> ja <a href="leaflet/mac-install.html">MacOS X:i</a></warning>
+      <p>Divvun 2.0 <strong>oarjjelijsáme</strong> doarjjagijn almoduvvá javllamáno 8. 2010 (<a
+      href="http://www.samediggi.no/Artikkel.aspx?AId=4002">Præssadiedádus</a>). Divvun 2.0:n la MS Office 2011 (Mac)
+      dårja aj. Office 2010 (Windows), InDesign CS4 ja CS5 dårja boahtá ruvvaláhkáj valla ij sjatta gárvves
+      2.0-almodibmáj javllamáno 8. biejve.</p>
+      <warning>Åvddål gå installeri Divvun 2.0 válldet ierit boares Divvun-versjånåjt. Dánna gávna bagádusajt <a
+      href="leaflet/win-install.html">Windowsii</a> ja <a href="leaflet/mac-install.html">MacOS X:i</a></warning>
       <section>
          <title>Viedtjala Divvunav</title>
          <ul>
@@ -24,9 +26,9 @@
             src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — divna operativsystema,
             Divvun v.1.0beta8</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">bágadis</a> — <a
             href="ooo-video.html">bagádimvideo</a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon alt="Download" height="32"
-            src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun v2.0</a> — <a
-            href="proofdoc/hyph/InDesign/index.html">bágadis</a></li>
+            <li class="Download"><a href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon alt="Download"
+            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun
+            v2.0</a> — <a href="proofdoc/hyph/InDesign/index.html">bágadis</a></li>
             <li><a href="downloads.html">Ietjá installerimmáhttelisvuoda</a></li>
          </ul>
       </section>

@@ -6,13 +6,13 @@
       <title>Divvun 2 - samiske rettskrivningsverktøy</title>
    </header>
    <body>
-      <p>Divvun 2.0 med støtte for <strong>sørsamisk</strong> blir lansert 8. desember 2010 (<a href="http://www.sametinget.no/Artikkel.aspx?AId=4002">Pressemelding</a>). Divvun 2.0 inkluderer
-      også støtte for MS Office 2011 (Mac). Støtte for Office 2010 (Windows) og InDesign CS4 og CS5 er underveis men
-      blir ikke ferdig til 2.0-lanseringen 8. desember.</p>
-      
-      <warning>Før du installerer Divvun 2.0 må du avinstallere eldre versjoner av Divvun. Her finner du vegledning for <a href="leaflet/win-install.html">Windows</a> og <a href="leaflet/mac-install.html">MacOS X</a>
-      </warning>
-	  <section>
+      <p>Divvun 2.0 med støtte for <strong>sørsamisk</strong> blir lansert 8. desember 2010 (<a
+      href="http://www.sametinget.no/Artikkel.aspx?AId=4002">Pressemelding</a>). Divvun 2.0 inkluderer også støtte for
+      MS Office 2011 (Mac). Støtte for Office 2010 (Windows) og InDesign CS4 og CS5 er underveis men blir ikke ferdig
+      til 2.0-lanseringen 8. desember.</p>
+      <warning>Før du installerer Divvun 2.0 må du avinstallere eldre versjoner av Divvun. Her finner du vegledning for
+      <a href="leaflet/win-install.html">Windows</a> og <a href="leaflet/mac-install.html">MacOS X</a></warning>
+      <section>
          <title>Last ned Divvun</title>
          <ul>
             <li class="Download"><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon alt="Download"
@@ -27,9 +27,9 @@
             src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — alle operativsystem, Divvun
             v.1.0beta8</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">vegledning</a> — <a
             href="ooo-video.html">instruksjonsvideoer</a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon alt="Download" height="32"
-            src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun v2.0</a> — <a
-            href="proofdoc/hyph/InDesign/index.html">vegledning</a></li>
+            <li class="Download"><a href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon alt="Download"
+            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun
+            v2.0</a> — <a href="proofdoc/hyph/InDesign/index.html">vegledning</a></li>
             <li><a href="downloads.html">Andre installeringsalternativ</a></li>
          </ul>
       </section>

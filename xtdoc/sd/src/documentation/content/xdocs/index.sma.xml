@@ -6,10 +6,13 @@
       <title>Divvun - Saemien staeriedimmiedïrregh</title>
    </header>
    <body>
-      <p>Divvun 2.0 mij dåarjele <strong>åarjelsaemiengïelem</strong> olkese båata Goeven 8.biejjien 2010 (<a href="http://www.samediggi.no/Artikkel.aspx?AId=4002">Bïevnesh</a>). Divvun 2.0 aaj dåarjele 
-       MS Officem 2011 (Mac). Dovtege Officese 2010 (Windows) jïh InDesign CS4 jïh CS5:ese leah båetiemisnie, mohte eah gaervies sjïdth 2.0 bæjhkoehtimmie-beajjan mij lea goeven 8.biejjien.</p>
-	   <warning>Gosse edtjh Divvun 2.0:m sijjiedehtedh, tjoeverh båeries versjovnh destie vaeltedh. Daesnie naan bïhkedimmieh gaavnah. <a href="leaflet/win-install.html">Windows:ese</a> jïh <a href="leaflet/mac-install.html">MacOS:ese X</a>
-      </warning>
+      <p>Divvun 2.0 mij dåarjele <strong>åarjelsaemiengïelem</strong> olkese båata Goeven 8.biejjien 2010 (<a
+      href="http://www.samediggi.no/Artikkel.aspx?AId=4002">Bïevnesh</a>). Divvun 2.0 aaj dåarjele MS Officem 2011
+      (Mac). Dovtege Officese 2010 (Windows) jïh InDesign CS4 jïh CS5:ese leah båetiemisnie, mohte eah gaervies sjïdth
+      2.0 bæjhkoehtimmie-beajjan mij lea goeven 8.biejjien.</p>
+      <warning>Gosse edtjh Divvun 2.0:m sijjiedehtedh, tjoeverh båeries versjovnh destie vaeltedh. Daesnie naan
+      bïhkedimmieh gaavnah. <a href="leaflet/win-install.html">Windows:ese</a> jïh <a
+      href="leaflet/mac-install.html">MacOS:ese X</a></warning>
       <section>
          <title>Veedtjh Divvunem</title>
          <ul>
@@ -22,12 +25,12 @@
             v2.0</a> — <a href="leaflet/mac-install.html">bïhkedimmie</a> — <a
             href="mac-video.html">vuesiehtimmievidejovvh</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
-            src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — gaajhkh operativsysteemh, Divvun
-            v.1.0beta8</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">bïhkedimmie</a> — <a
+            src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — gaajhkh operativsysteemh,
+            Divvun v.1.0beta8</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">bïhkedimmie</a> — <a
             href="ooo-video.html">vuesiehtimmievidejovvh</a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon alt="Download" height="32"
-            src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun v2.0</a> — <a
-            href="proofdoc/hyph/InDesign/index.html">bïhkedimmie</a></li>
+            <li class="Download"><a href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon alt="Download"
+            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun
+            v2.0</a> — <a href="proofdoc/hyph/InDesign/index.html">bïhkedimmie</a></li>
             <li><a href="downloads.html">Jeatjah-laakan sijjiedehtedh</a></li>
          </ul>
       </section>
