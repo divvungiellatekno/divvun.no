@@ -2,34 +2,58 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="smj">
-   <header>
-      <title>Divvun 2 - sáme riektatjállemnævo</title>
-   </header>
-   <body>
-      <p>Divvun 2.0 <strong>oarjjelijsáme</strong> doarjjagijn almoduváj javllamáno 8. 2010. Divvun 2.0:n la MS Office
-      2011 (Mac) dårja aj. Office 2010 (Windows), InDesign CS4 ja CS5 dårja boahtá ruvvaláhkáj valla ij sjatta gárvves
-      2.0-almodibmáj.</p>
-      <warning>Åvddål gå installeri Divvun 2.0 válldet ierit boares Divvun-versjånåjt. Dánna gávna bagádusajt <a
-      href="leaflet/win-install.html">Windowsii</a> ja <a href="leaflet/mac-install.html">MacOS X:i</a></warning>
-      <section>
-         <title>Viedtjala Divvunav</title>
-         <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon alt="Download"
-            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
-            v2.0</a> — <a href="leaflet/win-install.html">bágadis</a> — <a
-            href="win-msoffice-video.html">bagádimvideo</a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon alt="Download"
-            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
-            v2.0</a> — <a href="leaflet/mac-install.html">bágadis</a> — <a href="mac-video.html">bagádimvideo</a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
-            src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — divna operativsystema,
-            Divvun v.1.0beta8</a> — <a href="proofdoc/spell/X-spell/install_use_OOo3x.html">bágadis</a> — <a
-            href="ooo-video.html">bagádimvideo</a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon alt="Download"
-            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun
-            v2.0</a> — <a href="proofdoc/hyph/InDesign/index.html">bágadis</a></li>
-            <li><a href="downloads.html">Ietjá installerimmáhttelisvuoda</a></li>
-         </ul>
-      </section>
-   </body>
+  <header>
+    <title>Divvun 2 - sáme riektatjállemnævo</title>
+  </header>
+
+  <body>
+    <p>Divvun 2.0 <strong>oarjjelijsáme</strong> doarjjagijn almoduváj
+    javllamáno 8. 2010. Divvun 2.0:n la MS Office 2011 (Mac) dårja aj. Office
+    2010 (Windows), InDesign CS4 ja CS5 dårja boahtá ruvvaláhkáj valla ij
+    sjatta gárvves 2.0-almodibmáj.</p>
+
+    <warning>Åvddål gå installeri Divvun 2.0 válldet ierit boares
+    Divvun-versjånåjt. Dánna gávna bagádusajt <a
+    href="leaflet/win-install.html">Windowsii</a> ja <a
+    href="leaflet/mac-install.html">MacOS X:i</a></warning>
+
+    <section>
+      <title>Viedtjala Divvunav</title>
+
+      <ul>
+        <li class="Download"><a
+        href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon
+        alt="Download" height="32"
+        src="images/Crystal_Clear_app_download_manager.png" width="32" />MS
+        Office — Windows, Divvun v2.0</a> — <a
+        href="leaflet/win-install.html">bágadis</a> — <a
+        href="win-msoffice-video.html">bagádimvideo</a></li>
+
+        <li class="Download"><a
+        href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon
+        alt="Download" height="32"
+        src="images/Crystal_Clear_app_download_manager.png" width="32" />MS
+        Office — MacOS X, Divvun v2.0</a> — <a
+        href="leaflet/mac-install.html">bágadis</a> — <a
+        href="mac-video.html">bagádimvideo</a></li>
+
+        <li class="Download"><a
+        href="http://divvun.no/static_files/smi.oxt"><icon alt="Download"
+        height="32" src="images/Crystal_Clear_app_download_manager.png"
+        width="32" />OpenOffice 3 — divna operativsystema, Divvun
+        v.1.0beta8</a> — <a
+        href="proofdoc/spell/X-spell/install_use_OOo3x.html">bágadis</a> — <a
+        href="ooo-video.html">bagádimvideo</a></li>
+
+        <li class="Download"><a
+        href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon
+        alt="Download" height="32"
+        src="images/Crystal_Clear_app_download_manager.png"
+        width="32" />InDesign — MacOS X, Divvun v2.0</a> — <a
+        href="proofdoc/hyph/InDesign/index.html">bágadis</a></li>
+
+        <li><a href="downloads.html">Ietjá installerimmáhttelisvuoda</a></li>
+      </ul>
+    </section>
+  </body>
 </document>
