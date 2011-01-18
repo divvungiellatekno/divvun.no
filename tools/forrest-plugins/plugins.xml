@@ -58,12 +58,14 @@
         author="Divvun team @Sámi parliament"
         website="http://forrest.apache.org/pluginDocs/plugins_0_80/org.apache.forrest.plugin.input.MultilingualOOoDraw/"
         url="http://forrest.apache.org/plugins/"
+        publish="false"
         version="0.1">
     <description>
       Create a multilingual OpenOffice.org file from a number of parallell
       xdocs each in a different language.
     </description>
-    <forrestVersion>0.8</forrestVersion>
+    <forrestVersionInitial>0.9</forrestVersionInitial>
+    <forrestVersion>0.9</forrestVersion>
   </plugin>
 
 <!-- ================================================================== -->
