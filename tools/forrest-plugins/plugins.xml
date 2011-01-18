@@ -53,21 +53,18 @@
 <!-- ================================================================== -->
 <!-- Output Plugins                                                     -->
 <!-- ================================================================== -->
-  <!--plugin name="org.apache.forrest.plugin.output.Anakia"
+  <plugin name="MultilingualOOoDraw"
         type="output"
-        author="Apache Forrest Project"
-        website="http://forrest.apache.org/pluginDocs/plugins_0_80/org.apache.forrest.plugin.output.Anakia/"
+        author="Divvun team @Sámi parliament"
+        website="http://forrest.apache.org/pluginDocs/plugins_0_80/org.apache.forrest.plugin.input.MultilingualOOoDraw/"
         url="http://forrest.apache.org/plugins/"
-        publish="true"
-        version="0.2">
+        version="0.1">
     <description>
-      Produce output in Anakia-like "xdoc" format. Enables use of Forrest as a
-      tool for gathering input from various sources, and export a consistent
-      set of xml output documents.
+      Create a multilingual OpenOffice.org file from a number of parallell
+      xdocs each in a different language.
     </description>
-    <forrestVersionInitial>0.8</forrestVersionInitial>
     <forrestVersion>0.8</forrestVersion>
-  </plugin-->
+  </plugin>
 
 <!-- ================================================================== -->
 <!-- Internal Plugins                                                   -->
