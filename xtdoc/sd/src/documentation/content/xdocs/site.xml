@@ -28,7 +28,11 @@
 			<install_use description="Installation" href="install_use.html" label="Installation" />
 			<usage description="Usage" href="usage.html" label="Usage" />
 		</olddocs>
-		<ooo description="OpenOffice.org" href="proofdoc/spell/X-spell/install_use_OOo3x.html" label="OpenOffice.org" />
+		<hunspell label="Hunspell" href="X-spell/">
+			<ooo description="OpenOffice.org" href="install_use_OOo3x.html" label="OpenOffice.org" />
+			<linus description="Hunspell on Linux" href="install_linux.html" label="Hunspell on Linux" />
+			<macosx description="Hunspell on MacOSX" label="Hunspell on MacOSX" href="install_macosx.html"/>
+		</hunspell>
 		<cs3 description="InDesign CS3" href="proofdoc/hyph/InDesign/index.html" label="InDesign CS3" />
 		<videot label="Videot" href="videos/">
 			<win-msoffice description="Windows/Microsoft Office" href="win-msoffice-video.html" label="Windows/Microsoft Office" />
