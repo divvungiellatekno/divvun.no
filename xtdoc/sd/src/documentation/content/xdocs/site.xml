@@ -24,21 +24,23 @@
 			<win-msoffice description="Windows/Microsoft Office" href="win-install.html" label="Windows/Microsoft Office" />
 			<mac-msoffice description="Mac OS X/Microsoft Office" href="mac-install.html" label="Mac OS X/Microsoft Office" />
 		</leaflet>
-		<olddocs label="Old documentation" href="olddocs/">
-			<install_use description="Installation" href="install_use.html" label="Installation" />
-			<usage description="Usage" href="usage.html" label="Usage" />
-		</olddocs>
+		<indesign label="Adobe InDesign" href="indesign/">
+			<install_and_use description="Adobe InDesign" href="index.html" label="Adobe InDesign" />
+		</indesign>
 		<hunspell label="Hunspell" href="X-spell/">
 			<ooo description="OpenOffice.org" href="install_use_OOo3x.html" label="OpenOffice.org" />
 			<linus description="Hunspell on Linux" href="install_linux.html" label="Hunspell on Linux" />
-			<macosx description="Hunspell on MacOSX" label="Hunspell on MacOSX" href="install_macosx.html"/>
+			<macosx description="Hunspell on MacOSX" href="install_macosx.html" label="Hunspell on MacOSX"/>
 		</hunspell>
-		<cs3 description="InDesign CS3" href="proofdoc/hyph/InDesign/index.html" label="InDesign CS3" />
 		<videot label="Videot" href="videos/">
 			<win-msoffice description="Windows/Microsoft Office" href="win-msoffice-video.html" label="Windows/Microsoft Office" />
 			<mac description="Mac OS X" href="mac-video.html" label="Mac OS X" />
 			<ooo description="OpenOffice.org" href="ooo-video.html" label="OpenOffice.org" />
 		</videot>
+		<olddocs label="Old documentation" href="olddocs/">
+			<install_use description="Installation" href="install_use.html" label="Installation" />
+			<usage description="Usage" href="usage.html" label="Usage" />
+		</olddocs>
 	</divvun>
     <timetable description="Prošeavtta plánat" href="timetable.html" label="Prošeavtta plánat" />
     <spelling description="Mo reaiddut ráhkaduvvot" href="howmake.html" label="Mo reaiddut ráhkaduvvojit" />
