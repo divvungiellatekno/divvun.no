@@ -21,13 +21,13 @@
 			</note>
 			
 			<p>Sáme korrektuvrranævojt OpenOffice.orgaj máhtá viedtjat <a href="http://divvun.no/static_files/smi.oxt">dássta</a>. Da viettjadum korrektuvrranævo vædtjaga sivtiji náv:<br/>
-			 <img src="oxt-icon.png" alt="Extension icon and filename" /></p>
+			 <img src="images/oxt-icon.png" alt="Extension icon and filename" /></p>
 
 			<p>Dat gatjálvis makkir webbalåhkke ja operativsystebma sládje dujna la, jus fijlla ráhpas iesj OpenOffice.orgas jali siesteduvvá garra skierruj. Jus fijlla la siestedum, dieddela guokti dan fijllaj majt la viedtjam ja installeri dav.</p>
 
 			<p>Jus dån la oadtjum korrektuvrranævojt Divvom skierros, ber dieddela guokti korrektuvrranævvomoduvlaj (gehtja ikonav badjelin).</p>
 
-            <p>OpenOffice.org boahtá mannuj ja installeri korrektuvrranævojt. Dat boahtá gatjálvis dunji jus sidá installerit dav lasse oasev. Dieddela "Ok" installerit dav. Gå dat la gærggam ja installeridum ihtá vinndek vuollelattjan. Dieddela "dahppada" de joarkka. <br /><img src="ooo11.png" alt="The result of the installation" /></p>
+            <p>OpenOffice.org boahtá mannuj ja installeri korrektuvrranævojt. Dat boahtá gatjálvis dunji jus sidá installerit dav lasse oasev. Dieddela "Ok" installerit dav. Gå dat la gærggam ja installeridum ihtá vinndek vuollelattjan. Dieddela "dahppada" de joarkka. <br /><img src="images/ooo11.png" alt="The result of the installation" /></p>
 
 		</section>
 
@@ -38,11 +38,11 @@
             <p>Gå bieja mannuj sáme korrektuvrranævojt:</p>
             <ul>
                 <li>Dieddela dav goalmát oasev stáhtusbældon, dieddela maŋŋel "Ienep..." : <br />
-    			 <img src="ooo12.png" alt="Language menu" /></li>
+    			 <img src="images/ooo12.png" alt="Language menu" /></li>
 	       		<li>Vállji <strong>Tjiehkkes hámev</strong> dialogruvto skihtjen: <br />
-	       		 <img src="ooo9.png" alt="Font dialog" /></li>
+	       		 <img src="images/ooo9.png" alt="Font dialog" /></li>
 			    <li>Vállji dav gielav mav galga <strong>giellalisstos</strong>: <br />
-			     <img src="ooo10.png" alt="Choose speller language" /></li>
+			     <img src="images/ooo10.png" alt="Choose speller language" /></li>
             </ul>
 		</section>
 	</body>

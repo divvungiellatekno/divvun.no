@@ -21,13 +21,13 @@
 			</note>
 			
 			<p>De samiske stavekontrollene for OpenOffice.org kan lastes ned  <a href="http://divvun.no/static_files/smi.oxt">her</a>. Den nedlastede stavekontrollmodulen ser slik ut:<br/>
-			 <img src="oxt-icon.png" alt="utvidelsesikon og filnavn" /></p>
+			 <img src="images/oxt-icon.png" alt="utvidelsesikon og filnavn" /></p>
 
 			<p>Avhengig av hvilken webleser og operativsystem du har, blir filen enten automatisk åpnet av OpenOffice.org eller lagret på harddisken. Hvis filen blir lagret, dobbelklikk på den for å installere den.</p>
 
 			<p>Om du fikk stavekontrollene på Divvun-CD'en, dobbeltklikk på stavekontrollmodulen (se ikonet ovenfor).</p>
 
-            <p>OpenOffice.org starter opp og installerer stavekontrollen. Du får et spørsmål om du vil fortsette å installere utvidelsen. Trykk «Ok» for å installere den. Når den er ferdig installert, dukker et vindu som ligner på det nedenfor opp. Trykk «Steng» for å fortsette. <br /><img src="ooo11.png" alt="Resultatet av installasjonen." /></p>
+            <p>OpenOffice.org starter opp og installerer stavekontrollen. Du får et spørsmål om du vil fortsette å installere utvidelsen. Trykk «Ok» for å installere den. Når den er ferdig installert, dukker et vindu som ligner på det nedenfor opp. Trykk «Steng» for å fortsette. <br /><img src="images/ooo11.png" alt="Resultatet av installasjonen." /></p>
 
 		</section>
 
@@ -39,11 +39,11 @@
             <p>For å slå på samisk stavekontroll:</p>
             <ul>
                 <li>Klikk i det tredje feltet fra venstre i statusområdet og deretter «Mer …»: <br />
-    			 <img src="ooo12.png" alt="Språkmeny" /></li>
+    			 <img src="images/ooo12.png" alt="Språkmeny" /></li>
 	       		<li>Velg <strong>Font</strong>-fliken i dialogvinduet: <br />
-	       		 <img src="ooo9.png" alt="Fontdialog" /></li>
+	       		 <img src="images/ooo9.png" alt="Fontdialog" /></li>
 			    <li>Velg språket du vil ha i <strong>språkmenyen</strong>: <br />
-			     <img src="ooo10.png" alt="Velg språk for stavekontroll" /></li>
+			     <img src="images/ooo10.png" alt="Velg språk for stavekontroll" /></li>
             </ul>
 		</section>
 	</body>

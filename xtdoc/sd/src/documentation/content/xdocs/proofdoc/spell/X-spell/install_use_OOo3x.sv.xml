@@ -21,13 +21,13 @@
 			</note>
 			
 			<p>Den samiska stavningskontrollen för OpenOffice.org kan laddas ner <a href="http://divvun.no/static_files/smi.oxt">här</a>. Den hämtade stavningskontrollmodulen ser ut så här:<br/>
-			 <img src="oxt-icon.png" alt="Extension icon and filename" /></p>
+			 <img src="images/oxt-icon.png" alt="Extension icon and filename" /></p>
 
 			<p>Beroende på  vilken webbläsare och operativsystem du har, kommer filen antingen öppnas automatiskt av OpenOffice.org eller sparas på hårddisken. Om filen har sparats, dubbelklicka på den nedladdade filen för att installera den.</p>
 
 			<p>Om du fick stavningskontrollen på Divvun CD, bara dubbelklicka på stavningskontrollmodulen (se ikonen ovan).</p>
 
-            <p>OpenOffice.org kommer att startas och installerar stavningskontrollen. Du kommer att bli tillfrågad om du vill fortsätta installera tillägget. Tryck "Ok" för att installera den. När den är färdig och installerad visas ett fönster precis nedanför. Tryck på Stäng för att fortsätta. <br /><img src="ooo11.png" alt="The result of the installation" /></p>
+            <p>OpenOffice.org kommer att startas och installerar stavningskontrollen. Du kommer att bli tillfrågad om du vill fortsätta installera tillägget. Tryck "Ok" för att installera den. När den är färdig och installerad visas ett fönster precis nedanför. Tryck på Stäng för att fortsätta. <br /><img src="images/ooo11.png" alt="The result of the installation" /></p>
 
 		</section>
 
@@ -38,11 +38,11 @@
             <p>För att slå på den samiska stavningskontrollen:</p>
             <ul>
                 <li>Klicka på det tredje området i statusfältet, klicka sedan på "Mer..." : <br />
-    			 <img src="ooo12.png" alt="Language menu" /></li>
+    			 <img src="images/ooo12.png" alt="Language menu" /></li>
 	       		<li>Välj <strong>Teckensnitt</strong> fliken i dialogrutan: <br />
-	       		 <img src="ooo9.png" alt="Font dialog" /></li>
+	       		 <img src="images/ooo9.png" alt="Font dialog" /></li>
 			    <li>Välj önskat språk på <strong>språkmenyn</strong>: <br />
-			     <img src="ooo10.png" alt="Choose speller language" /></li>
+			     <img src="images/ooo10.png" alt="Choose speller language" /></li>
             </ul>
 		</section>
 	</body>

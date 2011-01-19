@@ -63,31 +63,31 @@
 				<ul>
 					<li>
 						Open Systemsettings<br />
-						<img src="KDE-start-systemoppsett.png" alt="System settings from the startup menu" />
+						<img src="images/KDE-start-systemoppsett.png" alt="System settings from the startup menu" />
 					</li>
 					<li>
 						Choose «Country/Region and Language»<br />
-						<img src="KDE-systemoppsett.png" alt="KDE system settings" />
+						<img src="images/KDE-systemoppsett.png" alt="KDE system settings" />
 					</li>
 					<li>
 						Choose «Spell Checking»<br />
-						<img src="KDE-stavekontroll.png" alt="KDE spell checking" />
+						<img src="images/KDE-stavekontroll.png" alt="KDE spell checking" />
 					</li>
 					<li>
 						The «Northern Sami» entry will give Northern Sami spell checking. <br />
-						<img src="KDE_nordsamisk.png" alt="Northern Sami entry" /> <br />
+						<img src="images/KDE_nordsamisk.png" alt="Northern Sami entry" /> <br />
 						Choosing the empty entry will give Lule Sami spell checking. (The Lule Sami entry is empty because KDE doesn't know anything about Lule Sami.) <br />
-						<img src="KDE-lulesamisk.png" alt="Lule Sami entry" />
+						<img src="images/KDE-lulesamisk.png" alt="Lule Sami entry" />
 					</li>
 				</ul>
 				
 				<p>
 					Every KDE application will now spell check in the chosen language. Try e.g. the mail application, KMail, <br />
-					<img src="kmail-nordsamisk.png" alt="KMail with Northern Sami spell checking" /><br />
+					<img src="images/kmail-nordsamisk.png" alt="KMail with Northern Sami spell checking" /><br />
 					or the chat application Kopete.<br />
-					<img src="kopete-nordsamisk.png" alt="Kopete with Northern Sami spell checking" /> <br />
+					<img src="images/kopete-nordsamisk.png" alt="Kopete with Northern Sami spell checking" /> <br />
 					Even the text fields in Konqueror (the web browser) will do spell checking. Here is a screenshot from gulesider.no, sending an SMS through the browser.<br />
-					<img src="konqueror-nordsamisk.png" alt="Konqueror with Northern Sami spell checking" /> <br />Pure magic!
+					<img src="images/konqueror-nordsamisk.png" alt="Konqueror with Northern Sami spell checking" /> <br />Pure magic!
 				</p>
 			</section>
 			
@@ -97,12 +97,12 @@
 				<ul>
 					<li>
 						From the System menu, choose Administration->Language Support<br />
-						<img src="gnome-language-support.png" alt="Language support menu in Gnome" /><br />
-						<img src="gnome-language-support-window.png" alt="Language support window in Gnome" />
+						<img src="images/gnome-language-support.png" alt="Language support menu in Gnome" /><br />
+						<img src="images/gnome-language-support-window.png" alt="Language support window in Gnome" />
 					</li>
 					<li>
 						In the window that appears, choose Northern Sami in the startup and login pulldown menu. <br />
-						<img src="gnome-language-support-nordsamisk.png" alt="Language support menu in Gnome" /> <br />
+						<img src="images/gnome-language-support-nordsamisk.png" alt="Language support menu in Gnome" /> <br />
 						After this you will probably be asked to install some packages. Say yes to everything.<br />
 						
 					</li>
@@ -110,8 +110,8 @@
 				
 				<p>
 					Every Gnome application now has spelling support for Northern Sami. Try e.g. the Outlook replacement Evolution, the chat application Pidgin or the text editor Gedit. Pure magic! Here are some examples from the chat program Pidgin.<br />
-					<img src="pidgin-nordsamisk.png" alt="Pidgin chat window" /> <br />
-					<img src="pidgin-nordsamisk1.png" alt="Sami spell checking in Pidgin" />
+					<img src="images/pidgin-nordsamisk.png" alt="Pidgin chat window" /> <br />
+					<img src="images/pidgin-nordsamisk1.png" alt="Sami spell checking in Pidgin" />
 				</p>
 			</section>
 		</section>

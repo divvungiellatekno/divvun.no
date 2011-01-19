@@ -25,7 +25,7 @@
 			
 			
 			<p>Voit ladata saamen kielen oikolukuohjelmat OpenOffice.org:lle <a href="http://divvun.no/static_files/smi.oxt">täältä</a>. Ladattu oikoluku-plugin näyttää tältä:<br/>
-				<img src="oxt-icon.png" alt="Plugin ikoni ja tiedostonimi" /></p>
+				<img src="images/oxt-icon.png" alt="Plugin ikoni ja tiedostonimi" /></p>
 
 			
 			<p>Internet selainohjelmasta ja käyttöjärjestelmästä riippuen tiedosto joko aukeaa automaattisesti OpenOffice.org:ssa tai tallentuu tietokoneelle. Jos tiedosto tallentuu kovalevylle, kaksoisosoita tiedostoa asentaaksesi sen.</p>
@@ -34,7 +34,7 @@
 			<p>Jos sait oikolukuohjelmat Divvun CD:ltä, kaksoisosoita oikolukuohjelma-pluginiä (ks. ikoni yllä).</p>
 
             
-			<p>OpenOffice.org käynnistyy ja asentaa pluginin. Käyttäjältä kysytään haluaako hän jatkaa pluginin asentamista. Paina "OK" asentaaksesi. Kun oikolukuohjelma on asennettu alla näkyvä ikkuna ilmestyy. Paina Sulje jatkaaksesi. <br/><img src="ooo11.png" alt="Asennuksen tulos" /></p>
+			<p>OpenOffice.org käynnistyy ja asentaa pluginin. Käyttäjältä kysytään haluaako hän jatkaa pluginin asentamista. Paina "OK" asentaaksesi. Kun oikolukuohjelma on asennettu alla näkyvä ikkuna ilmestyy. Paina Sulje jatkaaksesi. <br/><img src="images/ooo11.png" alt="Asennuksen tulos" /></p>
 
 		</section>
 
@@ -47,11 +47,11 @@
 			<p>Saadaksesi saamen kielen oikolukuohjelman toimimaan:</p>
             <ul>
             	<li>Osoita status barin kolmatta aluetta, sitten osoita "Lisää..." : <br/>
-            		<img src="ooo12.png" alt="Kielivalikko" /></li>
+            		<img src="images/ooo12.png" alt="Kielivalikko" /></li>
             	<li>Valitse <strong>Fontti</strong> välilehti: <br/>
-            		<img src="ooo9.png" alt="Fonttidialogi" /></li>
+            		<img src="images/ooo9.png" alt="Fonttidialogi" /></li>
             	<li>Valitse suosituskieli <strong>menusta</strong>: <br/>
-            		<img src="ooo10.png" alt="Valitse oikolukukieli" /></li>
+            		<img src="images/ooo10.png" alt="Valitse oikolukukieli" /></li>
             </ul>
 		</section>
 	</body>
