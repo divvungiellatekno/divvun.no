@@ -20,17 +20,19 @@
 
   <about label="Davvisámegiella" tab="Ruoktu">
     <index description="Bures boahttin divvun.no prošektii" href="index.html" label="Álgosiidu"/>
-	<divvun label="Dokumentašuvdna">
-		<win-msoffice description="Windows/Microsoft Office" href="leaflet/win-install.html" label="Windows/Microsoft Office" />
-		<mac-msoffice description="Mac OS X/Microsoft Office" href="leaflet/mac-install.html" label="Mac OS X/Microsoft Office" />
+	<divvun label="Dokumentašuvdna" href="userdocs">
+		<leaflet href="leaflet">
+			<win-msoffice description="Windows/Microsoft Office" href="win-install.html" label="Windows/Microsoft Office" />
+			<mac-msoffice description="Mac OS X/Microsoft Office" href="mac-install.html" label="Mac OS X/Microsoft Office" />
+		</leaflet>
 		<ooo description="OpenOffice.org" href="proofdoc/spell/X-spell/install_use_OOo3x.html" label="OpenOffice.org" />
 		<cs3 description="InDesign CS3" href="proofdoc/hyph/InDesign/index.html" label="InDesign CS3" />
+		<videot label="Videot" href="videos">
+			<win-msoffice description="Windows/Microsoft Office" href="win-msoffice-video.html" label="Windows/Microsoft Office" />
+			<mac description="Mac OS X" href="mac-video.html" label="Mac OS X" />
+			<ooo description="OpenOffice.org" href="ooo-video.html" label="OpenOffice.org" />
+		</videot>
 	</divvun>
-	<videot label="Videot">
-		<win-msoffice description="Windows/Microsoft Office" href="win-msoffice-video.html" label="Windows/Microsoft Office" />
-		<mac description="Mac OS X" href="mac-video.html" label="Mac OS X" />
-		<ooo description="OpenOffice.org" href="ooo-video.html" label="OpenOffice.org" />
-	</videot>
     <timetable description="Prošeavtta plánat" href="timetable.html" label="Prošeavtta plánat" />
     <spelling description="Mo reaiddut ráhkaduvvot" href="howmake.html" label="Mo reaiddut ráhkaduvvojit" />
     <downloads description="Download files from divvun.no" href="downloads.html" label="Downloads" />
