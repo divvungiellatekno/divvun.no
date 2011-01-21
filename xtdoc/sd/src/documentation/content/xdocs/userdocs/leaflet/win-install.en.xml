@@ -14,7 +14,7 @@
       </section>
       <section>
          <title>Installation and use of the Divvun proofing tools on Windows</title>
-         <note>If you are upgrading from version 1, please uninstall the old version before installing version 2.</note>
+         <warning>If you are upgrading from version 1, please uninstall the old version before installing version 2.</warning>
          <p>Insert the CD or click the download link - the installation application will start automatically.</p>
          <p>1. Select installation language, that is, the interface language to be used during installation:</p>
          <p><img alt="Choose installation language" src="guvvieh/PC_02_Install_choose_language_cut.png" /></p>

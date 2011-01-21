@@ -11,7 +11,7 @@
 		</section>
 		<section>
 			<title>Installering av Divvun-verktøyene på Windows</title>
-         <note>If you are upgrading from version 1, please uninstal the old version before installing version 2.</note>
+         <warning>Om du oppgraderer fra versjon 1, må du først avinstallere den gamle versjonen før du installerer Divvun 2 eller nyere.</warning>
 			<p>Sett inn CD-en eller klikk på nedlastingslenka &#8212; installeringsprogrammet starter av seg selv. </p>
 			<p>1. Velg installeringsspråk, d.v.s. det språk som skal brukes under selve installeringen av programmet:  </p>
 			<p>
