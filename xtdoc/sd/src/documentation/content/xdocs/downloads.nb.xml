@@ -9,9 +9,9 @@
       <section>
          <title>Andre installeringsalternativ</title>
          <ul>
-            <li>Divvun for hele MacOS X: <a href="proofdoc/spell/X-spell/install_macosx.html">instruksjoner</a> for
+            <li>Divvun for hele MacOS X: <a href="userdocs/X-spell/install_macosx.html">instruksjoner</a> for
             hvordan man installerer og bruker Divvun-verktøyene i hele Mac OS X</li>
-            <li>Divvun for hele Linux: <a href="proofdoc/spell/X-spell/install_linux.html">instruksjoner</a> for hvordan
+            <li>Divvun for hele Linux: <a href="userdocs/X-spell/install_linux.html">instruksjoner</a> for hvordan
             man installerer og bruker Divvun-verktøyene i hele Linux</li>
             <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> for å brenne en
             installerings-cd for alle tre operativsystemene</li>
@@ -22,12 +22,12 @@
 		  <ul>
 			<li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20081231.exe"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
-            v1.1</a> — <a href="leaflet/win-install.html">veiledning</a> — <a
-            href="win-msoffice-video.html">instruksjonsvideoer</a></li>
+            v1.1</a> — <a href="userdocs/leaflet/win-install.html">veiledning</a> — <a
+            href="userdocs/videos/win-msoffice-video.html">instruksjonsvideoer</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20081231.dmg"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
-            v1.1</a> — <a href="leaflet/mac-install.html">veiledning</a> — <a
-            href="mac-video.html">instruksjonsvideoer</a></li>
+            v1.1</a> — <a href="userdocs/leaflet/mac-install.html">veiledning</a> — <a
+            href="userdocs/videos/mac-video.html">instruksjonsvideoer</a></li>
             </ul>
 		</section>
    </body>

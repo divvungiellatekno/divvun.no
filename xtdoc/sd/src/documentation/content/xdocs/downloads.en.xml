@@ -9,9 +9,9 @@
       <section>
          <title>Other installation options</title>
          <ul>
-            <li>Divvun for MacOS X: <a href="proofdoc/spell/X-spell/install_macosx.html">instructions</a> on how to
+            <li>Divvun for MacOS X: <a href="userdocs/X-spell/install_macosx.html">instructions</a> on how to
             install and use the Divvun tools in Mac OS X</li>
-            <li>Divvun for Linux: <a href="proofdoc/spell/X-spell/install_linux.html">instructions</a> on how to install
+            <li>Divvun for Linux: <a href="userdocs/X-spell/install_linux.html">instructions</a> on how to install
             and use the Divvun tools in Linux</li>
             <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> to burn an installation CD
             for all three operating systems</li>
@@ -22,11 +22,11 @@
 		  <ul>
 			  <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20081231.exe"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
-            v1.1</a> — <a href="leaflet/win-install.html">instruction</a> — <a
-            href="win-msoffice-video.html">instructional videos</a></li>
+            v1.1</a> — <a href="userdocs/leaflet/win-install.html">instruction</a> — <a
+            href="userdocs/videos/win-msoffice-video.html">instructional videos</a></li>
 			<li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20081231.dmg"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
-            v1.1</a> — <a href="leaflet/mac-install.html">instruction</a> — <a href="mac-video.html">instructional
+            v1.1</a> — <a href="userdocs/leaflet/mac-install.html">instruction</a> — <a href="userdocs/videos/mac-video.html">instructional
             videos</a></li>
             
             </ul>

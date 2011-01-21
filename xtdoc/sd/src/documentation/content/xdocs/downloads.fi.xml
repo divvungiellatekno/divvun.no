@@ -9,9 +9,9 @@
       <section>
          <title>Muut asennusvaihtoehdot</title>
          <ul>
-            <li>Divvun MacOS X:lle: <a href="proofdoc/spell/X-spell/install_macosx.html">ohjeet</a> kuinka asentaa
+            <li>Divvun MacOS X:lle: <a href="userdocs/X-spell/install_macosx.html">ohjeet</a> kuinka asentaa
             Divvun työkalut Mac OS X:lle</li>
-            <li>Divvun Linuxille: <a href="proofdoc/spell/X-spell/install_linux.html">ohjeet</a> kuinka asentaa
+            <li>Divvun Linuxille: <a href="userdocs/X-spell/install_linux.html">ohjeet</a> kuinka asentaa
             Divvun työkalut Linuxille</li>
             <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> joka voidaan polttaa CD:lle</li>
          </ul>
@@ -21,11 +21,11 @@
 		  <ul>
 			  <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20081231.exe"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
-            v1.1</a> — <a href="leaflet/win-install.html">instruction</a> — <a
-            href="win-msoffice-video.html">instructional videos</a></li>
+            v1.1</a> — <a href="userdocs/leaflet/win-install.html">instruction</a> — <a
+            href="userdocs/videos/win-msoffice-video.html">instructional videos</a></li>
 			<li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20081231.dmg"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
-            v1.1</a> — <a href="leaflet/mac-install.html">instruction</a> — <a href="mac-video.html">instructional
+            v1.1</a> — <a href="userdocs/leaflet/mac-install.html">instruction</a> — <a href="userdocs/videos/mac-video.html">instructional
             videos</a></li>
             
             </ul>

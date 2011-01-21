@@ -9,9 +9,9 @@
       <section>
          <title>Ietjá installerimmáhttelisvuoda</title>
          <ul>
-            <li>Divvun divna MacOS X:j: <a  href="proofdoc/spell/X-spell/install_macosx.html">bagádisá</a> gåktå
+            <li>Divvun divna MacOS X:j: <a  href="userdocs/X-spell/install_macosx.html">bagádisá</a> gåktå
             installerit ja adnet Divvun-nævojt divna Mac OS X:n</li>
-            <li>Divvun divna Linuxij: <a href="proofdoc/spell/X-spell/install_linux.html">bagádisá</a> gåktå
+            <li>Divvun divna Linuxij: <a href="userdocs/X-spell/install_linux.html">bagádisá</a> gåktå
             installerit ja adnet Divvun-nævojt divna Linuxin</li>
             <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-gåvvå</a> mav boalldá
             installerim-cd:n gájka gålmå operativsystemaj</li>
@@ -22,11 +22,11 @@
 		  <ul>
 			  <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20081231.exe"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
-            v1.1</a> — <a href="leaflet/win-install.html">bágadis</a> — <a
-            href="win-msoffice-video.html">bagádimvideo</a></li>
+            v1.1</a> — <a href="userdocs/leaflet/win-install.html">bágadis</a> — <a
+            href="userdocs/videos/win-msoffice-video.html">bagádimvideo</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20081231.dmg"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
-            v1.1</a> — <a href="leaflet/mac-install.html">bágadis</a> — <a href="mac-video.html">bagádimvideo</a></li></ul>
+            v1.1</a> — <a href="userdocs/leaflet/mac-install.html">bágadis</a> — <a href="userdocs/videos/mac-video.html">bagádimvideo</a></li></ul>
 		</section>
 
     </body>
