@@ -40,4 +40,7 @@
         <!-- The Proofing plans tab -->
         <xi:include href="future/proofing/tabs-frag.xml" />
     </tab>
+
+    <tab href="http://victorio.uit.no/cgi-bin/wiki/index.php/Main_Page" label="Wiki"/>
+
 </tabs>
