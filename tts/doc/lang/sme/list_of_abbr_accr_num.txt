@@ -12,6 +12,8 @@ km          (kilomehter, kilomehtera)
 jna         ( ja nu ain)
 jnv         (ja nu viidáseappot)
 dl          desilihtter/desilihttera
+vrd.        veardit
+gč.         geahča
 
 accr.:
 K.B. Wiklund (nom) (2)
@@ -47,6 +49,17 @@ NSR:i (1)
 NSR (nom) (1)
 H2O (nom) (1)
 USA:s (1)
+NIFES (nom) (1)
+PCB-árvvuid (1) (Notice: likely pronunciation: /pheeseepee/)
+YLE Sámi radio (gen) (1)
+YLE Sámi radio (nom) (1)
+tv- ja radioprográmmaid (1)
+LHL-viesuid (2)
+LHL-viesut (1)
+NAV:in (1)
+AA-joavkku (2)
+AA-joavku (1)
+NAV (gen) (1)
 
 Numerals, grouping is loosely based on expansion:
 
