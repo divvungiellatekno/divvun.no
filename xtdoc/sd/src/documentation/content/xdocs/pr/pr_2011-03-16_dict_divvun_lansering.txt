@@ -92,6 +92,46 @@ Mer information och nedlastningslänk finns här:
 =================================================================
 [DEUTSCH]
 
+Aktualisierte Versionen von intelligenten Wörterbüchern Südsamisch-Norwegisch und Nordsamisch-Norwegisch
+-------------------------------------------------- ---------------
+
+Ab sofort stehen neue, verbesserte Versionen unserer intelligenten
+elektronischen Wörterbücher zum Herunterladen zur Verfügung bereit.
+Deren "Intelligenz" besteht darin, dass diese nicht nur Grundformen,
+sondern auch flektierte Wortformen sowie deren morpho-syntaktische
+Analyse beinhalten. Dies ist besonders nützlich, wenn man Wörtern im
+laufenden Text in bestimmten Programmen abfragt und, falls vorhanden,
+sofort die Übersetzung bekommt. Norwegisch-samischen Versionen sind
+zur Zeit in der Vorbereitungsphase.
+
+Åarjelhsaemien-daaroen digibaakoeh (Südsamisch-norwegisch bokmål)
+enthält 7400 Grundformen und 1300 Beispielssätze. Die Arbeit an diesem
+Wörterbuch wurde zusammen mit Aajege in Røros durchgeführt.
+
+Vuosttaš Digisánit (Nordsamisch-norwegisch bokmål) enthält 8700
+Grundformen und 1280 Beispielssätze.
+
+Mehr Informationen, einige Bilder von den Wörterbüchern sowie den Link
+zum Herunterladen finden Sie hier:
+
+
+
+
+Rechtschreibprüfungsprogramm Divvun 2.1 jetzt auch für MS Office 2010
+------------------------------------------------
+
+Vor Weihnachten 2010 wurde das Rechtschreibprüfungsprogramm Divvun 2.0
+mit für Südsamisch herausgegeben. Aufgrund der großen Benutzeranfrage
+wurden jetzt die Divvun-Korrekturwerkzeuge auch für Microsoft Office
+2010 auf Windows aktualisiert.
+
+Divvun 2.1 auch erhielt wichtige Verbesserungen für Nord-und
+Lulesamisch sowie einige Korrekturen und Ergänzungen für Südsamisch.
+
+Weitere Informationen sowie den Link zum Herunterladen der
+Korrekturwerzeuge finden Sie hier:
+
+
 =================================================================
 [ENGLISH]
 
