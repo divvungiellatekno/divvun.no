@@ -13,6 +13,26 @@ EN -
 
 =================================================================
 [JULEVSÁMEGIELLA]
+Dálla mij ådåstuhttep ietjama intelligentas oarjjelijsáme-dáro ja nuorttasáme-dáro báhkogirjijt
+-----------------------------------------------------------------
+
+Mij dál almodip ådå buoreduvvam versjåvnåjt ietjama digitála báhkogirjijs. Báhkogirjje li "intelligenta" gå dåbddi såjådum bágojt. Daj dåhkki dieddelit bágov tevstan ja vuojnnet jårggålimev. Gå dåbbán de aj galggat almodip dáro-sáme báhkogirjev.
+
+Åarjelsaemien-daaroen digibaakoeh/Sørsamisk-norsk bokmål sisadná 7400 vuodobágo ja 1300 buojkulvisgárgadisáv. Báhkogirjje la dagádum aktan Aajegijn Rørosan.
+
+Vuosttaš Digisánit/Nordsamisk-norsk bokmål sisadná 8700 vuodobágo ja 1280 buojkulvisgárgadisáv.
+
+Ienep diedo, gåvå báhkogirjijs ja viedtjamliŋŋka dánna:
+
+
+Divvun 2.1 almoduvvá MS Office 2010-doarjjagijn
+------------------------------------------------
+
+Åvddål javla almmoduvaj Divvun 2.0, oarjjelijsáme doarjjagijn. Dálla ådåstuhttep Divvun-nevojt Windows Microsoft Office 2010-doarjjagijn. La guhká vuordeduvvam ådåstus.
+
+Divvun 2.1 sisadná aj ájnas nuortta- ja julevsáme buoredimijt, ja muhtem oarjjelijsáme divvomijt ja lasádusájt.
+
+Ienep diedo ja viedtjamliŋŋka dánna:
 
 =================================================================
 [ÅARJELSAEMIEN]
