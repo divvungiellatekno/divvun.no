@@ -1,4 +1,4 @@
-SE - 
+SE - Ođđa sámegiel sátnegirjjit ja divvunprográmmat
 SMJ - 
 SMA -
 NO - Nye samiske ordbøker og retteprogram
@@ -10,6 +10,26 @@ EN -
 
 =================================================================
 [DAVVISÁMEGIELLA]
+Intelligeanta davvisámi-dáru ja lullisámi-dáru sátnegirjjit leat dál ođasmahttojuvvon. -----------------------------------------------------------------
+
+Mii almmuhit dál buoriduvvon veršuvnnaid iežamet digitála sátnegirjjiin. Sátnegirjjit leat "intelligeanttat" go dat dovdet sojahuvvon sániid. Lea maid vejolaš deaddilit tekstii vai oažžu ovttaskas sáni jorgalusa. Áiggi mielde bohtet maiddái dáru-sámi veršuvnnat dáin sátnegirjjiin.  
+
+Sátnegirjjis Åarjelsaemien-daaroen digibaakoeh/Sørsamisk-norsk bokmål, leat 7400 vuođđosáni ja 1300 ovdamearkacealkaga. Sátnegirjji leat ráhkadan ovttas Aajege guovddážiin Rørosas.
+
+Sátnegirjjis Vuosttaš Digisánit/Nordsamisk-norsk bokmål, leat 8700 vuođđosáni ja 1280 ovdamearkacealkaga.
+
+Eambbo dieđut, sátnegirjjiid govat ja viežžanliŋka gávdnojit dáppe:
+
+
+
+Divvun 2.1 almmuhuvvo MS Office 2010-doarjagiin
+------------------------------------------------
+
+Ovdal juovllaid almmuhuvvui Divvun 2.0 lullisámegiel doarjagiin. Dál Divvun-reaiddut ođasmahttojuvvojit Windows Microsoft Office 2010-doarjagiin. Dat lea vuorddálmas ođastus.
+
+Divvun 2.1 sisttisdoallá deaŧalaš davvi- ja julevsámegiel buoridemiid, ja soames lullisámegiel divvumiid ja lasáhusaid.
+
+Eambbo dieđut ja viežžanliŋka gávdnojit dáppe:
 
 =================================================================
 [JULEVSÁMEGIELLA]
