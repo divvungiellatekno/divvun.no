@@ -44,6 +44,27 @@ Mer informasjon og nedlastingslenke finnes her:
 
 =================================================================
 [SVENSKA]
+Uppdatering av intelligenta ordböcker från syd- och nordsamiska till norska
+-----------------------------------------------------------------
+
+Vi lanserar nu nye förbättrade versioner av våra nedlastningsbara digitala ordböcker. Ordböckerna är "intelligenta" eftersom de känner  igen böjda ord. De har också en funktion som gör at du kan klicka i texten för att få upp översättningen. Senare ska det komma norsk-samiska versioner av ordböckerna.
+
+Åarjelsaemien-daaroen digibaakoeh/Sørsamisk-norsk bokmål innehåller 7400 grundord och 1300 exempelsatser. Arbetet med ordboken är gjort i samarbete med Aajege i Røros.
+
+Vuosttaš Digisánit/Nordsamisk-norsk bokmål innehåller 8700 grundord och 1280 exempelsatser.
+
+Mer information, bilder av ordböckerna och nedlastningslänk finns här:
+
+
+Divvun 2.1 lanseras med stöd för MS Office 2010
+------------------------------------------------
+
+Före jul lanserades Divvun 2.0, med stöd för sydsamiska. Nu uppdateras Divvun-verktygen med stöd för Microsoft Office 2010 för Windows, en väldigt efterfrågad uppdatering.
+
+Divvun 2.1 innehåller också viktiga förbättringar för nord- och lulesamiska, och en del rättningar och tillägg för sydsamiska.
+
+Mer information och nedlastningslänk finns här:
+
 
 =================================================================
 [SUOMEKSI]
