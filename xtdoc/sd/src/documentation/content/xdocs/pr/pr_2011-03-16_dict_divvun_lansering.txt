@@ -73,14 +73,14 @@ Mer informasjon, bilder av ordbøkene og nedlastingslenke finnes her:
 
 
 
-Divvun 2.1 lansert med støtte for MS Office 2010
+Divvun 2.1 gusnie aaj MS Office 2010 lea
 ------------------------------------------------
 
-Før jul ble Divvun 2.0 lansert, med støtte for sørsamisk. Nå blir Divvun-verktøyene oppdatert med støtte for Microsoft Office 2010 for Windows, en svært etterspurt oppdatering.
+Jåvli åvteli Divvun 2.0 olkese bööti, gusnie aaj åarjelsaemiengïele lij meatan. Daelie Divvun-dïrregidie orrestahteme gusnie aaj Microsoft Office 2010 Windows lea. Microsoft Office 2010-orrestehteme lij daerpies.  
 
-Divvun 2.1 inneholder også viktige forbedringer for nord- og lulesamisk, og noen rettinger og tillegg for sørsamisk.
+Divvun 2.1:sne leah vihkeles noerhtesaemien jïh julevsaemiengïelen staeriedimmieh, jïh ånnetji lea staeriedamme dam åarjelsaemien staeriedimmieprogrammem jïh aaj lissiehtamme naan baakoeh daase. 
 
-Mer informasjon og nedlastingslenke finnes her:
+Daestie maahta dam programmem vïedtjedh jïh vielie bïevnesh dan bïjre daestie åadtjodh:
 
 =================================================================
 [SVENSKA]
