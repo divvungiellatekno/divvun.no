@@ -141,12 +141,12 @@ Rechtschreibprüfungsprogramm Divvun 2.1 jetzt auch für MS Office 2010
 ------------------------------------------------
 
 Vor Weihnachten 2010 wurde das Rechtschreibprüfungsprogramm Divvun 2.0
-mit für Südsamisch herausgegeben. Aufgrund der großen Benutzeranfrage
+für Südsamisch herausgegeben. Aufgrund der großen Benutzeranfrage
 wurden jetzt die Divvun-Korrekturwerkzeuge auch für Microsoft Office
 2010 auf Windows aktualisiert.
 
-Divvun 2.1 auch erhielt wichtige Verbesserungen für Nord-und
-Lulesamisch sowie einige Korrekturen und Ergänzungen für Südsamisch.
+Divvun 2.1 erhielt wichtige Verbesserungen für Nord-und Lulesamisch
+sowie einige Korrekturen und Ergänzungen für Südsamisch.
 
 Weitere Informationen sowie den Link zum Herunterladen der
 Korrekturwerzeuge finden Sie hier:
@@ -154,4 +154,22 @@ Korrekturwerzeuge finden Sie hier:
 
 =================================================================
 [ENGLISH]
+
+TODO: translation for Dicts
+
+
+Spell checker Divvun 2.1 now also for MS Office 2010
+------------------------------------------------
+
+Before Christmas 2010, the spell checker Divvun 2.0 for South Sami has
+been released. Due to user requests, this tool is now available for
+Microsoft Office 2010 for Windows.
+
+Divvun 2.1 spell checker received significant improvements for North
+and Lule Sami as well as some corrections and additions for South
+Sami.
+
+More information including the download link can be found here:
+
+
 
