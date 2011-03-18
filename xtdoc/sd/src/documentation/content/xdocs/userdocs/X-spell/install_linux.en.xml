@@ -14,42 +14,28 @@
 		<section>
 			<title>Sami spell checking in Linux</title>
 			<p>
-				If you install the North and Lule Sami hunspell dictionaries, you can get system wide spelling support for these two languages. This document tells you how to achieve this.
+				If you install the our hunspell dictionaries, you can get system wide spelling support for Northern, Lule and Southern sami. This document tells you how to achieve this.
 			</p>
 		</section>
 		
 		<section>
 			<title>Installing and setting up spell checking</title>
 			<section>
-				<title>Install North Sami dictionaries</title>
+				<title>Install hunspell dictionaries</title>
 
 				<ul>
 					<li>Open a terminal</li>
-					<li>Download the tarball: <code>wget http://divvun.no/static_files/hunspell-se.tar.gz</code></li>
-					<li>Unpack the tarball: <code>tar zxvf hunspell-se.tar.gz</code> </li>
+					<li>Download the tarball: <code>wget http://divvun.no/static_files/hunspell-smi.tar.gz</code></li>
+					<li>Unpack the tarball: <code>tar zxvf hunspell-smi.tar.gz</code> </li>
 					<li>Go in to the hunspell-se-&lt;version&gt; directory: <code>cd hunspell-se-&lt;version&gt;</code></li>
 					<li>Install the dictionaries: <code>sudo make install</code></li>
-					<li>To check if the North Sami dictionary is installed, type <code>hunspell -D</code>. In the list that appears, you should see these items:
+					<li>To check if the Sami dictionaries are installed, type <code>hunspell -D</code>. In the list that appears, you should see these items:
 						<ul>
 							<li>/usr/share/myspell/dicts/se_FI</li>
 							<li>/usr/share/myspell/dicts/se_NO</li>
 							<li>/usr/share/myspell/dicts/se_SE</li>
-						</ul>
-					</li>
-				</ul>
-			</section>
-			
-			<section>
-				<title>Install Lule Sami dictionaries</title>
-
-				<ul>
-					<li>Open a terminal</li>
-					<li>Download the tarball: <code>wget http://divvun.no/static_files/hunspell-smj.tar.gz</code></li>
-					<li>Unpack the tarball: <code>tar zxvf hunspell-smj.tar.gz</code> </li>
-					<li>Go in to the hunspell-smj-&lt;version&gt; directory: <code>cd hunspell-smj-&lt;version&gt;</code></li>
-					<li>Install the dictionaries: <code>sudo make install</code></li>
-					<li>To check if the Lule Sami dictionary is installed, type <code>hunspell -D</code>. In the list that appears, you should see these items:
-						<ul>
+							<li>/usr/share/myspell/dicts/sma_NO</li>
+							<li>/usr/share/myspell/dicts/sma_SE</li>
 							<li>/usr/share/myspell/dicts/smj_NO</li>
 							<li>/usr/share/myspell/dicts/smj_SE</li>
 						</ul>
