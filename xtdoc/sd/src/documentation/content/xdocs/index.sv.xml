@@ -6,10 +6,10 @@
       <title>Divvun 2 - samiska rättstavningsverktyg</title>
    </header>
    <body>
-      <p>Divvun 2.0 med stöd för <strong>sydsamiska</strong> lanserades 8. december 2010. Divvun 2.0 inkluderar också
-      stöd för MS Office 2011 (Mac). Stöd för Office 2010 (Windows) och InDesign CS4 och CS5 är på kommande men hann
-      inte bli färdigt till 2.0-lanseringen.</p>
-      <warning>Innan du installerar Divvun 2.0, måste tidigare versioner av Divvun avinstalleras. Här hittar du
+      <p>Divvun 2.1 med stöd för Office 2010 (Windows) är tillgänglig från och med 18. mars 2011. Divvun 2.1 inkluderar också
+      stöd för MS Office 2011 (Mac). Stöd för InDesign CS4 och CS5 är på kommande men hann
+      inte bli färdigt till 2.1-lanseringen.</p>
+      <warning>Innan du installerar Divvun 2.1, måste tidigare versioner av Divvun avinstalleras. Här hittar du
       vägledningar för <a href="userdocs/leaflet/win-install.html">Windows</a> och <a href="userdocs/leaflet/mac-install.html">MacOS
       X</a></warning>
       <section>
@@ -17,11 +17,11 @@
          <ul>
             <li class="Download"><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
-            v2.0</a> — <a href="userdocs/leaflet/win-install.html">vägledning</a> — <a
+            v2.1</a> — <a href="userdocs/leaflet/win-install.html">vägledning</a> — <a
             href="userdocs/videos/win-msoffice-video.html">instruktionsvideor</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
-            v2.0</a> — <a href="userdocs/leaflet/mac-install.html">vägledning</a> — <a
+            v2.1</a> — <a href="userdocs/leaflet/mac-install.html">vägledning</a> — <a
             href="userdocs/videos/mac-video.html">instruktionsvideor</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
             src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — alla operativsystem, Divvun
@@ -29,7 +29,7 @@
             href="userdocs/videos/ooo-video.html">instruktionsvideor</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun
-            v2.0</a> — <a href="userdocs/indesign/index.html">vägledning</a></li>
+            v2.1</a> — <a href="userdocs/indesign/index.html">vägledning</a></li>
             <li><a href="downloads.html">Andra installationsalternativ</a></li>
          </ul>
       </section>

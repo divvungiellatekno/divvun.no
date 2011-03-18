@@ -6,21 +6,20 @@
       <title>Divvun 2 - sámi proofing tools</title>
    </header>
    <body>
-      <p>Divvun 2.0 with support for <strong>South Sámi</strong> was released on Desember 8, 2010. Divvun 2.0 does also
-      include support for MS Office 2011 (Mac). Support for Office 2010 (Windows) and InDesign CS4 and CS5 is under
+      <p>Divvun 2.1 with support for Office 2010 (Windows) is available as of March 18, 2011. Divvun 2.1 does also include support for MS Office 2011 (Mac). Support for InDesign CS4 and CS5 is under
       development, but isn't ready yet.</p>
-      <warning>Before you install Divvun 2.0 you must uninstall older versions of Divvun. Here you find instructions for
+      <warning>Before you install Divvun 2.1 you must uninstall older versions of Divvun. Here you find instructions for
       <a href="userdocs/leaflet/win-install.html">Windows</a> and <a href="userdocs/leaflet/mac-install.html">MacOS X</a></warning>
       <section>
          <title>Download Divvun</title>
          <ul>
             <li class="Download"><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
-            v2.0</a> — <a href="userdocs/leaflet/win-install.html">instructions</a> — <a
+            v2.1</a> — <a href="userdocs/leaflet/win-install.html">instructions</a> — <a
             href="userdocs/videos/win-msoffice-video.html">instructional videos</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
-            v2.0</a> — <a href="userdocs/leaflet/mac-install.html">instructions</a> — <a href="userdocs/videos/mac-video.html">instructional
+            v2.1</a> — <a href="userdocs/leaflet/mac-install.html">instructions</a> — <a href="userdocs/videos/mac-video.html">instructional
             videos</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
             src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — all operating systems,
@@ -28,7 +27,7 @@
             href="userdocs/videos/ooo-video.html">instructional videos</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun
-            v2.0</a> — <a href="userdocs/iniesign/index.html">instructions</a></li>
+            v2.1</a> — <a href="userdocs/iniesign/index.html">instructions</a></li>
             <li><a href="downloads.html">Other installation options</a></li>
          </ul>
       </section>
