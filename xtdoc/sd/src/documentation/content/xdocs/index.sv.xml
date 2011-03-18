@@ -7,7 +7,7 @@
    </header>
    <body>
       <p>Divvun 2.1 med stöd för Office 2010 (Windows) är tillgänglig från och med 18. mars 2011. Divvun 2.1 inkluderar också
-      stöd för MS Office 2011 (Mac). Stöd för InDesign CS4 och CS5 är på kommande men hann
+      stöd för MS Office 2011 (Mac). Stöd för InDesign CS4 och CS5 är på väg men hann
       inte bli färdigt till 2.1-lanseringen.</p>
       <warning>Innan du installerar Divvun 2.1, måste tidigare versioner av Divvun avinstalleras. Här hittar du
       vägledningar för <a href="userdocs/leaflet/win-install.html">Windows</a> och <a href="userdocs/leaflet/mac-install.html">MacOS
