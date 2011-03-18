@@ -44,7 +44,7 @@
 			</section>
 			
 			<section>
-				<title>Setting up Sami spell checking in KDE</title>
+				<title>Setting up Northern Sami spell checking in KDE</title>
 				
 				<ul>
 					<li>
@@ -62,7 +62,7 @@
 					<li>
 						The «Northern Sami» entry will give Northern Sami spell checking. <br />
 						<img src="images/KDE_nordsamisk.png" alt="Northern Sami entry" /> <br />
-						Choosing the empty entry will give Lule Sami spell checking. (The Lule Sami entry is empty because KDE doesn't know anything about Lule Sami.) <br />
+						Choosing one of the empty entries will give Lule or Southern Sami spell checking. (The Lule and Southern Sami entries are empty because KDE doesn't know anything about these two languages.) <br />
 						<img src="images/KDE-lulesamisk.png" alt="Lule Sami entry" />
 					</li>
 				</ul>
