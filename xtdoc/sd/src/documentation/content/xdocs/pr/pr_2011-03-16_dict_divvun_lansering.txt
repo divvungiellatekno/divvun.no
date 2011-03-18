@@ -1,15 +1,16 @@
-SE - Ođđa sámegiel sátnegirjjit ja divvunprográmmat
+SE - Ođđa sámegiel divvunprográmmat
 SMJ - 
 SMA -
-NO - Nye samiske ordbøker og retteprogram
-SV - 
-FI - 
-DE -
-EN -
+NO - Oppdaterte samiske retteprogram
+SV - Uppdaterade samiska korrekturprogram
+FI - Uudet saamenkielen oikolukuohjelmat
+DE - Erneuerte samische Rechtschreibungswerkzeuge
+EN - Updated Saami Proofing Tools
 
 
 =================================================================
 [DAVVISÁMEGIELLA]
+
 Intelligeanta davvisámi-dáru ja lullisámi-dáru sátnegirjjit leat dál ođasmahttojuvvon. -----------------------------------------------------------------
 
 Mii almmuhit dál buoriduvvon veršuvnnaid iežamet digitála sátnegirjjiin. Sátnegirjjit leat "intelligeanttat" go dat dovdet sojahuvvon sániid. Lea maid vejolaš deaddilit tekstii vai oažžu ovttaskas sáni jorgalusa. Áiggi mielde bohtet maiddái dáru-sámi veršuvnnat dáin sátnegirjjiin.  
@@ -33,6 +34,7 @@ Eambbo dieđut ja viežžanliŋka gávdnojit dáppe:
 
 =================================================================
 [JULEVSÁMEGIELLA]
+
 Dálla mij ådåstuhttep ietjama intelligentas oarjjelijsáme-dáro ja nuorttasáme-dáro báhkogirjijt
 -----------------------------------------------------------------
 
@@ -108,6 +110,19 @@ Mer information och nedlastningslänk finns här:
 
 =================================================================
 [SUOMEKSI]
+
+
+Oikolukuohjelma Divvun 2.1 nyt saatavilla myös MS Office 2010:lle
+-------------------------------------------------
+
+Ennen joulua julkaistiin oikolukuohjelma Divvun 2.0 eteläsaamelle. Käyttäjien
+pyynnöstä, oikolukuohjelma on nyt saatavilla myös Microsoft Office 2010 
+toimisto-ohjelmiston Windows-versiolle.
+
+Divvun 2.1 oikolukuohjelma sisältää lukuisia parannuksia pohjois- ja luulajan-
+saamelle sekä joitain korjauksia ja lisäyksiä eteläsaamelle.
+
+Lisätietoa ja latauslinkki löytyy täältä:
 
 =================================================================
 [DEUTSCH]
