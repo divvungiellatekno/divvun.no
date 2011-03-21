@@ -79,7 +79,8 @@ Windows, en svært etterspurt oppdatering.
 Divvun 2.1 inneholder også viktige forbedringer for sør- og lulesamisk
 for hunspell, og noen rettinger og tillegg for sørsamisk for MS Office.
 
-Mer informasjon og nedlastingslenke finnes her:www.divvun.no
+Mer informasjon og nedlastingslenke finnes her:
+www.divvun.no
 
 Kontaktinfo: sjur.moshagen@samediggi.no, +358-505 634 319
 
@@ -121,7 +122,7 @@ lisäyksiä eteläsaamen MS Office -versiolle.
 Lisätietoa ja latauslinkki löytyy täältä:
 www.divvun.no
 
-Kontaktinfo: sjur.moshagen@samediggi.no, +358-505 634 319
+Yhteystiedot: sjur.moshagen@samediggi.no, +358-505 634 319
 
 =================================================================
 [DEUTSCH]
