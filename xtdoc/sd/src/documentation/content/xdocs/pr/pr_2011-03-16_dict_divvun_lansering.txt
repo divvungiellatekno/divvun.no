@@ -1,23 +1,22 @@
 SE - Ođasmahtton sámegiel divvunprográmmat
-SMJ - 
-SMA -
+SMJ - Ådåstuhtedum sámegiela riektatjállemnävo
+SMA - Orrestahteme åarjelsaemien staeriedimmiedïrregh
 NO - Oppdaterte samiske retteprogram
 SV - Uppdaterade samiska korrekturprogram
 FI - Päivitetyt saamenkielen oikolukuohjelmat
-DE - Erneuerte samische Rechtschreibungswerkzeuge
+DE - Verbesserte Rechtscheibprüfungsprogramme für Samisch
 EN - Updated Saami Proofing Tools
-
 
 =================================================================
 [DAVVISÁMEGIELLA]
 
 
 Divvun 2.1 almmuhuvvo MS Office 2010-doarjagiin
-------------------------------------------------
+-----------------------------------------------
 
 Ovdal juovllaid almmuhuvvui Divvun 2.0 lullisámegiel doarjagiin. Dál Divvun-reaiddut ođasmahttojuvvojit Windows Microsoft Office 2010-doarjagiin. Dat lea vuorddálmas ođastus.
 
-Divvun 2.1 sisttisdoallá deaŧalaš davvi- ja julevsámegiel buoridemiid, ja soames lullisámegiel divvumiid ja lasáhusaid.
+Divvun 2.1 sisttisdoallá deaŧalaš lulli- ja julevsámegiel Hunspell-buoridemiid, ja soames lullisámegiel MS Office divvumiid ja lasáhusaid.
 
 Eambbo dieđut ja viežžanliŋka gávdnojit dáppe:
 www.divvun.no
@@ -29,32 +28,32 @@ Oktavuođadieđut: sjur.moshagen@samediggi.no, +358-505 634 319
 
 
 Divvun 2.1 almoduvvá MS Office 2010-doarjjagijn
-------------------------------------------------
+-----------------------------------------------
 
 Åvddål javla almoduváj Divvun 2.0, oarjjelijsáme doarjjagijn. Dálla ådåstuhttep Divvun-nävojt Windows Microsoft Office 2010-doarjjagijn. La gatjádum ådåstus.
 
-Divvun 2.1 sisadná ájnas nuortta- ja julevsáme buoredimijt aj, ja muhtem oarjjelijsáme duollimijt ja lasádusájt.
+Divvun 2.1 sisadná ájnas oarjjelij- ja julevsáme Hunspell-buoredimijt aj, ja muhtem oarjjelijsáme MS Office duollimijt ja lasádusájt.
 
 Ienep diedo ja viedtjamliŋŋka dánna:
 www.divvun.no
 
-Kontaktinfo: sjur.moshagen@samediggi.no, +358-505 634 319
+Aktijvuohta: sjur.moshagen@samediggi.no, +358-505 634 319
 
 =================================================================
 [ÅARJELSAEMIEN]
 
 
 Divvun 2.1 gusnie aaj MS Office 2010 lea
-------------------------------------------------
+----------------------------------------
 
 Jåvli åvteli Divvun 2.0 olkese bööti, gusnie aaj åarjelsaemiengïele lij meatan. Daelie Divvun-dïrregidie orrestahteme gusnie aaj Microsoft Office 2010 Windows lea. Microsoft Office 2010-orrestehteme lij daerpies.  
 
-Divvun 2.1:sne leah vihkeles noerhtesaemien jïh julevsaemiengïelen staeriedimmieh, jïh ånnetji lea staeriedamme dam åarjelsaemien staeriedimmieprogrammem jïh aaj lissiehtamme naan baakoeh daase. 
+Divvun 2.1:n leah vihkeles åarjel- jïh julevsaemiengïelen staeriedimmieh hunspellese, jïh naan åarjelsaemien staeriedimmieh jïh lissiehtimmieh  MS Office:se. 
 
-Daestie maahta dam programmem vïedtjedh jïh vielie bïevnesh dan bïjre daestie åadtjodh:
+Daestie maahta vïedtjedh jïh vielie bïevnesh dan bïjre daestie åadtjodh:
 www.divvun.no
 
-Kontaktinfo: sjur.moshagen@samediggi.no, +358-505 634 319
+Bieljelh: sjur.moshagen@samediggi.no, +358-505 634 319
 
 =================================================================
 [NORSK]
@@ -65,7 +64,7 @@ Divvun 2.1 lansert med støtte for MS Office 2010
 
 Før jul ble Divvun 2.0 lansert, med støtte for sørsamisk. Nå blir Divvun-verktøyene oppdatert med støtte for Microsoft Office 2010 for Windows, en svært etterspurt oppdatering.
 
-Divvun 2.1 inneholder også viktige forbedringer for nord- og lulesamisk, og noen rettinger og tillegg for sørsamisk.
+Divvun 2.1 inneholder også viktige forbedringer for sør- og lulesamisk for hunspell, og noen rettinger og tillegg for sørsamisk for MS Office.
 
 Mer informasjon og nedlastingslenke finnes her:www.divvun.no
 
@@ -76,11 +75,11 @@ Kontaktinfo: sjur.moshagen@samediggi.no, +358-505 634 319
 
 
 Divvun 2.1 lanseras med stöd för MS Office 2010
-------------------------------------------------
+-----------------------------------------------
 
 Före jul lanserades Divvun 2.0, med stöd för sydsamiska. Nu uppdateras Divvun-verktygen med stöd för Microsoft Office 2010 för Windows, en mycket efterfrågad uppdatering.
 
-Divvun 2.1 innehåller också viktiga förbättringar för nord- och lulesamiska, och en del rättningar och tillägg för sydsamiska.
+Divvun 2.1 innehåller också viktiga förbättringar för syd- och lulesamiska för hunspell, och en del rättelser och tillägg för sydsamiska för MS Office.
 
 Mer information och nedlastningslänk finns här:
 www.divvun.no
@@ -92,14 +91,15 @@ Kontaktinfo: sjur.moshagen@samediggi.no, +358-505 634 319
 
 
 Oikolukuohjelma Divvun 2.1 nyt saatavilla myös MS Office 2010:lle
--------------------------------------------------
+-----------------------------------------------------------------
 
-Ennen joulua julkaistiin oikolukuohjelma Divvun 2.0 eteläsaamelle. Käyttäjien
-pyynnöstä, oikolukuohjelma on nyt saatavilla myös Microsoft Office 2010 
-toimisto-ohjelmiston Windows-versiolle.
+Ennen joulua julkaistiin oikolukuohjelma Divvun 2.0 eteläsaamelle.
+Käyttäjien pyynnöstä, oikolukuohjelma on nyt saatavilla myös Microsoft
+Office 2010 toimisto-ohjelmiston Windows-versiolle.
 
-Divvun 2.1 oikolukuohjelma sisältää lukuisia parannuksia pohjois- ja luulajan-
-saamelle sekä joitain korjauksia ja lisäyksiä eteläsaamelle.
+Divvun 2.1 oikolukuohjelma sisältää lukuisia parannuksia etelä- ja
+luulajansaamen hunspell -versiolle sekä joitain korjauksia ja
+lisäyksiä eteläsaamen MS Office -versiolle.
 
 Lisätietoa ja latauslinkki löytyy täältä:
 www.divvun.no
@@ -111,7 +111,7 @@ Kontaktinfo: sjur.moshagen@samediggi.no, +358-505 634 319
 
 
 Rechtschreibprüfungsprogramm Divvun 2.1 jetzt auch für MS Office 2010
-------------------------------------------------
+---------------------------------------------------------------------
 
 Vor Weihnachten 2010 wurde das Rechtschreibprüfungsprogramm Divvun 2.0
 für Südsamisch herausgegeben. Aufgrund der großen Benutzeranfrage
@@ -134,15 +134,16 @@ Kontaktinfo: sjur.moshagen@samediggi.no, +358-505 634 319
 The Sámi proofing tools Divvun 2.1 now also for MS Office 2010
 --------------------------------------------------------------
 
-Before Christmas 2010, the spell checker Divvun 2.0 for South Sami has
-been released. Due to user requests, this tool is now available for
-Microsoft Office 2010 for Windows.
+Before Christmas 2010, the spell checker Divvun 2.0 with support for
+South Sami was released. Now the Divvun tools have been updated with
+support for Microsoft Office 2010 for Windows as well, a much
+anticipated feature.
 
-Divvun 2.1 spell checker received significant improvements for North
-and Lule Sami as well as some corrections and additions for South
-Sami.
+Divvun 2.1 spell checker received significant improvements for South
+and Lule Sami for Hunspell, as well as some corrections and additions
+for South Sami.
 
 More information including the download link can be found here:
 www.divvun.no
 
-Kontaktinfo: sjur.moshagen@samediggi.no, +358-505 634 319
+Contact info: sjur.moshagen@samediggi.no, +358-505 634 319
