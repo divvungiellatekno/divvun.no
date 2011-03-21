@@ -122,7 +122,7 @@ Divvun 2.1 erhielt wichtige Verbesserungen für Nord-und Lulesamisch
 sowie einige Korrekturen und Ergänzungen für Südsamisch.
 
 Weitere Informationen sowie den Link zum Herunterladen der
-Korrekturwerzeuge finden Sie hier:
+Korrekturwerkzeuge finden Sie hier:
 www.divvun.no
 
 Kontaktinfo: sjur.moshagen@samediggi.no, +358-505 634 319
