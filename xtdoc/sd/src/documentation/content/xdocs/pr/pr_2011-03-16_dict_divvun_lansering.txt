@@ -14,9 +14,12 @@ EN - Updated Saami Proofing Tools
 Divvun 2.1 almmuhuvvo MS Office 2010-doarjagiin
 -----------------------------------------------
 
-Ovdal juovllaid almmuhuvvui Divvun 2.0 lullisámegiel doarjagiin. Dál Divvun-reaiddut ođasmahttojuvvojit Windows Microsoft Office 2010-doarjagiin. Dat lea vuorddálmas ođastus.
+Ovdal juovllaid almmuhuvvui Divvun 2.0 lullisámegiel doarjagiin. Dál
+Divvun-reaiddut ođasmahttojuvvojit Windows Microsoft Office 2010-
+doarjagiin. Dat lea vuorddálmas ođastus.
 
-Divvun 2.1 sisttisdoallá deaŧalaš lulli- ja julevsámegiel Hunspell-buoridemiid, ja soames lullisámegiel MS Office divvumiid ja lasáhusaid.
+Divvun 2.1 sisttisdoallá deaŧalaš lulli- ja julevsámegiel Hunspell-
+buoridemiid, ja soames lullisámegiel MS Office divvumiid ja lasáhusaid.
 
 Eambbo dieđut ja viežžanliŋka gávdnojit dáppe:
 www.divvun.no
@@ -30,9 +33,12 @@ Oktavuođadieđut: sjur.moshagen@samediggi.no, +358-505 634 319
 Divvun 2.1 almoduvvá MS Office 2010-doarjjagijn
 -----------------------------------------------
 
-Åvddål javla almoduváj Divvun 2.0, oarjjelijsáme doarjjagijn. Dálla ådåstuhttep Divvun-nävojt Windows Microsoft Office 2010-doarjjagijn. La gatjádum ådåstus.
+Åvddål javla almoduváj Divvun 2.0, oarjjelijsáme doarjjagijn. Dálla
+ådåstuhttep Divvun-nävojt Windows Microsoft Office 2010-doarjjagijn.
+La gatjádum ådåstus.
 
-Divvun 2.1 sisadná ájnas oarjjelij- ja julevsáme Hunspell-buoredimijt aj, ja muhtem oarjjelijsáme MS Office duollimijt ja lasádusájt.
+Divvun 2.1 sisadná ájnas oarjjelij- ja julevsáme Hunspell-buoredimijt
+aj, ja muhtem oarjjelijsáme MS Office duollimijt ja lasádusájt.
 
 Ienep diedo ja viedtjamliŋŋka dánna:
 www.divvun.no
@@ -46,9 +52,13 @@ Aktijvuohta: sjur.moshagen@samediggi.no, +358-505 634 319
 Divvun 2.1 gusnie aaj MS Office 2010 lea
 ----------------------------------------
 
-Jåvli åvteli Divvun 2.0 olkese bööti, gusnie aaj åarjelsaemiengïele lij meatan. Daelie Divvun-dïrregidie orrestahteme gusnie aaj Microsoft Office 2010 Windows lea. Microsoft Office 2010-orrestehteme lij daerpies.  
+Jåvli åvteli Divvun 2.0 olkese bööti, gusnie aaj åarjelsaemiengïele lij
+meatan. Daelie Divvun-dïrregidie orrestahteme gusnie aaj Microsoft
+Office 2010 Windows lea. Microsoft Office 2010-orrestehteme lij daerpies.
 
-Divvun 2.1:n leah vihkeles åarjel- jïh julevsaemiengïelen staeriedimmieh hunspellese, jïh naan åarjelsaemien staeriedimmieh jïh lissiehtimmieh  MS Office:se. 
+Divvun 2.1:n leah vihkeles åarjel- jïh julevsaemiengïelen staeriedimmieh
+hunspellese, jïh naan åarjelsaemien staeriedimmieh jïh lissiehtimmieh 
+MS Office:se. 
 
 Daestie maahta vïedtjedh jïh vielie bïevnesh dan bïjre daestie åadtjodh:
 www.divvun.no
@@ -62,9 +72,12 @@ Bieljelh: sjur.moshagen@samediggi.no, +358-505 634 319
 Divvun 2.1 lansert med støtte for MS Office 2010
 ------------------------------------------------
 
-Før jul ble Divvun 2.0 lansert, med støtte for sørsamisk. Nå blir Divvun-verktøyene oppdatert med støtte for Microsoft Office 2010 for Windows, en svært etterspurt oppdatering.
+Før jul ble Divvun 2.0 lansert, med støtte for sørsamisk. Nå blir
+Divvun-verktøyene oppdatert med støtte for Microsoft Office 2010 for
+Windows, en svært etterspurt oppdatering.
 
-Divvun 2.1 inneholder også viktige forbedringer for sør- og lulesamisk for hunspell, og noen rettinger og tillegg for sørsamisk for MS Office.
+Divvun 2.1 inneholder også viktige forbedringer for sør- og lulesamisk
+for hunspell, og noen rettinger og tillegg for sørsamisk for MS Office.
 
 Mer informasjon og nedlastingslenke finnes her:www.divvun.no
 
@@ -77,9 +90,13 @@ Kontaktinfo: sjur.moshagen@samediggi.no, +358-505 634 319
 Divvun 2.1 lanseras med stöd för MS Office 2010
 -----------------------------------------------
 
-Före jul lanserades Divvun 2.0, med stöd för sydsamiska. Nu uppdateras Divvun-verktygen med stöd för Microsoft Office 2010 för Windows, en mycket efterfrågad uppdatering.
+Före jul lanserades Divvun 2.0, med stöd för sydsamiska. Nu uppdateras
+Divvun-verktygen med stöd för Microsoft Office 2010 för Windows, en
+mycket efterfrågad uppdatering.
 
-Divvun 2.1 innehåller också viktiga förbättringar för syd- och lulesamiska för hunspell, och en del rättelser och tillägg för sydsamiska för MS Office.
+Divvun 2.1 innehåller också viktiga förbättringar för syd- och
+lulesamiska för hunspell, och en del rättelser och tillägg för
+sydsamiska för MS Office.
 
 Mer information och nedlastningslänk finns här:
 www.divvun.no
