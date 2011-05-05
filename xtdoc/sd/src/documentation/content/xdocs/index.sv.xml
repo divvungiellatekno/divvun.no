@@ -12,6 +12,8 @@
       <warning>Innan du installerar Divvun 2.1, måste tidigare versioner av Divvun avinstalleras. Här hittar du
       vägledningar för <a href="userdocs/leaflet/win-install.html">Windows</a> och <a href="userdocs/leaflet/mac-install.html">MacOS
       X</a></warning>
+      <note>Divvun 2.1 stödjer inte 64-bitars Windows, bara 32-bitars (den vanligaste versionen). Stöd för 64-bitars Windows
+      kommer troligen att inkluderas i Divvun 2.2, som blir tillgänglig inom två månader.</note>
       <section>
          <title>Lasta ned Divvun</title>
          <ul>

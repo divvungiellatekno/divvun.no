@@ -10,6 +10,8 @@
       development, but isn't ready yet.</p>
       <warning>Before you install Divvun 2.1 you must uninstall older versions of Divvun. Here you find instructions for
       <a href="userdocs/leaflet/win-install.html">Windows</a> and <a href="userdocs/leaflet/mac-install.html">MacOS X</a></warning>
+      <note>Divvun 2.1 does not support 64-bit Windows, only 32-bit (the most common version). Support for 64-bit Windows
+      will most likely be included in Divvun 2.2, to be released during the next two months.</note>
       <section>
          <title>Download Divvun</title>
          <ul>
