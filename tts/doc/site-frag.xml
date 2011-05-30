@@ -7,6 +7,8 @@
   <admin href="admin/" label="Project" tab="ttsadmin">
     <index href="index.html"  label="Overview" />
     <meetings href="" label="Meetings" >
+      <meeting href="Meeting_2011-05-30.html" label="30.05.2011" />
+      <meeting href="meeting-2010-11-11.html" label="11.11.2010" />
       <meeting href="meeting-2009-10-28.html" label="28.10.2009" />
       <meeting href="meeting-2009-10-26.html" label="26.10.2009" />
       <meeting href="meeting-2009-09-10-kickoff.html" label="Kickoff 10.09.2009" />
