@@ -24,29 +24,34 @@
          <p>This format has several benefits: the deliverable is one binary, it is easily extendable with more content
          without breaking backwards compatibility (at least with some planning ahead), and support for this format
          should be easy to find both as open-source and closed-source if one doesn't want to do it oneself.</p>
-         <p>The ZIP file must not be encrypted and it must be compatible with to ZIP format version 2.0 as defined by
+         <p>The ZIP file must not be encrypted and it must be compatible with ZIP format version 2.0 as defined by
          PKWare application note 6.2.0: <a
          href="http://www.pkware.com/support/application-note-archives">http://www.pkware.com/support/application-note-archives</a>.</p>
+         <p>A possible open-source zip library that seems to adhere to these requirements is <a
+         href="http://zziplib.sourceforge.net/">http://zziplib.sourceforge.net/</a>.</p>
+         <p>To support usage of closed-source transducers, the zip file can <em>optionally</em> be encrypted (despite
+         what is said above). But: support for encrypted zip files is <em>not required</em>, and all conforming
+         implementations <em>must</em> support unencrypted zip files.</p>
          <section>
             <title>File naming convention</title>
             <p>The default file name for the zip file is:</p>
-            <source>LOCALE-spl.zhfst</source>
+            <source>LOCALE-speller.zhfst</source>
             <p>where</p>
             <dl>
                <dt><code>LOCALE</code></dt>
                <dd>specifies the locale for which the speller lexicon is meant to be used for, following BCP 47; this
                would also include the use of private use subtags for specifying e.g. domains for specialised spellers,
                e.g <code>-x-legal</code>.</dd>
-               <dt><code>-spl</code></dt>
+               <dt><code>-speller</code></dt>
                <dd>indicates that this is an archive for spelling purposes</dd>
                <dt><code>zhfst</code></dt>
                <dd>indicates a zipped collection of (mostly) hfst files</dd>
             </dl>
             <p>Examples:</p>
             <ul>
-               <li><code>se-spl.zhfst</code> (North Sámi speller lexicon, all geographies)</li>
-               <li><code>fi-x-legal-spl.zhfst</code> (Finnish legal terms speller lexicon, all geographies)</li>
-               <li><code>fi-SE-spl.zhfst</code> (speller lexicon for Finnish as used in Sweden)</li>
+               <li><code>se-speller.zhfst</code> (North Sámi speller lexicon, all geographies)</li>
+               <li><code>fi-x-legal-speller.zhfst</code> (Finnish legal terms speller lexicon, all geographies)</li>
+               <li><code>fi-SE-speller.zhfst</code> (speller lexicon for Finnish as used in Sweden)</li>
             </ul>
          </section>
          <section>
@@ -56,11 +61,25 @@
             conventions. The filenaming convention is only a recommendation, but care should be taken to make sure the
             filename is reasonably informative within the limits of external requirements, and in one way or another
             convey the information in the three parts above (ie locale, that it is a speller, and that the content is
-            hfst-based).</p>
+            hfst-based and zipped).</p>
+         </section>
+         <section>
+            <title>Overriding filename in case of conflicts</title>
+            <p>When more than one speller zip file is found for a given language, all zip files could contain one
+            default accepting transducer (see below). In this case the host application should provide a user interface
+            for selecting the variant to use (using the description found in the xml file to present the variants to the
+            user). But there might be cases where there is no such user interface. For these cases the following
+            fall-back resolution is required: pick the file named</p>
+            <source>LOCALE-default-speller.zhfst</source>
+            <p> where LOCALE is restricted to specifying the language only. Example:</p>
+            <source>fi-default-speller.zhfst</source>
+            <p>would take precedence over other speller files for Finnish if more than one contain a default accepting
+            transducer. The last-resort solution for the end user is then to rename the preferred speller zip file to
+            this filename pattern.</p>
          </section>
       </section>
       <section>
-         <title>Zip file content - file naming conentions of contained files</title>
+         <title>Zip file content - file naming conventions of contained files</title>
          <p>The zip archive should contain files as follows (not all required, see below):</p>
          <source>index.xml
 acceptor.default.hfst
@@ -87,8 +106,8 @@ errmodel.DESCR.hfst</source>
             archive is a distribution of a specialised terminology speller, this transducer may be the only transducer
             in the archive.</p><p>It would also be possible to indicate if an acceptor is analysing by using an
             <code>anl.</code> infix before the filename suffix, like <code>acceptor.default.anl.hfst</code>. This option
-            is left open at the moment, and subject to feedback from implementors.</p><p>At least one acceptor is
-            REQUIRED.</p></dd>
+            is left open at the moment, and subject to feedback from implementors.</p><p>At least <em>one</em> acceptor
+            is REQUIRED.</p></dd>
             <dt><code>errmodel.DESCR.hfst</code></dt>
             <dd>is zero or more error model transducers containing spelling error corrections ("error models") for the
             speller. The reserved filename <code>errmodel.default.hfst</code> is to be used as the fallback error model
@@ -108,7 +127,7 @@ acceptor.hfst -OR- acceptor.DESCR.hfst</source>
          North Sámi speller file <code>se.zhfst</code> (with a simple BCP 47 locale name of just 'se', the ISO 639-1
          code for the language):</p>
          <source>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;hfstspeller version="1.0" hfstversion="3"&gt;
+&lt;hfstspeller dtdversion="1.0" hfstversion="3"&gt;
     &lt;info&gt;
         &lt;locale&gt;se&lt;/locale&gt;
         &lt;title&gt;Davvisámegiela divvunxxx&lt;/title&gt;
@@ -160,7 +179,7 @@ acceptor.hfst -OR- acceptor.DESCR.hfst</source>
          <p>This corresponds to the following DTD:</p>
          <source>&lt;!ELEMENT hfstspeller (info, acceptor+, errmodel*)&gt;
 &lt;!ATTLIST hfstspeller 
-  version     CDATA #REQUIRED
+  dtdversion  CDATA #REQUIRED
   hfstversion CDATA #REQUIRED
   &gt;
 
@@ -207,8 +226,8 @@ acceptor.hfst -OR- acceptor.DESCR.hfst</source>
 &lt;!ELEMENT model (#PCDATA)&gt;</source>
          <p>Most of the elements in this dtd should be straightforward, but a few points should be mentioned:</p>
          <dl>
-            <dt>@version of hfstspeller</dt>
-            <dd>this is the version of the specification, can be used for compatibility testing during
+            <dt>@dtdversion of hfstspeller</dt>
+            <dd>this is the version of the dtd=specification, can be used for compatibility testing during
             initialisation</dd>
             <dt>@hfstversion of hfstspeller</dt>
             <dd>this is the version of the hfst header in the transducer files, can be used for compatibility testing
