@@ -6,7 +6,7 @@
    <header>
       <title>Hfst speller files</title>
       <subtitle>Specification for an hfst-based speller lexicon file format</subtitle>
-      <version>0.2</version>
+      <version>1.0RC2</version>
    </header>
    <body>
       <p>This document specifies the different parts of a speller lexicon file format to be used together with an
@@ -29,9 +29,9 @@
          href="http://www.pkware.com/support/application-note-archives">http://www.pkware.com/support/application-note-archives</a>.</p>
          <p>A possible open-source zip library that seems to adhere to these requirements is <a
          href="http://zziplib.sourceforge.net/">http://zziplib.sourceforge.net/</a>.</p>
-         <p>To support usage of closed-source transducers, the zip file can <em>optionally</em> be encrypted (despite
-         what is said above). But: support for encrypted zip files is <em>not required</em>, and all conforming
-         implementations <em>must</em> support unencrypted zip files.</p>
+         <p>If encryption is needed for protection/commercial reasons, that should be done directly on the
+         transducer(s), and it is up to the vendor in question to add support for the encryption in their HFST lib code.
+         Supporting unencrypted transducers is REQUIRED.</p>
          <section>
             <title>File naming convention</title>
             <p>The default file name for the zip file is:</p>
