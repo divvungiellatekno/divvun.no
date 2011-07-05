@@ -4,7 +4,7 @@
 
 Bør bli inkludert for å få rimeleg god opplesing av norske sitat og andre norske tekstfragment og norske namn inne i samiske tekstar.
 
-* språkgjenkjenning <==== VI? Ja
+* språkgjenkjenning <==== VI? Ja (hm, det vi har er perl-basert, funkar ikkje i ein runtime på ein PC)
 * integrera norsk ort2fon
 * vi treng eit passande korpus
 * finst det ferdige ressursar for alt bortsett frå opptak? -> språkbanken
