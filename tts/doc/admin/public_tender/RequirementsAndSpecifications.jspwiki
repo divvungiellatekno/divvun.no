@@ -1,0 +1,231 @@
+!!!Final products
+
+* North Saami synthetic voices for Windows, MacOS X and Linux (exact versions defined further down)
+* standard installation packages
+
+The contractor should deliver all parts including installation packages such that end users will only have one installation to do, after which the computer will be able to read text aloud in North Saami.
+
+The product should be built using the resources developed by the Saami Parliament, and the Divvun and Giellatekno groups at the University of Tromsø.
+
+The project is fully financed by the Saami Parliament. The end-user products will be free to download and use by the end users, with all costs covered by this project and paid by the Saami Parliament.
+
+!!!Existing resources
+
+* transducers for:
+** morphological analysis
+** word-form generation
+** orthography-to-IPA transciption
+* disambiguator
+* syntactic parser
+* dependency tree parser
+* voice recordings (not yet completed
+* a corpus built specifically for the recordings
+* a larger corpus with several types of texts (dominated by news and bureaucratic texts, as well as the bible); the corpus for North Saami is about 15 mill. words
+
+More detailed descriptions of some of the resources follow below.
+
+!!Transducer resources
+
+!!Parsing resources
+
+!!!Speech synthesis technology
+
+The existing TTS-oriented resources are developed in close cooperation with the speech technology resource group at the Linguistics department, Helsinki university. Based on a number of considerations, we are primarily targeting synthetic voices using a Hidden Markov Model synthesis. Other synthesis technologies can be considered, depending on price, feasability wrt the existing resources and scaleability for new languages.
+
+!!!Preprocessing technologies
+
+The tenderer will have 
+
+
+
+
+
+
+----
+
+
+
+!!!Tender announcement
+
+On behalf of the Divvun TTS project
+
+The Norwegian Saami Parliament is announcing an
+
+Open tender
+
+For the acquisition of Speech Synthesis for North Saami
+
+
+
+* Enclosure 1: Price form
+* Enclosure 2: Standard government agreement forms regarding it-acquisitions
+* Enclosure 3: HMS
+
+
+
+!!!Introduction
+Divvun is a project run by the Sámi Parliament in order to make spell checkers for the Sámi languages. In the first phase of the project this means spell checkers and hyphenation for North Sámi, and spell checkers for Lule Sámi. The tools will work on Windows, Linux and Mac, with the usual office environment programs.
+
+The Divvun project invites all interested parties to submit tenders for making such proofing tools for Microsoft Office and a hyphenator for InDesign, based on computational linguistic resources provided by the Divvun project.
+
+The acquisition process will follow the procedure open tender, as regulated by the Norwegian law on public procurements and the Norwegian regulations for public procurements part II. The tender has been announced in DOFFIN (ref. FEB039541) and TED (Tender European Daily), ref. 2006-35428-EN.
+
+!!!Submission of tender
+Tenders can be delivered personally or by mail in a closed envelope marked ”Divvun” to the following address:
+
+Personal delivery:
+{{{FINNUT Consult AS
+Hermetikken næringshage– 1st floor.
+Tollbugt. 7
+Vadsø
+Norway}}}
+
+Mail address:
+{{{FINNUT Consult AS
+Postboks 347
+9811 Vadsø
+Norway}}}
+
+Time-limit for receipt of tenders:  18.04.06, 12:00 Norwegian time
+
+The tender should be delivered at the above address within this time limit. The receiver is not responsible for delayed mail, regardless of reasons. Tenders received after the time-limit will be rejected.
+
+!!!Instructions to the tenderer
+The tenderer should deliver a tender, which is in accordance with the instructions in this document. This is to secure a simple and fair comparison of the received tenders. Incomplete tenders, or tenders containing reservations, errors or unclearities, that can create doubts as to how the tender should be compared to other tenders, will be rejected.
+
+*	The bidder must fill in the enclosed price form. All prices should be quoted in NOK exclusive of VAT. 
+*	The bidder should confirm the acceptance of the conditions for the contract as found in the enclosed Standard government agreement forms regarding it-acquisitions. 
+*	The tender should be signed by a person with the authority to give a commiting bid.
+*	The tender can be written in English, Norwegian or Sámi.
+
+All questions (technical, processual and contractual) concerning the tender process, should be directed to Finnut Consult AS, Ole Henrik Brinchmann-Hansen, ohbh@finnut.no. 
+
+!!!Qualification criterias
+The bidder is obliged to submit tax and VAT certificate, not older than 6 months from the time limit for receipt of tenders, issued by the competent authority to the effect that the tenderer has fulfilled his obligations relating to the payment of taxes, social security contributions and VAT. Tax certificates are issued by the chief municipal treasurer in the municipality where the supplier has their head office and by the tax collector in the equivalent county.
+
+If any work is to be performed in Norway, the tenderer should produce a statement to the effect that he will conform to the Norwegian laws and regulations concerning health, work environment and safety (cf. enclosed HMS-egenerklæring).
+
+!!Financial qualifications
+The tenderer should have a sound financial and economic standing. This should be documented by the companies latest available balance sheets and a statement of the companies overall turnover and its turnover in respect of the services to which the contract relates for the previous 3 financial years.
+
+!!Technical qualifications
+It is a prerequisite that the tenderer has a high competence and experience within a similar field of work. This should be documented with a list of completed assignments including name/telephone number/e-mail of clients who can confirm the delivery. In addition the tenderer must deliver an overview of the formal competence and work experience of the persons who will be involved in the assignment. All in all the tenderer should convincingly document an ability to perform integration using UTF-8 encoded, linguistic source code from the Divvun project, and that the company is able to handle the linguistic phenomena of the Sámi languages, like free compounding, complex inflectional and derivational morphology, complex morphophonology involving consonant gradation, vowel simplification and stem alternations as part of inflection, derivation and compounding. 
+ 
+!!!Specification of the products to be acquired
+!!Technical specifications
+The goal of the part of the Divvun project described in this public tender document is to create the following tools:
+
+|| Host Application	|| Deliverables
+| Adobe InDesign CS 2 and newer, primarily for MacOS X 10.3 and newer, but optionally also for Windows XP SP2 and newer	| • hyphenator (North Sámi) 
+| Microsoft Office 2000 and newer (running on Windows 2000 and newer)	| • speller (North and Lule Sámi) • hyphenator (North Sámi) 
+| Microsoft Office 2004 and newer (running on MacOS X 10.3 and newer)	| • speller (North and Lule Sámi) • hyphenator (North Sámi) 
+
+The Divvun project has a set of resources available:
+*	trained linguists, computational linguist and software engineers
+*	large lexicons with proper inflectional class tagging
+*	a corpus of Sámi text
+*	other resources, such as test beds for linguistic testing, documentation infrastructure, etc.
+
+The tenderers should utilize these resources, and specify how they intend to do so in their application, as well as specify how the work-load will be shared between the Divvun project group and the tenderer, and how the tenderer is envisaging the cooperation. It is obvious that the Divvun project will conduct the linguistic testing of the final products, thus this does not need to be specified.
+
+!Adobe InDesign
+The Divvun project is asking for a bid for the making of a North Sámi hyphenator with Adobe InDesign CS 2 and later. 
+
+The exact list of deliverables is:
+#	one set of binary hyphenation file(s) for hyphenation of North Sámi according to the hyphenation rules of North Sámi, using the hyphenation API found in InDesign CS2 and all versions thereafter released before October 1st, 2007.
+#	installation application to provide end users with a simple and automatized process of correctly installing the binary file(s). The installation package shall be provided in the following languages: 
+##	English and the following Nordic languages at no additional cost, provided they are readily available from the tenderer: Norwegian bokmål, Swedish and Finnish. 
+##	North Sámi, and potentially some or all of the following Nordic languages if not readily available from the tenderer: Norwegian bokmål, Swedish and Finnish. These language versions are based on translations provided by the Divvun team. 
+#	user documentation in the following languages:
+##	English and the following Nordic languages as far as readily available by the tenderer: Norwegian bokmål, Swedish and Finnish. 
+##	user documentation in North Sámi, and possibly in other Nordic languages if not readily available from the tenderer: Norwegian bokmål, Swedish and Finnish. These language versions are based on translations provided by the Divvun team. 
+#	All the above (binaries, user documentation, installation application) shall be provided for MacOS X 10.3.9 or later (both Intel and PowerPC binaries and installation application).
+#	As an option, all the above (binaries, user documentation, installation application) can be provided for MS Windows XP SP2 or later. The Divvun project would like to receive bids for this option.
+
+The assumption behind the first installation application and user documentation points (2.1 and 3.1, respectively) is that the tenderers have similar or identical existing products, and thus existing user documentation to be utilised. Any existing user documentation will be reviewed before being accepted.
+
+!Microsoft Office
+The Divvun project is asking for a bid for the making and the integration of the proofing tools for MS Office, based on the computational linguistic models developed by the project.
+
+!Microsoft Office for MS Windows
+
+The exact list of deliverables for MS Windows is:
+#	one set of binary files to provide North Sámi spelling correction using the CSAPI version 3 in MS Office 2000, MS Office XP and all MS Office versions released before October 1st, 2007, running on MS Windows 2000 (all versions), MS Windows XP (all versions) and MS Windows Vista (all versions). 
+#	one set of binary files to provide North Sámi hyphenation using the CHAPI version 3 in MS Office 2000, MS Office XP and all MS Office versions released before October 1st, 2007, running on MS Windows 2000 (all versions), MS Windows XP (all versions) and MS Windows Vista (all versions). 
+#	one set of binary files to provide Lule Sámi spelling correction using the CSAPI version 3 in MS Office 2000, MS Office XP and all MS Office versions released before October 1st, 2007, running on MS Windows 2000 (all versions), MS Windows XP (all versions) and MS Windows Vista (all versions). 
+#	installation application to provide end users with a simple and automatized process of correctly installing the binary files listed above. The installation package shall be provided in the following languages: 
+##	English and the following Nordic languages at no additional cost, provided they are readily available from the tenderer: Norwegian bokmål, Swedish and Finnish. 
+##	North Sámi, and potentially some or all of the following Nordic languages if not readily available from the tenderer: Norwegian bokmål, Swedish and Finnish. These language versions are based on translations provided by the Divvun team. 
+#	user documentation in the following languages:
+##	English and the following Nordic languages as far as readily available by the tenderer: Norwegian bokmål, Swedish and Finnish. 
+##	user documentation in North Sámi, and possibly in other Nordic languages if not readily available from the tenderer: Norwegian bokmål, Swedish and Finnish. These language versions are based on translations provided by the Divvun team. 
+
+The assumption behind the first installation application and user documentation points (4.1 and 5.1, respectively) is that the tenderers have similar or identical existing products, and thus existing user documentation to be utilised. Any existing user documentation will be reviewed before being accepted.
+
+!Microsoft Office for MacOS X
+
+The exact list of deliverables for MacOS X is:
+#	one set of binary files to provide North Sámi spelling correction using the CSAPI version 3 in MS Office 2004 and all MS Office versions released before October 1st, 2007 (both PowerPC and Intel architecture versions), running on MacOS X 10.3, MacOS X 10.4, MacOS X 10.5 (PowerPC and Intel) and all other versions of MacOS X released before October 1st, 2007.
+#	one set of binary files to provide North Sámi hyphenation using the CHAPI version 3 in MS Office 2004 and all MS Office versions released before October 1st, 2007 (both PowerPC and Intel architecture versions), running on MacOS X 10.3, MacOS X 10.4, MacOS X 10.5 (PowerPC and Intel) and all other versions of MacOS X released before October 1st, 2007. 
+#	one set of binary files to provide Lule Sámi spelling correction using the CSAPI version 3 in MS Office 2004 and all MS Office versions released before October 1st, 2007 (both PowerPC and Intel architecture versions), running on MacOS X 10.3, MacOS X 10.4, MacOS X 10.5 (PowerPC and Intel) and all other versions of MacOS X released before October 1st, 2007.
+#	installation application to provide end users with a simple and automatized process of correctly installing the binary file(s) listed above. The installation package shall be provided in the following languages: 
+##	English and the following Nordic languages at no additional cost, provided they are readily available from the tenderer: Norwegian bokmål, Swedish and Finnish. 
+##	North Sámi, and potentially some or all of the following Nordic languages if not readily available from the tenderer: Norwegian bokmål, Swedish and Finnish. These language versions are based on translations provided by the Divvun team. 
+#	user documentation in the following languages:
+##	English and the following Nordic languages as far as readily available by the tenderer: Norwegian Bokmål, Swedish and Finnish. 
+##	user documentation in North Sámi, and possibly in other Nordic languages if not readily available from the tenderer: Norwegian Bokmål, Swedish and Finnish. These language versions are based on translations provided by the Divvun team. 
+
+The assumption behind the first installation application and user documentation points (4.1 and 5.1, respectively) is that the tenderers have similar or identical existing products, and thus existing user documentation to be utilised. Any existing user documentation will be reviewed before being accepted.
+
+!!Contract regulations
+!Terms of payment
+The Samediggi will pay a sum equivalent of 15 % of the total contract sum upon signing the contract. A further 35 % will be paid within 31st December 2006, provided the progress is according to schedule and upon delivery of an alfa version. The remaining 50 % will be paid when the end product has been delivered, tested and accepted by the customer.
+
+!Time schedule
+An alfa version of the proofing tools, shall be delivered to the customer by 31st October 2006. 
+
+A beta version shall be delivered by 1st February.
+
+Delivery of the final version to Samediggi shall happen within 31st May 2007. Acceptance test shall be excecuted by the customer in the course of one month after the delivery.
+
+!Further regulations
+For further information on contract regulations, see enclosed Standard government agreement forms regarding it-acquisitions.
+
+!!Licensing issues
+!License of the final products
+The Sámi Parliament will retain full rights to the final products, and is eligible to do whatever it wants with them, including giving them away for free to an unlimited number of end users. The individual copyright holders will retain their copyrights, and a list of copyright holders will be shipped to end users as part of the products, but the copyright holders will not be able to charge for their copyright beyond the one-time payment covered by this project.
+The companies are not allowed to resell, bundle or otherwise distribute the final products without prior written consent from the Sámi Parliament.
+
+!Escrow
+All source code needed to completely rebuild the products must be available through an escrow agreement, if not directly available as open source or in other forms.
+
+!!!Evaluation of the tenders
+!!Selection criteria 
+The Divvun project will select the economically most advantageous offer, based on the following criteria:
+
+*	Price and total costs
+*	Technical compatibility
+*	Willingness to license tools to Samediggi and the project group
+*	Quality, functionality and user-friendliness
+*	Terms and conditions
+
+The selection criteria are not listed according to their order of importance..
+
+!!Further information about the selection criterias
+!Price and total costs
+In evaluating these selection criteria, we will consider the expected total cost over a longer time period, including maintenance cost. 
+
+!Technical compatibility
+We will evaluate the technical solution presented by the tenderers and compare it with our existing linguistic resources and language technology. A high degree of compatibility will have a positive influence on total costs. 
+
+!Willingness to license tools to Samediggi
+It is important that the tenderer states whether or not it is willing to license the tools to compile the binary lexicon for the proofing tools to Samediggi. It is the wish (but not an absolute demand) of the Samediggi to be able to deliver linguistic, non-technical updates to end-users without the involvement from the cooperating companies. 
+
+!Quality, functionality and user-friendliness
+The evaluation of this criterion will be based on the description of the program solution as presented by the tenderer. The tenderer is welcome to support the verbal description with references to, or demonstrations of similar program solutions produced by the tenderer. Under this criterion we will also evaluate the user-friendliness of the solution and the usefulness of any extra functions that might be presented by the tenderer.
+
+!Terms and conditions
+The tenderer should as far as possible conform to the terms and conditions described in this tender document, including the enclosed Standard government agreement forms regarding it-acquisitions. Any reservations or deviations must be specified and described sufficiently, allowing us to evaluate the objective cost (whether they be positive or negative). 
+
+!!!Time frame for maintaining the tender 
+Minimum time frame during which the tenderer must maintain its tender is three (3) months from the time limit for receipt of tender.
