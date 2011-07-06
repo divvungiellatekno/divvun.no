@@ -1,45 +1,3 @@
-!!!Final products
-
-* North Saami synthetic voices for Windows, MacOS X and Linux (exact versions defined further down)
-* standard installation packages
-
-The contractor should deliver all parts including installation packages such that end users will only have one installation to do, after which the computer will be able to read text aloud in North Saami.
-
-The product should be built using the resources developed by the Saami Parliament, and the Divvun and Giellatekno groups at the University of Tromsø.
-
-The project is fully financed by the Saami Parliament. The end-user products will be free to download and use by the end users, with all costs covered by this project and paid by the Saami Parliament.
-
-!!!Existing resources
-
-* transducers for:
-** morphological analysis
-** word-form generation
-** orthography-to-IPA transciption
-* disambiguator
-* syntactic parser
-* dependency tree parser
-* voice recordings (not yet completed
-* a corpus built specifically for the recordings
-* a larger corpus with several types of texts (dominated by news and bureaucratic texts, as well as the bible); the corpus for North Saami is about 15 mill. words
-
-More detailed descriptions of some of the resources follow below.
-
-!!Transducer resources
-
-!!Parsing resources
-
-!!!Speech synthesis technology
-
-The existing TTS-oriented resources are developed in close cooperation with the speech technology resource group at the Linguistics department, Helsinki university. Based on a number of considerations, we are primarily targeting synthetic voices using a Hidden Markov Model synthesis. Other synthesis technologies can be considered, depending on price, feasability wrt the existing resources and scaleability for new languages.
-
-!!!Preprocessing technologies
-
-The tenderer will have 
-
-
-----
-
-
 !!!Tender announcement
 
 On behalf of the Divvun TTS project
@@ -61,7 +19,7 @@ For the acquisition of Speech Synthesis for North Saami
 !!!Introduction
 The Divvun TTS prosject is run by the Saami Parliament in order to produce high-quality speech synthesis for the North Saami languages, one male and one female voice. The produced voices should work on Windows, Linux and MacOS X, using the native speech API's of each operating system.
 
-The Divvun project invites all interested parties to submit tenders for making such speech synthesis for the listed operating systems, based on computational linguistic resources provided by the Divvun TTS project.
+The Divvun TTS project invites all interested parties to submit tenders for making such speech synthesis for the listed operating systems, based on computational linguistic resources provided by the Divvun TTS project.
 
 The acquisition process will follow the procedure of an open tender, as regulated by the Norwegian law on public procurements and the Norwegian regulations for public procurements part II. The tender has been announced in DOFFIN (ref. XXX) and TED (Tender European Daily), ref. XXX.
 
@@ -74,7 +32,7 @@ Personal delivery or by Mail:
 N-9730 Kárášjohka/Karasjok
 Norway}}}
 
-Time-limit for receipt of tenders:  1.09.2011, 12:00 Norwegian time
+Time limit for receipt of tenders:  __1.9.2011 15:00 Norwegian time__
 
 The tender should be delivered at the above address within this time limit. The receiver is not responsible for delayed mail, regardless of reasons. Tenders received after the time-limit will be rejected.
 
@@ -97,43 +55,21 @@ If any work is to be performed in Norway, the tenderer should produce a statemen
 The tenderer should have a sound financial and economic standing. This should be documented by the companies latest available balance sheets and a statement of the companies overall turnover and its turnover in respect of the services to which the contract relates for the previous 3 financial years.
 
 !!Technical qualifications
-It is a prerequisite that the tenderer has a high competence and experience within a similar field of work. This should be documented with a list of completed assignments including name/telephone number/e-mail of clients who can confirm the delivery. In addition the tenderer must deliver an overview of the formal competence and work experience of the persons who will be involved in the assignment. All in all the tenderer should convincingly document an ability to perform integration using UTF-8 encoded, linguistic source code from the Divvun project, and that the company is able to handle the linguistic phenomena of the Saami languages, like free compounding, complex inflectional and derivational morphology, complex morphophonology involving consonant gradation, vowel simplification and stem alternations as part of inflection, derivation and compounding. 
+It is a prerequisite that the tenderer has a high competence and experience within the subject of this tender. This should be documented with a list of completed assignments including name/telephone number/e-mail of clients who can confirm the delivery. In addition the tenderer must deliver an overview of the formal competence and work experience of the persons who will be involved in the assignment. The tenderer should convincingly document an ability to produce the desired voices with a high quality using the linguistic respurces from the Divvun and Giellatekno groups and the Sámi Parliament. 
  
-!!!Specification of the products to be acquired
-!!Technical specifications
-The goal of the part of the Divvun project described in this public tender document is to create the following tools:
+!!!Specification of the product to be delivered
 
-|| Host Application	|| Deliverables
-| Adobe InDesign CS 2 and newer, primarily for MacOS X 10.3 and newer, but optionally also for Windows XP SP2 and newer	| • hyphenator (North Sámi) 
-| Microsoft Office 2000 and newer (running on Windows 2000 and newer)	| • speller (North and Lule Sámi) • hyphenator (North Sámi) 
-| Microsoft Office 2004 and newer (running on MacOS X 10.3 and newer)	| • speller (North and Lule Sámi) • hyphenator (North Sámi) 
+!!Overview
+The goal of the tender part of the Divvun TTS project is to create the following product based on resources developed in cooperation between the selected tenderer and the Divvun and Giellatekno groups:
 
-The Divvun project has a set of resources available:
-*	trained linguists, computational linguist and software engineers
-*	large lexicons with proper inflectional class tagging
-*	a corpus of Saami text
-*	other resources, such as test beds for linguistic testing, documentation infrastructure, etc.
+* North Saami synthetic voices for Windows, MacOS X and Linux (exact versions defined further down)
+* standard installation packages
 
-The tenderers should utilize these resources, and specify how they intend to do so in their application, as well as specify how the work-load will be shared between the Divvun project group and the tenderer, and how the tenderer is envisaging the cooperation. It is obvious that the Divvun project will conduct the linguistic testing of the final products, thus this does not need to be specified.
+The contractor should deliver all parts including installation packages such that end users will only have one installation to do, after which the computer will be able to read text aloud in North Saami.
 
-!Adobe InDesign
-The Divvun project is asking for a bid for the making of a North Saami hyphenator with Adobe InDesign CS 2 and later. 
 
-The exact list of deliverables is:
-#	one set of binary hyphenation file(s) for hyphenation of North Saami according to the hyphenation rules of North Sámi, using the hyphenation API found in InDesign CS2 and all versions thereafter released before October 1st, 2007.
-#	installation application to provide end users with a simple and automatized process of correctly installing the binary file(s). The installation package shall be provided in the following languages: 
-##	English and the following Nordic languages at no additional cost, provided they are readily available from the tenderer: Norwegian bokmål, Swedish and Finnish. 
-##	North Sámi, and potentially some or all of the following Nordic languages if not readily available from the tenderer: Norwegian bokmål, Swedish and Finnish. These language versions are based on translations provided by the Divvun team. 
-#	user documentation in the following languages:
-##	English and the following Nordic languages as far as readily available by the tenderer: Norwegian bokmål, Swedish and Finnish. 
-##	user documentation in North Sámi, and possibly in other Nordic languages if not readily available from the tenderer: Norwegian bokmål, Swedish and Finnish. These language versions are based on translations provided by the Divvun team. 
-#	All the above (binaries, user documentation, installation application) shall be provided for MacOS X 10.3.9 or later (both Intel and PowerPC binaries and installation application).
-#	As an option, all the above (binaries, user documentation, installation application) can be provided for MS Windows XP SP2 or later. The Divvun project would like to receive bids for this option.
-
-The assumption behind the first installation application and user documentation points (2.1 and 3.1, respectively) is that the tenderers have similar or identical existing products, and thus existing user documentation to be utilised. Any existing user documentation will be reviewed before being accepted.
-
-!Microsoft Office
-The Divvun project is asking for a bid for the making and the integration of the proofing tools for MS Office, based on the computational linguistic models developed by the project.
+!!Microsoft Windows
+The Divvun TTS project is asking for a bid for the making and the integration of North Saami synthetic voices and a full text-to-speech system for Microsoft Windows, based on the existing computational linguistic resources.
 
 !Microsoft Office for MS Windows
 
@@ -165,31 +101,69 @@ The exact list of deliverables for MacOS X is:
 
 The assumption behind the first installation application and user documentation points (4.1 and 5.1, respectively) is that the tenderers have similar or identical existing products, and thus existing user documentation to be utilised. Any existing user documentation will be reviewed before being accepted.
 
-!!Contract regulations
-!Terms of payment
-The Samediggi will pay a sum equivalent of 15 % of the total contract sum upon signing the contract. A further 35 % will be paid within 31st December 2006, provided the progress is according to schedule and upon delivery of an alfa version. The remaining 50 % will be paid when the end product has been delivered, tested and accepted by the customer.
+!!!Existing resources
 
-!Time schedule
+The Divvun TTS project has a set of resources available:
+*	trained linguists, computational linguist and software engineers
+*	large lexicons with proper inflectional class tagging
+*	a corpus of Saami text
+*	other resources, such as test beds for linguistic testing, documentation infrastructure, etc.
+
+* transducers for:
+** morphological analysis
+** word-form generation
+** orthography-to-IPA transciption
+* disambiguator
+* syntactic parser
+* dependency tree parser
+* voice recordings (not yet completed
+* a corpus built specifically for the recordings
+* a larger corpus with several types of texts (dominated by news and bureaucratic texts, as well as the bible); the corpus for North Saami is about 15 mill. words
+
+The tenderers should utilize these resources, and specify how they intend to do so in their application, as well as specify how the work-load will be shared between the Divvun TTS project group and the tenderer, and how the tenderer is envisaging the cooperation. It is obvious that the Divvun TTS project will conduct the linguistic testing of the final products, thus this does not need to be specified.
+
+More detailed descriptions of some of the resources follow below.
+
+!!Transducer resources
+
+!!Parsing resources
+
+!!!Speech synthesis technology
+
+The existing TTS-oriented resources are developed in close cooperation with the speech technology resource group at the Linguistics department, Helsinki university. Based on a number of considerations, we are primarily targeting synthetic voices using a Hidden Markov Model synthesis. Other synthesis technologies can be considered, depending on price, feasability wrt the existing resources and scaleability for new languages.
+
+!!!Preprocessor
+
+The tenderer will have 
+
+tenderers preprocessor vs hfst (+cg)
+
+
+!!!Contract regulations
+!!Terms of payment
+The Samediggi will pay a sum equivalent of 15 % of the total contract sum upon signing the contract. A further 35 % will be paid after the beta version is received and accepted. The remaining 50 % will be paid when the end product has been delivered, tested and accepted by the customer.
+
+!!Time schedule
 An alfa version of the proofing tools, shall be delivered to the customer by 31st October 2006. 
 
 A beta version shall be delivered by 1st February.
 
 Delivery of the final version to Samediggi shall happen within 31st May 2007. Acceptance test shall be excecuted by the customer in the course of one month after the delivery.
 
-!Further regulations
+!!Further regulations
 For further information on contract regulations, see enclosed Standard government agreement forms regarding it-acquisitions.
 
-!!Licensing issues
-!License of the final products
+!!!Licensing issues
+!!License of the final products
 The Saami Parliament will retain full rights to the final products, and is eligible to do whatever it wants with them, including giving them away for free to an unlimited number of end users. The individual copyright holders will retain their copyrights, and a list of copyright holders will be shipped to end users as part of the products, but the copyright holders will not be able to charge for their copyright beyond the one-time payment covered by this project.
 The companies are not allowed to resell, bundle or otherwise distribute the final products without prior written consent from the Saami Parliament.
 
-!Escrow
+!!Escrow
 All source code needed to completely rebuild the products must be available through an escrow agreement, if not directly available as open source or in other forms.
 
 !!!Evaluation of the tenders
 !!Selection criteria 
-The Divvun project will select the economically most advantageous offer, based on the following criteria:
+The Divvun TTS project will select the economically most advantageous offer, based on the following criteria:
 
 *	Price and total costs
 *	Technical compatibility
