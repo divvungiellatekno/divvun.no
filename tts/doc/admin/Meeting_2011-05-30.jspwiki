@@ -18,7 +18,7 @@ Dette treng vi for å sjekka at alle dei ulike delane av preprossesseringa blir 
 * pause og ytringsfinale endringar framfor pause (t.d. t vs h av '-id')
 
 * talordskonvertering til tekst:
-** svært kontekstavhengig: 2-3 - 'to-til-tre', 'to minus 3' eller '(dei tapte) 2-3'?
+** svært kontekstavhengig: 2-3 - 'to-til-tre', 'to minus tre' eller '(dei tapte) to tre'?
 ** kan med fordel bruka disambiguering før tal-til-tekst-konvertering
 
 Preprosessering, forslag til oppbygging med fst + cg:
