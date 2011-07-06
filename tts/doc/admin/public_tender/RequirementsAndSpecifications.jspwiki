@@ -62,7 +62,7 @@ It is a prerequisite that the tenderer has a high competence and experience with
 !!Overview
 The goal of the tender part of the Divvun TTS project is to create the following product based on resources developed in cooperation between the selected tenderer and the Divvun and Giellatekno groups:
 
-* North Saami synthetic voices for Windows, MacOS X and Linux (exact versions defined further down)
+* North Saami synthetic voices for Windows, MacOS X and Linux (exact versions defined further down). Two voices should be developed, one male and one female voice.
 * standard installation packages
 
 The contractor should deliver all parts including installation packages such that end users will only have one installation to do, after which the computer will be able to read text aloud in North Saami.
@@ -71,35 +71,28 @@ The contractor should deliver all parts including installation packages such tha
 !!Microsoft Windows
 The Divvun TTS project is asking for a bid for the making and the integration of North Saami synthetic voices and a full text-to-speech system for Microsoft Windows, based on the existing computational linguistic resources.
 
-!Microsoft Office for MS Windows
-
 The exact list of deliverables for MS Windows is:
-#	one set of binary files to provide North Saami spelling correction using the CSAPI version 3 in MS Office 2000, MS Office XP and all MS Office versions released before October 1st, 2007, running on MS Windows 2000 (all versions), MS Windows XP (all versions) and MS Windows Vista (all versions). 
-#	one set of binary files to provide North Saami hyphenation using the CHAPI version 3 in MS Office 2000, MS Office XP and all MS Office versions released before October 1st, 2007, running on MS Windows 2000 (all versions), MS Windows XP (all versions) and MS Windows Vista (all versions). 
-#	one set of binary files to provide Lule Saami spelling correction using the CSAPI version 3 in MS Office 2000, MS Office XP and all MS Office versions released before October 1st, 2007, running on MS Windows 2000 (all versions), MS Windows XP (all versions) and MS Windows Vista (all versions). 
-#	installation application to provide end users with a simple and automatized process of correctly installing the binary files listed above. The installation package shall be provided in the following languages: 
-##	English and the following Nordic languages at no additional cost, provided they are readily available from the tenderer: Norwegian bokmål, Swedish and Finnish. 
-##	North Sámi, and potentially some or all of the following Nordic languages if not readily available from the tenderer: Norwegian bokmål, Swedish and Finnish. These language versions are based on translations provided by the Divvun team. 
-#	user documentation in the following languages:
-##	English and the following Nordic languages as far as readily available by the tenderer: Norwegian bokmål, Swedish and Finnish. 
-##	user documentation in North Sámi, and possibly in other Nordic languages if not readily available from the tenderer: Norwegian bokmål, Swedish and Finnish. These language versions are based on translations provided by the Divvun team. 
+#	one set of binary files to provide North Saami synthetic voices using the Speech API as found in MS Windows XP SP2 and newer.
+#	installation application to provide end users with a simple and automatized process of correctly installing the binary files listed above. Further details of the installer:
+##	The installation package shall be provided in the following languages: English, Norwegian bokmål, Swedish and Finnish. 
+##	The instalation package shall be prepared for the addition of North Sámi as an additional language of the installer
+##  The installer package shall be built using NSIS installer
+#	user documentation in English, Norwegian bokmål, Swedish and Finnish.
+#	user documentation prepared for translation into North Saami
 
-The assumption behind the first installation application and user documentation points (4.1 and 5.1, respectively) is that the tenderers have similar or identical existing products, and thus existing user documentation to be utilised. Any existing user documentation will be reviewed before being accepted.
+Possible translation costs of user documentation and installer interface languages should be specified in the tender. The Divvun TTS project will reserve the right to do the translation itself, or in cooperation with the selected company.
 
-!Microsoft Office for MacOS X
+!!MacOS X
 
 The exact list of deliverables for MacOS X is:
-#	one set of binary files to provide North Saami spelling correction using the CSAPI version 3 in MS Office 2004 and all MS Office versions released before October 1st, 2007 (both PowerPC and Intel architecture versions), running on MacOS X 10.3, MacOS X 10.4, MacOS X 10.5 (PowerPC and Intel) and all other versions of MacOS X released before October 1st, 2007.
-#	one set of binary files to provide North Saami hyphenation using the CHAPI version 3 in MS Office 2004 and all MS Office versions released before October 1st, 2007 (both PowerPC and Intel architecture versions), running on MacOS X 10.3, MacOS X 10.4, MacOS X 10.5 (PowerPC and Intel) and all other versions of MacOS X released before October 1st, 2007. 
-#	one set of binary files to provide Lule Saami spelling correction using the CSAPI version 3 in MS Office 2004 and all MS Office versions released before October 1st, 2007 (both PowerPC and Intel architecture versions), running on MacOS X 10.3, MacOS X 10.4, MacOS X 10.5 (PowerPC and Intel) and all other versions of MacOS X released before October 1st, 2007.
-#	installation application to provide end users with a simple and automatized process of correctly installing the binary file(s) listed above. The installation package shall be provided in the following languages: 
-##	English and the following Nordic languages at no additional cost, provided they are readily available from the tenderer: Norwegian bokmål, Swedish and Finnish. 
-##	North Sámi, and potentially some or all of the following Nordic languages if not readily available from the tenderer: Norwegian bokmål, Swedish and Finnish. These language versions are based on translations provided by the Divvun team. 
-#	user documentation in the following languages:
-##	English and the following Nordic languages as far as readily available by the tenderer: Norwegian Bokmål, Swedish and Finnish. 
-##	user documentation in North Sámi, and possibly in other Nordic languages if not readily available from the tenderer: Norwegian Bokmål, Swedish and Finnish. These language versions are based on translations provided by the Divvun team. 
+#	one set of binary files to provide North Saami synthetic voices using the Speech API as found in MacOS X 10.4 and newer.
+#	installation application to provide end users with a simple and automatized process of correctly installing the binary files listed above. Further details of the installer:
+##	The installation package shall be provided in the following languages: English, Norwegian bokmål, Swedish and Finnish. 
+##  The installer package shall be built using Apple's own installer system
+#	user documentation in English, Norwegian bokmål, Swedish and Finnish. 
+#	user documentation prepared for translation into North Saami
 
-The assumption behind the first installation application and user documentation points (4.1 and 5.1, respectively) is that the tenderers have similar or identical existing products, and thus existing user documentation to be utilised. Any existing user documentation will be reviewed before being accepted.
+Possible translation costs of user documentation and installer interface languages should be specified in the tender. The Divvun TTS project will reserve the right to do the translation itself, or in cooperation with the selected company.
 
 !!!Existing resources
 
@@ -160,6 +153,10 @@ The companies are not allowed to resell, bundle or otherwise distribute the fina
 
 !!Escrow
 All source code needed to completely rebuild the products must be available through an escrow agreement, if not directly available as open source or in other forms.
+
+A written proof of an escrow deposit shall be delivered as part of the beta delivery as well as part of the final delivery. The proof shall be in such a form that it suffices to get access to the full source code, should the conditions be met.
+
+The escrow deposit proof must be received by the Divvun TTS project before payment can be done.
 
 !!!Evaluation of the tenders
 !!Selection criteria 
