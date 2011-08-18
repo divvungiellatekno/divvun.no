@@ -97,21 +97,19 @@ Possible translation costs of user documentation and installer interface languag
 !!!Existing resources
 
 The Divvun TTS project has a set of resources available:
-*	trained linguists, computational linguist and software engineers
+*	trained linguists, a computational linguist and a software engineer
 *	large lexicons with proper inflectional class tagging
-*	a corpus of Saami text
+*   transducers for:
+**   morphological analysis
+**   word-form generation
+**   orthography-to-IPA transciption
+*   disambiguator
+*   syntactic parser
+*   dependency tree parser
+*   voice recordings (not yet completed
+*   a corpus built specifically for the recordings
+*   a larger corpus with several types of texts (dominated by news and bureaucratic texts, as well as the bible); the corpus for North Saami is about 15 mill. words
 *	other resources, such as test beds for linguistic testing, documentation infrastructure, etc.
-
-* transducers for:
-** morphological analysis
-** word-form generation
-** orthography-to-IPA transciption
-* disambiguator
-* syntactic parser
-* dependency tree parser
-* voice recordings (not yet completed
-* a corpus built specifically for the recordings
-* a larger corpus with several types of texts (dominated by news and bureaucratic texts, as well as the bible); the corpus for North Saami is about 15 mill. words
 
 The tenderers should utilize these resources, and specify how they intend to do so in their application, as well as specify how the work-load will be shared between the Divvun TTS project group and the tenderer, and how the tenderer is envisaging the cooperation. It is obvious that the Divvun TTS project will conduct the linguistic testing of the final products, thus this does not need to be specified.
 
@@ -123,14 +121,26 @@ More detailed descriptions of some of the resources follow below.
 
 !!!Speech synthesis technology
 
-The existing TTS-oriented resources are developed in close cooperation with the speech technology resource group at the Linguistics department, Helsinki university. Based on a number of considerations, we are primarily targeting synthetic voices using a Hidden Markov Model synthesis. Other synthesis technologies can be considered, depending on price, feasability wrt the existing resources and scaleability for new languages.
+The existing TTS-oriented resources are developed in close cooperation with the speech technology group at the Linguistics department, Helsinki university. Based on a number of considerations, we are primarily targeting synthetic voices using a __Hidden Markov Model__ (HMM) synthesis. Other synthesis technologies can be considered, depending on price, feasability wrt the existing resources and scaleability for new languages.
 
 !!!Preprocessor
 
-The tenderer will have 
+So far in the TTS project there has been developed preprocessing resources based on the existing transducer technologies being used. The preprocessor is not yet finished, but the text-to-IPA part is quite close. The parts that should handle abbreviations, numbers and other non-textual content is not finished.
 
-tenderers preprocessor vs hfst (+cg)
+We assume that the tenderers will have their own preprocessing tools, and that using their tools will be the easiest and cheapest solution seen from the tenderers' point of view.
 
+There are a couple of downsides to using the preprocessor of the tenderers. It means converting our preprocessor work to another formarlism. It also means relying on closed-source components. Further it moves the TTS preprocessing away from the rest of our text processing infrastructure and technologies.
+
+The alternative solution would be to base the preprocessor on one or both of the following technologies:
+
+* morphological analysis and generation using HFST (http://hfst.sf.net/)
+* disambiguation and syntactic analysis using VislCG3 (http://visl.sdu.dk/)
+
+Both technologies are open source, and both are also available in library versions that can easily be integrated into other systems.
+
+The benefits of using existing solutions are tighter integration with the rest of the Divvun & Giellatechno echosystem, better linguistic processing (we know that it works quite well) and less work on the part of the TTS project, ...
+
+What approach to take (tenderer's or Divvun's preprocessor technologies) is an open question, and in the the price form the tenderer should specify the cost of both options.
 
 !!!Contract regulations
 !!Terms of payment
