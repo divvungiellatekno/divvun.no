@@ -106,7 +106,7 @@ The Divvun TTS project has a set of resources available:
 *   disambiguator
 *   syntactic parser
 *   dependency tree parser
-*   voice recordings (not yet completed
+*   voice recordings 
 *   a corpus built specifically for the recordings
 *   a larger corpus with several types of texts (dominated by news and bureaucratic texts, as well as the bible); the corpus for North Saami is about 15 mill. words
 *	other resources, such as test beds for linguistic testing, documentation infrastructure, etc.
