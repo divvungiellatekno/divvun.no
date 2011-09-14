@@ -8,13 +8,18 @@
    <body>
       <section>
          <title>Windows</title>
-         <p>The Divvun installer is made using NSIS, and is by default enabled for silent installations, and thus easy
-         mass-deployment. You should run the installer using option <code>/S</code> to run it in silent mode:</p>
-         <source>MSOfficeDivvunTools.exe /S</source>
          <warning>Presently (Divvun 2.1) there is a known bug in the installer, in which it for certain Windows
          configurations will pop up dialog boxes. These dialogs will pop up even though option /S is used, and will thus
          break the silent install. The exact conditions under which this happens is unknown, but a fix is ready and will
          be rolled out as part of Divvun 2.2 (expected soon).</warning>
+         <p>The Divvun installer is made using NSIS, and is by default enabled for silent installations, and thus easy
+         mass-deployment. You should run the installer using option <code>/S</code> to run it in silent mode:</p>
+         <source>MSOfficeDivvunTools.exe /S</source>
+         <p>Further info can be found in the <a href="http://nsis.sourceforge.net/Docs/Chapter4.html#4.12">NSIS
+         documentation</a>, and the source code for building the installer can be found <a
+         href="https://victorio.uit.no/langtech/trunk/prooftools/installers/win/MSOffice/nsis/source/">here</a>. If you
+         have patches for bug fixes or feature enhancement, either <a href="mailto:divvun@samediggi.no">send it via
+         e-mail</a> or attach it to a <a href="http://giellatekno.uit.no/bugzilla/">Bugzilla bug</a>.</p>
       </section>
       <section>
          <title>MacOS X</title>
