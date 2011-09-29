@@ -1,0 +1,53 @@
+!!!CG-kurs i Tromsø 11-20 oktober
+
+Program:
+
+
+* formål og bakgrunn - lage en grammatikkontroll (+ analysator eigna for grammatikkontroll)
+* opplære folk til å lage grammatikkontroll
+
+
+Tirs 11.10.
+
+9:30
+rask repetisjon/innføring i cg-formalismen
+(Les Tino's webside før kurset)
+
+* 1,5 time førelesing med eksempel
+* kaffepause
+* 1,5 time praktiske øvingar
+
+Lunch
+
+Ons 12.10.
+
+
+Tors 13.10.
+
+Å laga ein grammatikkontroll - Trond Trosterud
+
+Fredag 14.10.
+
+
+brukes i:
+* syntaktisk label analyse
+* dependensanalyse
+* Oahpa (det kan ikkje snakke om)
+* MT - lexical selection
+
+installering? - får vi folk som ikke har CG på datamaskinen?
+
+
+skriving av CG-regler:
+nybegynner:
+
+
+advanced:
+hvordan finner vi ut at en regel ikke fungerer og hvor problemet ligger
+step-by-step
+
+
+
+Hva trenger dere:
+en datamaskin
+
