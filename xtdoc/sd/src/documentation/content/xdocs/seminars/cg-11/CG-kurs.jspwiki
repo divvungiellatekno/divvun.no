@@ -1,3 +1,18 @@
+Hei!
+
+Vi inviterer til Constraint Grammar kurs i ved UiT (11-14 oktober). Constraint Grammar (http://beta.visl.sdu.dk/constraint_grammar.html) er en dependensanalysebasert formalisme som ble utvikla av Fred Karlsson og blir brukt for å lage automatisk syntaktisk analyse og disambiguering, dependensanalyse, leksikalsk seleksjon, maskinoversetting og grammatikkontroll. Divvun/Giellatekno ved UiT skal i oktober begynne med utvikling av grammatikkontroll for de samiske språka og i forbindelse med dette holde kurs for de som vil bidra til å lage slike program eller er interesserte. Det er nyttig/nødvendig å ta med bærbar datamaskin.
+Det vil bli mer informasjon på følgende sider i de neste to ukene:
+
+http://divvun.no/
+http://giellatekno.uit.no/
+
+Blant annet skal vi legge ut en del setninger som inneholder grammatiske konstruksjoner vi vil jobbe med.
+
+Hjertelig vilkommen,
+
+Divvun, Giellatekno
+
+
 !!!CG-kurs i Tromsø 11-14 oktober
 
 
@@ -14,7 +29,7 @@ Det blir ein kombinasjon av førelesingar & teori og praktiske øvingar.
 
 Førebuingar før kurset:
 * installer CG3 (de kan få hjelp på kurset om det trengst)
-* les Tino si innføring
+* les Tino si innføring: http://beta.visl.sdu.dk/cg3_howto.pdf
 * ta med datamaskin
 
 !!!Program
