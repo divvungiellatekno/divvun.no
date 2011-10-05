@@ -4,7 +4,7 @@ The fonts used to produce the Divvun logo are:
 - Skia for the text
 - FreeSerif or Unicode Symbols for the check mark
 
-The check mark is slightly turned counter-clockwise (-20Â°), and coloured green. The exact colour code is #1DDF00.
+The check mark is slightly turned counter-clockwise (-20¡Æ), and coloured green. The exact colour code is #1DDF00.
 
 This is based on what was used for the CD cover and our home page logo.
 
@@ -15,6 +15,8 @@ divvun-logo-non-Skia.pdf - non-standard version of the logo, don't use
 divvun-logo-non-Skia.png - non-standard version of the logo, don't use
 divvun-logo.ai           - vector paths, not characters, useless
 divvun-logo.eps          - exported version, can be used if correct - check!
-divvun-logo.pdf          - exported version, can be used if correct - check!
+divvun-logo.jpg          - exported version, CORRECT, use if needed, no transparency
+divvun-logo.pdf          - exported version, WRONG - DON'T USE!
+divvun-logo.png          - exported version, CORRECT, use if needed, with transparency
 divvun-logo.svg          - ORIGINAL file, edit this one if needed
 README.txt               - this file
