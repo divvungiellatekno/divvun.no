@@ -54,11 +54,11 @@
 		 <pr4 href="pressrelease-20101208.html" label="PRD: 2010.12.08" />
     </pr>
 	<contact href="contact.html" label="Contact info"/>
-	<!--seminars href="seminars/" label="Seminars & courses">
-		<cg-11 href="cg-11" label="CG-kurs -11">
+	<seminars href="seminars/" label="Seminars &amp; courses">
+		<cg-11 href="cg-11/" label="CG-kurs -11">
 			<program href="CG-kurs.html" label="Program"/>
 		</cg-11>
-	</seminars-->
+	</seminars>
   </about>
 
 
