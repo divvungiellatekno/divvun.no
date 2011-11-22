@@ -7,16 +7,12 @@
   </header>
 
   <body>
-    <p>Divvun 2.1 mii maid doarju Microsoft Office 2010 (Windows) lea olámuttus njukčamánu 18. b. 2011 rájes. Divvun 2.1 doarju maid MS Office 2011 (Mac).
-    Veršuvdna mii doarju InDesign CS4 ja CS5
-    lea jođus muhto ii gárvánan 2.1-almmuhussii.</p>
+    <p>Divvun 2.2 mii doarju 64-bits Windows lea olámuttus skábmamánu 23. b. 2011 rájes. Veršuvdna mii doarju InDesign CS4 ja CS5
+    lea jođus muhto ii leat vel gárvvis.</p>
 
-    <warning>Ovdalgo sajáiduhtát Divvun 2.1 fertet váldit eret boares
-    Divvun-veršuvnnaid. Dás gávnnat bagadusaid <a
+    <warning>Jus dus ain lea Divvun 1.x iežat mašiinnas, de fertet dan váldit eret ovdalgo sajáiduhtát dán veršuvnna. Dás gávnnat bagadusaid <a
     href="userdocs/leaflet/win-install.html">Windowsii</a> ja <a
-    href="userdocs/leaflet/mac-install.html">MacOS X:i</a></warning>
-
-   <note>Divvun 2.1 ii doarjjo 64-bits Windows, dušše 32-bits. 64-bits Windows doarju ihtá árvideames Divvun 2.2:s, mii almmuhuvvo moatti mánu geahčen. (<a href="http://www.norman.com/support/support_issue_archive/69212/no">Dá lea vuohki mo gávdnat guhte veršuvdna dus lea</a>)</note>
+    href="userdocs/leaflet/mac-install.html">MacOS X:i</a> mo dan bargá.</warning>
 
     <section>
       <title>Viečča Divvuma</title>
@@ -26,7 +22,7 @@
         href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon
         alt="Download" height="32"
         src="images/Crystal_Clear_app_download_manager.png" width="32" />MS
-        Office — Windows, Divvun v2.1</a> — <a
+        Office — Windows, Divvun v2.2</a> — <a
         href="userdocs/leaflet/win-install.html">bagadallan</a> — <a
         href="userdocs/videos/win-msoffice-video.html">bagadallanvideot</a></li>
 
@@ -34,7 +30,7 @@
         href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon
         alt="Download" height="32"
         src="images/Crystal_Clear_app_download_manager.png" width="32" />MS
-        Office — MacOS X, Divvun v2.1</a> — <a
+        Office — MacOS X, Divvun v2.2</a> — <a
         href="userdocs/leaflet/mac-install.html">bagadallan</a> — <a
         href="userdocs/videos/mac-video.html">bagadallanvideot</a></li>
 
@@ -50,7 +46,7 @@
         href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon
         alt="Download" height="32"
         src="images/Crystal_Clear_app_download_manager.png"
-        width="32" />InDesign — MacOS X, Divvun v2.1</a> — <a
+        width="32" />InDesign — MacOS X, Divvun v2.2</a> — <a
         href="userdocs/indesign/index.html">bagadallan</a></li>
 
         <li><a href="downloads.html">Eará sajáiduhttineavttut</a></li>
