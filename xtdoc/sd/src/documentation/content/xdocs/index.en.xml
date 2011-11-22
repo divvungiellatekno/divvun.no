@@ -6,12 +6,11 @@
       <title>Divvun 2 - sámi proofing tools</title>
    </header>
    <body>
-      <p>Divvun 2.1 with support for Office 2010 (Windows) is available as of March 18, 2011. Divvun 2.1 does also include support for MS Office 2011 (Mac). Support for InDesign CS4 and CS5 is under
+      <p>Divvun 2.2 with support for 64-bit Windows is available as of November 23, 2011. Support for InDesign CS4 and CS5 is under
       development, but isn't ready yet.</p>
-      <warning>Before you install Divvun 2.1 you must uninstall older versions of Divvun. Here you find instructions for
-      <a href="userdocs/leaflet/win-install.html">Windows</a> and <a href="userdocs/leaflet/mac-install.html">MacOS X</a></warning>
-      <note>Divvun 2.1 does not support 64-bit Windows, only 32-bit (the most common version). Support for 64-bit Windows
-      will most likely be included in Divvun 2.2, to be released during the next two months.</note>
+      <warning>If you have a Divvun 1.x version installed, you must uninstall the old version before isntalling the new. Here you find instructions for
+      <a href="userdocs/leaflet/win-install.html">Windows</a> and <a href="userdocs/leaflet/mac-install.html">MacOS X</a>. Divvun 2.2 can be installed
+      on top of any Divvun 2.x without uninstalling first.</warning>
       <section>
          <title>Download Divvun</title>
          <ul>

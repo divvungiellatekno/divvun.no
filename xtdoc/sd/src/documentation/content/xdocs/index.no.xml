@@ -6,13 +6,12 @@
       <title>Divvun 2 - samiske rettskrivningsverktøy</title>
    </header>
    <body>
-      <p>Divvun 2.1 med støtte for Office 2010 (Windows) er tilgjengelig fra og med 18. mars 2011. Divvun 2.1 inkluderer
-      også støtte for MS Office 2011 (Mac). Støtte for InDesign CS4 og CS5 er underveis men er ennå ikke ferdig.</p>
-      <warning>Før du installerer Divvun 2.1 må du avinstallere eldre versjoner av Divvun. Her finner du vegledning for
+      <p>Divvun 2.2 med støtte for 64-bits Windows er tilgjengelig fra og med 23. november 2011. Støtte for InDesign CS4
+      og CS5 er underveis men er ennå ikke ferdig.</p>
+      <warning>Om du allerede har Divvun 1.x installert på maskinen din må du avinstallere den gamle versjonen før du
+      installerer den nye. Her finner du vegledning for
       <a href="userdocs/leaflet/win-install.html">Windows</a> og <a href="userdocs/leaflet/mac-install.html">MacOS
-      X</a></warning>
-      <note>Divvun 2.1 støtter ikke 64-bits Windows, bare 32-bits (den vanligste versjonen). Støtte for 64-bits Windows
-      vil trolig bli inkludert i Divvun 2.2, som blir tilgjengelig i løpet av de neste to månedene.</note>
+      X</a>. Divvun 2.2 kan oppdatere alle Divvun 2.x-versjoner uten at de må avinstalleres først.</warning>
       <section>
          <title>Last ned Divvun</title>
          <ul>
