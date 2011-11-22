@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.2//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
    <header>
       <title>Divvun - Saemien staeriedimmiedïrregh</title>
    </header>
    <body>
-      <p>Divvun 2.1 dåarjeginie Office 2010:se (Windows) njoktjen 18 b. raejesne 2011 gååvnese. Divvun 2.1:n dåarjege MS Office 2011:se (Mac). Dåarjege InDesign CS4:se jïh CS5:se varke båata.</p>
-      <warning>Gosse edtjh Divvun 2.0:m sijjiedehtedh, tjoeverh båeries versjovnh destie vaeltedh. Daesnie naan
+      <p>Divvun 2.2 dåarjeginie 64-bits Windowsasse båarkedhmaanoen 23 b. raejesne 2011 gååvnese.  Dåarjege InDesign CS4:se jïh CS5:se varke båata.</p>
+      <warning>Jis dov joe Divvun 1.x, tjoeverh dam masjijneste vaeltedh aarebi goh bïejedh orre versjovnem. Daesnie naan
       bïhkedimmieh gaavnah <a href="userdocs/leaflet/win-install.html">Windows:ese</a> jïh <a
-      href="userdocs/leaflet/mac-install.html">MacOS X:ese</a></warning>
-      <note>Divvun 2.1:n ij annje 64-bit Windows-dåarjege, ajve 32-bit Windows (32-bit Windows sïejhmebe versjovne). Galkebe giesie doekoe Divvun 2.2:m 64-bit Windows-dåarjeginie geervehtidh.</note>
+      href="userdocs/leaflet/mac-install.html">MacOS X:ese</a>. Jis lea Divvun 2.x ih tjoeverh dam masjijneste vaeltedh.</warning>
       <section>
          <title>Veedtjh Divvunem</title>
          <ul>
             <li class="Download"><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
-            v2.0</a> — <a href="userdocs/leaflet/win-install.html">bïhkedimmie</a> — <a
+            v2.2</a> — <a href="userdocs/leaflet/win-install.html">bïhkedimmie</a> — <a
             href="userdocs/videos/win-msoffice-video.html">Vuesiehtimmmievidejovvh</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
-            v2.0</a> — <a href="userdocs/leaflet/mac-install.html">bïhkedimmie</a> — <a
+            v2.2</a> — <a href="userdocs/leaflet/mac-install.html">bïhkedimmie</a> — <a
             href="userdocs/videos/mac-video.html">vuesiehtimmievidejovvh</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
             src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — gaajhkh operativsysteemh,
@@ -28,7 +27,7 @@
             href="userdocs/videos/ooo-video.html">vuesiehtimmievidejovvh</a></li>
             <li class="Download"><a href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon alt="Download"
             height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun
-            v2.0</a> — <a href="userdocs/indesign/index.html">bïhkedimmie</a></li>
+            v2.2</a> — <a href="userdocs/indesign/index.html">bïhkedimmie</a></li>
             <li><a href="downloads.html">Jeatjah-laakan sijjiedehtedh</a></li>
             <li><a href="sysadmininfo.html">Info for administrators &amp; integrators (English only)</a></li>
          </ul>
