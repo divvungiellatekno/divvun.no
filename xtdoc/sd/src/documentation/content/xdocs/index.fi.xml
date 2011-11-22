@@ -6,13 +6,11 @@
       <title>Divvun 2 - saamen kielen oikolukutyökalut</title>
    </header>
    <body>
-      <p>Divvun 2.1 joka sisältää tuen Office 2010 (Windows):lle julkaistiin 18. maaliskuuta 2011. Divvun 2.1 sisältää myös tuen MS Office 2011 (Mac):lle. Tuki InDesign CS4 ja CS5:lee on
-      tuloillaan, mutta ei sisälly 2.1 päivitykseen.</p>
-      <warning>Ennen kuin asennat Divvun 2.1:n sinun tulee poistaa Divvun työkalujen aiemmat versiot. Täältä löydät
+      <p>Divvun 2.2 joka sisältää tuen 64-bittiselle Windows:lle julkaistaan 23. Marraskuuta, 2011. Tuki InDesign CS4 ja CS5:lee on
+      tuloillaan, mutta ei sisälly päivitykseen.</p>
+      <warning>Jos sinulla on käytössä Divvun 1.x versio, sinun tulee poistaa Divvun työkalujen aiemmat versiot. Täältä löydät
       ohjeet <a href="userdocs/leaflet/win-install.html">Windows:lle</a> ja <a href="userdocs/leaflet/mac-install.html">MacOS
-      X:lle</a></warning>
-      <note> Divvun 2.1 ei tue 64-bittistä Windowsia, ainoastaan 32-bittistä (tavallista versiota). Tuki 64-bittiselle Windowsille
-      sisältyy Divvun 2.2 versioon, joka julkaistaan parin kuukauden päästä.</note>
+      X:lle</a>. Divvun 2.2 voidaan asentaa version 2.x tilalle ilman poistamista ensin.</warning>
       <section>
          <title>Lataa Divvun</title>
          <ul>
