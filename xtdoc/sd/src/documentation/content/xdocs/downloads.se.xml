@@ -17,18 +17,69 @@
             sajáiduhttin-cd:n buot golmma operatiivavuogádahkii</li>
          </ul>
       </section>
-	  <section>
-		  <title>Boares veršuvnnat</title>
-		  <ul>
-			  <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20081231.exe"><icon alt="Download"
-            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
-            v1.1</a> — <a href="userdocs/leaflet/win-install.html">bagadallan</a> — <a
-            href="userdocs/videos/win-msoffice-video.html">bagadallanvideot</a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20081231.dmg"><icon alt="Download"
-            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
-            v1.1</a> — <a href="userdocs/leaflet/mac-install.html">bagadallan</a> — <a
-            href="userdocs/videos/mac-video.html">bagadallanvideot</a></li>
+
+      
+      <section>
+         <title>Boares veršuvnnat</title>
+         <section>
+            <title>Divvun 2.x</title>
+            <ul>
+               <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20110317.exe"><icon
+               alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+               Windows, Divvun v2.1</a> </li>
+               <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20110317.dmg"><icon
+               alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+               MacOS X, Divvun v2.1</a> </li>
             </ul>
-		</section>
+         </section>
+         <section>
+            <title>Divvun 1.x</title>
+            <ul>
+               <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20081231.exe"><icon
+               alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+               Windows, Divvun v1.1</a> </li>
+               <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20081231.dmg"><icon
+               alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+               MacOS X, Divvun v1.1</a> </li>
+            </ul>
+         </section>
+      </section>
+      <section>
+         <title>Veršuvdnahistorjá</title>
+         <section>
+            <title>Divvun 2.2</title>
+            <ul>
+               <li>doarju 64-bits Windows</li>
+               <li>doarju jaskes ja automáhtalaš sajáiduhttima Windowsii</li>
+               <li>divvomat buot golmma gillii</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 2.1</title>
+            <ul>
+               <li>lullisámegiela ođasmahttin</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 2.0</title>
+            <ul>
+               <li>lullisámegiela veršuvdna 1</li>
+               <li>ođđa sajáiduhttinprográmma</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 1.1</title>
+            <ul>
+               <li>davvi- ja julevsámegielaid ođasmahttimat</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 1.0</title>
+            <ul>
+               <li>vuosttaš veršuvdna</li>
+            </ul>
+         </section>
+      </section>
+
 	</body>
 </document>
