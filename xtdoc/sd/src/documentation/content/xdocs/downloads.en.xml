@@ -1,35 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-          "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="en"> 
-    <header>
-        <title>Downloads</title>
-    </header>
-    <body>
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+   <header>
+      <title>Downloads</title>
+   </header>
+   <body>
       <section>
          <title>Other installation options</title>
          <ul>
-            <li>Divvun for MacOS X: <a href="userdocs/X-spell/install_macosx.html">instructions</a> on how to
-            install and use the Divvun tools in Mac OS X</li>
-            <li>Divvun for Linux: <a href="userdocs/X-spell/install_linux.html">instructions</a> on how to install
-            and use the Divvun tools in Linux</li>
-            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> to burn an installation CD
-            for all three operating systems</li>
+            <li>Divvun for MacOS X: <a href="userdocs/X-spell/install_macosx.html">instructions</a> on how to install
+            and use the Divvun tools in Mac OS X</li>
+            <li>Divvun for Linux: <a href="userdocs/X-spell/install_linux.html">instructions</a> on how to install and
+            use the Divvun tools in Linux</li>
+            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> to burn an installation CD for
+            all three operating systems</li>
          </ul>
       </section>
-	  <section>
-		  <title>Older versions</title>
-		  <ul>
-			  <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20081231.exe"><icon alt="Download"
-            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
-            v1.1</a> — <a href="userdocs/leaflet/win-install.html">instruction</a> — <a
-            href="userdocs/videos/win-msoffice-video.html">instructional videos</a></li>
-			<li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20081231.dmg"><icon alt="Download"
-            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
-            v1.1</a> — <a href="userdocs/leaflet/mac-install.html">instruction</a> — <a href="userdocs/videos/mac-video.html">instructional
-            videos</a></li>
-            
+      <section>
+         <title>Old versions</title>
+         <section>
+            <title>Divvun 2.x</title>
+            <ul>
+               <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20110317.exe"><icon
+               alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+               Windows, Divvun v2.1</a></li>
+               <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20110317.dmg"><icon
+               alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+               MacOS X, Divvun v2.1</a></li>
             </ul>
-		</section>
-    </body>
+         </section>
+         <section>
+            <title>Divvun 1.x</title>
+            <ul>
+               <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20081231.exe"><icon
+               alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+               Windows, Divvun v1.1</a></li>
+               <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20081231.dmg"><icon
+               alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+               MacOS X, Divvun v1.1</a></li>
+            </ul>
+         </section>
+      </section>
+      <section>
+         <title>Version history</title>
+         <section>
+            <title>Divvun 2.2</title>
+            <ul>
+               <li>support for 64-bits Windows</li>
+               <li>support for mass deployment on Windows</li>
+               <li>other small corrections</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 2.1</title>
+            <ul>
+               <li>linguistic updates for South Sámi</li>
+               <li>support for MS Office 2010 for 32-bit Windows</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 2.0</title>
+            <ul>
+               <li>South Sámi version 1</li>
+               <li>new installer</li>
+               <li>support for MS Office 2011 for Mac</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 1.1</title>
+            <ul>
+               <li>linguistic updates for North and Lule Sámi</li>
+               <li>support for MS Office 2008 for Mac</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 1.0</title>
+            <ul>
+               <li>initial release</li>
+            </ul>
+         </section>
+      </section>
+   </body>
 </document>
