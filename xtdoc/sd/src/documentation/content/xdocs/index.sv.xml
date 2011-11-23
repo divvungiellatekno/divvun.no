@@ -10,7 +10,7 @@
       <warning>Om du redan har Divvun 1.x installerat på maskinen din så måste du avinstallera den gamle versionen innan du
       installerar den nya. Här hittar du
       vägledningar för <a href="userdocs/leaflet/win-install.html">Windows</a> och <a href="userdocs/leaflet/mac-install.html">MacOS
-      X</a>. Divvun 2.2 kan uppdatera alla Divvun 2.x-versioner utan att dom måste avinstalleras först.</warning>
+      X</a>. Divvun 2.2 kan uppdatera alla Divvun 2.x-versioner utan att de måste avinstalleras först.</warning>
       <section>
          <title>Lasta ned Divvun</title>
          <ul>
