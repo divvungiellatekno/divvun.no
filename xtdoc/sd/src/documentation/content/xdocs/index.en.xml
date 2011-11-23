@@ -8,7 +8,7 @@
    <body>
       <p>Divvun 2.2 with support for 64-bit Windows is available as of November 23, 2011. Support for InDesign CS4 and CS5 is under
       development, but isn't ready yet.</p>
-      <warning>If you have a Divvun 1.x version installed, you must uninstall the old version before isntalling the new. Here you find instructions for
+      <warning>If you have a Divvun 1.x version installed, you must uninstall the old version before installing the new. Here you find instructions for
       <a href="userdocs/leaflet/win-install.html">Windows</a> and <a href="userdocs/leaflet/mac-install.html">MacOS X</a>. Divvun 2.2 can be installed
       on top of any Divvun 2.x without uninstalling first.</warning>
       <section>
