@@ -13,23 +13,70 @@
             man installerar och använder Divvun-verktygen i hela Mac OS X</li>
             <li>Divvun för hela Linux:<a href="userdocs/X-spell/install_linux.html">instruktioner</a> för hur man
             installerar och använder Divvun-verktygen i hela Linux</li>
-            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> för att brenna en
+            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> för att bränna en
             installerings-cd för alla tre operativsystem</li>
          </ul>
       </section>
 	  	  <section>
-		  <title>Gamla versioner</title>
-		  <ul>
-			  <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20081231.exe"><icon alt="Download"
-            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — Windows, Divvun
-            v1.1</a> — <a href="userdocs/leaflet/win-install.html">vägledning</a> — <a
-            href="userdocs/videos/win-msoffice-video.html">instruktionsvideor</a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20081231.dmg"><icon alt="Download"
-            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
-            v1.1</a> — <a href="userdocs/leaflet/mac-install.html">vägledning</a> — <a
-            href="userdocs/videos/mac-video.html">instruktionsvideor</a></li>
+         <title>Gamla versioner</title>
+         <section>
+            <title>Divvun 2.x</title>
+            <ul>
+               <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20110317.exe"><icon
+               alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+               Windows, Divvun v2.1</a> </li>
+               <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20110317.dmg"><icon
+               alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+               MacOS X, Divvun v2.1</a> </li>
             </ul>
-		</section>
-
+         </section>
+         <section>
+            <title>Divvun 1.x</title>
+            <ul>
+               <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20081231.exe"><icon
+               alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+               Windows, Divvun v1.1</a> </li>
+               <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20081231.dmg"><icon
+               alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+               MacOS X, Divvun v1.1</a> </li>
+            </ul>
+         </section>
+      </section>
+      <section>
+         <title>Versionshistoria</title>
+         <section>
+            <title>Divvun 2.2</title>
+            <ul>
+               <li>stöd för 64-bits Windows</li>
+               <li>stöd för massinstallering på Windows</li>
+               <li>andra smårättningar</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 2.1</title>
+            <ul>
+               <li>språkliga uppdateringar för sydsamiska</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 2.0</title>
+            <ul>
+               <li>sydsamisk version 1</li>
+               <li>nytt installeringsprogram</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 1.1</title>
+            <ul>
+               <li>språkliga uppdateringar för nord- og lulesamiska</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 1.0</title>
+            <ul>
+               <li>första version</li>
+            </ul>
+         </section>
+      </section>
    </body>
 </document>
