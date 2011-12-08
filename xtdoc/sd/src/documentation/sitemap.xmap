@@ -41,6 +41,13 @@
                 <map:serialize type="xml" />
             </map:match>
 
+            <!-- Corpus parallelisation test results match - statistics against the gold standard: -->
+            <map:match pattern="**paragstesting.xml">
+                <map:generate src="{properties:content.xdocs}{1}paragstesting.xml" />
+                <map:transform src="{properties:resources.stylesheets}/paragstest2document.xsl" />
+                <map:serialize type="xml" />
+            </map:match>
+
             <!-- Corpus language match - it produces an overview of the available corpus
                  material for the requested language. -->
             <map:match pattern="**corpus-*.xml">
