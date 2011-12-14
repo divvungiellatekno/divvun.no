@@ -90,11 +90,18 @@ Section handling
     <div id="skinconf-toc-page"/>
     <xsl:apply-templates/>
   </xsl:template>
+  
 <!-- Generate a <a name="..."> tag for an @id -->
   <xsl:template match="@id">
     <xsl:if test="normalize-space(.)!=''"><a name="{.}"/>
     </xsl:if>
   </xsl:template>
+
+<!-- Special match for sections with explicit @id -->
+  <xsl:template match="p[@id][@class='graph']">
+    <div style="height: 600px; width: 800px;" id="{@id}" />
+  </xsl:template>
+
   <xsl:template match="section">
 <!-- count the number of section in the ancestor-or-self axis to compute
          the title element name later on -->
@@ -123,6 +130,7 @@ Section handling
       <xsl:apply-templates select="*[not(self::title)]"/>
     </div>
   </xsl:template>
+
   <xsl:template match="note | warning | fixme">
     <xsl:apply-templates select="@id"/>
     <div>
