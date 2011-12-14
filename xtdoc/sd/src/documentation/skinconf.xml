@@ -182,6 +182,9 @@ which will be used to configure the chosen Forrest skin.
     .ForrestTable {
       background-color: #aaa;
     }
+    div div.legend div, div div.legend table {
+      width: 130px;
+    }
   </extra-css>
   <colors>
   </colors>
