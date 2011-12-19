@@ -41,18 +41,22 @@
   <xsl:template match="paragstesting">
     <table>
       <caption>Real parallelisation compared to exepcted result - # of failed sentence pairs / # of all sentence pairs</caption>
-      <tr>
+      <!--tr>
         <th>Test date⇓ \ Gold-standard files⇒</th>
         <xsl:for-each select="testrun/file">
           <th><xsl:value-of select="@name"/></th>
         </xsl:for-each>
         <th>Totals:</th>
-      </tr>
+      </tr-->
       <xsl:apply-templates select="testrun"/>
     </table>
   </xsl:template>
 
   <xsl:template match="testrun">
+    <tr>
+      <td><strong>Filename:</strong></td>
+      <xsl:apply-templates select="file/@name"/>
+    </tr>
     <tr>
       <td><strong><xsl:value-of select="@datetime"/></strong></td>
       <xsl:apply-templates select="file"/>
@@ -63,6 +67,12 @@
                               sum(file/@gspairs))) * 10000) div 100"/> %</strong>
     </td>
     </tr>
+  </xsl:template>
+
+  <xsl:template match="file/@name">
+    <td>
+        <xsl:value-of select="translate(., '_', ' ')"/>
+    </td>
   </xsl:template>
 
   <xsl:template match="file">
