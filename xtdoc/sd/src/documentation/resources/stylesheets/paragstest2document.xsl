@@ -6,6 +6,20 @@
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
+<!-- List of documents being processed: -->
+ <xsl:key name="docnames" match="//@name/text()" use="."/>
+
+<!--xsl:key name="product" match="/items/item/products/product/text()" use="." />
+
+<xsl:template match="/">
+
+  <xsl:for-each select="/items/item/products/product/text()[generate-id()=generate-id(key('product',.)[1])]">
+    <li>
+      <xsl:value-of select="."/>
+    </li>
+  </xsl:for-each>
+
+</xsl:template-->
 
   <xsl:template match="/">
     <document>
@@ -13,6 +27,12 @@
         <title>Parallelisation of Corpus Files — Test results</title>
       </header>
       <body>
+        <h2>Documents</h2>
+        <ul>
+           <xsl:for-each select="//@name/text()[generate-id() = generate-id(key('docnames', .)[1])]">
+             <li><xsl:value-of select="."/></li>
+           </xsl:for-each>
+        </ul>
         <xsl:apply-templates select="paragstesting"/>
       </body>
     </document>
