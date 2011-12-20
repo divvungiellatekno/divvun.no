@@ -29,8 +29,8 @@
       <body>
         <h2>Documents</h2>
         <ul>
-           <xsl:for-each select="//@name/text()[generate-id() = generate-id(key('docnames', .)[1])]">
-             <li><xsl:value-of select="."/></li>
+           <xsl:for-each select="//@name/text()[generate-id(.) = generate-id(key('docnames', .)[1])]">
+             <li><xsl:value-of select="."/> ·</li>
            </xsl:for-each>
         </ul>
         <xsl:apply-templates select="paragstesting"/>
@@ -71,7 +71,12 @@
 
   <xsl:template match="file/@name">
     <td>
+      <a>
+        <xsl:attribute name="href">
+          <xsl:value-of select="concat('tca2testing/', ., '_', ancestor-or-self::testrun/@datetime, '.html')"/>
+        </xsl:attribute>
         <xsl:value-of select="translate(., '_', ' ')"/>
+      </a>
     </td>
   </xsl:template>
 
