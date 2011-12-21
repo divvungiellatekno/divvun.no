@@ -40,7 +40,8 @@
 
   <xsl:template match="paragstesting">
     <table>
-      <caption>Real parallelisation compared to exepcted result - # of failed sentence pairs / # of all sentence pairs</caption>
+      <caption>Real parallelisation compared to exepcted result -
+              # of failed sentence pairs / # of all sentence pairs</caption>
       <!--tr>
         <th>Test date⇓ \ Gold-standard files⇒</th>
         <xsl:for-each select="testrun/file">
@@ -71,12 +72,22 @@
 
   <xsl:template match="file/@name">
     <td>
-      <a>
-        <xsl:attribute name="href">
-          <xsl:value-of select="concat('tca2testing/', ., '_', ancestor-or-self::testrun/@datetime, '.html')"/>
-        </xsl:attribute>
-        <xsl:value-of select="translate(., '_', ' ')"/>
-      </a>
+      <xsl:choose>
+        <!-- There are no diffs for the first two test runs, so skip link making: -->
+        <xsl:when test="(ancestor-or-self::testrun/@datetime = '20111210-1155')
+                     or (ancestor-or-self::testrun/@datetime = '20111214-1433')">
+          <xsl:value-of select="translate(., '_', ' ')"/>
+        </xsl:when>
+        <!-- All other test runs have diffs, so create links to them: -->
+        <xsl:otherwise>
+          <a>
+            <xsl:attribute name="href">
+              <xsl:value-of select="concat('tca2testing/', ., '_', ancestor-or-self::testrun/@datetime, '.html')"/>
+            </xsl:attribute>
+            <xsl:value-of select="translate(., '_', ' ')"/>
+          </a>
+        </xsl:otherwise>
+      </xsl:choose>
     </td>
   </xsl:template>
 
