@@ -11,7 +11,6 @@
          <title>Linguistic documentation</title>
          <ul>
             <li><a href="SpeechCorpusAssembly.html">Speech Corpus Assembly</a></li>
-            <li><a href="ReadingInstructions.html">Reading Instructions</a></li>
             <li><a href="StressAssignment.html">Stress Assignment</a></li>
             <li><a href="OrthographyToIPA.html">Orthography to IPA conversion</a></li>
             <li/>
@@ -21,6 +20,14 @@
          <title>Technical documentation</title>
          <ul>
             <li><a href="PreprocessingArchitecture.html">Preprocessing Architecture</a></li>
+            <li/>
+         </ul>
+      </section>
+      <section>
+         <title>Recording the voices</title>
+         <ul>
+            <li><a href="ReadingInstructions.html">Reading Instructions</a> (English), <a
+            href="reading_instructions.doc">Sámi version</a> (an MS Word document)</li>
             <li/>
          </ul>
       </section>
