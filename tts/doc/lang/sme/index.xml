@@ -1,15 +1,25 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-         "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="en" >
-    <header>
-        <title>North Sámi TTS documentation</title>
-    </header>
-    <body>
-
-            <p>
-                Add information about North Sámi here.
-            </p>
-            
-    </body>
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+   <header>
+      <title>North Sámi TTS documentation</title>
+   </header>
+   <body>
+      <p>The following documentation is available.</p>
+      <section>
+         <title>Linguistic documentation</title>
+         <ul>
+            <li><a href="SpeechCorpusAssembly.html">Speech Corpus Assembly</a></li>
+            <li/>
+         </ul>
+      </section>
+      <section>
+         <title>Technical documentation</title>
+         <ul>
+            <li><a href="PreprocessingArchitecture.html">Preprocessing Architecture</a></li>
+            <li/>
+         </ul>
+      </section>
+   </body>
 </document>
