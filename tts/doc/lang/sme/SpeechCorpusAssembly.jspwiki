@@ -1,7 +1,7 @@
-#This document is an overview of the work of assembling and editing texts for reading.
- 
+This document is an overview of the work of assembling and editing texts for reading.
 
-Assembling different types of texts
+!!!Assembling different types of texts
+
 Considering that we want our end product to be able to read "everything", the texts must range from formal language to colloqial language. The different styles show different preferences for long words, possessive suffixes and particles, which in turn has different implications for prosody. We need a good mixture of these styles.
 
 
@@ -19,7 +19,8 @@ Some numbers, mostly years. Use of abbreviations and accronyms.
 
 *Fairytales: Fairytales are probably not good for text to speech purposes, because of the exaggerated prosody. However, there are some consonants and consonant clusters/groups that are rather uncommon in the other types of text, such as the voiceless sonorants hl, hr, hj, hn. These seem to be more frequent in traditional texts, such as fairytales. I have divided the fairytales between neutral and semi-colloqial language. The voice talents must be instructed to read the fairytales in an ordinary conversational style, and not stay true to fairytale style. 
 
-Editing texts
+!!!Editing texts
+
 The texts that are chosen are not totally authentic. They have been altered to accommodate reading fluency. Some texts have not been proofread properly before publishing:
 
 *Most parentheses with English or Norwegian words have been removed, as are parentheses with year and page numbers.
