@@ -11,21 +11,6 @@ acceptable compound parts:
 
 Now we have -lohkái/-logi. We should probably have -lot in compounds. See for example ''11-jahkásaš'': {{oktanuppelotjahkásaš}}, not *{{oktanuppelohkáijahkásaš}}.
 
-!!Case marking
-Some number types will have case marking. Usually the colon will indicate when the number should be in loc., ill or com. singular. However, there is no marking to separate nominative from accusative and genitive.
-
-For most numerals, accusative and nominative singular are the same anyway, the exceptions being 1, 0, and mill, for which accusative and genitive are similar. For the other numerals, genitive is used mostly with postpositions, or within an NP which is in gen., ill or loc.sg.
-
-Numerals for which nom/acc/gen are the same anyway: čieža (7), gávcci (8), ovcci (9), logi (10), čuođi (100).
-
-!!Compound  numerals:
-
-Whole tens and hundreds have a difference between nom/acc on the one hand and genitive on the other. While the final part 'logi' or 'čuođi' remains the same, the first or middle number will change:
-
-* 20: guoktelogi.nom/acc or guovttilogi.gen
-* 200: guoktečuođi.nom/acc or guovttičuođi.gen
-* 67: guhttalogičieža.nom/acc or guđalogičieža.gen
-
 !!!Years
 There is a difference between Norwegian/Swedish and Finnish type between the period 1100-1999:
 * Finnish: 1951: duhátovccičuođivihttalogiokta
@@ -37,7 +22,7 @@ This does not extend to 2000:
 
 We already have the Finnish type. The question is whether we need the Norwegian type. We probably do. 
 
-!!Case marking
+!!!Case marking
 Some number types will have case marking. Usually the colon will indicate when the number should be in loc., ill or com. singular. However, there is no marking to separate nominative from accusative and genitive.
 
 For most numerals, accusative and nominative singular are the same anyway, the exceptions being 1, 0, and mill, for which accusative and genitive are similar. For the other numerals, genitive is used mostly with postpositions, or within an NP which is in gen., ill or loc.sg.
@@ -52,7 +37,7 @@ Whole tens and hundreds have a difference between nom/acc on the one hand and ge
 * 200: guoktečuođi.nom/acc or guovttičuođi.gen
 * 67: guhttalogičieža.nom/acc or guđalogičieža.gen
 
-!!!Expansions of numerals in Sentences in texts:
+!!!Expansions of numerals in sentences in texts:
 
 * báhpaidrelašuvnnat sámiid birra ilbmagohte 1600 loguin
 ** ''guhttanuppelotčuohteloguin''
