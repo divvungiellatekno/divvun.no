@@ -1,9 +1,9 @@
-Infrequent consonant centres and candidate words
+This document is a list of the most infrequent consonant centres, and possible words to be added to the texts for recording.
 
-#This document is a list of the most infrequent consonant centres, and possible words to be added to the texts for recording.
-#The parentheses give the number of centres found in the text assembled so far.
-#For unit-selection synthesis, each combination should occur at least 3 times.
+The parentheses give the number of centres found in the text assembled so far.
+For unit-selection synthesis, each combination should occur at least 3 times.
 
+{{{
 c:c:    gaccun, gaccut, njaccui, ruccistit, giccui (3)
 dn:     eadnebealli, gudneáŋgir, ladnedoardna (3)
 
@@ -89,7 +89,6 @@ ln:n    suolnni (3)
 
 lnnj/lŋŋ: goalŋŋai, alŋŋa (3)
 ln:nj/lŋ:ŋ: jalŋŋis (3)
-
 
 l:lj:   duollji, šillju, viellja, gallji (3)
 
@@ -183,8 +182,7 @@ nž:ž:   bunžžuhit (3)
 
 rt:n:   gortnit, girtnut, vuortnun (3)
 
-r:dnj:  gardnjil, skurdjnát, goargŋut, gorgŋet (3)
-(r:gŋ)
+r:dnj(r:gŋ):  gardnjil, skurdjnát, goargŋut, gorgŋet (3)
 rdnj/rgŋ: skurdnje-sorta, gardnjil-lađas (3)
 rtnj:   goarkŋui, gorkŋodit, eartnjehas (3)
 rt:nj   skurtnjui, skurtnjun (3)
@@ -270,58 +268,52 @@ kst:    teakstabihttá, tákstareive (3)
 
 ŧŧ:     ruoŧŧa, muoŧŧá, ruŧŧii, muoŧŧái (3)
 ŧ:ŧ:    muoŧ:ŧái (3)
-
+}}}
 
 Infrequent onsets:
-
-sr: srubistit, srukta, sroba (3)
-sv: Svein, Sválla (3)
+{{{
+sr:  srubistit, srukta, sroba (3)
+sv:  Svein, Sválla (3)
 skr: skriidna, skrinet, skruvva (3)
-gl: glássa, gluovva, glottála (3)
-gn: gneaisa (3)
-bl: bliánta, bláđet, bláđđi (3)
-br: bráhkka, breahtta, bronsa, bruvsa (3)
-dr: dronnet, drámá (3)
-fl: flágga, flásku (3)
-kn: knáhppa, knáhppá, knihppet, kneakta (3)
+gl:  glássa, gluovva, glottála (3)
+gn:  gneaisa (3)
+bl:  bliánta, bláđet, bláđđi (3)
+br:  bráhkka, breahtta, bronsa, bruvsa (3)
+dr:  dronnet, drámá (3)
+fl:  flágga, flásku (3)
+kn:  knáhppa, knáhppá, knihppet, kneakta (3)
 
-sl: variant of šl-, not represented in text
+sl:  variant of šl-, not represented in text
 snj: variant of šnj-, not represented in text
+}}}
 
 Clusters in the Consonant margin:
-
-st: bonjastit, oamastit: more than 3
-ld: buđaldit, oaivvildit: more than 3
-sk: dájáskit, ealáskit, ovttaskas: more than 3
-lm: mihtilmas, vuorddálmas, čájálmas: 3
-lv: buozalvas: (mentioned in KN): (3)
-lg: jámálgit, gájálgit, deanjalgit (3)
-št: beroštit, gáđaštit, mátkkoštit (more than 3)
-rd: guokkardit, bulljardit, mulljardit, vizardit (more than 3)
-rs: vuobirsat (3)
-jm:manaimet, viegaimet (more than 3)
-jd:bohccuidan, mánáidan, gižaidit (more than 3)
-jg: mánáiguin, boraiga: (more than 3)
-jn:mánáinan, muitalusainis (3)
-sm: boarásmit, hejosmit (3)
-sl: dievaslaš, ollislaš (3)
-šl: bearašlaš, dárbbašlaš, dearvvašlaš (more than 3)
-tl: heahpatlaš, ustitlaš, geavatlaš (3)
-rm: sihkarmit, ealjármit (constructed for this purpose) (3)
+{{{
+st:  bonjastit, oamastit: more than 3
+ld:  buđaldit, oaivvildit: more than 3
+sk:  dájáskit, ealáskit, ovttaskas: more than 3
+lm:  mihtilmas, vuorddálmas, čájálmas: 3
+lv:  buozalvas: (mentioned in KN): (3)
+lg:  jámálgit, gájálgit, deanjalgit (3)
+št:  beroštit, gáđaštit, mátkkoštit (more than 3)
+rd:  guokkardit, bulljardit, mulljardit, vizardit (more than 3)
+rs:  vuobirsat (3)
+jm:  manaimet, viegaimet (more than 3)
+jd:  bohccuidan, mánáidan, gižaidit (more than 3)
+jg:  mánáiguin, boraiga: (more than 3)
+jn:  mánáinan, muitalusainis (3)
+sm:  boarásmit, hejosmit (3)
+sl:  dievaslaš, ollislaš (3)
+šl:  bearašlaš, dárbbašlaš, dearvvašlaš (more than 3)
+tl:  heahpatlaš, ustitlaš, geavatlaš (3)
+rm:  sihkarmit, ealjármit (constructed for this purpose) (3)
 
 jst: guoldduistit (variant of guolddustit) - not represented in text
+}}}
 
 Clusters in Word final position:
-
+{{{
 jn: more than 3
 jt: more than 3
 rs: vuobirs (3)
-
-
-
-
-
-
-
-
-
+}}}
