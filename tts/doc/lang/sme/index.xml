@@ -20,14 +20,13 @@
             <li><a href="Abbreviations,AccronymsAndNumbers.html">List of Abbreviations, Accronyms and Numbers</a></li>
             <li><a href="ConvertingLettersToWords.html">Converting Letters to Words</a></li>
             <li><a href="InfrequentConsonantCentres.html">Infrequent Consonant Centres</a></li>
-            <li/>
+            <li><a href="ConvertingAbbreviationsToWords.html">Converting Abbreviations to Words</a></li>
          </ul>
       </section>
       <section>
          <title>Technical documentation</title>
          <ul>
             <li><a href="PreprocessingArchitecture.html">Preprocessing Architecture</a></li>
-            <li/>
          </ul>
       </section>
       <section>
@@ -35,7 +34,6 @@
          <ul>
             <li><a href="ReadingInstructions.html">Reading Instructions</a> (English), <a
             href="reading_instructions.doc">Sámi version</a> (an MS Word document)</li>
-            <li/>
          </ul>
       </section>
    </body>
