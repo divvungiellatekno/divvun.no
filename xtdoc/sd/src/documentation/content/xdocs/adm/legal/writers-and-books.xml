@@ -64,7 +64,7 @@
 
           <td class="sign_publisher">17.03.2008</td>
 
-          <td class="sign_samiparl">09.03.2009</td>
+          <td class="sign_samiparl"></td>
 
           <td class="arch_numb"></td>
 
@@ -94,7 +94,7 @@
 
           <td class="sign_publisher">17.03.2008</td>
 
-          <td class="sign_samiparl">09.03.2009</td>
+          <td class="sign_samiparl"></td>
 
           <td class="arch_numb"></td>
 
@@ -124,7 +124,7 @@
 
           <td class="sign_publisher">17.03.2008</td>
 
-          <td class="sign_samiparl">09.03.2009</td>
+          <td class="sign_samiparl"></td>
 
           <td class="arch_numb"></td>
 
@@ -154,7 +154,7 @@
 
           <td class="sign_publisher">17.03.2008</td>
 
-          <td class="sign_samiparl">09.03.2009</td>
+          <td class="sign_samiparl"></td>
 
           <td class="arch_numb"></td>
 
@@ -184,7 +184,7 @@
 
           <td class="sign_publisher">17.03.2008</td>
 
-          <td class="sign_samiparl">09.03.2009</td>
+          <td class="sign_samiparl"></td>
 
           <td class="arch_numb"></td>
 
@@ -214,7 +214,7 @@
 
           <td class="sign_publisher">17.03.2008</td>
 
-          <td class="sign_samiparl">09.03.2009</td>
+          <td class="sign_samiparl"></td>
 
           <td class="arch_numb"></td>
 
@@ -245,9 +245,11 @@
 
           <td class="sign_publisher">17.03.2008</td>
 
-          <td class="sign_samiparl">09.03.2009</td>
+          <td class="sign_samiparl"></td>
 
           <td class="arch_numb"></td>
+
+          <td class="text_added_to_corp"></td>
         </tr>
 
         <tr>
@@ -276,6 +278,8 @@
           <td class="sign_samiparl"></td>
 
           <td class="arch_numb"></td>
+
+          <td class="text_added_to_corp"></td>
         </tr>
 
         <tr>
@@ -4870,19 +4874,19 @@
 
           <td class="Writer">Siri Broch Johansen</td>
 
-          <td class="translator"></td>
+          <td class="translator">x</td>
 
           <td class="language">Nordsamisk</td>
 
-          <td class="contact"></td>
+          <td class="contact">BG</td>
 
-          <td class="sent_contract"></td>
+          <td class="sent_contract">x</td>
 
-          <td class="sign_writ"></td>
+          <td class="sign_writ">2009-04-15</td>
 
           <td class="sign_trans"></td>
 
-          <td class="sign_publisher"></td>
+          <td class="sign_publisher">2009-03-17</td>
 
           <td class="sign_samiparl"></td>
 
@@ -5546,7 +5550,7 @@
 
           <td class="sent_contract">06.03.2009</td>
 
-          <td class="sign_writ">12.03.2009, AJ</td>
+          <td class="sign_writ">12.03.2009, AJ, 04.06.2009, ALD</td>
 
           <td class="sign_trans"></td>
 
@@ -5647,9 +5651,9 @@
 
           <td class="sign_publisher">2009-05-25</td>
 
-          <td class="sign_samiparl">Signature, Sami parliament</td>
+          <td class="sign_samiparl"></td>
 
-          <td class="arch_numb">Contract archive number, date</td>
+          <td class="arch_numb"></td>
 
           <td class="text_added_to_corp">081010</td>
         </tr>
@@ -5677,9 +5681,9 @@
 
           <td class="sign_publisher">2009-05-25</td>
 
-          <td class="sign_samiparl">Signature, Sami parliament</td>
+          <td class="sign_samiparl"></td>
 
-          <td class="arch_numb">Contract archive number, date</td>
+          <td class="arch_numb"></td>
 
           <td class="text_added_to_corp">081010</td>
         </tr>
