@@ -27,6 +27,7 @@
          <title>Technical documentation</title>
          <ul>
             <li><a href="PreprocessingArchitecture.html">Preprocessing Architecture</a></li>
+            <li><a href="MorphologicalAnalysis.html">Morphological Analysis</a></li>
          </ul>
       </section>
       <section>

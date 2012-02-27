@@ -1,0 +1,78 @@
+The goal is to use {{hfst-proc}} to take raw text in, tokenise and analyse the text, and spit out morphological analyses directly compatible with the CG stream format.
+
+!!!Pseudocode
+
+# start out with a regular descriptive transducer
+# make sure all spelling variants have their own variant tags - these are important to be able to retain round-trip consistency (we need to be able to generate exactly the same output as the given input, including spelling variants and misspellings - unknown words, including unknown misspellings, are a different story)
+# add sub-reading tags to separate sub-readings from main readings; the main usage is to encapsulate morphological tags from the stem after a derivational process, where the new morphological analysis from the derivation should be the only visible analysis
+# add weight to:
+## word boundaries
+## derivations
+## known misspellings
+## possibly other tags as well, in cases where they introduce irrelevant ambiguity (semantic tags, since the semantic disambiguation is overkill for IPA conversion - alternatively, remove these paths altogether)
+# move weight towards the end of the paths (to free them from the tags)
+# remove non-final tags, ie tags for the non-final word in a dynamic compound
+# insert TAB after lemma/before first tag
+# rename tags from plusses to spaces, to make them CG compatible
+# remove non-essential tags
+# output only the best analyses
+# until {{hfst-proc}} is updated, use a post-processing script to encapsulate the lemma in quotes
+
+!!!Test input
+
+{{{
+echo "Iđđes dii. 9 mun doapmalan čoaggit alitnásttiid álbmotmeahcis." | \
+  hfst-proc -C sme/bin/sme-ttsanalyser.hfstol | hfst-lookup2cg
+}}}
+
+__NOTE:__ {{hfst-lookup2cg}} is a temporary solution till hfst-proc is updated to produce exactly the syntax and format expected by CG.
+
+!!!Expected output
+
+{{{
+"<Iđđes>"
+	 "iđđes" Adv
+"<dii.>"
+	 "dii" N ABBR Nom
+	 "dii" N ABBR Acc
+	 "dii" N ABBR Attr
+	 "dii" N ABBR Gen
+"<9>"
+	 "9" Num Sg Gen
+	 "9" Num Sg Nom
+	 "9" Num Sg Acc
+"<mun>"
+	 "mun" Pron Pers Sg1 Nom
+"<doapmalan>"
+	 "doapmat" V* IV Der/l V PrfPrc
+	 "doapmalit" V IV Actio Gen
+	 "doapmat" V* IV Der/l V Actio Nom
+	 "doapmalit" V IV PrfPrc
+	 "doapmat" V* IV Der/l V Ind Prs Sg1
+	 "doapmalit" V IV Actio Nom
+	 "doapmalit" V IV Actio Acc
+	 "doapmat" V* IV Der/l V Actio Acc
+	 "doapmalit" V IV Ind Prs Sg1
+	 "doapmalit" V* IV Der/eapmi N Sg Gen
+	 "doapmat" V* IV Der/l V Actio Gen
+	 "doapmat" V* IV Der/l V* Der/eapmi N Sg Gen
+"<čoaggit>"
+	 "čoaggit" V TV Ind Prs Pl1
+	 "čoaggi" Hum N Actor Pl Nom
+	 "čoaggit" V* TV Actor N Pl Nom
+	 "čoaggit" V TV Imprt Pl2
+	 "čoaggit" V TV Inf
+"<alitnásttiid>"
+	 "alit#náste" N Pl Acc
+	 "alit#násti" Plant N Pl Gen
+	 "alit#násti" Plant N Pl Acc
+	 "alit#násti" Ani N Pl Gen
+	 "alit#náste" N Pl Gen
+	 "alit#násti" Ani N Pl Acc
+"<álbmotmeahcis>"
+	 "álbmot#meahcci" Plc N Sg Gen PxSg3
+	 "álbmot#meahcci" Plc N Sg Acc PxSg3
+	 "álbmot#meahcci" Plc N Sg Loc
+"<.>"
+	 "." CLB
+}}}
