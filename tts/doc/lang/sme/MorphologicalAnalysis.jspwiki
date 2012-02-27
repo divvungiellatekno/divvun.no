@@ -31,7 +31,13 @@ __NOTE:__ {{hfst-lookup2cg}} is a temporary solution until {{hfst-proc}} is upda
 
 !!!Expected output
 
+This is the output given by the Xerox {{lookup}} tool + the {{lookup2cg}} script. It should be used as a reference.
+
 {{{
+echo "Iđđes dii. 9 mun doapmalan čoaggit alitnásttiid álbmotmeahcis." | \
+  preprocess --abbr=sme/bin/abbr.txt | usme | lookup2cg | \
+  vislcg3 -g sme/src/sme-dis.rle
+
 "<Iđđes>"
 	 "iđđes" Adv
 "<dii.>"
