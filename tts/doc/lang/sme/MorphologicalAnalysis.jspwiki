@@ -31,7 +31,7 @@ __NOTE:__ {{hfst-lookup2cg}} is a temporary solution until {{hfst-proc}} is upda
 
 !!!Expected output
 
-This is the output given by the Xerox {{lookup}} tool + the {{lookup2cg}} script. It should be used as a reference.
+This is the output given by the Xerox {{lookup}} tool + the {{lookup2cg}} script. It should be used as a reference, although there will be differences, such as the handling of pre-derivational analysis tags. The expected output will be updated when those details are sorted out.
 
 {{{
 echo "Iđđes dii. 9 mun doapmalan čoaggit alitnásttiid álbmotmeahcis." | \
