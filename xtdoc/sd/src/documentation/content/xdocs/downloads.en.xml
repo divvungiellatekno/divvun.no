@@ -39,6 +39,12 @@
                <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20081231.dmg"><icon
                alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
                MacOS X, Divvun v1.1</a></li>
+               <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20071210.exe"><icon
+               alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+               Windows, Divvun v1.0</a> </li>
+               <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20071210.dmg"><icon
+               alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+               MacOS X, Divvun v1.0</a> </li>
             </ul>
          </section>
       </section>
@@ -60,7 +66,7 @@
             </ul>
          </section>
          <section>
-            <title>Divvun 2.0</title>
+            <title>Divvun 2.0 - 2010-12-08</title>
             <ul>
                <li>South Sámi version 1</li>
                <li>new installer</li>
@@ -75,7 +81,7 @@
             </ul>
          </section>
          <section>
-            <title>Divvun 1.0</title>
+            <title>Divvun 1.0 2007-12-12</title>
             <ul>
                <li>initial release</li>
             </ul>
