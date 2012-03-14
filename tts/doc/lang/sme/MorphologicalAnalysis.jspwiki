@@ -35,51 +35,50 @@ This is the output given by the Xerox {{lookup}} tool + the {{lookup2cg}} script
 
 {{{
 echo "Iđđes dii. 9 mun doapmalan čoaggit alitnásttiid álbmotmeahcis." | \
-  preprocess --abbr=sme/bin/abbr.txt | usme | lookup2cg | \
-  vislcg3 -g sme/src/sme-dis.rle
+  preprocess --abbr=sme/bin/abbr.txt | usme | lookup2cg | sort-cg-cohort.pl
 
 "<Iđđes>"
 	 "iđđes" Adv
 "<dii.>"
-	 "dii" N ABBR Nom
 	 "dii" N ABBR Acc
 	 "dii" N ABBR Attr
 	 "dii" N ABBR Gen
+	 "dii" N ABBR Nom
 "<9>"
+	 "9" Num Sg Acc
 	 "9" Num Sg Gen
 	 "9" Num Sg Nom
-	 "9" Num Sg Acc
 "<mun>"
 	 "mun" Pron Pers Sg1 Nom
 "<doapmalan>"
-	 "doapmat" V* IV Der/l V PrfPrc
-	 "doapmalit" V IV Actio Gen
-	 "doapmat" V* IV Der/l V Actio Nom
-	 "doapmalit" V IV PrfPrc
-	 "doapmat" V* IV Der/l V Ind Prs Sg1
-	 "doapmalit" V IV Actio Nom
 	 "doapmalit" V IV Actio Acc
-	 "doapmat" V* IV Der/l V Actio Acc
+	 "doapmalit" V IV Actio Gen
+	 "doapmalit" V IV Actio Nom
 	 "doapmalit" V IV Ind Prs Sg1
+	 "doapmalit" V IV PrfPrc
 	 "doapmalit" V* IV Der/eapmi N Sg Gen
+	 "doapmat" V* IV Der/l V Actio Acc
 	 "doapmat" V* IV Der/l V Actio Gen
+	 "doapmat" V* IV Der/l V Actio Nom
+	 "doapmat" V* IV Der/l V Ind Prs Sg1
+	 "doapmat" V* IV Der/l V PrfPrc
 	 "doapmat" V* IV Der/l V* Der/eapmi N Sg Gen
 "<čoaggit>"
-	 "čoaggit" V TV Ind Prs Pl1
 	 "čoaggi" Hum N Actor Pl Nom
-	 "čoaggit" V* TV Actor N Pl Nom
 	 "čoaggit" V TV Imprt Pl2
+	 "čoaggit" V TV Ind Prs Pl1
 	 "čoaggit" V TV Inf
+	 "čoaggit" V* TV Actor N Pl Nom
 "<alitnásttiid>"
 	 "alit#náste" N Pl Acc
-	 "alit#násti" Plant N Pl Gen
-	 "alit#násti" Plant N Pl Acc
-	 "alit#násti" Ani N Pl Gen
 	 "alit#náste" N Pl Gen
 	 "alit#násti" Ani N Pl Acc
+	 "alit#násti" Ani N Pl Gen
+	 "alit#násti" Plant N Pl Acc
+	 "alit#násti" Plant N Pl Gen
 "<álbmotmeahcis>"
-	 "álbmot#meahcci" Plc N Sg Gen PxSg3
 	 "álbmot#meahcci" Plc N Sg Acc PxSg3
+	 "álbmot#meahcci" Plc N Sg Gen PxSg3
 	 "álbmot#meahcci" Plc N Sg Loc
 "<.>"
 	 "." CLB
