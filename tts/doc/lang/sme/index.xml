@@ -28,6 +28,7 @@
          <ul>
             <li><a href="PreprocessingArchitecture.html">Preprocessing Architecture</a></li>
             <li><a href="MorphologicalAnalysis.html">Morphological Analysis</a></li>
+            <li><a href="UsingTheIpaGeneratingPipeline.html">Using the full IPA generating pipelline</a></li>
          </ul>
       </section>
       <section>
