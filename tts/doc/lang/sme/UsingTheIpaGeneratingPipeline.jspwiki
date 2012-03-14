@@ -65,3 +65,9 @@ Below is each command commented:
 * {{cut + grep}}
   - do some simple postprocessing to only get the generated wordforms (this
   should be added as an output option to {{hfst-lookup}})
+
+!!!Further work
+
+* replace the analysing transducer with a tailored speech synthesis transducer; the most important diff against the regular transducer is that most (all?) tags are included, to ensure round-trip stability
+* tune the disambiguation
+* replace the generating transducer with a real IPA transducer
