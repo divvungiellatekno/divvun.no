@@ -223,6 +223,28 @@
             </xsl:otherwise>
           </xsl:choose>
         </p>
+        <p>Speed as words/second (based on user+system time):
+        <strong>
+          <xsl:choose>
+            <xsl:when test="tool/@usertime = ''">No data available</xsl:when>
+            <xsl:when test="not(tool/@usertime)">No data available</xsl:when>
+            <xsl:otherwise>
+              <xsl:value-of select="format-number( $nrwords div (tool/@usertime + tool/@systime), '##.00' )"/>
+            </xsl:otherwise>
+          </xsl:choose>
+        </strong></p>
+        <p>Max memory usage of the speller
+           (max value of <code>/bin/ps -o rss= PID</code> sampled
+           every 10 second):
+        <strong>
+          <xsl:choose>
+            <xsl:when test="tool/@memoryusage = ''">No data available</xsl:when>
+            <xsl:when test="not(tool/@memoryusage)">No data available</xsl:when>
+            <xsl:otherwise>
+              <xsl:value-of select="format-number( tool/@memoryusage, '###,###' )"/> Kb
+            </xsl:otherwise>
+          </xsl:choose>
+        </strong></p>
       </section>
       <section>
         <title>Result summary</title>
