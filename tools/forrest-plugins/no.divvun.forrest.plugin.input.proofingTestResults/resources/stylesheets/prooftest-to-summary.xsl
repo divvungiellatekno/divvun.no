@@ -16,6 +16,8 @@
   <xsl:param name="toplimit">3</xsl:param>
   <xsl:param name="bugurl">http://giellatekno.uit.no/bugzilla/show_bug.cgi?id=</xsl:param>
 
+  <xsl:decimal-format decimal-separator="," grouping-separator=" "/>
+
   <xsl:key name="bugid" match="word" use="./bug"/>
 
   <xsl:template match="spelltestresult">
@@ -229,7 +231,9 @@
             <xsl:when test="tool/@usertime = ''">No data available</xsl:when>
             <xsl:when test="not(tool/@usertime)">No data available</xsl:when>
             <xsl:otherwise>
-              <xsl:value-of select="format-number( $nrwords div (tool/@usertime + tool/@systime), '##.00' )"/>
+              <xsl:value-of
+               select="format-number($nrwords div (tool/@usertime + tool/@systime),
+               '##,00')"/>
             </xsl:otherwise>
           </xsl:choose>
         </strong></p>
@@ -241,7 +245,7 @@
             <xsl:when test="tool/@memoryusage = ''">No data available</xsl:when>
             <xsl:when test="not(tool/@memoryusage)">No data available</xsl:when>
             <xsl:otherwise>
-              <xsl:value-of select="format-number( tool/@memoryusage, '###,###' )"/> Kb
+              <xsl:value-of select="format-number( tool/@memoryusage,'### ###')"/> Kb
             </xsl:otherwise>
           </xsl:choose>
         </strong></p>
@@ -249,10 +253,11 @@
       <section>
         <title>Result summary</title>
         <p>Nº of input words:
-        <strong><xsl:value-of select="$nrwords"/></strong></p>
+        <strong><xsl:value-of select="format-number($nrwords,'### ##0')"/></strong></p>
         <p>Nº of spelling errors:
         <strong><xsl:value-of select="$nrrealerr"/></strong> (<xsl:value-of
-                select="round(($nrrealerr div $nrwords) * 10000) div 100"/> % of all words)</p>
+                select="format-number($nrrealerr div $nrwords,'#0,0#%')"/>
+                of all words)</p>
 
         <table>
           <caption>Precision and Recall</caption>
@@ -264,40 +269,40 @@
           <tr>
             <td>Speller Positive<br/>
               (Nº of flagged words):<br/>
-              <strong><xsl:value-of select="$nrflaggedwords"/></strong></td>
+              <strong><xsl:value-of select="format-number($nrflaggedwords,'### ##0')"/></strong></td>
             <td>Speller Negative<br/>
               (Nº of accepted words):<br/>
-              <strong><xsl:value-of select="$nracceptwords"/></strong></td>
+              <strong><xsl:value-of select="format-number($nracceptwords,'### ##0')"/></strong></td>
             <th>All tokenisation<br/>
               errors:<br/>
-              <strong><xsl:value-of select="$TokErrSpellErr + $TokErrSpellCor"/></strong></th>
+              <strong><xsl:value-of select="format-number($TokErrSpellErr + $TokErrSpellCor,'### ##0')"/></strong></th>
           </tr>
           <tr>
             <th rowspan="2">Reality</th>
             <td>Nº of real errors:<br/>
-              <strong><xsl:value-of select="$nrrealerr"/></strong></td>
+              <strong><xsl:value-of select="format-number($nrrealerr,'### ##0')"/></strong></td>
             <td>Nº of true positives<br/>
               (detected real errors):<br/>
-              <strong><xsl:value-of select="$truepositive"/></strong></td>
+              <strong><xsl:value-of select="format-number($truepositive,'### ##0')"/></strong></td>
             <td>Nº of false negatives<br/>
               (unflagged spelling errors):<br/>
-              <strong><xsl:value-of select="$falsenegative"/></strong></td>
+              <strong><xsl:value-of select="format-number($falsenegative,'### ##0')"/></strong></td>
             <td>Nº of errouneously<br/>
               tokenized spelling errors:<br/>
-              <strong><xsl:value-of select="$TokErrSpellErr"/></strong></td>
+              <strong><xsl:value-of select="format-number($TokErrSpellErr,'### ##0')"/></strong></td>
           </tr>
           <tr>
             <td>Nº of real correct words:<br/>
-              <strong><xsl:value-of select="$nrrealcorr"/></strong></td>
+              <strong><xsl:value-of select="format-number($nrrealcorr,'### ##0')"/></strong></td>
             <td>Nº of false positives<br/>
               (incorrectly flagged words):<br/>
-              <strong><xsl:value-of select="$falsepositive"/></strong></td>
+              <strong><xsl:value-of select="format-number($falsepositive,'### ##0')"/></strong></td>
             <td>Nº of true negatives<br/>
               (unflagged correct words):<br/>
-              <strong><xsl:value-of select="$truenegative"/></strong></td>
+              <strong><xsl:value-of select="format-number($truenegative,'### ##0')"/></strong></td>
             <td>Nº of errouneously<br/>
               tokenized correct words:<br/>
-              <strong><xsl:value-of select="$TokErrSpellCor"/></strong></td>
+              <strong><xsl:value-of select="format-number($TokErrSpellCor,'### ##0')"/></strong></td>
           </tr>
         </table>
 
@@ -308,20 +313,20 @@
           <strong>NOT</strong> include this/these word(s).</p>
         </xsl:if>
 
-        <dl>
-          <dt>Precision (tp/(tp+fp)):</dt>
-            <dd><xsl:value-of select="round($precision * 10000) div 100"/> %</dd>
-          <dt>Recall (tp/(tp+fn)):</dt>
-            <dd><xsl:value-of select="round($recall * 10000) div 100"/> %</dd>
-          <dt>Accuracy ((tp+tn)/words):</dt>
-            <dd><xsl:value-of select="round($accuracy * 10000) div 100"/> %</dd>
-        </dl>
+        <p>
+          <strong>Precision</strong> (tp/(tp+fp)):
+          <strong><xsl:value-of select="format-number($precision,'#0,0#%')"/></strong><br/>
+          <strong>Recall</strong> (tp/(tp+fn)):
+          <strong><xsl:value-of select="format-number($recall,'#0,0#%')"/></strong><br/>
+          <strong>Accuracy</strong> ((tp+tn)/words):
+          <strong><xsl:value-of select="format-number($accuracy,'#0,0#%')"/></strong>
+        </p>
 
         <table>
           <caption>Suggestion &amp; Spelling error statistics</caption>
           <tr>
             <td colspan="2" rowspan="2"> </td>
-            <th colspan="3">Spelling errors: <xsl:value-of select="$nrrealerr"/></th>
+            <th colspan="3">Spelling errors: <xsl:value-of select="format-number($nrrealerr,'### ##0')"/></th>
           </tr>
           <tr>
             <th>Simple errors<br/>
@@ -332,14 +337,14 @@
                 distance ≥3:</th>
           </tr>
           <tr>
-            <th colspan="2">Suggestion statistics for true positives (tp =
-                <xsl:value-of select="$truepositive"/> = 100%):</th>
-            <td><xsl:value-of select="$editdist1"/>
-                (<xsl:value-of select="round(($editdist1 div $nrrealerr) * 10000) div 100"/> %)</td>
-            <td><xsl:value-of select="$editdist2"/>
-                (<xsl:value-of select="round(($editdist2 div $nrrealerr) * 10000) div 100"/> %)</td>
-            <td><xsl:value-of select="$editdist3"/>
-                (<xsl:value-of select="round(($editdist3 div $nrrealerr) * 10000) div 100"/> %)</td>
+            <th colspan="2">Suggestion statistics for true positives (=
+                <xsl:value-of  select="format-number($truepositive,'### ##0')"/> = 100%):</th>
+            <td><xsl:value-of  select="format-number($editdist1,'### ##0')"/>
+                (<xsl:value-of select="format-number($editdist1 div $nrrealerr,'#0,0#%')"/>)</td>
+            <td><xsl:value-of  select="format-number($editdist2,'### ##0')"/>
+                (<xsl:value-of select="format-number($editdist2 div $nrrealerr,'#0,0#%')"/>)</td>
+            <td><xsl:value-of  select="format-number($editdist3,'### ##0')"/>
+                (<xsl:value-of select="format-number($editdist3 div $nrrealerr,'#0,0#%')"/>)</td>
           </tr>
           <tr>
             <td>Nº of detected spelling errors with <span class="correct">correct
