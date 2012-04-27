@@ -8,8 +8,9 @@
    <body>
       <p>The Divvun tools for InDesign has earlier only supported InDesign CS3 due to lack of support for newer versions
       of InDesign from our subcontractor. But with the release of CS5.5, InDesign supports the same proofing tools as
-      OpenOffice, which Divvun has supported in a Beta version for many years. This also means that we will be able to
-      support Windows users of InDesign.</p>
+      OpenOffice, which Divvun has supported in a Beta version for many years. The Divvun group will thus start using
+      the OpenOffice/LibreOffice tools for InDesign. This also means that we will be able to support InDesign running on
+      Windows.</p>
       <p>Below you will find installation instructions for both InDesign CS3 and InDesign CS5.5. CS4 and CS5 are not
       supported, and will never be. Support for CS6 is probably the same as for CS5.5, but has not yet been tested or
       documented.</p>
@@ -19,7 +20,7 @@
          tools for MS Office. There is a <a href="/doc/proof/hyph/MSOff/index.html">separate page</a> documenting how
          the hyphenation works.</p>
          <p>Proofing tools for InDesign CS3 are provided for both North, Lule and South Sámi. They work only with the
-         Macintosh version of InDesign. They require InDesign CS3 - nothing newer, nothing older.</p>
+         Macintosh version of InDesign. They require InDesign CS3.</p>
          <section>
             <title>Download and installation</title>
             <p>The latest version is always available here: <a
@@ -89,7 +90,7 @@ Polderland</source>
             CS5.5, follow these steps:</p>
             <ul>
                <li>download the <a href="http://divvun.no/static_files/smi.zip">Hunspell package</a></li>
-               <li>double click the zip file</li>
+               <li>double click the zip file you just downloaded</li>
                <li>follow <a
                href="http://blogs.adobe.com/typblography/2011/11/how-to-enable-more-languages-in-indesign-cs5-5.html">these
                instructions</a> with the following modifications/additions:<ul>
