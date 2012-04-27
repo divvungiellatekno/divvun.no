@@ -8,10 +8,11 @@
    <body>
       <p>The Divvun tools for InDesign has earlier only supported InDesign CS3 due to lack of support for newer versions
       of InDesign from our subcontractor. But with the release of CS5.5, InDesign supports the same proofing tools as
-      OpenOffice, which Divvun has supported in a Beta version for many years. This also means that we will support
-      Windows users the same as we support Mac users, as the proofing tools are exactly the same.</p>
-      <p>Below you will find installation instructions for both InDesign CS3 and InDesign CS5.5. CS4 and CS5 is not
-      supported, and will never be supported.</p>
+      OpenOffice, which Divvun has supported in a Beta version for many years. This also means that we will be able to
+      support Windows users of InDesign.</p>
+      <p>Below you will find installation instructions for both InDesign CS3 and InDesign CS5.5. CS4 and CS5 are not
+      supported, and will never be. Support for CS6 is probably the same as for CS5.5, but has not yet been tested or
+      documented.</p>
       <section>
          <title>InDesign CS3</title>
          <p>The InDesign CS3 proofing tools components are built on the same technology and architecture as the proofing
@@ -23,56 +24,51 @@
             <title>Download and installation</title>
             <p>The latest version is always available here: <a
             href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">www.divvun.no/static_files/indesign-divvuntools.dmg</a>.</p>
-            <section>
-               <title>Installation</title>
-               <p>In the instructions below, the text <code>&lt;InDesignFolder&gt;</code> refers to the folder
-               containing the installed InDesign application, usually <code>/Applications/Adobe InDesign
-               CS3/</code>.</p>
-               <ol>
-                  <li>The downloaded <code>.dmg</code> file should automatically open in a new window - if not,
-                  double-click the <code>.dmg</code> file.</li>
-                  <li>Copy the following files to the <code>&lt;InDesignFolder&gt;/Plug-Ins/</code> folder — an alias to
-                  that folder is provided, just drag and drop the plug-ins on the alias:<ul>
-                        <li><code>PldHypSamiLule.InDesignPlugin</code></li>
-                        <li><code>PldHypSamiNorthern.InDesignPlugin</code></li>
-                        <li><code>PldSplSamiLule.InDesignPlugin</code></li>
-                        <li><code>PldSplSamiNorthern.InDesignPlugin</code></li>
-                     </ul></li>
-                  <li>Copy the folder <code>Polderland</code> to the
-                  <code>&lt;InDesignFolder&gt;/Plug-Ins/Dictionaries/</code> folder. An alias is also provided for this
-                  folder, just drag and drop.</li>
-               </ol>
-               <p>That's it!</p>
-            </section>
-            <section>
-               <title>Upgrading from an earlier version</title>
-               <p>Simply follow the installation instructions above, and replace the old files with the new ones when
-               asked. If it doesn't work, first deinstall (see the next point), then install anew.</p>
-            </section>
-            <section>
-               <title>Deinstallation</title>
-               <p>Just move the installed files and folder to the thrash.</p>
-            </section>
-            <section>
-               <title>Technical requirements</title>
-               <p>The InDesign proofing tools modules have the following requirements:</p>
-               <ul>
-                  <li>InDesign CS3</li>
-                  <li>MacOS X 10.4.8 or newer</li>
-               </ul>
-            </section>
-            <section>
-               <title>Known issues</title>
-               <p>There is <a href="issues.html">a separate page with FAQ, known issues, and suggestions for
-               work-arounds</a>.</p>
-            </section>
+            <ol>
+               <li>After download, open the dmg file. You should see the following window (or something close to it):
+               <img alt="divvun-DMG" src="img/divvun-dmg.png"/></li>
+               <li>Open the installation package (double-click it), and follow the instructions: <img
+               alt="Divvun installer" src="img/divvun-installer.png"/></li>
+               <li>Quit and restart InDesign if it was running. That's it!</li>
+            </ol>
+         </section>
+         <section>
+            <title>Upgrading from an earlier version</title>
+            <p>Just install atop an existing installation by following the instructions above.</p>
+         </section>
+         <section>
+            <title>Deinstallation/removal</title>
+            <p>Manually move the following files and folder to the thrash:</p>
+            <source>In the folder: /Applications/Adobe InDesign CS3/Plug-Ins/
+
+delete the following files:
+
+PldHypSamiLule.InDesignPlugin
+PldHypSamiNorthern.InDesignPlugin
+PldHypSamiSouthern.InDesignPlugin
+PldSplSamiLule.InDesignPlugin
+PldSplSamiNorthern.InDesignPlugin
+PldSplSamiSouthern.InDesignPlugin
+
+In the folder: /Applications/Adobe InDesign CS3/Plug-Ins/Dictionaries/
+
+delete the following folder and all its contents:
+
+Polderland</source>
+         </section>
+         <section>
+            <title>Technical requirements</title>
+            <p>The InDesign proofing tools modules have the following requirements:</p>
+            <ul>
+               <li>InDesign CS3</li>
+               <li>MacOS X 10.4.8 or newer</li>
+            </ul>
          </section>
       </section>
       <section>
          <title>InDesign CS5.5</title>
-         <note>The InDesign CS5.5 support is in alpha stage at the moment. There are some issues with commpounds in the
-         speller, we have no hyphenator, and there is no automatic installer. A full release is planned for April
-         1.</note>
+         <note>The InDesign CS5.5 support is in beta stage at the moment. There are some issues with the speller, and
+         the hyphenator is known to be bad at hyphenating compounds. A beta release is planned for May 1.</note>
          <p>To install Divvun for InDesign CS5.5, follow these steps:</p>
          <ul>
             <li>download the <a href="http://divvun.no/static_files/smi.zip">Hunspell package</a></li>
@@ -87,6 +83,11 @@
                   <code>root:admin</code>, and <code>read-only</code> for all.</li>
                </ul></li>
          </ul>
+      </section>
+      <section>
+         <title>Known issues</title>
+         <p>There is <a href="issues.html">a separate page with FAQ, known issues, and suggestions for
+         work-arounds</a>.</p>
       </section>
       <section>
          <title>Usage</title>
