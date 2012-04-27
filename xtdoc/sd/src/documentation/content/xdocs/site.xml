@@ -26,7 +26,7 @@
 		</leaflet>
 		<indesign label="Adobe InDesign" href="indesign/">
 			<install_and_use description="Adobe InDesign Installation" href="index.html" label="Installation and Use" />
-			<known_issues description="Adobe InDesign Known Issues" href="issues.html" label="Known issues" />
+			<known_issues description="Adobe InDesign Known Issues" href="KnownIssues.html" label="Known issues" />
 		</indesign>
 		<hunspell label="Hunspell" href="X-spell/">
 			<ooo description="OpenOffice.org" href="install_use_OOo3x.html" label="OpenOffice.org" />

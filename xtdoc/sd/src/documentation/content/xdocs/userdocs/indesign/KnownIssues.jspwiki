@@ -18,10 +18,6 @@ Desse versjonane av InDesign er ikkje støtta av Divvun
 
 !!!InDesign CS5.5
 
-InDesign CS5.5 og nyare kan bruka dei same rettskrivingsverktya som OpenOffice/LibreOffice, dvs Hunspell-stavekontroll og -orddeling. Vi har no eksperimentell støtte frå Divvun, og vi arbeider med å gjera støtta permanent og med full produksjonskvalitet. Her er nokre saker som det kan vera nyttig å vita for Divvun-brukarar:
-
-* __avinstallering på Mac:__ manuell inntil vidare, fylg instruksjonane [her|http://blogs.adobe.com/typblography/2011/11/how-to-enable-more-languages-in-indesign-cs5-5.html] i slutten av seksjonen med overskrifta "Method Two: Hunspell dictionary". Vi vil prøva å laga ein avinstallerar seinare.
-* __Windows:__ manuell installering og avinstallering, sjå lenka i det førre punktet.
 * __feilmerking før utropsteikn og spørjeteikn:__ korrekt skrivne ord blir merkte som feilskrivne når det kjem eit utropsteikn eller spørjeteikn rett etter. Dette er ein feil i InDesign, og gjeld alle språk som bruker Hunspell. Du kan delvis __kringgå__ problemet ved å setja inn eit mellomrom mellom ordet og utropsteiknet/spørjeteiknet - om raudstreken forsvinn er ordet rett skrive, og du kan ta vekk mellomrommet igjen. Dette er sjølvsagt ikkje ei fullverdig løysing, men feilen må rettast av Adobe. Feilen er rapportert til dei.
 
 !!!InDesign CS6
