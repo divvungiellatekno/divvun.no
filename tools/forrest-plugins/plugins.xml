@@ -68,6 +68,20 @@
     <forrestVersion>0.9</forrestVersion>
   </plugin>
 
+  <plugin name="no.uit.divvun.forrestplugin.output.slidy"
+        type="output"
+        author="Divvun team @University of Tromsø"
+        website="http://forrest.apache.org/pluginDocs/plugins_0_80/no.uit.divvun.forrestplugin.output.slidy/"
+        url="http://forrest.apache.org/plugins/"
+        publish="false"
+        version="0.1">
+    <description>
+      Present XDocs as HTML Slidy presentations.
+    </description>
+    <forrestVersionInitial>0.9</forrestVersionInitial>
+    <forrestVersion>0.9</forrestVersion>
+  </plugin>
+
 <!-- ================================================================== -->
 <!-- Internal Plugins                                                   -->
 <!-- ================================================================== -->

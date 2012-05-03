@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<!--
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+
+  <!-- ============================================================ -->
+  <!-- HTML Slidy Plugin                                            -->
+  <!-- This plugin provides an HTML Slidy view of XDocs files.      -->
+  <!--                                                              -->
+  <!-- ============================================================ -->
+
+<map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
+  <map:pipelines>
+    <map:pipeline>
+
+      <map:match pattern="slidy/**.html">
+        <map:generate src="cocoon://{1}.xml"/>
+        <map:transform src="{lm:slidy.transform.document.slidy}"/>
+        <map:serialize type="html"/>
+      </map:match>  
+      <map:match pattern="**/slidy/**.html">
+        <map:generate src="cocoon://{1}/{2}.xml"/>
+        <map:transform src="{lm:slidy.transform.document.slidy}"/>
+        <map:serialize type="html"/>
+      </map:match>  
+
+      <map:match pattern="slidy/**.js">
+        <map:read src="{lm:slidy.js.{1}}" mime-type="text/javascript" />
+      </map:match>  
+      <map:match pattern="**/slidy/**.js">
+        <map:read src="{lm:slidy.js.{2}}" mime-type="text/javascript" />
+      </map:match>  
+      
+      <map:match pattern="slidy/**.css">
+        <map:read src="{lm:slidy.css.{1}}" mime-type="text/css"/>
+      </map:match>  
+      <map:match pattern="**/slidy/**.css">
+        <map:read src="{lm:slidy.css.{2}}" mime-type="text/css"/>
+      </map:match>  
+
+      <map:match pattern="slidy/**.gif">
+        <map:read src="{lm:slidy.gif.{1}}" mime-type="image/gif"/>
+      </map:match>    
+      <map:match pattern="**/slidy/**.gif">
+        <map:read src="{lm:slidy.gif.{2}}" mime-type="image/gif"/>
+      </map:match>
+      
+      <map:match pattern="slidy/**.png">
+        <map:read src="{lm:slidy.png.root|{1}}" mime-type="image/png"/>
+      </map:match>    
+      <map:match pattern="**/slidy/**.png">
+        <map:read src="{lm:slidy.png.{1}|{2}}" mime-type="image/png"/>
+      </map:match>
+      
+      <map:match pattern="slidy/**.jpg">
+        <map:read src="{lm:slidy.jpg.{1}}" mime-type="image/jpeg"/>
+      </map:match>    
+      <map:match pattern="**/slidy/**.jpg">
+        <map:read src="{lm:slidy.jpg.{2}}" mime-type="image/jpeg"/>
+      </map:match>
+      
+      <map:match pattern="slidy/**.bmp">
+        <map:read src="{lm:slidy.bmp.{1}}" mime-type="image/x-ms-bmp"/>
+      </map:match>    
+      <map:match pattern="**/slidy/**.bmp">
+        <map:read src="{lm:slidy.bmp.{2}}" mime-type="image/x-ms-bmp"/>
+      </map:match>
+      
+      <map:match pattern="slidy/**.svg">
+        <map:read src="{lm:slidy.svg.{1}}" mime-type="image/svg+xml"/>
+      </map:match>    
+      <map:match pattern="**/slidy/**.svg">
+        <map:read src="{lm:slidy.svg.{2}}" mime-type="image/svg+xml"/>
+      </map:match>
+      
+    </map:pipeline>
+  </map:pipelines>
+</map:sitemap>
