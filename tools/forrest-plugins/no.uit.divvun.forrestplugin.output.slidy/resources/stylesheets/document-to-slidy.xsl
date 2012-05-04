@@ -35,18 +35,6 @@ Credit: original from the jakarta-avalon project
       </html>
     </xsl:template>
     
-    <xsl:template match="body">
-      <body>
-        <div class="background"> 
-          <img id="head-icon" alt="graphic with four colored squares" src="icon-blue.png" /> 
-          <object id="head-logo" title="Vector graphic logo" data="w3c-logo-white.svg" type="image/svg+xml">
-            <img id="head-logo-fallback" alt="Fallback logo" src="w3c-logo-white.gif" />
-          </object>
-        </div>
-        <xsl:apply-templates/>
-      </body>
-  </xsl:template>
-  
   <xsl:template match="header">
     <head>
       <title><xsl:value-of select="title"/></title>
@@ -57,6 +45,18 @@ Credit: original from the jakarta-avalon project
       <link rel="stylesheet" type="text/css" media="screen, projection, print" href="w3c-blue.css" />
       <script src="slidy.js" type="text/javascript" charset="utf-8"></script>
     </head>  
+  </xsl:template>
+  
+  <xsl:template match="body">
+    <body>
+      <div class="background"> 
+        <img id="head-icon" alt="graphic with four colored squares" src="icon-blue.png" /> 
+        <object id="head-logo" title="Vector graphic logo" data="logo-white.svg" type="image/svg+xml">
+          <img id="head-logo-fallback" alt="Fallback logo" src="logo-white.png" />
+        </object>
+      </div>
+      <xsl:apply-templates/>
+    </body>
   </xsl:template>
   
   <!-- Cover slide-->
@@ -74,7 +74,7 @@ Credit: original from the jakarta-avalon project
        <img class="hidden" src="bullet-fold-dim.gif" alt="" />
        <img class="hidden" src="bullet-nofold-dim.gif" alt="" />
        <img class="hidden" src="bullet-unfold-dim.gif" alt="" />
-       <img class="cover"  src="CoverImage.jpg" alt="Cover page image" />
+       <img class="cover"  src="logo-white.png" alt="Cover page image" />
       <br clear="all" />
       <h1><xsl:value-of select="title"/></h1>
       <xsl:for-each select="//document/header/authors/person">
