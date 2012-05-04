@@ -60,7 +60,7 @@ Credit: original from the jakarta-avalon project
   </xsl:template>
   
   <!-- Cover slide-->
-  <xsl:template match="section[1]">
+  <xsl:template match="body/section[1]">
     <div class="slide cover title">
       <!-- hidden style graphics to ensure they are saved with other content -->
        <img class="hidden" src="bullet.png" alt="" />
@@ -83,15 +83,49 @@ Credit: original from the jakarta-avalon project
       <xsl:apply-templates/>
     </div>
   </xsl:template>
-  
-  <xsl:template match="section">
+
+  <!-- Regular top level section slide: -->
+  <xsl:template match="body/section[position() != 1]">
     <div class="slide">
+      <h4><xsl:value-of select="//body/section[1]/title"/></h4>
+      <h1><xsl:value-of select="title"/></h1>
+      <xsl:apply-templates select="*[name() != 'section']"/>
+    </div>
+    <xsl:apply-templates select="section"/>
+  </xsl:template>
+
+  <!-- Second level section slide: -->
+  <xsl:template match="body/section/section">
+    <div class="slide">
+      <h4><xsl:value-of select="//body/section[1]/title"/></h4>
+      <h2><xsl:value-of select="../title"/></h2>
+      <h1><xsl:value-of select="title"/></h1>
+      <xsl:apply-templates select="*[name() != 'section']"/>
+    </div>
+    <xsl:apply-templates select="section"/>
+  </xsl:template>
+
+  <!-- Third level section slide: -->
+  <xsl:template match="body/section/section/section">
+    <div class="slide">
+      <h4><xsl:value-of select="//body/section[1]/title"/></h4>
+      <h3><xsl:value-of select="../../title"/></h3>
+      <h2><xsl:value-of select="../title"/></h2>
       <h1><xsl:value-of select="title"/></h1>
       <xsl:apply-templates/>
     </div>
   </xsl:template>
 
-  <!-- Block adding 'slides/' for regular images by moving one level up:      -->
+  <!-- Ordered lists are displayed incrementally (as unordered lists): -->
+  <xsl:template match="ol">
+    <ul class="incremental">
+      <xsl:apply-templates/>
+    </ul>
+  </xsl:template>
+    
+  <!-- Since every URL in the Slidy plugin is "moved" down into the slidy/
+       sub-URL, we have to move one step up to get the correct path for regular
+       images:    -->
   <xsl:template match="img">
     <img src="{concat('../',@src)}" alt="@alt"/>
   </xsl:template>
