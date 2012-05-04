@@ -533,7 +533,9 @@ div.slide.cover a:hover, div.slide.cover a:active {
 div.slide.cover img.cover {
    margin: 0 0 0 0;
    float: right;
-   padding-bottom: 4em;
+   padding-top: 0.5em;
+   padding-right: 0.5em;
+   padding-bottom: 2em;
    width: 40%;
    overflow: hidden;
 }
