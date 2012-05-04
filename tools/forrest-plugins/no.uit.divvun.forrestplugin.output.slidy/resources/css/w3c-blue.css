@@ -102,33 +102,48 @@ div.slide h1 a:active {
   text-decoration: underline;
 }
 
+div.slide h2 {
+  padding-left: 3em;
+  padding-right: 3em;
+  padding-top: 0.1em;
+  margin-bottom: 0.2em;
+  margin-top: -0.05em;
+  margin-left: 0;
+  margin-right: 0;
+  min-height: 1.1em;
+  color: #eee;
+  height: 1.1em;
+  font-size: 70%;
+  line-height: 1.1em;
+}
+
+div.slide h3 {
+  padding-left: 2em;
+  padding-right: 3em;
+  padding-top: 0.1em;
+  margin-bottom: 0.2em;
+  margin-top: -0.05em;
+  margin-left: 0;
+  margin-right: 0;
+  min-height: 1.1em;
+  color: #ddd;
+  height: 1.1em;
+  font-size: 60%;
+  line-height: 1.1em;
+}
+
 div.slide h4 {
   padding-left: 1.5em;
   padding-right: 3em;
   padding-top: 0.1em;
-  margin-bottom: 0.8em;
+  margin-bottom: 0.2em;
   margin-top: -0.05em;
   margin-left: 0;
   margin-right: 0;
-  min-height: 2.3em;
+  min-height: 1.1em;
   color: #ccc;
-  height: 1.2em;
+  height: 1.1em;
   font-size: 50%;
-  line-height: 1.1em;
-}
-
-div.slide h2 {
-  padding-left: 2em;
-  padding-right: 3em;
-  padding-top: 0.1em;
-  margin-bottom: 0.8em;
-  margin-top: -0.05em;
-  margin-left: 0;
-  margin-right: 0;
-  min-height: 2.3em;
-  color: #eee;
-  height: 1.2em;
-  font-size: 80%;
   line-height: 1.1em;
 }
 
