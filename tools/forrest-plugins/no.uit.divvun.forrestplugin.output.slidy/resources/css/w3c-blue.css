@@ -102,6 +102,36 @@ div.slide h1 a:active {
   text-decoration: underline;
 }
 
+div.slide h4 {
+  padding-left: 1.5em;
+  padding-right: 3em;
+  padding-top: 0.1em;
+  margin-bottom: 0.8em;
+  margin-top: -0.05em;
+  margin-left: 0;
+  margin-right: 0;
+  min-height: 2.3em;
+  color: #ccc;
+  height: 1.2em;
+  font-size: 50%;
+  line-height: 1.1em;
+}
+
+div.slide h2 {
+  padding-left: 2em;
+  padding-right: 3em;
+  padding-top: 0.1em;
+  margin-bottom: 0.8em;
+  margin-top: -0.05em;
+  margin-left: 0;
+  margin-right: 0;
+  min-height: 2.3em;
+  color: #eee;
+  height: 1.2em;
+  font-size: 80%;
+  line-height: 1.1em;
+}
+
 #head-icon {
   margin-top: 0.5em;
   margin-bottom: 0;
@@ -113,6 +143,7 @@ div.slide h1 a:active {
   max-width: 3em;
   z-index: 2;
   float: left;
+  visibility: hidden;
 }
 
 #head-logo {
@@ -133,7 +164,7 @@ div.slide h1 a:active {
   margin: 0;
   padding: 0;
   margin-top: -0.8em;
-  width: 4.8em;
+  width: 4.2em;
   float: right;
   z-index: 2;
 }
