@@ -148,10 +148,14 @@ div.slide h4 {
 }
 
 div.slide table {
-  width: 90%;
+  width: 93%;
+  border-collapse: collapse;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
-div.slide td {
+div.slide td,
+div.slide th {
   border: 2px solid gray;
 }
 
