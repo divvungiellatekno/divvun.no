@@ -147,6 +147,14 @@ div.slide h4 {
   line-height: 1.1em;
 }
 
+div.slide table {
+  width: 90%;
+}
+
+div.slide td {
+  border: 2px solid gray;
+}
+
 #head-icon {
   margin-top: 0.5em;
   margin-bottom: 0;

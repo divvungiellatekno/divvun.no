@@ -123,6 +123,15 @@ Credit: original from the jakarta-avalon project
     </ul>
   </xsl:template>
     
+  <!-- Ordered lists are displayed incrementally (as unordered lists): -->
+  <xsl:template match="table">
+    <div class="hbox">
+      <table>
+        <xsl:apply-templates/>
+      </table>
+    </div>
+  </xsl:template>
+    
   <!-- Since every URL in the Slidy plugin is "moved" down into the slidy/
        sub-URL, we have to move one step up to get the correct path for regular
        images:    -->
