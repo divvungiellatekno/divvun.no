@@ -39,8 +39,8 @@ Credit: original from the jakarta-avalon project
       <body>
         <div class="background"> 
           <img id="head-icon" alt="graphic with four colored squares" src="icon-blue.png" /> 
-          <object id="head-logo" title="W3C logo" type="image/svg+xml" data="w3c-logo-white.svg">
-            <img src="w3c-logo-white.gif" alt="W3C logo" id="head-logo-fallback" />
+          <object id="head-logo" title="Vector graphic logo" data="w3c-logo-white.svg" type="image/svg+xml">
+            <img id="head-logo-fallback" alt="Fallback logo" src="w3c-logo-white.gif" />
           </object>
         </div>
         <xsl:apply-templates/>
@@ -50,8 +50,8 @@ Credit: original from the jakarta-avalon project
   <xsl:template match="header">
     <head>
       <title><xsl:value-of select="title"/></title>
-      <meta name="version" content="Apache Forrest HTML Slidy Plugin 0.1" />
-      <meta name="copyright" content="Copyright &#169; 2012 Sjur Nørstebø Moshagen @ Univ. of Tromsø" />
+      <meta name="version" content="Apache Forrest HTML Slidy Plugin 0.1, based on W3C Slidy2" />
+      <meta name="copyright" content="Copyright &#169; 2012 University of Tromsø" />
       <meta name="duration" content="45" />
       <link rel="stylesheet" type="text/css" media="screen, projection, print" href="slidy.css" />
       <link rel="stylesheet" type="text/css" media="screen, projection, print" href="w3c-blue.css" />
@@ -74,7 +74,7 @@ Credit: original from the jakarta-avalon project
        <img class="hidden" src="bullet-fold-dim.gif" alt="" />
        <img class="hidden" src="bullet-nofold-dim.gif" alt="" />
        <img class="hidden" src="bullet-unfold-dim.gif" alt="" />
-       <img class="cover"  src="keys2.jpg" alt="Cover page images (keys)" />
+       <img class="cover"  src="CoverImage.jpg" alt="Cover page image" />
       <br clear="all" />
       <h1><xsl:value-of select="title"/></h1>
       <xsl:for-each select="//document/header/authors/person">
@@ -92,9 +92,7 @@ Credit: original from the jakarta-avalon project
   </xsl:template>
 
   <!-- Block adding 'slides/' for regular images by moving one level up:      -->
-  <!-- NB! It might be necessary to test for other parent elements as well.   -->
-  <!-- The present match only save images within p's - not a general solution -->
-  <xsl:template match="p/img">
+  <xsl:template match="img">
     <img src="{concat('../',@src)}" alt="@alt"/>
   </xsl:template>
     

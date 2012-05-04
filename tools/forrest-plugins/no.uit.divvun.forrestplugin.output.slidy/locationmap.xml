@@ -51,11 +51,9 @@
       <location src="{forrest:forrest.plugins}/no.uit.divvun.forrestplugin.output.slidy/resources/images/{1}.gif"/>
     </match>
 
-    <match pattern="slidy.png.**|**">
+    <match pattern="slidy.png.**">
       <select>
         <location src="resources/images/{2}.png" />
-        <location src="{properties:content.xdocs}{2}" />
-        <location src="{properties:content.xdocs}{1}/{2}" />
         <location src="{forrest:forrest.plugins}/no.uit.divvun.forrestplugin.output.slidy/resources/images/{2}.png"/>
       </select>
     </match>

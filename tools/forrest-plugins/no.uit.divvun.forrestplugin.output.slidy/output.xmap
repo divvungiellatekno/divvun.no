@@ -59,10 +59,10 @@
       </map:match>
       
       <map:match pattern="slidy/**.png">
-        <map:read src="{lm:slidy.png.root|{1}}" mime-type="image/png"/>
+        <map:read src="{lm:slidy.png.{1}}" mime-type="image/png"/>
       </map:match>    
       <map:match pattern="**/slidy/**.png">
-        <map:read src="{lm:slidy.png.{1}|{2}}" mime-type="image/png"/>
+        <map:read src="{lm:slidy.png.{2}}" mime-type="image/png"/>
       </map:match>
       
       <map:match pattern="slidy/**.jpg">
