@@ -123,6 +123,14 @@ Credit: original from the jakarta-avalon project
     </ul>
   </xsl:template>
     
+  <!-- Paragraphs coming after incrementally displayed lists should themselves
+       be displayed incrementally instead of when the slide is opened: -->
+  <xsl:template match="p[preceding-sibling::ol]">
+    <p class="incremental">
+      <xsl:apply-templates/>
+    </p>
+  </xsl:template>
+    
   <!-- Ordered lists are displayed incrementally (as unordered lists): -->
   <xsl:template match="table">
     <div class="hbox">
