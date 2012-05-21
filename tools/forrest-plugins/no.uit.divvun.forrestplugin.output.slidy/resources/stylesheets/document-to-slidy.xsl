@@ -40,7 +40,7 @@ Credit: original from the jakarta-avalon project
       <title><xsl:value-of select="title"/></title>
       <meta name="version" content="Apache Forrest HTML Slidy Plugin 0.1, based on W3C Slidy2" />
       <meta name="copyright" content="Copyright &#169; 2012 University of Tromsø" />
-      <meta name="duration" content="45" />
+      <meta name="duration" content="60" />
       <link rel="stylesheet" type="text/css" media="screen, projection, print" href="slidy.css" />
       <link rel="stylesheet" type="text/css" media="screen, projection, print" href="w3c-blue.css" />
       <script src="slidy.js" type="text/javascript" charset="utf-8"></script>
