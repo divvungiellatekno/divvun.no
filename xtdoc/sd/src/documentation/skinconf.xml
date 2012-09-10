@@ -55,21 +55,21 @@ which will be used to configure the chosen Forrest skin.
   <project-logo>images/project-logo.gif</project-logo> -->
 <!-- optional group logo
        default skin: renders it at the top-left corner -->
-  <group-name>Sámediggi</group-name>
-  <group-description>The Norwegian Sámi Parliament</group-description>
-  <group-url>http://www.samediggi.no/</group-url>
-  <group-logo>images/menu.png</group-logo>
+  <group-name>University of Tromsø</group-name>
+  <group-description>University of Tromsø</group-description>
+  <group-url>http://uit.no/</group-url>
+  <group-logo>images/UiTLogoSamisk.png</group-logo>
 <!-- Alternative static image:
   <group-logo>images/group-logo.gif</group-logo> -->
 <!-- optional host logo (e.g. sourceforge logo)
        default skin: renders it at the bottom-left corner -->
-  <host-url/>
-  <host-logo/>
+  <!--host-url>http://www.samediggi.no/</host-url>
+  <host-logo>images/menu.png</host-logo-->
 <!-- relative url of a favicon file, normally favicon.ico -->
   <favicon-url/>
 <!-- The following are used to construct a copyright statement -->
-  <year>2005</year>
-  <vendor>Norgga sámediggi.</vendor>
+  <year>2012</year>
+  <vendor>Romssa universitehta</vendor>
 <!-- The optional copyright-link URL will be used as a link in the
     copyright statement
   <copyright-link>http://www.apache.org/licenses/</copyright-link>
@@ -82,7 +82,7 @@ which will be used to configure the chosen Forrest skin.
     For some skins just set the attributes to blank.
   -->
   <trail>
-    <link1 href="http://www.samediggi.no/" name="Sámediggi" />
+    <link1 href="http://uit.no/" name="UiT" />
     <link2 href="http://divvun.no/" name="Divvun" />
     <link3 href="" name="" />
   </trail>
@@ -117,7 +117,7 @@ which will be used to configure the chosen Forrest skin.
         in the class attribute of a <p> node.
         e.g. <p class="quote"/>
     -->
-	#lang-choice {
+#lang-choice {
 	width: 100%;
 	padding: 0px 0px 10px 0px;
 	font-family: Verdana, sans-serif;
@@ -134,7 +134,9 @@ which will be used to configure the chosen Forrest skin.
 	font-size: 95%;
 	}
 
-
+.grouplogo .logoImage {
+    height: 80px;
+}
 
     p.last_modified {
       margin-left: 2em;
