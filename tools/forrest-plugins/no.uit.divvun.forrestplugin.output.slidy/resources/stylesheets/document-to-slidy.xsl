@@ -139,7 +139,14 @@ Credit: original from the jakarta-avalon project
       </table>
     </div>
   </xsl:template>
-    
+
+  <!-- Ordered lists are displayed incrementally (as unordered lists): -->
+  <xsl:template match="source">
+      <pre>
+        <xsl:apply-templates/>
+      </pre>
+  </xsl:template>
+
   <!-- Since every URL in the Slidy plugin is "moved" down into the slidy/
        sub-URL, we have to move one step up to get the correct path for regular
        images:    -->
