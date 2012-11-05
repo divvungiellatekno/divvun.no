@@ -3,7 +3,8 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>Divvun 2 - saamen kielten korjausohjelmat</title>
+      <title>Divvun 2 - saamen kielen oikolukutyökalut</title>
+      <meta name="keywords">saamen kielten korjausohjelmat</meta>
    </header>
    <body>
       <p>Divvun 2.2 joka sisältää tuen 64-bittiselle Windows:lle julkaistaan 23. Marraskuuta, 2011. Tuki InDesign CS4 ja CS5:lee on
