@@ -4,7 +4,7 @@
 <document xml:lang="en">
    <header>
       <title>Divvun 2 - sámi proofing tools</title>
-      <meta name="keywords">Saami speller, Saami spell checker</meta>
+      <meta name="description">Saami speller, Saami spell checker</meta>
    </header>
    <body>
       <p>Divvun 2.2 with support for 64-bit Windows is available as of November 23, 2011. Support for InDesign CS4 and CS5 is under
