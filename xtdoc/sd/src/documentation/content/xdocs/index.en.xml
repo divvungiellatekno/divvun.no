@@ -7,7 +7,7 @@
       <meta name="description">Saami speller, Saami spell checker</meta>
    </header>
    <body>
-       <note>Divvun and Giellatekno are proud to have received the Gollegiella price 2012!</note>
+       <note>Divvun and Giellatekno are proud to have received the <a href="http://www.regjeringen.no/nb/dep/fad/pressesenter/pressemeldinger/2012/to-vinnere-av-den-nordiske-samiske-sprak.html?id=708415">Gollegiella price 2012</a>!</note>
       <p>Divvun 2.2 with support for 64-bit Windows is available as of November 23, 2011. Support for InDesign CS4 and CS5 is under
       development, but isn't ready yet.</p>
       <warning>If you have a Divvun 1.x version installed, you must uninstall the old version before installing the new. Here you find instructions for

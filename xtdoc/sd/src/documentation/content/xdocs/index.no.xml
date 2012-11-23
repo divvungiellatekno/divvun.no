@@ -7,7 +7,7 @@
       <meta name="description">samisk stavekontroll</meta>
    </header>
    <body>
-       <note>Divvun og Giellatekno er glade og stolte over å ha fått Gollegiella-prisen 2012!</note>
+       <note>Divvun og Giellatekno er glade og stolte over å ha fått <a href="http://www.regjeringen.no/nb/dep/fad/pressesenter/pressemeldinger/2012/to-vinnere-av-den-nordiske-samiske-sprak.html?id=708415">Gollegiella-prisen 2012</a>!</note>
       <p>Divvun 2.2 med støtte for 64-bits Windows er tilgjengelig fra og med 23. november 2011. Støtte for InDesign CS4
       og CS5 er underveis men er ennå ikke ferdig.</p>
       <warning>Om du allerede har Divvun 1.x installert på maskinen din må du avinstallere den gamle versjonen før du
