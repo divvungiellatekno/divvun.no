@@ -244,12 +244,12 @@ tablecolumns
   ;
 
 tablecolumn
-  : tablecolumnitem tabletextsequence
+  : tablecolumnitem limitedtextsequence
   ;
   
-tabletextsequence 
-  : textblock break tabletextsequence
-  | textblock tabletextsequence
+limitedtextsequence 
+  : textblock break limitedtextsequence
+  | textblock limitedtextsequence
   | textblock
   ; 
 
@@ -298,6 +298,6 @@ deflistterm
   ;
 
 deflistdef
-  : deftermdefstart tabletextsequence
+  : deftermdefstart limitedtextsequence
   ;
 

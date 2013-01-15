@@ -143,10 +143,10 @@
   </xsl:template>
   <xsl:template match="st:tablecolumn">
     <td>
-      <xsl:apply-templates select="st:tabletextsequence/*"/>
+      <xsl:apply-templates select="st:limitedtextsequence/*"/>
     </td>
   </xsl:template>
-  <xsl:template match="st:tabletextsequence/st:textblock">
+  <xsl:template match="st:limitedtextsequence/st:textblock">
     <xsl:apply-templates select="./*"/>
   </xsl:template>
   <xsl:template match="st:text">
@@ -306,7 +306,7 @@
   </xsl:template>
   <xsl:template match="st:deflistdef">
     <dd>
-      <xsl:apply-templates select="st:tabletextsequence/*"/>
+      <xsl:apply-templates select="st:limitedtextsequence/*"/>
     </dd>
   </xsl:template>
   <xsl:template match="st:deflist/st:softbreak" />
