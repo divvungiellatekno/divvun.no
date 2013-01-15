@@ -295,6 +295,10 @@
       <xsl:apply-templates select="*"/>
     </dl>
   </xsl:template>
+  <xsl:template match="st:defentry">
+    <xsl:apply-templates select="./st:deflistterm"/>
+    <xsl:apply-templates select="./st:deflistdef"/>
+  </xsl:template>
   <xsl:template match="st:deflistterm">
     <dt>
       <xsl:apply-templates select="./st:text"/>
@@ -302,7 +306,7 @@
   </xsl:template>
   <xsl:template match="st:deflistdef">
     <dd>
-      <xsl:apply-templates select="./st:text"/>
+      <xsl:apply-templates select="st:tabletextsequence/*"/>
     </dd>
   </xsl:template>
   <xsl:template match="st:deflist/st:softbreak" />

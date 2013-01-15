@@ -285,18 +285,19 @@ codeblock
   ;
 
 deflist
-  : deflistterm softbreak deflistdef deflist
-  | deflistterm softbreak deflistdef
-  | deflistterm softbreak deflist
-  | deflistterm
+  : deflist softbreak defentry
+  | defentry
+  ;
+
+defentry
+  : deflistterm softbreak deflistdef
   ;
 
 deflistterm
   : deftermstart text
-  | deftermstart
   ;
 
 deflistdef
-  : deftermdefstart text
-  | deftermdefstart
+  : deftermdefstart tabletextsequence
   ;
+
