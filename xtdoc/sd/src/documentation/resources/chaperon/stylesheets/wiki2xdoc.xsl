@@ -341,7 +341,8 @@
   </xsl:template>
   <xsl:template match="st:deflistterm">
     <dt>
-      <xsl:apply-templates select="./st:text"/>
+      <xsl:apply-templates select="st:limitedtextsequence/st:textblock/*
+                                 | st:limitedtextsequence/st:break"/>
     </dt>
   </xsl:template>
   <xsl:template match="st:deflistdef">

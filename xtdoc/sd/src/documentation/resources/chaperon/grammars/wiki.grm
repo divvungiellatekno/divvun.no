@@ -292,10 +292,12 @@ deflist
 
 defentry
   : deflistterm softbreak deflistdef
+  | deflistterm softbreak
+  | deflistterm
   ;
 
 deflistterm
-  : deftermstart text
+  : deftermstart limitedtextsequence
   ;
 
 deflistdef
