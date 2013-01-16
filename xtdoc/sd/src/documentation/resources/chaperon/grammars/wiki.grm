@@ -258,6 +258,8 @@ textsequence
   | textsequence textblock 
   | textblock softbreak  
   | textblock
+  | textsequence textblock break softbreak
+  | textblock break softbreak
   | textsequence textblock break
   | textblock break
   ; 
