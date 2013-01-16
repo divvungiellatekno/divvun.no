@@ -62,6 +62,8 @@
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
+
+  <!-- Top level match: -->
   <xsl:template match="st:output">
     <document>
       <header>
@@ -90,6 +92,8 @@
       </body>
     </document>
   </xsl:template>
+
+  <!-- Sections: -->
   <xsl:template match="st:section">
     <section>
       <title><xsl:value-of select="st:title/st:textsequence"/></title>
@@ -108,19 +112,24 @@
       <xsl:apply-templates select="st:paragraphs/st:paragraph/*" mode="paragraph"/>
     </section>
   </xsl:template>
+
   <xsl:template match="st:source" mode="paragraph">
     <source>
       <xsl:value-of select="substring(.,4,string-length(.)-6)"/>
     </source>
   </xsl:template>
+
   <xsl:template match="st:textsequence" mode="paragraph">
     <p>
       <xsl:apply-templates select="st:textblock/*|st:break"/>
     </p>
   </xsl:template>
+
   <xsl:template match="st:line" mode="paragraph">
     <hr/>
   </xsl:template>
+
+  <!-- Tables: -->
   <xsl:template match="st:table" mode="paragraph">
     <table>
       <xsl:apply-templates select="st:tablehead|st:tablerows/st:tablecolumns"/>
@@ -141,21 +150,24 @@
       <xsl:apply-templates select="st:tablecolumn"/>
     </tr>
   </xsl:template>
+
   <xsl:template match="st:tablecolumn">
     <td>
-      <xsl:apply-templates select="st:limitedtextsequence/*"/>
+      <xsl:apply-templates select="st:limitedtextsequence/st:textblock/*
+                                 | st:limitedtextsequence/st:break"/>
     </td>
   </xsl:template>
-  <xsl:template match="st:limitedtextsequence/st:textblock">
-    <xsl:apply-templates select="./*"/>
-  </xsl:template>
+
   <xsl:template match="st:text">
     <xsl:value-of select="."/>
 <xsl:text> </xsl:text>
   </xsl:template>
+
   <xsl:template match="st:break">
     <br/>
   </xsl:template>
+
+  <!-- Links: -->
   <xsl:template match="st:link">
     <xsl:choose>
       <xsl:when test="contains(.,'|')">
@@ -225,6 +237,8 @@
         </xsl:otherwise>
       </xsl:choose>
     </p>
+
+  <!-- Inline formatting: -->
   </xsl:template>
   <xsl:template match="st:emblock"><em>
     <xsl:value-of select="st:text"/></em>
@@ -238,13 +252,19 @@
     <xsl:value-of select="st:text"/></code>
 <xsl:text> </xsl:text>
   </xsl:template>
+
+  <!-- Bulleted lists: -->
   <xsl:template match="st:bulletedlist1" mode="paragraph">
     <ul>
       <xsl:apply-templates select="st:bulletedlistitem1"/>
     </ul>
   </xsl:template>
   <xsl:template match="st:bulletedlistitem1" >
-    <li><xsl:apply-templates select="st:textsequence/st:textblock/*|following-sibling::st:*[1][name() != 'bulletedlistitem1']"/></li>
+    <li>
+      <xsl:apply-templates select="st:textsequence/st:textblock/*
+                                 | following-sibling::st:*[1][name() != 'bulletedlistitem1']
+                                 | st:textsequence/st:break"/>
+    </li>
   </xsl:template>
   <xsl:template match="st:bulletedlist2" >
     <ul>
@@ -252,7 +272,11 @@
     </ul>
   </xsl:template>
   <xsl:template match="st:bulletedlistitem2" >
-    <li><xsl:apply-templates select="st:textsequence/st:textblock/*|following-sibling::st:*[1][name() != 'bulletedlistitem2']"/></li>
+    <li>
+      <xsl:apply-templates select="st:textsequence/st:textblock/*
+                                 | following-sibling::st:*[1][name() != 'bulletedlistitem2']
+                                 | st:textsequence/st:break"/>
+    </li>
   </xsl:template>
   <xsl:template match="st:bulletedlist3" >
     <ul>
@@ -260,16 +284,24 @@
     </ul>
   </xsl:template>
   <xsl:template match="st:bulletedlistitem3" >
-    <li><xsl:apply-templates select="st:textsequence/st:textblock/*"/></li>
+    <li>
+      <xsl:apply-templates select="st:textsequence/st:textblock/*
+                                 | st:textsequence/st:break"/>
+    </li>
   </xsl:template>
 
+  <!-- Numbered lists: -->
   <xsl:template match="st:numberedlist1" mode="paragraph">
     <ol>
       <xsl:apply-templates select="st:numberedlistitem1"/>
     </ol>
   </xsl:template>
   <xsl:template match="st:numberedlistitem1" >
-    <li><xsl:apply-templates select="st:textsequence/st:textblock/*|following-sibling::st:*[1][name() != 'numberedlistitem1']"/></li>
+    <li>
+      <xsl:apply-templates select="st:textsequence/st:textblock/*
+                                 | following-sibling::st:*[1][name() != 'numberedlistitem1']
+                                 | st:textsequence/st:break"/>
+    </li>
   </xsl:template>
 
   <xsl:template match="st:numberedlist2" >
@@ -278,7 +310,11 @@
     </ol>
   </xsl:template>
   <xsl:template match="st:numberedlistitem2" >
-    <li><xsl:apply-templates select="st:textsequence/st:textblock/*|following-sibling::st:*[1][name() != 'numberedlistitem2']"/></li>
+    <li>
+      <xsl:apply-templates select="st:textsequence/st:textblock/*
+                                 | following-sibling::st:*[1][name() != 'numberedlistitem2']
+                                 | st:textsequence/st:break"/>
+    </li>
   </xsl:template>
 
   <xsl:template match="st:numberedlist3" >
@@ -287,9 +323,13 @@
     </ol>
   </xsl:template>
   <xsl:template match="st:numberedlistitem3" >
-    <li><xsl:apply-templates select="st:textsequence/st:textblock/*"/></li>
+    <li>
+      <xsl:apply-templates select="st:textsequence/st:textblock/*
+                                   | st:textsequence/st:break"/>
+    </li>
   </xsl:template>
 
+  <!-- Definition lists: -->
   <xsl:template match="st:deflist" mode="paragraph">
     <dl>
       <xsl:apply-templates select="*"/>
@@ -306,7 +346,8 @@
   </xsl:template>
   <xsl:template match="st:deflistdef">
     <dd>
-      <xsl:apply-templates select="st:limitedtextsequence/*"/>
+      <xsl:apply-templates select="st:textsequence/st:textblock/*
+                                 | st:textsequence/st:break"/>
     </dd>
   </xsl:template>
   <xsl:template match="st:deflist/st:softbreak" />
