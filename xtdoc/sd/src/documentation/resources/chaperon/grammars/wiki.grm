@@ -33,14 +33,27 @@
 
 %token source "\{\{\{ (\}{0,2}[^\}])* \}\}\}";
 
+%token text  "([^\ \t\n\r\[\{\}\|\*\\\-_!#';:]
+              | _[^_\n\r]
+              | \{[^\{\n\r]
+              | \}[^\}\n\r]
+              | '[^'\n\r]
+              | \[\[
+              | \\[^\\\n\r]
+              | \-{1,3}[^\-\n\r]?)
+              ([^    \n\r\[\{\}\|\\\-_':]
+              | _[^_\n\r]
+              | \{[^\{\n\r]
+              | \}[^\}\n\r]
+              | '[^'\n\r]
+              | \[\[
+              | \\[^\\\n\r]
+              | \-{1,3}[^\-\n\r]?
+              | \|[^\|\ \t])*";
+
 %token anchor "\[( [^\[\|\]]* \| )? # [^\[\|\]]* \]";
 
 %token link   "\[( [^\[\|\]]* \| )?   [^\[\|\]]* \]";
-
-%token text  "([^\ \t\n\r\[\{\}\|\*\\\-_!#'] | _[^_\n\r] | \{[^\{\n\r] | \}[^\}\n\r] | '[^'\n\r] 
-                                             | \[\[ | \\[^\\\n\r] | \-{1,3}[^\-\n\r]?)
-              ([^    \n\r\[\{\}\|\\\-_']     | _[^_\n\r] | \{[^\{\n\r] | \}[^\}\n\r] | '[^'\n\r] 
-                                             | \[\[ | \\[^\\\n\r] | \-{1,3}[^\-\n\r]? | \|[^\|\ \t])*";
 
 %right softbreak "\r(\n?) | \n";
 
@@ -56,8 +69,8 @@
 %token numbered2item "##";
 %token numbered3item "###";
 
-%token deftermstart "#;";
-%token deftermdefstart "##:";
+%right deftermstart "\;";
+%token deftermdefstart "\:";
 
 %ignore "[\ \t]+";
 
@@ -267,9 +280,25 @@ textsequence
 textblock 
   : link
   | anchor
-  | strongblock                      
-  | emblock            
-  | text                         
+  | strongblock
+  | emblock
+  | text
+  | codeblock
+  | deftermdefstart
+  ;
+
+termtextsequence 
+  : termtextblock break termtextsequence
+  | termtextblock termtextsequence
+  | termtextblock
+  ; 
+
+termtextblock 
+  : link
+  | anchor
+  | strongblock
+  | emblock
+  | text
   | codeblock
   ;
 
@@ -286,21 +315,22 @@ codeblock
   ;
 
 deflist
-  : deflist softbreak defentry
+  : defentry deflist %prec PLUS
   | defentry
   ;
 
 defentry
-  : deflistterm softbreak deflistdef
-  | deflistterm softbreak
-  | deflistterm
+  : deflistterm deflistdef
   ;
 
 deflistterm
-  : deftermstart limitedtextsequence
+  : deftermstart termtextsequence
+  | deftermstart
   ;
 
 deflistdef
   : deftermdefstart textsequence
+  | deftermdefstart softbreak
+  | deftermdefstart
   ;
 

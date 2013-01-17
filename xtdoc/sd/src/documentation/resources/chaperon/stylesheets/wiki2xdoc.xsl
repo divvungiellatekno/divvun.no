@@ -26,6 +26,7 @@
              cdata-section-elements="source"/>
   <xsl:param name="name" select="''"/>
   <xsl:param name="spaceless-filenames" select="''"/>
+
   <xsl:template name="splitString">
     <xsl:param name="restOfString"/>
     <xsl:variable name="uppercase">(ABCDEFGHIJKLMNOPQRSTUVWXYZ</xsl:variable>
@@ -59,6 +60,24 @@
       <xsl:otherwise>
 <!-- end of string - just write the remainder -->
         <xsl:value-of select="$restOfString"/>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+
+  <!-- Only add a space if the following char is not a punctuation mark: -->
+  <xsl:template name="addSpace">
+    <xsl:choose>
+      <xsl:when test="starts-with(./following::*[text()],'.') or
+                      starts-with(./following::*[text()],',') or
+                      starts-with(./following::*[text()],'!') or
+                      starts-with(./following::*[text()],'?') or
+                      starts-with(./following::*[text()],';') or
+                      starts-with(./following::*[text()],':') or
+                      ./following::*[1]/st:deftermdefstart">
+        <xsl:text></xsl:text>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:text> </xsl:text>
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
@@ -160,6 +179,11 @@
 
   <xsl:template match="st:text">
     <xsl:value-of select="."/>
+    <xsl:call-template name="addSpace"/>
+  </xsl:template>
+
+  <xsl:template match="st:deftermdefstart[not(ancestor::st:deflist)]" >
+    <xsl:value-of select="."/>
 <xsl:text> </xsl:text>
   </xsl:template>
 
@@ -186,7 +210,9 @@
         </xsl:call-template>
       </xsl:otherwise>
     </xsl:choose>
+    <xsl:call-template name="addSpace"/>
   </xsl:template>
+
   <xsl:template name="convertLink" >
     <xsl:param name="href0"/>
     <xsl:param name="text"/>
@@ -196,16 +222,15 @@
     </xsl:variable>
     <xsl:choose>
       <xsl:when test="string(number($href)) != 'NaN'"><link href="#{$href}">
-        <xsl:value-of select="$text"/>
-<!-- $href --></link>
+        <xsl:value-of select="$text"/><!-- $href --></link>
       </xsl:when>
       <xsl:when test="contains($href,'.png') or contains($href,'.jpg') or contains($href,'.gif')">
         <img src="{$href}" alt="{$text}"/>
 <!-- $href -->
       </xsl:when>
-      <xsl:when test="contains($href,':') or contains($href,'.')"><link href="{$href}">
-        <xsl:value-of select="$text"/>
-<!-- $href --></link>
+      <xsl:when test="contains($href,':') or contains($href,'.')">
+        <link href="{$href}">
+        <xsl:value-of select="$text"/><!-- $href --></link>
       </xsl:when>
       <xsl:otherwise><link>
         <xsl:attribute name="href">
@@ -218,11 +243,11 @@
             </xsl:otherwise>
           </xsl:choose>
         </xsl:attribute>
-        <xsl:value-of select="$text"/>
-<!-- $href --></link>
+        <xsl:value-of select="$text"/><!-- $href --></link>
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
+
   <xsl:template match="st:anchor" >
     <p>
       <xsl:choose>
@@ -242,15 +267,15 @@
   </xsl:template>
   <xsl:template match="st:emblock"><em>
     <xsl:value-of select="st:text"/></em>
-<xsl:text> </xsl:text>
+    <xsl:call-template name="addSpace"/>
   </xsl:template>
   <xsl:template match="st:strongblock"><strong>
     <xsl:value-of select="st:text"/></strong>
-<xsl:text> </xsl:text>
+    <xsl:call-template name="addSpace"/>
   </xsl:template>
   <xsl:template match="st:codeblock"><code>
     <xsl:value-of select="st:text"/></code>
-<xsl:text> </xsl:text>
+    <xsl:call-template name="addSpace"/>
   </xsl:template>
 
   <!-- Bulleted lists: -->
@@ -341,8 +366,8 @@
   </xsl:template>
   <xsl:template match="st:deflistterm">
     <dt>
-      <xsl:apply-templates select="st:limitedtextsequence/st:textblock/*
-                                 | st:limitedtextsequence/st:break"/>
+      <xsl:apply-templates select="st:termtextsequence/st:termtextblock/*
+                                 | st:termtextsequence/st:break"/>
     </dt>
   </xsl:template>
   <xsl:template match="st:deflistdef">
