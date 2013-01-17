@@ -73,6 +73,7 @@
                       starts-with(./following::*[text()],'?') or
                       starts-with(./following::*[text()],';') or
                       starts-with(./following::*[text()],':') or
+                      starts-with(./following::*[text()],'&quot;') or
                       ./following::*[1]/st:deftermdefstart">
         <xsl:text></xsl:text>
       </xsl:when>
@@ -80,6 +81,24 @@
         <xsl:text> </xsl:text>
       </xsl:otherwise>
     </xsl:choose>
+  </xsl:template>
+
+  <xsl:template name="cleanNoLink">
+    <xsl:param name="String"/>
+    <xsl:choose>
+      <xsl:when test="contains($String,'[[')">
+        <xsl:variable name="StringBefore" select="substring-before($String,'[[')"/>
+        <xsl:variable name="StringAfter"  select="substring-after($String,'[[')"/>
+
+        <xsl:value-of select="concat($StringBefore, '[')"/>
+        <xsl:call-template name="cleanNoLink">
+          <xsl:with-param name="String" select="$StringAfter"/>
+        </xsl:call-template>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:value-of select="$String"/>
+      </xsl:otherwise>
+   </xsl:choose>
   </xsl:template>
 
   <!-- Top level match: -->
@@ -177,12 +196,27 @@
     </td>
   </xsl:template>
 
+  <!-- Textual content: -->
   <xsl:template match="st:text">
-    <xsl:value-of select="."/>
+    <xsl:choose>
+      <xsl:when test="contains(.,'[[')">
+       <xsl:call-template name="cleanNoLink">
+          <xsl:with-param name="String" select="."/>
+        </xsl:call-template>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:value-of select="."/>
+      </xsl:otherwise>
+    </xsl:choose>
     <xsl:call-template name="addSpace"/>
   </xsl:template>
 
   <xsl:template match="st:deftermdefstart[not(ancestor::st:deflist)]" >
+    <xsl:value-of select="."/>
+<xsl:text> </xsl:text>
+  </xsl:template>
+
+  <xsl:template match="st:subsubtitleitem[parent::st:textblock]" >
     <xsl:value-of select="."/>
 <xsl:text> </xsl:text>
   </xsl:template>

@@ -285,6 +285,7 @@ textblock
   | text
   | codeblock
   | deftermdefstart
+  | subsubtitleitem
   ;
 
 termtextsequence 
@@ -333,4 +334,3 @@ deflistdef
   | deftermdefstart softbreak
   | deftermdefstart
   ;
-
