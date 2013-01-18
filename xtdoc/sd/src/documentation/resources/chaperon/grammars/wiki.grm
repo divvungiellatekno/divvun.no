@@ -55,10 +55,8 @@
 
 %token link   "\[( [^\[\|\]]* \| )?   [^\[\|\]]* \]";
 
-%right softbreak "\r(\n?) | \n";
-
-%right break "\\\\";
-
+%right     break  "\\\\";
+%right softbreak  "\r(\n?) | \n";
 %right hardbreak "(\r(\n?) | \n) ([\ \t]* (\r(\n?) | \n))+";
 
 %token bulleted1item "\*";
@@ -266,15 +264,11 @@ limitedtextsequence
   | textblock
   ; 
 
-textsequence 
-  : textsequence textblock softbreak
-  | textsequence textblock 
+textsequence
+  : textblock textsequence softbreak
+  | textblock textsequence 
   | textblock softbreak  
   | textblock
-  | textsequence textblock break softbreak
-  | textblock break softbreak
-  | textsequence textblock break
-  | textblock break
   ; 
 
 textblock 
@@ -285,7 +279,7 @@ textblock
   | text
   | codeblock
   | deftermdefstart
-  | subsubtitleitem
+  | break
   ;
 
 termtextsequence 
