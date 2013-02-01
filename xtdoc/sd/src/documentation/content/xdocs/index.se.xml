@@ -2,65 +2,165 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="se">
-  <header>
-    <title>Divvun 2 - sámi čállindárkkistanreaiddut</title>
-    <meta name="description">sámi čállindárkkisteaddji</meta>
-  </header>
+   <header>
+      <title>Divvun 2 - sámi čállindárkkistanreaiddut</title>
+      <meta name="description">sámi čállindárkkisteaddji</meta>
+   </header>
 
-  <body>
+   <body>
+      <p>Divvun 2.2 mii doarju 64-bits Windows lea olámuttus skábmamánu 23. b.
+      2011 rájes. Det vil ikke bli støtte for InDesign CS4 og CS5, men
+      InDesign CS5.5 og nyere har støtte for Hunspell-ordlister, som kan lastes
+      ned ved å klikke på lenka <em>«Eará sajáiduhttineavttut, gamle
+      versjoner»</em> nedenfor.</p>
 
-    <p>Divvun 2.2 mii doarju 64-bits Windows lea olámuttus skábmamánu 23. b. 2011 rájes. Veršuvdna mii doarju InDesign CS4 ja CS5
-    lea jođus muhto ii leat vel gárvvis.</p>
+      <warning>Jus dus ain lea Divvun 1.x iežat mašiinnas, de fertet dan váldit
+      eret ovdalgo sajáiduhtát dán veršuvnna. Dás gávnnat bagadusaid <a
+      href="userdocs/leaflet/win-install.html">Windowsii</a> ja <a
+      href="userdocs/leaflet/mac-install.html">MacOS X:i</a> mo dan bargá.
+      </warning>
 
-    <warning>Jus dus ain lea Divvun 1.x iežat mašiinnas, de fertet dan váldit eret ovdalgo sajáiduhtát dán veršuvnna. Dás gávnnat bagadusaid <a
-    href="userdocs/leaflet/win-install.html">Windowsii</a> ja <a
-    href="userdocs/leaflet/mac-install.html">MacOS X:i</a> mo dan bargá.
-    </warning>
+      <note>Nettsidene bygges om. Lenker, tekst m.m. kan være inkorrekte. Vi
+      beklager.</note>
 
-      <note>Site is under reconstruction. Links, texts, etc may not be consistent
-      and correct. Apologies for the inconveniences.</note>
-
-    <section>
-      <title>Viečča Divvuma</title>
-
-      <ul>
-        <li class="Download"><a
-        href="http://divvun.no/static_files/MSOfficeDivvunTools.exe">
-            <icon alt="Download" height="32"
-            src="images/Crystal_Clear_app_download_manager.png" width="32" />
-            <icon alt="Windows" height="32"
-            src="images/windows.png" width="32" />
-            MS
-        Office — Windows, Divvun v2.2</a> — <a
-        href="userdocs/leaflet/win-install.html">bagadallan</a> — <a
-        href="userdocs/videos/win-msoffice-video.html">bagadallanvideot</a> - <a href="sysadmininfo.html">Issues with Windows7</a></li>
-
-        <li class="Download"><a
-        href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon
-        alt="Download" height="32"
-        src="images/Crystal_Clear_app_download_manager.png" width="32" />MS
-        Office — MacOS X, Divvun v2.2</a> — <a
-        href="userdocs/leaflet/mac-install.html">bagadallan</a> — <a
-        href="userdocs/videos/mac-video.html">bagadallanvideot</a></li>
-
-        <li class="Download"><a
-        href="http://divvun.no/static_files/smi.oxt"><icon alt="Download"
-        height="32" src="images/Crystal_Clear_app_download_manager.png"
-        width="32" />OpenOffice 3 — buot operatiivavuogádagat, Divvun
-        v.1.0beta9</a> — <a
-        href="userdocs/X-spell/install_use_OOo3x.html">bagadallan</a> —
-        <a href="userdocs/videos/ooo-video.html">bagadallanvideot</a></li>
-
-        <li class="Download"><a
-        href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon
-        alt="Download" height="32"
-        src="images/Crystal_Clear_app_download_manager.png"
-        width="32" />InDesign — MacOS X, Divvun v2.1</a> — <a
-        href="userdocs/indesign/index.html">bagadallan</a></li>
-
-        <li><a href="downloads.html">Eará sajáiduhttineavttut</a></li>
-            <li><a href="sysadmininfo.html">Issues with Windows7, info for administrators &amp; integrators (English only)</a></li>
-      </ul>
-    </section>
-  </body>
+      <section>
+         <title>Last ned Divvun</title>
+         <table class="invisible">
+         <tr><td>
+         <ul>
+           <li class="Download"><a
+            href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="Office" height="27" width="27"
+            src="images/MSOffice-icon.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/windows.png"/><br/>Divvun for MS Office — Windows</a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+                · <a href="userdocs/leaflet/win-install.html">Office 2013-bagadallan</a>
+                - <a href="sysadmininfo.html">Kjente feil</a>
+           <br/>· <a href="userdocs/leaflet/win-install.html">Office 2010-bagadallan</a>
+                - <a href="sysadmininfo.html">Kjente feil</a>
+           <br/>· <a href="userdocs/leaflet/win-install.html">Office 2007-bagadallan</a>
+           <br/>· <a href="userdocs/leaflet/win-install.html">Office XP-bagadallan</a>
+         </td>
+         <td>
+           <br/><a href="userdocs/videos/win-msoffice-video.html">
+           <icon alt="Instructions" height="48" width="48"
+            src="images/Movie-icon.png"/>bagadallanvideot</a></td>
+         </tr>
+         <tr>
+         <td colspan="4"><hr/></td>
+         </tr>
+         <tr><td>
+         <ul>
+           <li class="Download"><a
+            href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/MSOffice-icon.png"/><icon
+            alt="MacOSX" height="27" width="27"
+            src="images/mac.png" /><br/>Divvun for MS Office — MacOS X</a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+           <br/>· <a href="userdocs/leaflet/mac-install.html">Office 2011-bagadallan</a>
+           <br/>· <a href="userdocs/leaflet/mac-install.html">Office 2008-bagadallan</a>
+           <br/>· <a href="userdocs/leaflet/mac-install.html">Office 2004-bagadallan</a>
+         </td>
+         <td>
+         <br/><a href="userdocs/videos/mac-video.html">
+           <icon alt="Instructions" height="48" width="48"
+            src="images/Movie-icon.png"/>bagadallanvideot</a></td>
+         </tr>
+         <tr>
+         <td colspan="4"><hr/></td>
+         </tr>
+         <tr><td>
+         <ul>
+           <li class="Download"><a
+           href="http://divvun.no/static_files/smi.oxt"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/Galaxy_OOo3_main_256.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/LibreOfficeIcon.png"/><icon
+            alt="Windows" height="32" width="32"
+            src="images/windows.png" /><icon
+            alt="MacOSX" height="32" width="32"
+            src="images/mac.png" /><icon
+            alt="Linux" height="27" width="27"
+            src="images/Linux_Icon_256.png" /><br/>Divvun for OpenOffice &amp; LibreOffice </a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+           <br/>· <a href="userdocs/X-spell/install_use_OOo3x.html"><icon
+            alt="Linux" height="12" width="12"
+            src="images/Linux_Icon_256.png" />Linux-bagadallan</a>
+           <br/>· <a href="userdocs/X-spell/install_use_OOo3x.html"><icon
+            alt="MacOSX" height="12" width="12"
+            src="images/mac.png" />MacOSX-bagadallan</a>
+           <br/>· <a href="userdocs/X-spell/install_use_OOo3x.html"><icon
+            alt="Windows" height="12" width="12"
+            src="images/windows.png" />Windows-bagadallan</a>
+         </td>
+         <td>
+         <br/><a href="userdocs/videos/ooo-video.html">
+           <icon alt="Instructions" height="48" width="48"
+            src="images/Movie-icon.png"/>bagadallanvideot</a></td>
+         </tr>
+         <tr>
+         <td colspan="4"><hr/></td>
+         </tr>
+         <tr><td>
+         <ul>
+           <li class="Download"><a
+            href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="MacOSX" height="27" width="27"
+            src="images/InDesign-icon.png" /><icon
+            alt="MacOSX" height="27" width="27"
+            src="images/mac.png" /><br/>Divvun for InDesign CS3 — MacOS X</a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+         <br/><br/>
+         <br/>· <a href="userdocs/indesign/index.html">Bagadallan</a></td>
+         </tr>
+         <tr>
+         <td colspan="4"><hr/></td>
+         </tr>
+         </table>
+         <br/>
+         <ul>
+           <li><a href="downloads.html">Eará sajáiduhttineavttut, gamle versjoner</a></li>
+           <li><a href="sysadmininfo.html">Info for administrators &amp; integrators (English only)</a></li>
+         </ul>
+      </section>
+   </body>
 </document>
