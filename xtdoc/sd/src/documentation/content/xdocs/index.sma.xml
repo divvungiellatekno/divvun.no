@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.2//EN"
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
    <header>
@@ -7,40 +7,162 @@
       <meta name="description">saemien staerieddæjja</meta>
    </header>
    <body>
+      <p>Orre Divvun 2.2-versjovne rahkan 23 b. 2011 raejeste gååvnese mij
+      64-bits Windowsasse sjeahta. Det vil ikke bli støtte for InDesign CS4 og
+      CS5, men InDesign CS5.5 og nyere har støtte for Hunspell-ordlister, som
+      kan lastes ned ved å klikke på lenka <em>«Jeatjah-laakan sijjiedehtedh,
+      gamle versjoner»</em> nedenfor.</p>
 
-      <p>Orre Divvun 2.2-versjovne rahkan 23 b. 2011 raejeste gååvnese mij 64-bits Windowsasse sjeahta. Dåarjege InDesign CS4:se jïh CS5:se aaj dallegh båata.</p>
+      <p> Dåarjege InDesign CS4:se jïh CS5:se aaj
+      dallegh båata.</p>
 
-      <warning>Jis dov lea joe Divvun 1.x-versjovne daatamasjijnesne,  dellie tjoeverh dam masjijneste vaeltedh aarebi goh orre versjovnem dïsse bïejedh.  Daesnie naan
-      bïhkedimmieh gaavnah <a href="userdocs/leaflet/win-install.html">Windowsasse</a> jïh <a
-      href="userdocs/leaflet/mac-install.html">MacOS X:ese</a>. Jis dov lea Divvun 2.x dellie ih daarpesjh dam masjijneste vaeltedh.</warning>
+      <warning>Jis dov lea joe Divvun 1.x-versjovne daatamasjijnesne,  dellie
+      tjoeverh dam masjijneste vaeltedh aarebi goh orre versjovnem dïsse
+      bïejedh.  Daesnie naan bïhkedimmieh gaavnah <a
+      href="userdocs/leaflet/win-install.html">Windowsasse</a> jïh <a
+      href="userdocs/leaflet/mac-install.html">MacOS X:ese</a>. Jis dov lea
+      Divvun 2.x dellie ih daarpesjh dam masjijneste vaeltedh.</warning>
 
-      <note>Site is under reconstruction. Links, texts, etc may not be consistent
-      and correct. Apologies for the inconveniences.</note>
+      <note>Nettsidene bygges om. Lenker, tekst m.m. kan være inkorrekte. Vi
+      beklager.</note>
 
       <section>
          <title>Veedtjh Divvunem</title>
+         <table class="invisible">
+         <tr><td>
          <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe">
-            <icon alt="Download" height="32"
-            src="images/Crystal_Clear_app_download_manager.png" width="32" />
-            <icon alt="Windows" height="32"
-            src="images/windows.png" width="32" />
-            MS Office — Windows, Divvun
-            v2.2</a> — <a href="userdocs/leaflet/win-install.html">bïhkedimmie</a> — <a
-            href="userdocs/videos/win-msoffice-video.html">Vuesiehtimmmievidejovvh</a> - <a href="sysadmininfo.html">Issues with Windows7</a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon alt="Download"
-            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />MS Office — MacOS X, Divvun
-            v2.2</a> — <a href="userdocs/leaflet/mac-install.html">bïhkedimmie</a> — <a
-            href="userdocs/videos/mac-video.html">vuesiehtimmievidejovvh</a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/smi.oxt"><icon alt="Download" height="32"
-            src="images/Crystal_Clear_app_download_manager.png" width="32" />OpenOffice 3 — gaajhkh operativsysteemh,
-            Divvun v.1.0beta9</a> — <a href="userdocs/X-spell/install_use_OOo3x.html">bïhkedimmie</a> — <a
-            href="userdocs/videos/ooo-video.html">vuesiehtimmievidejovvh</a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon alt="Download"
-            height="32" src="images/Crystal_Clear_app_download_manager.png" width="32" />InDesign — MacOS X, Divvun
-            v2.1</a> — <a href="userdocs/indesign/index.html">bïhkedimmie</a></li>
-            <li><a href="downloads.html">Jeatjah-laakan sijjiedehtedh</a></li>
-            <li><a href="sysadmininfo.html">Issues with Windows7, info for administrators &amp; integrators (English only)</a></li>
+           <li class="Download"><a
+            href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="Office" height="27" width="27"
+            src="images/MSOffice-icon.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/windows.png"/><br/>Divvun for MS Office — Windows</a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+                · <a href="userdocs/leaflet/win-install.html">Office 2013-bïhkedimmie</a>
+                - <a href="sysadmininfo.html">Kjente feil</a>
+           <br/>· <a href="userdocs/leaflet/win-install.html">Office 2010-bïhkedimmie</a>
+                - <a href="sysadmininfo.html">Kjente feil</a>
+           <br/>· <a href="userdocs/leaflet/win-install.html">Office 2007-bïhkedimmie</a>
+           <br/>· <a href="userdocs/leaflet/win-install.html">Office XP-bïhkedimmie</a>
+         </td>
+         <td>
+           <br/><a href="userdocs/videos/win-msoffice-video.html">
+           <icon alt="Instructions" height="48" width="48"
+            src="images/Movie-icon.png"/>Vuesiehtimmmievidejovvh</a></td>
+         </tr>
+         <tr>
+         <td colspan="4"><hr/></td>
+         </tr>
+         <tr><td>
+         <ul>
+           <li class="Download"><a
+            href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/MSOffice-icon.png"/><icon
+            alt="MacOSX" height="27" width="27"
+            src="images/mac.png" /><br/>Divvun for MS Office — MacOS X</a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+           <br/>· <a href="userdocs/leaflet/mac-install.html">Office 2011-bïhkedimmie</a>
+           <br/>· <a href="userdocs/leaflet/mac-install.html">Office 2008-bïhkedimmie</a>
+           <br/>· <a href="userdocs/leaflet/mac-install.html">Office 2004-bïhkedimmie</a>
+         </td>
+         <td>
+         <br/><a href="userdocs/videos/mac-video.html">
+           <icon alt="Instructions" height="48" width="48"
+            src="images/Movie-icon.png"/>Vuesiehtimmmievidejovvh</a></td>
+         </tr>
+         <tr>
+         <td colspan="4"><hr/></td>
+         </tr>
+         <tr><td>
+         <ul>
+           <li class="Download"><a
+           href="http://divvun.no/static_files/smi.oxt"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/Galaxy_OOo3_main_256.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/LibreOfficeIcon.png"/><icon
+            alt="Windows" height="32" width="32"
+            src="images/windows.png" /><icon
+            alt="MacOSX" height="32" width="32"
+            src="images/mac.png" /><icon
+            alt="Linux" height="27" width="27"
+            src="images/Linux_Icon_256.png" /><br/>Divvun for OpenOffice &amp; LibreOffice </a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+           <br/>· <a href="userdocs/X-spell/install_use_OOo3x.html"><icon
+            alt="Linux" height="12" width="12"
+            src="images/Linux_Icon_256.png" />Linux-bïhkedimmie</a>
+           <br/>· <a href="userdocs/X-spell/install_use_OOo3x.html"><icon
+            alt="MacOSX" height="12" width="12"
+            src="images/mac.png" />MacOSX-bïhkedimmie</a>
+           <br/>· <a href="userdocs/X-spell/install_use_OOo3x.html"><icon
+            alt="Windows" height="12" width="12"
+            src="images/windows.png" />Windows-bïhkedimmie</a>
+         </td>
+         <td>
+         <br/><a href="userdocs/videos/ooo-video.html">
+           <icon alt="Instructions" height="48" width="48"
+            src="images/Movie-icon.png"/>Vuesiehtimmmievidejovvh</a></td>
+         </tr>
+         <tr>
+         <td colspan="4"><hr/></td>
+         </tr>
+         <tr><td>
+         <ul>
+           <li class="Download"><a
+            href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="MacOSX" height="27" width="27"
+            src="images/InDesign-icon.png" /><icon
+            alt="MacOSX" height="27" width="27"
+            src="images/mac.png" /><br/>Divvun for InDesign CS3 — MacOS X</a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+         <br/><br/>
+         <br/>· <a href="userdocs/indesign/index.html">Bïhkedimmie</a></td>
+         </tr>
+         <tr>
+         <td colspan="4"><hr/></td>
+         </tr>
+         </table>
+         <br/>
+         <ul>
+           <li><a href="downloads.html">Jeatjah-laakan sijjiedehtedh, gamle versjoner</a></li>
+           <li><a href="sysadmininfo.html">Info for administrators &amp; integrators (English only)</a></li>
          </ul>
       </section>
    </body>
