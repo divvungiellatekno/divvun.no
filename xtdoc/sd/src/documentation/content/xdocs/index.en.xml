@@ -53,6 +53,9 @@
            <icon alt="Instructions" height="48" width="48"
             src="images/Movie-icon.png"/>instructional videos</a></td>
          </tr>
+         <tr>
+         <td colspan="4"><hr/></td>
+         </tr>
          <tr><td>
          <ul>
            <li class="Download"><a
@@ -77,6 +80,9 @@
          <br/><a href="userdocs/videos/mac-video.html">
            <icon alt="Instructions" height="48" width="48"
             src="images/Movie-icon.png"/>instructional videos</a></td>
+         </tr>
+         <tr>
+         <td colspan="4"><hr/></td>
          </tr>
          <tr><td>
          <ul>
@@ -109,6 +115,9 @@
            <icon alt="Instructions" height="48" width="48"
             src="images/Movie-icon.png"/>instructional videos</a></td>
          </tr>
+         <tr>
+         <td colspan="4"><hr/></td>
+         </tr>
          <tr><td>
          <ul>
            <li class="Download"><a
@@ -130,8 +139,11 @@
          <br/><br/>
          <br/>· <a href="userdocs/indesign/index.html">instructions</a></td>
          </tr>
+         <tr>
+         <td colspan="4"><hr/></td>
+         </tr>
          </table>
-         <br/><br/>
+         <br/>
          <ul>
            <li><a href="downloads.html">Other installation options, older versions</a></li>
            <li><a href="sysadmininfo.html">Info for administrators &amp; integrators (English only)</a></li>
