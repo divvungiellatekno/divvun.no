@@ -3,13 +3,14 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>Divvun 2 - sámi proofing tools</title>
+      <title>Divvun 2 - Sámi proofing tools</title>
       <meta name="description">Saami speller, Saami spell checker</meta>
    </header>
    <body>
       <p>Divvun 2.2 with support for 64-bit Windows is available as of November
       23, 2011. There will be no support for InDesign CS4 and CS5, but InDesign
-      CS 5.5 and newer supports Hunspell dictionaries.</p>
+      CS 5.5 and newer supports Hunspell dictionaries, which can be found under
+      <em>«Other installation options, older versions»</em> below.</p>
 
       <warning>If you have a Divvun 1.x version installed, you must uninstall
         the old version before installing the new. Here you can find instructions
@@ -51,7 +52,7 @@
          <td>
            <br/><a href="userdocs/videos/win-msoffice-video.html">
            <icon alt="Instructions" height="48" width="48"
-            src="images/Movie-icon.png"/>instructional videos</a></td>
+            src="images/Movie-icon.png"/>Instructional videos</a></td>
          </tr>
          <tr>
          <td colspan="4"><hr/></td>
@@ -74,12 +75,14 @@
            <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
          </td>
          <td>
-         <br/><br/>
-         <br/>· <a href="userdocs/leaflet/mac-install.html">instructions</a>     </td>
+           <br/>· <a href="userdocs/leaflet/mac-install.html">Office 2011 instructions</a>
+           <br/>· <a href="userdocs/leaflet/mac-install.html">Office 2008 instructions</a>
+           <br/>· <a href="userdocs/leaflet/mac-install.html">Office 2004 instructions</a>
+         </td>
          <td>
          <br/><a href="userdocs/videos/mac-video.html">
            <icon alt="Instructions" height="48" width="48"
-            src="images/Movie-icon.png"/>instructional videos</a></td>
+            src="images/Movie-icon.png"/>Instructional videos</a></td>
          </tr>
          <tr>
          <td colspan="4"><hr/></td>
@@ -96,24 +99,32 @@
             src="images/Galaxy_OOo3_main_256.png"/><icon
             alt="Windows" height="27" width="27"
             src="images/LibreOfficeIcon.png"/><icon
-            alt="Windows" height="32"
-            src="images/windows.png" width="32" /><icon
-            alt="MacOSX" height="32"
-            src="images/mac.png" width="32" /><icon
+            alt="Windows" height="32" width="32"
+            src="images/windows.png" /><icon
+            alt="MacOSX" height="32" width="32"
+            src="images/mac.png" /><icon
             alt="Linux" height="27" width="27"
-            src="images/Linux_Icon_256.png" /><br/>Divvun for OpenOffice &amp; LibreOffice 3</a>
+            src="images/Linux_Icon_256.png" /><br/>Divvun for OpenOffice &amp; LibreOffice </a>
            </li>
          </ul></td>
          <td>
            <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
          </td>
          <td>
-         <br/><br/>
-         <br/>· <a href="userdocs/X-spell/install_use_OOo3x.html">instructions</a></td>
+           <br/>· <a href="userdocs/X-spell/install_use_OOo3x.html"><icon
+            alt="Linux" height="12" width="12"
+            src="images/Linux_Icon_256.png" />Linux instructions</a>
+           <br/>· <a href="userdocs/X-spell/install_use_OOo3x.html"><icon
+            alt="MacOSX" height="12" width="12"
+            src="images/mac.png" />MacOSX instructions</a>
+           <br/>· <a href="userdocs/X-spell/install_use_OOo3x.html"><icon
+            alt="Windows" height="12" width="12"
+            src="images/windows.png" />Windows instructions</a>
+         </td>
          <td>
          <br/><a href="userdocs/videos/ooo-video.html">
            <icon alt="Instructions" height="48" width="48"
-            src="images/Movie-icon.png"/>instructional videos</a></td>
+            src="images/Movie-icon.png"/>Instructional videos</a></td>
          </tr>
          <tr>
          <td colspan="4"><hr/></td>
@@ -137,7 +148,7 @@
          </td>
          <td>
          <br/><br/>
-         <br/>· <a href="userdocs/indesign/index.html">instructions</a></td>
+         <br/>· <a href="userdocs/indesign/index.html">Instructions</a></td>
          </tr>
          <tr>
          <td colspan="4"><hr/></td>
