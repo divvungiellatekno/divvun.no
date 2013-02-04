@@ -23,7 +23,10 @@
       href="userdocs/leaflet/mac-install.html">MacOS X:ese</a>. Jis dov lea
       Divvun 2.x dellie ih daarpesjh dam masjijneste vaeltedh.</warning>
 
-      <note>Nettsidene bygges om. Lenker, tekst m.m. kan være inkorrekte. Vi
+      <note>
+      <icon alt="Under omarbetning" height="26" width="31"
+      src="images/traffic-warning.png"/>
+      Nettsidene bygges om. Lenker, tekst m.m. kan være inkorrekte. Vi
       beklager.</note>
 
       <section>

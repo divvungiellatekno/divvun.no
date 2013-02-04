@@ -21,7 +21,10 @@
       href="userdocs/leaflet/mac-install.html">MacOS X:i</a>. Jus la Divvun 2.x
       de ij dárbaha ierit válldet.</warning>
 
-      <note>Nettsidene bygges om. Lenker, tekst m.m. kan være inkorrekte. Vi
+      <note>
+      <icon alt="Under omarbetning" height="26" width="31"
+      src="images/traffic-warning.png"/>
+      Nettsidene bygges om. Lenker, tekst m.m. kan være inkorrekte. Vi
       beklager.</note>
 
       <section>

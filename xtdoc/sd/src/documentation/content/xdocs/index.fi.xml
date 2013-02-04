@@ -18,7 +18,10 @@
       href="userdocs/leaflet/mac-install.html">MacOS X:lle</a>. Divvun 2.2
       voidaan asentaa version 2.x tilalle ilman poistamista ensin.</warning>
 
-      <note>Site is under reconstruction. Links, texts, etc may not be consistent
+      <note>
+      <icon alt="Under omarbetning" height="26" width="31"
+      src="images/traffic-warning.png"/>
+      Site is under reconstruction. Links, texts, etc may not be consistent
       and correct. Apologies for the inconveniences.</note>
 
       <section>

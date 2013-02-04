@@ -21,7 +21,10 @@
       uppdatera alla Divvun 2.x-versioner utan att de måste avinstalleras
       först.</warning>
 
-      <note>Nätsidorna byggs om. Länkar, text m.m. kan vara felaktiga. Vi
+      <note>
+      <icon alt="Under omarbetning" height="26" width="31"
+      src="images/traffic-warning.png"/>
+      Nätsidorna byggs om. Länkar, text m.m. kan vara felaktiga. Vi
       ber om ursäkt.</note>
 
       <section>

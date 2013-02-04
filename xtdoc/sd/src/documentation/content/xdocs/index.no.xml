@@ -19,7 +19,10 @@
       <a href="userdocs/leaflet/mac-install.html">MacOSX</a>. Divvun 2.2 kan
       oppdatere alle Divvun 2.x-versjoner uten at de må avinstalleres først.</warning>
 
-      <note>Nettsidene bygges om. Lenker, tekst m.m. kan være inkorrekte. Vi
+      <note>
+      <icon alt="Under omarbetning" height="26" width="31"
+      src="images/traffic-warning.png"/>
+      Nettsidene bygges om. Lenker, tekst m.m. kan være inkorrekte. Vi
       beklager.</note>
 
       <section>
