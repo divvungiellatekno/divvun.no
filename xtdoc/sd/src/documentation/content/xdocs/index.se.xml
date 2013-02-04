@@ -9,10 +9,9 @@
 
    <body>
       <p>Divvun 2.2 mii doarju 64-bits Windows lea olámuttus skábmamánu 23. b.
-      2011 rájes. Det vil ikke bli støtte for InDesign CS4 og CS5, men
-      InDesign CS5.5 og nyere har støtte for Hunspell-ordlister, som kan lastes
-      ned ved å klikke på lenka <em>«Eará sajáiduhttineavttut, gamle
-      versjoner»</em> nedenfor.</p>
+      2011 rájes. Divvun ii šatta doarjut InDesign CS4 ja CS5, muhto
+      InDesign CS5.5 ja ođđaseabbo veršuvnnat sáhttet geavahit Hunspell-listtuid.
+      Daid sáhttá viežžat jus coahkkala liŋkka <a href="downloads.html">Eará sajáiduhttineavttut ja boarrásut veršuvnnat</a></p>
 
       <warning>Jus dus ain lea Divvun 1.x iežat mašiinnas, de fertet dan váldit
       eret ovdalgo sajáiduhtát dán veršuvnna. Dás gávnnat bagadusaid <a
@@ -23,11 +22,10 @@
       <note>
       <icon alt="Under omarbetning" height="26" width="31"
       src="images/traffic-warning.png"/>
-      Nettsidene bygges om. Lenker, tekst m.m. kan være inkorrekte. Vi
-      beklager.</note>
+      Leat ođasmahttimin neahttasiidduid. Liŋkkat, teaksta jna. dáidet leat boastut. Mii sallošit dan.</note>
 
       <section>
-         <title>Last ned Divvun</title>
+         <title>Viečča Divvun-reaidduid</title>
          <table class="invisible">
          <tr><td>
          <ul>
@@ -40,7 +38,7 @@
             alt="Office" height="27" width="27"
             src="images/MSOffice-icon.png"/><icon
             alt="Windows" height="27" width="27"
-            src="images/windows.png"/><br/>Divvun for MS Office — Windows</a>
+            src="images/windows.png"/><br/>Divvun MS Office — Windowsii</a>
            </li>
          </ul></td>
          <td>
@@ -48,9 +46,9 @@
          </td>
          <td>
                 · <a href="userdocs/leaflet/win-install.html">Office 2013-bagadallan</a>
-                - <a href="sysadmininfo.html">Kjente feil</a>
+                - <a href="sysadmininfo.html">Dovddus vigit</a>
            <br/>· <a href="userdocs/leaflet/win-install.html">Office 2010-bagadallan</a>
-                - <a href="sysadmininfo.html">Kjente feil</a>
+                - <a href="sysadmininfo.html">Dovddus vigit</a>
            <br/>· <a href="userdocs/leaflet/win-install.html">Office 2007-bagadallan</a>
            <br/>· <a href="userdocs/leaflet/win-install.html">Office XP-bagadallan</a>
          </td>
@@ -73,7 +71,7 @@
             alt="Windows" height="27" width="27"
             src="images/MSOffice-icon.png"/><icon
             alt="MacOSX" height="27" width="27"
-            src="images/mac.png" /><br/>Divvun for MS Office — MacOS X</a>
+            src="images/mac.png" /><br/>Divvun MS Office — MacOS X:i</a>
            </li>
          </ul></td>
          <td>
@@ -109,7 +107,7 @@
             alt="MacOSX" height="32" width="32"
             src="images/mac.png" /><icon
             alt="Linux" height="27" width="27"
-            src="images/Linux_Icon_256.png" /><br/>Divvun for OpenOffice &amp; LibreOffice </a>
+            src="images/Linux_Icon_256.png" /><br/>Divvun OpenOfficii ja LibreOfficii </a>
            </li>
          </ul></td>
          <td>
@@ -145,7 +143,7 @@
             alt="MacOSX" height="27" width="27"
             src="images/InDesign-icon.png" /><icon
             alt="MacOSX" height="27" width="27"
-            src="images/mac.png" /><br/>Divvun for InDesign CS3 — MacOS X</a>
+            src="images/mac.png" /><br/>Divvun InDesign CS3 — MacOS X:i</a>
            </li>
          </ul></td>
          <td>
@@ -161,8 +159,8 @@
          </table>
          <p><br/></p>
          <ul>
-           <li><a href="downloads.html">Eará sajáiduhttineavttut, gamle versjoner</a></li>
-           <li><a href="sysadmininfo.html">Info for administrators &amp; integrators (English only)</a></li>
+           <li><a href="downloads.html">Eará sajáiduhttineavttut ja boares veršuvnnat</a></li>
+           <li><a href="sysadmininfo.html">Dieđut vuogádathálddašeddjiide (dušše eŋgelasgillii)</a></li>
          </ul>
       </section>
    </body>
