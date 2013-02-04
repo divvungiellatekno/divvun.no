@@ -17,11 +17,11 @@
          <warning>If you are upgrading from version 1, please uninstall the old version before installing version 2.</warning>
          <p>Insert the CD or click the download link - the installation application will start automatically.</p>
          <p>1. Select installation language, that is, the interface language to be used during installation:</p>
-         <p><img alt="Choose installation language" src="guvvieh/PC_02_Install_choose_language_cut.png" /></p>
+         <p><img alt="Choose installation language" src="images/PC_02_Install_choose_language_cut.png" /></p>
          <p>2. To install the program, press the <strong>Install</strong> button.</p>
-         <p><img alt="Press the __Install__ button" src="guvvieh/PC_04_install_continue.png" /></p>
+         <p><img alt="Press the __Install__ button" src="images/PC_04_install_continue.png" /></p>
          <p>3. To finish the installation, press the <strong>Finish</strong> button:</p>
-         <p><img alt="Finish the installation" src="guvvieh/PC_05_install_complete.png" /></p>
+         <p><img alt="Finish the installation" src="images/PC_05_install_complete.png" /></p>
          <p>Then the installation is finished.</p>
       </section>
       <section>
@@ -29,22 +29,22 @@
          <p>1. To be able to type Sami letters you will have to open the <strong>Control Panel</strong> . Double click
          the icon <strong>Date, time, language and regional settings:</strong></p>
          <p><img alt="Date, time, language and regional settings"
-         src="guvvieh/PC_07_controlpanel_settings_date_clock_cut.png" /></p>
+         src="images/PC_07_controlpanel_settings_date_clock_cut.png" /></p>
          <p>2. Now regional settings is open. Double click the icon <strong>Settings for region and language</strong>
          :</p>
          <p><img alt="Double click the &quot;Regional and language settings&quot; icon"
-         src="guvvieh/PC_08_Settings_language_cut.png" /></p>
+         src="images/PC_08_Settings_language_cut.png" /></p>
          <p>3. In this dialogue you choose the <strong>Language</strong> tab and then press the <strong>Details</strong>
          button:</p>
-         <p><img alt="Press the &quot;Details&quot; button" src="guvvieh/PC_09_Settings_language_details_cut.png" /></p>
+         <p><img alt="Press the &quot;Details&quot; button" src="images/PC_09_Settings_language_details_cut.png" /></p>
          <p>4. Press the <strong>Add...</strong> button. Now you can choose which language you would like to use. Choose
          <strong>Sami:</strong></p>
-         <p><img alt="Choose Sami" src="guvvieh/PC_10_settings_choose_language_cut.png" />.</p>
+         <p><img alt="Choose Sami" src="images/PC_10_settings_choose_language_cut.png" />.</p>
          <p>5. Close all windows and return to the Desktop.</p>
          <p>6. When you want to write in Sami from now on, you click the language icon in the lower right corner on the
          desktop, and choose <strong>Sami</strong> :</p>
          <p><img alt="Choose Sami keyboard setting when you write in Sami"
-         src="guvvieh/PC_11_dashboard_choose_language_cut.png" /></p>
+         src="images/PC_11_dashboard_choose_language_cut.png" /></p>
          <p>Now the keyboard setting is tuned to Sami letters, e.g. the key "q" will give the letter "á" and the key "]"
          on a US keyboard (= the key "¨" on a Norwegian keyboard) will give the letter "ŋ" etc.</p>
       </section>
@@ -53,7 +53,7 @@
          <p>In order for the Divvun tools to be able to help you, you have to tell the computer that you actually do
          intend to write in Sami, by choosing Sami as the language of your text.</p>
          <p>1a. MS Office 2003: When you have opened MS Office you choose the menu <strong>Tools Languages Mark selected
-         text as …</strong> <img alt="Menu to choose Sami" src="guvvieh/PC_14_Office_2003_velg_sprak.png" /></p>
+         text as …</strong> <img alt="Menu to choose Sami" src="images/PC_14_Office_2003_velg_sprak.png" /></p>
          <p>1b. Office 2007: When you have opened MS Office you click the tab <strong>Se gjennom</strong> , where you
          chose <strong>Angi språk</strong></p>
          <p>2. In the emerging dialogue you choose <strong>Sami</strong> or <strong>Lule Sami</strong> . NB! Make sure
@@ -61,28 +61,28 @@
          Office will guess the text is in languages other than Sami for a long time, and Divvun will not work as
          expected (most users report that it will eventually settle with the user's language setting, but that it takes
          time).</p>
-         <p><img alt="Choose language dialogue" src="guvvieh/PC_15_Office_2003_bestem_sprak.png" /></p>
+         <p><img alt="Choose language dialogue" src="images/PC_15_Office_2003_bestem_sprak.png" /></p>
          <p>3. Now you may start to write in Sami, and the program will then help you with your spelling. You may either
          right-click (ctrl-click) on words underlined with red, in which case it looks as follows:<br /></p>
-         <p><img alt="Suggestion in menu" src="guvvieh/PC_16_Bruke_stavekontrollen.png" /></p>
+         <p><img alt="Suggestion in menu" src="images/PC_16_Bruke_stavekontrollen.png" /></p>
          <p>or you may start the speller in a separate window. Press the <img alt="abc-button"
-         src="guvvieh/PC_17_abc_knapp.png" />. The result is:<br /><img alt="The spell checker in use"
-         src="guvvieh/PC_13_MSOffice_example_cut.png" /></p>
+         src="images/PC_17_abc_knapp.png" />. The result is:<br /><img alt="The spell checker in use"
+         src="images/PC_13_MSOffice_example_cut.png" /></p>
       </section>
       <section>
          <title>Uninstallation</title>
          <ul>
             <li>Open the <strong>Control Panel</strong> <br /> <img alt="Windows Control Panel"
-            src="guvvieh/PC_18_control_panel_addremove.png" /></li>
+            src="images/PC_18_control_panel_addremove.png" /></li>
             <li>Press <strong>Add or remove programs</strong></li>
             <li>Browse down to <strong>Sámi Proofing Tools</strong> and click the item <br /> <img
-            alt="Sami Proofing tools are marked" src="guvvieh/PC_19_remove_sami_proofing_tools.png" /></li>
+            alt="Sami Proofing tools are marked" src="images/PC_19_remove_sami_proofing_tools.png" /></li>
             <li>Click the <strong>Remove</strong> button.</li>
             <li>When the removal process is finished, the <strong>Sámi Proofing Tools</strong> item in the list of
             installed programs will have disappeared</li>
             <li>If you have the South Sámi beta installed and want to remove it, select
             <strong>SouthSamiSpellerBeta1</strong> and click <strong>Change/Remove</strong>:<br /><img alt="???"
-            src="guvvieh/PC_20_remove_sma_beta.png" /></li>
+            src="images/PC_20_remove_sma_beta.png" /></li>
          </ul>
       </section>
    </body>

@@ -15,17 +15,17 @@
 			<p>Aseta CD asemaan tai osoita latauslinkkiä - asennusohjelma käynnistyy itsestään. </p>
 			<p>1. Valitse asennuskieli jota käytetään asennuksen yhteydessä: </p>
 			<p>
-				<img src="guvvieh/PC_02_Install_choose_language_cut.png" alt="Valitse asennuskieli"/>
+				<img src="images/PC_02_Install_choose_language_cut.png" alt="Valitse asennuskieli"/>
 			</p>
 			
 			<p>2. Asenna ohjelmisto osoittamalla  <strong>Asenna</strong> . </p>
 			<p>
-				<img src="guvvieh/PC_04_install_continue.png" alt="osoita &quot;Asenna&quot;-painiketta"/>
+				<img src="images/PC_04_install_continue.png" alt="osoita &quot;Asenna&quot;-painiketta"/>
 			</p>
 			
 			<p>3. Lopeta asennus osoittamalla  <strong>Valmis</strong> : </p>
 			<p>
-				<img src="guvvieh/PC_05_install_complete.png" alt="Lopeta asennus"/>
+				<img src="images/PC_05_install_complete.png" alt="Lopeta asennus"/>
 			</p>
 			<p>Asennus on nyt valmis. </p>
 		</section>
@@ -33,27 +33,27 @@
 			<title>Windows-asetukset kirjoitettaessa saameksi</title>
 			<p>1. Saamenkielinen näppäimistö otetaan käyttöön  <strong>Ohjauspaneelista</strong> . Kaksoisosoita  <strong>Päivämäärä-, aika-, kieli- ja alueasetukset</strong> -kuvaketta: </p>
 			<p>
-				<img src="guvvieh/PC_07_controlpanel_settings_date_clock_cut.png" alt="Päivämäärä-, aika-, kieli- ja alueasetukset"/>
+				<img src="images/PC_07_controlpanel_settings_date_clock_cut.png" alt="Päivämäärä-, aika-, kieli- ja alueasetukset"/>
 			</p>
 			
 			<p>2. Alueasetuksissa kaksoisosoita  <strong>Aluekohtaiset ja kieliasetukset</strong> -kuvaketta: </p>
 			<p>
-				<img src="guvvieh/PC_08_Settings_language_cut.png" alt="Kaksoisosoita kuvaketta &quot;Aluekohtaiset ja kieliasetukset&quot;"/>
+				<img src="images/PC_08_Settings_language_cut.png" alt="Kaksoisosoita kuvaketta &quot;Aluekohtaiset ja kieliasetukset&quot;"/>
 			</p>
 			
 			<p>3. Valitse välilehti  <strong>Kieli</strong> ja osoita  <strong>Tiedot:</strong> </p>
 			<p>
-				<img src="guvvieh/PC_09_Settings_language_details_cut.png" alt="Osoita &quot;Tiedot&quot;"/>
+				<img src="images/PC_09_Settings_language_details_cut.png" alt="Osoita &quot;Tiedot&quot;"/>
 			</p>
 			
 			<p>4. Valitse  <strong>Lisää...</strong> . Valitse vaihtoehdoista  <strong>Saamen kieli:</strong> </p>
-			<p><img src="guvvieh/PC_10_settings_choose_language_cut.png" alt="Valitse saamen kieli"/>. </p>
+			<p><img src="images/PC_10_settings_choose_language_cut.png" alt="Valitse saamen kieli"/>. </p>
 			
 			<p>5. Tämän jälkeen voit sulkea ikkunat ja palata takaisin työpöydälle. </p>
 			
 			<p>6. Kun kirjoitat saamen kielellä, osoita oikeassa alakulmassa sijaitsevaa kielikuvaketta ja valitse  <strong>Saamen kieli</strong> : </p>
 			<p>
-				<img src="guvvieh/PC_11_dashboard_choose_language_cut.png" alt="Valitse saamenkielinen näppäimistö kirjoitettaessa saamen kielellä"/>
+				<img src="images/PC_11_dashboard_choose_language_cut.png" alt="Valitse saamenkielinen näppäimistö kirjoitettaessa saamen kielellä"/>
 			</p>
 			<p>Nyt käytössäsi on saamenkielinen näppäimistö; esim. "q"-näppäin syöttää "á"-merkin ja "¨"-näppäin syöttää "&#331;"-merkin. </p>
 		</section>
@@ -61,27 +61,27 @@
 			<title>Divvun-ohjelman käyttäminen</title>
 			<p>1. Divvun-ohjelmaa käytettäessä täytyy määritellä käytettävä kieli saamen kieleksi. Kun avaat MS Office -sovelluksen osoita  <strong>Oikoluku</strong> , valitse  <strong>Näyttökieli</strong> ja  <strong>Saamen kieli:</strong> </p>
 			<p>
-				<img src="guvvieh/PC_12_MSOffice_choose_language_cut.png" alt="Valitse &quot;Saamen kieli&quot; kirjoituskieleksi"/>
+				<img src="images/PC_12_MSOffice_choose_language_cut.png" alt="Valitse &quot;Saamen kieli&quot; kirjoituskieleksi"/>
 			</p>
 			
 			<p>2. Nyt voit kirjoittaa saamen kielellä ja käyttää Divvun-työkalua apuna oikoluvussa: </p>
 			<p>
-				<img src="guvvieh/PC_13_MSOffice_example_cut.png" alt="Oikolukuohjelma käytössä"/>
+				<img src="images/PC_13_MSOffice_example_cut.png" alt="Oikolukuohjelma käytössä"/>
 			</p>
 		</section>
       <section>
          <title>Poistaminen</title>
          <ul>
             <li>Avaa <strong>Ohjauspaneeli</strong> <br /> <img alt="Windows Control Panel"
-            src="guvvieh/PC_18_control_panel_addremove.png" /></li>
+            src="images/PC_18_control_panel_addremove.png" /></li>
             <li>Valitse <strong>Lisää tai poista ohjelmia</strong></li>
             <li>Valitse <strong>Sámi Proofing Tools</strong> ja klikkaa <br /> <img
-            alt="Sami Proofing tools are marked" src="guvvieh/PC_19_remove_sami_proofing_tools.png" /></li>
+            alt="Sami Proofing tools are marked" src="images/PC_19_remove_sami_proofing_tools.png" /></li>
             <li>Klikkaa <strong>Poista</strong> nappia.</li>
             <li>Kun poistaminen on valmis, <strong>Sámi Proofing Tools</strong> on poistunut listalta </li>
             <li>Jos olet asentanut eteläsaamen kielen beta työkalut ja haluat poistaa ne, valitse
             <strong>SouthSamiSpellerBeta1</strong> ja klikkaa <strong>Vaihda/Poista</strong>:<br /><img alt="???"
-            src="guvvieh/PC_20_remove_sma_beta.png" /></li>
+            src="images/PC_20_remove_sma_beta.png" /></li>
          </ul>
       </section>
 	</body>

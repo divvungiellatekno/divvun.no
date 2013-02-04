@@ -15,7 +15,7 @@
 
       <warning>Om du allerede har Divvun 1.x installert på maskinen din må du
       avinstallere den gamle versjonen før du installerer den nye. Her finner du
-      vegledning for <a href="userdocs/leaflet/win-install.html">Windows</a> og
+      vegledning for <a href="userdocs/win/install-msoff-2007.html">Windows</a> og
       <a href="userdocs/mac/install-msoff-2008.html">MacOSX</a>. Divvun 2.2 kan
       oppdatere alle Divvun 2.x-versjoner uten at de må avinstalleres først.</warning>
 
@@ -46,12 +46,12 @@
            <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
          </td>
          <td>
-                · <a href="userdocs/leaflet/win-install.html">Office 2013-vegledning</a>
+                · <a href="userdocs/win/install-msoff-2007.html">Office 2013-vegledning</a>
                 - <a href="sysadmininfo.html">Kjente feil</a>
-           <br/>· <a href="userdocs/leaflet/win-install.html">Office 2010-vegledning</a>
+           <br/>· <a href="userdocs/win/install-msoff-2007.html">Office 2010-vegledning</a>
                 - <a href="sysadmininfo.html">Kjente feil</a>
-           <br/>· <a href="userdocs/leaflet/win-install.html">Office 2007-vegledning</a>
-           <br/>· <a href="userdocs/leaflet/win-install.html">Office XP-vegledning</a>
+           <br/>· <a href="userdocs/win/install-msoff-2007.html">Office 2007-vegledning</a>
+           <br/>· <a href="userdocs/win/install-msoff-2007.html">Office XP-vegledning</a>
          </td>
          <td>
            <br/><a href="userdocs/videos/win-msoffice-video.html">
@@ -115,13 +115,13 @@
            <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
          </td>
          <td>
-           <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
+           <br/>· <a href="userdocs/linux/install-OOo-3.html"><icon
             alt="Linux" height="12" width="12"
             src="images/Linux_Icon_256.png" />Linux-vegledning</a>
            <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
             alt="MacOSX" height="12" width="12"
             src="images/mac.png" />MacOSX-vegledning</a>
-           <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
+           <br/>· <a href="userdocs/win/install-OOo-3.html"><icon
             alt="Windows" height="12" width="12"
             src="images/windows.png" />Windows-vegledning</a>
          </td>

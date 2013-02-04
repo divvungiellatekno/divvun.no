@@ -19,7 +19,7 @@
       <warning>Jis dov lea joe Divvun 1.x-versjovne daatamasjijnesne,  dellie
       tjoeverh dam masjijneste vaeltedh aarebi goh orre versjovnem dïsse
       bïejedh.  Daesnie naan bïhkedimmieh gaavnah <a
-      href="userdocs/leaflet/win-install.html">Windowsasse</a> jïh <a
+      href="userdocs/win/install-msoff-2007.html">Windowsasse</a> jïh <a
       href="userdocs/mac/install-msoff-2008.html">MacOS X:ese</a>. Jis dov lea
       Divvun 2.x dellie ih daarpesjh dam masjijneste vaeltedh.</warning>
 
@@ -50,12 +50,12 @@
            <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
          </td>
          <td>
-                · <a href="userdocs/leaflet/win-install.html">Office 2013-bïhkedimmie</a>
+                · <a href="userdocs/win/install-msoff-2007.html">Office 2013-bïhkedimmie</a>
                 - <a href="sysadmininfo.html">Kjente feil</a>
-           <br/>· <a href="userdocs/leaflet/win-install.html">Office 2010-bïhkedimmie</a>
+           <br/>· <a href="userdocs/win/install-msoff-2007.html">Office 2010-bïhkedimmie</a>
                 - <a href="sysadmininfo.html">Kjente feil</a>
-           <br/>· <a href="userdocs/leaflet/win-install.html">Office 2007-bïhkedimmie</a>
-           <br/>· <a href="userdocs/leaflet/win-install.html">Office XP-bïhkedimmie</a>
+           <br/>· <a href="userdocs/win/install-msoff-2007.html">Office 2007-bïhkedimmie</a>
+           <br/>· <a href="userdocs/win/install-msoff-2007.html">Office XP-bïhkedimmie</a>
          </td>
          <td>
            <br/><a href="userdocs/videos/win-msoffice-video.html">
@@ -119,13 +119,13 @@
            <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
          </td>
          <td>
-           <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
+           <br/>· <a href="userdocs/linux/install-OOo-3.html"><icon
             alt="Linux" height="12" width="12"
             src="images/Linux_Icon_256.png" />Linux-bïhkedimmie</a>
            <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
             alt="MacOSX" height="12" width="12"
             src="images/mac.png" />MacOSX-bïhkedimmie</a>
-           <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
+           <br/>· <a href="userdocs/win/install-OOo-3.html"><icon
             alt="Windows" height="12" width="12"
             src="images/windows.png" />Windows-bïhkedimmie</a>
          </td>

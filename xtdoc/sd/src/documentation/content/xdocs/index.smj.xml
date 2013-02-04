@@ -17,7 +17,7 @@
 
       <warning>Jus dujna juo la Divvun 1.x de hæhttu válldet dav ierit åvddål gå bieja
       2.2. Dánna gávna bagádusajt <a
-      href="userdocs/leaflet/win-install.html">Windowsii</a> ja <a
+      href="userdocs/win/install-msoff-2007.html">Windowsii</a> ja <a
       href="userdocs/mac/install-msoff-2008.html">MacOS X:i</a>. Jus dunja l Divvun 2.x
       de i dárbaha dav ierit válldet.</warning>
 
@@ -48,12 +48,12 @@
            <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
          </td>
          <td>
-                · <a href="userdocs/leaflet/win-install.html">Office 2013-bágadis</a>
+                · <a href="userdocs/win/install-msoff-2007.html">Office 2013-bágadis</a>
                 - <a href="sysadmininfo.html">Diedos vige</a>
-           <br/>· <a href="userdocs/leaflet/win-install.html">Office 2010-bágadis</a>
+           <br/>· <a href="userdocs/win/install-msoff-2007.html">Office 2010-bágadis</a>
                 - <a href="sysadmininfo.html">Diedos vige</a>
-           <br/>· <a href="userdocs/leaflet/win-install.html">Office 2007-bágadis</a>
-           <br/>· <a href="userdocs/leaflet/win-install.html">Office XP-bágadis</a>
+           <br/>· <a href="userdocs/win/install-msoff-2007.html">Office 2007-bágadis</a>
+           <br/>· <a href="userdocs/win/install-msoff-2007.html">Office XP-bágadis</a>
          </td>
          <td>
            <br/><a href="userdocs/videos/win-msoffice-video.html">
@@ -117,13 +117,13 @@
            <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
          </td>
          <td>
-           <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
+           <br/>· <a href="userdocs/linux/install-OOo-3.html"><icon
             alt="Linux" height="12" width="12"
             src="images/Linux_Icon_256.png" />Linux-bágadis</a>
            <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
             alt="MacOSX" height="12" width="12"
             src="images/mac.png" />MacOSX-bágadis</a>
-           <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
+           <br/>· <a href="userdocs/win/install-OOo-3.html"><icon
             alt="Windows" height="12" width="12"
             src="images/windows.png" />Windows-bágadis</a>
          </td>
