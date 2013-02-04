@@ -7,11 +7,9 @@
       <meta name="description">samisk stavningskontroll</meta>
    </header>
    <body>
-      <p>Divvun 2.2 med stöd för  Windows är tillgänglig från och med 23.
-      november 2011. Det vill inte bli stöd för InDesign CS4 og CS5, men
-      InDesign CS5.5 och nyare har stöd för Hunspell-ordlistor. Divvuns
-      Hunspell-ordlista kan laddas ned genom att klicka på länken
-      <em>«Andra installationsalternativ, gamla versioner»</em> nedanför.</p>
+      <p>Divvun 2.2 med stöd för 64-bits Windows är tillgänglig från och med 23. november 2011. Det kommer inte att bli stöd för InDesign CS4 og CS5, men
+      InDesign CS5.5 och nyare har stöd för Hunspell-ordlistor, som kan lastas
+      ner genom att klicka på länken <em>«Andra installationsalternativ, gamla versioner»</em> nedanför.</p>
 
       <warning>Om du redan har Divvun 1.x installerat på din dator måste du
       avinstallera den gamla versionen innan du installerar den nya. Här hittar
@@ -25,10 +23,10 @@
       <icon alt="Under omarbetning" height="26" width="31"
       src="images/traffic-warning.png"/>
       Nätsidorna byggs om. Länkar, text m.m. kan vara felaktiga. Vi
-      ber om ursäkt.</note>
+      beklagar.</note>
 
       <section>
-         <title>Ladda ned Divvun</title>
+         <title>Ladda hem Divvun</title>
          <table class="invisible">
          <tr><td>
          <ul>
