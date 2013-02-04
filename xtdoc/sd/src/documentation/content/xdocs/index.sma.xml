@@ -63,7 +63,7 @@
             src="images/Movie-icon.png"/>Vuesiehtimmmievidejovvh</a></td>
          </tr>
          <tr>
-         <td colspan="4"><hr/></td>
+         <td colspan="4"><p class="line"/></td>
          </tr>
          <tr><td>
          <ul>
@@ -93,7 +93,7 @@
             src="images/Movie-icon.png"/>Vuesiehtimmmievidejovvh</a></td>
          </tr>
          <tr>
-         <td colspan="4"><hr/></td>
+         <td colspan="4"><p class="line"/></td>
          </tr>
          <tr><td>
          <ul>
@@ -135,7 +135,7 @@
             src="images/Movie-icon.png"/>Vuesiehtimmmievidejovvh</a></td>
          </tr>
          <tr>
-         <td colspan="4"><hr/></td>
+         <td colspan="4"><p class="line"/></td>
          </tr>
          <tr><td>
          <ul>
@@ -159,10 +159,10 @@
          <br/>· <a href="userdocs/indesign/index.html">Bïhkedimmie</a></td>
          </tr>
          <tr>
-         <td colspan="4"><hr/></td>
+         <td colspan="4"><p class="line"/></td>
          </tr>
          </table>
-         <br/>
+         <p><br/></p>
          <ul>
            <li><a href="downloads.html">Jeatjah-laakan sijjiedehtedh, gamle versjoner</a></li>
            <li><a href="sysadmininfo.html">Info for administrators &amp; integrators (English only)</a></li>
