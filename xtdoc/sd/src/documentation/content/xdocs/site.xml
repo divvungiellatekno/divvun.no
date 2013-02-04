@@ -20,28 +20,30 @@
   <about label="Davvisámegiella" tab="Ruoktu">
     <index description="Bures boahttin divvun.no prošektii" href="index.html" label="Álgosiidu"/>
 	<divvun label="Dokumentašuvdna" href="userdocs/">
-		<leaflet label="MS Office" href="leaflet/">
-			<win-msoffice description="Windows/Microsoft Office" href="win-install.html" label="Windows/Microsoft Office" />
-			<mac-msoffice description="Mac OS X/Microsoft Office" href="mac-install.html" label="Mac OS X/Microsoft Office" />
-		</leaflet>
-		<indesign label="Adobe InDesign" href="indesign/">
-			<install_and_use description="Adobe InDesign Installation" href="index.html" label="Installation and Use" />
-			<known_issues description="Adobe InDesign Known Issues" href="KnownIssues.html" label="Known issues" />
+		<win label="MS Office for Windows" href="win/">
+			<win-msoffice description="Divvun for MS Office on Windows" href="install-msoff-2007.html" label="Divvun for MS Office" />
+		</win>
+		<mac label="MS Office for MacOSX" href="mac/">
+			<mac-msoffice description="Divvun for MS Office on MacOSX" href="install-msoff-2008.html" label="Divvun for MS Office" />
+		</mac>
+		<mac label="OpenOffice and LibreOffice" >
+			<openoffice description="Divvun for OpenOffice and LibreOffice" href="mac/install-OOo-3.html" label="Divvun for OpenOffice" />
+		</mac>
+		<indesign label="Adobe InDesign" >
+			<install_and_use description="Installation for InDesign CS3"
+			 href="mac/install-indesign-CS3.html" label="Installation and Use" />
+			<known_issues description="Adobe InDesign Known Issues"
+			 href="mac/KnownIssuesForIndesignCS3.html" label="Known issues" />
 		</indesign>
-		<hunspell label="Hunspell" href="X-spell/">
-			<ooo description="OpenOffice.org" href="install_use_OOo3x.html" label="OpenOffice.org" />
-			<linus description="Hunspell on Linux" href="install_linux.html" label="Hunspell on Linux" />
-			<macosx description="Hunspell on MacOSX" href="install_macosx.html" label="Hunspell on MacOSX"/>
+		<hunspell label="Hunspell" >
+			<linus description="Hunspell on Linux" href="linux/install-linux.html" label="Hunspell on Linux" />
+			<macosx description="Hunspell on MacOSX" href="mac/install-macosx-10.6.html" label="Hunspell on MacOSX"/>
 		</hunspell>
 		<videot label="Videot" href="videos/">
 			<win-msoffice description="Windows/Microsoft Office" href="win-msoffice-video.html" label="Windows/Microsoft Office" />
 			<mac description="Mac OS X" href="mac-video.html" label="Mac OS X" />
 			<ooo description="OpenOffice.org" href="ooo-video.html" label="OpenOffice.org" />
 		</videot>
-		<olddocs label="Old documentation" href="olddocs/">
-			<install_use description="Installation" href="install_use.html" label="Installation" />
-			<usage description="Usage" href="usage.html" label="Usage" />
-		</olddocs>
 	</divvun>
     <timetable description="Prošeavtta plánat" href="timetable.html" label="Prošeavtta plánat" />
     <spelling description="Mo reaiddut ráhkaduvvot" href="howmake.html" label="Mo reaiddut ráhkaduvvojit" />
