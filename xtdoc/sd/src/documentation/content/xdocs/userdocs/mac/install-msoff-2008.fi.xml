@@ -24,46 +24,46 @@
          se voidaan asentaa CD:ltä.</p>
          <p>1. Jos sinulla on CD, asenna se tietokoneeseen. Kun lataus tai CD on valmis avautuu työpöydälle uusi ikkuna.
          Kaksoisosoita keltaista laatikkoa (asennuspaketti):</p>
-         <p><img alt="Kaksoisosoita asennuspakettia" src="guvvieh/Mac_01_Installation_download_finished.png" /></p>
+         <p><img alt="Kaksoisosoita asennuspakettia" src="images/Mac_01_Installation_download_finished.png" /></p>
          <p>2. Osoita Jatka niin että pääset aloittamaan asennuksen:</p>
-         <p><img alt="Kuva: " src="guvvieh/Mac_05_installation_install.png" /></p>
+         <p><img alt="Kuva: " src="images/Mac_05_installation_install.png" /></p>
          <p>3. Jos sinulla ei ole asennusoikeuksia tietokoneella, tulee sinun pyytää ylläpitäjän suorittaa asennus:</p>
-         <p><img alt="Ylläpitäjä hyväksyy asennuksen" src="guvvieh/Mac_05_installation_install_a.png" /></p>
+         <p><img alt="Ylläpitäjä hyväksyy asennuksen" src="images/Mac_05_installation_install_a.png" /></p>
          <p>4. Asennus on nyt valmis ja sinulla on Divvun-ohjelma tietokoneellasi!</p>
-         <p><img alt="Asennus on valmis" src="guvvieh/Mac_05_installation_install_c.png" /></p>
+         <p><img alt="Asennus on valmis" src="images/Mac_05_installation_install_c.png" /></p>
       </section>
       <section>
          <title>MacOS X -asetukset kirjoitettaessa saameksi</title>
          <p>Saamenkielinen näppäimistö tulee ottaa käyttöön.</p>
          <p>1. Avaa Järjestelmäasetukset</p>
-         <p><img alt="Avaa Järjestelmäasetukset" src="guvvieh/Mac_06a_Systemvalg.png" /></p>
+         <p><img alt="Avaa Järjestelmäasetukset" src="images/Mac_06a_Systemvalg.png" /></p>
          <p>2. Osoita Maakohtaiset:</p>
-         <p><img alt="Järjestelmäasetukset" src="guvvieh/Mac_06_Systemvalg.png" /></p>
+         <p><img alt="Järjestelmäasetukset" src="images/Mac_06_Systemvalg.png" /></p>
          <p>3. Osoita Syöttövalikko ja valitse Pohjoissaamelainen:</p>
-         <p><img alt="Saamenkielinen näppäimistö" src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk.png" /></p>
+         <p><img alt="Saamenkielinen näppäimistö" src="images/Mac_07_systemvalg_instanasjonalt_nordsamisk.png" /></p>
          <p>4. Tästä lähtien voit valita saamenkielisen näppäimistön oikeassa yläkulmassa olevasta valikosta:</p>
          <p><img alt="Valitse saamenkielinen näppäimistö"
-         src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png" /></p>
+         src="images/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png" /></p>
       </section>
       <section>
          <title>Divvun-ohjelman käyttäminen</title>
          <p>Kun olet avannut MS Office-ohjelmiston sinun täytyy määritellä Office-ohjelmistolle millä kielellä
          kirjoitat. Tämä tapahtuu samalla tavalla sekä MS Office 2004 että MS Office 2008 versioissa.</p>
          <p>1. Valitse saamenkielinen teksti:</p>
-         <p><img alt="Valitse saamenkielinen teksti" src="guvvieh/Mac_08_MSOffice_tools_language_a.png" /></p>
+         <p><img alt="Valitse saamenkielinen teksti" src="images/Mac_08_MSOffice_tools_language_a.png" /></p>
          <p>2. Valitse Työkalut &gt; Kieli…:</p>
          <p><img alt="Valitse &quot;Työkalut &gt; Kieli…&quot;"
-         src="guvvieh/Mac_08_MSOffice_tools_language_b.png" /></p>
+         src="images/Mac_08_MSOffice_tools_language_b.png" /></p>
          <p>3. Valitse kieleksi Katalaani (Catalan) jos kirjoitat pohjoissaamen kielellä, Baski (Basque) jos kirjoitat
          luulajansaamen kielellä tai Slovaki (Slovak) jos kirjoitat eteläsaamen kielellä( <a href="#1">1</a>):</p>
-         <p><img alt="Valitse kieli" src="guvvieh/Mac_08_MSOffice_tools_language_c.png" /></p>
+         <p><img alt="Valitse kieli" src="images/Mac_08_MSOffice_tools_language_c.png" /></p>
          <p>4. Jos kirjoitat paljon saamen kielellä voit valita sen oletuskieleksi osoittamalla Oletus-painiketta ja
          tämän jälkeen valitse Kyllä:</p>
-         <p><img alt="Haluatko käyttää saamea oletuskielenä?" src="guvvieh/Mac_08_MSOffice_tools_language_d.png" /></p>
+         <p><img alt="Haluatko käyttää saamea oletuskielenä?" src="images/Mac_08_MSOffice_tools_language_d.png" /></p>
          <p>5. Nyt voit kirjoittaa saamen kielellä ja käyttää Divvun-työkalua apuna oikoluvussa:</p>
          <p><img alt="Saamenkielinen teksti jossa kirjoitusvirhe"
-         src="guvvieh/Mac_09_MSoffice_spelling_example_a.png" /></p>
-         <p><img alt="Korjausikkuna" src="guvvieh/Mac_09_MSoffice_spelling_example_c.png" /></p>
+         src="images/Mac_09_MSoffice_spelling_example_a.png" /></p>
+         <p><img alt="Korjausikkuna" src="images/Mac_09_MSoffice_spelling_example_c.png" /></p>
          <p>Microsoft ei vielä tue saamen kieltä Mac MS Office toimisto-ohjelmistossa, vaikka tuki löytyy Windows MS
          Office versiosta. Toivottavasti tulevat versiot sisältävät tuen saamen kielelle. Siihen asti saamen kieli tulee
          määritellä toiseksi kieleksi.</p>
@@ -74,10 +74,10 @@
             <title>Divvun 2.x</title>
             <ul>
                <li>Open the folder <strong>DivvunTools</strong> in the <strong>/Library</strong> folder:<figure
-               alt="Divvun 2 Uninstallation program" src="guvvieh/Mac_10_Divvun2_Uninstallation.png" /></li>
+               alt="Divvun 2 Uninstallation program" src="images/Mac_10_Divvun2_Uninstallation.png" /></li>
                <li>Run the <strong>Remove Divvun for Office</strong> application in the subfolder for the application
                you want to remove Divvun from, and confirm that you want to remove Divvun when asked:<figure
-               alt="Confirm uninstallation" src="guvvieh/Mac_11_Divvun2_Uninstallation_confirmation.png" /></li>
+               alt="Confirm uninstallation" src="images/Mac_11_Divvun2_Uninstallation_confirmation.png" /></li>
                <li>If it is the last or only Divvun installation, the whole folder <strong>DivvunTools</strong> will be
                removed as well.</li>
             </ul>
@@ -86,10 +86,10 @@
             <title>Divvun 1.x</title>
             <ul>
                <li>Open the folder <strong>SamiProofingTools</strong> in the <strong>Applications</strong>
-               folder:<figure alt="Uninstallation of Divvun1" src="guvvieh/Mac_12_Divvun1_Uinstallation.png" /></li>
+               folder:<figure alt="Uninstallation of Divvun1" src="images/Mac_12_Divvun1_Uinstallation.png" /></li>
                <li>Run (one of) the <strong>Remove SamiProofingTools</strong> application(s). Click <strong>OK</strong>
                when done:<figure alt="Uninstallation complete"
-               src="guvvieh/Mac_13_Divvun1_Uninstallation_done.png" /></li>
+               src="images/Mac_13_Divvun1_Uninstallation_done.png" /></li>
                <li>Manually delete the folder <strong>SamiProofingTools</strong> if it isn't automatically deleted</li>
             </ul>
          </section>

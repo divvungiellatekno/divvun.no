@@ -27,9 +27,9 @@
             href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">www.divvun.no/static_files/indesign-divvuntools.dmg</a>.</p>
             <ol>
                <li>After download, open the dmg file. You should see the following window (or something close to
-               it):<br/><img alt="divvun-DMG" src="img/divvun-dmg-cs3.png"/></li>
+               it):<br/><img alt="divvun-DMG" src="images/divvun-dmg-cs3.png"/></li>
                <li>Open the installation package (double-click it), and follow the instructions:<br/><img
-               alt="Divvun installer" src="img/divvun-installer-cs3.png"/></li>
+               alt="Divvun installer" src="images/divvun-installer-cs3.png"/></li>
                <li>Quit and restart InDesign if it was running. That's it!</li>
             </ol>
          </section>
@@ -78,9 +78,9 @@ Polderland</source>
                <li>Download the <a href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">latest InDesing
                installer - a dmg file</a></li>
                <li>After download, open the dmg file. You should see the following window (or something close to
-               it):<br/><img alt="divvun-DMG" src="img/divvun-dmg-cs55.png"/></li>
+               it):<br/><img alt="divvun-DMG" src="images/divvun-dmg-cs55.png"/></li>
                <li>Open the installation package (double-click it), and follow the instructions:<br/><img
-               alt="Divvun installer" src="img/divvun-installer-cs55.png"/></li>
+               alt="Divvun installer" src="images/divvun-installer-cs55.png"/></li>
                <li>Quit and restart InDesign if it was running. That's it!</li>
             </ol>
          </section>

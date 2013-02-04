@@ -24,48 +24,48 @@
          ready a window will open on your machine. Double click the yellow box (the installations package) of the
          installation you want:</p>
          <p><img alt="Double click the installation package"
-         src="guvvieh/Mac_01_Installation_download_finished.png" /></p>
+         src="images/Mac_01_Installation_download_finished.png" /></p>
          <p>2. Click <strong>Continue</strong> untill you are ready to start the installation proper:</p>
          <p><img alt="Click &quot;Continue&quot; untill installation can start"
-         src="guvvieh/Mac_05_installation_install.png" /></p>
+         src="images/Mac_05_installation_install.png" /></p>
          <p>3. An administrator has to accept the installation:</p>
          <p><img alt="The installation must be approved by an administrator"
-         src="guvvieh/Mac_05_installation_install_a.png" /></p>
+         src="images/Mac_05_installation_install_a.png" /></p>
          <p>4. The installation is now finished and the Divvun tools are now available on your computer!</p>
-         <p><img alt="Installation is ready" src="guvvieh/Mac_05_installation_install_c.png" /></p>
+         <p><img alt="Installation is ready" src="images/Mac_05_installation_install_c.png" /></p>
       </section>
       <section>
          <title>Setting options in MacOS X to be able to write in Sami</title>
          <p>To write in Sami you need a Sami keyboard.</p>
          <p>1. Open <strong>System Settings</strong></p>
-         <p><img alt="Open &quot;System Settings&quot;" src="guvvieh/Mac_06a_Systemvalg.png" /></p>
+         <p><img alt="Open &quot;System Settings&quot;" src="images/Mac_06a_Systemvalg.png" /></p>
          <p>2. Click <strong>International</strong> :</p>
-         <p><img alt="System Settings" src="guvvieh/Mac_06_Systemvalg.png" /></p>
+         <p><img alt="System Settings" src="images/Mac_06_Systemvalg.png" /></p>
          <p>3. Click the <strong>Keyboard menu</strong> tab and toggle <strong>Northern Sami:</strong></p>
-         <p><img alt="Adding a Sami keyboard" src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk.png" /></p>
+         <p><img alt="Adding a Sami keyboard" src="images/Mac_07_systemvalg_instanasjonalt_nordsamisk.png" /></p>
          <p>4. When you would like to write in Sami, choose the Sami keyboard in the Keyboard menu:</p>
-         <p><img alt="Choose the Sami keyboard" src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png" /></p>
+         <p><img alt="Choose the Sami keyboard" src="images/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png" /></p>
       </section>
       <section>
          <title>Using Divvun on a Mac</title>
          <p>When you have opened MS Office you will have to tell Office which langauge the text is written in.</p>
          <p>1. Mark the sami text:</p>
-         <p><img alt="Mark the sami text" src="guvvieh/Mac_08_MSOffice_tools_language_a.png" /></p>
+         <p><img alt="Mark the sami text" src="images/Mac_08_MSOffice_tools_language_a.png" /></p>
          <p>2. Go to the menu <strong>Tools &gt; Language…</strong> :</p>
          <p><img alt="Go to the menu &quot;Tools &gt; Language…&quot;"
-         src="guvvieh/Mac_08_MSOffice_tools_language_b.png" /></p>
+         src="images/Mac_08_MSOffice_tools_language_b.png" /></p>
          <p>3. Choose the langauge <strong>Catalan</strong> for <strong>North Sámi</strong> , <strong>Basque</strong>
          for <strong>Julev Sámi</strong> , or <strong>Slovak</strong> for <strong>South Sámi</strong> ( <a
          href="#1">1</a>):</p>
-         <p><img alt="Choose the proper language" src="guvvieh/Mac_08_MSOffice_tools_language_c.png" /></p>
+         <p><img alt="Choose the proper language" src="images/Mac_08_MSOffice_tools_language_c.png" /></p>
          <p>4. If you usually write in Sami, you may make Sami your default language for new documents, by clicking the
          button <strong>Default…</strong> (see previous picture) and thereafter click the button <strong>Yes</strong>
          :</p>
          <p><img alt="Do you want to make Sami your default language?"
-         src="guvvieh/Mac_08_MSOffice_tools_language_d.png" /></p>
+         src="images/Mac_08_MSOffice_tools_language_d.png" /></p>
          <p>5. Now you may start writing in Sami, and the Divvun tools will help you spell correctly:</p>
-         <p><img alt="Sami text with spelling error" src="guvvieh/Mac_09_MSoffice_spelling_example_a.png" /></p>
-         <figure alt="Orthography dialogue for the spelling error" src="guvvieh/Mac_09_MSoffice_spelling_example_c.png" />
+         <p><img alt="Sami text with spelling error" src="images/Mac_09_MSoffice_spelling_example_a.png" /></p>
+         <figure alt="Orthography dialogue for the spelling error" src="images/Mac_09_MSoffice_spelling_example_c.png" />
          <p>So far, Microsoft has not included support for Sami in MS Office for Mac, despite the fact that such a
          support is provided for MS Office for Windows. Hopefully future verisions of MS Office for Mac will include
          this support. Until then we will have to pretend that the Sami languages are other languages, already defined
@@ -77,10 +77,10 @@
             <title>Divvun 2.x</title>
             <ul>
                <li>Open the folder <strong>DivvunTools</strong> in the <strong>/Library</strong> folder:<figure
-               alt="Divvun 2 Uninstallation program" src="guvvieh/Mac_10_Divvun2_Uninstallation.png" /></li>
+               alt="Divvun 2 Uninstallation program" src="images/Mac_10_Divvun2_Uninstallation.png" /></li>
                <li>Run the <strong>Remove Divvun for Office</strong> application in the subfolder for the application
                you want to remove Divvun from, and confirm that you want to remove Divvun when asked:<figure
-               alt="Confirm uninstallation" src="guvvieh/Mac_11_Divvun2_Uninstallation_confirmation.png" /></li>
+               alt="Confirm uninstallation" src="images/Mac_11_Divvun2_Uninstallation_confirmation.png" /></li>
                <li>If it is the last or only Divvun installation, the whole folder <strong>DivvunTools</strong> will be
                removed as well.</li>
             </ul>
@@ -89,10 +89,10 @@
             <title>Divvun 1.x</title>
             <ul>
                <li>Open the folder <strong>SamiProofingTools</strong> in the <strong>Applications</strong>
-               folder:<figure alt="Uninstallation of Divvun1" src="guvvieh/Mac_12_Divvun1_Uinstallation.png" /></li>
+               folder:<figure alt="Uninstallation of Divvun1" src="images/Mac_12_Divvun1_Uinstallation.png" /></li>
                <li>Run (one of) the <strong>Remove SamiProofingTools</strong> application(s). Click <strong>OK</strong>
                when done:<figure alt="Uninstallation complete"
-               src="guvvieh/Mac_13_Divvun1_Uninstallation_done.png" /></li>
+               src="images/Mac_13_Divvun1_Uninstallation_done.png" /></li>
                <li>Manually delete the folder <strong>SamiProofingTools</strong> if it isn't automatically deleted</li>
             </ul>
          </section>

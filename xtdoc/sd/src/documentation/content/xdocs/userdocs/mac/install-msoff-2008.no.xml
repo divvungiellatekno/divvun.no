@@ -21,48 +21,48 @@
          2.</note>
          <p>1. Om du har CD-en, putt den inn i datamaskinen. Når nedlastinga eller CD-en er klar åpnes et vindu på
          skrivebordet ditt. Dobbelklikk på den gule esken (installeringspakka):</p>
-         <p><img alt="Dobbelklikk på installeringspakka" src="guvvieh/Mac_01_Installation_download_finished.png" /></p>
+         <p><img alt="Dobbelklikk på installeringspakka" src="images/Mac_01_Installation_download_finished.png" /></p>
          <p>2. Klikk på <strong>Fortsett</strong> til du er klar til å begynne selve installeringen:</p>
-         <p><img alt="Start sevle installeringen" src="guvvieh/Mac_05_installation_install.png" /></p>
+         <p><img alt="Start sevle installeringen" src="images/Mac_05_installation_install.png" /></p>
          <p>3. Om du ikke er administrator må installeringen godkjennes av en:</p>
          <p><img alt="Installeringen må godkjennes av en administrator"
-         src="guvvieh/Mac_05_installation_install_a.png" /></p>
+         src="images/Mac_05_installation_install_a.png" /></p>
          <p>4. Installeringen er nå ferdig og du har Divvun-verktøyene på datamaskinen din!</p>
-         <p><img alt="Installeringen er ferdig" src="guvvieh/Mac_05_installation_install_c.png" /></p>
+         <p><img alt="Installeringen er ferdig" src="images/Mac_05_installation_install_c.png" /></p>
       </section>
       <section>
          <title>Innstillinger i MacOS X for å kunne skrive på samisk</title>
          <p>For å kunne skrive på samisk må du bruke et samisk tastaturoppsett.</p>
          <p>1. Åpne <strong>Systemvalg…</strong></p>
-         <p><img alt="Åpne &quot;Systemvalg…&quot;" src="guvvieh/Mac_06a_Systemvalg.png" /></p>
+         <p><img alt="Åpne &quot;Systemvalg…&quot;" src="images/Mac_06a_Systemvalg.png" /></p>
          <p>2. Klikk på <strong>Internasjonalt</strong> eller skriv et nærliggende søkeord i søkefeltet:</p>
-         <p><img alt="Systemvalg…" src="guvvieh/Mac_06_Systemvalg.png" /></p>
+         <p><img alt="Systemvalg…" src="images/Mac_06_Systemvalg.png" /></p>
          <p>3. Klikk på fliken <strong>Tastaturmeny</strong> og sett et kryss foran <strong>Nordsamisk:</strong></p>
-         <p><img alt="Legge til samisk tastatur" src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk.png" /></p>
+         <p><img alt="Legge til samisk tastatur" src="images/Mac_07_systemvalg_instanasjonalt_nordsamisk.png" /></p>
          <p>4. Velg deretter samisk tastaturoppsett i tastaturmenyen til høyre når du skal skrive på samisk:</p>
          <p><img alt="Velg samisk tastatur for skriving"
-         src="guvvieh/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png" /></p>
+         src="images/Mac_07_systemvalg_instanasjonalt_nordsamisk_a.png" /></p>
       </section>
       <section>
          <title>Bruke Divvun på Mac</title>
          <p>Når du har åpnet MS Office må du fortelle Office vilket språk teksten er skrevet på. Dette gjør du på samme
          måte for både MS Office 2004 og MS Office 2008.</p>
          <p>1. Marker den samisk teksten:</p>
-         <p><img alt="Marker den samisk teksten" src="guvvieh/Mac_08_MSOffice_tools_language_a.png" /></p>
+         <p><img alt="Marker den samisk teksten" src="images/Mac_08_MSOffice_tools_language_a.png" /></p>
          <p>2. Gå til menyen <strong>Tools &gt; Language…</strong> :</p>
          <p><img alt="Gå til menyen &quot;Tools &gt; Language…&quot;"
-         src="guvvieh/Mac_08_MSOffice_tools_language_b.png" /></p>
+         src="images/Mac_08_MSOffice_tools_language_b.png" /></p>
          <p>3. Velg språket <strong>Katalansk</strong> ( <strong>Catalan</strong> ) for <strong>nordsamisk</strong> ,
          språket <strong>Baskisk</strong> ( <strong>Basque</strong> ) for <strong>lulesamisk</strong> , eller språket
          <strong>Slovakisk</strong> ( <strong>Slovak</strong> ) for <strong>sørsamisk</strong> ( <a
          href="#1">1</a>):</p>
-         <p><img alt="Velg språk" src="guvvieh/Mac_08_MSOffice_tools_language_c.png" /></p>
+         <p><img alt="Velg språk" src="images/Mac_08_MSOffice_tools_language_c.png" /></p>
          <p>4. Om du skriver mye på samisk, kan du gjøre samisk til forvalgt språk for nye dokumenter ved å klikke på
          knappen <strong>Default…</strong> (se forrige bilde) og deretter klikke på knappen <strong>Yes</strong> :</p>
-         <p><img alt="Vil du gjøre samisk til forvalgt språk?" src="guvvieh/Mac_08_MSOffice_tools_language_d.png" /></p>
+         <p><img alt="Vil du gjøre samisk til forvalgt språk?" src="images/Mac_08_MSOffice_tools_language_d.png" /></p>
          <p>5. Nå kan du begynne å skrive på samisk, og Divvun-verktøyene hjelper deg med å stave rett:</p>
-         <p><img alt="Samisk tekst med skrivefeil" src="guvvieh/Mac_09_MSoffice_spelling_example_a.png" /></p>
-         <p><img alt="Rettskrivingsdialog for skrivefeilen" src="guvvieh/Mac_09_MSoffice_spelling_example_c.png" /></p>
+         <p><img alt="Samisk tekst med skrivefeil" src="images/Mac_09_MSoffice_spelling_example_a.png" /></p>
+         <p><img alt="Rettskrivingsdialog for skrivefeilen" src="images/Mac_09_MSoffice_spelling_example_c.png" /></p>
          <p>Microsoft har inntil videre ikke laget støtte for samisk i MS Office for Mac, tross at den samme støtten
          finnes for MS Office for Windows. Forhåpentligvis inneholder kommende versjoner av MS Office for Mac denne
          støtten. Inntil da må vi late som om samiske språk er andre språk som alt er definert i MS Office.</p>
@@ -73,10 +73,10 @@
             <title>Divvun 2.x</title>
             <ul>
                <li>Åpne mappen <strong>DivvunTools</strong> i <strong>/Library</strong>-mappen:<figure
-               alt="Divvun 2 Uninstallation program" src="guvvieh/Mac_10_Divvun2_Uninstallation.png" /></li>
+               alt="Divvun 2 Uninstallation program" src="images/Mac_10_Divvun2_Uninstallation.png" /></li>
                <li>Start programmet <strong>Remove Divvun for Office</strong> i undermappen for det programmet du vil
                fjerne Divvun fra, og bekreft at du vil fjerne Divvun når du blir spurt om det:<figure
-               alt="Confirm uninstallation" src="guvvieh/Mac_11_Divvun2_Uninstallation_confirmation.png" /></li>
+               alt="Confirm uninstallation" src="images/Mac_11_Divvun2_Uninstallation_confirmation.png" /></li>
                <li>Om det er den siste eller eneste Divvun-installasjonen vil mappen <strong>DivvunTools</strong> også
                bli fjernet.</li>
             </ul>
@@ -85,10 +85,10 @@
             <title>Divvun 1.x</title>
             <ul>
                <li>Åpne mappen <strong>SamiProofingTools</strong> i <strong>Applications</strong>-mappen:<figure
-               alt="Uninstallation of Divvun1" src="guvvieh/Mac_12_Divvun1_Uinstallation.png" /></li>
+               alt="Uninstallation of Divvun1" src="images/Mac_12_Divvun1_Uinstallation.png" /></li>
                <li>Start (ett av) <strong>Remove SamiProofingTools</strong>-programmet(-ene). Klikk <strong>OK</strong>
                når avinstalleringen er klar:<figure alt="Uninstallation complete"
-               src="guvvieh/Mac_13_Divvun1_Uninstallation_done.png" /></li>
+               src="images/Mac_13_Divvun1_Uninstallation_done.png" /></li>
                <li>Det kan hende at du må slette mappen <strong>SamiProofingTools</strong> manuelt dersom den ikke
                slettes automatisk.</li>
             </ul>

@@ -20,7 +20,7 @@
       tjoeverh dam masjijneste vaeltedh aarebi goh orre versjovnem dïsse
       bïejedh.  Daesnie naan bïhkedimmieh gaavnah <a
       href="userdocs/leaflet/win-install.html">Windowsasse</a> jïh <a
-      href="userdocs/leaflet/mac-install.html">MacOS X:ese</a>. Jis dov lea
+      href="userdocs/mac/install-msoff-2008.html">MacOS X:ese</a>. Jis dov lea
       Divvun 2.x dellie ih daarpesjh dam masjijneste vaeltedh.</warning>
 
       <note>
@@ -83,9 +83,9 @@
            <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
          </td>
          <td>
-           <br/>· <a href="userdocs/leaflet/mac-install.html">Office 2011-bïhkedimmie</a>
-           <br/>· <a href="userdocs/leaflet/mac-install.html">Office 2008-bïhkedimmie</a>
-           <br/>· <a href="userdocs/leaflet/mac-install.html">Office 2004-bïhkedimmie</a>
+           <br/>· <a href="userdocs/mac/install-msoff-2008.html">Office 2011-bïhkedimmie</a>
+           <br/>· <a href="userdocs/mac/install-msoff-2008.html">Office 2008-bïhkedimmie</a>
+           <br/>· <a href="userdocs/mac/install-msoff-2008.html">Office 2004-bïhkedimmie</a>
          </td>
          <td>
          <br/><a href="userdocs/videos/mac-video.html">
@@ -119,13 +119,13 @@
            <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
          </td>
          <td>
-           <br/>· <a href="userdocs/X-spell/install_use_OOo3x.html"><icon
+           <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
             alt="Linux" height="12" width="12"
             src="images/Linux_Icon_256.png" />Linux-bïhkedimmie</a>
-           <br/>· <a href="userdocs/X-spell/install_use_OOo3x.html"><icon
+           <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
             alt="MacOSX" height="12" width="12"
             src="images/mac.png" />MacOSX-bïhkedimmie</a>
-           <br/>· <a href="userdocs/X-spell/install_use_OOo3x.html"><icon
+           <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
             alt="Windows" height="12" width="12"
             src="images/windows.png" />Windows-bïhkedimmie</a>
          </td>
@@ -156,7 +156,7 @@
          </td>
          <td>
          <br/><br/>
-         <br/>· <a href="userdocs/indesign/index.html">Bïhkedimmie</a></td>
+         <br/>· <a href="userdocs/mac/install-indesign-CS3.html">Bïhkedimmie</a></td>
          </tr>
          <tr>
          <td colspan="4"><p class="line"/></td>
