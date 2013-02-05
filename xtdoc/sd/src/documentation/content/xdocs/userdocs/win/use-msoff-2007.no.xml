@@ -5,6 +5,7 @@
 		<title>Installering og bruk av Divvun-verktøyene på Windows</title>
 	</header>
 	<body>
+        <section>
 			<title>Bruke Divvun på Windows</title>
 			<p>For at Divvun-verktøyene skal kunne hjelpe deg, må du fortelle datamaskinen  at du skriver på samisk ved å velge det som skrivespråk. </p>
 			<p>1a. MS Office 2003: Når du har åpnet MS Office velger du menyen  <strong>Verktøy -&gt; Språk -&gt; Angi språk &#8230;</strong> <img src="images/PC_14_Office_2003_velg_sprak.png" alt="Meny for å velge samisk"/></p>
