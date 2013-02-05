@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Installere Divvun for MS Office 2011</title>
+   </header>
+   <body>
+
+      <section>
+         <title>Skaffe Divvun</title>
+         <p><a
+          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Hent
+          nyeste Divvun på nettet</a> eller
+          bestill en CD fra Sametinget, tel: +47 78 48 42 22.</p>
+      </section>
+
+      <section>
+         <title>Installering</title>
+
+         <note>Om du oppgraderer fra versjon 1, må du
+         <a href="remove-msoff-2008.html">avinstallere</a> den gamle
+         versjonen før du installerer versjon 2. Det kan uansett være lurt å
+         avinstallere tidligere versjoner før man installerer den nye.</note>
+
+         <p>1. Om du har CD-en, putt den inn i datamaskinen. Når nedlastinga
+         eller CD-en er klar åpnes et vindu på skrivebordet ditt. Dobbelklikk på
+         den gule eska (installeringspakka) med navnet «<em>Divvun for MS Office
+         2011</em>»:</p>
+
+         <p><img alt="Dobbelklikk på installeringspakka"
+         src="images/installation-dmg_open-msoff-2011-nob.png" /></p>
+
+         <p>2. Installereren starter, og viser en velkomstside:</p>
+
+         <p><img alt="Velkomstsiden i installereren"
+         src="images/installation-installer_1_page-msoff-2011-nob.png" /></p>
+
+         <p>3. Klikk på <strong>Fortsett</strong> til du er klar til å begynne
+         selve installeringen:</p>
+
+         <p><img alt="Start sevle installeringen"
+         src="images/installation-starting-msoff-2011-nob.png" /></p>
+
+         <p>4. Om du ikke er administrator må installeringen godkjennes av
+         en:</p>
+
+         <p><img alt="Installeringen må godkjennes av en administrator"
+         src="images/installation-adminpw-nob.png" /></p>
+
+         <p>5. Programvaren blir installert, og om alt har gått bra, vil denne
+         avslutningssiden vises:</p>
+
+         <p><img alt="Installeringen er ferdig"
+         src="images/installation-done-msoff-2011-nob.png" /></p>
+
+         <p>6. Installeringen er nå ferdig og du har Divvun-verktøyene på
+         datamaskinen din!</p>
+
+      </section>
+   </body>
+</document>
