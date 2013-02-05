@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<document>
+	<header>
+		<title>Installasjåvnnå ja nævoj adnem Windowsin</title>
+	</header>
+	<body>
+      <section>
+         <title>Ieritválldem</title>
+         <ul>
+            <li>Rabásta <strong>Kontrollpanelen</strong> <br /> <img alt="Windows Control Panel"
+            src="images/PC_18_control_panel_addremove.png" /></li>
+            <li>Dieddela <strong>Legg til eller ta bort programmer</strong></li>
+            <li>Maná vuolus gitta <strong>Sámi Proofing Tools</strong> rádjáj ja dieddela: <br /> <img
+            alt="Sami Proofing tools are marked" src="images/PC_19_remove_sami_proofing_tools.png" /></li>
+            <li>Dieddela <strong>Ta bort</strong> boalov.</li>
+            <li>Gå ieritválldem la gárves, <strong>Sámi Proofing Tools</strong> la jávkkam installeridum prográmmaj listas</li>
+            <li>Jus dujna la Oarjjelij Sáme beta-prográmma ja sidá válldet ierit dav, vállji
+            <strong>SouthSamiSpellerBeta1</strong> ja dieddela <strong>Endre/Ta bort</strong>:<br /><img alt="Oarjjelijsáme stávimkontrållå"
+            src="images/PC_20_remove_sma_beta.png" /></li>
+         </ul>
+      </section>
+	</body>
+</document>
