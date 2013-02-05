@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<document>
+	<header>
+		<title>Sajáiduhttit ja geavahit reaidduid Windowsis</title>
+	</header>
+	<body>
+      <section>
+         <title>Eretváldin</title>
+         <ul>
+            <li>Raba <strong>Kontrollpanel</strong> <br /> <img alt="Windows Control Panel"
+            src="images/PC_18_control_panel_addremove.png" /></li>
+            <li>Duppalcoahkkal <strong>Legg til eller ta vekk programmer</strong></li>
+            <li>Bláđe vulos gitta <strong>Sámi Proofing Tools</strong> merkošii ja coahkkal dan<br /> <img
+            alt="Sami Proofing tools are marked" src="images/PC_19_remove_sami_proofing_tools.png" /></li>
+            <li>Coahkkal <strong>Fjern</strong>-boalu</li>
+            <li>Go eretváldin lea geargan de <strong>Sámi Proofing Tools</strong>-mearkkuš lea jávkan listtus</li>
+            <li>Jus leat sajáiduhttán máttasámegiel betačállindarkkisteaddji de vállje
+			<strong>SouthSamiSpellerBeta1</strong> ja coahkkal <strong>Forandre/Fjern</strong>:<br /><img alt="Máttasámegiel čállindárkkisteaddji"
+            src="images/PC_20_remove_sma_beta.png" /></li>
+         </ul>
+      </section>
+	</body>
+</document>
