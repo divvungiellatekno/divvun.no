@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<document>
+	<header>
+		<title>Divvun-ohjelman asennus ja käyttö Windows-koneella</title>
+	</header>
+	<body>
+      <section>
+         <title>Poistaminen</title>
+         <ul>
+            <li>Avaa <strong>Ohjauspaneeli</strong> <br /> <img alt="Windows Control Panel"
+            src="images/PC_18_control_panel_addremove.png" /></li>
+            <li>Valitse <strong>Lisää tai poista ohjelmia</strong></li>
+            <li>Valitse <strong>Sámi Proofing Tools</strong> ja klikkaa <br /> <img
+            alt="Sami Proofing tools are marked" src="images/PC_19_remove_sami_proofing_tools.png" /></li>
+            <li>Klikkaa <strong>Poista</strong> nappia.</li>
+            <li>Kun poistaminen on valmis, <strong>Sámi Proofing Tools</strong> on poistunut listalta </li>
+            <li>Jos olet asentanut eteläsaamen kielen beta työkalut ja haluat poistaa ne, valitse
+            <strong>SouthSamiSpellerBeta1</strong> ja klikkaa <strong>Vaihda/Poista</strong>:<br /><img alt="???"
+            src="images/PC_20_remove_sma_beta.png" /></li>
+         </ul>
+      </section>
+	</body>
+</document>
