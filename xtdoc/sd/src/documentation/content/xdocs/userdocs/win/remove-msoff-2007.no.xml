@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<document>
+	<header>
+		<title>Installering og bruk av Divvun-verktøyene på Windows</title>
+	</header>
+	<body>
+      <section>
+         <title>Avinstallasjon</title>
+         <ul>
+            <li>Åpne <strong>Kontrollpanel</strong> <br /> <img alt="Windows Control Panel"
+            src="images/PC_18_control_panel_addremove.png" /></li>
+            <li>Dobbeltklikk <strong>Legg eller ta vekk programmer</strong></li>
+            <li>Bla ned til <strong>Sámi Proofing Tools</strong> og klikk på den <br /> <img
+            alt="Sami Proofing tools are marked" src="images/PC_19_remove_sami_proofing_tools.png" /></li>
+            <li>Klikk på <strong>Fjern</strong>-knappen.</li>
+            <li>Når avinstallasjonsprosessen er ferdig har <strong>Sámi Proofing Tools</strong> forsvunnet fra listen over installerte programmer.</li>
+            <li>Hvis du har den sørsamiske betastavekontrollen installert, velg 
+			<strong>SouthSamiSpellerBeta1</strong> og klikk <strong>Forandre/Fjerne</strong>:<br /><img alt="Sørsamisk betastavekontroll"
+            src="images/PC_20_remove_sma_beta.png" /></li>
+         </ul>
+      </section>
+	</body>
+</document>
