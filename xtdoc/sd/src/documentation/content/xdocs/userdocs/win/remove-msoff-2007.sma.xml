@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<document>
+	<header>
+		<title>Guktie sijjiedehtedh jih utnedh programmem Windows:sne</title>
+	</header>
+	<body>
+      <section>
+         <title>Vaeltedh destie</title>
+         <ul>
+            <li>Rïhpesth <strong>Kontrollpanel</strong> <br /> <img alt="Windows Control Panel"
+            src="images/PC_18_control_panel_addremove.png" /></li>
+            <li>Diedtieh <strong>Legg til eller ta vekk program</strong></li>
+            <li>Plaeresth våålese <strong>Sámi Proofing Tools</strong> Diedtieh<br /> <img
+            alt="Sami Proofing tools are marked" src="images/PC_19_remove_sami_proofing_tools.png" /></li>
+            <li>Diedtieh <strong>Fjern</strong> båaloem</li>
+            <li>Gosse destie vaalteme, dellie <strong>Sámi Proofing Tools</strong> sijjiedahteme programmh leah gaarvenamme</li>
+            <li>Jis åarjelsaemien betaversjovnem åtnah, dellie maahtah dam slïejhtedh.Diedtieh dellie <strong>SouthSamiSpellerBeta1</strong> jïh diedtieh <strong>Forandre/Fjern</strong>:<br /><img alt="Åarjelsaemien staeriedimmieprogramme"
+            src="images/PC_20_remove_sma_beta.png" /></li>
+         </ul>
+      </section>
+	</body>
+</document>
