@@ -28,12 +28,12 @@
          <p><img alt="Dubbelklicka på installationspaketet"
          src="images/download-finished-msoff-2008-nob.png" /></p>
          <p>2. Klicka på <strong>Fortsätt</strong> tills du är klar för att börja själva installationen:</p>
-         <p><img alt="Klicka på &quot;Fortsätt&quot;" src="images/installation-starting-msoff-2008-swe.png" /></p>
+         <p><img alt="Klicka på &quot;Fortsätt&quot;" src="images/installation-starting-swe.png" /></p>
          <p>3. Om du inte är administratör måste installationen godkännas av en sådan:</p>
          <p><img alt="Installationen måste godkännas av en administratör"
-         src="images/installation-starting-msoff-2008-swe_a.png" /></p>
+         src="images/installation-adminpw-swe.png" /></p>
          <p>4. Installationen är nu klar och du har Divvun-verktygen på din dator!</p>
-         <p><img alt="Installationen är klar" src="images/installation-starting-msoff-2008-swe_c.png" /></p>
+         <p><img alt="Installationen är klar" src="images/installation-done-swe.png" /></p>
       </section>
    </body>
 </document>
