@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<document>
+	<header>
+		<title>Installation och användning av Divvun på Windows</title>
+	</header>
+	<body>
+      <section>
+         <title>Avinstallation</title>
+         <ul>
+            <li>Öppna <strong>Kontrollpanelen</strong> <br /> <img alt="Windows Control Panel"
+            src="images/PC_18_control_panel_addremove.png" /></li>
+            <li>Dubbelklicka <strong>Lägg till eller ta bort program</strong></li>
+            <li>Skrolla ner till <strong>Sámi Proofing Tools</strong> och klicka <br /> <img
+            alt="Sami Proofing tools are marked" src="images/PC_19_remove_sami_proofing_tools.png" /></li>
+            <li>Klicka <strong>Ta bort</strong> knappen.</li>
+            <li>När avinstalleringen är klar, har <strong>Sámi Proofing Tools</strong> försvunnit från listan över installerade program</li>
+            <li>Om du har det sydsamiska beta-rättstavningsprogrammet installerat och vill ta bort det, välj
+            <strong>SouthSamiSpellerBeta1</strong> och klicka <strong>Ändra/Ta bort</strong>:<br /><img alt="???"
+            src="images/PC_20_remove_sma_beta.png" /></li>
+         </ul>
+      </section>
+	</body>
+</document>
