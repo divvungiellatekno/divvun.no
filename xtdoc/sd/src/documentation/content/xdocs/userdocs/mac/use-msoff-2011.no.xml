@@ -50,7 +50,7 @@
          <p><img alt="Rettskrivingsdialog for skrivefeilen"
          src="images/Mac_09_MSoffice_spelling_example_c.png" /></p>
 
-         <a name="1" id="1">1.</a>
+         <!--<a name="1" id="1">1.</a>-->
          <p>Microsoft har inntil videre ikke laget støtte for samisk i MS Office
          for Mac, tross at den samme støtten finnes for MS Office for Windows.
          Forhåpentligvis inneholder kommende versjoner av MS Office for Mac
