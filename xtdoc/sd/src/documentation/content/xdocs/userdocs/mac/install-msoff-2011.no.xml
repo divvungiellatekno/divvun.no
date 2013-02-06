@@ -38,30 +38,56 @@
          <p><img alt="Dobbelklikk på installeringspakka"
          src="images/installation-dmg_open-msoff-2011-nob.png" /></p>
 
-         <p>3. Installereren starter, og viser en velkomstside:</p>
+         <p>3. I MacOSX 10.8 (Mountain Lion) vil du få en advarsel (men ikke i
+         eldre versjoner - gå direkte til punkt 7):</p>
+
+         <p><img alt="Advarsel om ukjent utvikler"
+         src="images/installation-unknown_dev_dialog-msoff-2011-osx10.8-nob.png"
+         /></p>
+
+         <p>4. Klikk <strong>OK</strong> og høgreklikk (Kontroll-klikk) på
+         installeringspakka, og velg <strong>Åpne</strong> fra menyen:</p>
+
+         <p><img alt="Åpne med meny for å godkjenne"
+         src="images/installation-mtlion_open_dmg-msoff-2011-nob.png" /></p>
+
+         <p>5. Du får et nytt spørsmål om du vil åpne installeringspakka.
+         Klikk <strong>Åpne</strong>:</p>
+
+         <p><img alt="Bekreft at du vil åpne installeringspakka"
+         src="images/installation-mtlion_confirm_open_dmg-msoff-2011-nob.png"
+         /></p>
+
+         <p>6. For å få lov til å fortsette må du skrive inn et
+         administratornavn og -passord:</p>
+
+         <p><img alt="Det kreves et administratorpassord"
+         src="images/installation-mtlion_confirm_dmgopen_adminpw-msoff-2011-nob.png"
+         /></p>
+
+         <p>7. Installereren starter, og viser en velkomstside:</p>
 
          <p><img alt="Velkomstsiden i installereren"
          src="images/installation-installer_1_page-msoff-2011-nob.png" /></p>
 
-         <p>4. Klikk på <strong>Fortsett</strong> til du er klar til å begynne
+         <p>8. Klikk på <strong>Fortsett</strong> til du er klar til å begynne
          selve installeringen:</p>
 
          <p><img alt="Start sevle installeringen"
          src="images/installation-starting-msoff-2011-nob.png" /></p>
 
-         <p>5. Om du ikke er administrator må installeringen godkjennes av
-         en:</p>
+         <p>9. Installasjonen må godkjennes av en administrator:</p>
 
          <p><img alt="Installeringen må godkjennes av en administrator"
          src="images/installation-adminpw-nob.png" /></p>
 
-         <p>6. Programvaren blir installert, og om alt har gått bra, vil denne
+         <p>10. Programvaren blir installert, og om alt har gått bra, vil denne
          avslutningssiden vises:</p>
 
          <p><img alt="Installeringen er ferdig"
          src="images/installation-done-msoff-2011-nob.png" /></p>
 
-         <p>7. Installeringen er nå ferdig og du har Divvun-verktøyene på
+         <p>11. Installeringen er nå ferdig og du har Divvun-verktøyene på
          datamaskinen din!</p>
 
       </section>
