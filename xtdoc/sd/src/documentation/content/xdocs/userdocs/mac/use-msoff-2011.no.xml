@@ -3,7 +3,7 @@
 "document-v20.dtd">
 <document>
    <header>
-      <title>Bruke Divvun med MS Office 2008</title>
+      <title>Bruke Divvun med MS Office 2011</title>
    </header>
    <body>
 
@@ -16,11 +16,10 @@
       <section>
          <title>Bruke Divvun på Mac</title>
          <p>Når du har åpnet MS Office må du fortelle Office vilket språk
-         teksten er skrevet på. Dette gjør du på samme
-         måte for både MS Office 2004 og MS Office 2008.</p>
+         teksten er skrevet på for at stavekontrollen skal fungere.</p>
 
-         <p>1. Marker den samisk teksten:</p>
-         <p><img alt="Marker den samisk teksten"
+         <p>1. Marker den samiske teksten:</p>
+         <p><img alt="Marker den samiske teksten"
          src="images/Mac_08_MSOffice_tools_language_a.png" /></p>
 
          <p>2. Gå til menyen <strong>Tools &gt; Language…</strong> :</p>
