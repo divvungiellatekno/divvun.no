@@ -15,14 +15,14 @@
                     Alt+Shift til sørsamisk er valgt. Når dette er gjort vil
                     sørsamisk stavekontroll være aktivert. Da ser det slik
                     ut:
-                    <p><img src="" alt="Stavekontroll- og inndataspråkfelt"/></p>
+                    <p><img src="images/stavekontroll_og_inndatasprak_sma-msoff-2010-win7-nob.png" alt="Stavekontroll- og inndataspråkfelt"/></p>
                 </li>
 
                 <li>For å være sikker på at Word bare kjører stavekontroll på
                     det språket du har valgt, trykk på stavekontrollfeltet og
                     pass på at <strong>Identifiser språk automatisk</strong>
                     ikke er merket. Da ser det slik ut:
-                    <p><img src="" alt="Identifiser språk automatisk avmerket"/></p>
+                    <p><img src="images/ikke_automatisk_gjenkjenning_sma-msoff-2010-win7-nob.png" alt="Identifiser språk automatisk avmerket"/></p>
                 </li>
             </ol>
         </section>
@@ -36,8 +36,10 @@
             <p><img src="images/PC_16_Bruke_stavekontrollen.png"
                 alt="Forslag i meny"/></p>
 
-            <p>eller du kan starte stavekontrollen i eget vindu. Trykk på
-                <img src="images/PC_17_abc_knapp.png" alt="abc-knappen"/>.
+            <p>eller du kan starte stavekontrollen i eget vindu.
+                Velg <strong>Se gjennom</strong> i menyen.
+                Trykk på
+                <img src="images/abc_knapp-msoff-2010-nob.png" alt="abc-knappen"/>.
                 Resultatet blir: <img
                 src="images/PC_13_MSOffice_example_cut.png"
                 alt="Stavekontrollen i bruk"/></p>
