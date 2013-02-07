@@ -3,14 +3,14 @@
 "document-v20.dtd">
 <document>
    <header>
-      <title>Adnet sáme tastatuvrav MacOSX:in 10.8</title>
+      <title>Adnet sáme boallobievdev MacOSX:in 10.8</title>
    </header>
    <body>
       <section>
-         <title>Hiebadusá MacOS X:n vaj máhtá tjállet sáme bokstávaj</title>
+         <title>Hiebadusá MacOS X:n vaj máhtá tjállet nuorttasáme bokstávajt</title>
 
-         <p>Tjálátjit sáme bokstávajt hæhttu adnet sáme
-         tastatuvrav.</p>
+         <p>Tjálátjit nuorttasámesáme bokstávajt hæhttu adnet nuorttasáme
+         boallobievdev.</p>
 
          <p>1. Rabá <strong>Systemvalg…</strong></p>
 
@@ -35,8 +35,8 @@
          <p><img alt="Legge til samisk tastatur"
          src="images/enable_sme_keyboard-enable_keyboard_menu-osx10.8-nob.png" /></p>
 
-         <p>5. Vállji nuorttasáme tastatuvrav menyan rievtes bielen
-         gå galga sáme bokstávajt tjállet:</p>
+         <p>5. Vállji nuorttasáme boallobievdev menyan rievtes bielen
+         gå galga nuorttasáme bokstávajt tjállet:</p>
 
          <p><img alt="Velg samisk tastatur for skriving"
 
