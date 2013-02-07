@@ -1,26 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-"document-v20.dtd">
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
-   <header>
-      <title>Installation and use on Windows</title>
-   </header>
-   <body>
-      <section>
-         <title>Uninstallation</title>
-         <ul>
-            <li>Open the <strong>Control Panel</strong> <br /> <img alt="Windows Control Panel"
-            src="images/PC_18_control_panel_addremove.png" /></li>
-            <li>Press <strong>Add or remove programs</strong></li>
-            <li>Browse down to <strong>Sámi Proofing Tools</strong> and click the item <br /> <img
-            alt="Sami Proofing tools are marked" src="images/PC_19_remove_sami_proofing_tools.png" /></li>
-            <li>Click the <strong>Remove</strong> button.</li>
-            <li>When the removal process is finished, the <strong>Sámi Proofing Tools</strong> item in the list of
-            installed programs will have disappeared</li>
-            <li>If you have the South Sámi beta installed and want to remove it, select
-            <strong>SouthSamiSpellerBeta1</strong> and click <strong>Change/Remove</strong>:<br /><img alt="???"
-            src="images/PC_20_remove_sma_beta.png" /></li>
-         </ul>
-      </section>
-   </body>
+    <header>
+        <title>Fjerne Divvun-verktøyene fra Windows 7</title>
+    </header>
+    <body>
+        <section>
+            <title>Fjerne Divvun-verktøyene fra Windows 7</title>
+
+            <ol>
+                <li>Gå til <strong>Start</strong>, velg
+                    <strong>Datamaskin</strong>
+                    <p><img src="images/win7_start_no.png"
+                    alt="Startmeny" /></p>
+                </li>
+
+                <li>Gå til mappen <strong>Lokal disk (C) -> Backup ->
+                    Divvun</strong> og dobbeltklikk programmet
+                    <strong>remove_SamiProofingTools.exe</strong>
+                    <p><img src="images/remove_divvun-win7-nob.png"
+                        alt="Kontrollpanel"/></p>
+                </li>
+
+                <li>Når du har trykket <strong>Lukk</strong> i
+                    avinstallasjonsdialogen, er Divvunverktøyene fjenet.
+                    <p><img src="images/remove_divvun_dialog-win7-nob.png"
+                    alt="Avinstaller Divvun"/>
+                    og trykk deretter <strong>Avinstaller</strong>
+                </li>
+            </ol>
+        </section>
+    </body>
 </document>
