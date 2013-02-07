@@ -2,41 +2,42 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
     <header>
-        <title>Guktie sijjiedehtedh jih utnedh Divvun-dïrregidie Windows 7:esne</title>
+        <title>Installering og bruk av Divvun-verktøyene på Windows 7</title>
     </header>
     <body>
         <section>
-            <title>Divvunem veedtjedh</title>
+            <title>Skaffe Divvun</title>
             <p><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe">
-                Veedtjh http://www.divvun.no/static_files/DivvunInstaller.exe</a>
-                allh dænghkodh CD Saemiedigkeste, tel: +47 78 48 42 22.</p>
+                Hent http://www.divvun.no/static_files/DivvunInstaller.exe</a>
+                eller bestill en CD fra Sametinget, tel: +47 78 48 42 22.</p>
         </section>
 
         <section>
-            <title>Sijjiedehtedh Divvundïrregidie Windows 7:ese</title>
+            <title>Installering av Divvun-verktøyene på Windows 7</title>
 
-             <warning>Jis edtjh orrestehtedh programmem voestes versjovneste mubpie versjovnese, dellie tjoeverh vaeltedh dam
-         båeries versjovnem destie, aarebi dam mubpie versjovnem jallh urrebe versjovnem bïejh.
+             <warning>Om du oppgraderer fra versjon 1, må du først avinstallere
+                 den gamle versjonen før du installerer Divvun 2 eller nyere.
                  </warning>
             <ol>
-                <li>Bëijh dle CD:em jallh veedtjelh Internedteste –
-                    Sijjiedehtemeprogramme jïjtje jåhta. </li>
+                <li>Sett inn CD-en eller klikk på nedlastingslenka –
+                    installeringsprogrammet starter av seg selv. </li>
 
-                <li>Veeljh sijjiedehtemegïelem, Dïhte lea dïhte gïele, maam åtnah gosse programmem sijjiedehtedh:
+                <li>Velg installeringsspråk, d.v.s. det språket som skal
+                    brukes under selve installeringen av programmet:
                     <p>
                         <img src="images/installerer_velg_sprak-win7-nob.png"
                         alt="Velg installeringssspråk"/>
                     </p>
                 </li>
 
-                <li>Diedtieh "dåhkasjehtieh" <strong>License agreement</strong>-klaasesne
+                <li>Trykk godta i <strong>License agreement</strong>-vinduet
                     <p>
                         <img src="images/installerer_lisens-win7-nob.png"
                         alt="Godta lisensen"/>
                     </p>
                 </li>
 
-                <li>Programmem sijjiedehtedh, diedtieh båaloem
+                <li>For å installere programmet, klikk på knappen
                     <strong>Installer</strong>.
                     <p>
                         <img src="images/installerer_installer-win7-nob.png"
@@ -44,8 +45,9 @@
                     </p>
                 </li>
 
-                <li>Gosse programmem sijjiedahteme.
-                    Diedtieh <strong>Lukk</strong> gosse dam minngemes dialåågem dahpedh:
+                <li>Installasjonen av programmet er nå ferdig.
+                    Trykk på <strong>Lukk</strong> for å stenge den siste
+                    dialogen:
                     <p>
                         <img src="images/installerer_lukk-win7-nob.png"
                         alt="Fullfør installeringen"/>
