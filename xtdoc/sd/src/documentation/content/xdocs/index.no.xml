@@ -7,7 +7,7 @@
       <meta name="description">samisk stavekontroll</meta>
    </header>
    <body>
-      <p><icon src="images/splash_orange.png"/>Divvun 2.2 med støtte for 64-bits Windows er tilgjengelig fra og med
+      <p><icon src="images/splash_orange.png" alt="splash orange"/>Divvun 2.2 med støtte for 64-bits Windows er tilgjengelig fra og med
       23. november 2011.</p>
 
       <warning>Om du allerede har Divvun 1.x installert på maskinen din må du
