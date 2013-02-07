@@ -3,27 +3,27 @@
 "document-v20.dtd">
 <document>
    <header>
-      <title>Installere og bruke Divvun for MS Office 2010</title>
+      <title>Sajáiduhtti ja geavahit Divvun-reaidduid MS Office 2010:s</title>
    </header>
    <body>
      <ol>
-       <li>Installere Divvun på:
+       <li>Sajáiduhttit:
          <ul>
-           <li>MS Windows8</li>
-           <li><a href="install-msoff-win7-nob.html">MS Windows7</a></li>
+           <li>MS Windows 8:s</li>
+           <li><a href="install-msoff-win7-nob.html">MS Windows 7:s</a></li>
+           <li>MS Windows Vistas</li>
+           <li>MS Windows XP:s</li>
+         </ul>
+       </li>
+       <li>Geavahit davvisámegiella čállingiellan:
+         <ul>
+           <li>MS Windows 8</li>
+           <li><a href="enable_sme_input-win7-nob.html">MS Windows 7</a></li>
            <li>MS Windows Vista</li>
            <li>MS Windows XP</li>
          </ul>
        </li>
-       <li>Slå på samisk tastatur i:
-         <ul>
-           <li>MS Windows8</li>
-           <li><a href="enable_sme_input-win7-nob.html">MS Windows7</a></li>
-           <li>MS Windows Vista</li>
-           <li>MS Windows XP</li>
-         </ul>
-       </li>
-       <li><a href="use-msoff-2010-win7-sme-nob.html">Bruke Divvun i MS Office 2010</a></li>
+       <li><a href="use-msoff-2010-win7-sme-nob.html">Geavahit Divvun-reaidduid MS Office 2010:s</a></li>
      </ol>
    </body>
 </document>
