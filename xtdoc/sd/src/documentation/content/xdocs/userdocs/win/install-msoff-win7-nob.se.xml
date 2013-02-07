@@ -2,55 +2,42 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
     <header>
-        <title>Installering og bruk av Divvun-verktøyene på Windows 7</title>
+        <title>Sajáiduhttit Divvun-reaidduid Windows 7:s</title>
     </header>
     <body>
         <section>
-            <title>Skaffe Divvun</title>
-            <p><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe">
-                Hent http://www.divvun.no/static_files/DivvunInstaller.exe</a>
-                eller bestill en CD fra Sametinget, tel: +47 78 48 42 22.</p>
-        </section>
+            <title>Sajáiduhttit Divvun-reaidduid Windows 7:s</title>
 
-        <section>
-            <title>Installering av Divvun-verktøyene på Windows 7</title>
-
-             <warning>Om du oppgraderer fra versjon 1, må du først avinstallere
-                 den gamle versjonen før du installerer Divvun 2 eller nyere.
-                 </warning>
             <ol>
-                <li>Sett inn CD-en eller klikk på nedlastingslenka –
-                    installeringsprogrammet starter av seg selv. </li>
+                <li>Coahkkal <a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe">viežžanliŋkka</a> – sajáiduhttinprográmma vuolá ieš johtui. </li>
 
-                <li>Velg installeringsspråk, d.v.s. det språket som skal
-                    brukes under selve installeringen av programmet:
+                <li>Vállje sajáiduhttingiela, dat máksá giella mii geavahuvvo sajáiduhtedettiin Divvun-reaidduid:
                     <p>
                         <img src="images/installerer_velg_sprak-win7-nob.png"
-                        alt="Velg installeringssspråk"/>
+                        alt="Vállje sajáiduhttingiela"/>
                     </p>
                 </li>
 
-                <li>Trykk godta i <strong>License agreement</strong>-vinduet
+                <li>Coahkkal <strong>Godta</strong> <strong>License agreement</strong>-lásežis.
                     <p>
                         <img src="images/installerer_lisens-win7-nob.png"
-                        alt="Godta lisensen"/>
+                        alt="Dohkket liseanssa"/>
                     </p>
                 </li>
 
-                <li>For å installere programmet, klikk på knappen
-                    <strong>Installer</strong>.
+                <li>Sajáiduhttin dihte prográmma, coahkkal
+                    <strong>Installer</strong>-boalu.
                     <p>
                         <img src="images/installerer_installer-win7-nob.png"
-                        alt="klikk på knappen &quot;Installer&quot;"/>
+                        alt="Coahkkal «Installer»-boalu"/>
                     </p>
                 </li>
 
-                <li>Installasjonen av programmet er nå ferdig.
-                    Trykk på <strong>Lukk</strong> for å stenge den siste
-                    dialogen:
+                <li>Prográmma lea dál sajáiduhtton.
+                    Coahkkal <strong>Lukk</strong> gidden dihte maŋemuš láseža:
                     <p>
                         <img src="images/installerer_lukk-win7-nob.png"
-                        alt="Fullfør installeringen"/>
+                        alt="Loahpat sajáiduhttima"/>
                     </p>
                 </li>
             </ol>
