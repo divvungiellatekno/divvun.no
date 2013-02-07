@@ -1,33 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
-	<header>
-		<title>Guktie sijjiedehtedh jih utnedh programmem Windows:sne</title>
-	</header>
-	<body>
-		<section>
-			<title>Divvunem veedtjedh</title>
-			<p><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe">Veedtjh http://www.divvun.no/static_files/DivvunInstaller.exe</a> jallh dænghkodh CD Saemiedigkeste, tel: +47 78 48 42 22.</p>
-		</section>
-		<section>
-			<title>Guktie sijjiedehtedh programmem Windows:se</title>
-         <warning>Jis edtjh orrestehtedh programmem voestes versjovneste mubpie versjovnese, dellie tjoeverh vaeltedh dam båeries versjovnem destie, aarebi dam orre mubpie versjovnem bïejh.</warning>
-			<p>Bïejh CD:m jallh diedtieh vïedtjemesvaalhtesem – dïhte sijjiedehtemeprograamme dellie jïjtje aalka</p>
-			<p>1. Veeljh sijjiedehtemegïelem,dam gïelem maam åtnah gosse edtjh sijjiedehtedh programmem:</p>
-			<p>
-				<img src="images/PC_02_Install_choose_language_cut.png" alt="Välj installationsspråk"/>
-			</p>
+    <header>
+        <title>Installering og bruk av Divvun-verktøyene på Windows 7</title>
+    </header>
+    <body>
+        <section>
+            <title>Skaffe Divvun</title>
+            <p><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe">
+                Hent http://www.divvun.no/static_files/DivvunInstaller.exe</a>
+                eller bestill en CD fra Sametinget, tel: +47 78 48 42 22.</p>
+        </section>
 
-			<p>2. Gosse programmem sijjiedehtedh, diedtieh båaloem  <strong>Installera</strong> . </p>
-			<p>
-				<img src="images/PC_04_install_continue.png" alt="Välj vad du ska installera"/>
-			</p>
+        <section>
+            <title>Installering av Divvun-verktøyene på Windows 7</title>
 
-			<p>3.Gosse orrijidh dam sijjiedehtemem, diedtieh dellie<strong>Fullför</strong> båaloem: </p>
-			<p>
-				<img src="images/PC_05_install_complete.png" alt="Börja installera "/>
-			</p>
-			<p>Dellie lea sijjiedahteme.</p>
-		</section>
-	</body>
+             <warning>Om du oppgraderer fra versjon 1, må du først avinstallere
+                 den gamle versjonen før du installerer Divvun 2 eller nyere.
+                 </warning>
+            <ol>
+                <li>Sett inn CD-en eller klikk på nedlastingslenka –
+                    installeringsprogrammet starter av seg selv. </li>
+
+                <li>Velg installeringsspråk, d.v.s. det språket som skal
+                    brukes under selve installeringen av programmet:
+                    <p>
+                        <img src="images/installerer_velg_sprak-win7-nob.png"
+                        alt="Velg installeringssspråk"/>
+                    </p>
+                </li>
+
+                <li>Trykk godta i <strong>License agreement</strong>-vinduet
+                    <p>
+                        <img src="images/installerer_lisens-win7-nob.png"
+                        alt="Godta lisensen"/>
+                    </p>
+                </li>
+
+                <li>For å installere programmet, klikk på knappen
+                    <strong>Installer</strong>.
+                    <p>
+                        <img src="images/installerer_installer-win7-nob.png"
+                        alt="klikk på knappen &quot;Installer&quot;"/>
+                    </p>
+                </li>
+
+                <li>Installasjonen av programmet er nå ferdig.
+                    Trykk på <strong>Lukk</strong> for å stenge den siste
+                    dialogen:
+                    <p>
+                        <img src="images/installerer_lukk-win7-nob.png"
+                        alt="Fullfør installeringen"/>
+                    </p>
+                </li>
+            </ol>
+        </section>
+    </body>
 </document>

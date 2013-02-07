@@ -1,33 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
-	<header>
-		<title>Sajáiduhttit ja geavahit reaidduid Windowsis</title>
-	</header>
-	<body>
-		<section>
-			<title>Skáhpput Divvuma</title>
-			<p><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe">Viečča http://www.divvun.no/static_files/DivvunInstaller.exe</a> dahje dahje diŋgo CD Sámedikkis, tel: +47 78 48 42 22.</p>
-		</section>
-		<section>
-			<title>Sajáiduhttit reaidduid Windowsis</title>
-         <warning>Jos dus juo lea version 1, de fertet váldit eret dan ovdal go sajáiduhtát version 2.</warning>
-			<p>Coggal sisa CD dahje coahkkal viežžanliŋkka – sajáiduhttinprográmma álgá automáhtalaččat. </p>
-			<p>1. Vállje sajáiduhttingiela, dat mearkkaša, dan giela mii geavahuvvo prográmma sajáiduhtedettiin:  </p>
-			<p>
-				<img src="images/PC_02_Install_choose_language_cut.png" alt="Vállje sajáiduhttingiela"/>
-			</p>
+    <header>
+        <title>Installering og bruk av Divvun-verktøyene på Windows 7</title>
+    </header>
+    <body>
+        <section>
+            <title>Skaffe Divvun</title>
+            <p><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe">
+                Hent http://www.divvun.no/static_files/DivvunInstaller.exe</a>
+                eller bestill en CD fra Sametinget, tel: +47 78 48 42 22.</p>
+        </section>
 
-			<p>2. Sajáiduhte prográmma, coahkkal boalu  <strong>Sajáiduhte</strong> . </p>
-			<p>
-				<img src="images/PC_04_install_continue.png" alt="Vállje maid áiggut sajáiduhttit"/>
-			</p>
+        <section>
+            <title>Installering av Divvun-verktøyene på Windows 7</title>
 
-			<p>3. Gearggat sajáiduhttima, coahkkal  <strong>Gearggat</strong> : </p>
-			<p>
-				<img src="images/PC_05_install_complete.png" alt="Sajáiduhttin lea geargan"/>
-			</p>
-			<p>Dál de lea prográmma sajáiduhtton. </p>
-		</section>
-	</body>
+             <warning>Om du oppgraderer fra versjon 1, må du først avinstallere
+                 den gamle versjonen før du installerer Divvun 2 eller nyere.
+                 </warning>
+            <ol>
+                <li>Sett inn CD-en eller klikk på nedlastingslenka –
+                    installeringsprogrammet starter av seg selv. </li>
+
+                <li>Velg installeringsspråk, d.v.s. det språket som skal
+                    brukes under selve installeringen av programmet:
+                    <p>
+                        <img src="images/installerer_velg_sprak-win7-nob.png"
+                        alt="Velg installeringssspråk"/>
+                    </p>
+                </li>
+
+                <li>Trykk godta i <strong>License agreement</strong>-vinduet
+                    <p>
+                        <img src="images/installerer_lisens-win7-nob.png"
+                        alt="Godta lisensen"/>
+                    </p>
+                </li>
+
+                <li>For å installere programmet, klikk på knappen
+                    <strong>Installer</strong>.
+                    <p>
+                        <img src="images/installerer_installer-win7-nob.png"
+                        alt="klikk på knappen &quot;Installer&quot;"/>
+                    </p>
+                </li>
+
+                <li>Installasjonen av programmet er nå ferdig.
+                    Trykk på <strong>Lukk</strong> for å stenge den siste
+                    dialogen:
+                    <p>
+                        <img src="images/installerer_lukk-win7-nob.png"
+                        alt="Fullfør installeringen"/>
+                    </p>
+                </li>
+            </ol>
+        </section>
+    </body>
 </document>
