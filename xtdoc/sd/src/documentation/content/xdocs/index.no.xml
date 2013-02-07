@@ -7,11 +7,8 @@
       <meta name="description">samisk stavekontroll</meta>
    </header>
    <body>
-      <p>Divvun 2.2 med støtte for 64-bits Windows er tilgjengelig fra og med
-      23. november 2011. Det vil ikke bli støtte for InDesign CS4 og CS5, men
-      InDesign CS5.5 og nyere har støtte for Hunspell-ordlister, som kan lastes
-      ned ved å klikke på lenka <em>«Andre installeringsalternativ, gamle
-      versjoner»</em> nedenfor.</p>
+      <p><icon src="images/splash_orange.png"/>Divvun 2.2 med støtte for 64-bits Windows er tilgjengelig fra og med
+      23. november 2011.</p>
 
       <warning>Om du allerede har Divvun 1.x installert på maskinen din må du
       avinstallere den gamle versjonen før du installerer den nye. Her finner du
@@ -153,6 +150,13 @@
          <td>
          <br/><br/>
          <br/>· <a href="userdocs/mac/install-indesign-CS3.html">Vegledning</a></td>
+         <td>
+           <p>Divvun støtter ikke InDesign CS4 og CS5,<br/>
+           men InDesign CS5.5 og nyere har støtte for<br/>
+           Hunspell-ordlister, som kan lastes ned ved<br/>
+           å klikke på lenka <em>«Andre installeringsalternativ,<br/>
+           gamle versjoner»</em> nedenfor.</p>
+         </td>
          </tr>
          <tr>
          <td colspan="4"><p class="line"/></td>
