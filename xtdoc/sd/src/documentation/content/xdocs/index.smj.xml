@@ -10,22 +10,19 @@
   <body>
 
       <p>Divvun 2.2 64-bits Windows doarjjagijn la sadjihin basádismáno 23.
-      biejvve rájes 2011. Versjåvnnå ij doarjo InDesign CS4 ja CS5, valla
-      InDesign CS5.5 ja ådåsap versjåvnåjn la doarjja Hunspell-báhkolisstajda, dajt máhtá viedtjat jus debtjasta liŋkav
-       <em>«Ietjá installerimmáhttelisvuoda, oabme
-      versjåvnå»</em> vuollelin.</p>
+      biejvve rájes 2011.</p>
 
-      <warning>Jus dujna juo la Divvun 1.x de hæhttu válldet dav ierit åvddål gå bieja
-      2.2. Dánna gávna bagádusajt <a
+      <warning>Jus dujna juo la Divvun 1.x de hæhttu válldet dav ierit åvddål gå
+      bieja 2.2. Dánna gávna bagádusajt <a
       href="userdocs/win/install-msoff-2007.html">Windowsii</a> ja <a
-      href="userdocs/mac/install-msoff-2008.html">MacOS X:i</a>. Jus dunja l Divvun 2.x
-      de i dárbaha dav ierit válldet.</warning>
+      href="userdocs/mac/install-msoff-2008.html">MacOS X:i</a>. Jus dunja l
+      Divvun 2.x de i dárbaha dav ierit válldet.</warning>
 
       <note>
       <icon alt="Under omarbetning" height="26" width="31"
       src="images/traffic-warning.png"/>
-      Lip ådåstuhttemin næhttabielev, danen de li soajttá imálasj tevsta ja liŋka ma e dåjma.
-      Vájvahip dáv</note>
+      Lip ådåstuhttemin næhttabielev, danen de li soajttá imálasj tevsta ja
+      liŋka ma e dåjma. Vájvahip dáv.</note>
 
       <section>
          <title>Viedtja Divvun:av</title>
@@ -155,6 +152,14 @@
          <td>
          <br/><br/>
          <br/>· <a href="userdocs/mac/install-indesign-CS3.html">Bágadis</a></td>
+         <td>
+           <p>Versjåvnnå ij doarjo InDesign CS4 ja CS5,<br/>
+              valla InDesign CS5.5 ja ådåsap versjåvnåjn<br/>
+              la doarjja Hunspell-báhkolisstajda, dajt máhtá<br/>
+              viedtjat jus debtjasta liŋkav <em>«Ietjá<br/>
+              installerimmáhttelisvuoda, oabme versjåvnå»</em> vuollelin.
+           </p>
+         </td>
          </tr>
          <tr>
          <td colspan="4"><p class="line"/></td>

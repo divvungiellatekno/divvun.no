@@ -8,10 +8,7 @@
    </header>
    <body>
       <p>Orre Divvun 2.2-versjovne rahkan 23 b. 2011 raejeste gååvnese mij
-      64-bits Windowsasse sjeahta. Det vil ikke bli støtte for InDesign CS4 og
-      CS5, men InDesign CS5.5 og nyere har støtte for Hunspell-ordlister, som
-      kan lastes ned ved å klikke på lenka <em>«Jeatjah-laakan sijjiedehtedh,
-      gamle versjoner»</em> nedenfor.</p>
+      64-bits Windowsasse sjeahta.</p>
 
       <p> Dåarjege InDesign CS4:se jïh CS5:se aaj
       dallegh båata.</p>
@@ -157,6 +154,14 @@
          <td>
          <br/><br/>
          <br/>· <a href="userdocs/mac/install-indesign-CS3.html">Bïhkedimmie</a></td>
+         <td>
+           <p>Det vil ikke bli støtte for InDesign CS4 og CS5,<br/>
+              men InDesign CS5.5 og nyere har støtte for<br/>
+              Hunspell-ordlister, som kan lastes ned ved å klikke<br/>
+              på lenka <em>«Jeatjah-laakan sijjiedehtedh,<br/>
+              gamle versjoner»</em> nedenfor.
+           </p>
+         </td>
          </tr>
          <tr>
          <td colspan="4"><p class="line"/></td>

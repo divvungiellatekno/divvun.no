@@ -8,9 +8,7 @@
    </header>
    <body>
       <p>Divvun 2.2 joka sisältää tuen 64-bittiselle Windows:lle julkaistaan 23.
-      Marraskuuta, 2011. There will be no support for InDesign CS4 and CS5, but
-      InDesign CS 5.5 and newer supports Hunspell dictionaries, which can be
-      found under <em>«Other installation options, older versions»</em> below.</p>
+      Marraskuuta, 2011.</p>
 
       <warning>Jos sinulla on käytössä Divvun 1.x versio, sinun tulee poistaa
       Divvun työkalujen aiemmat versiot. Täältä löydät ohjeet <a
@@ -152,6 +150,13 @@
          <td>
          <br/><br/>
          <br/>· <a href="userdocs/mac/install-indesign-CS3.html">ohjeet</a></td>
+         <td>
+           <p>There will be no support for InDesign CS4 and CS5,<br/>
+              but InDesign CS 5.5 and newer supports Hunspell<br/>
+              dictionaries, which can be found under <em>«Other<br/>
+              installation options, older versions»</em> below.
+           </p>
+         </td>
          </tr>
          <tr>
          <td colspan="4"><p class="line"/></td>

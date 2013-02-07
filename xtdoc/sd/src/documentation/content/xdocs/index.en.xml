@@ -8,9 +8,7 @@
    </header>
    <body>
       <p>Divvun 2.2 with support for 64-bit Windows is available as of November
-      23, 2011. There will be no support for InDesign CS4 and CS5, but InDesign
-      CS 5.5 and newer supports Hunspell dictionaries, which can be found under
-      <em>«Other installation options, older versions»</em> below.</p>
+      23, 2011.</p>
 
       <warning>If you have a Divvun 1.x version installed, you must uninstall
         the old version before installing the new. Here you can find instructions
@@ -154,6 +152,12 @@
          <br/>
                · <a href="userdocs/mac/install-indesign-CS3.html">Instructions</a>
                - <a href="userdocs/mac/KnownIssuesForIndesignCS3.html">Known issues</a>
+         </td>
+         <td>
+           <p>There will be no support for InDesign CS4 and CS5,<br/>
+              but InDesign CS 5.5 and newer supports Hunspell<br/>
+              dictionaries, which can be found under <em>«Other<br/>
+              installation options, older versions»</em> below.</p>
          </td>
          </tr>
          <tr>
