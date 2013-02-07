@@ -57,8 +57,17 @@
 
          <p>6b. eller ved å åpne rettedialogen:</p>
 
+         <p><img alt="Meny for å åpne rettskrivingsdialog"
+         src="images/usage-open_speller_dialog-msoff-2011-nob.png" /></p>
+
          <p><img alt="Rettskrivingsdialog for skrivefeilen"
-         src="images/Mac_09_MSoffice_spelling_example_c.png" /></p>
+         src="images/usage-speller_dialog-msoff-2011-nob.png" /></p>
+
+         <p>7. For å finne ut vilken versjon av stavekontrollen du har, kan du
+         skrive inn teksten «<em>nuvviDspeller</em>», og høgreklikke på den:</p>
+
+         <p><img alt="Sjekk Divvun-versjon"
+         src="images/usage-check_version-msoff-2011-sme-nob.png" /></p>
 
          <!--<a name="1" id="1">1.</a>-->
          <p>1. Microsoft har inntil videre ikke laget støtte for samisk i MS
