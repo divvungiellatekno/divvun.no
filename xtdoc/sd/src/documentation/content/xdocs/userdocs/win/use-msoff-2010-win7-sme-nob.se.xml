@@ -2,47 +2,49 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
 	<header>
-		<title>Bruke Divvun-verktøyene på MS Office 2010 for nordsamisk</title>
+		<title>Geavahit Divvun-reaidduid MS Office 2010:s davvisámegilliik</title>
 	</header>
 	<body>
         <section>
-			<title>Aktivere nordsamisk stavekontroll</title>
+			<title>Aktiveret davvisámi čállindárkkisteami</title>
             <ol>
-                <li>Start opp Word</li>
+                <li>Álggat Word</li>
 
-                <li>Velg nordsamisk som inndataspråk. Du kan gjøre dette ved å
-                    gå til språkmenyen og velge nordsamisk, eller trykke på
-                    Alt+Shift til nordsamisk er valgt. Når dette er gjort vil
-                    nordsamisk stavekontroll være aktivert. Da ser det slik
-                    ut:
-                    <p><img src="images/stavekontroll_og_inndatasprak_sme-msoff-2010-win7-nob.png" alt="Stavekontroll- og inndataspråkfelt"/></p>
+                <li>Vállje davvisámegiela čállingiellan. Sáhtát mannat
+                    giellaboallui ja válljet davvisámegiela doppa, dahje
+                    deaddilit Alt+Shift dassáigo davvisámegiella lea válljejuvvon. Go leat joavdan nu guhkkás, de lea
+                    davvisámi čallindarkkisteapmi aktiverejuvvon. Dalle
+                    galggašii dát oidnot:
+                    <p><img src="images/stavekontroll_og_inndatasprak_sme-msoff-2010-win7-nob.png"
+                    alt="Čállindárkkistan- og čállingiellagiettit"/></p>
                 </li>
 
-                <li>For å være sikker på at Word bare kjører stavekontroll på
-                    det språket du har valgt, trykk på stavekontrollfeltet og
-                    pass på at <strong>Identifiser språk automatisk</strong>
-                    ikke er merket. Da ser det slik ut:
-                    <p><img src="images/ikke_automatisk_gjenkjenning_sme-msoff-2010-win7-nob.png" alt="Identifiser språk automatisk avmerket"/></p>
+                <li>Word viggá automáhtalaččat árvidit guđe gillii čálát.
+                    Sihkkarastin dihte ahte dát ii dáhppáhuva, coahkkal
+                    čállindárkkistangietti. Dárkkis ahte <strong>
+                    Identifiser språk automatisk</strong> ii leat merkejuvvon
+                    lásežis mii de ihtá.
+                    <p><img src="images/ikke_automatisk_gjenkjenning_sme-msoff-2010-win7-nob.png"
+                    alt="Ii merkejuvvon «Identifiser språk automatisk»"/></p>
                 </li>
             </ol>
         </section>
 
         <section>
-            <title>Bruke nordsamisk stavekontroll</title>
-            <p>Når du skriver vil du få røde streker under de ordene
-            stavekontrollen ikke godtar. Du kan enten velge å høyretrykke på
-            ord med røde streker under. Da ser det slik ut:</p>
-
+            <title>Geavahit davvisámi čállindárkkisteami</title>
+            <p>Cáledettiin ihtet rukses sázut sániid vuollái maid
+            čállindárkkisteaddji ii dohkket. Sáhtát dalle juogo olgešcoahkkalit
+            sániid main leat rukses sážut, nugo dás vuolábealde:</p>
             <p><img src="images/bruke_stavekontrollen_sme-msoff-2010-win7-nob.png"
-                alt="Forslag i meny"/></p>
+                alt="Evttohusat fálus"/></p>
 
-			<p>eller du kan starte stavekontrollen i eget vindu.
-                Velg <strong>Se gjennom</strong> i menyen.
-                Trykk på
-                <img src="images/abc_knapp-msoff-2010-nob.png" alt="abc-knappen"/>.
-                Resultatet blir: <img
+			<p>dahje sáhtát álggahit čállindárkkisteami sierra lásežis.
+                Vállje <strong>Se gjennom</strong> fálus.
+                Coahkkal ABC-boalu.
+                <img src="images/abc_knapp-msoff-2010-nob.png" alt="abc-boallu"/>.
+                De ihtá láseš: <img
                 src="images/stavekontroll_dialog_sme-msoff-2010-nob.png"
-                alt="Stavekontrolldialogen i bruk"/></p>
+                alt="Čállindárkkistanláseš"/></p>
         </section>
 	</body>
 </document>
