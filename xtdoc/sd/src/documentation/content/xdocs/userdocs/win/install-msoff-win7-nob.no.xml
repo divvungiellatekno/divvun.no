@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<document>
+    <header>
+        <title>Installering og bruk av Divvun-verktøyene på Windows 7</title>
+    </header>
+    <body>
+        <section>
+            <title>Skaffe Divvun</title>
+            <p><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe">
+                Hent http://www.divvun.no/static_files/DivvunInstaller.exe</a>
+                eller bestill en CD fra Sametinget, tel: +47 78 48 42 22.</p>
+        </section>
+        <section>
+            <title>Installering av Divvun-verktøyene på Windows 7</title>
+
+             <warning>Om du oppgraderer fra versjon 1, må du først avinstallere
+                 den gamle versjonen før du installerer Divvun 2 eller nyere.
+                 </warning>
+            <ol>
+                <li>Sett inn CD-en eller klikk på nedlastingslenka –
+                    installeringsprogrammet starter av seg selv. </li>
+
+                <li>Velg installeringsspråk, d.v.s. det språket som skal
+                    brukes under selve installeringen av programmet:
+                    <p>
+                        <img src="images/installerer_velg_sprak-win7-nob.png"
+                        alt="Velg installeringssspråk"/>
+                    </p>
+                </li>
+
+                <li>Trykk godta i <strong>License agreement</strong>-vinduet
+                    <p>
+                        <img src="images/installerer_lisens-win7-nob.png"
+                        alt="Godta lisensen"/>
+                    </p>
+                </li>
+
+                <li>For å installere programmet, klikk på knappen
+                    <strong>Installer</strong>.
+                    <p>
+                        <img src="images/installerer_installer-win7-nob.png"
+                        alt="klikk på knappen &quot;Installer&quot;"/>
+                    </p>
+                </li>
+
+                <li>Installasjonen av programmet er nå ferdig.
+                    Trykk på <strong>Lukk</strong> for å stenge den siste
+                    dialogen:
+                    <p>
+                        <img src="images/installerer_lukk-win7-nob.png"
+                        alt="Fullfør installeringen"/>
+                    </p>
+                </li>
+            </ol>
+            <p></p>
+        </section>
+    </body>
+</document>
