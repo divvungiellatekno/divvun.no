@@ -8,14 +8,14 @@
    <body>
       <section>
          <title>Get Divvun</title>
-         <p><a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Download
+         <p><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe">Download
          http://www.divvun.no/static_files/DivvunInstaller.exe</a> or order a CD from the Sámi parliament, tel: +47 78
          48 42 22.</p>
       </section>
       <section>
          <title>Installation and use of the Divvun proofing tools on Windows</title>
          <warning>If you are upgrading from version 1, please uninstall the old version before installing version 2.</warning>
-         <p>Insert the CD or click the download link - the installation application will start automatically.</p>
+         <p>Insert the CD or click the download link – the installation application will start automatically.</p>
          <p>1. Select installation language, that is, the interface language to be used during installation:</p>
          <p><img alt="Choose installation language" src="images/PC_02_Install_choose_language_cut.png" /></p>
          <p>2. To install the program, press the <strong>Install</strong> button.</p>

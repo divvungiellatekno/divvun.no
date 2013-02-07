@@ -7,22 +7,22 @@
 	<body>
 		<section>
 			<title>Skaffa Divvun</title>
-			<p><a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Hämta http://www.divvun.no/static_files/DivvunInstaller.exe</a> eller beställ en CD från Sametinget, tel: +47 78 48 42 22.</p>
+			<p><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe">Hämta http://www.divvun.no/static_files/DivvunInstaller.exe</a> eller beställ en CD från Sametinget, tel: +47 78 48 42 22.</p>
 		</section>
 		<section>
 			<title>Installation av produkten på Windows</title>
          <warning>Om du uppgraderar från version 1, så måste du avinstallera den gamla versionen innan du installerar version 2.</warning>
-			<p>Sätt in CDn eller klicka på nedladdningslänken &#8212; installationsprogrammet startar av sig själv. </p>
+			<p>Sätt in CDn eller klicka på nedladdningslänken – installationsprogrammet startar av sig själv. </p>
 			<p>1. Välj installationsspråk, d.v.s. det språk som används under själva installationen av programmet:  </p>
 			<p>
 				<img src="images/PC_02_Install_choose_language_cut.png" alt="Välj installationsspråk"/>
 			</p>
-			
+
 			<p>2. För att installera programmet, tryck på knappen  <strong>Installera</strong> . </p>
 			<p>
 				<img src="images/PC_04_install_continue.png" alt="Välj vad du ska installera"/>
 			</p>
-			
+
 			<p>3. För att fullfölja  installationen, tryck på  <strong>Fullför</strong> : </p>
 			<p>
 				<img src="images/PC_05_install_complete.png" alt="Börja installera "/>

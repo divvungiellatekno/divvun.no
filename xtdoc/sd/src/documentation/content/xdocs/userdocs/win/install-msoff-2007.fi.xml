@@ -7,22 +7,22 @@
 	<body>
 		<section>
 			<title>Hae Divvun</title>
-			<p><a href="http://www.divvun.no/static_files/DivvunInstaller.exe">Lataa http://www.divvun.no/static_files/DivvunInstaller.exe</a> tai tilaa CD Norjan saamelaiskäräjiltä, puh: +47 78 48 42 22.</p>
+			<p><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe">Lataa http://www.divvun.no/static_files/DivvunInstaller.exe</a> tai tilaa CD Norjan saamelaiskäräjiltä, puh: +47 78 48 42 22.</p>
 		</section>
 		<section>
 			<title>Divvun-ohjelman asennus Windows-koneella</title>
 			<warning>Jos päivität aiempaa versiota, poista vanhempi versio ennen kuin asennat uudemman version</warning>
-			<p>Aseta CD asemaan tai osoita latauslinkkiä - asennusohjelma käynnistyy itsestään. </p>
+			<p>Aseta CD asemaan tai osoita latauslinkkiä – asennusohjelma käynnistyy itsestään. </p>
 			<p>1. Valitse asennuskieli jota käytetään asennuksen yhteydessä: </p>
 			<p>
 				<img src="images/PC_02_Install_choose_language_cut.png" alt="Valitse asennuskieli"/>
 			</p>
-			
+
 			<p>2. Asenna ohjelmisto osoittamalla  <strong>Asenna</strong> . </p>
 			<p>
 				<img src="images/PC_04_install_continue.png" alt="osoita &quot;Asenna&quot;-painiketta"/>
 			</p>
-			
+
 			<p>3. Lopeta asennus osoittamalla  <strong>Valmis</strong> : </p>
 			<p>
 				<img src="images/PC_05_install_complete.png" alt="Lopeta asennus"/>
