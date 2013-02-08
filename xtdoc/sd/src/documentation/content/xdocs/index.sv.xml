@@ -3,13 +3,13 @@
 "http://förrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sv">
    <header>
-      <title>Divvun 2 - samiska rättstavningsverktyg</title>
+      <title>Divvun 2 - samiska rättskrivningsverktyg</title>
       <meta name="description">samisk stavningskontroll</meta>
    </header>
    <body>
-      <p>8. februar 2013: <strong>Divvun 2.3</strong> med mange språklige tillegg
-      og rettinger for nordsamisk er tilgjengelig. Ingen endringer for lulesamisk
-      og sørsamisk.</p>
+      <p>8. februar 2013: <strong>Divvun 2.3</strong> med många språkliga tillägg
+      och rättelser för nordsamiska är tillgänglig. Det är inga ändringar för
+      lulesamiska och sydsamisk.</p>
 
       <warning>Om du redan har Divvun 1.x installerat på din dator måste du
       avinstallera den gamla versionen innan du installerar den nya. Här hittar
