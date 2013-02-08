@@ -53,6 +53,15 @@
       <section>
          <title>Veršuvdnahistorjá</title>
          <section>
+            <title>Divvun 2.3</title>
+            <p>Språklige oppdateringer for nordsamisk:</p>
+            <ul>
+               <li>ca 40 000 nye ord, fra korpus og fra brukere</li>
+               <li>justeringer i forhold til nye rettskrivingsvedtak</li>
+               <li>mange andre smårettinger</li>
+            </ul>
+         </section>
+         <section>
             <title>Divvun 2.2</title>
             <ul>
                <li>doarju 64-bits Windows</li>
