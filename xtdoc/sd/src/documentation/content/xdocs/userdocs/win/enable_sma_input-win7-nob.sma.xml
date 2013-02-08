@@ -2,7 +2,7 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
     <header>
-        <title>Sørsamisk som innspråk i Windows 7</title>
+        <title>Åarjelsaemiengïele tjaelemegïeline Windows 7:sne</title>
     </header>
     <body>
         <section>
@@ -11,19 +11,19 @@
             <p>Vi viser hvordan man setter opp sørsamisk som inndataspråk. Når man velger sørsamisk som inndataspråk, vil stavekontrollen automatisk gjøres på sørsamisk når man har installert Divvun-verktøyene.</p>
 
             <ol>
-                <li>Gå til <strong>Start</strong>, velg <strong>Kontrollpanel</strong>
+                <li>Mïnnh dle <strong>Start</strong>, veeljh <strong>Kontrollpanel</strong>
                     <p><img src="images/win7_start_no.png" alt="Startmeny" /></p>
                 </li>
 
-                <li>Velg <strong>Endre tastatur- eller andre inndatametoder</strong> kontrollpanel.
+                <li>Veeljh<strong>Endre tastatur- eller andre inndatametoder</strong>.
                     <p><img src="images/win7_kontrollpanel_no.png" alt="Kontrollpanel"/></p>
                 </li>
 
-                <li>Dialogen Region og språk dukker opp. Velg <strong>Endre tastaturer...</strong>.
+                <li>Dialååge Dajve jïh gïele jijhtieh. Veeljh <strong>Endre tastaturer...</strong>.
                     <p><img src="images/win7_region_og_sprak_no.png" alt="Region og språk" /></p>
                 </li>
 
-                <li>Dialogen <strong>Teksttjenester og inndataspråk</strong> dukker opp. Velg <strong>Legg til...</strong>.
+                <li>Dialogen <strong>Teksttjenester og inndataspråk</strong> jijhtieh. Veeljh <strong>Legg til...</strong>.
                     <p><img src="images/win7_teksttjenester_og_inndatasprak_no.png" alt="Teksttjenester og inndataspråk"/></p>
                 </li>
 
@@ -31,11 +31,11 @@
                     <p><img src="images/win7_legg_til_inndatasprak_sma_no.png" alt="Legg til inndataspråk"/>. Trykk deretter <strong>OK</strong>.</p>
                 </li>
 
-                <li>Dialogen <strong>Teksttjenester og inndataspråk</strong> viser nå <strong>Sørsamisk (Norge)</strong> i tillegg til norsk.
+                <li>Dialååge <strong>Teksttjenester og inndataspråk</strong> vuesehte<strong>Åarjelsaemien (Nöörje)</strong> lissine daaroengïelese.
                     <p><img src="images/win7_teksttjenester_og_inndatasprak_sma_no.png" alt="Teksttjenester og inndataspråk etter å ha valgt sørsamisk"/>.</p>
                 </li>
 
-                <li>Trykk deretter på <strong>OK</strong>-knappen i alle dialogene.</li>
+                <li>Diedtieh dan mænngan <strong>OK</strong>-knappen i alle dialogene.</li>
             </ol>
         </section>
     </body>
