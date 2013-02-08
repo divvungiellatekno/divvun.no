@@ -4,28 +4,27 @@
 <document xml:lang="sma">
    <header>
       <title>Divvun - saemien staeriedimmiedïrregh</title>
-      <meta name="description">saemien staerieddæjja</meta>
+      <meta name="description">Saemien staeriedæjja</meta>
    </header>
    <body>
       <p>8. februar 2013: <strong>Divvun 2.3</strong> med mange språklige tillegg
       og rettinger for nordsamisk er tilgjengelig. Ingen endringer for lulesamisk
       og sørsamisk.</p>
 
-      <warning>Jis dov lea joe Divvun 1.x-versjovne daatamasjijnesne,  dellie
-      tjoeverh dam masjijneste vaeltedh aarebi goh orre versjovnem dïsse
-      bïejedh.  Daesnie naan bïhkedimmieh gaavnah <a
+      <warning>Jis dov lea joe Divvun 1.x-versjovne daatamaskijnesne, dellie
+      tjoeverh dam maskijneste vaeltedh aarebi goh orre versjovnem dïsse
+      bïejedh.  Daesnie naan bïhkedimmieh <a
       href="userdocs/win/install-msoff-2007.html">Windowsasse</a> jïh <a
       href="userdocs/mac/install-msoff-2008.html">MacOS X:ese</a>. Jis dov lea
-      Divvun 2.x dellie ih daarpesjh dam masjijneste vaeltedh.</warning>
+      Divvun 2.x dellie ih daarpesjh dam maskijneste vaeltedh.</warning>
 
       <note>
       <icon alt="Under omarbetning" height="26" width="31"
       src="images/traffic-warning.png"/>
-      Nettsidene bygges om. Lenker, tekst m.m. kan være inkorrekte. Vi
-      beklager.</note>
+      Orre sæjroeh båetiemisnie. Eah leah svaalhtese, teksth jnv.staaran. 	Gaatesjen.</note>
 
       <section>
-         <title>Veedtjh Divvunem</title>
+         <title>Veedtjh Divvundïrregem</title>
          <table class="invisible">
          <tr><td>
          <ul>
@@ -38,7 +37,7 @@
             alt="Office" height="27" width="27"
             src="images/MSOffice-icon.png"/><icon
             alt="Windows" height="27" width="27"
-            src="images/windows.png"/><br/>Divvun for MS Office — Windows</a>
+            src="images/windows.png"/><br/>Divvun MS Office — Windows:se</a>
            </li>
          </ul></td>
          <td>
@@ -71,7 +70,7 @@
             alt="Windows" height="27" width="27"
             src="images/MSOffice-icon.png"/><icon
             alt="MacOSX" height="27" width="27"
-            src="images/mac.png" /><br/>Divvun for MS Office — MacOS X</a>
+            src="images/mac.png" /><br/>Divvun MS Office:se — MacOS X:se</a>
            </li>
          </ul></td>
          <td>
@@ -107,7 +106,7 @@
             alt="MacOSX" height="32" width="32"
             src="images/mac.png" /><icon
             alt="Linux" height="27" width="27"
-            src="images/Linux_Icon_256.png" /><br/>Divvun for OpenOffice &amp; LibreOffice </a>
+            src="images/Linux_Icon_256.png" /><br/>Divvun OpenOffice:se &amp; LibreOffice:se </a>
            </li>
          </ul></td>
          <td>
@@ -143,7 +142,7 @@
             alt="MacOSX" height="27" width="27"
             src="images/InDesign-icon.png" /><icon
             alt="MacOSX" height="27" width="27"
-            src="images/mac.png" /><br/>Divvun for InDesign CS3 — MacOS X</a>
+            src="images/mac.png" /><br/>Divvun InDesign CS3:ese — MacOS X:ese</a>
            </li>
          </ul></td>
          <td>
@@ -167,8 +166,8 @@
          </table>
          <p><br/></p>
          <ul>
-           <li><a href="downloads.html">Jeatjah-laakan sijjiedehtedh, gamle versjoner</a></li>
-           <li><a href="sysadmininfo.html">Info for system administrators (English only)</a></li>
+           <li><a href="downloads.html">Jeatjhlaakan sijjiedehtedh, båeries versjovnh</a></li>
+           <li><a href="sysadmininfo.html">bievnese systemreerijidie  (English only)</a></li>
          </ul>
       </section>
    </body>
