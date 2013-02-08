@@ -14,8 +14,8 @@
 
       <warning>Jus dujna åvdutjis la Divvun 1.x de hæhttu dav gádodit åvddål gå
       installeri ådå versjåvnåv. Dánna gávna bagádusajt <a
-      href="userdocs/win/install-msoff-2007.html">Windowsij</a> ja <a
-      href="userdocs/mac/install-msoff-2008.html">MacOS X:ij</a>. Jus dunja l
+      href="userdocs/win/remove-msoff-win7-nob.html">Windowsij</a> ja <a
+      href="userdocs/mac/remove-msoff-2008-nob.html">MacOS X:ij</a>. Jus dunja l
       Divvun 2.X versjåvnnå de i dárbaha dav gádodit.</warning>
 
       <note>
@@ -45,9 +45,9 @@
            <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
          </td>
          <td>
-                · <a href="userdocs/win/install-msoff-2007.html">Office 2013-bágadis</a>
+                · <a href="userdocs/win/index-msoff-2013.html">Office 2013-bágadis</a>
                 - <a href="sysadmininfo.html">Diedos vige</a>
-           <br/>· <a href="userdocs/win/install-msoff-2007.html">Office 2010-bágadis</a>
+           <br/>· <a href="userdocs/win/index-msoff-2010.html">Office 2010-bágadis</a>
                 - <a href="sysadmininfo.html">Diedos vige</a>
            <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2007-bágadis</a>
            <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2003-bágadis</a>

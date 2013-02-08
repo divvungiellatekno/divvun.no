@@ -13,8 +13,8 @@
 
       <warning>Jos sinulla on käytössä Divvun 1.x versio, sinun tulee poistaa
       Divvun työkalujen aiemmat versiot. Täältä löydät ohjeet <a
-      href="userdocs/win/install-msoff-2007.html">Windows:lle</a> ja <a
-      href="userdocs/mac/install-msoff-2008.html">MacOS X:lle</a>. Divvun 2.2
+      href="userdocs/win/remove-msoff-win7-nob.html">Windows:lle</a> ja <a
+      href="userdocs/mac/remove-msoff-2008-nob.html">MacOS X:lle</a>. Divvun 2.2
       voidaan asentaa version 2.x tilalle ilman poistamista ensin.</warning>
 
       <note>
@@ -44,9 +44,9 @@
            <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
          </td>
          <td>
-                · <a href="userdocs/win/install-msoff-2007.html">Office 2013 -ohjeet</a>
+                · <a href="userdocs/win/index-msoff-2013.html">Office 2013 -ohjeet</a>
                 - <a href="sysadmininfo.html">Tutut jutut</a>
-           <br/>· <a href="userdocs/win/install-msoff-2007.html">Office 2010 -ohjeet</a>
+           <br/>· <a href="userdocs/win/index-msoff-2010.html">Office 2010 -ohjeet</a>
                 - <a href="sysadmininfo.html">Tutut jutut</a>
            <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2007 -ohjeet </a>
            <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2003 -ohjeet </a>

@@ -12,8 +12,8 @@
 
       <warning>Jus dus ain lea Divvun 1.x iežat mašiinnas, de fertet dan váldit
       eret ovdalgo sajáiduhtát dán veršuvnna. Dás gávnnat bagadusaid <a
-      href="userdocs/win/install-msoff-2007.html">Windowsii</a> ja <a
-      href="userdocs/mac/install-msoff-2008.html">MacOS X:i</a> mo dan bargá.
+      href="userdocs/win/remove-msoff-win7-nob.html">Windowsii</a> ja <a
+      href="userdocs/mac/remove-msoff-2008-nob.html">MacOS X:i</a> mo dan bargá.
       </warning>
 
       <note>
@@ -42,9 +42,9 @@
            <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
          </td>
          <td>
-                · <a href="userdocs/win/install-msoff-2007.html">Office 2013-bagadallan</a>
+                · <a href="userdocs/win/index-msoff-2013.html">Office 2013-bagadallan</a>
                 - <a href="sysadmininfo.html">Vigit maid birra juo diehtit</a>
-           <br/>· <a href="userdocs/win/install-msoff-2007.html">Office 2010-bagadallan</a>
+           <br/>· <a href="userdocs/win/index-msoff-2010.html">Office 2010-bagadallan</a>
                 - <a href="sysadmininfo.html">Vigit maid birra juo diehtit</a>
            <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2007-bagadallan</a>
            <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2003-bagadallan</a>
