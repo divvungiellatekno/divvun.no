@@ -7,10 +7,10 @@
    </header>
    <body>
      <ol>
-       <li><a href="remove-msoff-2008.html">Avinstallere gamle versjoner av Divvun</a></li>
+       <li><a href="remove-msoff-2008-nob.html">Avinstallere gamle versjoner av Divvun</a></li>
        <li>Installere Divvun for Microsoft Office 2011 på:
          <ul>
-           <li><a href="install-msoff-2011.html">MacOSX 10.7 og 10.8</a></li>
+           <li><a href="install-msoff-2011-nob.html">MacOSX 10.7 og 10.8</a></li>
            <li>MacOSX 10.6</li>
            <li>MacOSX 10.5</li>
          </ul>
@@ -22,7 +22,7 @@
            <li>MacOSX 10.5</li>
          </ul>
        </li>
-       <li><a href="use-msoff-2011.html">Bruke Divvun i Microsoft Office 2011</a></li>
+       <li><a href="use-msoff-2011-sme-nob.html">Bruke Divvun i Microsoft Office 2011</a></li>
      </ol>
    </body>
 </document>
