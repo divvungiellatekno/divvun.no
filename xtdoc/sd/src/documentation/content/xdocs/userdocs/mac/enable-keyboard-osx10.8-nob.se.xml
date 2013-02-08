@@ -3,42 +3,38 @@
 "document-v20.dtd">
 <document>
    <header>
-      <title>Slå på samisk tastatur i MacOSX 10.8</title>
+      <title>Bidjat sámi boallobeavddi johtui MacOSX 10.8:s</title>
    </header>
    <body>
       <section>
-         <title>Innstillinger i MacOS X 10.8 for å kunne skrive på samisk</title>
+         <title>Heivet Mac OS X 10.8 nu ahte lea vejolaš čállit sámegiela</title>
 
-         <p>For å kunne skrive på samisk må du bruke et samisk
-         tastaturoppsett.</p>
+         <p>Jus áiggut čállit sámegiela de dárbbašat sámi boallobeavdeheivehusa.</p>
 
-         <p>1. Åpne <strong>Systemvalg…</strong></p>
+         <p>1. Raba <strong>Systemvalg…</strong></p>
 
-         <p><img alt="Åpne &quot;Systemvalg…&quot;"
+         <p><img alt="Raba &quot;Systemvalg…&quot;"
          src="images/enable_sme_keyboard-systempref_menu-osx10.8-nob.png" /></p>
 
-         <p>2. Klikk på <strong>Språk og tekst</strong> eller skriv et
-         nærliggende søkeord i søkefeltet:</p>
+         <p>2. Coahkkal <strong>Språk og tekst</strong>:</p>
 
          <p><img alt="Systemvalg…"
          src="images/enable_sme_keyboard-systemprefs-osx10.8-nob.png" /></p>
 
-         <p>3. Klikk på fliken <strong>Tastaturmeny</strong> og sett et kryss
-         foran <strong>Nordsamisk:</strong></p>
+         <p>3. Coahkkal gilkora <strong>Tastaturmeny</strong> ja merke <strong>Nordsamisk:</strong></p>
 
-         <p><img alt="Legge til samisk tastatur"
+         <p><img alt="Lasihit sámi boallobeavddi"
          src="images/enable_sme_keyboard-select_sme-osx10.8-nob.png" /></p>
 
-         <p>4. Pass på at det står ei hake foran <strong>Vis tastaturmenyen i
-         menylinjen</strong>, kryss av om det mangler:</p>
+         <p>4. Dárkkis ahte <strong>Vis tastaturmenyen i
+         menylinjen</strong> lea merkejuvvon:</p>
 
-         <p><img alt="Legge til samisk tastatur"
+         <p><img alt="Lasihit boallobeavdefálu"
          src="images/enable_sme_keyboard-enable_keyboard_menu-osx10.8-nob.png" /></p>
 
-         <p>5. Velg til slutt det nordsamiske tastaturet i tastaturmenyen til høyre
-         i menyen når du skal skrive samisk:</p>
+         <p>5. Vállje de sámi boallobeavddi fálus olgešbealde go áiggut čállit sámegiela:</p>
 
-         <p><img alt="Velg samisk tastatur for skriving"
+         <p><img alt="Vállje sámi boallobeavddi čállimii"
 
          src="images/enable_sme_keyboard-select_sme_input-osx10.8-nob.png" /></p>
       </section>

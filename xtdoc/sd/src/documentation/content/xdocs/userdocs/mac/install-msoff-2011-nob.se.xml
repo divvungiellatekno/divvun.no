@@ -3,93 +3,80 @@
 "document-v20.dtd">
 <document>
    <header>
-      <title>Installere Divvun for MS Office 2011</title>
+      <title>Sajáiduhttit Divvun-reaidduid MacOS X 10.8:s</title>
    </header>
    <body>
 
       <section>
-         <title>Skaffe Divvun</title>
-         <p><a
-          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Hent
-          nyeste Divvun på nettet</a> eller
-          bestill en CD fra Sametinget, tel: +47 78 48 42 22.</p>
+         <title>Skáhpput Divvuma</title>
+         <p><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Viečča
+         http://www.divvun.no/static_files/sami-proofing-tools.dmg</a> dahje dahje diŋgo CD Sámedikkis, tel: +47 78 48
+         42 22.</p>
       </section>
 
       <section>
-         <title>Installering</title>
+         <title>Sajáiduhttin</title>
 
-         <note>Om du oppgraderer fra versjon 1, må du
-         <a href="remove-msoff-2008.html">avinstallere</a> den gamle
-         versjonen før du installerer versjon 2. Det kan uansett være lurt å
-         avinstallere tidligere versjoner før man installerer den nye.</note>
+         <note>Jus dál geavahat veršuvnna 1, <a href="remove-msoff-2008.html">válddes eret</a> boares veršuvnna ovdalgo sajáiduhtát veršuvnna 2.</note>
 
-         <p>1. Om du har CD-en, putt den inn i datamaskinen, og gå til neste
-         punkt. Om du har lasta ned Divvun fra nettet, kan det hende du må
-         åpne Nedlastings-mappa, og dobbeltklikke på Divvun-filen
+         <p>1. Jus dus lea CD, coggal dan dihtorii ja man boahtte lávkái.
+         Jus leat viežžan Divvun-reaidduid neahtas, de fertet rahpat «Nedlastinger»-máhpa, ja duppalcoahkkalit Divvun-fiilla
          (<em>sami-proofing-tools.dmg</em>):</p>
 
-         <p><img alt="Dobbelklikk på nedlasta dmg-fil"
+         <p><img alt="Doppalcoahkkal vižžon dmg-fiilla"
          src="images/installation-dl_folder-msoff-2011-nob.png" /></p>
 
-         <p>2. Dobbelklikk på
-         den gule eska (installeringspakka) med navnet «<em>Divvun for MS Office
+         <p>2. Duppalcoahkkal fiskes doasa (sajáiduhttinpáhka) man namma lea «<em>Divvun for MS Office
          2011</em>»:</p>
 
-         <p><img alt="Dobbelklikk på installeringspakka"
+         <p><img alt="Duppalcoahkkal"
          src="images/installation-dmg_open-msoff-2011-nob.png" /></p>
 
-         <p>3. I MacOSX 10.8 (Mountain Lion) vil du få en advarsel (men ikke i
-         eldre versjoner - gå direkte til punkt 7):</p>
+         <p>3. Jus váruhus ihtá:</p>
 
-         <p><img alt="Advarsel om ukjent utvikler"
+         <p><img alt="Váruhus amas ovdánahtis"
          src="images/installation-unknown_dev_dialog-msoff-2011-osx10.8-nob.png"
          /></p>
 
-         <p>4. Klikk <strong>OK</strong> og høgreklikk (Kontroll-klikk) på
-         installeringspakka, og velg <strong>Åpne</strong> fra menyen:</p>
+         <p>4. Coahkkal <strong>OK</strong> ja olgešcoahkkal (Control-coahkkal) sajáiduhttinpáhka ja vállje <strong>Raba</strong> fálus:</p>
 
-         <p><img alt="Åpne med meny for å godkjenne"
+         <p><img alt="Dohkket rabadettiin fálu bokte"
          src="images/installation-mtlion_open_dmg-msoff-2011-nob.png" /></p>
 
-         <p>5. Du får et nytt spørsmål om du vil åpne installeringspakka.
-         Klikk <strong>Åpne</strong>:</p>
+         <p>5. Jerro fas jus háliidat rahpat sajáiduhttinpáhka.
+         Coahkkal <strong>Åpne</strong>:</p>
 
-         <p><img alt="Bekreft at du vil åpne installeringspakka"
+         <p><img alt="Nanne ahte háliidat rahpat sajáiduhttinpáhka"
          src="images/installation-mtlion_confirm_open_dmg-msoff-2011-nob.png"
          /></p>
 
-         <p>6. For å få lov til å fortsette må du skrive inn et
-         administratornavn og -passord:</p>
+         <p>6. Dasto gáibiduvvo hálddašeaddji geavaheaddjinama ja beassansáni:</p>
 
-         <p><img alt="Det kreves et administratorpassord"
+         <p><img alt="Hálddašeaddji beassansáni gáibiduvvo"
          src="images/installation-mtlion_confirm_dmgopen_adminpw-nob.png"
          /></p>
 
-         <p>7. Installereren starter, og viser en velkomstside:</p>
+         <p>7. Sajáiduhtti vuolgá johtui ja čájeha álgosiiddu:</p>
 
-         <p><img alt="Velkomstsiden i installereren"
+         <p><img alt="Sajáiduhtti álgosiidu"
          src="images/installation-installer_1_page-msoff-2011-nob.png" /></p>
 
-         <p>8. Klikk på <strong>Fortsett</strong> til installeringsprogrammet er
-         klart til å starte selve installeringen, og klikk deretter på
-         <strong>installer</strong>:</p>
+         <p>8. Coahkkal <strong>Fortsett</strong> dassáigo sajáiduhttinprográmma lea gearggus álggahit sajáiduhttima ja coahkkal <strong>installer</strong>:</p>
 
-         <p><img alt="Start sevle installeringen"
+         <p><img alt="Álggat sajáiduhttima"
          src="images/installation-starting-msoff-2011-nob.png" /></p>
 
-         <p>9. Installasjonen må godkjennes av en administrator:</p>
+         <p>9. Hálddašeaddji ferte dohkkehit sajáiduhttima:</p>
 
-         <p><img alt="Installeringen må godkjennes av en administrator"
+         <p><img alt="Hálddašeaddji ferte dohkkehit sajáiduhttima"
          src="images/installation-adminpw-nob.png" /></p>
 
-         <p>10. Programvaren blir installert, og om alt har gått bra, vil denne
-         avslutningssiden vises:</p>
+         <p>10. Prográmmagálvu sajáiduhtto ja jus visot manná bures, de oidno dát loahpasiidu:</p>
 
-         <p><img alt="Installeringen er ferdig"
+         <p><img alt="Sajáiduhttin gearggai"
          src="images/installation-done-msoff-2011-nob.png" /></p>
 
-         <p>11. Installeringen er nå ferdig og du har Divvun-verktøyene på
-         datamaskinen din.</p>
+         <p>11. Sajáiduhttin lea geargan ja Divvun-reaiddut leat du dihtoris..</p>
 
       </section>
    </body>

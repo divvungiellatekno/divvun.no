@@ -6,11 +6,13 @@
       <title>Sajáiduhttit ja geavahit reaidduid MacOS X:s</title>
    </header>
    <body>
-      <note>When writing Sámi on the Mac, use the languages <strong>Catalan</strong> (=North Sámi),
-      <strong>Basque</strong> (=Lule Sámi) or <strong>Slovak</strong> (=South Sámi). Don't blame us, blame MS for the
-      situation.</note>
+      <note>Go čálát sámegillii <strong>Microsoft Offices Macii</strong>
+      (buot veršuvnnat), de fertet geavahit gielaid <strong>Katalansk</strong>
+      (=davvisámegiella), <strong>Baskisk</strong> (=julevsámegiella) dahje
+      <strong>Slovakisk</strong> (=lullisámegiella). Sivvan dása lea ahte Microsoft ii leat lasihan sámegielaid Microsoft Officii.</note>
+
       <section>
-         <title>Geavahit Divvuma Macas</title>
+         <title>Geavahit Divvun-reaidduid Macas</title>
          <p>Go leat rahpan MS Office, de fertet muitalit Officii makkár gillii teaksta lea. Dan bargá seamma láhkái MS
          Office 2004:s go MS Office 2008:s.</p>
          <p>1. Merke sámi teavstta:</p>
@@ -23,16 +25,13 @@
          <strong>julevsámegillii</strong> , dahje giela <strong>Slovakiska</strong> ( <strong>Slovak</strong> ) jus
          čálát <strong>lullisámegillii</strong> ( <a href="#1">1</a>):</p>
          <p><img alt="Vállje giela" src="images/Mac_08_MSOffice_tools_language_c.png" /></p>
-         <p>4. Jus eanas áiggi čálát sámegiela, de vállje sámegiela standárdan ná: Coahkkal boalu
-         <strong>Default…</strong> (ovddit govas) ja de coahkkal boalu <strong>Yes</strong> :</p>
+         <p>4. Jus eanáš áiggi čálát sámegiela, de vállje sámegiela standárdan ná: Coahkkal boalu
+         <strong>Default…</strong> (ovddit govas) ja de coahkkal boalu <strong>Yes</strong>:</p>
          <p><img alt="Sámegiella standárdan?" src="images/Mac_08_MSOffice_tools_language_d.png" /></p>
-         <p>5. De sáhtát čállit sámegiela ja Divvun-reaiddut veahkehit du čállimiin:</p>
+         <p>5. Divvu-reaiddut merkejit eanáš boastut čállon sániid rukses smarfesázuin</p>
          <p><img alt="Sámi teaksta mas leat čállinmeattáhusat"
          src="images/Mac_09_MSoffice_spelling_example_a.png" /></p>
          <p><img alt="Čállindárkkistanláses" src="images/Mac_09_MSoffice_spelling_example_c.png" /></p>
-         <p>Microsoft ii leat dán rádjái heivehan MS Office Macas nu ahte dat doarju sámegiela, vaikkoge dát gávdno
-         Windowsis. Sávvamis boahttevaš veršuvnnat ožžot dán doarjaga. Dassážii lea bággu defineret sámegiela eará
-         giellan maid MS Office juo doarju.</p>
       </section>
    </body>
 </document>
