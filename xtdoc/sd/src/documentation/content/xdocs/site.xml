@@ -24,10 +24,19 @@
 			<win-msoffice description="Divvun for MS Office on Windows" href="install-msoff-2007.html" label="Divvun for MS Office" />
 		</win>
 		<mac label="MS Office for MacOSX" href="mac/">
-			<mac-msoffice description="Divvun for MS Office on MacOSX" href="install-msoff-2008.html" label="Install Divvun" />
-			<mac-msoffice description="Divvun for MS Office on MacOSX" href="use-msoff-2008.html" label="Using Divvun for MS Office" />
-			<mac-msoffice description="Divvun for MS Office on MacOSX" href="enable-keyboard-osx10.5.html" label="Enabling the Sámi keyboard" />
-			<mac-msoffice description="Divvun for MS Office on MacOSX" href="remove-msoff-2008.html" label="Remove Divvun" />
+		  <off2011 label="MS Office 2011">
+			<msoff11-inst description="Installing and using Divvun with MS Office 2011" href="index-msoff-2011.html" label="Install Divvun" />
+			<msoff11-inst description="Divvun for MS Office on MacOSX" href="install-msoff-2011-nob.html" label="Install Divvun" />
+			<msoff11-use  description="Divvun for MS Office on MacOSX" href="use-msoff-2011-sme-nob.html" label="Using Divvun for MS Office" />
+			<osx108-keyb description="Divvun for MS Office on MacOSX" href="enable-keyboard-osx10.8-nob.html" label="Enabling the Sámi keyboard" />
+		  </off2011>
+		  <off2008 label="MS Office 2008">
+			<msoff08-inst description="Installing and using Divvun with MS Office 2008" href="index-msoff-2008.html" label="Install Divvun" />
+			<msoff08-inst description="Divvun for MS Office on MacOSX" href="install-msoff-2008-swe.html" label="Install Divvun" />
+			<msoff08-use  description="Divvun for MS Office on MacOSX" href="use-msoff-2008-sme-eng.html" label="Using Divvun for MS Office" />
+			<osx105-keyb description="Divvun for MS Office on MacOSX" href="enable-keyboard-osx10.5-swe.html" label="Enabling the Sámi keyboard" />
+		  </off2008>
+		  <mac-msoffice description="Divvun for MS Office on MacOSX" href="remove-msoff-2008-nob.html" label="Remove Divvun" />
 		</mac>
 		<mac label="OpenOffice and LibreOffice" >
 			<openoffice description="Divvun for OpenOffice and LibreOffice" href="mac/install-OOo-3.html" label="Divvun for OpenOffice" />

@@ -78,8 +78,8 @@
          </td>
          <td>
            <br/>· <a href="userdocs/mac/index-msoff-2011.html">Office 2011-vegledning</a>
-           <br/>· <a href="userdocs/mac/install-msoff-2008.html">Office 2008-vegledning</a>
-           <br/>· <a href="userdocs/mac/install-msoff-2008.html">Office 2004-vegledning</a>
+           <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2008-vegledning</a>
+           <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2004-vegledning</a>
          </td>
          <td>
          <br/><a href="userdocs/videos/mac-video.html">
@@ -113,13 +113,13 @@
            <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
          </td>
          <td>
-           <br/>· <a href="userdocs/linux/install-OOo-3.html"><icon
+           <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
             alt="Linux" height="12" width="12"
             src="images/Linux_Icon_256.png" />Linux-vegledning</a>
            <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
             alt="MacOSX" height="12" width="12"
             src="images/mac.png" />MacOSX-vegledning</a>
-           <br/>· <a href="userdocs/win/install-OOo-3.html"><icon
+           <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
             alt="Windows" height="12" width="12"
             src="images/windows.png" />Windows-vegledning</a>
          </td>
