@@ -7,8 +7,9 @@
       <meta name="description">Saami speller, Saami spell checker</meta>
    </header>
    <body>
-      <p>Divvun 2.2 with support for 64-bit Windows is available as of November
-      23, 2011.</p>
+      <p>8. februar 2013: <strong>Divvun 2.3</strong> med mange språklige tillegg
+      og rettinger for nordsamisk er tilgjengelig. Ingen endringer for lulesamisk
+      og sørsamisk.</p>
 
       <warning>If you have a Divvun 1.x version installed, you must uninstall
         the old version before installing the new. Here you can find instructions

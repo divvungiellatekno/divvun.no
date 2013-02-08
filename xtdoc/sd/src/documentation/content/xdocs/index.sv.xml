@@ -7,8 +7,9 @@
       <meta name="description">samisk stavningskontroll</meta>
    </header>
    <body>
-      <p>Divvun 2.2 med stöd för 64-bits Windows är tillgänglig från och med 23.
-      november 2011.</p>
+      <p>8. februar 2013: <strong>Divvun 2.3</strong> med mange språklige tillegg
+      og rettinger for nordsamisk er tilgjengelig. Ingen endringer for lulesamisk
+      og sørsamisk.</p>
 
       <warning>Om du redan har Divvun 1.x installerat på din dator måste du
       avinstallera den gamla versionen innan du installerar den nya. Här hittar
