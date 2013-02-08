@@ -1,6 +1,19 @@
-!!!Installere og bruke Divvun med Microsoft Office 2011
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<document>
+    <header>
+        <title>Installere og bruke Divvun med Microsoft Office 2011</title>
+    </header>
+    <body>
+        <section>
+            <title>Installere og bruke Divvun med Microsoft Office 2011</title>
 
-# [avinstallere gamle versjoner|remove-msoff-2008.html]
-# [installere|install-msoff-2011.html]
-# [slå på samisk tastatur|enable-keyboard-osx10.8.html]
-# [bruke Divvun|use-msoff-2011.html]
+            <ul>
+                <li><a href="remove-msoff-2008.html">avinstallere gamle versjoner</a></li>
+                <li><a href="install-msoff-2011.html">installere</a></li>
+                <li><a href="enable-keyboard-osx10.8.html">slå på samisk tastatur</a></li>
+                <li><a href="use-msoff-2011.html">bruke Divvun</a></li>
+            </ul>
+        </section>
+    </body>
+</document>
