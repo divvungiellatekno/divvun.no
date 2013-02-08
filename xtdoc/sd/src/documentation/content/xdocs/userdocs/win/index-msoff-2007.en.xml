@@ -3,7 +3,7 @@
 "document-v20.dtd">
 <document>
    <header>
-      <title>Install and use Divvun with MS Office 2007</title>
+      <title>Install and use Divvun with MS Office 2003 and 2007</title>
    </header>
    <body>
      <ol>
@@ -23,7 +23,7 @@
            <li><a href="enable-keyboard-xp.html">MS Windows XP</a></li>
          </ul>
        </li>
-       <li><a href="use-msoff-2007.html">Use Divvun in MS Office 2007</a></li>
+       <li><a href="use-msoff-2007.html">Use Divvun in MS Office 2003 and 2007</a></li>
      </ol>
    </body>
 </document>
