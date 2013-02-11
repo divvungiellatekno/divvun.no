@@ -7,9 +7,9 @@
       <meta name="description">saamen kielten korjausohjelmat</meta>
    </header>
    <body>
-      <p>8. februar 2013: <strong>Divvun 2.3</strong> med mange språklige tillegg
-      og rettinger for nordsamisk er tilgjengelig. Ingen endringer for lulesamisk
-      og sørsamisk.</p>
+      <p>8. helmikuuta 2013: <strong>Divvun 2.3</strong> julkaisu, joka sisältää
+      monia pohjoissaamen kielen lisäyksiä ja korjauksia. Ei sisällä muutoksia,
+      jotka koskevat julev- ja eteläsaamea.</p>
 
       <warning>Jos sinulla on käytössä Divvun 1.x versio, sinun tulee poistaa
       Divvun työkalujen aiemmat versiot. Täältä löydät ohjeet <a
@@ -20,8 +20,8 @@
       <note>
       <icon alt="Under omarbetning" height="26" width="31"
       src="images/traffic-warning.png"/>
-      Site is under reconstruction. Links, texts, etc may not be consistent
-      and correct. Apologies for the inconveniences.</note>
+      Sivustoa päivitetään. Jotkin linkin, tekstit, jne. voivat olla virheellisiä.
+      Pahoittelemme asiaa.</note>
 
       <section>
          <title>Lataa Divvun</title>
@@ -45,9 +45,9 @@
          </td>
          <td>
                 · <a href="userdocs/win/index-msoff-2013.html">Office 2013 -ohjeet</a>
-                - <a href="sysadmininfo.html">Tutut jutut</a>
+                - <a href="sysadmininfo.html">Tunnettuja ongelmia</a>
            <br/>· <a href="userdocs/win/index-msoff-2010.html">Office 2010 -ohjeet</a>
-                - <a href="sysadmininfo.html">Tutut jutut</a>
+                - <a href="sysadmininfo.html">Tunnettuja ongelmia</a>
            <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2007 -ohjeet </a>
            <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2003 -ohjeet </a>
          </td>
@@ -152,10 +152,10 @@
          <br/><br/>
          <br/>· <a href="userdocs/mac/install-indesign-CS3.html">ohjeet</a></td>
          <td>
-           <p>There will be no support for InDesign CS4 and CS5,<br/>
-              but InDesign CS 5.5 and newer supports Hunspell<br/>
-              dictionaries, which can be found under <em>«Other<br/>
-              installation options, older versions»</em> below.
+           <p>Emme ole aikeissa lisätä InDesign CS4 ja CS5 tukea,<br/>
+              mutta InDesign CS 5.5 ja uudemmat versiot tukevat<br/>
+              Hunspell sanakirjoja, jotka löytyvät <em>«Muut<br/>
+              latausvaihtoehdot, vanhat versiot»</em> linkistä.
            </p>
          </td>
          </tr>
