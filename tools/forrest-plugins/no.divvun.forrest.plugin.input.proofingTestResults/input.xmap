@@ -30,6 +30,7 @@
         <map:transform src="{lm:divvun.transform.prooftest.{6}}">
           <map:parameter name="testlang" value="{2}" />
           <map:parameter name="testtype" value="{4}" />
+          <map:parameter name="toplimit" value="5" />
         </map:transform>
         <map:serialize type="xml-document"/>
       </map:match>

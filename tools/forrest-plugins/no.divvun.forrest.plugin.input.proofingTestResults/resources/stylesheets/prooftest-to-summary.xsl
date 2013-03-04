@@ -63,6 +63,10 @@
                             ($nrflaggedwords + $nracceptwords)"/>
 
     <!-- Classification of spelling errors according to suggestions: -->
+    <xsl:param name="topone"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 1])"/>
     <xsl:param name="topthree"
      select="count(../results/word[status='SplErr']
                                   [position > 0]
@@ -109,6 +113,22 @@
      select="count(../results/word[status='SplErr']
                                   [expected]
                                   [position > $toplimit]
+                                  [edit_dist > 2])"/>
+
+    <xsl:param name="topOneSimple"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 1]
+                                  [edit_dist = 1])"/>
+    <xsl:param name="topOneEdit2"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 1]
+                                  [edit_dist = 2])"/>
+    <xsl:param name="topOneEdit3"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 1]
                                   [edit_dist > 2])"/>
 
     <xsl:param name="topthreeSimple"
@@ -361,6 +381,15 @@
           </tr>
           <tr>
             <td>Nº of detected spelling errors with <span class="correct">correct
+                suggestion</span> in <em>first</em> position:</td>
+            <td><xsl:value-of select="$topone"/>
+                (<xsl:value-of select="round(($topone div $truepositive) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$topOneSimple"/></td>
+            <td><xsl:value-of select="$topOneEdit2"/></td>
+            <td><xsl:value-of select="$topOneEdit3"/></td>
+          </tr>
+          <tr>
+            <td>Nº of detected spelling errors with <span class="correct">correct
                 suggestion</span> in top <xsl:value-of select="$toplimit"/>:</td>
             <td><xsl:value-of select="$topthree"/>
                 (<xsl:value-of select="round(($topthree div $truepositive) * 10000) div 100"/> %)</td>
@@ -370,7 +399,7 @@
           </tr>
           <tr>
             <td>Nº of detected spelling errors with <span class="correct">correct
-                suggestion</span> <em>below</em> top <xsl:value-of select="$toplimit"/>:</td>
+                suggestion</span> <em>below</em> top <xsl:value-of select="$toplimit"/>:</td>
             <td><xsl:value-of select="$NotTopThree"/>
                 (<xsl:value-of select="round(($NotTopThree div $truepositive) * 10000) div 100"/> %)</td>
             <td><xsl:value-of select="$NotTopThreeSimple"/></td>

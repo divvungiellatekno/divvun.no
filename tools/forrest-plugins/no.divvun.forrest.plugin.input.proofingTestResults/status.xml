@@ -34,8 +34,13 @@
   </contexts>
   <changes>
 <!-- Add new releases here -->
+    <release version="0.2" date="not-released">
+      <action dev="SNM" type="add" context="admin">
+        Added top-one suggestion statistics. Top3 -> Top5.
+      </action>
+    </release>
     <release version="0.1" date="not-released">
-      <action dev="RDG" type="add" context="admin">
+      <action dev="SNM" type="add" context="admin">
         Initial plugin code.
       </action>
     </release>
