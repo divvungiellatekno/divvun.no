@@ -7,15 +7,13 @@
       <meta name="description">Saami speller, Saami spell checker</meta>
    </header>
    <body>
-      <p>February 8, 2013: <strong>Divvun 2.3</strong> with a multitude of
-      linguistic additions and corrections is now available. There are no changes
-      for Julev and South Sámi.</p>
+      <p>June 13th, 2013: <strong>Divvun 3.0.0</strong> with support for
+      Windows 8 and Microsoft Office 2013 are available for download.</p>
 
-      <warning>If you have a Divvun 1.x version installed, you must uninstall
+      <warning>If you have a Divvun 2.x version installed, you must uninstall
         the old version before installing the new. Here you can find instructions
         for <a href="userdocs/win/remove-msoff-win7-nob.html">Windows</a> and
-        <a href="userdocs/mac/remove-msoff-2008-nob.html">MacOS X</a>. Divvun 2.2 can
-        be installed on top of any Divvun 2.x without uninstalling first.</warning>
+        <a href="userdocs/mac/remove-msoff-2008-nob.html">MacOS X</a>.</warning>
 
       <note>
       <icon alt="Under omarbetning" height="26" width="31"
@@ -26,6 +24,34 @@
       <section>
          <title>Download Divvun</title>
          <table class="invisible">
+         <tr>
+         <td>
+         <ul>
+           <li class="Download"><a
+            href="http://divvun.no/static_files/msofficedivvuntools.msi"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="Office" height="27" width="27"
+            src="images/MSOffice-icon.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/windows.png"/><br/>Divvun for MS Office — Windows 7 and 8</a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+                · <a href="userdocs/win/index-msoff-2013.html">Office 2013 instructions</a>
+           <br/>· <a href="userdocs/win/index-msoff-2010.html">Office 2010 instructions</a>
+           <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2007 instructions</a>
+         </td>
+         <td>
+           <br/><a href="userdocs/videos/win-msoffice-video.html">
+           <icon alt="Instructions" height="48" width="48"
+            src="images/Movie-icon.png"/>Instructional videos</a></td>
+         </tr>
          <tr><td>
          <ul>
            <li class="Download"><a
@@ -37,7 +63,7 @@
             alt="Office" height="27" width="27"
             src="images/MSOffice-icon.png"/><icon
             alt="Windows" height="27" width="27"
-            src="images/windows.png"/><br/>Divvun for MS Office — Windows</a>
+            src="images/windows.png"/><br/>Divvun for MS Office — Windows XP</a>
            </li>
          </ul></td>
          <td>

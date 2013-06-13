@@ -7,16 +7,13 @@
     <meta name="description">sáme tjállemdárkastus</meta>
   </header>
   <body>
-      <p>Guovvamáno 8. biejve 2013: <strong>Divvun 2.3</strong>  moadda
-      gielalasj duoddidusáj ja divádusáj nuorttasámegiellaj. 
-      Julevsáme- ja oarjjelssámegiellaj ælla rievddadusá.
-      </p>
+      <p>13. juni 2013: <strong>Divvun 3.0.0</strong> med støtte for
+      Windows 8 og Microsoft Office 2013 er tilgjengelig for nedlasting.</p>
 
-      <warning>Jus dujna åvdutjis la Divvun 1.x de hæhttu dav gádodit åvddål gå
+      <warning>Jus dujna åvdutjis la Divvun 2.x de hæhttu dav gádodit åvddål gå
       installeri ådå versjåvnåv. Dánna gávna bagádusajt <a
       href="userdocs/win/remove-msoff-win7-nob.html">Windowsij</a> ja <a
-      href="userdocs/mac/remove-msoff-2008-nob.html">MacOS X:ij</a>. Jus dunja l
-      Divvun 2.X versjåvnnå de i dárbaha dav gádodit.</warning>
+      href="userdocs/mac/remove-msoff-2008-nob.html">MacOS X:ij</a>.</warning>
 
       <note>
       <icon alt="Under omarbetning" height="26" width="31"
@@ -27,6 +24,34 @@
       <section>
          <title>Divvunav viedtjat</title>
          <table class="invisible">
+         <tr>
+         <td>
+         <ul>
+           <li class="Download"><a
+            href="http://divvun.no/static_files/msofficedivvuntools.msi"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="Office" height="27" width="27"
+            src="images/MSOffice-icon.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/windows.png"/><br/>Divvun for MS Officeij — Windows 7 aj 8</a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+                · <a href="userdocs/win/index-msoff-2013.html">Office 2013-bágadis</a>
+           <br/>· <a href="userdocs/win/index-msoff-2010.html">Office 2010-bágadis</a>
+           <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2007-bágadis</a>
+         </td>
+         <td>
+           <br/><a href="userdocs/videos/win-msoffice-video.html">
+           <icon alt="Instructions" height="48" width="48"
+            src="images/Movie-icon.png"/>Bagádimvideo</a></td>
+         </tr>
          <tr><td>
          <ul>
            <li class="Download"><a
@@ -38,7 +63,7 @@
             alt="Office" height="27" width="27"
             src="images/MSOffice-icon.png"/><icon
             alt="Windows" height="27" width="27"
-            src="images/windows.png"/><br/>Divvun MS Officeij — Windows</a>
+            src="images/windows.png"/><br/>Divvun MS Officeij — Windows XP</a>
            </li>
          </ul></td>
          <td>

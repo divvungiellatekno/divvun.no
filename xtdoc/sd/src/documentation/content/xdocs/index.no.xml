@@ -7,15 +7,13 @@
       <meta name="description">samisk stavekontroll</meta>
    </header>
    <body>
-      <p>8. februar 2013: <strong>Divvun 2.3</strong> med mange språklige tillegg
-      og rettinger for nordsamisk er tilgjengelig. Ingen endringer for lulesamisk
-      og sørsamisk.</p>
+      <p>13. juni 2013: <strong>Divvun 3.0.0</strong> med støtte for
+      Windows 8 og Microsoft Office 2013 er tilgjengelig for nedlasting.</p>
 
-      <warning>Om du allerede har Divvun 1.x installert på maskinen din må du
+      <warning>Om du allerede har Divvun 2.x installert på maskinen din må du
       avinstallere den gamle versjonen før du installerer den nye. Her finner du
       vegledning for <a href="userdocs/win/remove-msoff-win7-nob.html">Windows</a> og
-      <a href="userdocs/mac/remove-msoff-2008-nob.html">MacOSX</a>. Divvun 2.2 kan
-      oppdatere alle Divvun 2.x-versjoner uten at de må avinstalleres først.</warning>
+      <a href="userdocs/mac/remove-msoff-2008-nob.html">MacOSX</a>.</warning>
 
       <note>
       <icon alt="Under omarbetning" height="26" width="31"
@@ -26,7 +24,36 @@
       <section>
          <title>Last ned Divvun</title>
          <table class="invisible">
-         <tr><td>
+         <tr>
+         <td>
+         <ul>
+           <li class="Download"><a
+            href="http://divvun.no/static_files/msofficedivvuntools.msi"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="Office" height="27" width="27"
+            src="images/MSOffice-icon.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/windows.png"/><br/>Divvun for MS Office — Windows 7 og 8</a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+                · <a href="userdocs/win/index-msoff-2013.html">Office 2013-vegledning</a>
+           <br/>· <a href="userdocs/win/index-msoff-2010.html">Office 2010-vegledning</a>
+           <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2007-vegledning</a>
+         </td>
+         <td>
+           <br/><a href="userdocs/videos/win-msoffice-video.html">
+           <icon alt="Instructions" height="48" width="48"
+            src="images/Movie-icon.png"/>Instruksjonsvideoer</a></td>
+         </tr>
+         <tr>
+         <td>
          <ul>
            <li class="Download"><a
             href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon
@@ -37,7 +64,7 @@
             alt="Office" height="27" width="27"
             src="images/MSOffice-icon.png"/><icon
             alt="Windows" height="27" width="27"
-            src="images/windows.png"/><br/>Divvun for MS Office — Windows</a>
+            src="images/windows.png"/><br/>Divvun for MS Office — Windows XP</a>
            </li>
          </ul></td>
          <td>

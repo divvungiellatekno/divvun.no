@@ -7,15 +7,14 @@
       <meta name="description">saamen kielten korjausohjelmat</meta>
    </header>
    <body>
-      <p>8. helmikuuta 2013: <strong>Divvun 2.3</strong> julkaisu, joka sisältää
-      monia pohjoissaamen kielen lisäyksiä ja korjauksia. Ei sisällä muutoksia,
-      jotka koskevat julev- ja eteläsaamea.</p>
+      <p>June, 13th 2013: <strong>Divvun 3.0.0</strong> with support for
+      Windows 8 and Microsoft Office 2013 are available for download.</p>
 
-      <warning>Jos sinulla on käytössä Divvun 1.x versio, sinun tulee poistaa
-      Divvun työkalujen aiemmat versiot. Täältä löydät ohjeet <a
-      href="userdocs/win/remove-msoff-win7-nob.html">Windows:lle</a> ja <a
-      href="userdocs/mac/remove-msoff-2008-nob.html">MacOS X:lle</a>. Divvun 2.2
-      voidaan asentaa version 2.x tilalle ilman poistamista ensin.</warning>
+      <warning>Jos sinulla on käytössä Divvun 2.x versio, sinun tulee poistaa Divvun
+          työkalujen aiemmat versiot. Täältä löydät ohjeet
+          <a href="userdocs/win/remove-msoff-win7-nob.html">Windows:lle</a> ja
+          <a href="userdocs/mac/remove-msoff-2008-nob.html">MacOS X:lle</a>.</warning>
+
 
       <note>
       <icon alt="Under omarbetning" height="26" width="31"
@@ -26,7 +25,35 @@
       <section>
          <title>Lataa Divvun</title>
          <table class="invisible">
-         <tr><td>
+         <tr>
+         <td>
+         <ul>
+           <li class="Download"><a
+            href="http://divvun.no/static_files/msofficedivvuntools.msi"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="Office" height="27" width="27"
+            src="images/MSOffice-icon.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/windows.png"/><br/>Divvun MS Office:lle — Windows 7 ja 8</a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+                · <a href="userdocs/win/index-msoff-2013.html">Office 2013-ohjeet</a>
+           <br/>· <a href="userdocs/win/index-msoff-2010.html">Office 2010-ohjeet</a>
+           <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2007-ohjeet</a>
+         </td>
+         <td>
+           <br/><a href="userdocs/videos/win-msoffice-video.html">
+           <icon alt="Instructions" height="48" width="48"
+            src="images/Movie-icon.png"/>ohjevideot</a></td>
+         </tr>
+                  <tr><td>
          <ul>
            <li class="Download"><a
             href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon
@@ -37,19 +64,19 @@
             alt="Office" height="27" width="27"
             src="images/MSOffice-icon.png"/><icon
             alt="Windows" height="27" width="27"
-            src="images/windows.png"/><br/>Divvun MS Office:lle — Windows</a>
+            src="images/windows.png"/><br/>Divvun MS Office:lle — Windows XP</a>
            </li>
          </ul></td>
          <td>
            <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
          </td>
          <td>
-                · <a href="userdocs/win/index-msoff-2013.html">Office 2013 -ohjeet</a>
+                · <a href="userdocs/win/index-msoff-2013.html">Office 2013-ohjeet</a>
                 - <a href="sysadmininfo.html">Tunnettuja ongelmia</a>
-           <br/>· <a href="userdocs/win/index-msoff-2010.html">Office 2010 -ohjeet</a>
+           <br/>· <a href="userdocs/win/index-msoff-2010.html">Office 2010-ohjeet</a>
                 - <a href="sysadmininfo.html">Tunnettuja ongelmia</a>
-           <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2007 -ohjeet </a>
-           <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2003 -ohjeet </a>
+           <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2007-ohjeet </a>
+           <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2003-ohjeet </a>
          </td>
          <td>
            <br/><a href="userdocs/videos/win-msoffice-video.html">

@@ -7,16 +7,14 @@
       <meta name="description">Saemien staeriedæjja</meta>
    </header>
    <body>
-      <p>Goevten 8.b. 2013: <strong>Divvun 2.3</strong> man leah gellieh
-      lissiehtimmieh jïh staeriedimmieh noerhtesaemiengïelesne. Eah leah julev-
-      jïh åarjelsaemiengïelh jeatjahtahteme.</p>
+      <p>13. juni 2013: <strong>Divvun 3.0.0</strong> med støtte for
+      Windows 8 og Microsoft Office 2013 er tilgjengelig for nedlasting.</p>
 
-      <warning>Jis dov lea joe Divvun 1.x-versjovne daatamaskijnesne, dellie
+      <warning>Jis dov lea joe Divvun 2.x-versjovne daatamaskijnesne, dellie
       tjoeverh dam maskijneste vaeltedh aarebi goh orre versjovnem dïsse
       bïejedh. Daesnie naan bïhkedimmieh <a
       href="userdocs/win/remove-msoff-win7-nob.html">Windowsasse</a> jïh <a
-      href="userdocs/mac/remove-msoff-2008-nob.html">MacOS X:ese</a>. Jis dov lea
-      Divvun 2.x dellie ih daarpesjh dam maskijneste vaeltedh.</warning>
+      href="userdocs/mac/remove-msoff-2008-nob.html">MacOS X:ese</a>.</warning>
 
       <note>
       <icon alt="Under omarbetning" height="26" width="31"
@@ -29,6 +27,33 @@
          <tr><td>
          <ul>
            <li class="Download"><a
+            href="http://divvun.no/static_files/msofficedivvuntools.msi"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="Office" height="27" width="27"
+            src="images/MSOffice-icon.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/windows.png"/><br/>Divvun MS Office — Windows 7:se jïh 8:se</a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+                · <a href="userdocs/win/index-msoff-2013.html">Office 2013-bïhkedimmie</a>
+           <br/>· <a href="userdocs/win/index-msoff-2010.html">Office 2010-bïhkedimmie</a>
+           <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2007-bïhkedimmie</a>
+         </td>
+         <td>
+           <br/><a href="userdocs/videos/win-msoffice-video.html">
+           <icon alt="Instructions" height="48" width="48"
+            src="images/Movie-icon.png"/>Vuesiehtimmmievidejovvh</a></td>
+         </tr>
+         <tr><td>
+         <ul>
+           <li class="Download"><a
             href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon
             alt="Download" height="44" width="44"
             src="images/Crystal_Clear_app_download_manager.png" /><icon
@@ -37,7 +62,7 @@
             alt="Office" height="27" width="27"
             src="images/MSOffice-icon.png"/><icon
             alt="Windows" height="27" width="27"
-            src="images/windows.png"/><br/>Divvun MS Office — Windows:se</a>
+            src="images/windows.png"/><br/>Divvun MS Office — Windows XP:se</a>
            </li>
          </ul></td>
          <td>

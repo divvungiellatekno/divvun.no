@@ -8,9 +8,10 @@
    </header>
 
    <body>
-      <p>Guovvamánu 8. b. 2013: <strong>Divvun 2.3</strong> mas leat ollu davvisámegielalaš lasiheamit ja divvumat lea viežžan ládje. Eai leat rievdadusat julev- ja lullisámegiela várás.</p>
+      <p>Geassemánu 13. b. 2013: <strong>Divvun 3.0.0</strong> mii doarju Windows 8
+      ja Microsoft Office 2013 lea olámuttus.</p>
 
-      <warning>Jus dus ain lea Divvun 1.x iežat mašiinnas, de fertet dan váldit
+      <warning>Jus dus ain lea Divvun 2.x iežat mašiinnas, de fertet dan váldit
       eret ovdalgo sajáiduhtát dán veršuvnna. Dás gávnnat bagadusaid <a
       href="userdocs/win/remove-msoff-win7-nob.html">Windowsii</a> ja <a
       href="userdocs/mac/remove-msoff-2008-nob.html">MacOS X:i</a> mo dan bargá.
@@ -24,7 +25,36 @@
       <section>
          <title>Viečča Divvun-reaidduid</title>
          <table class="invisible">
-         <tr><td>
+         <tr>
+             <td>
+         <ul>
+           <li class="Download"><a
+            href="http://divvun.no/static_files/msofficedivvuntools.msi"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="Office" height="27" width="27"
+            src="images/MSOffice-icon.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/windows.png"/><br/>Divvun MS Office — Windows 7:i ja 8:i</a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+                · <a href="userdocs/win/index-msoff-2013.html">Office 2013-bagadallan</a>
+           <br/>· <a href="userdocs/win/index-msoff-2010.html">Office 2010-bagadallan</a>
+           <br/>· <a href="userdocs/win/index-msoff-2007.html">Office 2007-bagadallan</a>
+         </td>
+         <td>
+           <br/><a href="userdocs/videos/win-msoffice-video.html">
+           <icon alt="Instructions" height="48" width="48"
+            src="images/Movie-icon.png"/>bagadallanvideot</a></td>
+         </tr>
+         <tr>
+             <td>
          <ul>
            <li class="Download"><a
             href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon
@@ -35,7 +65,7 @@
             alt="Office" height="27" width="27"
             src="images/MSOffice-icon.png"/><icon
             alt="Windows" height="27" width="27"
-            src="images/windows.png"/><br/>Divvun MS Office — Windowsii</a>
+            src="images/windows.png"/><br/>Divvun MS Office — Windows XP:i</a>
            </li>
          </ul></td>
          <td>
