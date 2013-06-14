@@ -3,12 +3,13 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
     <header>
-        <title>Divvun 2 - saamen kielen oikolukutyökalut</title>
+        <title>Divvun - saamen kielen oikolukutyökalut</title>
         <meta name="description">saamen kielten korjausohjelmat</meta>
     </header>
     <body>
-        <p>June, 13th 2013: <strong>Divvun 3.0.0</strong> with support for
-        Windows 8 and Microsoft Office 2013 are available for download.</p>
+        <p>Kesäkuun 13 2013: <strong>Divvun 3.0.0</strong> joka tukee Windows 8
+        käyttöjärjestelmää ja Microsoft Office 2013 versiota on
+        ladattavissa.</p>
 
         <warning>Jos sinulla on käytössä Divvun 2.x versio, sinun tulee poistaa Divvun
              työkalujen aiemmat versiot. Täältä löydät ohjeet

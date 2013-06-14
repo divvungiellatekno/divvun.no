@@ -3,12 +3,12 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
    <header>
-      <title>Divvun - saemien staeriedimmiedïrregh</title>
+      <title>Divvun - Saemien staeriedimmiedïrregh</title>
       <meta name="description">Saemien staeriedæjja</meta>
    </header>
    <body>
-      <p>13. juni 2013: <strong>Divvun 3.0.0</strong> med støtte for
-      Windows 8 og Microsoft Office 2013 er tilgjengelig for nedlasting.</p>
+      <p>Ruffien 13:n biejjien 2013: <strong>Divvun 3.0.0</strong>
+      Windows 8:m jïh Microsoft Office 2013:m dåarjele, dejtie maahtah daelie daestie vïedtjelidh.</p>
 
       <warning>Jis dov lea joe Divvun 2.x-versjovne daatamaskijnesne, dellie
       tjoeverh dam maskijneste vaeltedh aarebi goh orre versjovnem dïsse
@@ -22,7 +22,7 @@
       Orre sæjroeh båetiemisnie. Eah leah svaalhtese, teksth jnv.staaran. Gaatesjen.</note>
 
       <section>
-         <title>Veedtjh Divvun-dïrregem</title>
+         <title>Veedtjh Divvundïrregem</title>
          <table class="invisible">
          <tr><td>
          <ul>
