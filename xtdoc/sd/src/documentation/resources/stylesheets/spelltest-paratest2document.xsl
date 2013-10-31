@@ -48,7 +48,16 @@
               <strong>AppleScript driving MS Word</strong>
             </xsl:when>
             <xsl:when test="tool/@type = 'hu'">
-              <strong>Hunspell, command line version</strong>
+              <strong>Hunspell command line tool</strong>
+            </xsl:when>
+            <xsl:when test="tool/@type = 'vk'">
+              <strong>Voikko command line tool</strong>
+            </xsl:when>
+            <xsl:when test="tool/@type = 'fo'">
+              <strong>Foma+Trie/Kukkuniiat, command line version</strong>
+            </xsl:when>
+            <xsl:when test="tool/@type = 'pk'">
+              <strong>Púki, command line tool</strong>
             </xsl:when>
             <xsl:otherwise>Unknown</xsl:otherwise>
           </xsl:choose>
