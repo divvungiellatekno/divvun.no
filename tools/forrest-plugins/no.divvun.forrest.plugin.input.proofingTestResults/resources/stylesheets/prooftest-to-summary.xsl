@@ -63,15 +63,31 @@
                             ($nrflaggedwords + $nracceptwords)"/>
 
     <!-- Classification of spelling errors according to suggestions: -->
-    <xsl:param name="topone"
+    <xsl:param name="topOne"
      select="count(../results/word[status='SplErr']
                                   [position > 0]
                                   [position = 1])"/>
-    <xsl:param name="topthree"
+    <xsl:param name="topTwo"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 2])"/>
+    <xsl:param name="topThree"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 3])"/>
+    <xsl:param name="topFour"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 4])"/>
+    <xsl:param name="topFive"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 5])"/>
+    <xsl:param name="TopGroup"
      select="count(../results/word[status='SplErr']
                                   [position > 0]
                                   [position &lt;= $toplimit])"/>
-    <xsl:param name="NotTopThree"
+    <xsl:param name="NotTopGroup"
      select="count(../results/word[status='SplErr']
                                   [expected]
                                   [position > $toplimit])"/>
@@ -99,17 +115,17 @@
                                   [expected])"/>
 
     <!-- The X product of suggestions and spelling errors above: -->
-    <xsl:param name="NotTopThreeSimple"
+    <xsl:param name="NotTopGroupSimple"
      select="count(../results/word[status='SplErr']
                                   [expected]
                                   [position > $toplimit]
                                   [edit_dist = 1])"/>
-    <xsl:param name="NotTopThreeEdit2"
+    <xsl:param name="NotTopGroupEdit2"
      select="count(../results/word[status='SplErr']
                                   [expected]
                                   [position > $toplimit]
                                   [edit_dist = 2])"/>
-    <xsl:param name="NotTopThreeEdit3"
+    <xsl:param name="NotTopGroupEdit3"
      select="count(../results/word[status='SplErr']
                                   [expected]
                                   [position > $toplimit]
@@ -131,17 +147,81 @@
                                   [position = 1]
                                   [edit_dist > 2])"/>
 
-    <xsl:param name="topthreeSimple"
+    <xsl:param name="topTwoSimple"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 2]
+                                  [edit_dist = 1])"/>
+    <xsl:param name="topTwoEdit2"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 2]
+                                  [edit_dist = 2])"/>
+    <xsl:param name="topTwoEdit3"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 2]
+                                  [edit_dist > 2])"/>
+
+    <xsl:param name="topThreeSimple"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 3]
+                                  [edit_dist = 1])"/>
+    <xsl:param name="topThreeEdit2"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 3]
+                                  [edit_dist = 2])"/>
+    <xsl:param name="topThreeEdit3"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 3]
+                                  [edit_dist > 2])"/>
+
+    <xsl:param name="topFourSimple"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 4]
+                                  [edit_dist = 1])"/>
+    <xsl:param name="topFourEdit2"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 4]
+                                  [edit_dist = 2])"/>
+    <xsl:param name="topFourEdit3"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 4]
+                                  [edit_dist > 2])"/>
+
+    <xsl:param name="topFiveSimple"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 5]
+                                  [edit_dist = 1])"/>
+    <xsl:param name="topFiveEdit2"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 5]
+                                  [edit_dist = 2])"/>
+    <xsl:param name="topFiveEdit3"
+     select="count(../results/word[status='SplErr']
+                                  [position > 0]
+                                  [position = 5]
+                                  [edit_dist > 2])"/>
+
+    <xsl:param name="TopGroupSimple"
      select="count(../results/word[status='SplErr']
                                   [position > 0]
                                   [position &lt;= $toplimit]
                                   [edit_dist = 1])"/>
-    <xsl:param name="topthreeEdit2"
+    <xsl:param name="TopGroupEdit2"
      select="count(../results/word[status='SplErr']
                                   [position > 0]
                                   [position &lt;= $toplimit]
                                   [edit_dist = 2])"/>
-    <xsl:param name="topthreeEdit3"
+    <xsl:param name="TopGroupEdit3"
      select="count(../results/word[status='SplErr']
                                   [position > 0]
                                   [position &lt;= $toplimit]
@@ -382,29 +462,65 @@
           <tr>
             <td>Nº of detected spelling errors with <span class="correct">correct
                 suggestion</span> in <em>first</em> position:</td>
-            <td><xsl:value-of select="$topone"/>
-                (<xsl:value-of select="round(($topone div $truepositive) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$topOne"/>
+        (<xsl:value-of select="round(($topOne div $truepositive) * 10000) div 100"/> %)</td>
             <td><xsl:value-of select="$topOneSimple"/></td>
             <td><xsl:value-of select="$topOneEdit2"/></td>
             <td><xsl:value-of select="$topOneEdit3"/></td>
           </tr>
           <tr>
             <td>Nº of detected spelling errors with <span class="correct">correct
+                suggestion</span> in <em>second</em> position:</td>
+            <td><xsl:value-of select="$topTwo"/>
+        (<xsl:value-of select="round(($topTwo div $truepositive) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$topTwoSimple"/></td>
+            <td><xsl:value-of select="$topTwoEdit2"/></td>
+            <td><xsl:value-of select="$topTwoEdit3"/></td>
+          </tr>
+          <tr>
+            <td>Nº of detected spelling errors with <span class="correct">correct
+                suggestion</span> in <em>third</em> position:</td>
+            <td><xsl:value-of select="$topThree"/>
+        (<xsl:value-of select="round(($topThree div $truepositive) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$topThreeSimple"/></td>
+            <td><xsl:value-of select="$topThreeEdit2"/></td>
+            <td><xsl:value-of select="$topThreeEdit3"/></td>
+          </tr>
+          <tr>
+            <td>Nº of detected spelling errors with <span class="correct">correct
+                suggestion</span> in <em>fourth</em> position:</td>
+            <td><xsl:value-of select="$topFour"/>
+        (<xsl:value-of select="round(($topFour div $truepositive) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$topFourSimple"/></td>
+            <td><xsl:value-of select="$topFourEdit2"/></td>
+            <td><xsl:value-of select="$topFourEdit3"/></td>
+          </tr>
+          <tr>
+            <td>Nº of detected spelling errors with <span class="correct">correct
+                suggestion</span> in <em>fifth</em> position:</td>
+            <td><xsl:value-of select="$topFive"/>
+        (<xsl:value-of select="round(($topFive div $truepositive) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$topFiveSimple"/></td>
+            <td><xsl:value-of select="$topFiveEdit2"/></td>
+            <td><xsl:value-of select="$topFiveEdit3"/></td>
+          </tr>
+          <tr>
+            <td>Nº of detected spelling errors with <span class="correct">correct
                 suggestion</span> in top <xsl:value-of select="$toplimit"/>:</td>
-            <td><xsl:value-of select="$topthree"/>
-                (<xsl:value-of select="round(($topthree div $truepositive) * 10000) div 100"/> %)</td>
-            <td><xsl:value-of select="$topthreeSimple"/></td>
-            <td><xsl:value-of select="$topthreeEdit2"/></td>
-            <td><xsl:value-of select="$topthreeEdit3"/></td>
+            <td><xsl:value-of select="$TopGroup"/>
+                (<xsl:value-of select="round(($TopGroup div $truepositive) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$TopGroupSimple"/></td>
+            <td><xsl:value-of select="$TopGroupEdit2"/></td>
+            <td><xsl:value-of select="$TopGroupEdit3"/></td>
           </tr>
           <tr>
             <td>Nº of detected spelling errors with <span class="correct">correct
                 suggestion</span> <em>below</em> top <xsl:value-of select="$toplimit"/>:</td>
-            <td><xsl:value-of select="$NotTopThree"/>
-                (<xsl:value-of select="round(($NotTopThree div $truepositive) * 10000) div 100"/> %)</td>
-            <td><xsl:value-of select="$NotTopThreeSimple"/></td>
-            <td><xsl:value-of select="$NotTopThreeEdit2"/></td>
-            <td><xsl:value-of select="$NotTopThreeEdit3"/></td>
+            <td><xsl:value-of select="$NotTopGroup"/>
+                (<xsl:value-of select="round(($NotTopGroup div $truepositive) * 10000) div 100"/> %)</td>
+            <td><xsl:value-of select="$NotTopGroupSimple"/></td>
+            <td><xsl:value-of select="$NotTopGroupEdit2"/></td>
+            <td><xsl:value-of select="$NotTopGroupEdit3"/></td>
           </tr>
           <tr>
             <td>Nº of detected spelling errors with only wrong suggestions:</td>
