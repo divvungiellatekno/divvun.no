@@ -1,57 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
-    <header>
-        <title>Installerit ja adnet Divvun-ræjdojt Windows 7:n</title>
-    </header>
-    <body>
-        <section>
-            <title>Viedtjat Divvunav</title>
-            <p><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe">
-                Viettja http://www.divvun.no/static_files/DivvunInstaller.exe</a>
-                jalli diŋgu CD:av Sámedikkes, tel: +47 78 48 42 22.</p>
-        </section>
-
-        <section>
-            <title>Installering av Divvun-verktøyene på Windows 7</title>
-
-             <warning>Jus dujna la 1.X versjåvnnå åvdutjis, de hæhttu gádodit dav
-         versjåvnåv åvddål gå installeri Divvun 2.
-                 </warning>
-            <ol>
-                <li>Tsåggåla CD:av dáhtáj jali dieddela viedtjamliŋkav- installerimprográmma iesj ilmmá. </li>
-
-                <li>Vállji installerimgielav, d.s.j. gielav majt sidá adnet madi installeri prográmmav:
-                    <p>
-                        <img src="images/installerer_velg_sprak-win7-nob.png"
-                        alt="Velg installeringssspråk"/>
-                    </p>
-                </li>
-
-                <li>Dieddela dåhkkidav <strong>License agreement</strong>-vinndegin
-                    <p>
-                        <img src="images/installerer_lisens-win7-nob.png"
-                        alt="Godta lisensen"/>
-                    </p>
-                </li>
-
-                <li>Installeritjit prográmmav, dieddela
-                    <strong>Installer</strong>.
-                    <p>
-                        <img src="images/installerer_installer-win7-nob.png"
-                        alt="klikk på knappen &quot;Installer&quot;"/>
-                    </p>
-                </li>
-
-                <li>Installerim la gárves.
-                    Dieddela <strong>Lukk</strong> dahpatjit
-                    vinndegav:
-                    <p>
-                        <img src="images/installerer_lukk-win7-nob.png"
-                        alt="Fullfør installeringen"/>
-                    </p>
-                </li>
-            </ol>
-        </section>
-    </body>
+	<header>
+		<title>Installing the Divvun tools on Windows 7</title>
+	</header>
+	<body>
+		<section>
+			<title>Downloading and installing the Divvun tools on Windows 7</title>
+			<ol>
+				<li>Go to the <a href="http://divvun.no">Divvun site</a></li>
+				<li>
+					Click on the download link.
+					<p>
+						<img src="images/download-3.smj.png" alt="The download area"/>
+					</p>
+				</li>
+				<li>
+					<dl>
+						<dt>
+							Explorer
+						</dt>
+						<dd>
+							<ul>
+								<li>
+									Click on <strong>Run</strong>
+									<p>
+										<img src="images/explorer-save-en.png" alt="Explorer save dialog"/>
+									</p>
+								</li>
+							</ul>
+						</dd>
+						<dt>
+							Firefox
+						</dt>
+						<dd>
+							<ul>
+								<li>
+									Click on <strong>Save</strong>
+									<p>
+										<img src="images/firefox-win7-save.png" alt="Firefox save dialog"/>
+									</p>
+								</li>
+								<li>
+									Double click on the Divvun installer
+									<p>
+										<img src="images/firefox-double-click.png" alt="The downloaded installer"/>
+									</p>
+								</li>
+							</ul>
+						</dd>
+						<dt>
+							Google Chrome
+						</dt>
+						<dd>
+							<ul>
+								<li>
+									Double click on the Divvun installer
+									<p>
+										<img src="images/google-chrome-save.png" alt="The downloaded installer"/>
+									</p>
+								</li>
+							</ul>
+						</dd>
+					</dl>
+				</li>
+				<li>
+					Click <strong>Yes</strong> when the <em>User Account Control</em> dialog appears.
+				</li>
+				<li>
+					A dialog window appears and disappears. Divvun is now installed.
+				</li>
+				<li>
+					Log out and in again to activate the Divvun tools.
+				</li>
+			</ol>
+		</section>
+	</body>
 </document>

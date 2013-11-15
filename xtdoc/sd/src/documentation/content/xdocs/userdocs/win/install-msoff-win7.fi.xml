@@ -1,59 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
-    <header>
-        <title>Installering og bruk av Divvun-verktøyene på Windows 7</title>
-    </header>
-    <body>
-        <section>
-            <title>Skaffe Divvun</title>
-            <p><a href="http://divvun.no/static_files/MSOfficeDivvunTools.exe">
-                Hent http://www.divvun.no/static_files/DivvunInstaller.exe</a>
-                eller bestill en CD fra Sametinget, tel: +47 78 48 42 22.</p>
-        </section>
-
-        <section>
-            <title>Installering av Divvun-verktøyene på Windows 7</title>
-
-             <warning>Om du oppgraderer fra versjon 1, må du først avinstallere
-                 den gamle versjonen før du installerer Divvun 2 eller nyere.
-                 </warning>
-            <ol>
-                <li>Sett inn CD-en eller klikk på nedlastingslenka –
-                    installeringsprogrammet starter av seg selv. </li>
-
-                <li>Velg installeringsspråk, d.v.s. det språket som skal
-                    brukes under selve installeringen av programmet:
-                    <p>
-                        <img src="images/installerer_velg_sprak-win7-nob.png"
-                        alt="Velg installeringssspråk"/>
-                    </p>
-                </li>
-
-                <li>Trykk godta i <strong>License agreement</strong>-vinduet
-                    <p>
-                        <img src="images/installerer_lisens-win7-nob.png"
-                        alt="Godta lisensen"/>
-                    </p>
-                </li>
-
-                <li>For å installere programmet, klikk på knappen
-                    <strong>Installer</strong>.
-                    <p>
-                        <img src="images/installerer_installer-win7-nob.png"
-                        alt="klikk på knappen &quot;Installer&quot;"/>
-                    </p>
-                </li>
-
-                <li>Installasjonen av programmet er nå ferdig.
-                    Trykk på <strong>Lukk</strong> for å stenge den siste
-                    dialogen:
-                    <p>
-                        <img src="images/installerer_lukk-win7-nob.png"
-                        alt="Fullfør installeringen"/>
-                    </p>
-                </li>
-            </ol>
-        </section>
-    </body>
+	<header>
+		<title>Installing the Divvun tools on Windows 7</title>
+	</header>
+	<body>
+		<section>
+			<title>Installing the Divvun tools on Windows 7</title>
+			<ol>
+				<li>Go to the <a href="http://divvun.no">Divvun site</a></li>
+				<li>
+					Click on the download link.
+					<p>
+						<img src="images/download-3.fi.png" alt="The download area"/>
+					</p>
+				</li>
+				<li>
+					<dl>
+						<dt>
+							Explorer
+						</dt>
+						<dd>
+							<ul>
+								<li>
+									Click on <strong>Run</strong>
+									<p>
+										<img src="images/explorer-save-en.png" alt="Explorer save dialog"/>
+									</p>
+								</li>
+							</ul>
+						</dd>
+						<dt>
+							Firefox
+						</dt>
+						<dd>
+							<ul>
+								<li>
+									Click on <strong>Save</strong>
+									<p>
+										<img src="images/firefox-win7-save.png" alt="Firefox save dialog"/>
+									</p>
+								</li>
+								<li>
+									Double click on the Divvun installer
+									<p>
+										<img src="images/firefox-double-click.png" alt="The downloaded installer"/>
+									</p>
+								</li>
+							</ul>
+						</dd>
+						<dt>
+							Google Chrome
+						</dt>
+						<dd>
+							<ul>
+								<li>
+									Double click on the Divvun installer
+									<p>
+										<img src="images/google-chrome-save.png" alt="The downloaded installer"/>
+									</p>
+								</li>
+							</ul>
+						</dd>
+					</dl>
+				</li>
+				<li>
+					Click <strong>Yes</strong> when the <em>User Account Control</em> dialog appears.
+				</li>
+				<li>
+					A dialog window appears and disappears. Divvun is now installed.
+				</li>
+				<li>
+					Log out and in again to activate the Divvun tools.
+				</li>
+			</ol>
+		</section>
+	</body>
 </document>
