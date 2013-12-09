@@ -168,7 +168,7 @@
             alt="MacOSX" height="27" width="27"
             src="images/InDesign-icon.png" /><icon
             alt="MacOSX" height="27" width="27"
-            src="images/mac.png" /><br/>Divvun for InDesign CS3 — MacOS X</a>
+            src="images/mac.png" /><br/>Divvun for InDesign CS3, CS5.5 — MacOS X</a>
            </li>
          </ul></td>
          <td>
@@ -181,10 +181,6 @@
                - <a href="userdocs/mac/KnownIssuesForIndesignCS3.html">Known issues</a>
          </td>
          <td>
-           <p>There will be no support for InDesign CS4 and CS5,<br/>
-              but InDesign CS 5.5 and newer supports Hunspell<br/>
-              dictionaries, which can be found under <em>«Other<br/>
-              installation options, older versions»</em> below.</p>
          </td>
          </tr>
          <tr>

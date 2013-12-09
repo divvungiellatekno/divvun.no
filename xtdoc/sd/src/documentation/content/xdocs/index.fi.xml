@@ -202,7 +202,7 @@
                             alt="MacOSX" height="27" width="27"
                             src="images/InDesign-icon.png" /><icon
                             alt="MacOSX" height="27" width="27"
-                            src="images/mac.png" /><br/>Divvun InDesign CS3:lle — MacOS X</a>
+                            src="images/mac.png" /><br/>Divvun InDesign CS3:lle, CS5.5:lle — MacOS X</a>
                           </li>
                         </ul>
                     </td>
@@ -216,11 +216,6 @@
                         · <a href="userdocs/mac/install-indesign-CS3.html">ohjeet</a>
                     </td>
                     <td>
-                        <p>Emme ole aikeissa lisätä InDesign CS4 ja CS5 tukea,
-                            mutta InDesign CS 5.5 ja uudemmat versiot tukevat
-                            Hunspell sanakirjoja, jotka löytyvät <em>«Muut latausvaihtoehdot,
-                            vanhat versiot»</em> linkistä.
-                        </p>
                     </td>
                 </tr>
                 <tr>

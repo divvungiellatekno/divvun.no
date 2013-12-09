@@ -169,7 +169,7 @@
             alt="MacOSX" height="27" width="27"
             src="images/InDesign-icon.png" /><icon
             alt="MacOSX" height="27" width="27"
-            src="images/mac.png" /><br/>Divvun for InDesign CS3 — MacOS X</a>
+            src="images/mac.png" /><br/>Divvun for InDesign CS3, CS5.5 — MacOS X</a>
            </li>
          </ul></td>
          <td>
@@ -179,11 +179,6 @@
          <br/><br/>
          <br/>· <a href="userdocs/mac/install-indesign-CS3.html">Vegledning</a></td>
          <td>
-           <p>Divvun støtter ikke InDesign CS4 og CS5,<br/>
-           men InDesign CS5.5 og nyere har støtte for<br/>
-           Hunspell-ordlister, som kan lastes ned ved<br/>
-           å klikke på lenka <em>«Andre installeringsalternativ,<br/>
-           gamle versjoner»</em> nedenfor.</p>
          </td>
          </tr>
          <tr>
