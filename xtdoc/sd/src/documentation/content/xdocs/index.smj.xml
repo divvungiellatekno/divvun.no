@@ -14,12 +14,21 @@
       href="userdocs/win/remove-msoff-win7-nob.html">Windowsij</a> ja <a
       href="userdocs/mac/remove-msoff-2008-nob.html">MacOS X:ij</a>.</warning>
 
-<!--      <note>
-      <icon alt="Under omarbetning" height="26" width="31"
-      src="images/traffic-warning.png"/>
-      Lip ådåstuhttemin næhttabielev, danen de li soajttá imálasj tevsta ja
-      liŋka ma e dåjma. Vájvahip dáv.</note>
--->
+      <note>
+        <icon alt="Siste nytt" height="48" width="48"
+        src="images/news-icon.png"/><strong>6.2.2014:</strong>
+        Nettordboka <a href="http://bahko.org/">báhko.org</a> <a
+        href="http://www.sametinget.no/Spraak/Fakta-om-samiske-spraak/Ny-digital-ordbok-lanseres">ble
+        lansert.</a> Ordboka er et samarbeid mellom Divvun og <a
+        href="http://www.sametinget.no/">Sametinget</a>, og inneholder alle
+        samiske ordbøker og terminologisamlinger tilgjengelige
+        for Divvun og <a
+        href="http://giellatekno.uit.no/">Giellatekno</a>,
+        inklusive terminologi fra <a
+        href="http://samigiellagaldu.org">Giellagáldus</a> og Divvuns <a
+        href="http://gtsvn.uit.no/termwiki">termwiki</a>.
+      </note>
+
       <section>
          <title>Divvunav viedtjat</title>
          <table class="invisible">

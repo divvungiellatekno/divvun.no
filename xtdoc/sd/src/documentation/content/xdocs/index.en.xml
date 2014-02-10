@@ -15,12 +15,20 @@
         for <a href="userdocs/win/remove-msoff-win7-nob.html">Windows</a> and
         <a href="userdocs/mac/remove-msoff-2008-nob.html">MacOS X</a>.</warning>
 
-<!--      <note>
-      <icon alt="Under omarbetning" height="26" width="31"
-      src="images/traffic-warning.png"/>
-      Site is under reconstruction. Links, texts, etc may not be consistent
-      and correct. Apologies for the inconveniences.</note>
--->
+      <note>
+        <icon alt="Latest news" height="48" width="48"
+        src="images/news-icon.png"/><strong>6.2.2014:</strong>
+        The dictionary webapp <a href="http://satni.org/">sátni.org</a> <a
+        href="http://www.sametinget.no/Spraak/Fakta-om-samiske-spraak/Ny-digital-ordbok-lanseres">was
+        released.</a> The webapp is a cooperation between Divvun and <a
+        href="http://www.sametinget.no/">the Sámi Parliament</a>, and contains
+        all Sámi dictionaries and terminology collections available to Divvun and
+        <a href="http://giellatekno.uit.no/">Giellatekno</a>,
+        including terminology from <a
+        href="http://samigiellagaldu.org">Giellagáldu's</a> and Divvun's <a
+        href="http://gtsvn.uit.no/termwiki">termwiki</a>.
+      </note>
+
       <section>
          <title>Download Divvun</title>
          <table class="invisible">

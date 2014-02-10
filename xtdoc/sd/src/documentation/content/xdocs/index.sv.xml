@@ -16,12 +16,21 @@
       href="userdocs/win/remove-msoff-win7-nob.html">Windows</a> och <a
       href="userdocs/mac/remove-msoff-2008-nob.html">MacOS X</a>.</warning>
 
-<!--      <note>
-      <icon alt="Under omarbetning" height="26" width="31"
-      src="images/traffic-warning.png"/>
-      Nätsidorna byggs om. Länkar, text m.m. kan vara felaktiga. Vi
-      beklagar.</note>
--->
+      <note>
+        <icon alt="Siste nytt" height="48" width="48"
+        src="images/news-icon.png"/><strong>6.2.2014:</strong>
+        Nätordboken <a href="http://satni.org/">sátni.org</a> <a
+        href="http://www.sametinget.no/Spraak/Fakta-om-samiske-spraak/Ny-digital-ordbok-lanseres">lanserades.</a>
+        Ordboken är ett samarbete mellan Divvun och <a
+        href="http://www.sametinget.no/">Sametinget.no</a>, och innehåller alla
+        samiska ordböcker och terminologier tilgängliga
+        för Divvun och <a
+        href="http://giellatekno.uit.no/">Giellatekno</a>,
+        inklusive terminologi från <a
+        href="http://samigiellagaldu.org">Giellagáldus</a> och Divvuns <a
+        href="http://gtsvn.uit.no/termwiki">termwiki</a>.
+      </note>
+
       <section>
          <title>Ladda hem Divvun</title>
          <table class="invisible">
