@@ -19,6 +19,7 @@
 
   <about label="Davvisámegiella" tab="Ruoktu">
     <index description="Bures boahttin divvun.no prošektii" href="index.html" label="Álgosiidu"/>
+    <oxts description="Beta releases of speller extensions for LibreOffice" href="libreofficeoxt.html" label="LibreOffice extensions"/>
 	<divvun label="Dokumentašuvdna" href="userdocs/">
 		<win label="MS Office for Windows" href="win/">
 			<win-msoffice description="Divvun for MS Office on Windows" href="install-msoff-2007.html" label="Divvun for MS Office" />

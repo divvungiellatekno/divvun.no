@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+   <header>
+      <title>Beta Proofing Tools for LibreOffice</title>
+      <meta name="description">Saami speller, Saami spell checker</meta>
+   </header>
+   <body>
+      <p>Below a number of spellchecker extensions for LibreOffice can be
+      downloaded. Please note that these extensions are at most beta releases
+      for the time being.</p>
+
+      <p>The extensions are built using HFST and Voikko, and specifically the
+      LibreOffice-voikko extension.</p>
+
+      <note>In honour of the contributions by Tommi Pirinen to make these
+      LibreOffice spell checkers come through, this download page is made
+      public on the day of Tommi's public defense for his <a
+      href="https://helda.helsinki.fi/handle/10138/42526">PhD on using
+      Weighted Finite State technologies in spell checkers</a>.</note>
+
+      <section>
+         <title>Download Divvun LibreOffice Spell Checkers for Multiple Languages</title>
+         <table ><!-- class="invisible" -->
+         <tr>
+           <th rowspan="2">Language</th>
+           <th colspan="2">Windows</th>
+           <th colspan="2">Mac</th>
+           <th rowspan="2">Documentation</th>
+         </tr>
+         <tr>
+           <th>LibreOffice 3.6-4.0</th>
+           <th>LibreOffice 4.1+</th>
+           <th>LibreOffice 3.6-4.0</th>
+           <th>LibreOffice 4.1+</th>
+         </tr>
+         <tr>
+           <td>Finnish</td>
+           <td><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-3.6-32b-win.oxt">Oxt for LO 3.6-4.0</a></td>
+           <td>-</td>
+           <td>-</td>
+           <td><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-4.1-32b-mac.oxt">Oxt for LO 4.1+</a></td>
+           <td>README etc coming soon.</td>
+         </tr>
+         <tr>
+           <td>Greenlandic</td>
+           <td><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-3.6-32b-win.oxt">Oxt for LO 3.6-4.0</a></td>
+           <td>-</td>
+           <td>-</td>
+           <td><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-4.1-32b-mac.oxt">Oxt for LO 4.1+</a></td>
+           <td>README etc coming soon.</td>
+         </tr>
+         <tr>
+           <td>North Sámi</td>
+           <td><a href="http://divvun.no/static_files/oxts/se_LO-voikko-3.6-32b-win.oxt">Oxt for LO 3.6-4.0</a></td>
+           <td>-</td>
+           <td>-</td>
+           <td><a href="http://divvun.no/static_files/oxts/se_LO-voikko-4.1-32b-mac.oxt">Oxt for LO 4.1+</a></td>
+           <td>README etc coming soon.</td>
+         </tr>
+         </table>
+      </section>
+   </body>
+</document>
