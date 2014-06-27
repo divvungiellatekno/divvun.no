@@ -75,6 +75,11 @@
 			<program href="CG-kurs.html" label="Program"/>
 		</cg-11>
 	</seminars>
+	<workshops href="workshops/" label="Workshops">
+		<NorWEST2014 href="NorWEST2014/"     label="NorWEST2014">
+			<program href="NorWEST2014.html" label="NorWEST2014 CFP"/>
+		</NorWEST2014>
+	</workshops>
   </about>
 
 
