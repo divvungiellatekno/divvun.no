@@ -65,7 +65,7 @@
           <tr>
             <td>Namn</td>
 
-            <td>[ein passande person her]</td>
+            <td>&nbsp;</td>
           </tr>
 
           <tr>
@@ -77,7 +77,7 @@
           <tr>
             <td>E-post</td>
 
-            <td>[person]@samediggi.no</td>
+            <td>&nbsp;</td>
           </tr>
 
           <tr>
@@ -269,10 +269,5 @@
       </table>
     </section>
 
-    <section>
-      <title>Vedlegg</title>
-
-      <p>Tekstane denne avtalen gjeld</p>
-    </section>
   </body>
 </document>
