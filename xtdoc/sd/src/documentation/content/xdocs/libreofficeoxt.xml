@@ -97,7 +97,7 @@
            <td rowspan="2"> </td>
            <th colspan="2">Mac</th>
            <td rowspan="2"> </td>
-           <th rowspan="2">Documentation</th>
+           <th rowspan="2">Documentation <br/> and source code</th>
          </tr>
          <tr>
            <th>LO-voikko 3.4.1</th>
