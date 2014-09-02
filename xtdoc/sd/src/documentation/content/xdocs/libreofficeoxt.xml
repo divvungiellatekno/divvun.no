@@ -7,37 +7,85 @@
       <meta name="description">Saami speller, Saami spell checker</meta>
    </header>
    <body>
-      <p>Below a number of spellchecker extensions for LibreOffice can be
-      downloaded. Please note that these extensions are at most beta releases
+      <p>Below you can download a number of spellchecker extensions for
+      LibreOffice. Please note that these extensions are beta releases
       for the time being.</p>
 
-      <p>The extensions are built using HFST and Voikko, and specifically the
-      LibreOffice-voikko extension. The spellers here are a direct application
-      of the normative fst used as a spelling checker (in combination with an
-      error model to create suggestions). They thus avoid the problematic
-      conversion to Hunspell or other list-based formats.</p>
+      <p>The extensions are built using <a
+      href="http://hfst.sourceforge.net">HFST</a> — specifically
+      <code>hfst-ospell</code> (<a
+      href="https://sourceforge.net/projects/hfst/files/hfst/">source code</a>)
+      — and <a href="http://voikko.puimula.org">Voikko</a>,
+      and specifically the
+      <strong>LibreOffice-voikko</strong> extension (below shortened to
+      <em>LO-voikko</em>) (<a
+      href="http://voikko.puimula.org/sources.html">source code</a>). The
+      spellers here are a direct
+      application of the normative fst used as a spelling checker (in
+      combination with an error model to create suggestions).</p>
 
       <p>This is work in progress, and there are several open issues still to be
-      worked out. Although the available spellers and oxt's should work fine for
-      the specified LibreOffice versions, please bear with us and report any
-      issues you find to
+      worked out. Although the available spellers and extensions should work
+      fine for the specified LibreOffice versions, please bear with us and
+      report any issues you find to
       <a href="mailto:feedback@divvun.no">feedback@divvun.no</a></p>
 
       <note>In honour of the contributions by Tommi Pirinen to make these
-      LibreOffice spell checkers come through, this download page is made
+      LibreOffice spell checkers come through, this download page was made
       public on the day of Tommi's public defense for his <a
       href="https://helda.helsinki.fi/handle/10138/42526">PhD on using
-      Weighted Finite State technologies in spell checkers</a>.</note>
+      Weighted Finite State technologies in spell checkers</a>, February 28,
+      2014.</note>
+
+      <section>
+         <title>LibreOffice and LO-Voikko versions and compatibility</title>
+         <table >
+         <tr>
+           <td/>
+           <th>LO-Voikko 3.4.1<br/>Fewer languages, more backwards
+           compatible<br/>
+           (<a
+           href="https://github.com/voikko/libreoffice-voikko/blob/b0cb0ac0809fef83cd97b5f43fc499d6e6e147a2/src/VoikkoHandlePool.cxx">list
+           of languages supported by LO-voikko 3.4.1</a>)</th>
+           <th>LO-Voikko 4.0<br/>
+           More languages, less backwards compatible<br/>
+           (<a
+           href="https://github.com/voikko/libreoffice-voikko/blob/cd21a2624647348e00fe88aebce21859aad9557f/src/VoikkoHandlePool.cxx">list
+           of languages supported by LO-voikko 4.0</a>)</th>
+         </tr>
+         <tr>
+           <th>LibreOffice 3.4+/OpenOffice.org 3.4+</th>
+           <td>ok</td>
+           <td>N/A</td>
+         </tr>
+         <tr>
+           <th>LibreOffice 4.1+</th>
+           <td>ok</td>
+           <td>ok</td>
+         </tr>
+         </table >
+      </section>
+
+      <p>For reference, here's the <a
+      href="http://cgit.freedesktop.org/libreoffice/core/tree/i18nlangtag/source/isolang/isolang.cxx">list
+      of languages presently supported by LibreOffice</a>
+      (under function <code>IsoLanguageCountryEntry</code>). Browse the
+      parallel files in the tagged releases to get the language coverage of
+      earlier LibreOffice releases. And here's the <a
+      href="https://github.com/voikko/libreoffice-voikko/blob/master/src/VoikkoHandlePool.cxx">list
+      of languages presently supported by LO-voikko</a>.</p>
 
       <note><strong>Universal binaries and LibreOffice on the Mac:</strong> All
-      versions prior to LibreOffice 4.2 were 32-bit only. To support users with
-      older systems (and also OpenOffice users), we provide a 32-bit only
-      version of the speller extension for some languages. But many of the
-      languages we work with have only recently been added to LibreOffice, and
-      they require the newest version of the speller extensions. This version,
-      labelled 4.1+ in the table below because it requires at least LibreOffice
-      4.1, will soon be a universal binary, and can be installed with all recent
-      versions of LibreOffice.</note>
+      versions prior to LibreOffice 4.2 were 32-bit only. But as of  LibreOffice
+      4.2, it is available both as a 64 bit and a 32 bit version, defaulting to
+      whatever your system is capable of. Please note that there are still
+      problems with the 64 bit part of the universal binary LO-voikko 4.0.
+      if you have problems getting the speller to work with the 64-bit
+      LibreOffice, try to <a
+      href="http://www.libreoffice.org/download/libreoffice-fresh/#change">install
+      the 32 bit version of LibreOffice</a> instead (it is labelled "Mac OS X
+      (Intel)"). Also note that the 64 bit version of LibreOffice requires
+      MacOSX 10.8 or newer.</note>
 
       <section>
          <title>Download Divvun LibreOffice Spell Checkers for Multiple Languages</title>
@@ -52,38 +100,38 @@
            <th rowspan="2">Documentation</th>
          </tr>
          <tr>
-           <th>LO 3.6+</th>
-           <th>LO 4.1+</th>
-           <th>LO 3.6+, 32bit ONLY</th>
-           <th>LO 4.1+, 32bit ONLY (universal binary coming)</th>
+           <th>LO-voikko 3.4.1</th>
+           <th>LO-voikko 4.0</th>
+           <th>LO-voikko 3.4.1</th>
+           <th>LO-voikko 4.0</th>
          </tr>
          <tr>
            <td colspan="2">Finnish</td>
-           <td><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-3.6-32b-win.oxt">Oxt for LO 3.6-4.0</a></td>
-           <td>-</td>
+           <td><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-3.6-32b-win.oxt">Oxt for LO 3.4+</a></td>
+           <td>Not yet available</td>
            <td/>
-           <td><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-3.6-32b-mac.oxt">Oxt for LO 3.6-4.0</a></td>
-           <td><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-4.1-32b-mac.oxt">Oxt for LO 4.1</a></td>
+           <td><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-3.6-32b-mac.oxt">Oxt for LO 3.4+</a></td>
+           <td><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-4.1-32b-mac.oxt">Oxt for LO 4.1+</a></td>
            <td/>
            <td>README etc coming soon.</td>
          </tr>
          <tr>
            <td colspan="2">Greenlandic</td>
-           <td><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-3.6-32b-win.oxt">Oxt for LO 3.6-4.0</a></td>
-           <td>-</td>
+           <td><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-3.6-32b-win.oxt">Oxt for LO 3.4+</a></td>
+           <td>Not yet available</td>
            <td/>
-           <td><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-3.6-32b-mac.oxt">Oxt for LO 3.6-4.0</a></td>
-           <td><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-4.1-32b-mac.oxt">Oxt for LO 4.1</a></td>
+           <td><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-3.6-32b-mac.oxt">Oxt for LO 3.4+</a></td>
+           <td><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-4.1-32b-mac.oxt">Oxt for LO 4.1+</a></td>
            <td/>
            <td>README etc coming soon.</td>
          </tr>
          <tr>
            <td colspan="2">North Sámi</td>
-           <td><a href="http://divvun.no/static_files/oxts/se_LO-voikko-3.6-32b-win.oxt">Oxt for LO 3.6-4.0</a></td>
-           <td>-</td>
+           <td><a href="http://divvun.no/static_files/oxts/se_LO-voikko-3.6-32b-win.oxt">Oxt for LO 3.4+</a></td>
+           <td>Not yet available</td>
            <td/>
-           <td><a href="http://divvun.no/static_files/oxts/se_LO-voikko-3.6-32b-mac.oxt">Oxt for LO 3.6-4.0</a></td>
-           <td><a href="http://divvun.no/static_files/oxts/se_LO-voikko-4.1-32b-mac.oxt">Oxt for LO 4.1</a></td>
+           <td><a href="http://divvun.no/static_files/oxts/se_LO-voikko-3.6-32b-mac.oxt">Oxt for LO 3.4+</a></td>
+           <td><a href="http://divvun.no/static_files/oxts/se_LO-voikko-4.1-32b-mac.oxt">Oxt for LO 4.1+</a></td>
            <td/>
            <td>README etc coming soon.</td>
          </tr>
