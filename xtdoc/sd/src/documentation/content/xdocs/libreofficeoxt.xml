@@ -70,7 +70,9 @@
       href="http://cgit.freedesktop.org/libreoffice/core/tree/i18nlangtag/source/isolang/isolang.cxx">list
       of languages presently supported by LibreOffice</a>
       (under function <code>IsoLanguageCountryEntry</code>). Browse the
-      parallel files in the tagged releases to get the language coverage of
+      parallel files in <a
+      href="http://cgit.freedesktop.org/libreoffice/core/refs/tags">the tagged
+      releases</a> to get the language coverage of
       earlier LibreOffice releases. And here's the <a
       href="https://github.com/voikko/libreoffice-voikko/blob/master/src/VoikkoHandlePool.cxx">list
       of languages presently supported by LO-voikko</a>.</p>
