@@ -77,17 +77,13 @@
       href="https://github.com/voikko/libreoffice-voikko/blob/master/src/VoikkoHandlePool.cxx">list
       of languages presently supported by LO-voikko</a>.</p>
 
-      <note><strong>Universal binaries and LibreOffice on the Mac:</strong> All
-      versions prior to LibreOffice 4.2 were 32-bit only. But as of  LibreOffice
-      4.2, it is available both as a 64 bit and a 32 bit version, defaulting to
-      whatever your system is capable of. Please note that there are still
-      problems with the 64 bit part of the universal binary LO-voikko 4.0.
-      if you have problems getting the speller to work with the 64-bit
-      LibreOffice, try to <a
-      href="http://www.libreoffice.org/download/libreoffice-fresh/#change">install
-      the 32 bit version of LibreOffice</a> instead (it is labelled "Mac OS X
-      (Intel)"). Also note that the 64 bit version of LibreOffice requires
-      MacOSX 10.8 or newer.</note>
+      <note><strong>Universal binaries and LibreOffice on the Mac:</strong> As
+      of  LibreOffice 4.2, it is available both as a 64 bit and a 32 bit
+      version, defaulting to the 64-bit version in most cases. Please note that
+      the 64-bit version of <strong>LibreOffice needs to be restarted</strong>
+      after you have installed the LO-voikko extension before it is activated.
+      Also note that the 64 bit version of LibreOffice requires MacOSX 10.8 or
+      newer.</note>
 
       <section>
          <title>Download Divvun LibreOffice Spell Checkers for Multiple Languages</title>
