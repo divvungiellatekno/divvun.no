@@ -38,55 +38,12 @@
       2014.</note>
 
       <section>
-         <title>LibreOffice and LO-Voikko versions and compatibility</title>
-         <table >
-         <tr>
-           <td/>
-           <th>LO-Voikko 3.4.1<br/>Fewer languages, more backwards
-           compatible<br/>
-           (<a
-           href="https://github.com/voikko/libreoffice-voikko/blob/b0cb0ac0809fef83cd97b5f43fc499d6e6e147a2/src/VoikkoHandlePool.cxx">list
-           of languages supported by LO-voikko 3.4.1</a>)</th>
-           <th>LO-Voikko 4.0<br/>
-           More languages, less backwards compatible<br/>
-           (<a
-           href="https://github.com/voikko/libreoffice-voikko/blob/cd21a2624647348e00fe88aebce21859aad9557f/src/VoikkoHandlePool.cxx">list
-           of languages supported by LO-voikko 4.0</a>)</th>
-         </tr>
-         <tr>
-           <th>LibreOffice 3.4+/OpenOffice.org 3.4+</th>
-           <td>ok</td>
-           <td>N/A</td>
-         </tr>
-         <tr>
-           <th>LibreOffice 4.1+</th>
-           <td>ok</td>
-           <td>ok</td>
-         </tr>
-         </table >
-      </section>
-
-      <p>For reference, here's the <a
-      href="http://cgit.freedesktop.org/libreoffice/core/tree/i18nlangtag/source/isolang/isolang.cxx">list
-      of languages presently supported by LibreOffice</a>
-      (under function <code>IsoLanguageCountryEntry</code>). Browse the
-      parallel files in <a
-      href="http://cgit.freedesktop.org/libreoffice/core/refs/tags">the tagged
-      releases</a> to get the language coverage of
-      earlier LibreOffice releases. And here's the <a
-      href="https://github.com/voikko/libreoffice-voikko/blob/master/src/VoikkoHandlePool.cxx">list
-      of languages presently supported by LO-voikko</a>.</p>
-
-      <note><strong>Universal binaries and LibreOffice on the Mac:</strong> As
-      of  LibreOffice 4.2, it is available both as a 64 bit and a 32 bit
-      version, defaulting to the 64-bit version in most cases. Please note that
-      the 64-bit version of <strong>LibreOffice needs to be restarted</strong>
-      after you have installed the LO-voikko extension before it is activated.
-      Also note that the 64 bit version of LibreOffice requires MacOSX 10.8 or
-      newer.</note>
-
-      <section>
          <title>Download Divvun LibreOffice Spell Checkers for Multiple Languages</title>
+
+         <p>See the next section for a table of which LibreOffice-Voikko version
+         to choose for which version of LibreOffice. Also, please see the note
+         about <strong>LibreOffice 4.2+ and 64-bit Macs.</strong></p>
+
          <table ><!-- class="invisible" -->
          <tr>
            <th rowspan="2">Language</th>
@@ -134,6 +91,98 @@
            <td><a href="userdocs/win/install-use-Voikko-LO4-win8.html">Installation and use</a> More info coming soon.</td>
          </tr>
          </table>
+      </section>
+
+      <section>
+         <title>LibreOffice and LO-Voikko versions and compatibility</title>
+         <table >
+         <tr>
+           <td/>
+           <th>LO-Voikko 3.4.1<br/>Fewer languages, more backwards
+           compatible<br/>
+           (<a
+           href="https://github.com/voikko/libreoffice-voikko/blob/b0cb0ac0809fef83cd97b5f43fc499d6e6e147a2/src/VoikkoHandlePool.cxx">list
+           of languages supported by LO-voikko 3.4.1</a>)</th>
+           <th>LO-Voikko 4.0<br/>
+           More languages, less backwards compatible<br/>
+           (<a
+           href="https://github.com/voikko/libreoffice-voikko/blob/cd21a2624647348e00fe88aebce21859aad9557f/src/VoikkoHandlePool.cxx">list
+           of languages supported by LO-voikko 4.0</a>)</th>
+         </tr>
+         <tr>
+           <th>LibreOffice 3.4+/OpenOffice.org 3.4+</th>
+           <td>ok</td>
+           <td>N/A</td>
+         </tr>
+         <tr>
+           <th>LibreOffice 4.1+</th>
+           <td>ok</td>
+           <td>ok</td>
+         </tr>
+         </table >
+
+      <p>For reference, here's the <a
+      href="http://cgit.freedesktop.org/libreoffice/core/tree/i18nlangtag/source/isolang/isolang.cxx">list
+      of languages presently supported by LibreOffice</a>
+      (under function <code>IsoLanguageCountryEntry</code>). Browse the
+      parallel files in <a
+      href="http://cgit.freedesktop.org/libreoffice/core/refs/tags">the tagged
+      releases</a> to get the language coverage of
+      earlier LibreOffice releases. And here's the <a
+      href="https://github.com/voikko/libreoffice-voikko/blob/master/src/VoikkoHandlePool.cxx">list
+      of languages presently supported by LO-voikko</a>.</p>
+
+      <note><strong>Universal binaries and LibreOffice on the Mac:</strong> As
+      of  LibreOffice 4.2, it is available both as a 64 bit and a 32 bit
+      version, defaulting to the 64-bit version in most cases. Please note that
+      the 64-bit version of <strong>LibreOffice needs to be restarted</strong>
+      after you have installed the LO-voikko extension before it is activated.
+      Also note that the 64 bit version of LibreOffice requires MacOSX 10.8 or
+      newer.</note>
+
+      </section>
+
+      <section>
+         <title>Version info for LO-Voikko and the libraries it depends on</title>
+         <table >
+         <tr>
+           <td/>
+           <th>LO-Voikko 3.4.1</th>
+           <th>LO-Voikko 4.0</th>
+         </tr>
+         <tr>
+           <th>MacOSX</th>
+           <td>ok</td>
+           <td>N/A</td>
+         </tr>
+         <tr>
+           <th>Windows</th>
+           <td>ok</td>
+           <td>
+             <ul>
+               <li>libvoikko: Git snapshot from the corevoikko repository
+                 <br/>URL: <a href="https://github.com/voikko/corevoikko">https://github.com/voikko/corevoikko</a>
+                 <br/>Commit: b2f79308d1497746c6b26936bb96c845ca29149e
+               </li>
+               <li>tinyxml2: Git snapshot from the tinyxml2 repository
+                 <br/>URL: <a href="https://github.com/leethomason/tinyxml2">https://github.com/leethomason/tinyxml2</a>
+                 <br/>Commit: 343a5ff3bdd7336644db4080f001759e062c359e
+               </li>
+               <li>hfst-ospell: SVN snapshot from the hfst repository
+                 <br/>URL: <a href="svn://svn.code.sf.net/p/hfst/code/trunk/hfst-ospell">svn://svn.code.sf.net/p/hfst/code/trunk/hfst-ospell</a>
+                 <br/>Revision: 3989
+               </li>
+               <li>libreoffice-voikko: Git snapshot from the libreoffice-voikko repository
+                 <br/>URL: <a href="https://github.com/voikko/libreoffice-voikko">https://github.com/voikko/libreoffice-voikko</a>
+                 <br/>Commit: 08ba74a26d0e8c26f5d0eb0d14cbdd41775cbd1f
+               </li>
+               <li>ZLib 1.2.3</li>
+               <li>Libarchive 3.1.2</li>
+             </ul>
+           </td>
+         </tr>
+         </table >
+
       </section>
    </body>
 </document>
