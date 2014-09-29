@@ -1,8 +1,17 @@
-!!!Saksliste
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+    <header>
+        <title>Program</title>
+    </header>
+    <body>
+        <source>
+
+Saksliste
 
 ||Dag    ||Formiddag ||Lunch ||Ettermiddag
 | Måndag | Reise/førebuing | Lunch | Opning, prosjektpresentasjon, presentasjon av problemområdet (morfologi/ordnivå, *ikkje* syntaks) - skrivemåten av, *ikkje* bruken av, *ikkje* purisme kontra lån
-| Tysdag | Ortografi | Lunch |   Morfologi/derivasjon: Thomas + D&M si liste
+| Tysdag | Ortografi | Lunch |   Morfologi/derivasjon: Thomas + D&amp;M si liste
 | Onsdag | Ortografi | Lunch |   Morfologi/samansetjing
 | Torsdag| Morfologi | Lunch |    SGM-møte? Spør dei (David)
 | Fredag | Opne sp.m., oppsummering, framtidig arbeid | Lunch | avreise
@@ -12,7 +21,7 @@
 
 !!To grunntema:
 
-# ortografi 
+# ortografi
 # grammatikk
 
 !Ortografi
@@ -43,10 +52,10 @@ gööktine göötine -> 2-ene göötine el  2'ene göötine
 
 Ella Holm Bull:
 i sjunde klasse - 7.-nie klaassesne
-sjätte 6.-n, men hva med 'i sjette klasse?' , iflg. LS-97, skrives 'samisk som 2.språk' - 'saemien mubpine gïeline' og der skrives det 'mubpine daltesne' = i andre klasse', daltese er brukt om klasse, men det er en bred enighet om at 'klaasse' skal brukes om 'klasse'. språkpuristisme i LS-97. 
+sjätte 6.-n, men hva med 'i sjette klasse?' , iflg. LS-97, skrives 'samisk som 2.språk' - 'saemien mubpine gïeline' og der skrives det 'mubpine daltesne' = i andre klasse', daltese er brukt om klasse, men det er en bred enighet om at 'klaasse' skal brukes om 'klasse'. språkpuristisme i LS-97.
 
 Det er m.a.o et grammatisk spørsmål: skal det være samsvarsbøying eller ikke?
-jeg tror dette med samsvarsbøying er ike på plass, jeg ser at noen skriver og sier 'mov ektesne', mens det iflg. grammatikken er 'mannine ektesne' eller 'tjidtjine ektesne' hvor det også sies, og skrives 'tjidtien ektesne', med genetiv istedenfor komitativ. det kan være det at det er en stum 'e' i komitativ, slik at det oppfattes som en genetivs-n.? 
+jeg tror dette med samsvarsbøying er ike på plass, jeg ser at noen skriver og sier 'mov ektesne', mens det iflg. grammatikken er 'mannine ektesne' eller 'tjidtjine ektesne' hvor det også sies, og skrives 'tjidtien ektesne', med genetiv istedenfor komitativ. det kan være det at det er en stum 'e' i komitativ, slik at det oppfattes som en genetivs-n.?
 
 * låneord som ikkje er dekt av vedtaket sommaren 2006
 verb? 'ere' -verb : som 'opperere', kontrollere etc.
@@ -63,7 +72,7 @@ Vi har vedtak:
 4.	–on/-ion skrives med –ovne
 5.	–al skrives med –ale
 6.	–sjon/-tion skrives med –sjovne
-7.	–i skrives med –ije 
+7.	–i skrives med –ije
 8.	–ie skrives med –ije
 9.	–log skrives med –loge
 10.	–logi skrives med –logije
@@ -71,15 +80,15 @@ Vi har vedtak:
 12.	–ur skrives med -uvre
 
 
-pkt 7: substantiv: + ''-e'' => samisk substantiv = praksis i lærebøker på politi; sjekk opp! f.eks læreboka'mov bïjle'! Maja sjekker opp denne først!! 
-poli- ti= pollise, lånt fra svensk. 
+pkt 7: substantiv: + ''-e'' => samisk substantiv = praksis i lærebøker på politi; sjekk opp! f.eks læreboka'mov bïjle'! Maja sjekker opp denne først!!
+poli- ti= pollise, lånt fra svensk.
 tid= tïjje (LMM/KB's Ordbok)
 ti? =ijje?(læreboknormal)
-ije (vedtak SGM) 
-= Hvis vedtak, ordbok og praksis (læreboknormen) spriker på dette, må vi ha avklaring. 
+ije (vedtak SGM)
+= Hvis vedtak, ordbok og praksis (læreboknormen) spriker på dette, må vi ha avklaring.
 
 
-* Hur ska vi skriva sammansatta ord? med eller utan bindestrek? (bindestreken er ein ortografisk konvensjon) 
+* Hur ska vi skriva sammansatta ord? med eller utan bindestrek? (bindestreken er ein ortografisk konvensjon)
 * skal vi skriva ''mørk i'' - ''ï''? EHB og AJ skreiv ikkje ï - brukt i ''Lohkede saemien'', deretter ikkje, men er no i bruk igjen
 * æ-ä og ø-ö - norsk æ er problematisk fordi den liknar (grafisk) for mykje på ae-sekvensen
 
@@ -93,43 +102,43 @@ verb? -  + en stavelse til= jfr. badadidh? = didh
        stannedh? stoppedh, opereradidh = opererasovvim,
        ere-verb = sterke kandidater for lån.
        kontrolere =kontroleradidh?
-       
-   
-   
+
+
+
 Manglar vedtak:
 verb? -  + en stavelse til= jfr. badadidh? = didh
        stannadidh, stoppadidh?stoppedidh?
        stannedh? stoppedh, opereradidh = opererasovvim,
        ere-verb = sterke kandidater for lån.
        kontrolere =kontroleradidh?
-       
-       
+
+
 adjektiv? isk-endelsen= genetiv.
           lig
-          aktig 
+          aktig
 madte-ihke +isk = madtematihke?
 ryökneme= ryöknemes?= regneverdig? daate lea lohkemes gærja = denne boka er lesverdig, verd å lese.
 ryökneme = regning
 lohkeme=   lesing
 
 
-* dialekttoleranse? - 
+* dialekttoleranse? -
 ** bueriemdidh - bueriedidh
 ** aalta - aaltoe
-** skuapmah båetskie / skuapman = 
+** skuapmah båetskie / skuapman =
    åajvoeh/åajvah
-   dotkedh - gïehtjedidh 
+   dotkedh - gïehtjedidh
 *** dialketvariasjoner i korpus og ordbok= trenger avklaring på faktisk dialektbruk, akseptert norm eller bør den normeres
 
-buejtie- buajtadidh 
+buejtie- buajtadidh
 båajtoedidh - båajtodh - buejtie
 
 
-njieljie (o), nieljie, njielje og nielje = læreboknormen er = som i saemesth amma! = hvilken variant er mest brukt? 
+njieljie (o), nieljie, njielje og nielje = læreboknormen er = som i saemesth amma! = hvilken variant er mest brukt?
 
 Pia,(i sin tid som språkkonsulent i Sametinget: 2003/2004): "den fyrste ordforma i ei liste er den normerte"
-f.eks : jiemperdidh, jiemmerdidh <= jiemperdidh er norm
-njieljie (o), nieljie, njielje og nielje <= njieljie er norm, resten SUB
+f.eks : jiemperdidh, jiemmerdidh &lt;= jiemperdidh er norm
+njieljie (o), nieljie, njielje og nielje &lt;= njieljie er norm, resten SUB
 
 Dersom alle er ok, vil ei feilskriving ''nielje'' for ''njielje'' ikkje bli oppdaga. Konsekvent ortografi blir vanskeleg.
 
@@ -143,17 +152,17 @@ venn=vïene -> vïenes heelsege  'vennlig hilsen'
  0
  ldh
 Maja sjekker opp!
- 
-Maja finner liste over normeringsutfordringer utarbeidet av læremiddelprosjektet hos FM/NO. + liste over læremiddel + forfattere!( Nå fant jeg ikke listen over forfattere=læremidler elektronisk på noen av cd'ene. Jeg må sjekke gjennom permene mine, om de er der. men det kan også være at det var noe jeg lemnet igjen hos FM/NO etter endt prosjekt. Denne listen over forfattere/læremidler i forhold til ulike trinn, kan da være hos FM/NO.  
+
+Maja finner liste over normeringsutfordringer utarbeidet av læremiddelprosjektet hos FM/NO. + liste over læremiddel + forfattere!( Nå fant jeg ikke listen over forfattere=læremidler elektronisk på noen av cd'ene. Jeg må sjekke gjennom permene mine, om de er der. men det kan også være at det var noe jeg lemnet igjen hos FM/NO etter endt prosjekt. Denne listen over forfattere/læremidler i forhold til ulike trinn, kan da være hos FM/NO.
 
 !Grammatikk
 
 Dette er vedtak eller norm etter grammatikken og ordboka:
 * ...liste
 * Nomen - derivanter
-** 
-vilka substantiveringsändelser är produktiva? 
-frå adjektiv: det er konversjon i sørsamisk. 
+**
+vilka substantiveringsändelser är produktiva?
+frå adjektiv: det er konversjon i sørsamisk.
 
 - oe
 - voete (definitivt produktiv)
@@ -161,7 +170,7 @@ frå verb: - ege/ahke(Denne er også produktiv)
 
 
 -stahke(prod)
-eks: sovkestahke 
+eks: sovkestahke
 -htahke
 -dahke, -ldahke
 -ese, -asse
@@ -170,28 +179,28 @@ eks: sovkestahke
 
 frå andre substantiv:
 
-possesive suffikser og refleksive pronomen for så vidt. 
+possesive suffikser og refleksive pronomen for så vidt.
 
-Bruken av 'altese': 
-'er det refleksivt eller er viser det til en tredje person, utenom de som snakker som personlige pronomenet 'dïhte'?. iflg. informanter og muntlig brukes det refleksivt. eks; 'Piere bööti jeehti altese aehtjie lij soptsestamme...' det samme som 'Piere bööti jeehti sov aehtjie lij soptsestamme'. 
+Bruken av 'altese':
+'er det refleksivt eller er viser det til en tredje person, utenom de som snakker som personlige pronomenet 'dïhte'?. iflg. informanter og muntlig brukes det refleksivt. eks; 'Piere bööti jeehti altese aehtjie lij soptsestamme...' det samme som 'Piere bööti jeehti sov aehtjie lij soptsestamme'.
 
-jeg vet ikke om dette habetydnign for stavekontrollen? 
+jeg vet ikke om dette habetydnign for stavekontrollen?
 
 
 * Fonologi-kapittel?
 * Morfologi:
 ** verb:KB: verbavledninger, verbbøyninger=to systmer, to ulike praksiser AJ og EHB.
-** adjektiv: KB-systemet 
-** nomen: 
+** adjektiv: KB-systemet
+** nomen:
 
-Dimunitiv: 
+Dimunitiv:
 ie, oe -substantiv får omlyd ved 'tje' , eks :  learohke + LEAROEHKIDIE
 tjaetsie - tjaatsetje -> tjaatsatjasse
 miesie - measetje     -> measatjasse
 neajtoe- nyöjtetje    -> nyöjtetjasse
-nïejte - niejtetje    -> 
+nïejte - niejtetje    ->
 nyöjte(jente) = nyöjtetje
-neajtoe, neajta - nyöjtetje 
+neajtoe, neajta - nyöjtetje
 aaltoe - ååltetje     -> ååltetjasse
 gaahtoe - gååhtetje   -> gååhtetjasse
 e og a får ikke omlyd, eks:
@@ -201,18 +210,18 @@ fåvhta - fåvhtetje    -> fåvhtatjasse
 
 aalta -> aaltetje     -> aaltatjasse
 mearka -> mearketje   -> mearkatjasse
-råantja -> 
+råantja ->
 guapa -> gåapetje     -> gåapatjasse  ( ortografisk spørsmål ua-åa )
-duarsta -> 
-dåavhla -> dåavhletje -> dåavhlatjasse 
+duarsta ->
+dåavhla -> dåavhletje -> dåavhlatjasse
 dågka ->
 tjåktja -> tjåktjetje - tjåktjatjasse
-goepedh= guapa 
+goepedh= guapa
 goekedh= guaka
 
 gåetie -> gåatetje    -> gåatatjasse
 
-ved ordet 'ohtje' kommer substantivet etter alltid i dimunutivform. Lohkede saemien, AJ og EHB, KB/LMM's ordbok + muntlige kilder. 
+ved ordet 'ohtje' kommer substantivet etter alltid i dimunutivform. Lohkede saemien, AJ og EHB, KB/LMM's ordbok + muntlige kilder.
 i faste uttrykk derimot, sier man 'onne maana' f.eks, se barnesangen 'sjamma, sjaama onne maana' , men sier man onn'ohtje, så blir det dim.form av substantivet.
 
 Omlyd og ekspansjon ved diminutivsuffikset -tje (-adtje - den lange forma er ikkje relevant her, sidan den ikkje fører til omlyd i rota)
@@ -225,22 +234,22 @@ u  -> å  => kolonne 3, R1 -> R2/R3     u-ie    -    durrie  -> dårretje  -> d�
 ie -> ea => kolonne 4, R1 -> R2/R3     ie-ie   -    miesie  -> measetje  -> measatjasse
 ae -> aa => kolonne 5, R1 -> R2/R3/R4  ae-ie   -    tjaetsie-> tjaatsetje-> tjaatsatjasse
 åe -> åa => kolonne 6, R1 -> R2/R3/R4  åe-ie   -    gåetie  -> gåatetje  -> gåatatjasse
-ue -> ua => kolonne 7, R1 -> R2        ue-ie   -    guelie  -> gualetje  -> gualatjasse/gualetjasse* 
+ue -> ua => kolonne 7, R1 -> R2        ue-ie   -    guelie  -> gualetje  -> gualatjasse/gualetjasse*
 
 æ  -> æ  => kolonne 1, R2 -> R2/R3     æ-a     -    gæjsa   -> gæjsetje  -> gæjsatjasse/gæjsetjasse?
-a  -> a  => kolonne 2, R2 -> R2/R3     a-a     -    
+a  -> a  => kolonne 2, R2 -> R2/R3     a-a     -
 å  -> å/o=> kolonne 3, R2 -> R2/R3     å-a     -    åhta    -> åhtetje   -> åhtatjasse
 ea -> ea => kolonne 4, R2 -> R2/R3     ea-a    -    leahta -> leahtetje  -> leahtatjasse
 aa -> aa => kolonne 5, R2 -> R2/R3/R4  aa-a    -    maana   -> maanetje  -> maanatjasse
 åa -> åa => kolonne 6, R2 -> R2/R3/R4  åa-a    -    båanta -> båantetje-> båantatjasse
-ua -> ua => kolonne 7, R2 -> R2        ua-a    -    buatska   -> buatsketje  -> buatskatjasse 
+ua -> ua => kolonne 7, R2 -> R2        ua-a    -    buatska   -> buatsketje  -> buatskatjasse
 
-æ  -> æ  => kolonne 1, R3 -> R5        æ-oe    -    læstoe  -> lystetje  -> lystetjasse? 
+æ  -> æ  => kolonne 1, R3 -> R5        æ-oe    -    læstoe  -> lystetje  -> lystetjasse?
 a  -> a  => kolonne 2, R3 -> R5        a-oe    -    barkoe  -> borketje  -> borketjasse
 å  -> å  => kolonne 3, R3 -> R5        å-oe    -    ålloe   -> olletje   -> olletjasse
-ea -> yö => kolonne 4, R3 -> R4/R5     ea-oe   -    neajtoe -> nyöjtetje -> nyöjtetjasse, bealloe -> byölletje -> byölletjasse 
+ea -> yö => kolonne 4, R3 -> R4/R5     ea-oe   -    neajtoe -> nyöjtetje -> nyöjtetjasse, bealloe -> byölletje -> byölletjasse
 aa -> yö => kolonne 5, R3 -> R5        aa-oe   -    aaltoe  -> ååltetje  -> ååltetjasse
-åa -> åå => kolonne 6, R3 -> R5        åa-oe   -    
+åa -> åå => kolonne 6, R3 -> R5        åa-oe   -
 åa -> åå => kolonne 7, R3 -> R5        åa-oe   -    låajtoe -> lååjtetje -> lååjtetjasse
 
 ï  -> ï  => kolonne 1, R4 -> R4        ï-e     -    bïrhke  -> bïrhketje -> bïrhketjasse
@@ -251,7 +260,7 @@ aa -> aa => kolonne 5, R4 -> R4/R3/R2  aa-e    -    baahtje -> baahtjetje-> baah
 åa -> åa => kolonne 6, R4 -> R4/R3/R2  åa-e    -    låamme  -> låammetje -> låammetjasse
 oe -> oe => kolonne 7, R4 -> R4        oe-e    -    voesse  -> voessetje -> voessetjasse
 
-y  -> ?  => kolonne 1, R5 -> R?        y-e     -    
+y  -> ?  => kolonne 1, R5 -> R?        y-e     -
 o  -> ?  => kolonne 2, R5 -> R?        o-e     -    lopme   -> lopmetje  -> lopmetjasse
 o  -> ?  => kolonne 3, R5 -> R?        o-e     -    lovhtje -> lovhtjetje-> lovhtjetjasse
 yö -> ?? => kolonne 4, R5 -> R?        yö-e    -    yörhke - yörhketje - yörhketjasse
@@ -259,8 +268,8 @@ yö -> ?? => kolonne 4, R5 -> R?        yö-e    -    yörhke - yörhketje - yö
 åå -> ?? => kolonne 6, R5 -> R?        åå-e    -    bååjme - bååjmetje -bååjmetjasse
 åå -> ?? => kolonne 7, R5 -> R?        åå-e    -    bååjme - bååjmetje - bååjmetjasse
 
-i  -> ?  => kolonne 1, R6 -> R?        i-e     -    
-i  -> ?  => kolonne 2, R6 -> R?        i-e     -    
+i  -> ?  => kolonne 1, R6 -> R?        i-e     -
+i  -> ?  => kolonne 2, R6 -> R?        i-e     -
 u  -> ?  => kolonne 3, R6 -> R?        u-e     -    stuhtje - stuhtjetje - stuhtjetjasse
 ee -> ?? => kolonne 4, R6 -> R?        ee-e    -    beetse - beetsetje - beetsetjasse
 ee -> ?? => kolonne 5, R6 -> R?        ee-e    -    beese - beesetje -beesetjasse
@@ -269,7 +278,7 @@ ee -> ?? => kolonne 5, R6 -> R?        ee-e    -    beese - beesetje -beesetjass
 
 (sp.mål: går 'maanetje' som 'daktere'->'daktarasse' eller som 'gamege'->'gaamegasse'
 
-bæjngoeh - byjngetje 
+bæjngoeh - byjngetje
 
 Omlyden ved derivasjonar (der det finst omlyd) er eit produkt av stammevokalen + underliggande vokal ved derivasjonsendinga:
 
@@ -299,9 +308,9 @@ Om morfologin är oftast det oklara vilka ljud som finns i skarven mellan stam o
 
 Dette er praksis for tilsvarande punkt:
 
-* Vilken form har det första ordet i sammansatta ord? 
+* Vilken form har det första ordet i sammansatta ord?
 
-- substantiv + substantiv: 
+- substantiv + substantiv:
 2-stavelsesubstantiver:
 gåetie-almetjh
 båatsoe-almetjh
@@ -310,41 +319,41 @@ nejpien-sjapmerem (Dejp. s.51)
 
 stentrappa - gierkieraajtere
   3-stavelsesasubstantiver:
-  aereds-beapmoe, 
-  buareds-aerede, buaredh-biejjie? 
+  aereds-beapmoe,
+  buareds-aerede, buaredh-biejjie?
   iehkeds-biejjiem iehkeds-baahkoe etc. rimelig konsekvent
   skuvleme-faehtieh
   adjektiv+ substantiv : Må gjøre adjektivet om til substantiv før man setter
  det ved siden av substantivet? f.eks deadtjoeh pluvie - dïedtje-pluevie, plïehtje-gierkie, sovse-voesse, (såvsoeh)
-  
+
   verb + substantiv:
   2-stavelses:
   'lohkeme-gærja'
   'ryökneme-gærja'
- 
-  
+
+
 * 3-stavelses:
-** reakeds-biejjie,reakadimmie-biejjie, 
+** reakeds-biejjie,reakadimmie-biejjie,
 
 ** gjeld samansetjingar med 2 vanlege substantiv
 ** samansetjingar med namn, akronym(hva er akronym?), m.m. reknar vi med fylgjer nord- og lulesamisk, dvs som norsk og svensk (*med* bindestrek)
 
 
-* Hur skriver vi kasusändelser i samband med ett inlånat ord som skapar en vokalkonflikt t.ex. officeesne/officeisnie? 
+* Hur skriver vi kasusändelser i samband med ett inlånat ord som skapar en vokalkonflikt t.ex. officeesne/officeisnie?
 
 * Hur är vår ordning på suffixen i substantiv? Vilken är först när?
 ** Kasussuffix eller possessivt suffix.
 
-* Hur ska vi förhålla oss till omljuden i illativ tvåstaviga substantiv på -oe. Inget konsekvent system kan skönjas utifrån grammatiken eller ordboken.  Jämför bearkoe med byerkese och aaltoe med *ååltese.  Inget problem i illativ för stammar på –ie där det är helt konsekvent med omljud, däremot för de övriga valfria omljuden är det inkonsekvent. 
-* Hur gör vi med adjektiven i jämförelse med substantiven? 
+* Hur ska vi förhålla oss till omljuden i illativ tvåstaviga substantiv på -oe. Inget konsekvent system kan skönjas utifrån grammatiken eller ordboken.  Jämför bearkoe med byerkese och aaltoe med *ååltese.  Inget problem i illativ för stammar på –ie där det är helt konsekvent med omljud, däremot för de övriga valfria omljuden är det inkonsekvent.
+* Hur gör vi med adjektiven i jämförelse med substantiven?
 
 ===========*******************===========
 
 ----
 
 hvordan skrive grammatiske uttrykk på sørsamisk, f.eks. akten-taallen eller akten-låhkoe, eller akten-giertien . osv.
-også lånordene? lån fra svenske eller norsk? 
-mønster på lån: - 
+også lånordene? lån fra svenske eller norsk?
+mønster på lån: -
 f.eks 'bade', 'mate' = baadadidh, maatadidh, baakadidh = å bake.
 baadedh
 
@@ -354,14 +363,14 @@ baadedh
 Saker:
 * Maja:
 
-Kva er vedtatt? grammatikk + ordbok + SGM => dette har David alt gjort(?)(men, jeg mener å ha sett at det skrives noe annerledes i de sørsamiske skolemiljøene,om f.eks politi, det var bare det..:-) 
+Kva er vedtatt? grammatikk + ordbok + SGM => dette har David alt gjort(?)(men, jeg mener å ha sett at det skrives noe annerledes i de sørsamiske skolemiljøene,om f.eks politi, det var bare det..:-)
 
 Problem: SGM-møter som ikkje er registrert i sekretariatet, dvs vi har ikkje tilgang til vedtak m.m.
 
 
 Fokus:
 - ortografisk normering
-    - dialektar i ortografien, 
+    - dialektar i ortografien,
 - grammatiske hol
 
 
@@ -380,14 +389,14 @@ OK!
 ** vi finn ikkje noko i grammatikken eller ordboka
 ** vi finn ikkje noko i lærebøkene, t.d. Saemesth amma
 *** sidetall, goltelidh jih soptsestidh, don jih daen bïjre 1-3 - har noe på dette.
-** det finst i Windows, så det er truleg normert (Windows <- Audun <- SGM?)
+** det finst i Windows, så det er truleg normert (Windows &lt;- Audun &lt;- SGM?)
 
 * Hur skriver vi ''på samiska'' (dvs på språket samisk)?
 ** Desse er i bruk/i korpuset vårt(?): Saemien gïelese/Saemien gïelen/Saemien gïelesne/Saemien gïeline. er det ikke gïelesne? samisk= saemien
 
 * Hur använder vi tid? om en timme, om en dag, för två år sedan, för tio minuter.
-** Bergsland 1946: innesiv_ tæjmosne? jo! det er både genetiv, akkusativ og innesiv. genetiv om faste tidspunkt, akkusativ, f.eks "man guhkiem" svarer med 'dam gijrem', men muntlig er det hørt også genetiv om tid i denne sammenhengen også. 
-** absolutte tidsuttrykk? = Lærebok ''Tïjje'' = om denne normen gjelder? 
+** Bergsland 1946: innesiv_ tæjmosne? jo! det er både genetiv, akkusativ og innesiv. genetiv om faste tidspunkt, akkusativ, f.eks "man guhkiem" svarer med 'dam gijrem', men muntlig er det hørt også genetiv om tid i denne sammenhengen også.
+** absolutte tidsuttrykk? = Lærebok ''Tïjje'' = om denne normen gjelder?
 
 
 !!!Tidsplan
@@ -406,26 +415,13 @@ Vi behöver också få fram mer data om verbavledning. Det vore bra att få in m
 Det verkar som om det finns fler beslut från SGM än de jag kände till. Lena Kappfjell kan ha dem.
 
 
-
-
-
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-
-
-
-
-
 Målet med møtet er å kartleggje kva som er status quo for sørsamisk grammatisk forsking, finne ut hvem som er interessert i å arbeide med eit grammatikkprosjekt, og å planleggje arbeidet med og samarbeidsformene for å lage en slik grammatikk.
 
 
 Anita:
 ======
 
-undervise <=> lage materiell
+undervise &lt;=> lage materiell
 Noko kan bli brukt om att, og noko må vi revidere
 
 Vi er redd for å gje frå oss noko vi ikkje er nøgd med, men vi blir aldri nøgd
@@ -442,7 +438,7 @@ Eg har lese KB 1980 så mange gonger før eg forstod han.
 Berre det å ha eit register!
 
 T.d. verbbøying.
-Då eg var 6. klassing fekk eg Nora Bransfjell. 
+Då eg var 6. klassing fekk eg Nora Bransfjell.
 Ho hadde ein verbtabell, nesten fullstendig
 Den har vore med meg frå tiorsalderen, og er med meg enno.
 Alle trestavingsverba, -substantiva
@@ -494,7 +490,7 @@ Vi kan ikkje vere med og skrive, eg er den einaste som held på med sørsamisk. 
 
 Vi treng:
 Noko samanliknande norsk/svensk - sørsamisk, i og med at vi sett om dokument.
-Vi treng støtte til å samanlikne konstruksjonar, KB er kortfatta og litt vanskeleg å finne fram i. 
+Vi treng støtte til å samanlikne konstruksjonar, KB er kortfatta og litt vanskeleg å finne fram i.
 
 Kva spesifikt:
 KB har lite eksempel. Det er mogleg å søke etter t.d. presens partisipp, før eg finn det i KB må eg leite mykje. Eg vil ha fleire eksempel, for å finne generaliseringane sjølv.
@@ -536,7 +532,7 @@ InterReg
 
 Vi treng tre grammatikkar:
 
-1. Minigrammatikk => 
+1. Minigrammatikk =>
 2. Grammatikk-som-lærebok
 3. Ein referansegrammatikk
 
@@ -544,7 +540,7 @@ Det fomst ein minigrammatikk på 200 sider for Sámastama, ein sørsamisk varian
 
 Normeringsprosess.
 
-Lånordmønster: 
+Lånordmønster:
 politikk, sosialisme, musikk / musik => musigke/musihke => musihke ...
 -sj-/-ti- => -sj- (nasjon/nation => )
 
@@ -625,7 +621,7 @@ Det vi står att med er spesiallitteratur, skrive for språkforskarar.
 Lagercrantz snakka med samar på fjellet, det gjorde Hasselbrink også.
 Bergsland snakka med ei dame, Julie Axmann.
 
-Språket i desse grammatikkane er eit gammalt samisk. 
+Språket i desse grammatikkane er eit gammalt samisk.
 
 Viss du les samiske nyhende, er det eit anna språk, anna ordforråd, annan terminologi.
 
@@ -659,7 +655,7 @@ Bergsland:
 Lånord, normering
 
 Adjektiv
-adjektivattributt vs. 
+adjektivattributt vs.
 
 Personleg pronomen
 
@@ -677,7 +673,7 @@ Avleiing
 
 
 =============
-Oppsummering: 
+Oppsummering:
 =============
 
 > Alle har sagt sitt
@@ -697,7 +693,7 @@ Grammatikk
 Kven:
 =====
 
-Maja: 
+Maja:
 Masteroppgåve om adjektiv, eitt år (2007).
 Etterpå: Open for gode forslag.
 
@@ -740,7 +736,7 @@ Andre namn:
 ===========
 Mikael Vinka
 Anne Grete Leine Bientie
-Pia + Liv Karin Jåma <= tekstbase
+Pia + Liv Karin Jåma &lt;= tekstbase
 Ume, Uppsala
 ...
 
@@ -790,7 +786,7 @@ Start ny foting der norsk/svensk har trykk
 
 sme   CV.CV    CVC.CV   CVV.CV   CVVC.CV
 sma            CVC.CV   CVV.CV   CVVC.CV
-nor            CVC.CV   CVV.CV   
+nor            CVC.CV   CVV.CV
 
 Korte i nordsamisk:
 
@@ -845,7 +841,7 @@ innhald: status quo for grammatikkforsking i dag
 organisering, infrastruktur
 - filstruktur, arbeidsmåte for desentralisert skriving
 - kollektiv lagring av filer
-språk: svensk. 
+språk: svensk.
 
 identifisere viktige felt (kvite flekkar først)
 
@@ -861,20 +857,20 @@ Pegagogiske pengar
 Forskingspengar
  Rausing
  NFR
- 
+
 Kven:
 Institusjonar:
  => kan frigje medarbeidarar
  => kan bidra med admin- og datastøtte
 Personar:
  Skribentar:
-  Samiskfilologar: 
+  Samiskfilologar:
    a. er det pengar, b. veltar huset når vi går? Maja/Anita/...
-  Lingvistar:      
-   - Ove... 
+  Lingvistar:
+   - Ove...
  Referansegruppe:
-  
-  
+
+
 
 Når: ???
  Interessegruppa «sydsamisk referensgrammatik»
@@ -883,14 +879,14 @@ Rapport frå møtet, invitasjon til institusjonane
 Arbeid utan pengar
  -> lage grupp ("projektadministration") (-)
  -> lage nettside og infrastruktur (Trond)
- -> lage status-quo: 
-    -> kommentert bibliografi 
+ -> lage status-quo:
+    -> kommentert bibliografi
          (Pia, Ove, Nora, Tove)
     -> lage tekstbase: Divvun
          (Trond: infra, andre: innsamling)
     -> samle kompendium
  -> søke (Trond med andre)
-Arbeid med pengar 
+Arbeid med pengar
  -> skrive
 
 
@@ -914,7 +910,7 @@ Oppsummering:
 
 Maja Lisa skriv oppgåve om adjektiv, Ove arbeider med sørsamisk fonologi og Trond gjer ein del med den sørsamiske analysatoren.
 
-Deretter ventar vi på initiativ 
+Deretter ventar vi på initiativ
 
 
 
@@ -928,14 +924,14 @@ o	Støtte til andre tiltak (for eksempel bearbeiding av masteroppgave til artikk
 
 Ein forstudie til ein sørsamisk referansegrammatikk
 
-* Søknadsbeløp 
+* Søknadsbeløp
 30000,-
 
 Prosjektbeskrivelse (maks 7000 tegn, inkl mellomrom)
 
 Målet er å arrangere eit arbeidsseminar for ein sørsamisk referansegrammatikk. Seminaret skal gå over to eller tre dagar, og det tar for seg desse emna:
 
-- Oppsummering av status quo, gjennomgang ing inventering av eksisterande sørsamisk forsking 
+- Oppsummering av status quo, gjennomgang ing inventering av eksisterande sørsamisk forsking
 - Foredrag om ulike grammatiske emne frå sørsamisk (deltakarane blir invitert til å sende inn foredrag)
 - Planlegging av samarbeid for skriving av samisk referansegrammatikk
 
@@ -957,7 +953,7 @@ Målet er å samle dei som har skrive om sørsamisk grammatikk, dei som kan tenk
 - Lage konkrete planar for korleis vi skal gå fram
 - Finne folk og finansieringskjelder til å utføre dette arbeidet
 
-Arbeidet med sørsamisk grammatikk er i dag retta inn mot utarbeiding av læremiddel for mellom- og ungdomstrinna i skoleverket. Dette er ei prioritering som er både forståeleg og viktig, men ho prioriterer dermed også pedagogisk motivert progresjon i dei grammatiske skildringane. 
+Arbeidet med sørsamisk grammatikk er i dag retta inn mot utarbeiding av læremiddel for mellom- og ungdomstrinna i skoleverket. Dette er ei prioritering som er både forståeleg og viktig, men ho prioriterer dermed også pedagogisk motivert progresjon i dei grammatiske skildringane.
 
 Det vi her er ute etter er noko anna, nemleg systematiske og uttømmande skildringar av dei grammatiske fenomena, både normativt og deskriptivt (både mønsteret i dei ulike dialektane og (særleg) i den normative skriftstandarden).
 
@@ -998,7 +994,7 @@ Kostnader rundt seminaret (mat, kaffe, osb)          5000,-
 Delfinansiering av andre deltakarar:                 5000,-
 ============================================================
                                                     30000,-
-============================================================                                                    
+============================================================
 
 
 
@@ -1030,4 +1026,6 @@ Når det gjeld referansegrammatikken var det interesse for å gå i gang med eit
 Universitetet i Tromsø kjem til å arbeide vidare med den sørsamiske analysatoren, men i sakte fart. Når det gjeld grunnlagsarbeidet for sørsamisk referansegrammatikk, er det arbeid med grammatikk på ulike hald: Maja Lisa planlegg å skrive ei oppgåve om sørsamiske adjektiv. Studentane ved universitetet i Umeå skriv artiklar om mange ulike sørsamiske grammatiske emne. Ved UiTø kjem vi etter kvart til å utvide dei sørsamiske heimesidene ved UiTø til å inkludere bibliografiske opplysningar og informasjon om planar om eit sørsamisk referansegrammatikkprosjekt. Ut over det ventar vi på initiativ frå potensielle skribentar når det gjeld oppstart av grammatikkprosjektet.
 
 
-
+        </source>
+    </body>
+</document>
