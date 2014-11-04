@@ -78,7 +78,8 @@
 	</seminars>
 	<workshops href="workshops/" label="Workshops">
 		<NorWEST2014 href="NorWEST2014/"     label="NorWEST2014">
-			<program href="NorWEST2014.html" label="NorWEST2014 CFP"/>
+			<wscfp   href="NorWEST2014.html" label="NorWEST2014 CFP"/>
+			<program href="WorkshopProgramme.html" label="Programme"/>
 		</NorWEST2014>
 	</workshops>
   </about>
