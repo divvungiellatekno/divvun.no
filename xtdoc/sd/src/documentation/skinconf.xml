@@ -21,7 +21,7 @@ which will be used to configure the chosen Forrest skin.
 <!-- Disable the print link? If enabled, invalid HTML 4.0.1 -->
   <disable-print-link>true</disable-print-link>
 <!-- Disable the PDF link? -->
-  <disable-pdf-link>false</disable-pdf-link>
+  <disable-pdf-link>true</disable-pdf-link>
 <!-- Disable the POD link? -->
   <disable-pod-link>true</disable-pod-link>
 <!-- Disable the Text link? FIXME: NOT YET IMPLEMENETED. -->
@@ -34,7 +34,7 @@ which will be used to configure the chosen Forrest skin.
     sites to easily reuse your pages.-->
       <disable-xml-link>true</disable-xml-link>
 <!-- Disable navigation icons on all external links? -->
-  <disable-external-link-image>false</disable-external-link-image>
+  <disable-external-link-image>true</disable-external-link-image>
 <!-- Disable w3c compliance links?
     Use e.g. align="center" to move the compliance links logos to
     an alternate location default is left.
@@ -55,10 +55,10 @@ which will be used to configure the chosen Forrest skin.
   <project-logo>images/project-logo.gif</project-logo> -->
 <!-- optional group logo
        default skin: renders it at the top-left corner -->
-  <group-name>University of Tromsø</group-name>
-  <group-description>University of Tromsø</group-description>
+  <group-name>UiT Norgga árktalaš universitehta</group-name>
+  <group-description>UiT Norgga árktalaš universitehta</group-description>
   <group-url>http://uit.no/</group-url>
-  <group-logo>images/UiTLogoSamisk.png</group-logo>
+  <group-logo>images/UiT_Navn_sam_rod.png</group-logo>
 <!-- Alternative static image:
   <group-logo>images/group-logo.gif</group-logo> -->
 <!-- optional host logo (e.g. sourceforge logo)
@@ -68,8 +68,8 @@ which will be used to configure the chosen Forrest skin.
 <!-- relative url of a favicon file, normally favicon.ico -->
   <favicon-url/>
 <!-- The following are used to construct a copyright statement -->
-  <year>2012</year>
-  <vendor>Romssa universitehta</vendor>
+  <year>2014</year>
+  <vendor>UiT Norgga árktalaš universitehta</vendor>
 <!-- The optional copyright-link URL will be used as a link in the
     copyright statement
   <copyright-link>http://www.apache.org/licenses/</copyright-link>
@@ -81,7 +81,7 @@ which will be used to configure the chosen Forrest skin.
 	  Use location="none" to not display the trail (if the skin supports it).
     For some skins just set the attributes to blank.
   -->
-  <trail>
+  <trail location="none">
     <link1 href="http://uit.no/" name="UiT" />
     <link2 href="http://divvun.no/" name="Divvun" />
     <link3 href="" name="" />
@@ -102,7 +102,7 @@ which will be used to configure the chosen Forrest skin.
     feedback link in the footer with the page pathname appended:
     <a href="@href">{@to}</a>
     -->
-  <feedback href="mailto:divvun@samediggi.no?subject=Feedback " to="divvun@samediggi.no" >
+  <feedback href="mailto:feedback@divvun.no?subject=Feedback " to="feedback@divvun.no" >
     Send feedback about the website to:
   </feedback>
 <!--
@@ -135,6 +135,17 @@ which will be used to configure the chosen Forrest skin.
 	}
 
 .grouplogo .logoImage {
+    height: 160px;
+}
+
+#top .projectlogo {
+    padding: 4em 4em 10px 10px;
+    text-align: center;
+	width: 90%;
+	float: none;
+}
+
+.projectlogo .logoImage {
     height: 80px;
 }
 
