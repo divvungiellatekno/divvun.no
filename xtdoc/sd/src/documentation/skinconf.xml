@@ -50,7 +50,7 @@ which will be used to configure the chosen Forrest skin.
   <project-name>Divvun - Sámi Proofing</project-name>
   <project-description>Sámi Proofing Tools Project</project-description>
   <project-url>http://www.divvun.no/</project-url>
-  <project-logo>images/divvun.png</project-logo>
+  <project-logo>images/divvun-logo.png</project-logo>
 <!-- Alternative static image:
   <project-logo>images/project-logo.gif</project-logo> -->
 <!-- optional group logo
@@ -139,14 +139,14 @@ which will be used to configure the chosen Forrest skin.
 }
 
 #top .projectlogo {
-    padding: 4em 4em 10px 10px;
+    padding: 2em 4em 1em 0em;
     text-align: center;
 	width: 90%;
 	float: none;
 }
 
 .projectlogo .logoImage {
-    height: 80px;
+    height: 120px;
 }
 
     p.last_modified {
