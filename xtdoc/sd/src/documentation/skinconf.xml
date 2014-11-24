@@ -262,7 +262,7 @@ p.line {
     (if the skin supports it).
   -->
   <credits>
-    <credit box-location="alt" >
+    <credit >
       <name>Built with Apache Forrest</name>
       <url>http://forrest.apache.org/</url>
       <image>images/built-with-forrest-button.png</image>
