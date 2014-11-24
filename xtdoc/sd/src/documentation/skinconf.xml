@@ -103,7 +103,6 @@ which will be used to configure the chosen Forrest skin.
     <a href="@href">{@to}</a>
     -->
   <feedback href="mailto:feedback@divvun.no?subject=Feedback " to="feedback@divvun.no" >
-    Send feedback about the website to:
   </feedback>
 <!--
     extra-css - here you can define custom css-elements that are
