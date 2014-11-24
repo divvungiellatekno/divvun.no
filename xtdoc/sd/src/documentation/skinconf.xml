@@ -149,56 +149,56 @@ which will be used to configure the chosen Forrest skin.
     height: 120px;
 }
 
-    p.last_modified {
-      margin-left: 2em;
-      padding: .5em;
-      color: #aaa;
-      font-size: x-small;
-    }
-    dt {
-      font-weight: bold;
-    }
-    pre.code {
-      border: 1pt solid #ddd ;
-      padding: 2pt ;
-      background: #efefef ;
-    }
-    div.abstract {
-      border: 1pt dotted #ddd ;
-      padding: 2pt ;
-      background: #efefef ;
-      font-size: 88%;
-      margin-right: 10%;
-      margin-left:  12pt;
-      margin-bottom: 5pt;
-    }
-    div.abstract:before {
-      display: block;
-      text-align: left;
-      content: "Abstract:";
-      font-weight: bold;
-      font-size: small;
-    }
-    .nonvalid, .broken, .nonvalid td, .broken td {
-      background-color: pink !important;
-    }
-    .correct {
-      background-color: lightgreen;
-    }
-    .score {
-      color: grey;
-    }
+p.last_modified {
+  margin-left: 2em;
+  padding: .5em;
+  color: #aaa;
+  font-size: x-small;
+}
+dt {
+  font-weight: bold;
+}
+pre.code {
+  border: 1pt solid #ddd ;
+  padding: 2pt ;
+  background: #efefef ;
+}
+div.abstract {
+  border: 1pt dotted #ddd ;
+  padding: 2pt ;
+  background: #efefef ;
+  font-size: 88%;
+  margin-right: 10%;
+  margin-left:  12pt;
+  margin-bottom: 5pt;
+}
+div.abstract:before {
+  display: block;
+  text-align: left;
+  content: "Abstract:";
+  font-weight: bold;
+  font-size: small;
+}
+.nonvalid, .broken, .nonvalid td, .broken td {
+  background-color: pink !important;
+}
+.correct {
+  background-color: lightgreen;
+}
+.score {
+  color: grey;
+}
 
-    .forced, .forced td {
-      background-color: yellow;
-    }
-    .ForrestTable {
-      background-color: #aaa;
-    }
+.forced, .forced td {
+  background-color: yellow;
+}
+.ForrestTable {
+  background-color: #aaa;
+}
 
-    a:hover {
-      background-color: #ddd;
-    }
+a:hover {
+  background-color: #ddd;
+}
 
 /* Gradient color1 - color2 - color1 */
 /* Taken from: http://css-tricks.com/examples/hrs/ */
