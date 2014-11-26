@@ -16,17 +16,17 @@
   limitations under the License.
 -->
 <catalogue xml:lang="no">
-  <message key="en" >Denne siden på engelsk</message>
-  <message key="es" >Denne siden på spansk</message>
-  <message key="nl" >Denne siden på nederlandsk</message>
-  <message key="de" >Denne siden på tysk</message>
-  <message key="fr" >Denne siden på fransk</message>
-  <message key="se" >Denne siden på nordsamisk</message>
-  <message key="nb" >Denne siden på bokmål</message>
-  <message key="nn" >Denne siden på nynorsk</message>
-  <message key="no" >Denne siden på norsk</message>
-  <message key="sv" >Denne siden på svensk</message>
-  <message key="fi" >Denne siden på finsk</message>
-  <message key="smj">Denne siden på lulesamisk</message>
-  <message key="sma">Denne siden på sørsamisk</message>
+  <message key="en" >Denne sida på engelsk</message>
+  <message key="es" >Denne sida på spansk</message>
+  <message key="nl" >Denne sida på nederlandsk</message>
+  <message key="de" >Denne sida på tysk</message>
+  <message key="fr" >Denne sida på fransk</message>
+  <message key="se" >Denne sida på nordsamisk</message>
+  <message key="nb" >Denne sida på bokmål</message>
+  <message key="nn" >Denne sida på nynorsk</message>
+  <message key="no" >Denne sida på norsk</message>
+  <message key="sv" >Denne sida på svensk</message>
+  <message key="fi" >Denne sida på finsk</message>
+  <message key="smj">Denne sida på lulesamisk</message>
+  <message key="sma">Denne sida på sørsamisk</message>
 </catalogue>
