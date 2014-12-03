@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
   Licensed to the Apache Software Foundation (ASF) under one or more
   contributor license agreements.  See the NOTICE file distributed with
@@ -16,20 +16,17 @@
   limitations under the License.
 -->
 <catalogue>
-  <message key="Font size:">Skriftstørrelse:</message>
+  <message key="Font size:">Baakoej stÃ¥aroe:</message>
+  <message key="Last Published:">Minngemes Ã¥ehpiedahteme:</message>
+  <message key="Search">Ohtsedh</message>
+  <message key="Search the site with google">Ohtsedh nedtesijjiem</message>
+  <message key="Search the site with lucene">Ohtsedh nedtesijjiem</message>
   <message key="Reset">Nullstill</message>
-  <message key="-a">-Á</message>
-  <message key="+a">+Á</message>
-  <message key="Reset text">Nullstill skriftstørrelsen</message>
+  <message key="-a">-Ã</message>
+  <message key="+a">+Ã</message>
+  <message key="Reset text">Nullstill skriftstÃ¸rrelsen</message>
   <message key="Shrink text">Forminsk skriften</message>
-  <message key="Enlarge text">Forstørr skriften</message>
-
-  <message key="Last Published:">Sist publisert:</message>
-
-  <message key="Search">Søk</message>
-  <message key="Search the site with google">Google-søk på sidene</message>
-  <message key="Search the site with lucene">Lucene-søk på sidene</message>
-
-  <message key="Warning">Advarsel</message>
-  <message key="Note">Merknad</message>
+  <message key="Enlarge text">ForstÃ¸rr skriften</message>
+  <message key="Warning">Geehth amma</message>
+  <message key="Note">MÃ¯erhkesjh</message>
 </catalogue>

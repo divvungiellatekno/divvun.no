@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
   Licensed to the Apache Software Foundation (ASF) under one or more
   contributor license agreements.  See the NOTICE file distributed with
@@ -18,17 +18,17 @@
 <catalogue>
   <message key="Font size:">Skriftstorlek:</message>
   <message key="Reset">Nolla</message>
-  <message key="-a">-Á</message>
-  <message key="+a">+Á</message>
+  <message key="-a">-Ã</message>
+  <message key="+a">+Ã</message>
   <message key="Reset text">Nolla skriftstorleken</message>
-  <message key="Shrink text">Gör texten mindre</message>
-  <message key="Enlarge text">Gör texten större</message>
+  <message key="Shrink text">GÃ¶r texten mindre</message>
+  <message key="Enlarge text">GÃ¶r texten stÃ¶rre</message>
 
   <message key="Last Published:">Senast publiserad:</message>
 
-  <message key="Search">Sök</message>
-  <message key="Search the site with google">Google-sök på sidorna</message>
-  <message key="Search the site with lucene">Lucene-sök på sidorna</message>
+  <message key="Search">SÃ¶k</message>
+  <message key="Search the site with google">Google-sÃ¶k pÃ¥ sidorna</message>
+  <message key="Search the site with lucene">Lucene-sÃ¶k pÃ¥ sidorna</message>
 
   <message key="Warning">Varning</message>
   <message key="Note">Notera</message>
