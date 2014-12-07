@@ -82,6 +82,8 @@
 			<program href="WorkshopProgramme.html" label="Programme"/>
 		</NorWEST2014>
 	</workshops>
+    <keyboard-privacy href="keyboards/privacy.html" label="Privacy statement on keyboard apps" tab="Ruoktu"/>
+
   </about>
 
 
