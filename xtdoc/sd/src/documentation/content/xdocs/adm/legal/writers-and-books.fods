@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2015-02-04T13:39:19.950467692</meta:creation-date><dc:date>2015-02-04T13:55:52.561430103</dc:date><meta:editing-duration>PT16M33S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:generator>LibreOffice/4.4.0.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="1494" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2015-02-04T13:39:19.950467692</meta:creation-date><dc:date>2015-02-04T14:44:30.471531679</dc:date><meta:editing-duration>PT34M59S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:generator>LibreOffice/4.4.0.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="1495" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">120140</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">124368</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">112435</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
@@ -14,7 +14,7 @@
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Sheet1">
        <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">203</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">230</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -23,7 +23,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">189</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">192</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -96,7 +96,9 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -261,7 +263,7 @@
   <office:spreadsheet>
    <table:table table:name="Sheet1" table:style-name="ta1">
     <table:table-column table:style-name="co1" table:default-cell-style-name="ce2"/>
-    <table:table-column table:style-name="co2" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="ce2"/>
     <table:table-column table:style-name="co3" table:default-cell-style-name="ce2"/>
     <table:table-column table:style-name="co4" table:default-cell-style-name="ce2"/>
     <table:table-column table:style-name="co5" table:default-cell-style-name="ce3"/>
@@ -275,6 +277,9 @@
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Title</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>Number of pages</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>ISBN</text:p>
@@ -320,6 +325,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Geografiija 8, oahppigirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-412-4</text:p>
      </table:table-cell>
@@ -356,6 +362,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Geografiija 9</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-443-4</text:p>
      </table:table-cell>
@@ -392,6 +399,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sámi historjá I</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-249-0</text:p>
      </table:table-cell>
@@ -428,6 +436,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sámi historjá II</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-262-8</text:p>
      </table:table-cell>
@@ -464,6 +473,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ávjovári - Kárášjoga historjá</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-493-0</text:p>
      </table:table-cell>
@@ -500,6 +510,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sápmelaččat – giehtagirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-175-3</text:p>
      </table:table-cell>
@@ -536,6 +547,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gielas gillii, mielas millii 1 - Sámi čállingiela historjá</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-349-7</text:p>
      </table:table-cell>
@@ -572,6 +584,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Olbmo ovdáneapmi</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-291-1</text:p>
      </table:table-cell>
@@ -591,6 +604,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Baalka</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-510-4</text:p>
      </table:table-cell>
@@ -610,6 +624,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Duodjegáldu</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-251-2</text:p>
      </table:table-cell>
@@ -629,6 +644,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sukká hávvá 5.0:Áhkku, muital munnje</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-335-7</text:p>
      </table:table-cell>
@@ -648,6 +664,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Luonddumearkkat</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-347-0</text:p>
      </table:table-cell>
@@ -667,6 +684,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sukká hávvá 6.0:Oahpaheaddjái veahkkin</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-338-1</text:p>
      </table:table-cell>
@@ -686,6 +704,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Bures, bures fas! Lohkangirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-200-8</text:p>
      </table:table-cell>
@@ -705,6 +724,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Bures, bures fas! bargogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-217-2</text:p>
      </table:table-cell>
@@ -724,6 +744,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Bures, bures fas! Jurddagirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-218-0</text:p>
      </table:table-cell>
@@ -743,6 +764,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Oaidnalit - Lohkangirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-245-8</text:p>
      </table:table-cell>
@@ -762,6 +784,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Oaidnalit -bargogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-246-6</text:p>
      </table:table-cell>
@@ -781,6 +804,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Nanne giela! Oahppiigirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-247-4</text:p>
      </table:table-cell>
@@ -800,6 +824,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Boađe mu mielde: bargogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-426-4</text:p>
      </table:table-cell>
@@ -819,6 +844,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Bures boahtin - lohkangirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-444-2</text:p>
      </table:table-cell>
@@ -838,6 +864,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Bures boahtin - bargogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-445-0</text:p>
      </table:table-cell>
@@ -857,6 +884,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Boađe mu mielde</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-495-7</text:p>
      </table:table-cell>
@@ -876,6 +904,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sárá ja su ustibat - bargogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-122-2</text:p>
      </table:table-cell>
@@ -895,6 +924,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sárá ja su ustibat - lohkangirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-121-4</text:p>
      </table:table-cell>
@@ -914,6 +944,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ruksesgahpir ja Gumpe</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-407-8</text:p>
      </table:table-cell>
@@ -935,6 +966,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Rødhette</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-508-2</text:p>
      </table:table-cell>
@@ -954,6 +986,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ájjánieidda ja gálggonieida/Manndattera og kjerringdattera</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-551-1</text:p>
      </table:table-cell>
@@ -975,6 +1008,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Medisinsk lommeparlør</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-388-8</text:p>
      </table:table-cell>
@@ -994,6 +1028,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Silbasuonat</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-418-3</text:p>
      </table:table-cell>
@@ -1013,6 +1048,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Joatkke ain</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-613-5</text:p>
      </table:table-cell>
@@ -1032,6 +1068,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Åarjel-saemien 3</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-285-7</text:p>
      </table:table-cell>
@@ -1054,6 +1091,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Åarjel-saemien 4</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-286-5</text:p>
      </table:table-cell>
@@ -1076,6 +1114,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Åarjel-saemien 5</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-366-7</text:p>
      </table:table-cell>
@@ -1098,6 +1137,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Åarjel-saemien 1</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-136-2</text:p>
      </table:table-cell>
@@ -1120,6 +1160,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Dejpeladtje muvhth vätnoeh jih vuekieh</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>91-973-815-1-9</text:p>
      </table:table-cell>
@@ -1142,6 +1183,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Dovdda čuođi diidda</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-570-8</text:p>
      </table:table-cell>
@@ -1161,6 +1203,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Geavat giela ja gáhtte dan - oahppogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-344-6</text:p>
      </table:table-cell>
@@ -1180,6 +1223,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Geavat giela ja gáhtte dan - Bargogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-362-4</text:p>
      </table:table-cell>
@@ -1199,6 +1243,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Geavat giela ja gáhtte dan - Rávagirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-363-2</text:p>
      </table:table-cell>
@@ -1218,6 +1263,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Áddjá ja mánat - ohppiidgirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-472-8</text:p>
      </table:table-cell>
@@ -1237,6 +1283,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Dat viđas - Ohpiidgirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-473-6</text:p>
      </table:table-cell>
@@ -1256,6 +1303,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Dat viđas - Bargogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-475-2</text:p>
      </table:table-cell>
@@ -1275,6 +1323,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Áddjá ja mánát - Bargogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-474-4</text:p>
      </table:table-cell>
@@ -1294,6 +1343,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Verddežat</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-394-2</text:p>
      </table:table-cell>
@@ -1313,6 +1363,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gielas gillii, mielas millii 7 - Sánit teakstan - Cealkaoahppa ja giellagáhtten</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-358-6</text:p>
      </table:table-cell>
@@ -1332,6 +1383,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Lottit luonddus</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-348-9</text:p>
      </table:table-cell>
@@ -1351,6 +1403,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Filmma ja televišuvnna muitalanteknihkka ja dramaturgiija</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-511-2</text:p>
      </table:table-cell>
@@ -1372,6 +1425,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Riegádan gándan – Riegádan nieidan</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-441-8</text:p>
      </table:table-cell>
@@ -1391,6 +1445,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Servodatoahppu 8</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-360-8</text:p>
      </table:table-cell>
@@ -1413,6 +1468,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Servodatoahppu 9 oahppigirj</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-435-3</text:p>
      </table:table-cell>
@@ -1435,6 +1491,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Servodatoahppu 8 ja 9</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-453-1</text:p>
      </table:table-cell>
@@ -1457,6 +1514,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sukká hávvá 7.0 - Vulgot stoahkat!</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-337-3</text:p>
      </table:table-cell>
@@ -1476,6 +1534,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Vulgot meahccái</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-590-2</text:p>
      </table:table-cell>
@@ -1495,6 +1554,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Rittus áhpái</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-494-9</text:p>
      </table:table-cell>
@@ -1514,6 +1574,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gielas gillii, mielas millii 8 - Čálagovat - Sámi girjjálašvuođahistorjá</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-352-7</text:p>
      </table:table-cell>
@@ -1533,6 +1594,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gielas gillii, mielas millii 2 - Skriftbilder- Samisk litteraturhistorie</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-353-5</text:p>
      </table:table-cell>
@@ -1552,6 +1614,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Min njálmmálaš árbevierru</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-436-1</text:p>
      </table:table-cell>
@@ -1571,6 +1634,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Searvva fal!</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-509-0</text:p>
      </table:table-cell>
@@ -1590,6 +1654,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Šáike Šuvon 2 - rávagirji oahpaheaddjái</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-392-6</text:p>
      </table:table-cell>
@@ -1609,6 +1674,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Šáike Šuvon 3 - rávagirji oahpaheaddjái</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-428-0</text:p>
      </table:table-cell>
@@ -1628,6 +1694,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Šáike Šuvon 3</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-429-9</text:p>
      </table:table-cell>
@@ -1647,6 +1714,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Šáike Šuvon 4 - rávagirji oahpaheaddjái</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-438-8</text:p>
      </table:table-cell>
@@ -1666,6 +1734,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Šáike Šuvon 4 - Ohppiidgirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-462-0</text:p>
      </table:table-cell>
@@ -1685,6 +1754,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Divššodettiin sámástit</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-166-4</text:p>
      </table:table-cell>
@@ -1704,6 +1774,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sáni sadji 5 - oahppiidgirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-399-3</text:p>
      </table:table-cell>
@@ -1723,6 +1794,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sáni sadji 5 - rávagirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-400-0</text:p>
      </table:table-cell>
@@ -1742,6 +1814,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Dápmot</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-427-2</text:p>
      </table:table-cell>
@@ -1761,6 +1834,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Guovdageaingákti</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-529-1406-3</text:p>
      </table:table-cell>
@@ -1780,6 +1854,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Jåvvå-viellja - Mannulahka Ukrainaj</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-144-3</text:p>
      </table:table-cell>
@@ -1799,6 +1874,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Jåvvå-viellja - Reisen til Ukraina</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-585-6</text:p>
      </table:table-cell>
@@ -1820,6 +1896,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ruoktumet</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-302-0</text:p>
      </table:table-cell>
@@ -1839,6 +1916,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Abráhám–Jesus - Oahppogirji 2.luohkkái</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-281-4</text:p>
      </table:table-cell>
@@ -1858,6 +1936,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ovcci vuomi njolgá</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-567-8</text:p>
      </table:table-cell>
@@ -1877,6 +1956,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Abráhám–Jesus - Oahppijgirjje 2. jahkáj</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-282-2</text:p>
      </table:table-cell>
@@ -1896,6 +1976,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Abráhám–Jesus - Rávagirji 2. luohkkái</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-296-2</text:p>
      </table:table-cell>
@@ -1915,6 +1996,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Áibmolaččat bohtet -</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-451-5</text:p>
      </table:table-cell>
@@ -1934,6 +2016,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Lávllu juoigga čáli</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-461-2</text:p>
      </table:table-cell>
@@ -1953,6 +2036,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Væssj-Bualehke</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-172-9</text:p>
      </table:table-cell>
@@ -1980,6 +2064,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Fastteshurvi</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-168-0</text:p>
      </table:table-cell>
@@ -1999,6 +2084,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Fastteshurvi</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-547-3</text:p>
      </table:table-cell>
@@ -2018,6 +2104,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ginna lohkangiri</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-470-1</text:p>
      </table:table-cell>
@@ -2054,6 +2141,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ginna bargogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-490-6</text:p>
      </table:table-cell>
@@ -2090,6 +2178,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Galka bargogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-512-0</text:p>
      </table:table-cell>
@@ -2126,6 +2215,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Galka lohkangirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-513-9</text:p>
      </table:table-cell>
@@ -2162,6 +2252,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Borta lohkangirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-531-7</text:p>
      </table:table-cell>
@@ -2198,6 +2289,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Borta bargogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-532-5</text:p>
      </table:table-cell>
@@ -2234,6 +2326,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Snorra lohkangirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-540-6</text:p>
      </table:table-cell>
@@ -2270,6 +2363,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Snorra bargogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-541-4</text:p>
      </table:table-cell>
@@ -2306,6 +2400,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Med godstog over vidda 1945-75</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-581-3</text:p>
      </table:table-cell>
@@ -2325,6 +2420,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Jogašgátti nieiddat</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-459-0</text:p>
      </table:table-cell>
@@ -2344,6 +2440,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Nanne giela! - Bargogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-248-2</text:p>
      </table:table-cell>
@@ -2363,6 +2460,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Byttingene / Lonuhusatgánddaguovttos</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-479-5</text:p>
      </table:table-cell>
@@ -2384,6 +2482,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Giella Sámis II - Oahppogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-022-6</text:p>
      </table:table-cell>
@@ -2423,6 +2522,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Giella Sámis III - Oahppogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-228-8</text:p>
      </table:table-cell>
@@ -2462,6 +2562,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Giella Sámis III - bargogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-026-9</text:p>
      </table:table-cell>
@@ -2501,6 +2602,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Giella Sámis II - bargogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-023-4</text:p>
      </table:table-cell>
@@ -2540,6 +2642,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Soahti Billávuonas</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-520-1</text:p>
      </table:table-cell>
@@ -2559,6 +2662,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Čomisteaddjit</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-619-4</text:p>
      </table:table-cell>
@@ -2578,6 +2682,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sáni sadji 7 oahppigirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-465-5</text:p>
      </table:table-cell>
@@ -2597,6 +2702,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sáni sadji 7 oahpaheaddji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-466-3</text:p>
      </table:table-cell>
@@ -2616,6 +2722,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sáni sadji 6 oahpaheaddji rávagirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-478-7</text:p>
      </table:table-cell>
@@ -2635,6 +2742,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sáni sadji 6 - oahppigirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-432-9</text:p>
      </table:table-cell>
@@ -2654,6 +2762,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Govvamuitalusat</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-087-0</text:p>
      </table:table-cell>
@@ -2673,6 +2782,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Hárjehusat III - čovddagirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-256-3</text:p>
      </table:table-cell>
@@ -2692,6 +2802,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Geahččaleamit - Hárjehusat II</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-179-6</text:p>
      </table:table-cell>
@@ -2711,6 +2822,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Geahččalemiid čovdosat -hárjehusat II</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-181-8</text:p>
      </table:table-cell>
@@ -2730,6 +2842,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Fáddágirji 1a</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-448-5</text:p>
      </table:table-cell>
@@ -2749,6 +2862,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Fáddágirji 1á</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-449-3</text:p>
      </table:table-cell>
@@ -2768,6 +2882,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Fáddágirji 6</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-240-7</text:p>
      </table:table-cell>
@@ -2787,6 +2902,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Hárjehusat II - čovddagirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-417-5</text:p>
      </table:table-cell>
@@ -2806,6 +2922,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Geahččalemiid čovdosat -hárjehusat III</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-259-8</text:p>
      </table:table-cell>
@@ -2825,6 +2942,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Fáddágirji 8</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-242-3</text:p>
      </table:table-cell>
@@ -2844,6 +2962,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Geahččaleamit - Hárjehusat 1</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-184-2</text:p>
      </table:table-cell>
@@ -2863,6 +2982,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Giellaoahpu váldogirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-506-6</text:p>
      </table:table-cell>
@@ -2882,6 +3002,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Geahččalemiid čovdosat -hárjehusat I</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-185-0</text:p>
      </table:table-cell>
@@ -2901,6 +3022,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Fáddágirji 3</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-408-6</text:p>
      </table:table-cell>
@@ -2920,6 +3042,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Fáddágirji 5</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-409-4</text:p>
      </table:table-cell>
@@ -2939,6 +3062,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Hárjehusat III</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-191-5</text:p>
      </table:table-cell>
@@ -2958,6 +3082,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Fáddágirji 9</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-410-8</text:p>
      </table:table-cell>
@@ -2977,6 +3102,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Hárjehusat I</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-414-0</text:p>
      </table:table-cell>
@@ -2996,6 +3122,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Hárjehusat I - čovddagirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-415-9</text:p>
      </table:table-cell>
@@ -3015,6 +3142,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Geahččaleamit - Hárjehusat III</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-257-1</text:p>
      </table:table-cell>
@@ -3034,6 +3162,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Fáddágirji 10</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-169-9</text:p>
      </table:table-cell>
@@ -3053,6 +3182,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Giellaoahpu váldogirji - Fasihtta</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-568-6</text:p>
      </table:table-cell>
@@ -3072,6 +3202,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Hárjehusat II</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-416-7</text:p>
      </table:table-cell>
@@ -3091,6 +3222,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Oahpaheaddjibagadus</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-238-5</text:p>
      </table:table-cell>
@@ -3110,6 +3242,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Fiervái</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-389-6</text:p>
      </table:table-cell>
@@ -3129,6 +3262,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Suoláduvvan</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-486-8</text:p>
      </table:table-cell>
@@ -3148,6 +3282,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Stjålet</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-536-8</text:p>
      </table:table-cell>
@@ -3169,6 +3304,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Mearraguollebivdu</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-422-1</text:p>
      </table:table-cell>
@@ -3188,6 +3324,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sáhkkeheapmi</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-514-7</text:p>
      </table:table-cell>
@@ -3209,6 +3346,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Mearragáttis duoddarii - sámi borramuš institušuvnnas</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-582-1</text:p>
      </table:table-cell>
@@ -3228,6 +3366,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Girjjo gárjjo</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-434-5</text:p>
      </table:table-cell>
@@ -3247,6 +3386,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gealdde gieđaid girdit</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-484-1</text:p>
      </table:table-cell>
@@ -3266,6 +3406,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sámiid historjá 1850 rádjái</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-243-1</text:p>
      </table:table-cell>
@@ -3285,6 +3426,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Jámešgušbákti ja Jiehtanas</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-411-6</text:p>
      </table:table-cell>
@@ -3304,6 +3446,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sukká hávvá 8.O:Boahttet duddjot!</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-202-4</text:p>
      </table:table-cell>
@@ -3323,6 +3466,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Media-nuoraidskuvlii</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-442-6</text:p>
      </table:table-cell>
@@ -3342,6 +3486,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gielas gillii, mielas millii 6 - Mediagirji</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-355-1</text:p>
      </table:table-cell>
@@ -3361,6 +3506,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Luondduipmašat</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-560-0</text:p>
      </table:table-cell>
@@ -3380,6 +3526,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gielas gillii, mielas millii 9 - Davvisámegiela suopmanat</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-439-6</text:p>
      </table:table-cell>
@@ -3399,6 +3546,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Soigosiid sáhttu</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-433-7</text:p>
      </table:table-cell>
@@ -3418,6 +3566,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Reinen - et gode fra vinden</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-503-1</text:p>
      </table:table-cell>
@@ -3437,6 +3586,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Boazu lea biekka buorri</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-502-3</text:p>
      </table:table-cell>
@@ -3456,6 +3606,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Fáddágirji 2</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-255-5</text:p>
      </table:table-cell>
@@ -3475,6 +3626,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Fáddágirji 4</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-239-3</text:p>
      </table:table-cell>
@@ -3494,6 +3646,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnigiella - Fáddágirji 7</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-241-5</text:p>
      </table:table-cell>
@@ -3513,6 +3666,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Árvádusat</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-644-5</text:p>
      </table:table-cell>
@@ -3532,6 +3686,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Čuohtelogu ráhkesvuođacuvccas</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-526-0</text:p>
      </table:table-cell>
@@ -3553,6 +3708,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Skálveáddjá / Driftman</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-516-3</text:p>
      </table:table-cell>
@@ -3574,6 +3730,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Boaldimis báhtui</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-340-3</text:p>
      </table:table-cell>
@@ -3593,6 +3750,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Movt áigi lea rievdan</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-550-3</text:p>
      </table:table-cell>
@@ -3612,6 +3770,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Dá lea Sámi Radio</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-548-1</text:p>
      </table:table-cell>
@@ -3633,6 +3792,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Láidehus sámegiela cealkkaoahpu dutkamii</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-625-9</text:p>
      </table:table-cell>
@@ -3652,6 +3812,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gielas gillii, mielas millii 5 - Hála ja čále ná- Njálmmáláš ja čálalaš giellageavaheapmi</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-350-0</text:p>
      </table:table-cell>
@@ -3671,6 +3832,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Vuoi dan Kárenina</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-458-2</text:p>
      </table:table-cell>
@@ -3690,6 +3852,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Árbeeadni</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-318-7</text:p>
      </table:table-cell>
@@ -3709,6 +3872,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Biejjien baernie</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-539-2</text:p>
      </table:table-cell>
@@ -3728,6 +3892,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gal rieban guođđá suvlli eahkedii</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-272-5</text:p>
      </table:table-cell>
@@ -3747,6 +3912,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Mii leat ain dás</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-250-4</text:p>
      </table:table-cell>
@@ -3781,6 +3947,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Mátta-Várjjat sámit</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-384-5</text:p>
      </table:table-cell>
@@ -3800,6 +3967,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Biehtár ja Duommá háhkábivdon</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-467-1</text:p>
      </table:table-cell>
@@ -3819,6 +3987,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Biehtár ja Duommá jávren stulliba</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-421-3</text:p>
      </table:table-cell>
@@ -3838,6 +4007,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Šattut Sámis</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-145-1</text:p>
      </table:table-cell>
@@ -3857,6 +4027,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Njálaid guossit</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-529-5</text:p>
      </table:table-cell>
@@ -3876,6 +4047,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Boahtá gus ruohtta-áddjá dán jage?</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-361-6</text:p>
      </table:table-cell>
@@ -3895,6 +4067,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Mæhttsáj láhppum</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-528-7</text:p>
      </table:table-cell>
@@ -3916,6 +4089,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gielas gillii, mielas millii 3 - Sámi guovttegielatvuohta</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-357-8</text:p>
      </table:table-cell>
@@ -3935,6 +4109,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gïele lea faamoe</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>978-82-7374-571-2</text:p>
      </table:table-cell>
@@ -3962,6 +4137,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Saajve-Læjsa</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-214-8</text:p>
      </table:table-cell>
@@ -3989,6 +4165,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Naestietjoevkesne</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-993254-1-2</text:p>
      </table:table-cell>
@@ -4028,6 +4205,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Mojnestimmieh</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-91047-50-2</text:p>
      </table:table-cell>
@@ -4053,6 +4231,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Universitetese?</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:style-name="ce3"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Universitetet i Tromsø</text:p>
@@ -4076,6 +4255,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Goltelidh ja sopstestidh</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-91000-01-8</text:p>
      </table:table-cell>
@@ -4115,6 +4295,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Don jih dan bijre I</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-91000-02-6</text:p>
      </table:table-cell>
@@ -4154,6 +4335,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Don jih dan bijre II</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-91000-03-4</text:p>
      </table:table-cell>
@@ -4193,6 +4375,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Don jih dan bijre III</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-91000-04-2</text:p>
      </table:table-cell>
@@ -4232,6 +4415,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Mojhtesh</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:style-name="ce3"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Mosjøen videregående skole</text:p>
@@ -4266,6 +4450,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Duedtie Novrlaantesne</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:style-name="ce3"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Nordland fylkeskommune</text:p>
@@ -4292,6 +4477,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gullie-tjååtsele</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-00-06356-9</text:p>
      </table:table-cell>
@@ -4323,6 +4509,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Jupmelen rijhke lea gietskesne - Markosen veantjele</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-541-0388-7</text:p>
      </table:table-cell>
@@ -4352,6 +4539,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Luste lohkedh</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-91047-44-8</text:p>
      </table:table-cell>
@@ -4380,6 +4568,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gåessie dah jeatjebh åerieminie: naemhtie sopstesovvin Jïnjevaereste</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>91-88238-75-X</text:p>
      </table:table-cell>
@@ -4407,6 +4596,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Bovtsen guelmieh</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-993254-0-4</text:p>
      </table:table-cell>
@@ -4443,6 +4633,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sanna, saemien-niejte Johkemehkeste</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>978-91-85717-05-7</text:p>
      </table:table-cell>
@@ -4482,6 +4673,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ovmese vaajesh</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>91-7716-095-9</text:p>
      </table:table-cell>
@@ -4521,6 +4713,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Deblie</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-91047-85-5</text:p>
      </table:table-cell>
@@ -4552,6 +4745,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gaahtoen tjovketje</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7954-012-1</text:p>
      </table:table-cell>
@@ -4583,6 +4777,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Guffa</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7954-016-4</text:p>
      </table:table-cell>
@@ -4614,6 +4809,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Laadtege-sualadæjja</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-91047-98-7</text:p>
      </table:table-cell>
@@ -4645,6 +4841,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gåaltoe</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-521-4955-3</text:p>
      </table:table-cell>
@@ -4676,6 +4873,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Miehtjiesdajven baernie</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-521-4954-5</text:p>
      </table:table-cell>
@@ -4707,6 +4905,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Njieljie åålmeg-heamturh</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7106-803-2</text:p>
      </table:table-cell>
@@ -4737,6 +4936,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Lopmegaahtoe</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7954-041-5</text:p>
      </table:table-cell>
@@ -4767,6 +4967,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Peanna</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7954-022-9</text:p>
      </table:table-cell>
@@ -4797,6 +4998,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gapta/gåptoe arepie-guedtijinie</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-524-4</text:p>
      </table:table-cell>
@@ -4828,6 +5030,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Maadtoe/Laahkoe</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-524-4</text:p>
      </table:table-cell>
@@ -4859,6 +5062,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eahperestujme</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-196-6</text:p>
      </table:table-cell>
@@ -4890,6 +5094,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Bibeltekster</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Unpublish texts</text:p>
      </table:table-cell>
@@ -4912,6 +5117,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Vadtese-Saernie Kristusen bijre</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>978-82-7601-165-4</text:p>
      </table:table-cell>
@@ -4934,6 +5140,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Åarjel-saemien 1, Barkoegærja</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ISBN 82-91047-36-7</text:p>
      </table:table-cell>
@@ -4959,6 +5166,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Åarjel-saemien 2, Barkoegærja&quot;</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-91047-39-1</text:p>
      </table:table-cell>
@@ -4984,6 +5192,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Åarjel-saemien 3, Barkoegærja&quot;</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-91047-54-5</text:p>
      </table:table-cell>
@@ -5009,6 +5218,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Åarjel-saemien 4, Barkoegærja</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>??</text:p>
      </table:table-cell>
@@ -5034,6 +5244,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Åarjel-saemien 5, Barkoegærja</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ISBN 82-91047-78-2</text:p>
      </table:table-cell>
@@ -5059,6 +5270,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Åarjel-saemien 6</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7601-045-8</text:p>
      </table:table-cell>
@@ -5084,6 +5296,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Åarjel-saemien 1,lohkeme-gærja</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>??</text:p>
      </table:table-cell>
@@ -5109,6 +5322,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Åarjel-saemien 2,lohkeme-gærja</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>??</text:p>
      </table:table-cell>
@@ -5134,6 +5348,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Åarjel-saemien 3, lohkeme-gærja</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>??</text:p>
      </table:table-cell>
@@ -5159,6 +5374,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Åarjel-saemien 4, Lohkemegærja</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>??</text:p>
      </table:table-cell>
@@ -5184,6 +5400,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Åarjel-saemien 5, Lohkemegærja</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>??</text:p>
      </table:table-cell>
@@ -5209,6 +5426,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Lohkede saemien</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-00-09356-5</text:p>
      </table:table-cell>
@@ -5234,6 +5452,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Dejpeladtje muvhth vätnoeh jih vuekieh</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>91-973815-1-9</text:p>
      </table:table-cell>
@@ -5262,6 +5481,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Jielije saeemien 1</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-91047-29-4</text:p>
      </table:table-cell>
@@ -5287,6 +5507,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Jielije saemien 2</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-91047-45-6</text:p>
      </table:table-cell>
@@ -5312,6 +5533,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>laavlomh maanide</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7601-038-5</text:p>
      </table:table-cell>
@@ -5337,6 +5559,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Jåvle-laavlomh</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>?</text:p>
      </table:table-cell>
@@ -5359,6 +5582,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Staaloeh vienhtieh aske lea dålle</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ISBN 82-02-21156-5</text:p>
      </table:table-cell>
@@ -5386,6 +5610,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Mejtie sån jåvle-aajja daan jaepien båata?</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-379-9</text:p>
      </table:table-cell>
@@ -5413,6 +5638,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Aesuvpen soptsesh</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7601-106-3</text:p>
      </table:table-cell>
@@ -5440,6 +5666,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Åarjel-saemien 5 b, baakoe-lista, Aalfabeten mietie</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>??</text:p>
      </table:table-cell>
@@ -5462,6 +5689,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Laahkoeh/maadtoeh</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-7374-524-4</text:p>
      </table:table-cell>
@@ -5487,6 +5715,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Laahkoeh</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="http://www.nb.no/utlevering/contentview.jsf?&amp;&amp;urn=URN:NBN:no-nb_digibok_2008022704013" xlink:type="simple">82-90537-36-0</text:a></text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -5515,6 +5744,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Arvut (Aarvoeh?)</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:style-name="ce3" table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Tom Kappfjell</text:p>
@@ -5539,6 +5769,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sïlpegaaltije</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>91 7716 088 6</text:p>
      </table:table-cell>
@@ -5564,6 +5795,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gïele lea faamoe</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:style-name="ce3" table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Nora Marie Bransfjell</text:p>
@@ -5581,6 +5813,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Mojnestimmieh</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>82-91047-50-2</text:p>
      </table:table-cell>
@@ -5605,6 +5838,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Væssj-bualehke</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:style-name="ce3" table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Nora Marie Bransfjell</text:p>
@@ -5622,7 +5856,7 @@
      <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce3" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce3" table:number-columns-repeated="5"/>
      <table:table-cell/>
      <table:table-cell table:style-name="ce3"/>
      <table:table-cell table:number-columns-repeated="8"/>
