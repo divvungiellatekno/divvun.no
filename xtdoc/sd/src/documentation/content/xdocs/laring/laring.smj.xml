@@ -3,27 +3,25 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
-        <title>Språklæring</title>
+        <title>Giellaoahppam</title>
     </header>
     <body>
         <section>
             <title>Gïelese</title>
-            <p>Dette er et sørsamisk læreprogram utviklet i samarbeid mellom <a href="/index.html">Divvun</a> og <a href="http://aajege.no">Aajege</a></p>
+            <p>Dát la oarjjelsáme oahppamprográmma majt <a href="/index.html">Divvun</a> aktan <a href="http://aajege.no">Aajege</a>le åvddånahttám</p>
             <ul>
-                <li><a href="http://gielese.no/play/">Nettprogram</a></li>
-                <li><a href="https://play.google.com/store/apps/details?id=com.phonegap.gielese">App for Android</a></li>
-                <li><a href="https://itunes.apple.com/us/app/gielese/id945846042?mt=8">App for iPhone/iPad</a></li>
+                <li><a href="http://gielese.no/play/">Næhttaæhppa</a></li>
+                <li><a href="https://play.google.com/store/apps/details?id=com.phonegap.gielese">Æhppa Androidaj</a></li>
+                <li><a href="https://itunes.apple.com/us/app/gielese/id945846042?mt=8">Æhppa iPhone/iPadaj</a></li>
             </ul>
         </section>
         <section>
             <title>Oahpa!</title>
-            <p><a href="http://oahpa.no/">Oahpa!</a> er et interaktivt
-            språklæringsprogram utviklet av Giellatekno-gruppa, og som bygger
-            på språkteknologien utviklet av
-            <a href="/index.html">Divvun</a> og
-            <a href="http://giellatekno.uit.no">Giellatekno</a>.</p>
+            <p><a href="http://oahpa.no/">Oahpa!</a> le interaktijvalasj giellaoahppamprográmma majt Giellatekno-juogos le buvtadam, ja vuodon dasi le  giellateknologijja åvddånahteduvvam 
+            <a href="/index.html">Divvunis</a> ja
+            <a href="http://giellatekno.uit.no">Giellateknos</a>.</p>
             <ul>
-                <li><a href="http://oahpa.no/">Startside for alle språk</a></li>
+                <li><a href="http://oahpa.no/">Álggobielle divna gielajda</a></li>
                 <li>Direkte til <a href="http://oahpa.no/davvi/" >nordsamisk   Oahpa!</a></li>
                 <li>Direkte til <a href="http://oahpa.no/aarjel/">sørsamisk    Oahpa!</a></li>
                 <li>Direkte til <a href="http://oahpa.no/kiilt/" >kildinsamisk Oahpa!</a></li>
