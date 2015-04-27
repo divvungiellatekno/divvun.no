@@ -1,59 +1,60 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <document>
     <header>
-        <title>Installering på iOS (iPhone / iPad / iPod)</title>
+        <title>Installation on iOS (iPhone / iPad / iPod)</title>
     </header>
     <body>
-        <p>Etter å ha lastet ned appen fra App Store, kan det se omtrent slik ut:
+        <p>After downloading the app from the App Store, your homle screen could
+            look like this:
         </p>
 
         <p>
-            <img width="213" src="images/ios_keyboard_home_screen.no.png" alt="Hjemmeskjerm med Samiske tastaturer"/>
+            <img width="213" src="images/ios_keyboard_home_screen.no.png" alt="Home screen with Sami Keyboards"/>
         </p>
-        <p>Åpne appen:</p>
+        <p>Open the app:</p>
         <p>
-            <img width="213" src="images/ios_sami_keyboards_app.no.png" alt="images/ios_sami_keyboards_app.no.png"/>
+            <img width="213" src="images/ios_sami_keyboards_app.no.png" alt="The app page."/>
         </p>
-        <p>Klikk på lenka «Åpne Innstillinger»</p>
-        <p>Gå til
+        <p>Press the link «Open Preferences»</p>
+        <p>Select
 <strong>
-«Generelt &gt; Tastatur &gt; Tastaturer &gt; Legg til nytt tastatur..»
+«General &gt; Keyboard &gt; Keyboards &gt; Add new keyboard...»
 </strong>
         </p>
 
         <p>
-            <img width="213" src="images/ios_general.no.png" alt="images/ios_general.no.png"/>
-            <img width="213" src="images/ios_keyboard.no.png" alt="images/ios_keyboard.no.png"/>
-            <img width="213" src="images/ios_keyboards.no.png" alt="images/ios_keyboards.no.png"/>
-            <img width="213" src="images/ios_add_new_keyboard.no.png" alt="images/ios_add_new_keyboard.no.png"/>
+            <img width="213" src="images/ios_general.no.png"          alt="Select General"/>
+            <img width="213" src="images/ios_keyboard.no.png"         alt="Select Keyboard"/>
+            <img width="213" src="images/ios_keyboards.no.png"        alt="Select Keyboards"/>
+            <img width="213" src="images/ios_add_new_keyboard.no.png" alt="Select Add new keyboard..."/>
         </p>
 
-        <p>Under teksten «Tredjepartstastaturer» velg «Samiske tastaturer»:</p>
+        <p>Under the text «Third party keyboards» choose «Sami keyboards»:</p>
 
         <p>
-            <img width="213" src="images/ios_select_sami_keyboards.no.png" alt="images/ios_select_sami_keyboards.no.png"/>
+            <img width="213" src="images/ios_select_sami_keyboards.no.png" alt="Select Sami Keyboards"/>
         </p>
-        <p>Slå på de tastaturene du er interessert i å bruke:</p>
+        <p>Enable the keyboards you want to use:</p>
         <p>
-            <img width="213" src="images/ios_enable_keyboards.no.png" alt="images/ios_enable_keyboards.no.png"/>
+            <img width="213" src="images/ios_enable_keyboards.no.png" alt="Enable keyboards"/>
         </p>
-        <p>Installasjonen er ferdig!</p>
+        <p>The installation is done!</p>
 
-        <p>For å bytte til et samisk tastatur når du skriver, trykk og hold på globustasten til
-            venstre for mellomromstasten:</p>
+        <p>To switch to a Sami keyboards, touch and hold the globe key to the
+            left of the space key:</p>
         <p>
-            <img width="213" src="images/ios_select_active_keyboard.no.png" alt="images/ios_select_active_keyboard.no.png"/>
+            <img width="213" src="images/ios_select_active_keyboard.no.png" alt="Keyboard selection menu"/>
         </p>
 
-        <p>Alternativt kan du bare trykke noen ganger på globustasten til du får
-        det tastaturet du vil ha.</p>
+        <p>You may also just touch the globe key repeated times till you get th
+            keyboard you want.</p>
 
-        <p>Merk at trykk-og-hold ikke fungerer når ett av de samiske tastaturene
-        er aktive. Dette er en <link
+        <p>Please note that touch-and-hold does not work when one of the Sami
+            keyboards is active. This is a <link
         href="https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html"
-        >begrensing fra Apple</link> («there is no API to obtain a list of
+        >limitation by Apple</link> («there is no API to obtain a list of
         enabled keyboards or for picking a particular keyboard to switch to»),
-        og gjelder alle tredjepartstastaturer.</p>
+        and concerns all third party keyboards.</p>
 
     </body>
 </document>
