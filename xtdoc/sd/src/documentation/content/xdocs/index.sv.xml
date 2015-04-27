@@ -7,15 +7,29 @@
         <meta name="description">samisk rättstavning</meta>
     </header>
     <body>
-        <p>
+      <div class="col-sm-12">
+        <p class="col-sm-4">
             Vi har <a href="keyboards/index.html">samiska tangentbord</a>
-            för nord-, lule-, syd-, pite-, enare- och skoltsamiska för både
+            för nord‑, lule‑, syd‑, pite‑, enare‑ och skoltsamiska för både
             <img src="/images/android.png" alt="android"/> och <img src="/images/ios8.png" alt="iOS 8"/>
         </p>
-        <p>Vi har <a href="laring/laring.html">språkinlärningsappar</a> för <img src="/images/android.png" alt="android"/> och <img src="/images/ios.png" alt="iOS"/> och som webappar</p>
-        <p>Vi har <a href="korrektur/korrektur.html">rättstavning</a> för <img alt="Windows" src="/images/windows_small.png"/>,  <img alt="OS X" src="/images/osx.png"/> och <img alt="Linux" src="/images/linux_small.png"/></p>
-        <p>Vi har <a href="ordboker/ordboker.html">ordböcker</a>; både webbaserade och nerladdningsbara.</p>
-        <p>Vi har verktyg för <a href="oversettelse/oversettelse.html">översättning</a></p>
-        <p>Nordsamisk <a href="tale/tale.html">talsyntes</a> är på kommande</p>
+        <p class="col-sm-4">
+            Vi har <a href="laring/laring.html">språkinlärningsappar</a> för <img src="/images/android.png" alt="android"/> och <img src="/images/ios.png" alt="iOS"/> och som webappar
+        </p>
+        <p class="col-sm-4">
+            Vi har <a href="korrektur/korrektur.html">rättstavning</a> för <img alt="Windows" src="/images/windows_small.png"/>,  <img alt="OS X" src="/images/osx.png"/> och <img alt="Linux" src="/images/linux_small.png"/>
+        </p>
+      </div>
+      <div class="col-sm-12">
+        <p class="col-sm-4">
+            Vi har <a href="ordboker/ordboker.html">ordböcker</a>, både webbaserade och nerladdningsbara.
+        </p>
+        <p class="col-sm-4">
+            Vi har verktyg för <a href="oversettelse/oversettelse.html">översättning</a>
+        </p>
+        <p class="col-sm-4">
+            Nordsamisk <a href="tale/tale.html">talsyntes</a> är på kommande
+        </p>
+      </div>
     </body>
 </document>
