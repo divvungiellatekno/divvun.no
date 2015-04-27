@@ -75,7 +75,7 @@
         <satni label="Sátni•báhko•baakoe support" href="satni/support.html"/>
         <timetable description="Prošeavtta plánat" href="timetable.html" label="Prošeavtta plánat" />
         <spelling description="Mo reaiddut ráhkaduvvot" href="howmake.html" label="Mo reaiddut ráhkaduvvojit" />
-        <downloads description="Download files from divvun.no" href="downloads.html" label="Downloads" />
+        <downloads description="Download files from divvun.no" href="korrektur/downloads.html" label="Downloads" />
         <download_log description="Download log for the Divvun tools" href="Download_log.html" label="Download log" />
         <satni_log description="Visitor log for satni.org" href="satni.html" label="Visit log for satni.org" />
         <pr href="pr/" label="Preassadieđáhusat">
