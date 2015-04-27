@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="en">
+<document xml:lang="no">
     <header>
-        <title>Divvun - oversettelse</title>
+        <title>Divvun - språklæring</title>
     </header>
     <body>
-        <p>Oversettelse</p>
+        <section>
+            <title>Gïelese</title>
+            <p>Dette er et sørsamisk læreprogram utviklet i samarbeid mellom <a href="/index.html">Divvun</a> og <a href="http://aajege.no">Aajege</a></p>
+            <ul>
+                <li><a href="http://gielese.no/play/">Nettprogram</a></li>
+                <li><a href="https://play.google.com/store/apps/details?id=com.phonegap.gielese">App for Android</a></li>
+            </ul>
+        </section>
+        <section>
+            <title>Oahpa!</title>
+            <p>Oahpa! er et interaktivt språklæringsprogram som bygger på teknologien som <a href="/index.html">Divvun</a> og <a href="http://giellatekno.uit.no">Giellatekno</a> har utviklet.</p>
+            <ul>
+                <li>For <a href="http://oahpa.no/davvi/">nordsamisk</a></li>
+                <li>For <a href="http://oahpa.no/aarjel/">sørsamisk</a></li>
+                <li>For <a href="http://oahpa.no/kiilt/">kildinsamisk</a></li>
+                <li>For <a href="http://oahpa.no/nuorti/">skoltesamisk</a></li>
+                <li>For <a href="http://oahpa.no/aanaar/">enaresamisk</a></li>
+                </ul>
+        </section>
    </body>
 </document>
