@@ -152,7 +152,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                         </nav>
                         <xsl:comment>end Tabs</xsl:comment>
 
-                        <xsl:if test="div/@id='level2tabs'">
+                        <xsl:if test="div[@id='level2tabs']/ul/*">
                         <xsl:comment>start Subtabs</xsl:comment>
                         <div id="level2tabs">
                             <nav  class="navbar navbar-default" role="navigation" id="submenu">
