@@ -6,6 +6,53 @@
         <title>Divvun - tastatur</title>
     </header>
     <body>
-        <p>Divvun har laget mobil- og datamaskintastaturer for samiske språk. Versjoner kan lastes ned for <a href="#">Android</a> og <a href="#">iOS</a> (dvs. iPhone og iPad</p>
+        <h1>Tastaturer</h1>
+
+<!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
+
+        <p>Divvun har laget apper med mobiltastaturer for nord-, lule-, sør-,
+            pite-, enare- og skoltesamisk. Appene finnes for <a
+            href="#">Android</a> og <a
+href="#"
+    >iOS</a> (iPhone og iPad).</p>
+    <div class="apptable">
+        <div class="row">
+            <div class="screenshots">
+                <img alt="Android-skjermbilde"
+                src="/images/sami_keyboard_android.png"
+                width="300" />
+            </div>
+            <div class="screenshots">
+                <img alt="iPhone-skjermbilde"
+                src="/images/sami_keyboard_ios.png"
+                width="300" />
+            </div>
+        </div>
+        <div class="row">
+              <div class="appstore-block">
+<!-- URL for Google Play:
+https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami -->
+                <a
+href="#">
+                 <img
+                    alt="Last ned fra Google Play"
+                    class="soon"
+src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
+                </a>
+              </div>
+
+              <div class="appstore-block">
+<!-- URL for App store:
+https://itunes.apple.com/no/app/samiske-tastatur/id948386025?ls=1&amp;mt=8 -->
+                <a
+href="#"
+    ><img
+        alt="Last ned fra App Store"
+        class="soon"
+        src="/images/Download_on_the_App_Store_Badge_NO_135x40.png"/>
+                </a>
+              </div>
+          </div>
+        </div>
    </body>
 </document>
