@@ -2,8 +2,7 @@
                       "http://forrest.apache.org/dtd/tab-cocoon-v11.dtd">
 <tabs title="Divvun"
       software="Divvun"
-      copyright="Norgga árktalaš universitehta"
-      xmlns:xi="http://www.w3.org/2001/XInclude" >
+      copyright="Norgga árktalaš universitehta">
 <!-- The rules for tabs are:
        @dir will always have '/@indexfile' added.
        @indexfile gets appended to @dir if the tab is selected. Defaults to 'index.html'
