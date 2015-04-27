@@ -152,6 +152,12 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                         </nav>
                         <xsl:comment>end Tabs</xsl:comment>
 
+                        <xsl:comment>start Subtabs</xsl:comment>
+                        <div id="level2tabs">
+                            <xsl:apply-templates select="span[@id='level2tabs']/node()"/>
+                        </div>
+                        <xsl:comment>end Subtabs</xsl:comment>
+
                         <xsl:if test="$config/search and not($config/search/@box-location = 'alt')">
                             <xsl:comment>start Search</xsl:comment>
                             <div class="searchbox">
@@ -189,11 +195,6 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                 <xsl:comment>centerstrip with menu and mainarea</xsl:comment>
                 <div id="main" class="container-fluid">
 <!--                    <div id="publishedStrip">
-                        <xsl:comment>start Subtabs</xsl:comment>
-                        <div id="level2tabs">
-                            <xsl:apply-templates select="span[@id='level2tabs']/node()"/>
-                        </div>
-                        <xsl:comment>end Endtabs</xsl:comment>
                         <xsl:call-template name="last-published"/>
                     </div>-->
                     <xsl:comment>breadtrail</xsl:comment>
