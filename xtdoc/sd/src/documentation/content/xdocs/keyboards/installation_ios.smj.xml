@@ -28,7 +28,7 @@
             <img width="213" src="images/ios_add_new_keyboard.no.png" alt="images/ios_add_new_keyboard.no.png"/>
         </p>
 
-        <p>Under teksten «Tredjepartstataturer» velg «Samiske tastaturer»:</p>
+        <p>Under teksten «Tredjepartstastaturer» velg «Samiske tastaturer»:</p>
 
         <p>
             <img width="213" src="images/ios_select_sami_keyboards.no.png" alt="images/ios_select_sami_keyboards.no.png"/>
@@ -53,7 +53,7 @@
         href="https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html"
         >begrensing fra Apple</link> («there is no API to obtain a list of
         enabled keyboards or for picking a particular keyboard to switch to»),
-        og gjelder alle tredjepartspastaturer.</p>
+        og gjelder alle tredjepartstastaturer.</p>
 
     </body>
 </document>
