@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Divvun - Sámi proofing tools</title>
+        <meta name="description">Saami speller, Saami spell checker</meta>
+    </header>
+    <body>
+        <table>
+            <tr>
+                <td><a href="korrektur/korrektur.html">Korrektur</a></td>
+                <td><a href="tastatur/tastatur.html">Tastatur</a></td>
+                <td><a href="tale/tale.html">Tale</a></td>
+            </tr>
+            <tr>
+                <td><a href="ordboker/ordboker.html">Ordbøker</a></td>
+                <td><a href="oversettelse/oversettelse.html">Oversettelse</a></td>
+                <td><a href="laring/laring.html">Språklæring</a></td>
+            </tr>
+        </table>
+    </body>
+</document>

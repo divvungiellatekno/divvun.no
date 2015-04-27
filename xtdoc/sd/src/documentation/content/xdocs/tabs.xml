@@ -18,12 +18,12 @@
         <tab dir="" id="AboutUs" label="Om Divvun"   indexfile="about.html"/>
         <tab dir="" id="Events"  label="Arrangement" indexfile="events.html"/>
     </tab>
-    <tab dir="" id="Korrektur" label="Korrektur" indexfile="korrektur.html"/>
-    <tab dir="" id="Tastatur" label="Tastatur" indexfile="tastatur.html"/>
-    <tab dir="" id="Tale" label="Tale" indexfile="tale.html"/>
-    <tab dir="" id="Ordbøker" label="Ordbøker" indexfile="ordboker.html"/>
-    <tab dir="" id="Oversettelse" label="Oversettelse" indexfile="oversettelse.html"/>
-    <tab dir="" id="Læring" label="Språkopplæring" indexfile="laring.html"/>
+    <tab dir="korrektur/" id="Korrektur" label="Korrektur" indexfile="korrektur.html"/>
+    <tab dir="tastatur/" id="Tastatur" label="Tastatur" indexfile="tastatur.html"/>
+    <tab dir="tale/" id="Tale" label="Tale" indexfile="tale.html"/>
+    <tab dir="ordboker/" id="Ordbøker" label="Ordbøker" indexfile="ordboker.html"/>
+    <tab dir="oversettelse/" id="Oversettelse" label="Oversettelse" indexfile="oversettelse.html"/>
+    <tab dir="laring/" id="Læring" label="Språkopplæring" indexfile="laring.html"/>
     <tab label="Giellatekno" href="http://giellatekno.uit.no"/>
 
     <!--<tab id="adm" label="Administrašuvdna" dir="adm" indexfile="index.html" >
