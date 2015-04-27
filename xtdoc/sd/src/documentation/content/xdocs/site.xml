@@ -22,7 +22,7 @@
         <oxts description="Beta releases of speller extensions for LibreOffice" href="libreofficeoxt.html" label="LibreOffice extensions"/>
         <divvun label="Dokumentašuvdna" href="userdocs/">
             <win label="MS Office for Windows" href="win/">
-                <win-msoffice description="Divvun for MS Office on Windows" href="install-msoff-2007.html" label="Divvun for MS Office" />
+                <win-msoffice description="Divvun for MS Office on Windows" href="install-msoff-2007-win7-8.html" label="Divvun for MS Office" />
             </win>
             <macms label="MS Office for MacOSX" href="mac/">
                 <off2011 label="MS Office 2011">
