@@ -65,18 +65,22 @@ which is then merged by site-to-xhtml.xsl
   <xsl:template name="selected">
     <xsl:call-template name="base-selected"/>
   </xsl:template>
+
 <!-- Display an unselected level 1 tab node -->
   <xsl:template name="not-selected">
     <xsl:call-template name="base-not-selected"/>
   </xsl:template>
+
 <!-- Display a selected second level tab node -->
   <xsl:template name="level2-selected">
     <xsl:call-template name="base-selected"/>
   </xsl:template>
+
 <!-- Display an unselected second level tab node -->
   <xsl:template name="level2-not-selected">
     <xsl:call-template name="base-not-selected"/>
   </xsl:template>
+
 <!-- ================================================================ -->
 <!-- These templates CAN be overridden                             -->
 <!-- ================================================================ -->
@@ -119,6 +123,7 @@ which is then merged by site-to-xhtml.xsl
   <xsl:variable name="matching-id">
     <xsl:call-template name="matching-id"/>
   </xsl:variable>
+
 <!-- Called from tabs, after it has written the outer 'div class=tabs' and
   any other HTML -->
   <xsl:template name="base-tabs">
@@ -131,18 +136,25 @@ which is then merged by site-to-xhtml.xsl
     </xsl:for-each>
     <xsl:call-template name="post-separator"/>
   </xsl:template>
+
 <!-- Called from tabs, after it has written the outer 'div class=tabs' and
   any other HTML -->
   <xsl:template name="level2tabs">
-    <xsl:call-template name="level2-pre-separator"/>
+    <ul class="nav navbar-nav">
+        <xsl:attribute name="id">
+            <xsl:value-of select="tab[@id=$matching-id]/@id"/>
+        </xsl:attribute>
+    <!--xsl:call-template name="level2-pre-separator"/-->
     <xsl:for-each select="tab[@dir=$longest-dir]/tab|tab[@href=$longest-dir]/tab|tab[tab/@id=$matching-id]/tab">
-      <xsl:if test="position()!=1">
+      <!--xsl:if test="position()!=1">
         <xsl:call-template name="level2-separator"/>
-      </xsl:if>
+      </xsl:if-->
       <xsl:apply-templates select="." mode="level2"/>
     </xsl:for-each>
-    <xsl:call-template name="level2-post-separator"/>
+    <!--xsl:call-template name="level2-post-separator"/-->
+  </ul><!-- noe sånt, kanskje? -->
   </xsl:template>
+
   <xsl:template match="tab" mode="level1">
     <xsl:choose>
       <xsl:when test="@id and @id = $matching-id">
@@ -159,7 +171,9 @@ which is then merged by site-to-xhtml.xsl
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
+
   <xsl:template match="tab" mode="level2">
+
     <xsl:choose>
       <xsl:when test="@id and @id = $matching-id">
         <xsl:call-template name="level2-selected"/>
@@ -172,8 +186,12 @@ which is then merged by site-to-xhtml.xsl
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
+
 <!-- Called from 'selected' -->
-  <xsl:template name="base-selected"><a data-toogle="collapse" data-target="#">
+  <xsl:template name="base-selected"><a data-toogle="collapse"> <!-- Her skal data-target være #navn-på-tabben -->
+    <xsl:attribute name="data-target">
+      <xsl:value-of select="concat('#', ./@id)"/>
+    </xsl:attribute>
     <xsl:attribute name="href">
       <xsl:call-template name="calculate-tab-href">
         <xsl:with-param name="tab" select="."/>
@@ -182,8 +200,12 @@ which is then merged by site-to-xhtml.xsl
     </xsl:attribute>
     <xsl:value-of select="@label"/></a>
   </xsl:template>
+
 <!-- Called from 'not-selected' -->
-  <xsl:template name="base-not-selected"><a data-toogle="collapse" data-target="#">
+  <xsl:template name="base-not-selected"><a data-toogle="collapse"> <!-- Her skal data-target være #navn-på-tabben -->
+    <xsl:attribute name="data-target">
+      <xsl:value-of select="concat('#', ./@id)"/>
+    </xsl:attribute>
     <xsl:attribute name="href">
       <xsl:call-template name="calculate-tab-href">
         <xsl:with-param name="tab" select="."/>
