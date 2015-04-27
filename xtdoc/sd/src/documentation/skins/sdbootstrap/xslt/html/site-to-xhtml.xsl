@@ -370,12 +370,14 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
     <xsl:template name="menu">
         <xsl:comment>start Menu</xsl:comment>
         <div id="menu">
-            <xsl:comment>menu - inner</xsl:comment>
-            <xsl:for-each select = "div[@id='menu']/ul/li">
-                <xsl:call-template name = "innermenuli" >
-                    <xsl:with-param name="id" select="concat('1_', position())"/>
-                </xsl:call-template>
-            </xsl:for-each>
+            <ul class="nav nav-sidebar">
+                <xsl:comment>menu - inner</xsl:comment>
+                <xsl:for-each select = "div[@id='menu']/ul/li">
+                    <xsl:call-template name = "innermenuli" >
+                        <xsl:with-param name="id" select="concat('1_', position())"/>
+                    </xsl:call-template>
+                </xsl:for-each>
+            </ul>
             <xsl:comment>Search box: alternative location</xsl:comment>
             <xsl:if test="$config/search and $config/search/@box-location='alt'">
                 <xsl:comment>start Search</xsl:comment>
@@ -536,68 +538,80 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                 <xsl:otherwise>menuitemgroup</xsl:otherwise>
             </xsl:choose>
         </xsl:variable>
-        <div class="menutitle" id="{$tagid}Title" onclick="SwitchMenu('{$tagid}', '{$root}skin/')">
-            <xsl:if test="contains($tagid, '_selected_')" >
-                <xsl:attribute name="style">
-                    <xsl:text>background-image: url('</xsl:text>
-                        <xsl:value-of select="$root"/>
-                    <xsl:text>skin/images/chapter_open.gif');</xsl:text>
-                </xsl:attribute>
-            </xsl:if>
-            <xsl:value-of select="h1"/>
+        <div class="accordion-group" id="{$tagid}Title">
+            <div class="accordion accordion-default">
+                <div class="accordion-heading">
+                    <h4 class="accordion-title">
+                        <a data-toggle="collapse" data-parent="#{$tagid}Title" href="#{$tagid}">
+                            <xsl:value-of select="h1"/>
+                        </a>
+                    </h4>
+                </div>
+            </div>
         </div>
-        <div class="{$whichGroup}" id="{$tagid}">
-            <xsl:if test="contains($tagid, '_selected_')" >
-                <xsl:attribute name="style">
-                    <xsl:text>display: block;</xsl:text>
-                </xsl:attribute>
-            </xsl:if>
-            <xsl:for-each select= "ul/li">
+        <ul> <!--class="{$whichGroup}" id="{$tagid}">-->
+            <div class="" id="{$tagid}">
                 <xsl:choose>
-                    <xsl:when test="a">
-                        <div class="menuitem"><a>
-                            <xsl:attribute name="href">
-                                <xsl:value-of select="a/@href"/>
-                            </xsl:attribute>
-                            <xsl:if test="a/@title!=''">
-                                <xsl:attribute name="title">
-                                    <xsl:value-of select="a/@title"/>
-                                </xsl:attribute>
-                            </xsl:if>
-                            <xsl:value-of select="a"/></a>
-                        </div>
-                    </xsl:when>
-                    <xsl:when test="div/@class='current'">
-                        <div class="menupage">
-                            <div class="menupagetitle">
-                                <xsl:value-of select="div" />
-                            </div>
-                            <xsl:if test="$config/toc/@max-depth > 0 and contains($minitoc-location,'menu') and count(//tocitems/tocitem) >= $config/toc/@min-sections">
-                                <div class="menupageitemgroup">
-                                    <xsl:for-each select = "//tocitems/tocitem">
-                                        <div class="menupageitem">
-                                            <xsl:choose>
-                                                <xsl:when test="string-length(@title)>15"><a href="{@href}" title="{@title}">
-                                                    <xsl:value-of select="substring(@title,0,20)" />...</a>
-                                                </xsl:when>
-                                                <xsl:otherwise><a href="{@href}">
-                                                    <xsl:value-of select="@title" /></a>
-                                                </xsl:otherwise>
-                                            </xsl:choose>
-                                        </div>
-                                    </xsl:for-each>
-                                </div>
-                            </xsl:if>
-                        </div>
+                    <xsl:when test="contains($tagid, '_selected_')" >
+                        <xsl:attribute name="class">
+                            <xsl:text>accordion-collapse collapse in</xsl:text>
+                        </xsl:attribute>
                     </xsl:when>
                     <xsl:otherwise>
-                        <xsl:call-template name = "innermenuli">
-                            <xsl:with-param name="id" select="concat($id, '_', position())"/>
-                        </xsl:call-template>
+                        <xsl:attribute name="class">
+                            <xsl:text>accordion-collapse collapse</xsl:text>
+                        </xsl:attribute>
                     </xsl:otherwise>
                 </xsl:choose>
-            </xsl:for-each>
-        </div>
+                <div class="accordion-body">
+                    <xsl:for-each select= "ul/li">
+                        <xsl:choose>
+                            <xsl:when test="a">
+                                <li class="menuitem"><a>
+                                    <xsl:attribute name="href">
+                                        <xsl:value-of select="a/@href"/>
+                                    </xsl:attribute>
+                                    <xsl:if test="a/@title!=''">
+                                        <xsl:attribute name="title">
+                                            <xsl:value-of select="a/@title"/>
+                                        </xsl:attribute>
+                                    </xsl:if>
+                                    <xsl:value-of select="a"/></a>
+                                </li>
+                            </xsl:when>
+                            <xsl:when test="div/@class='current'">
+                                <li class="menupage">
+                                    <div class="menupagetitle">
+                                        <xsl:value-of select="div" />
+                                    </div>
+                                    <xsl:if test="$config/toc/@max-depth > 0 and contains($minitoc-location,'menu') and count(//tocitems/tocitem) >= $config/toc/@min-sections">
+                                        <div class="menupageitemgroup">
+                                            <xsl:for-each select = "//tocitems/tocitem">
+                                                <div class="menupageitem">
+                                                    <xsl:choose>
+                                                        <xsl:when test="string-length(@title)>15"><a href="{@href}" title="{@title}">
+                                                            <xsl:value-of select="substring(@title,0,20)" />...</a>
+                                                        </xsl:when>
+                                                        <xsl:otherwise><a href="{@href}">
+                                                            <xsl:value-of select="@title" /></a>
+                                                        </xsl:otherwise>
+                                                    </xsl:choose>
+                                                </div>
+                                            </xsl:for-each>
+                                        </div>
+                                    </xsl:if>
+                                </li>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:call-template name = "innermenuli">
+                                    <xsl:with-param name="id" select="concat($id, '_', position())"/>
+                                </xsl:call-template>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:for-each>
+                </div>
+            </div>
+        </ul>
     </xsl:template>
 
     <!-- Generates the PDF link -->
