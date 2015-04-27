@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
-        <title>Divvun - språklæring</title>
+        <title>Språklæring</title>
     </header>
     <body>
         <section>
@@ -17,13 +17,18 @@
         </section>
         <section>
             <title>Oahpa!</title>
-            <p>Oahpa! er et interaktivt språklæringsprogram som bygger på teknologien som <a href="/index.html">Divvun</a> og <a href="http://giellatekno.uit.no">Giellatekno</a> har utviklet.</p>
+            <p><a href="http://oahpa.no/">Oahpa!</a> er et interaktivt
+            språklæringsprogram utviklet av Giellatekno-gruppa, og som bygger
+            på språkteknologien utviklet av
+            <a href="/index.html">Divvun</a> og
+            <a href="http://giellatekno.uit.no">Giellatekno</a>.</p>
             <ul>
-                <li>For <a href="http://oahpa.no/davvi/">nordsamisk</a></li>
-                <li>For <a href="http://oahpa.no/aarjel/">sørsamisk</a></li>
-                <li>For <a href="http://oahpa.no/kiilt/">kildinsamisk</a></li>
-                <li>For <a href="http://oahpa.no/nuorti/">skoltesamisk</a></li>
-                <li>For <a href="http://oahpa.no/aanaar/">enaresamisk</a></li>
+                <li><a href="http://oahpa.no/">Startside for alle språk</a></li>
+                <li>Direkte til <a href="http://oahpa.no/davvi/" >nordsamisk   Oahpa!</a></li>
+                <li>Direkte til <a href="http://oahpa.no/aarjel/">sørsamisk    Oahpa!</a></li>
+                <li>Direkte til <a href="http://oahpa.no/kiilt/" >kildinsamisk Oahpa!</a></li>
+                <li>Direkte til <a href="http://oahpa.no/nuorti/">skoltesamisk Oahpa!</a></li>
+                <li>Direkte til <a href="http://oahpa.no/aanaar/">enaresamisk  Oahpa!</a></li>
                 </ul>
         </section>
    </body>
