@@ -124,7 +124,8 @@ which will be used to configure the chosen Forrest skin.
 }
 #level2tabs {
     background-color: #e7e7e7;
-    margin-bottom:20px;
+    margin-bottom: 20px;
+    margin-top: -20px;
 }
   </extra-css>
   <colors>
