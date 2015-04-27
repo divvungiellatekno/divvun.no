@@ -158,7 +158,7 @@ which is then merged by site-to-xhtml.xsl
 
   <xsl:template match="tab" mode="level1">
     <!-- DEBUG element 'test' - comment out when done: -->
-    <test test="{concat('•',@id,'+',@dir,'+',$matching-id,'•')}"/>
+    <!--test test="{concat('•',@id,'+',@dir,'+',$matching-id,'•')}"/-->
     <xsl:choose>
       <xsl:when test="@id and @id = $matching-id">
         <xsl:call-template name="selected"/>
@@ -177,12 +177,12 @@ which is then merged by site-to-xhtml.xsl
 
   <xsl:template match="tab" mode="level2">
     <!-- DEBUG element 'test' - comment out when done: -->
-    <test test="{concat('•',@id,'+',@dir,'+',$matching-id,'•')}"/>
+    <!--test test="{concat('•',@id,'+',@dir,'+',$matching-id,'•')}"/-->
     <xsl:choose>
       <xsl:when test="@id and @id = $matching-id">
         <xsl:call-template name="level2-selected"/>
       </xsl:when>
-      <xsl:when test="@dir = $level2-longest-dir">
+      <xsl:when test="not(@id) and @dir = $level2-longest-dir">
         <xsl:call-template name="level2-selected"/>
       </xsl:when>
       <xsl:otherwise>
