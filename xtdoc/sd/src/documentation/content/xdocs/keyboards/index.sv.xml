@@ -12,7 +12,7 @@
         <p>Divvun har laget appen «Samiske tastaturer» med mobiltastaturer for
             nord-, lule-, sør-, pite-, enare- og skoltesamisk. Appen finnes
             for <a
-            href="#">Android</a> og <a
+            href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">Android</a> og <a
 href="#"
     >iOS</a> (iPhone og iPad).</p>
 
@@ -22,8 +22,6 @@ href="#"
                 <img alt="Android-skjermbilde"
                 src="images/google_play_entry.png"
                 width="300" />
-            </td>
-            <td>
             </td>
         </tr>
         <tr>
@@ -40,13 +38,10 @@ href="#"
         </tr>
         <tr>
               <td>
-<!-- URL for Google Play:
-https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami -->
                 <a
-href="#">
+href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">
                  <img
                     alt="Last ned fra Google Play"
-                    class="soon"
 src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
                 </a>
               </td>
