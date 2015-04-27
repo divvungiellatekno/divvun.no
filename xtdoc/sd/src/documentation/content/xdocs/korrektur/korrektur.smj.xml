@@ -7,7 +7,9 @@
         <meta name="description">sáme tjállemdárkastus</meta>
     </header>
     <body>
-        <table>
+        <section>
+            <title>Divvunav viedtjat</title>
+            <table>
             <tr>
                 <td><a href="korrektur.html">Korrektur</a></td>
                 <td><a href="tastatur.html">Tastatur</a></td>

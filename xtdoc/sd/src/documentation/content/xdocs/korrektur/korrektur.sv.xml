@@ -7,7 +7,9 @@
         <meta name="description">samisk stavningskontroll</meta>
     </header>
     <body>
-        <table>
+        <section>
+            <title>Ladda hem Divvun</title>
+            <table>
             <tr>
                 <td><a href="korrektur.html">Korrektur</a></td>
                 <td><a href="tastatur.html">Tastatur</a></td>

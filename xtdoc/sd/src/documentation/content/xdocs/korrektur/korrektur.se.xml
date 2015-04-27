@@ -7,7 +7,9 @@
         <meta name="description">sámi čállindárkkisteaddji</meta>
     </header>
     <body>
-        <table>
+        <section>
+            <title>Viečča Divvun-reaidduid</title>
+            <table>
             <tr>
                 <td><a href="korrektur.html">Korrektur</a></td>
                 <td><a href="tastatur.html">Tastatur</a></td>
