@@ -6,6 +6,9 @@
         <title>Divvun - oversettelse</title>
     </header>
     <body>
-        <p>Oversettelse</p>
+        <ul>
+            <li><a href="http://divvun.no/static_files/nob2sme-tmx.zip">Oversettelsesminne</a> for <a href="/doc/tools/autshumato.html">autshumato</a>.</li>
+            <li><a href="http://gtweb.uit.no/mt/">Maskinoversettelse</a></li>
+        </ul>
    </body>
 </document>
