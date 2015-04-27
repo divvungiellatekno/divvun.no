@@ -20,7 +20,7 @@
     <tab dir="" id="Tale" label="Tale" indexfile="tale.html"/>
     <tab dir="" id="Ordbøker" label="Ordbøker" indexfile="ordboker.html"/>
     <tab dir="" id="Oversettelse" label="Oversettelse" indexfile="oversettelse.html"/>
-    <tab dir="" id="Læring" label="Språkopplæring" indexfile="oversettelse.html"/>
+    <tab dir="" id="Læring" label="Språkopplæring" indexfile="laring.html"/>
     <tab label="Giellatekno" href="http://giellatekno.uit.no"/>
 
     <!--<tab id="adm" label="Administrašuvdna" dir="adm" indexfile="index.html" >
