@@ -140,19 +140,14 @@ which is then merged by site-to-xhtml.xsl
 <!-- Called from tabs, after it has written the outer 'div class=tabs' and
   any other HTML -->
   <xsl:template name="level2tabs">
-    <ul class="nav navbar-nav">
-        <xsl:attribute name="id">
-            <xsl:value-of select="tab[@id=$matching-id]/@id"/>
-        </xsl:attribute>
-    <!--xsl:call-template name="level2-pre-separator"/-->
+    <xsl:call-template name="level2-pre-separator"/>
     <xsl:for-each select="tab[@dir=$longest-dir]/tab|tab[@href=$longest-dir]/tab|tab[tab/@id=$matching-id]/tab">
-      <!--xsl:if test="position()!=1">
+      <xsl:if test="position()!=1">
         <xsl:call-template name="level2-separator"/>
-      </xsl:if-->
+      </xsl:if>
       <xsl:apply-templates select="." mode="level2"/>
     </xsl:for-each>
-    <!--xsl:call-template name="level2-post-separator"/-->
-  </ul><!-- noe sånt, kanskje? -->
+    <xsl:call-template name="level2-post-separator"/>
   </xsl:template>
 
   <xsl:template match="tab" mode="level1">
