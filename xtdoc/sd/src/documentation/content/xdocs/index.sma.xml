@@ -7,26 +7,29 @@
         <meta name="description">Saemien staeriedæjja</meta>
     </header>
     <body>
-      <div class="col-sm-12">
-        <p class="col-sm-4">
+      <ul class="col-sm-12 nobullet">
+        <li class="col-sm-4">
             We have <a href="keyboards/index.html">saami keyboards</a>
             for North, Lule, South, Pite, Inari and Skolt saami on both
             <img src="/images/android.png" alt="android"/> and <img src="/images/ios8.png" alt="iOS 8"/>
-        </p>
-        <p class="col-sm-4">
+        </li>
+        <li class="col-sm-4">
             We have <a href="laring/laring.html">E-learning apps</a> for <img src="/images/android.png" alt="android"/> and <img src="/images/ios.png" alt="iOS"/> as well as a Webapps
-        </p>
-        <p class="col-sm-4">
+        </li>
+        <li class="col-sm-4">
             <a href="korrektur/korrektur.html">Spelling checkers</a> for <img alt="Windows" src="/images/windows_small.png"/>,  <img alt="OS X" src="/images/osx.png"/> and <img alt="Linux" src="/images/linux_small.png"/>
-        </p>
-      </div>
-      <div class="col-sm-12">
-        <p class="col-sm-4">
+        </li>
+      </ul>
+      <ul class="col-sm-12 nobullet">
+        <li class="col-sm-4">
             <a href="ordboker/ordboker.html">Dictionaries</a>, both web based and downloadable ones.
-        </p>
-        <p class="col-sm-4">
-            <a href="oversettelse/oversettelse.html">Translation memory</a></p>
-        <p>North Saami <a href="tale/tale.html">speech synthesis</a> is upcoming</p>
-      </div>
+        </li>
+        <li class="col-sm-4">
+            <a href="oversettelse/oversettelse.html">Translation memory</a>
+        </li>
+        <li class="col-sm-4">
+            North Saami <a href="tale/tale.html">speech synthesis</a> is upcoming
+        </li>
+      </ul>
     </body>
 </document>
