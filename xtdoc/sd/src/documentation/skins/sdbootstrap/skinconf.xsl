@@ -20,7 +20,7 @@
     <xsl:if test="not(colors)">
       <colors>
 <!-- Lenya -->
-        <color name="header" value="#ffffff"/>
+<!--        <color name="header" value="#ffffff"/>
         <color name="tab-selected" value="#4C6C8F" link="#ffffff" vlink="#ffffff" hlink="#ffffff"/>
         <color name="tab-unselected" value="#E5E4D9" link="#000000" vlink="#000000" hlink="#000000"/>
         <color name="subtab-selected" value="#4C6C8F" link="#ffffff" vlink="#ffffff" hlink="#ffffff"/>
@@ -44,7 +44,7 @@
         <color name="note" value="#006699"/>
         <color name="warning" value="#990000"/>
         <color name="code" value="#003366"/>
-        <color name="footer" value="#E5E4D9"/>
+        <color name="footer" value="#E5E4D9"/>-->
       </colors>
     </xsl:if>
     <xsl:copy>
@@ -54,7 +54,7 @@
     </xsl:copy>
   </xsl:template>
   <xsl:template match="colors">
-    <xsl:copy>
+<!--    <xsl:copy>
       <xsl:copy-of select="@*"/>
       <xsl:copy-of select="node()[name(.)='color']"/>
       <xsl:if test="not(color[@name='header'])">
@@ -132,6 +132,6 @@
       <xsl:if test="not(color[@name='footer'])">
         <color name="footer" value="#E5E4D9"/>
       </xsl:if>
-    </xsl:copy>
+    </xsl:copy>-->
   </xsl:template>
 </xsl:stylesheet>
