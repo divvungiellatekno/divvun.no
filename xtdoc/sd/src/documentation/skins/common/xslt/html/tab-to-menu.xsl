@@ -43,16 +43,21 @@ which is then merged by site-to-xhtml.xsl
 <!-- ================================================================ -->
 <!-- Called before first level 1 tag -->
   <xsl:template name="pre-separator"></xsl:template>
+
 <!-- Called after last level 1 tag -->
   <xsl:template name="post-separator"></xsl:template>
+
 <!-- Called between level 1 tags -->
   <xsl:template name="separator">
 <xsl:text> | </xsl:text>
   </xsl:template>
+
 <!-- Called before first level 2 tag -->
   <xsl:template name="level2-pre-separator"></xsl:template>
+
 <!-- Called after last level 2 tag -->
   <xsl:template name="level2-post-separator"></xsl:template>
+
 <!-- Called between level 2 tags -->
   <xsl:template name="level2-separator">
 <xsl:text> | </xsl:text>
@@ -89,6 +94,7 @@ which is then merged by site-to-xhtml.xsl
       <xsl:call-template name="base-tabs"/>
     </div>
   </xsl:template>
+
 <!-- ================================================================ -->
 <!-- These templates SHOULD NOT be overridden                         -->
 <!-- ================================================================ -->
@@ -168,7 +174,6 @@ which is then merged by site-to-xhtml.xsl
   </xsl:template>
 
   <xsl:template match="tab" mode="level2">
-
     <xsl:choose>
       <xsl:when test="@id and @id = $matching-id">
         <xsl:call-template name="level2-selected"/>
