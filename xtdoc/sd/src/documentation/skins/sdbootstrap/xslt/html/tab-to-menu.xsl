@@ -40,9 +40,11 @@ which is then merged by site-to-xhtml.xsl
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:import href="lm://transform.skin.common.html.tab-to-menu"/>
   <xsl:template match="tabs">
-    <ul id="tabs" class="nav navbar-nav">
-      <xsl:call-template name="base-tabs"/>
-    </ul>
+    <div id="tabs">
+        <ul class="nav navbar-nav">
+          <xsl:call-template name="base-tabs"/>
+        </ul>
+    </div>
     <span id="level2tabs">
       <xsl:call-template name="level2tabs"/>
     </span>
