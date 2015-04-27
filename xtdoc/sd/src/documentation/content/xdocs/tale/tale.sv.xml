@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="sv">
+<document xml:lang="no">
     <header>
         <title>Divvun - tale</title>
     </header>
     <body>
-        <p>Tale</p>
+        <p><a href="/index.html">Divvun</a>, <a href="http://sametinget.no">Sametinget</a> utvikler nordsamisk talesyntese i samarbeid med <a href="http://www.acapela-group.com/">Acapela</a>.</p>
    </body>
 </document>
