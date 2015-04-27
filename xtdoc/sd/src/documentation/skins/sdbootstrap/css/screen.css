@@ -179,7 +179,6 @@ html>body #top .searchbox {
 
 #tabs li {
 /*    float: left;
-    background-image: url(images/rc-t-r-5-1header-2tab-unselected-3tab-unselected.png);
     background-repeat: no-repeat;
     background-position: top right;
     background-color: #000000;
@@ -199,7 +198,7 @@ html>body #top .searchbox {
     background-repeat: no-repeat;
     background-position: top left;
     padding: 5px 15px 4px;
-    width: .1em; /* IE/Win fix */*/
+    width: .1em; /* IE/Win fix */
 }
 
 #tabs li a:hover {

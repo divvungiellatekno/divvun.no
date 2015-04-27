@@ -504,7 +504,6 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                 </xsl:if>
             </div>
             <div id="roundbottom">
-                <img src="{$skin-img-dir}/rc-b-l-15-1body-2menu-3menu.png" alt="" width="15" height="15" class="corner" style="display: none" />
             </div>
             <xsl:comment>credits in alternative location #2</xsl:comment>
             <xsl:comment>alternative credits</xsl:comment>
