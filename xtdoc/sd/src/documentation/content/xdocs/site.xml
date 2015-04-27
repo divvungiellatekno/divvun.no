@@ -57,17 +57,47 @@
           <index  label="Siste versjon" href="korrektur.html"/>
           <userdocs label="Vegledninger" href="userdocs/">
             <win label="Windows" href="win/">
+              <msoff13 label="Divvun og MS Office 2013">
+                <windoc label="Oversikt Windows 7 &amp; 8" href="index-msoff-2013-win7-8.html" />
+                <windoc label="Oversikt Windows XP" href="index-msoff-2013-xp.html" />
+              </msoff13>
+              <msoff10 label="Divvun og MS Office 2010">
+                <windoc label="Oversikt Windows 7 &amp; 8" href="index-msoff-2010-win7-8.html" />
+                <windoc label="Oversikt Windows XP" href="index-msoff-2010-xp.html" />
+                <windoc label="Bruk" href="use-msoff-2010-win7-sme-nob.html" />
+              </msoff10>
+              <msoff07 label="Divvun og MS Office 2007">
+                <windoc label="Oversikt Windows 7 &amp; 8" href="index-msoff-2007-win7-8.html" />
+                <windoc label="Oversikt Windows XP" href="index-msoff-2007-xp.html" />
+                <windoc label="Bruk" href="use-msoff-2007.html" />
+              </msoff07>
+              <wininstall label="Installer Divvun">
+                <windoc label="På Windows 8" href="install-msoff-win8.html" />
+                <windoc label="På Windows 7" href="install-msoff-win7.html" />
+              </wininstall>
+              <keyboards label="Slå på samiske tastatur">
+                <windoc label="Windows 8" href="enable_sme_input-win8-nob.html" />
+                <windoc label="Windows 7" href="enable_sme_input-win7-nob.html" />
+                <windoc label="Windows XP" href="enable-keyboard-xp.html" />
+              </keyboards>
+              <removedivvun label="Fjern Divvun" href="remove-msoff-win7-nob.html" />
             </win>
             <mac label="MacOSX" href="mac/">
-              <index11    label="Oversikt MSOffice 2011" href="index-msoff-2011.html" />
-              <index08    label="Oversikt MSOffice 2008" href="index-msoff-2008.html" />
-              <install11  label="Mac" href="install-msoff-2011-nob.html     " />
-              <install08  label="Mac" href="install-msoff-2008-swe.html     " />
-              <keyb108    label="Mac" href="enable-keyboard-osx10.8-nob.html" />
-              <keyb105    label="Mac" href="enable-keyboard-osx10.5-swe.html" />
-              <use11      label="Mac" href="use-msoff-2011-sme-nob.html     " />
-              <use08      label="Mac" href="use-msoff-2008-sme-eng.html     " />
-              <rem08      label="Mac" href="remove-msoff-2008-nob.html      " />
+              <msoff11 label="Divvun og MS Office 2011">
+                <index11    label="Oversikt" href="index-msoff-2011.html" />
+                <install11  label="Installering" href="install-msoff-2011-nob.html" />
+                <use11      label="Bruk" href="use-msoff-2011-sme-nob.html" />
+              </msoff11>
+              <msoff08 label="Divvun og MS Office 2008">
+                <index08    label="Oversikt" href="index-msoff-2008.html" />
+                <install08  label="Installering" href="install-msoff-2008-swe.html" />
+                <use08      label="Bruk" href="use-msoff-2008-sme-eng.html" />
+              </msoff08>
+              <keyboards label="Slå på det samiske tastaturet">
+                <keyb108    label="MacOSX 10.6-10.8" href="enable-keyboard-osx10.8-nob.html" />
+                <keyb105    label="MacOSX 10.5 og eldre" href="enable-keyboard-osx10.5-swe.html" />
+              </keyboards>
+              <rem08      label="Avinstaller Divvun" href="remove-msoff-2008-nob.html" />
             </mac>
           </userdocs>
           <uservids label="Instruksjonsvideoer" href="userdocs/videos/">
@@ -91,26 +121,6 @@
         </beta>
     </korrektur>
         <!--divvun label="Dokumentašuvdna" href="userdocs/">
-            <win label="MS Office for Windows" href="win/">
-                <win-msoffice-win7 description="Divvun for MS Office on Windows 7" href="install-msoff-win7.html" label="Divvun for MS Office på Windows 7" />
-                <win-msoffice-win8 description="Divvun for MS Office on Windows 8" href="install-msoff-win8.html" label="Divvun for MS Office på Windows 8" />
-
-            </win>
-            <macms label="MS Office for MacOSX" href="mac/">
-                <off2011 label="MS Office 2011">
-                    <msoff11-inst description="Installing and using Divvun with MS Office 2011" href="index-msoff-2011.html" label="Install Divvun" />
-                    <msoff11-inst description="Divvun for MS Office on MacOSX" href="install-msoff-2011-nob.html" label="Install Divvun" />
-                    <msoff11-use  description="Divvun for MS Office on MacOSX" href="use-msoff-2011-sme-nob.html" label="Using Divvun for MS Office" />
-                    <osx108-keyb description="Divvun for MS Office on MacOSX" href="enable-keyboard-osx10.8-nob.html" label="Enabling the Sámi keyboard" />
-                </off2011>
-                <off2008 label="MS Office 2008">
-                    <msoff08-inst description="Installing and using Divvun with MS Office 2008" href="index-msoff-2008.html" label="Install Divvun" />
-                    <msoff08-inst description="Divvun for MS Office on MacOSX" href="install-msoff-2008-swe.html" label="Install Divvun" />
-                    <msoff08-use  description="Divvun for MS Office on MacOSX" href="use-msoff-2008-sme-eng.html" label="Using Divvun for MS Office" />
-                    <osx105-keyb description="Divvun for MS Office on MacOSX" href="enable-keyboard-osx10.5-swe.html" label="Enabling the Sámi keyboard" />
-                </off2008>
-                <mac-msoffice description="Divvun for MS Office on MacOSX" href="remove-msoff-2008-nob.html" label="Remove Divvun" />
-            </macms>
             <maclo label="OpenOffice and LibreOffice" >
                 <openoffice description="Divvun for OpenOffice and LibreOffice" href="mac/install-OOo-3.html" label="Divvun for OpenOffice" />
             </maclo>
