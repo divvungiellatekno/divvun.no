@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+   <header>
+      <title>Beta Proofing Tools for LibreOffice</title>
+      <meta name="description">Saami speller, Saami spell checker</meta>
+   </header>
+   <body>
+
+      <note>In honour of the contributions by Tommi Pirinen to make these
+      LibreOffice spell checkers come through, this download page was made
+      public on the day of Tommi's public defense for his <a
+      href="https://helda.helsinki.fi/handle/10138/42526">PhD on using
+      Weighted Finite State technologies in spell checkers</a>, February 28,
+      2014.</note>
+
+      <section>
+         <title>Download Divvun LibreOffice Spell Checkers for Multiple Languages</title>
+
+         <table>
+         <tr>
+           <th>Language</th>
+           <th colspan="2">Download</th>
+           <th>Documentation and source code</th>
+         </tr>
+         <tr>
+           <td>Finnish</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-4.0-win.oxt">For Windows</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td><a href="svn://victorio.uit.no/langtech/trunk/langs/fin">Finnish source code</a>. More info coming soon.</td>
+         </tr>
+         <tr>
+           <td>Greenlandic</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-4.0-win.oxt">For Windows</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td><a href="svn://victorio.uit.no/langtech/trunk/langs/kal">Greenlandic source code</a>. More info coming soon.</td>
+         </tr>
+         <tr>
+           <td>Kven</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-win.oxt">For Windows</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td><a href="svn://victorio.uit.no/langtech/trunk/langs/fkv">Kven source code</a>. More info coming soon.</td>
+         </tr>
+         <tr>
+           <td>North Sámi</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt">For Windows</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td><a href="svn://victorio.uit.no/langtech/trunk/langs/sme">North Sami source code</a>. More info coming soon.</td>
+         </tr>
+         </table>
+         <p>There is a Windows 8.1 <a
+         href="userdocs/win/install-use-Voikko-LO4-win8.html">installation and
+         user guide</a> which should also be informative for Mac users.</p>
+
+      <p>The extensions are built using <a
+      href="http://hfst.sourceforge.net">HFST</a> — specifically
+      <code>hfst-ospell</code> (<a
+      href="https://sourceforge.net/projects/hfst/files/hfst/">source code</a>)
+      — and <a href="http://voikko.puimula.org">Voikko</a>, specifically the
+      <strong>LibreOffice-voikko</strong> extension (<a
+      href="http://voikko.puimula.org/sources.html">source code</a>). The
+      spellers here are a direct
+      application of the normative fst used as a spelling checker (in
+      combination with an error model to create suggestions).</p>
+
+      <p>This is work in progress, and there are several open issues still to be
+      worked out. Although the available spellers and extensions should work
+      fine for the specified LibreOffice versions, please bear with us and
+      report any issues you find to
+      <a href="mailto:feedback@divvun.no">feedback@divvun.no</a></p>
+
+      </section>
+
+      <section>
+         <title>Version info for LibreOffice-Voikko and the libraries it depends on</title>
+         <table >
+         <tr>
+           <th>MacOSX</th>
+           <th> </th>
+           <th>Windows</th>
+         </tr>
+         <tr>
+           <td>TBW</td>
+           <td> </td>
+           <td>
+             <ul>
+               <li>libvoikko: Git snapshot from the corevoikko repository
+                 <br/>URL: <a href="https://github.com/voikko/corevoikko">https://github.com/voikko/corevoikko</a>
+                 <br/>Commit: b2f79308d1497746c6b26936bb96c845ca29149e
+               </li>
+               <li>tinyxml2: Git snapshot from the tinyxml2 repository
+                 <br/>URL: <a href="https://github.com/leethomason/tinyxml2">https://github.com/leethomason/tinyxml2</a>
+                 <br/>Commit: 343a5ff3bdd7336644db4080f001759e062c359e
+               </li>
+               <li>hfst-ospell: SVN snapshot from the hfst repository
+                 <br/>URL: <a href="svn://svn.code.sf.net/p/hfst/code/trunk/hfst-ospell">svn://svn.code.sf.net/p/hfst/code/trunk/hfst-ospell</a>
+                 <br/>Revision: 3989
+               </li>
+               <li>libreoffice-voikko: Git snapshot from the libreoffice-voikko repository
+                 <br/>URL: <a href="https://github.com/voikko/libreoffice-voikko">https://github.com/voikko/libreoffice-voikko</a>
+                 <br/>Commit: 08ba74a26d0e8c26f5d0eb0d14cbdd41775cbd1f
+               </li>
+               <li>ZLib 1.2.3</li>
+               <li>Libarchive 3.1.2</li>
+             </ul>
+           </td>
+         </tr>
+         </table >
+
+      </section>
+   </body>
+</document>
