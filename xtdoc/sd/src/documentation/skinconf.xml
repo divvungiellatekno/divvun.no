@@ -14,7 +14,8 @@ which will be used to configure the chosen Forrest skin.
     no search box. @domain will enable sitesearch for the specific domain with google.
     In other words google will search the @domain for the query string.
     -->
-<!--         <search provider="google" domain="www.divvun.no" name="Divvun" /> -->
+  <search provider="google" domain="www.divvun.no" name="Divvun"
+          box-location="alt"/>
 
 <!--   <search provider="lucene" name="Divvun" /> -->
 <!--  Some forrest versions make java crash, this one is a sure choice  -->
