@@ -29,12 +29,12 @@
               <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
             </td>
             <td>
-                     · <a href="/userdocs/win/index-msoff-2013-win7-8.html">Office 2013-bagadallan</a>
-              <br/>· <a href="/userdocs/win/index-msoff-2010-win7-8.html">Office 2010-bagadallan</a>
-              <br/>· <a href="/userdocs/win/index-msoff-2007-win7-8.html">Office 2007-bagadallan</a>
+                     · <a href="userdocs/win/index-msoff-2013-win7-8.html">Office 2013-bagadallan</a>
+              <br/>· <a href="userdocs/win/index-msoff-2010-win7-8.html">Office 2010-bagadallan</a>
+              <br/>· <a href="userdocs/win/index-msoff-2007-win7-8.html">Office 2007-bagadallan</a>
             </td>
             <td>
-              <br/><a href="/userdocs/videos/win-msoffice-video.html">
+              <br/><a href="userdocs/videos/win-msoffice-video.html">
               <icon alt="Instructions" height="48" width="48"
                 src="images/Movie-icon.png"/>bagadallanvideot</a></td>
             </tr>
@@ -57,15 +57,15 @@
               <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
             </td>
             <td>
-                     · <a href="/userdocs/win/index-msoff-2013-xp.html">Office 2013-bagadallan</a>
+                     · <a href="userdocs/win/index-msoff-2013-xp.html">Office 2013-bagadallan</a>
                      - <a href="sysadmininfo.html">Vigit maid birra juo diehtit</a>
-              <br/>· <a href="/userdocs/win/index-msoff-2010-xp.html">Office 2010-bagadallan</a>
+              <br/>· <a href="userdocs/win/index-msoff-2010-xp.html">Office 2010-bagadallan</a>
                      - <a href="sysadmininfo.html">Vigit maid birra juo diehtit</a>
-              <br/>· <a href="/userdocs/win/index-msoff-2007-xp.html">Office 2007-bagadallan</a>
-              <br/>· <a href="/userdocs/win/index-msoff-2007-xp.html">Office 2003-bagadallan</a>
+              <br/>· <a href="userdocs/win/index-msoff-2007-xp.html">Office 2007-bagadallan</a>
+              <br/>· <a href="userdocs/win/index-msoff-2007-xp.html">Office 2003-bagadallan</a>
             </td>
             <td>
-              <br/><a href="/userdocs/videos/win-msoffice-video.html">
+              <br/><a href="userdocs/videos/win-msoffice-video.html">
               <icon alt="Instructions" height="48" width="48"
                 src="images/Movie-icon.png"/>bagadallanvideot</a></td>
             </tr>
@@ -90,12 +90,12 @@
               <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
             </td>
             <td>
-              <br/>· <a href="/userdocs/mac/index-msoff-2011.html">Office 2011-bagadallan</a>
-              <br/>· <a href="/userdocs/mac/index-msoff-2008.html">Office 2008-bagadallan</a>
-              <br/>· <a href="/userdocs/mac/index-msoff-2008.html">Office 2004-bagadallan</a>
+              <br/>· <a href="userdocs/mac/index-msoff-2011.html">Office 2011-bagadallan</a>
+              <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2008-bagadallan</a>
+              <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2004-bagadallan</a>
             </td>
             <td>
-            <br/><a href="/userdocs/videos/mac-video.html">
+            <br/><a href="userdocs/videos/mac-video.html">
               <icon alt="Instructions" height="48" width="48"
                 src="images/Movie-icon.png"/>bagadallanvideot</a></td>
             </tr>
@@ -126,18 +126,18 @@
               <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
             </td>
             <td>
-              <br/>· <a href="/userdocs/mac/install-OOo-3.html"><icon
+              <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
                 alt="Linux" height="12" width="12"
                 src="images/Linux_Icon_256.png" />Linux-bagadallan</a>
-              <br/>· <a href="/userdocs/mac/install-OOo-3.html"><icon
+              <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
                 alt="MacOSX" height="12" width="12"
                 src="images/mac.png" />MacOSX-bagadallan</a>
-              <br/>· <a href="/userdocs/mac/install-OOo-3.html"><icon
+              <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
                 alt="Windows" height="12" width="12"
                 src="images/windows.png" />Windows-bagadallan</a>
             </td>
             <td>
-            <br/><a href="/userdocs/videos/ooo-video.html">
+            <br/><a href="userdocs/videos/ooo-video.html">
               <icon alt="Instructions" height="48" width="48"
                 src="images/Movie-icon.png"/>bagadallanvideot</a></td>
             </tr>
@@ -163,7 +163,7 @@
             </td>
             <td>
             <br/><br/>
-            <br/>· <a href="/userdocs/mac/install-indesign-CS3.html">Bagadallan</a></td>
+            <br/>· <a href="userdocs/mac/install-indesign-CS3.html">Bagadallan</a></td>
             <td>
             </td>
             </tr>
