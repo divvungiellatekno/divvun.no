@@ -222,53 +222,11 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                 </div>
                 <xsl:comment>bottomstrip with footer</xsl:comment>
                 <div class="row container-fluid">
-                    <xsl:comment>start group logo</xsl:comment>
-                    <xsl:if test="$config/group-url">
-                        <div class="col-sm-3">
-                            <xsl:call-template name="renderlogo">
-                                <xsl:with-param name="name" select="$config/group-name"/>
-                                <xsl:with-param name="url" select="$config/group-url"/>
-                                <xsl:with-param name="logo" select="$config/group-logo"/>
-                                <xsl:with-param name="root" select="$root"/>
-                                <xsl:with-param name="description" select="$config/group-description"/>
-                                <xsl:with-param name="height" select="150"/>
-                            </xsl:call-template>
-                        </div>
-                    </xsl:if>
-                    <xsl:comment>end group logo</xsl:comment>
-                    <div id="footer" class="col-sm-9">
+                    <div id="footer" class="col-sm-12">
                         <xsl:comment>start bottomstrip</xsl:comment>
                         <div class="lastmodified">
                             <xsl:call-template name="last-published"/>
                         </div>
-                        <xsl:if test="not($config/disable-copyright-footer = 'true')">
-                            <div class="copyright">
-                                Copyright &#169;
-                                <xsl:text> </xsl:text>
-                                <xsl:value-of select="$config/year"/>
-                                <xsl:call-template name="current-year">
-                                    <xsl:with-param name="copyrightyear" select="$config/year"/>
-                                </xsl:call-template>
-                                <xsl:text> </xsl:text>
-                                <xsl:choose>
-                                    <xsl:when test="$config/copyright-link">
-                                        <a>
-                                            <xsl:attribute name="href">
-                                                <xsl:value-of select="$config/copyright-link"/>
-                                            </xsl:attribute>
-                                            <xsl:value-of select="$config/vendor"/>
-                                        </a>
-                                    </xsl:when>
-                                    <xsl:otherwise>
-                                        <xsl:value-of select="$config/vendor"/>
-                                    </xsl:otherwise>
-                                </xsl:choose>
-                                <xsl:if test="$config/trademark-statement">
-                                    <br />
-                                    <xsl:value-of select="$config/trademark-statement"/>
-                                </xsl:if>
-                            </div>
-                        </xsl:if>
                         <xsl:if test="$filename = 'index.html'">
                             <div id="logos" >
                                 <xsl:if test="$config/disable-compliance-links/@align">
@@ -316,9 +274,6 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                                     <xsl:with-param name="root" select="$root"/>
                                 </xsl:call-template>
                             </div>
-                        </xsl:if>
-                        <xsl:if test="$config/feedback">
-                            <xsl:call-template name="feedback"/>
                         </xsl:if>
                         <xsl:comment>end bottomstrip</xsl:comment>
                     </div>
@@ -432,6 +387,54 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                 </div>
                 <xsl:comment>end search</xsl:comment>
             </xsl:if>
+            <xsl:comment>start group logo</xsl:comment>
+            <xsl:if test="$config/group-url">
+                <hr/>
+                <div class="group-logo">
+                    <xsl:call-template name="renderlogo">
+                        <xsl:with-param name="name" select="$config/group-name"/>
+                        <xsl:with-param name="url" select="$config/group-url"/>
+                        <xsl:with-param name="logo" select="$config/group-logo"/>
+                        <xsl:with-param name="root" select="$root"/>
+                        <xsl:with-param name="description" select="$config/group-description"/>
+                        <xsl:with-param name="height" select="150"/>
+                    </xsl:call-template>
+                </div>
+            </xsl:if>
+            <xsl:if test="not($config/disable-copyright-footer = 'true')">
+                <div class="copyright">
+                    Copyright &#169;
+                    <xsl:text> </xsl:text>
+                    <xsl:value-of select="$config/year"/>
+                    <xsl:call-template name="current-year">
+                        <xsl:with-param name="copyrightyear" select="$config/year"/>
+                    </xsl:call-template>
+                    <xsl:text> </xsl:text>
+                    <xsl:choose>
+                        <xsl:when test="$config/copyright-link">
+                            <a>
+                                <xsl:attribute name="href">
+                                    <xsl:value-of select="$config/copyright-link"/>
+                                </xsl:attribute>
+                                <xsl:value-of select="$config/vendor"/>
+                            </a>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:value-of select="$config/vendor"/>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                    <xsl:if test="$config/trademark-statement">
+                        <br />
+                        <xsl:value-of select="$config/trademark-statement"/>
+                    </xsl:if>
+                </div>
+                <div class="feedback">
+                    <xsl:if test="$config/feedback">
+                        <xsl:call-template name="feedback"/>
+                    </xsl:if>
+                </div>
+            </xsl:if>
+            <xsl:comment>end group logo</xsl:comment>
             <xsl:comment>credits in alternative location</xsl:comment>
             <div id="credit">
                 <xsl:if test="$filename = 'index.html' and $config/credits and ($config/credits/credit/@box-location = 'alt')">
