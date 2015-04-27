@@ -108,46 +108,50 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                         </div>
                     </xsl:if>
                     <xsl:comment>header</xsl:comment>
-                    <div class="header">
-                        <xsl:comment>start group logo</xsl:comment>
-                        <xsl:if test="$config/group-url">
-                            <div class="grouplogo">
-                                <xsl:call-template name="renderlogo">
-                                    <xsl:with-param name="name" select="$config/group-name"/>
-                                    <xsl:with-param name="url" select="$config/group-url"/>
-                                    <xsl:with-param name="logo" select="$config/group-logo"/>
-                                    <xsl:with-param name="root" select="$root"/>
-                                    <xsl:with-param name="description" select="$config/group-description"/>
-                                </xsl:call-template>
+                    <div class="header  col-sm-12">
+                        <xsl:comment>start Tabs</xsl:comment>
+                        <nav class="navbar navbar-default">
+                            <div class="container-fluid">
+                                <div class="navbar-header">
+                                    <xsl:comment>start Project Logo</xsl:comment>
+                                    <xsl:variable name="xtest">
+                                        <xsl:choose>
+                                            <xsl:when test="$config/group-url and $config/search and not($config/search/@box-location = 'alt')">
+                                                <xsl:text>true</xsl:text>
+                                            </xsl:when>
+                                            <xsl:otherwise>
+                                                <xsl:text>false</xsl:text>
+                                            </xsl:otherwise>
+                                        </xsl:choose>
+                                    </xsl:variable>
+                                    <xsl:if test="$xtest='false'" >
+                                        <xsl:attribute name="class">
+                                            <xsl:text>projectlogoA1</xsl:text>
+                                        </xsl:attribute>
+                                    </xsl:if>
+                                    <xsl:call-template name="renderlogo">
+                                        <xsl:with-param name="name" select="$config/project-name"/>
+                                        <xsl:with-param name="url" select="$config/project-url"/>
+                                        <xsl:with-param name="logo" select="$config/project-logo"/>
+                                        <xsl:with-param name="root" select="$root"/>
+                                        <xsl:with-param name="description" select="$config/project-description"/>
+                                        <xsl:with-param name="height" select="30"/>
+                                        <xsl:with-param name="aclass" select="'navbar-brand'"/>
+                                    </xsl:call-template>
+                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                                        <span class="icon-bar"/>
+                                        <span class="icon-bar"/>
+                                        <span class="icon-bar"/>
+                                    </button>
+                                </div>
+                                <xsl:comment>end Project Logo</xsl:comment>
+                                <div id="myNavbar" class="collapse navbar-collapse">
+                                    <xsl:apply-templates select="div[@id='tabs']/ul"/>
+                                </div>
                             </div>
-                        </xsl:if>
-                        <xsl:comment>end group logo</xsl:comment>
-                        <xsl:comment>start Project Logo</xsl:comment>
-                        <xsl:variable name="xtest">
-                            <xsl:choose>
-                                <xsl:when test="$config/group-url and $config/search and not($config/search/@box-location = 'alt')">
-                                    <xsl:text>true</xsl:text>
-                                </xsl:when>
-                                <xsl:otherwise>
-                                    <xsl:text>false</xsl:text>
-                                </xsl:otherwise>
-                            </xsl:choose>
-                        </xsl:variable>
-                        <div class="projectlogo">
-                            <xsl:if test="$xtest='false'" >
-                                <xsl:attribute name="class">
-                                    <xsl:text>projectlogoA1</xsl:text>
-                                </xsl:attribute>
-                            </xsl:if>
-                            <xsl:call-template name="renderlogo">
-                                <xsl:with-param name="name" select="$config/project-name"/>
-                                <xsl:with-param name="url" select="$config/project-url"/>
-                                <xsl:with-param name="logo" select="$config/project-logo"/>
-                                <xsl:with-param name="root" select="$root"/>
-                                <xsl:with-param name="description" select="$config/project-description"/>
-                            </xsl:call-template>
-                        </div>
-                        <xsl:comment>end Project Logo</xsl:comment>
+                        </nav>
+                        <xsl:comment>end Tabs</xsl:comment>
+
                         <xsl:if test="$config/search and not($config/search/@box-location = 'alt')">
                             <xsl:comment>start Search</xsl:comment>
                             <div class="searchbox">
@@ -180,21 +184,18 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                             </div>
                             <xsl:comment>end search</xsl:comment>
                         </xsl:if>
-                        <xsl:comment>start Tabs</xsl:comment>
-                        <xsl:apply-templates select="ul[@id='tabs']"/>
-                        <xsl:comment>end Tabs</xsl:comment>
                     </div>
                 </div>
                 <xsl:comment>centerstrip with menu and mainarea</xsl:comment>
-                <div id="main">
-                    <div id="publishedStrip">
+                <div id="main" class="container-fluid">
+<!--                    <div id="publishedStrip">
                         <xsl:comment>start Subtabs</xsl:comment>
                         <div id="level2tabs">
                             <xsl:apply-templates select="span[@id='level2tabs']/node()"/>
                         </div>
                         <xsl:comment>end Endtabs</xsl:comment>
                         <xsl:call-template name="last-published"/>
-                    </div>
+                    </div>-->
                     <xsl:comment>breadtrail</xsl:comment>
                     <div class="breadtrail">
                         <xsl:choose>
@@ -212,96 +213,114 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                         <xsl:call-template name="menu"/>
                     </xsl:if>
                     <xsl:comment>start content</xsl:comment>
-                    <xsl:apply-templates select="div[@id='content']"/>
+                    <div id="article" class="col-sm-9">
+                        <xsl:apply-templates select="div[@id='content']"/>
+                    </div>
                     <xsl:comment>end content</xsl:comment>
                     <div class="clearboth">&#160;</div>
                 </div>
                 <xsl:comment>bottomstrip with footer</xsl:comment>
-                <div id="footer">
-                    <xsl:comment>start bottomstrip</xsl:comment>
-                    <div class="lastmodified">
-                        <xsl:call-template name="last-published"/>
-                    </div>
-                    <xsl:if test="not($config/disable-copyright-footer = 'true')">
-                        <div class="copyright">
-                            Copyright &#169;
-                            <xsl:text> </xsl:text>
-                            <xsl:value-of select="$config/year"/>
-                            <xsl:call-template name="current-year">
-                                <xsl:with-param name="copyrightyear" select="$config/year"/>
-                            </xsl:call-template>
-                            <xsl:text> </xsl:text>
-                            <xsl:choose>
-                                <xsl:when test="$config/copyright-link">
-                                    <a>
-                                        <xsl:attribute name="href">
-                                            <xsl:value-of select="$config/copyright-link"/>
-                                        </xsl:attribute>
-                                        <xsl:value-of select="$config/vendor"/>
-                                    </a>
-                                </xsl:when>
-                                <xsl:otherwise>
-                                    <xsl:value-of select="$config/vendor"/>
-                                </xsl:otherwise>
-                            </xsl:choose>
-                            <xsl:if test="$config/trademark-statement">
-                                <br />
-                                <xsl:value-of select="$config/trademark-statement"/>
-                            </xsl:if>
-                        </div>
-                    </xsl:if>
-                    <xsl:if test="$filename = 'index.html'">
-                        <div id="logos" >
-                            <xsl:if test="$config/disable-compliance-links/@align">
-                                <xsl:attribute name="style">text-align: <xsl:value-of select="$config/disable-compliance-links/@align"/>
-                                </xsl:attribute>
-                            </xsl:if>
-                            <xsl:comment>W3C logos style="text-align: center;"</xsl:comment>
-                            <xsl:call-template name="compliancy-logos"/>
-                            <xsl:if test="$filename = 'index.html' and $config/credits">
-                                <xsl:for-each select="$config/credits/credit[not(@role='pdf')]">
-                                    <xsl:if test="not(@box-location = 'alt') and not(@box-location = 'alt2')">
-                                        <xsl:variable name="name" select="name"/>
-                                        <xsl:variable name="url" select="url"/>
-                                        <xsl:variable name="image" select="image"/>
-                                        <xsl:variable name="width" select="width"/>
-                                        <xsl:variable name="height" select="height"/><a href="{$url}">
-                                            <img alt="{$name} - logo" title="{$name}" border="0">
-                                                <xsl:attribute name="src">
-                                                    <xsl:if test="not(starts-with($image, 'http://'))">
-                                                        <xsl:value-of select="$root"/>
-                                                    </xsl:if>
-                                                    <xsl:value-of select="$image"/>
-                                                </xsl:attribute>
-                                                <xsl:attribute name="style">
-                                                    <xsl:if test="$width">width:
-                                                        <xsl:value-of select="$width"/>px;
-                                                    </xsl:if>
-                                                    <xsl:if test="$height">height:
-                                                        <xsl:value-of select="$height"/>px;
-                                                    </xsl:if>
-                                                </xsl:attribute>
-                                            </img>
-                                        </a>
-                                    </xsl:if>
-                                </xsl:for-each>
-                            </xsl:if>
-                        </div>
-                    </xsl:if>
-                    <xsl:if test="$config/host-logo and not($config/host-logo = '')">
-                        <div class="host">
+                <div class="row container-fluid">
+                    <xsl:comment>start group logo</xsl:comment>
+                    <xsl:if test="$config/group-url">
+                        <div class="col-sm-3">
                             <xsl:call-template name="renderlogo">
-                                <xsl:with-param name="name" select="$config/host-name"/>
-                                <xsl:with-param name="url" select="$config/host-url"/>
-                                <xsl:with-param name="logo" select="$config/host-logo"/>
+                                <xsl:with-param name="name" select="$config/group-name"/>
+                                <xsl:with-param name="url" select="$config/group-url"/>
+                                <xsl:with-param name="logo" select="$config/group-logo"/>
                                 <xsl:with-param name="root" select="$root"/>
+                                <xsl:with-param name="description" select="$config/group-description"/>
+                                <xsl:with-param name="height" select="150"/>
                             </xsl:call-template>
                         </div>
                     </xsl:if>
-                    <xsl:if test="$config/feedback">
-                        <xsl:call-template name="feedback"/>
-                    </xsl:if>
-                    <xsl:comment>end bottomstrip</xsl:comment>
+                    <xsl:comment>end group logo</xsl:comment>
+                    <div id="footer" class="col-sm-9">
+                        <xsl:comment>start bottomstrip</xsl:comment>
+                        <div class="lastmodified">
+                            <xsl:call-template name="last-published"/>
+                        </div>
+                        <xsl:if test="not($config/disable-copyright-footer = 'true')">
+                            <div class="copyright">
+                                Copyright &#169;
+                                <xsl:text> </xsl:text>
+                                <xsl:value-of select="$config/year"/>
+                                <xsl:call-template name="current-year">
+                                    <xsl:with-param name="copyrightyear" select="$config/year"/>
+                                </xsl:call-template>
+                                <xsl:text> </xsl:text>
+                                <xsl:choose>
+                                    <xsl:when test="$config/copyright-link">
+                                        <a>
+                                            <xsl:attribute name="href">
+                                                <xsl:value-of select="$config/copyright-link"/>
+                                            </xsl:attribute>
+                                            <xsl:value-of select="$config/vendor"/>
+                                        </a>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <xsl:value-of select="$config/vendor"/>
+                                    </xsl:otherwise>
+                                </xsl:choose>
+                                <xsl:if test="$config/trademark-statement">
+                                    <br />
+                                    <xsl:value-of select="$config/trademark-statement"/>
+                                </xsl:if>
+                            </div>
+                        </xsl:if>
+                        <xsl:if test="$filename = 'index.html'">
+                            <div id="logos" >
+                                <xsl:if test="$config/disable-compliance-links/@align">
+                                    <xsl:attribute name="style">text-align: <xsl:value-of select="$config/disable-compliance-links/@align"/>
+                                    </xsl:attribute>
+                                </xsl:if>
+                                <xsl:comment>W3C logos style="text-align: center;"</xsl:comment>
+                                <xsl:call-template name="compliancy-logos"/>
+                                <xsl:if test="$filename = 'index.html' and $config/credits">
+                                    <xsl:for-each select="$config/credits/credit[not(@role='pdf')]">
+                                        <xsl:if test="not(@box-location = 'alt') and not(@box-location = 'alt2')">
+                                            <xsl:variable name="name" select="name"/>
+                                            <xsl:variable name="url" select="url"/>
+                                            <xsl:variable name="image" select="image"/>
+                                            <xsl:variable name="width" select="width"/>
+                                            <xsl:variable name="height" select="height"/><a href="{$url}">
+                                                <img alt="{$name} - logo" title="{$name}" border="0">
+                                                    <xsl:attribute name="src">
+                                                        <xsl:if test="not(starts-with($image, 'http://'))">
+                                                            <xsl:value-of select="$root"/>
+                                                        </xsl:if>
+                                                        <xsl:value-of select="$image"/>
+                                                    </xsl:attribute>
+                                                    <xsl:attribute name="style">
+                                                        <xsl:if test="$width">width:
+                                                            <xsl:value-of select="$width"/>px;
+                                                        </xsl:if>
+                                                        <xsl:if test="$height">height:
+                                                            <xsl:value-of select="$height"/>px;
+                                                        </xsl:if>
+                                                    </xsl:attribute>
+                                                </img>
+                                            </a>
+                                        </xsl:if>
+                                    </xsl:for-each>
+                                </xsl:if>
+                            </div>
+                        </xsl:if>
+                        <xsl:if test="$config/host-logo and not($config/host-logo = '')">
+                            <div class="host">
+                                <xsl:call-template name="renderlogo">
+                                    <xsl:with-param name="name" select="$config/host-name"/>
+                                    <xsl:with-param name="url" select="$config/host-url"/>
+                                    <xsl:with-param name="logo" select="$config/host-logo"/>
+                                    <xsl:with-param name="root" select="$root"/>
+                                </xsl:call-template>
+                            </div>
+                        </xsl:if>
+                        <xsl:if test="$config/feedback">
+                            <xsl:call-template name="feedback"/>
+                        </xsl:if>
+                        <xsl:comment>end bottomstrip</xsl:comment>
+                    </div>
                 </div>
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"/>
                 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"/>
@@ -369,7 +388,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
 
     <xsl:template name="menu">
         <xsl:comment>start Menu</xsl:comment>
-        <div id="menu">
+        <div id="menu" class="col-sm-3">
             <ul class="nav nav-sidebar">
                 <xsl:comment>menu - inner</xsl:comment>
                 <xsl:for-each select = "div[@id='menu']/ul/li">
