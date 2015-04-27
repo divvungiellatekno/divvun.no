@@ -24,7 +24,10 @@
                 <li><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
            </ul></td>
            <td> </td>
-           <td><a href="svn://victorio.uit.no/langtech/trunk/langs/fin">Finnish source code</a>. More info coming soon.</td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/fin/j-fin.html">Finnish project</a>.
+               (For developers:
+               <a href="svn://victorio.uit.no/langtech/trunk/langs/fin">Finnish source code</a>. More info below.)
+            </td>
          </tr>
          <tr>
            <td>Greenlandic</td>
@@ -33,7 +36,10 @@
                 <li><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
            </ul></td>
            <td> </td>
-           <td><a href="svn://victorio.uit.no/langtech/trunk/langs/kal">Greenlandic source code</a>. More info coming soon.</td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project</a>.
+               (For developers:
+               <a href="svn://victorio.uit.no/langtech/trunk/langs/kal">Greenlandic source code</a>. More info below.)
+            </td>
          </tr>
          <tr>
            <td>Kven</td>
@@ -54,7 +60,10 @@
                 <li><a href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
            </ul></td>
            <td> </td>
-           <td><a href="svn://victorio.uit.no/langtech/trunk/langs/sme">North Sami source code</a>. More info coming soon.</td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/sme/j-sme.html">North Sami project</a>.
+               (For developers:
+               <a href="svn://victorio.uit.no/langtech/trunk/langs/sme">North Sami source code</a>. More info below.)
+            </td>
          </tr>
          </table>
       </section>
