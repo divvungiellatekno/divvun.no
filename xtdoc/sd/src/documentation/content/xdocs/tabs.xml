@@ -19,7 +19,7 @@
         <tab dir="events/" id="Events"  label="Arrangement" indexfile="events.html"/>
     </tab>
     <tab dir="korrektur/" id="Korrektur" label="Korrektur" indexfile="korrektur.html"/>
-    <tab dir="tastatur/" id="Tastatur" label="Tastatur" indexfile="tastatur.html"/>
+    <tab dir="keyboards/" id="Tastatur" label="Tastatur" indexfile="index.html"/>
     <tab dir="tale/" id="Tale" label="Tale" indexfile="tale.html"/>
     <tab dir="ordboker/" id="Ordbøker" label="Ordbøker" indexfile="ordboker.html"/>
     <tab dir="oversettelse/" id="Oversettelse" label="Oversettelse" indexfile="oversettelse.html"/>
