@@ -14,7 +14,7 @@
          <table>
          <tr>
            <th>Language</th>
-           <th colspan="2">Download</th>
+           <th colspan="2">Download                               </th>
            <th>Documentation and source code</th>
          </tr>
          <tr>
@@ -42,7 +42,10 @@
                 <li><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
            </ul></td>
            <td> </td>
-           <td><a href="svn://victorio.uit.no/langtech/trunk/langs/fkv">Kven source code</a>. More info coming soon.</td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html">Kven project</a>.
+               (For developers:
+           <a href="https://victorio.uit.no/langtech/trunk/langs/fkv">Kven source code</a>. More info below.)
+           </td>
          </tr>
          <tr>
            <td>North Sámi</td>
@@ -94,6 +97,15 @@
       should work fine for the specified LibreOffice versions, please bear with
       us and report any issues you find to
       <a href="mailto:feedback@divvun.no">feedback@divvun.no</a></p>
+
+      </section>
+
+      <section>
+         <title>For developers</title>
+
+         <p>The source code for each language is available at the links above,
+         and instructions for how to build each language can be found by
+         following the instructions <a href="/doc/infra/GettingStarted.html">here.</a></p>
 
       </section>
 
