@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2015-02-04T13:39:19.950467692</meta:creation-date><dc:date>2015-03-22T10:26:31.045034994</dc:date><meta:editing-duration>PT3H56M29S</meta:editing-duration><meta:editing-cycles>23</meta:editing-cycles><meta:generator>LibreOffice/4.4.1.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:title>Konsole output</dc:title><meta:document-statistic meta:table-count="1" meta:cell-count="2401" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2015-02-04T13:39:19.950467692</meta:creation-date><dc:date>2015-03-23T22:29:48.497748852</dc:date><meta:editing-duration>PT4H8M33S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:generator>LibreOffice/4.4.1.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:title>Konsole output</dc:title><meta:document-statistic meta:table-count="1" meta:cell-count="2424" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -13,14 +13,14 @@
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Sheet1">
-       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">7</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">255</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">1</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">37</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">68</config:config-item>
-       <config:config-item config:name="ActiveSplitRange" config:type="short">0</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">5</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">219</config:config-item>
@@ -61,7 +61,7 @@
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">rwH+/0hQX09mZmljZWpldF9Qcm9fODYwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpIUF9PZmZpY2VqZXRfUHJvXzg2MDAAAAAAAAAWAAMA1QAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SFBfT2ZmaWNlamV0X1Byb184NjAwCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpEdXBsZXg6Tm9uZQBJbnB1dFNsb3Q6QXV0bwBQYWdlU2l6ZTpBNAAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">rwH+/0hQX09mZmljZWpldF9Qcm9fODYwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpIUF9PZmZpY2VqZXRfUHJvXzg2MDAAAAAAAAAWAAMA1QAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SFBfT2ZmaWNlamV0X1Byb184NjAwCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpBNABJbnB1dFNsb3Q6QXV0bwBEdXBsZXg6Tm9uZQAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">HP_Officejet_Pro_8600</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
@@ -316,7 +316,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2015-03-22">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="10:04:38.199379441">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2015-03-23">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="22:17:44.523733810">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -2677,7 +2677,14 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>2015.03.23</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -6313,7 +6320,10 @@
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce18"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6336,7 +6346,10 @@
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce18"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6359,7 +6372,10 @@
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce18"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6382,7 +6398,10 @@
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce18"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6405,7 +6424,10 @@
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce18"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6428,7 +6450,10 @@
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce18"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6451,7 +6476,10 @@
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce18"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6509,7 +6537,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce18"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6534,7 +6565,10 @@
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Lulesamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce18"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6555,7 +6589,10 @@
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk, bokmål</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce18"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -7142,7 +7179,14 @@
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Svensk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>2015.03.23</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="4"/>
      <table:table-cell table:style-name="ce18"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -7165,7 +7209,14 @@
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>2015.03.23</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="4"/>
      <table:table-cell table:style-name="ce18"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -7188,7 +7239,14 @@
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>2015.03.23</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="4"/>
      <table:table-cell table:style-name="ce18"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -7211,7 +7269,14 @@
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce4" table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>2015.03.23</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="4"/>
      <table:table-cell table:style-name="ce18"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -7950,7 +8015,10 @@
      <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce7"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -7973,7 +8041,10 @@
      <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce7"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -7996,7 +8067,10 @@
      <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
       <text:p>Bokmål</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>BG 2015.03.20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce7"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
