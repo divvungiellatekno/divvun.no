@@ -1,59 +1,57 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="se">
     <header>
-        <title>Installering på iOS (iPhone / iPad / iPod)</title>
+        <title>Sajáiduhttin iOS:s (iPhone / iPad / iPod)</title>
     </header>
     <body>
-        <p>Etter å ha lastet ned appen fra App Store, kan det se omtrent slik ut:
+        <p>Go leat viežžan prográmma App Stores, de dáidá prográmma oidnot álgošearpmas:
         </p>
 
         <p>
-            <img width="213" src="images/ios_keyboard_home_screen.no.png" alt="Hjemmeskjerm med Samiske tastaturer"/>
+            <img width="213" src="images/ios_keyboard_home_screen.no.png" alt="Álgosearbma mas lea sajáiduhtton boallobeavdeprográmma"/>
         </p>
-        <p>Åpne appen:</p>
+        <p>Álggat prográmma:</p>
         <p>
-            <img width="213" src="images/ios_sami_keyboards_app.no.png" alt="App-skjermbilde"/>
+            <img width="213" src="images/ios_sami_keyboards_app.no.png" alt="Prográmma bures boahttin-govva"/>
         </p>
-        <p>Klikk på lenka «Åpne Innstillinger»</p>
-        <p>Gå til
+        <p>Coahkkal liŋkka «Åpne Innstillinger»</p>
+        <p>Mana dása:
 <strong>
 «Generelt &gt; Tastatur &gt; Tastaturer &gt; Legg til nytt tastatur..»
 </strong>
         </p>
 
         <p>
-            <img width="213" src="images/ios_general.no.png"          alt="Velg Generelt"/>
-            <img width="213" src="images/ios_keyboard.no.png"         alt="Velg Tastatur"/>
-            <img width="213" src="images/ios_keyboards.no.png"        alt="Velg Tastaturer"/>
-            <img width="213" src="images/ios_add_new_keyboard.no.png" alt="Velg Legg til nytt tastatur..."/>
+            <img width="213" src="images/ios_general.no.png"          alt="Vállje «Generelt»"/>
+            <img width="213" src="images/ios_keyboard.no.png"         alt="Vállje «Tastatur»"/>
+            <img width="213" src="images/ios_keyboards.no.png"        alt="Vállje «Tastaturer»"/>
+            <img width="213" src="images/ios_add_new_keyboard.no.png" alt="Vállje «Legg til nytt tastatur...»"/>
         </p>
 
-        <p>Under teksten «Tredjepartstastaturer» velg «Samiske tastaturer»:</p>
+        <p>Teavstta «Tredjepartstastaturer» vuolábealde válljet «Samiske tastaturer»:</p>
 
         <p>
-            <img width="213" src="images/ios_select_sami_keyboards.no.png" alt="Velg Samiske tastaturer"/>
+            <img width="213" src="images/ios_select_sami_keyboards.no.png" alt="Vállje «Samiske tastaturer»"/>
         </p>
-        <p>Slå på de tastaturene du er interessert i å bruke:</p>
+        <p>Vállje daid boallobevddiid maid háliidat geavahit:</p>
         <p>
-            <img width="213" src="images/ios_enable_keyboards.no.png" alt="Slå på ønskede tastaturer"/>
+            <img width="213" src="images/ios_enable_keyboards.no.png" alt="Vállje boallobevddiid maid háliidat geavahit"/>
         </p>
-        <p>Installasjonen er ferdig!</p>
+        <p>Sajáiduhttin lea geargan!</p>
 
-        <p>For å bytte til et samisk tastatur når du skriver, trykk og hold på globustasten til
-            venstre for mellomromstasten:</p>
+        <p>Go áiggut molsut boallobeavddi de deaddilat ja doalat globusboalu gaskaboalu gurutbealde:</p>
         <p>
-            <img width="213" src="images/ios_select_active_keyboard.no.png" alt="Meny med tilgjengelige tastaturer"/>
+            <img width="213" src="images/ios_select_active_keyboard.no.png" alt="Fállu mas leat evttolaš boallbeavddit"/>
         </p>
 
-        <p>Alternativt kan du bare trykke noen ganger på globustasten til du får
-        det tastaturet du vil ha.</p>
+        <p>Dahje sáhtát dušše coahkkalit globusboalu moadde háve dassái go boallobeavdi maid háliidat geavahit ihtá.</p>
 
-        <p>Merk at trykk-og-hold ikke fungerer når ett av de samiske tastaturene
-        er aktive. Dette er en <link
+        <p>Fuomáš ahte deaddil-ja-doala ii doaimma go sámi boallobeavddit lea aktiiva. Apple <a
         href="https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html"
-        >begrensing fra Apple</link> («there is no API to obtain a list of
+        >leat gáržidan dán eavttu</a> («there is no API to obtain a list of
         enabled keyboards or for picking a particular keyboard to switch to»),
-        og gjelder alle tredjepartstastaturer.</p>
-
+        buot vieris prográmmaid ovddas.</p>
     </body>
 </document>
