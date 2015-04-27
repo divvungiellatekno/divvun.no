@@ -153,13 +153,13 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                         <xsl:comment>end Tabs</xsl:comment>
 
                         <xsl:if test="div[@id='level2tabs']/ul/*">
-                        <xsl:comment>start Subtabs</xsl:comment>
-                        <div id="level2tabs">
-                            <nav  class="navbar navbar-default" role="navigation" id="submenu">
-                                <xsl:apply-templates select="div[@id='level2tabs']/node()"/>
-                            </nav>
-                        </div>
-                        <xsl:comment>end Subtabs</xsl:comment>
+                            <xsl:comment>start Subtabs</xsl:comment>
+                            <div id="level2tabs">
+                                <nav  class="navbar navbar-default" role="navigation" id="submenu">
+                                    <xsl:apply-templates select="div[@id='level2tabs']/node()"/>
+                                </nav>
+                            </div>
+                            <xsl:comment>end Subtabs</xsl:comment>
                         </xsl:if>
 
                         <xsl:if test="$config/search and not($config/search/@box-location = 'alt')">
