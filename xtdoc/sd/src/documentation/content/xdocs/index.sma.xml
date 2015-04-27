@@ -3,32 +3,32 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
     <header>
-        <title>Divvun - saami language technology</title>
+        <title>Divvun - Saemien gïeleteknologije</title>
         <meta name="description">Saemien staeriedæjja</meta>
     </header>
     <body>
       <ul class="col-sm-12 nobullet">
         <li class="col-sm-4">
-            We have <a href="keyboards/index.html">saami keyboards</a>
-            for North, Lule, South, Pite, Inari and Skolt saami on both
+            Mijjen leah <a href="keyboards/index.html">saemien båaloebuertieh</a>
+            Noerhtesaemien/-Julevsaemien/-Åarjelsaemien/-Pihtesaemien/-Anarsaemien/- jïh Skåaltesaemiengïelide
             <img src="/images/android.png" alt="android"/> and <img src="/images/ios8.png" alt="iOS 8"/>
         </li>
         <li class="col-sm-4">
-            We have <a href="laring/laring.html">E-learning apps</a> for <img src="/images/android.png" alt="android"/> and <img src="/images/ios.png" alt="iOS"/> as well as a Webapps
+            Mijjen leah <a href="laring/laring.html">E-lïerehtimmie programmh</a> for <img src="/images/android.png" alt="android"/> and <img src="/images/ios.png" alt="iOS"/> jïh aaj Gaskeviermieprogrammh
         </li>
         <li class="col-sm-4">
-            <a href="korrektur/korrektur.html">Spelling checkers</a> for <img alt="Windows" src="/images/windows_small.png"/>,  <img alt="OS X" src="/images/osx.png"/> and <img alt="Linux" src="/images/linux_small.png"/>
+            <a href="korrektur/korrektur.html">Staeriedimmieprogrammh</a> daejtie OSidie<img alt="Windows" src="/images/windows_small.png"/>,  <img alt="OS X" src="/images/osx.png"/> jïh <img alt="Linux" src="/images/linux_small.png"/>
         </li>
       </ul>
       <ul class="col-sm-12 nobullet">
         <li class="col-sm-4">
-            <a href="ordboker/ordboker.html">Dictionaries</a>, both web based and downloadable ones.
+            <a href="ordboker/ordboker.html">Baakoegærjah</a> dovne gaskeviermesne jïh sjïere programmesne. 
         </li>
         <li class="col-sm-4">
-            <a href="oversettelse/oversettelse.html">Translation memory</a>
+            <a href="oversettelse/oversettelse.html">Jarkoestimmiemojhtese</a>
         </li>
         <li class="col-sm-4">
-            North Saami <a href="tale/tale.html">speech synthesis</a> is upcoming
+            Noerhtesaemien <a href="tale/tale.html">Tekste-soptsestæmman programme</a> lea båetiemisnie
         </li>
       </ul>
     </body>
