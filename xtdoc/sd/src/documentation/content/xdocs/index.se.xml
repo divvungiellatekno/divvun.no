@@ -8,14 +8,12 @@
     </header>
     <body>
         <p>
-            We have <a href="keyboards/index.html">saami keyboards</a>
-            for North, Lule, South, Pite, Inari and Skolt saami on both
-            <img src="/images/android.png" alt="android"/> and <img src="/images/ios8.png" alt="iOS 8"/>
+            Mis leat davvi-, julev-, lulli-, bihttán-, anár- ja nuortalašsámegielat <a href="keyboards/index.html">boallobeavddit</a>  <img src="/images/android.png" alt="android"/> ja <img src="/images/ios8.png" alt="iOS 8"/> várás
         </p>
-        <p>We have <a href="laring/laring.html">E-learning apps</a> for <img src="/images/android.png" alt="android"/> and <img src="/images/ios.png" alt="iOS"/> as well as a Webapps</p>
-        <p><a href="korrektur/korrektur.html">Spelling checkers</a> for <img alt="Linux" src="/images/linux_small.png"/>, <img alt="Windows" src="/images/windows_small.png"/> and <img alt="OS X" src="/images/osx.png"/></p>
-        <p><a href="ordboker/ordboker.html">Dictionaries</a>; both web based and downloadable ones.</p>
-        <p><a href="oversettelse/oversettelse.html">Translation memory</a></p>
-        <p>North Saami <a href="tale/tale.html">speech synthesis</a> is upcoming</p>
+        <p>Mis leat <a href="laring/laring.html">e-oahppanprográmmát</a> <img src="/images/android.png" alt="android"/>, <img src="/images/ios.png" alt="iOS"/> ja neahtta várás</p>
+        <p>Mis leat davvi-, julev- ja lullisámi <a href="korrektur/korrektur.html">čállindárkkisteaddjit</a> <img alt="Windows" src="/images/windows_small.png"/>, <img alt="OS X" src="/images/osx.png"/> ja <img alt="Linux" src="/images/linux_small.png"/> várás</p>
+        <p>Neahttavuođđoduvvon ja vieččahahtti <a href="ordboker/ordboker.html">sátnegirjjit</a></p>
+        <p>Davvisámi <a href="tale/tale.html">hupmansyntesa</a> lea boađi-boađi</p>
+        <p><a href="oversettelse/oversettelse.html">Jorgalanmuitu</a></p>
     </body>
 </document>
