@@ -12,20 +12,12 @@
             Miján li <a href="keyboards/index.html">sáme tastatuvra</a>
             nuortta-, julev-, oarjjel-, bihtám-, anár- ja gålddåsámegielajda ma doajmmi sihke
             <img src="/images/android.png" alt="android"/> ja <img src="/images/ios8.png" alt="iOS 8"/> vuogádagájn
-<<<<<<< .mine
-        </p>
-        <p>Miján li <a href="laring/laring.html">e-oahppamprográmma</a> ma doajmmi sihke <img src="/images/android.png" alt="android"/> ja <img src="/images/ios.png" alt="iOS"/> vuogádagájn, duodden næhttaehpajda.</p>
-        <p><a href="korrektur/korrektur.html">Miján li nuortta-, julev- ja oarjjelsáme tjállemdárkastusá</a> ma doajmmi <img alt="Windows" src="/images/windows_small.png"/>,  <img alt="OS X" src="/images/osx.png"/> ja <img alt="Linux" src="/images/linux_small.png"/> vuogádagájn</p>
-        <p><a href="ordboker/ordboker.html">Dictionaries</a>; both web based and downloadable ones.</p>
-        <p>Nuorttasáme<a href="oversettelse/oversettelse.html"> jårggålimmujtto</a></p>
-        <p>Nuorttasáme<a href="tale/tale.html">hållamsyntiessa</a> la boahtemin</p>
-=======
         </li>
         <li class="col-sm-4">
-            We have <a href="laring/laring.html">E-learning apps</a> for <img src="/images/android.png" alt="android"/> and <img src="/images/ios.png" alt="iOS"/> as well as a Webapps
+            Miján li <a href="laring/laring.html">e-oahppamprográmma</a> ma doajmmi sihke <img src="/images/android.png" alt="android"/> ja <img src="/images/ios.png" alt="iOS"/> vuogádagájn, duodden næhttaehpajda.
         </li>
         <li class="col-sm-4">
-            <a href="korrektur/korrektur.html">Spelling checkers</a> for <img alt="Windows" src="/images/windows_small.png"/>,  <img alt="OS X" src="/images/osx.png"/> and <img alt="Linux" src="/images/linux_small.png"/>
+            <a href="korrektur/korrektur.html">Miján li nuortta-, julev- ja oarjjelsáme tjállemdárkastusá</a> ma doajmmi <img alt="Windows" src="/images/windows_small.png"/>,  <img alt="OS X" src="/images/osx.png"/> ja <img alt="Linux" src="/images/linux_small.png"/> vuogádagájn
         </li>
       </ul>
       <ul class="col-sm-12 nobullet">
@@ -33,12 +25,11 @@
             <a href="ordboker/ordboker.html">Dictionaries</a>, both web based and downloadable ones.
         </li>
         <li class="col-sm-4">
-            <a href="oversettelse/oversettelse.html">Translation memory</a>
+            Nuorttasáme<a href="oversettelse/oversettelse.html"> jårggålimmujtto</a>
         </li>
         <li class="col-sm-4">
-            North Saami <a href="tale/tale.html">speech synthesis</a> is upcoming
+            Nuorttasáme <a href="tale/tale.html">hållamsyntiessa</a> la boahtemin
         </li>
       </ul>
->>>>>>> .r106608
     </body>
 </document>
