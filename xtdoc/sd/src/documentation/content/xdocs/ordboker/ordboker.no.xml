@@ -8,11 +8,11 @@
     <body>
         <section>
             <title>sátni.org</title>
-            <p><a href="http://sátni.org">Sátni</a> er en ordbok laget med språkverktøy basert på gratis og åpen kildekode fra <a href="/">Divvun</a> og <a href="giellatekno.uit.no">Giellatekno</a>, i samarbeid med <a href="sametinget.no">Sametinget</a>.</p>
+            <p><a href="http://sátni.org">Sátni</a> er en ordbok laget med språkverktøy basert på gratis og åpen kildekode fra <a href="/">Divvun</a> og <a href="http://giellatekno.uit.no">Giellatekno</a>, i samarbeid med <a href="http://sametinget.no">Sametinget</a>.</p>
         </section>
         <section>
             <title>Andre ordbøker</title>
-            <p><a href="dicts.uit.no">dicts.uit.no</a> viser en liste over andre ordbøker som bygger på teknologi utviklet av <a href="/">Divvun</a> og <a href="giellatekno.uit.no">Giellatekno</a>.</p>
+            <p><a href="http://dicts.uit.no">dicts.uit.no</a> viser en liste over andre ordbøker som bygger på teknologi utviklet av <a href="/">Divvun</a> og <a href="http://giellatekno.uit.no">Giellatekno</a>.</p>
         </section>
    </body>
 </document>
