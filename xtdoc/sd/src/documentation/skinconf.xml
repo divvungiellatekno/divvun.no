@@ -97,7 +97,7 @@ which will be used to configure the chosen Forrest skin.
   -->
   <toc max-depth="2" min-sections="2" location="page" />
 <!-- Heading types can be clean|underlined|boxed  -->
-  <headings type="boxed" />
+  <!--<headings type="boxed" />-->
 <!-- The optional feedback element will be used to construct a
     feedback link in the footer with the page pathname appended:
     <a href="@href">{@to}</a>
@@ -111,107 +111,6 @@ which will be used to configure the chosen Forrest skin.
        used in your documentation.
     -->
   <extra-css>
-<!--Example of b.
-        To define the css definition of a new element that you may have used
-        in the class attribute of a <p> node.
-        e.g. <p class="quote"/>
-    -->
-#lang-choice {
-	width: 100%;
-	padding: 0px 0px 10px 0px;
-	font-family: Verdana, sans-serif;
-	}
-
-#lang-choice p {
-	display: inline;
-	}
-
-#lang-choice ul, #lang-choice li {
-	display: inline;
-	margin: 0;
-	padding: 0;
-	font-size: 95%;
-	}
-
-.grouplogo .logoImage {
-    height: 160px;
-}
-
-#top .projectlogo {
-    padding: 2em 4em 1em 0em;
-    text-align: center;
-	width: 90%;
-	float: none;
-}
-
-.projectlogo .logoImage {
-    height: 120px;
-}
-
-p.last_modified {
-  margin-left: 2em;
-  padding: .5em;
-  color: #aaa;
-  font-size: x-small;
-}
-dt {
-  font-weight: bold;
-}
-pre.code {
-  border: 1pt solid #ddd ;
-  padding: 2pt ;
-  background: #efefef ;
-}
-div.abstract {
-  border: 1pt dotted #ddd ;
-  padding: 2pt ;
-  background: #efefef ;
-  font-size: 88%;
-  margin-right: 10%;
-  margin-left:  12pt;
-  margin-bottom: 5pt;
-}
-div.abstract:before {
-  display: block;
-  text-align: left;
-  content: "Abstract:";
-  font-weight: bold;
-  font-size: small;
-}
-.nonvalid, .broken, .nonvalid td, .broken td {
-  background-color: pink !important;
-}
-.correct {
-  background-color: lightgreen;
-}
-.score {
-  color: grey;
-}
-
-.forced, .forced td {
-  background-color: yellow;
-}
-.ForrestTable {
-  background-color: #aaa;
-}
-
-a:hover {
-  background-color: #ddd;
-}
-
-/* Gradient color1 - color2 - color1 */
-/* Taken from: http://css-tricks.com/examples/hrs/ */
-
-p.line {
-    border: 0;
-    height: 1px;
-    background: #333;
-    background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc);
-    background-image:    -moz-linear-gradient(left, #ccc, #333, #ccc);
-    background-image:     -ms-linear-gradient(left, #ccc, #333, #ccc);
-    background-image:      -o-linear-gradient(left, #ccc, #333, #ccc);
-}
-
   </extra-css>
   <colors>
   </colors>
