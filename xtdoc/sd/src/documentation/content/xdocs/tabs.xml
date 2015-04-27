@@ -16,6 +16,7 @@
     <tab dir="" id="Ruoktu" label="Divvun" indexfile="index.html">
         <tab dir="about/" id="AboutUs" label="Om Divvun"   indexfile="about_divvun.html"/>
         <tab dir="events/" id="Events"  label="Arrangement" indexfile="events.html"/>
+        <tab label="Giellatekno" href="http://giellatekno.uit.no"/>
     </tab>
     <tab  dir="korrektur" id="Korrektur" label="Korrektur" indexfile="korrektur.html"       >
         <tab dir="korrektur" id="MSOffice"  label="For MSOffice"  indexfile="korrektur.html"      />
@@ -27,7 +28,6 @@
     <tab dir="ordboker/" id="Ordbøker" label="Ordbøker" indexfile="ordboker.html"/>
     <tab dir="oversettelse/" id="Oversettelse" label="Oversettelse" indexfile="oversettelse.html"/>
     <tab dir="laring/" id="Læring" label="Språkopplæring" indexfile="laring.html"/>
-    <tab label="Giellatekno" href="http://giellatekno.uit.no"/>
 
     <!--<tab id="adm" label="Administrašuvdna" dir="adm" indexfile="index.html" >
         <tab id="adm-gen" label="Oppalaš" dir="adm" indexfile="index.html" />
