@@ -45,13 +45,25 @@ which is then merged by site-to-xhtml.xsl
             <xsl:call-template name="base-tabs"/>
         </ul>
     </div>
+    <!--- orig-versjon av nivå2-flikane: -->
+    <!--div id="level2tabs">
+        <ul class="nav navbar-nav">
+            <xsl:call-template name="level2tabs"/>
+        </ul>
+    </div-->
     <xsl:if test="(tab/@id=$matching-id) or
                   (tab[@dir=$longest-dir]) or
                   (tab[@href=$longest-dir]) or
                   (tab[tab/@id=$matching-id])">
       <div id="level2tabs">
         <ul class="nav navbar-nav">
+            <!-- @id should take the id of the mother tab as its value -->
             <xsl:attribute name="id">
+              <!--xsl:value-of select="tab[@dir=$longest-dir]/@id"/-->
+                <!-- The choose statement will in effect take the first id
+                     of the second-level tabs of the current first-level tab
+                     - probably not what we want. What is the purpose of the
+                     @id of the ul? -->
                 <xsl:choose>
                   <xsl:when test="tab/@id=$matching-id">
                     <xsl:value-of select="tab[@id=$matching-id]/@id"/>
@@ -66,6 +78,20 @@ which is then merged by site-to-xhtml.xsl
                     <xsl:value-of select="tab[tab/@id=$matching-id]/tab/@id"/>
                   </xsl:when>
                 </xsl:choose>
+            </xsl:attribute>
+            <!-- DEBUG: -->
+            <xsl:attribute name="test">
+                  <xsl:value-of select="concat(
+                        '€',@id,
+                        '€',@dir,
+                        '€',$matching-id,
+                        '$',$longest-dir,
+                        '£',$level2-longest-dir,
+                        '•',tab[@id=$matching-id]/@id,
+                        '-',tab[@dir=$longest-dir]/tab/@id,
+                        '•',tab[@dir=$longest-dir]/@id,
+                        '+',tab[@href=$longest-dir]/@id,
+                        '•',tab[tab/@id=$matching-id]/@id)"/>
             </xsl:attribute>
         <xsl:call-template name="level2tabs"/>
         </ul>
