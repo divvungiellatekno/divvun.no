@@ -53,7 +53,7 @@
            <a href="https://victorio.uit.no/langtech/trunk/langs/fkv">Kven source code</a>. More info below.)
            </td>
          </tr>
-         <tr>
+         <!--tr>
            <td>Lule Sámi</td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win.oxt">For Windows</a></li>
@@ -64,7 +64,7 @@
                (For developers:
                <a href="https://victorio.uit.no/langtech/trunk/langs/smj">Lule Sami source code</a>. More info below.)
             </td>
-         </tr>
+         </tr-->
          <tr>
            <td>North Sámi</td>
            <td><ul>
