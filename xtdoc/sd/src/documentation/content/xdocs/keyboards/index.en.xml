@@ -3,28 +3,30 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
-        <title>Divvun - tastaturer</title>
+        <title>Divvun - keyboards</title>
     </header>
     <body>
 
 <!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
 
-        <p>Divvun har laget appen «Samiske tastaturer» med mobiltastaturer for
-            nord-, lule-, sør-, pite-, enare- og skoltesamisk. Appen finnes
+        <p>Divvun has made the app «Samiske tastaturer» (Sami keyboards)
+            containing mobile phone and tablet keyboards for North, Julev, South,
+            Pite, Inari and Skolt Sami. The app is available
             for <a
-            href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">Android</a> og <a
+href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami"
+                >Android</a> and <a
 href="https://itunes.apple.com/us/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
-                >iOS (iPhone og iPad)</a>.</p>
+                >iOS (iPhone and iPad)</a>.</p>
 
     <table>
         <tr>
             <td>
-                <img alt="Skjermbilde av Google Play-oppføringa"
+                <img alt="Screen shot of the Google Play entry"
                 src="images/google_play_entry.png"
                 width="300" />
             </td>
             <td>
-                <img alt="Skjermbilde av App Store-oppføringa"
+                <img alt="Screen shot of the App Store entry"
                 src="images/app_store_entry.png"
                 width="300" />
             </td>
@@ -32,12 +34,12 @@ href="https://itunes.apple.com/us/app/samiske-tastatur/id948386025?ls=1&amp;mt=8
         <tr><td> </td></tr>
         <tr>
             <td>
-                <img alt="Android-skjermbilde"
+                <img alt="Android screen shot"
                 src="/images/sami_keyboard_android.png"
                 width="300" />
             </td>
             <td>
-                <img alt="iPhone-skjermbilde"
+                <img alt="iPhone screen shot"
                 src="/images/sami_keyboard_ios.png"
                 width="300" />
             </td>
@@ -67,23 +69,23 @@ href="https://itunes.apple.com/us/app/samiske-tastatur/id948386025?ls=1&amp;mt=8
         <tr>
               <td>
                 <a href="installation_android.html">
-                 <img alt="Spørsmålsteikn" width="50"
+                 <img alt="Question mark icon" width="50"
                     src="/images/240px-Blue_question_mark.jpg"/><br/>
-                    Installeringshjelp
+                    Installation guide
                 </a>
               </td>
 
               <td>
                 <a href="installation_ios.html">
-                 <img alt="Spørsmålsteikn" width="50"
+                 <img alt="Question mark icon" width="50"
                     src="/images/240px-Blue_question_mark.jpg"/><br/>
-                    Installeringshjelp
+                    Installation guide
                 </a>
               </td>
           </tr>
 
         </table>
-        <p>Vi har ei enkel side om <a href="privacy.html">personvern</a> og
-        tastaturappene.</p>
+        <p>We have a very short <a href="privacy.html">privacy statement</a>
+        regarding the keyboard app.</p>
    </body>
 </document>
