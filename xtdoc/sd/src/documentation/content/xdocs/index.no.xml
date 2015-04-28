@@ -7,29 +7,29 @@
         <meta name="description">samisk stavekontroll</meta>
     </header>
     <body>
-      <div class="col-sm-12">
-        <p class="col-sm-4">
+      <ul class="col-sm-12 nobullet">
+        <li class="col-sm-4">
             Vi har <a href="keyboards/index.html">samiske tastatur</a>
             for nord‑, lule‑, sør‑, pite‑, enare‑ og skoltesamisk for både
             <img src="/images/android.png" alt="android"/> og <img src="/images/ios8.png" alt="iOS 8"/>
-        </p>
-        <p class="col-sm-4">
+        </li>
+        <li class="col-sm-4">
             Vi har <a href="laring/laring.html">E-læringsprogrammer</a> for <img src="/images/android.png" alt="android"/> og <img src="/images/ios.png" alt="iOS"/> samt som nettapper
-        </p>
-        <p class="col-sm-4">
+        </li>
+        <li class="col-sm-4">
             Vi har nord‑, lule- og sørsamiske <a href="korrektur/korrektur.html">stavekontroller</a> for <img alt="Windows" src="/images/windows_small.png"/>, <img alt="OS X" src="/images/osx.png"/> og <img alt="Linux" src="/images/linux_small.png"/>
-        </p>
-      </div>
-      <div class="col-sm-12">
-        <p class="col-sm-4">
+        </li>
+      </ul>
+      <ul class="col-sm-12 nobullet">
+        <li class="col-sm-4">
             Nettbaserte og nedlastbare <a href="ordboker/ordboker.html">ordbøker</a>
-        </p>
-        <p class="col-sm-4">
-            Nordsamisk <a href="tale/tale.html">talesyntese</a> er på gang
-        </p>
-        <p class="col-sm-4">
+        </li>
+        <li class="col-sm-4">
             <a href="oversettelse/oversettelse.html">Oversettelsesminne</a>
-        </p>
-      </div>
+        </li>
+        <li class="col-sm-4">
+            Nordsamisk <a href="tale/tale.html">talesyntese</a> er på gang
+        </li>
+      </ul>
     </body>
 </document>
