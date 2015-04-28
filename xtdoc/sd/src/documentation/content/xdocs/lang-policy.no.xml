@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+                          "http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+    <header> 
+        <title>Språkpolitikk for Divvun-prosjektet</title>
+
+	<authors>
+	  <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
+	</authors>
+
+    </header>
+    <body>
+        <section>
+          <title>Oversikt over språkpolitikken for dokumentasjonen</title>
+
+          <p>Prosjektet har en egen språkpolitikk som bestemmer hvilken
+             informasjon som skal være tilgjengelig på de forskjellige
+             språkene.</p>
+
+        <dl>
+          <dt>generell informasjon:</dt>
+          <dd>nordsamisk, lulesamisk, finsk, norsk og engelsk</dd>
+          <dt>brukerdokumentasjon:</dt>
+          <dd>på samme samiske språk som verktøyet, på majoritetsspråket
+              i de land språket brukes, samt engelsk</dd>
+          <dt>teknisk, prosjektintern dokumentasjon:</dt>
+          <dd>engelsk, unntaksvis på andre språk</dd>
+        </dl>
+
+        <p>Vi mener og håper denne språkpolitikken for prosjektets dokumentasjon
+           gir informasjon på relevante språk for alle brukere og intereserte
+           personer.</p>
+
+         <p  class="last_modified">Sist endret: $Date$,
+av $Author$</p>
+        </section>
+    </body>
+</document>

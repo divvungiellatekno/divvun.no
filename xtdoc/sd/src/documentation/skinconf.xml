@@ -14,9 +14,8 @@ which will be used to configure the chosen Forrest skin.
     no search box. @domain will enable sitesearch for the specific domain with google.
     In other words google will search the @domain for the query string.
     -->
-  <search provider="google" domain="www.divvun.no" name="Divvun"
-          box-location="alt"/>
-
+        <search provider="google" domain="www.divvun.no" name="Divvun" />
+  
 <!--   <search provider="lucene" name="Divvun" /> -->
 <!--  Some forrest versions make java crash, this one is a sure choice  -->
 <!-- Disable the print link? If enabled, invalid HTML 4.0.1 -->
@@ -40,12 +39,12 @@ which will be used to configure the chosen Forrest skin.
     Use e.g. align="center" to move the compliance links logos to
     an alternate location default is left.
     (if the skin supports it) -->
-  <disable-compliance-links>true</disable-compliance-links>
+  <disable-compliance-links>false</disable-compliance-links>
 <!-- Render mailto: links unrecognisable by spam harvesters? -->
   <obfuscate-mail-links>true</obfuscate-mail-links>
   <obfuscate-mail-value>.at.</obfuscate-mail-value>
 <!-- Disable the javascript facility to change the font size -->
-  <disable-font-script>true</disable-font-script>
+  <disable-font-script>false</disable-font-script>
 <!-- mandatory project logo
        default skin: renders it at the top -->
   <project-name>Divvun - Sámi Proofing</project-name>
@@ -69,7 +68,7 @@ which will be used to configure the chosen Forrest skin.
 <!-- relative url of a favicon file, normally favicon.ico -->
   <favicon-url/>
 <!-- The following are used to construct a copyright statement -->
-  <year>2015</year>
+  <year>2014</year>
   <vendor>UiT Norgga árktalaš universitehta</vendor>
 <!-- The optional copyright-link URL will be used as a link in the
     copyright statement
@@ -96,9 +95,9 @@ which will be used to configure the chosen Forrest skin.
   @location ("page","menu","page,menu", "none")
    Where to show the TOC.
   -->
-  <toc max-depth="2" min-sections="3" location="page" />
+  <toc max-depth="2" min-sections="2" location="page" />
 <!-- Heading types can be clean|underlined|boxed  -->
-  <!--<headings type="boxed" />-->
+  <headings type="boxed" />
 <!-- The optional feedback element will be used to construct a
     feedback link in the footer with the page pathname appended:
     <a href="@href">{@to}</a>
@@ -112,34 +111,105 @@ which will be used to configure the chosen Forrest skin.
        used in your documentation.
     -->
   <extra-css>
-.nobullet {
-    list-style: none;
-}
-.copyright, .feedback {
-    text-align: center;
-}
-.navbar {
-	margin-bottom:-1px;
-    border-radius:5px;
-}
-#level2tabs {
-    background-color: #e7e7e7;
-    margin-bottom: 20px;
-    margin-top:   -20px;
-    margin-left:   20px;
-    margin-right:  20px;
-    font-size:     80% ;
+<!--Example of b. 
+        To define the css definition of a new element that you may have used
+        in the class attribute of a <p> node.
+        e.g. <p class="quote"/>
+    -->
+#lang-choice {
+	width: 100%;
+	padding: 0px 0px 10px 0px;
+	font-family: Verdana, sans-serif;
+	}
+
+#lang-choice p {
+	display: inline;
+	}
+
+#lang-choice ul, #lang-choice li {
+	display: inline;
+	margin: 0;
+	padding: 0;
+	font-size: 95%;
+	}
+
+.grouplogo .logoImage {
+    height: 160px;
 }
 
-@media screen and (max-width:767px) {
-    .group-logo .logoImage,
-    .nav-sidebar,
-    .searchbox hr {
-        display: none;
-    }
-    .nobullet {
-        list-style: disc;
-    }
+#top .projectlogo {
+    padding: 2em 4em 1em 0em;
+    text-align: center;
+	width: 90%;
+	float: none;
+}
+
+.projectlogo .logoImage {
+    height: 120px;
+}
+
+p.last_modified {
+  margin-left: 2em;
+  padding: .5em;
+  color: #aaa;
+  font-size: x-small;
+}
+dt {
+  font-weight: bold;
+}
+pre.code {
+  border: 1pt solid #ddd ;
+  padding: 2pt ;
+  background: #efefef ;
+}
+div.abstract {
+  border: 1pt dotted #ddd ;
+  padding: 2pt ;
+  background: #efefef ;
+  font-size: 88%;
+  margin-right: 10%;
+  margin-left:  12pt;
+  margin-bottom: 5pt;
+}
+div.abstract:before {
+  display: block;
+  text-align: left;
+  content: "Abstract:";
+  font-weight: bold;
+  font-size: small;
+}
+.nonvalid, .broken, .nonvalid td, .broken td {
+  background-color: pink !important;
+}
+.correct {
+  background-color: lightgreen;
+}
+.score {
+  color: grey;
+}
+
+.forced, .forced td {
+  background-color: yellow;
+}
+.ForrestTable {
+  background-color: #aaa;
+}
+
+a:hover {
+  background-color: #ddd;
+}
+
+/* Gradient color1 - color2 - color1 */
+/* Taken from: http://css-tricks.com/examples/hrs/ */
+		
+p.line {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc); 
+    background-image:    -moz-linear-gradient(left, #ccc, #333, #ccc); 
+    background-image:     -ms-linear-gradient(left, #ccc, #333, #ccc); 
+    background-image:      -o-linear-gradient(left, #ccc, #333, #ccc); 
 }
 
   </extra-css>
@@ -147,7 +217,7 @@ which will be used to configure the chosen Forrest skin.
   </colors>
 <!-- Settings specific to PDF output. -->
   <pdf>
-<!--
+<!-- 
        Supported page sizes are a0, a1, a2, a3, a4, a5, executive,
        folio, legal, ledger, letter, quarto, tabloid (default letter).
        Supported page orientations are portrait, landscape (default
@@ -191,19 +261,19 @@ which will be used to configure the chosen Forrest skin.
     (if the skin supports it).
   -->
   <credits>
-    <!--<credit >
+    <credit >
       <name>Built with Apache Forrest</name>
       <url>http://forrest.apache.org/</url>
       <image>images/built-with-forrest-button.png</image>
       <width>88</width>
       <height>31</height>
-    </credit>-->
+    </credit>
 <!-- A credit with @role="pdf" will be used to compose a footer
      for each page in the PDF, using either "name" or "url" or both.
     -->
-    <!--<credit role="pdf">
+    <credit role="pdf">
       <name>Built with Apache Forrest</name>
       <url>http://forrest.apache.org/</url>
-    </credit>-->
+    </credit>
   </credits>
 </skinconfig>
