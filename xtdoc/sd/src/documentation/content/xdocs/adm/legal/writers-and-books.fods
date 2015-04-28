@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2015-02-04T13:39:19.950467692</meta:creation-date><dc:date>2015-02-12T18:44:08.670664223</dc:date><meta:editing-duration>PT2H39M21S</meta:editing-duration><meta:editing-cycles>19</meta:editing-cycles><meta:generator>LibreOffice/4.4.0.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:title>Konsole output</dc:title><meta:document-statistic meta:table-count="1" meta:cell-count="2376" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2015-02-04T13:39:19.950467692</meta:creation-date><dc:date>2015-03-04T12:40:42.300311891</dc:date><meta:editing-duration>PT2H52M32S</meta:editing-duration><meta:editing-cycles>20</meta:editing-cycles><meta:generator>LibreOffice/4.4.0.3$Linux_X86_64 LibreOffice_project/40m0$Build-3</meta:generator><dc:title>Konsole output</dc:title><meta:document-statistic meta:table-count="1" meta:cell-count="2376" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -14,16 +14,16 @@
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Sheet1">
        <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">362</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">274</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
-       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
-       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
-       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">1</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">37</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">68</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">334</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">263</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -31,7 +31,7 @@
       </config:config-item-map-entry>
      </config:config-item-map-named>
      <config:config-item config:name="ActiveTable" config:type="string">Sheet1</config:config-item>
-     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1763</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1145</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -61,7 +61,7 @@
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">rwH+/0hQX09mZmljZWpldF9Qcm9fODYwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpIUF9PZmZpY2VqZXRfUHJvXzg2MDAAAAAAAAAWAAMA1QAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SFBfT2ZmaWNlamV0X1Byb184NjAwCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpBNABJbnB1dFNsb3Q6QXV0bwBEdXBsZXg6Tm9uZQAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">rwH+/0hQX09mZmljZWpldF9Qcm9fODYwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpIUF9PZmZpY2VqZXRfUHJvXzg2MDAAAAAAAAAWAAMA1QAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SFBfT2ZmaWNlamV0X1Byb184NjAwCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpEdXBsZXg6Tm9uZQBJbnB1dFNsb3Q6QXV0bwBQYWdlU2l6ZTpBNAAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">HP_Officejet_Pro_8600</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
@@ -258,13 +258,19 @@
    <style:text-properties style:font-name="Liberation Serif" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="gr1" style:family="graphic">
-   <style:graphic-properties draw:marker-start="Arrowheads_20_1" draw:marker-start-width="2mm" draw:marker-start-center="false" draw:fill="solid" draw:fill-color="#ffffc0" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="2.7mm" fo:padding-top="1mm" fo:padding-bottom="1mm" fo:padding-left="1mm" fo:padding-right="1mm" draw:shadow="hidden" draw:shadow-offset-x="1mm" draw:shadow-offset-y="1mm" draw:caption-escape-direction="auto"/>
+   <style:graphic-properties draw:marker-start="Arrowheads_20_1" draw:marker-start-width="2mm" draw:marker-start-center="false" draw:fill="solid" draw:fill-color="#ffffc0" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="7.91mm" fo:padding-top="1mm" fo:padding-bottom="1mm" fo:padding-left="1mm" fo:padding-right="1mm" draw:shadow="hidden" draw:shadow-offset-x="1mm" draw:shadow-offset-y="1mm" draw:caption-escape-direction="auto"/>
   </style:style>
   <style:style style:name="gr2" style:family="graphic">
-   <style:graphic-properties draw:marker-start="Arrowheads_20_1" draw:marker-start-width="2mm" draw:marker-start-center="false" draw:fill="solid" draw:fill-color="#ffffc0" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="7.39mm" fo:padding-top="1mm" fo:padding-bottom="1mm" fo:padding-left="1mm" fo:padding-right="1mm" draw:shadow="hidden" draw:shadow-offset-x="1mm" draw:shadow-offset-y="1mm" draw:caption-escape-direction="auto"/>
+   <style:graphic-properties draw:marker-start="Arrowheads_20_1" draw:marker-start-width="2mm" draw:marker-start-center="false" draw:fill="solid" draw:fill-color="#ffffc0" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="15.81mm" fo:padding-top="1mm" fo:padding-bottom="1mm" fo:padding-left="1mm" fo:padding-right="1mm" draw:shadow="hidden" draw:shadow-offset-x="1mm" draw:shadow-offset-y="1mm" draw:caption-escape-direction="auto"/>
   </style:style>
   <style:style style:name="gr3" style:family="graphic">
    <style:graphic-properties draw:marker-start="Arrowheads_20_1" draw:marker-start-width="2mm" draw:marker-start-center="false" draw:fill="solid" draw:fill-color="#ffffc0" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="3.96mm" fo:padding-top="1mm" fo:padding-bottom="1mm" fo:padding-left="1mm" fo:padding-right="1mm" draw:shadow="hidden" draw:shadow-offset-x="1mm" draw:shadow-offset-y="1mm" draw:caption-escape-direction="auto"/>
+  </style:style>
+  <style:style style:name="gr4" style:family="graphic">
+   <style:graphic-properties draw:marker-start="Arrowheads_20_1" draw:marker-start-width="2mm" draw:marker-start-center="false" draw:fill="solid" draw:fill-color="#ffffc0" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="11.86mm" fo:padding-top="1mm" fo:padding-bottom="1mm" fo:padding-left="1mm" fo:padding-right="1mm" draw:shadow="hidden" draw:shadow-offset-x="1mm" draw:shadow-offset-y="1mm" draw:caption-escape-direction="auto"/>
+  </style:style>
+  <style:style style:name="gr5" style:family="graphic">
+   <style:graphic-properties draw:marker-start="Arrowheads_20_1" draw:marker-start-width="2mm" draw:marker-start-center="false" draw:fill="solid" draw:fill-color="#ffffc0" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="43.46mm" fo:padding-top="1mm" fo:padding-bottom="1mm" fo:padding-left="1mm" fo:padding-right="1mm" draw:shadow="hidden" draw:shadow-offset-x="1mm" draw:shadow-offset-y="1mm" draw:caption-escape-direction="auto"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties style:writing-mode="lr-tb"/>
@@ -292,6 +298,9 @@
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffc0"/>
    <style:paragraph-properties style:text-autospace="none" style:line-break="normal" style:writing-mode="page"/>
    <style:text-properties style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="10pt" fo:language="nb" fo:country="NO" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="10pt" fo:language="nb" fo:country="NO" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-number text:level="1" style:num-format="A">
@@ -689,7 +698,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2015-02-12">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="16:11:13.481107253">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2015-03-04">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="12:11:55.464087051">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -702,6 +711,7 @@
  <office:body>
   <office:spreadsheet>
    <table:table table:name="Sheet1" table:style-name="ta1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="ce2"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="ce2"/>
     <table:table-column table:style-name="co3" table:default-cell-style-name="ce2"/>
@@ -1053,7 +1063,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Anita Dunfjeld Aagård og Tone Marie Larsen</text:p>
+      <text:p>Anita Dunfjeld Aagård, Tone Marie Larsen</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1133,7 +1143,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Balto / Guttorm / Eriksen</text:p>
+      <text:p>Balto, Guttorm, Eriksen</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1353,7 +1363,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Berit Johnskareng og Marit Olsen</text:p>
+      <text:p>Berit Johnskareng, Marit Olsen</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1373,7 +1383,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Berit Johnskareng og Marit Olsen</text:p>
+      <text:p>Berit Johnskareng, Marit Olsen</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1652,7 +1662,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Ellen Marit Guttom / Ragnhild S. Turi</text:p>
+      <text:p>Ellen Marit Guttom, Ragnhild S. Turi</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1672,7 +1682,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Ellen Marit Guttom / Ragnhild S. Turi</text:p>
+      <text:p>Ellen Marit Guttom, Ragnhild S. Turi</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1692,7 +1702,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Ellen Marit Guttom / Ragnhild S. Turi</text:p>
+      <text:p>Ellen Marit Guttom, Ragnhild S. Turi</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1772,7 +1782,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Ellen Marit Guttorm og Anne D. Biti Mikalsen</text:p>
+      <text:p>Ellen Marit Guttorm, Anne D. Biti Mikalsen</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1832,7 +1842,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Esko Aikio / Jouni Aikio / Anja West Aikio</text:p>
+      <text:p>Esko Aikio, Jouni Aikio, Anja West Aikio</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1894,7 +1904,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Guri og Heaika Skum</text:p>
+      <text:p>Guri Skum, Heaika Skum</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1917,7 +1927,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Guri og Heaika Skum</text:p>
+      <text:p>Guri Skum, Heaika Skum</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1940,7 +1950,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Guri og Heaika Skum</text:p>
+      <text:p>Guri Skum, Heaika Skum</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -2047,7 +2057,7 @@
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Nordsamisk og norsk</text:p>
+      <text:p>Nordsamisk, norsk</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="8"/>
     </table:table-row>
@@ -2063,7 +2073,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Harald Gaski, John T. Solbakk og Aage Solbakk</text:p>
+      <text:p>Harald Gaski, John T. Solbakk, Aage Solbakk</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -2223,7 +2233,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Inga Alette Anti og Solfrid Sara Eira</text:p>
+      <text:p>Inga Alette Anti, Solfrid Sara Eira</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -2243,7 +2253,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Inga Alette Anti og Solfrid Sara Eira</text:p>
+      <text:p>Inga Alette Anti, Solfrid Sara Eira</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -2485,7 +2495,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Johan Jernsletten ovttas Sverre Hatliin</text:p>
+      <text:p>Johan Jernsletten, Sverre Hatliin</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
@@ -2522,7 +2532,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Johan Jernsletten ovttas Sverre Hatliin</text:p>
+      <text:p>Johan Jernsletten, Sverre Hatliin</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
@@ -2559,7 +2569,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Johan Jernsletten ovttas Sverre Hatliin</text:p>
+      <text:p>Johan Jernsletten, Sverre Hatliin</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
@@ -2596,7 +2606,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Johan Jernsletten ovttas Sverre Hatliin</text:p>
+      <text:p>Johan Jernsletten, Sverre Hatliin</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
@@ -2633,7 +2643,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Johan Jernsletten ovttas Sverre Hatliin</text:p>
+      <text:p>Johan Jernsletten, Sverre Hatliin</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
@@ -2670,7 +2680,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Johan Jernsletten ovttas Sverre Hatliin</text:p>
+      <text:p>Johan Jernsletten, Sverre Hatliin</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
@@ -2707,7 +2717,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Johan Jernsletten ovttas Sverre Hatliin</text:p>
+      <text:p>Johan Jernsletten, Sverre Hatliin</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
@@ -2744,7 +2754,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Johan Jernsletten ovttas Sverre Hatliin</text:p>
+      <text:p>Johan Jernsletten, Sverre Hatliin</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
@@ -2821,7 +2831,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Johnskareng / Mathisen / Skals</text:p>
+      <text:p>Johnskareng, Mathisen, Skals</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -2844,7 +2854,7 @@
       <text:p>June Sommer</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-      <text:p>Rauni Magga Lukkari / Sunna Pentha</text:p>
+      <text:p>Rauni Magga Lukkari, Sunna Pentha</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
@@ -3043,7 +3053,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kerttu Vuolab og Sverre Porsanger</text:p>
+      <text:p>Kerttu Vuolab, Sverre Porsanger</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3063,7 +3073,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Marit Olsen og Bodil Utsi Vars</text:p>
+      <text:p>Kirsten Marit Olsen, Bodil Utsi Vars</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3083,7 +3093,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Marit Olsen og Bodil Utsi Vars</text:p>
+      <text:p>Kirsten Marit Olsen, Bodil Utsi Vars</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3103,7 +3113,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Marit Olsen og Bodil Utsi Vars</text:p>
+      <text:p>Kirsten Marit Olsen, Bodil Utsi Vars</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3123,7 +3133,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Marit Olsen og Bodil Utsi Vars</text:p>
+      <text:p>Kirsten Marit Olsen, Bodil Utsi Vars</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3163,7 +3173,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3183,7 +3193,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3203,7 +3213,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3223,7 +3233,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3243,7 +3253,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3263,7 +3273,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3283,7 +3293,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3303,7 +3313,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3323,7 +3333,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3343,7 +3353,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3363,7 +3373,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3383,7 +3393,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3403,7 +3413,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3423,7 +3433,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3443,7 +3453,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3463,7 +3473,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3483,7 +3493,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3503,7 +3513,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3523,7 +3533,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3543,7 +3553,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3563,7 +3573,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3583,7 +3593,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3603,7 +3613,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Kirsten Pope og Máret Sárá</text:p>
+      <text:p>Kirsten Pope, Máret Sárá</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -4388,7 +4398,7 @@
       <text:p>Davvi Girji</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Toivo Lukkari og Heikkiarmas Lukkari</text:p>
+      <text:p>Toivo Lukkari, Heikkiarmas Lukkari</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -5991,7 +6001,7 @@
       <text:p>Davvi Girji OS</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Torkel Rasmussen og Liisa Helander</text:p>
+      <text:p>Torkel Rasmussen, Liisa Helander</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Ella Holm Bull</text:p>
@@ -8850,7 +8860,7 @@
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
       <office:annotation draw:style-name="gr1" draw:text-style-name="P2" svg:width="28.99mm" svg:height="9.91mm" svg:x="1088.72mm" svg:y="1526.9mm" draw:caption-point-x="-6.1mm" draw:caption-point-y="15.1mm">
        <dc:date>2015-02-12T00:00:00</dc:date>
-       <text:p text:style-name="P1">Har mistet kontrakten</text:p>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Har mistet kontrakten</text:span></text:p>
       </office:annotation>
       <text:p>ca 2009</text:p>
      </table:table-cell>
@@ -8858,7 +8868,7 @@
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
       <office:annotation draw:style-name="gr2" draw:text-style-name="P2" svg:width="28.99mm" svg:height="17.81mm" svg:x="1249.68mm" svg:y="1526.9mm" draw:caption-point-x="-6.1mm" draw:caption-point-y="15.1mm">
        <dc:date>2015-02-12T00:00:00</dc:date>
-       <text:p text:style-name="P1">Tekst mottatt av forfatter rett datamaskinen hans</text:p>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Tekst mottatt av forfatter rett datamaskinen hans</text:span></text:p>
       </office:annotation>
       <text:p>Ca 2009</text:p>
      </table:table-cell>
@@ -8885,9 +8895,9 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce7" table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
-      <office:annotation draw:style-name="gr1" draw:text-style-name="P2" svg:width="28.99mm" svg:height="5.96mm" svg:x="1088.72mm" svg:y="1531.41mm" draw:caption-point-x="-6.1mm" draw:caption-point-y="15.1mm">
+      <office:annotation draw:style-name="gr3" draw:text-style-name="P2" svg:width="28.99mm" svg:height="5.96mm" svg:x="1088.72mm" svg:y="1531.41mm" draw:caption-point-x="-6.1mm" draw:caption-point-y="15.1mm">
        <dc:date>2015-02-12T00:00:00</dc:date>
-       <text:p text:style-name="P1">Mistet kontrakten</text:p>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Mistet kontrakten</text:span></text:p>
       </office:annotation>
       <text:p>Ca 2008</text:p>
      </table:table-cell>
@@ -8916,7 +8926,7 @@
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
       <office:annotation draw:style-name="gr3" draw:text-style-name="P2" svg:width="28.99mm" svg:height="5.96mm" svg:x="1088.72mm" svg:y="1535.93mm" draw:caption-point-x="-6.1mm" draw:caption-point-y="15.1mm">
        <dc:date>2015-02-12T00:00:00</dc:date>
-       <text:p text:style-name="P1">Mistet kontrakten</text:p>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Mistet kontrakten</text:span></text:p>
       </office:annotation>
       <text:p>Ca 2008</text:p>
      </table:table-cell>
@@ -8945,7 +8955,7 @@
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
       <office:annotation draw:style-name="gr3" draw:text-style-name="P2" svg:width="28.99mm" svg:height="5.96mm" svg:x="1088.72mm" svg:y="1540.45mm" draw:caption-point-x="-6.1mm" draw:caption-point-y="15.1mm">
        <dc:date>2015-02-12T00:00:00</dc:date>
-       <text:p text:style-name="P1">Mistet kontrakten</text:p>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Mistet kontrakten</text:span></text:p>
       </office:annotation>
       <text:p>Ca 2008</text:p>
      </table:table-cell>
@@ -8980,7 +8990,7 @@
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
       <office:annotation draw:style-name="gr3" draw:text-style-name="P2" svg:width="28.99mm" svg:height="5.96mm" svg:x="1088.72mm" svg:y="1544.96mm" draw:caption-point-x="-6.1mm" draw:caption-point-y="15.1mm">
        <dc:date>2015-02-12T00:00:00</dc:date>
-       <text:p text:style-name="P1">Mistet kontrakten</text:p>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Mistet kontrakten</text:span></text:p>
       </office:annotation>
       <text:p>Ca 2008</text:p>
      </table:table-cell>
@@ -9056,17 +9066,17 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce7" table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
-      <office:annotation draw:style-name="gr1" draw:text-style-name="P2" svg:width="28.99mm" svg:height="5.96mm" svg:x="1088.72mm" svg:y="1558.51mm" draw:caption-point-x="-6.1mm" draw:caption-point-y="15.1mm">
+      <office:annotation draw:style-name="gr3" draw:text-style-name="P2" svg:width="28.99mm" svg:height="5.96mm" svg:x="1088.72mm" svg:y="1558.51mm" draw:caption-point-x="-6.1mm" draw:caption-point-y="15.1mm">
        <dc:date>2015-02-12T00:00:00</dc:date>
-       <text:p text:style-name="P1">Mistet kontrakt</text:p>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Mistet kontrakt</text:span></text:p>
       </office:annotation>
       <text:p>Ca 2008</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce7" table:number-columns-repeated="4"/>
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
-      <office:annotation draw:style-name="gr1" draw:text-style-name="P2" svg:width="28.99mm" svg:height="13.86mm" svg:x="1249.68mm" svg:y="1558.51mm" draw:caption-point-x="-6.1mm" draw:caption-point-y="15.1mm">
+      <office:annotation draw:style-name="gr4" draw:text-style-name="P2" svg:width="28.99mm" svg:height="13.86mm" svg:x="1249.68mm" svg:y="1558.51mm" draw:caption-point-x="-6.1mm" draw:caption-point-y="15.1mm">
        <dc:date>2015-02-12T00:00:00</dc:date>
-       <text:p text:style-name="P1">Mottok tekst på e-post fra forfatteren</text:p>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Mottok tekst på e-post fra forfatteren</text:span></text:p>
       </office:annotation>
       <text:p>Ca 2008</text:p>
      </table:table-cell>
@@ -9101,9 +9111,9 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce7" table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce14" office:value-type="date" office:date-value="2013-05-30" calcext:value-type="date">
-      <office:annotation draw:style-name="gr1" draw:text-style-name="P2" svg:width="28.99mm" svg:height="45.46mm" svg:x="1249.68mm" svg:y="1563.02mm" draw:caption-point-x="-6.1mm" draw:caption-point-y="15.1mm">
+      <office:annotation draw:style-name="gr5" draw:text-style-name="P2" svg:width="28.99mm" svg:height="45.46mm" svg:x="1249.68mm" svg:y="1563.02mm" draw:caption-point-x="-6.1mm" draw:caption-point-y="15.1mm">
        <dc:date>2015-02-12T00:00:00</dc:date>
-       <text:p text:style-name="P1">Hentet fra Børres harddisk. Børre jobbet som redaktør for denne boka, og fila som ble lagt inn er bortimot den endelig pdf&apos;en som ble sendt til trykkeriet.</text:p>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Hentet fra Børres harddisk. Børre jobbet som redaktør for denne boka, og fila som ble lagt inn er bortimot den endelig pdf&apos;en som ble sendt til trykkeriet.</text:span></text:p>
       </office:annotation>
       <text:p>30.05.2013</text:p>
      </table:table-cell>
