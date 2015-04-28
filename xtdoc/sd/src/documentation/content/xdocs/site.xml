@@ -20,11 +20,9 @@
     <about label="Davvisámegiella" tab="Ruoktu">
         <index description="Bures boahttin divvun.no prošektii" href="index.html" label="Álgosiidu"/>
 
-        <satni label="Sátni•báhko•baakoe support" href="satni/support.html"/>
         <timetable description="Prošeavtta plánat" href="timetable.html" label="Prošeavtta plánat" />
         <spelling description="Mo reaiddut ráhkaduvvot" href="howmake.html" label="Mo reaiddut ráhkaduvvojit" />
         <download_log description="Download log for the Divvun tools" href="Download_log.html" label="Download log" />
-        <satni_log description="Visitor log for satni.org" href="satni.html" label="Visit log for satni.org" />
         <pr href="pr/" label="Preassadieđáhusat">
             <pr1 description="divvun.no almmuhus"
                  href="pressrelease-20050613.html"
@@ -152,8 +150,10 @@
         <index href="tale/tale.html" label="Tale"/>
     </tale>
 
-    <ordbøker tab="Ordbøker" label="Ordbøker">
-        <index href="ordboker/ordboker.html" label="Ordbøker"/>
+    <ordbøker href="ordboker/" tab="Ordbøker" label="Ordbøker">
+        <index href="ordboker.html" label="Ordbøker"/>
+        <satni label="Sátni•báhko•baakoe support" href="support.html"/>
+        <satni_log description="Visitor log for satni.org" href="satni.html" label="Visit log for satni.org" />
     </ordbøker>
 
     <oversettelse tab="Oversettelse" label="Oversettelse">
