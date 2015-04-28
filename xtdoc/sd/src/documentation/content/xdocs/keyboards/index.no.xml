@@ -3,10 +3,9 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
-        <title>Divvun - tastatur</title>
+        <title>Divvun - tastaturer</title>
     </header>
     <body>
-        <h1>Tastaturer</h1>
 
 <!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
 
@@ -53,6 +52,27 @@ href="#"
                 </a>
               </div>
           </div>
+
+        <div class="row">
+              <div class="help">
+                <a href="installation_android.html">
+                 <img alt="Spørsmålsteikn" width="50"
+                    src="/images/240px-Blue_question_mark.jpg"/><br/>
+                    Installeringshjelp
+                </a>
+              </div>
+
+              <div class="help">
+                <a href="installation_ios.html">
+                 <img alt="Spørsmålsteikn" width="50"
+                    src="/images/240px-Blue_question_mark.jpg"/><br/>
+                    Installeringshjelp
+                </a>
+              </div>
+          </div>
+
         </div>
+        <p>Vi har ei enkel side om <a href="privacy.html">personvern</a> og
+        tastaturappane.</p>
    </body>
 </document>
