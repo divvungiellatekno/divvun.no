@@ -45,11 +45,27 @@ which is then merged by site-to-xhtml.xsl
             <xsl:call-template name="base-tabs"/>
         </ul>
     </div>
-    <xsl:if test="tab[@id=$matching-id]/tab">
+    <xsl:if test="(tab/@id=$matching-id) or
+                  (tab[@dir=$longest-dir]) or
+                  (tab[@href=$longest-dir]) or
+                  (tab[tab/@id=$matching-id])">
       <div id="level2tabs">
         <ul class="nav navbar-nav">
             <xsl:attribute name="id">
-                <xsl:value-of select="tab[@id=$matching-id]/@id"/>
+                <xsl:choose>
+                  <xsl:when test="tab/@id=$matching-id">
+                    <xsl:value-of select="tab[@id=$matching-id]/@id"/>
+                  </xsl:when>
+                  <xsl:when test="tab/@dir=$longest-dir">
+                    <xsl:value-of select="tab[@dir=$longest-dir]/tab/@id"/>
+                  </xsl:when>
+                  <xsl:when test="tab/@href=$longest-dir">
+                    <xsl:value-of select="tab[@href=$longest-dir]/tab/@id"/>
+                  </xsl:when>
+                  <xsl:when test="tab/tab/@id=$matching-id">
+                    <xsl:value-of select="tab[tab/@id=$matching-id]/tab/@id"/>
+                  </xsl:when>
+                </xsl:choose>
             </xsl:attribute>
         <xsl:call-template name="level2tabs"/>
         </ul>
