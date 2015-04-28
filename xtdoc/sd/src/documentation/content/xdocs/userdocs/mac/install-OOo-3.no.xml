@@ -13,13 +13,9 @@
 	<body>
 		<section>
 			<title>Installer stavekontrollene</title>
-			
+
 			<warning>Stavekontrollene for OpenOffice.org er fremdeles av <strong>BETA</strong>-kvalitet. Selvom de blir stadig bedre, er det  <em>kjente lingvistiske feil</em> i dem, spesielt med tanke på sammensatte ord.</warning>
 
-			<note>
-				Disse installasjoninstruksene er for <em>OpenOffice.org 3.x</em>. Vi har også en <a href="install_use_OOo2x.html">installasjonsinstruks for OpenOffice.org 2.4.x</a>, men bare på engelsk.
-			</note>
-			
 			<p>De samiske stavekontrollene for OpenOffice.org kan lastes ned  <a href="http://divvun.no/static_files/smi.oxt">her</a>. Den nedlastede stavekontrollmodulen ser slik ut:<br/>
 			 <img src="images/oxt-icon.png" alt="utvidelsesikon og filnavn" /></p>
 
@@ -33,9 +29,9 @@
 
 		<section>
             <title>Å bruke stavekontrollen</title>
-            
+
             <note label="Windows-brukere">Om tastatur og innspråk er satt opp som anbefalt i Windows, veksler stavekontrollspråket automatisk sammen med inndataspråket, og instruksjonene nedenfor er overflødige. Bare bytt tastatur!</note>
-            
+
             <p>For å slå på samisk stavekontroll:</p>
             <ul>
                 <li>Klikk i det tredje feltet fra venstre i statusområdet og deretter «Mer …»: <br />

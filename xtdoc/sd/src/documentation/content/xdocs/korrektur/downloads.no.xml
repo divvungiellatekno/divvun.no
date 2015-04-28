@@ -9,9 +9,9 @@
       <section>
          <title>Andre installeringsalternativ</title>
          <ul>
-            <li>Divvun for hele MacOS X: <a href="/userdocs/X-spell/install_macosx.html">instruksjoner</a> for hvordan
+            <li>Divvun for hele MacOS X: <a href="/userdocs/mac/install-macosx-10.6.html">instruksjoner</a> for hvordan
             man installerer og bruker Divvun-verktøyene i hele Mac OS X</li>
-            <li>Divvun for hele Linux: <a href="/userdocs/X-spell/install_linux.html">instruksjoner</a> for hvordan man
+            <li>Divvun for hele Linux: <a href="/userdocs/linux/install-linux.html">instruksjoner</a> for hvordan man
             installerer og bruker Divvun-verktøyene i hele Linux</li>
             <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> for å brenne en installerings-cd
             for alle tre operativsystemene</li>

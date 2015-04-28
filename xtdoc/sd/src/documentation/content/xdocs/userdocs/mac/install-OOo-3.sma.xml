@@ -13,14 +13,10 @@
 	<body>
 		<section>
 			<title>Staeriedimmieprovgraammem sijjiedehtedh</title>
-			
+
 			<warning>Staeriedimmieprovgraamme OpenOffice.org:se lea aanje <strong>BETA</strong>-slaaje. Jalths buerie-buerebe sjædta, læjhkan lea gellieh <em>lingvistihkeles fiejlieh</em>  mah leah mijjese åehpies, ektiedamme baakojne leah jïjnjemes dejstie fiejlijste.</warning>
 
-			<note>
-				Daah sijjiedehtemebïhkedassh leah <em>OpenOffice.org 3.x</em>:se. Mijjen lea aaj <a href="install_use_OOo2x.html">sijjiedehtemebihkedimmie OpenOffice.org 2.4.x:se</a>,lea englaantengïelesne.
-			</note>
-			
-			<p>Daesnie <a href="http://divvun.no/static_files/smi.oxt">here</a> maahtah staeriedimmiedïrregem viedtjedh. Naemhte dïhte staeriedimmiedïrrege  vååjnoe, goh leah veedtjeme:<br/> 
+			<p>Daesnie <a href="http://divvun.no/static_files/smi.oxt">here</a> maahtah staeriedimmiedïrregem viedtjedh. Naemhte dïhte staeriedimmiedïrrege  vååjnoe, goh leah veedtjeme:<br/>
 			 <img src="images/oxt-icon.png" alt="Extension icon and filename" /></p>
 
 			<p>Joekehtslaakan dåemede aktede weblohkijistie/-jïh operatijvesystemeste måbpan. Naakene systeminie dle fïjle rïhpese, mubpie dellie fijlem vöörhkesåvva garrediskese. Jïh fijle vöörhkesovveme, guektenaejkien diedtieh dam fijlem gosse sijjiedehtedh.</p>
@@ -34,7 +30,7 @@
 		<section>
             <title>Using the speller</title>
             <note label="Windows users">Jis båaloebuertie jïh sjïehteladteme saemma guktie Windows sæjhta, dellie staeriedimmiedïrrege aaj jeatjahtåvva saemma gïelese, vuesiehtimmie vuelelen eah leah daerpies. Barre molsesth båaloebuertiegïelem!</note>
-            
+
             <p>Saemien staeriedimmiedïrregem juhtiehtidh:</p>
             <ul>
                 <li>Diedtieh gåalmede dajvese dalteseföönsterisnie, diedtieh die "Mer" : <br />

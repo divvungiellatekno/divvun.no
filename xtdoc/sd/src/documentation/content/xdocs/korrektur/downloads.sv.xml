@@ -9,9 +9,9 @@
       <section>
          <title>Andra installationsalternativ</title>
          <ul>
-            <li>Divvun för hela MacOS X: <a href="/userdocs/X-spell/install_macosx.html">instruktioner</a> för hur
+            <li>Divvun för hela MacOS X: <a href="/userdocs/mac/install-macosx-10.6.html">instruktioner</a> för hur
             man installerar och använder Divvun-verktygen i hela Mac OS X</li>
-            <li>Divvun för hela Linux:<a href="/userdocs/X-spell/install_linux.html">instruktioner</a> för hur man
+            <li>Divvun för hela Linux:<a href="/userdocs/linux/install-linux.html">instruktioner</a> för hur man
             installerar och använder Divvun-verktygen i hela Linux</li>
             <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> för att bränna en
             installerings-cd för alla tre operativsystem</li>

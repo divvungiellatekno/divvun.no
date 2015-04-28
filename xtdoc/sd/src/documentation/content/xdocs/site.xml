@@ -22,7 +22,9 @@
         <oxts description="Beta releases of speller extensions for LibreOffice" href="libreofficeoxt.html" label="LibreOffice extensions"/>
         <divvun label="Dokumentašuvdna" href="userdocs/">
             <win label="MS Office for Windows" href="win/">
-                <win-msoffice description="Divvun for MS Office on Windows" href="install-msoff-2007-win7-8.html" label="Divvun for MS Office" />
+                <win-msoffice-win7 description="Divvun for MS Office on Windows 7" href="install-msoff-win7.html" label="Divvun for MS Office på Windows 7" />
+                <win-msoffice-win8 description="Divvun for MS Office on Windows 8" href="install-msoff-win8.html" label="Divvun for MS Office på Windows 8" />
+
             </win>
             <macms label="MS Office for MacOSX" href="mac/">
                 <off2011 label="MS Office 2011">
@@ -90,12 +92,12 @@
                  label="PRD: 2010.12.08" />
         </pr>
         <contact href="contact.html" label="Contact info"/>
-        <seminars href="seminars/" label="Seminars &amp; courses">
+        <seminars href="events/seminars/" label="Seminars &amp; courses">
             <cg-11 href="cg-11/" label="CG-kurs -11">
                     <program href="CG-kurs.html" label="Program"/>
             </cg-11>
         </seminars>
-        <workshops href="workshops/" label="Workshops">
+        <workshops href="events/workshops/" label="Workshops">
             <NorWEST2014 href="NorWEST2014/" label="NorWEST2014">
                 <wscfp   href="NorWEST2014.html" label="NorWEST2014 CFP"/>
                 <program href="WorkshopProgramme.html" label="Programme"/>

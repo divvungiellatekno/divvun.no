@@ -72,7 +72,7 @@
     &lt;tr&gt;&lt;td&gt;Adresse:&lt;/td&gt;                 &lt;td&gt;Gáhkkorluodda 6&lt;/td&gt;&lt;/tr&gt;
     &lt;tr&gt;&lt;td&gt;Postnummer og -stad:&lt;/td&gt;     &lt;td&gt;9520 Guovdageaidnu&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
-    
+
 &lt;table&gt;
     &lt;tr&gt;&lt;th&gt;Rolle:&lt;/th&gt;                   &lt;th&gt;Forleggjar&lt;/th&gt;&lt;/tr&gt;
     &lt;tr&gt;&lt;td&gt;Namn:&lt;/td&gt;                    &lt;td&gt;Davvi Girji&lt;/td&gt;&lt;/tr&gt;
@@ -133,7 +133,7 @@
                     Underskriftsdelen for det første eksemplet:
                 </p>
                 <source>&lt;title&gt;Underskrifter&lt;/title&gt;
-                    
+
 &lt;table&gt;
     &lt;tr&gt;&lt;th&gt;Avgjevarar&lt;/th&gt;    &lt;th&gt;Mottakar&lt;/th&gt;&lt;/tr&gt;
     &lt;tr&gt;&lt;td&gt;Stad og tid:&lt;/td&gt;  &lt;td&gt;Stad og tid:&lt;/td&gt;&lt;/tr&gt;
@@ -146,7 +146,7 @@
                     Underskriftsdelen for det andre eksemplet:
                 </p>
                 <source>&lt;title&gt;Underskrifter&lt;/title&gt;
-                    
+
 &lt;table&gt;
     &lt;tr&gt;&lt;th&gt;Avgjevarar&lt;/th&gt;    &lt;th&gt;Mottakar&lt;/th&gt;&lt;/tr&gt;
     &lt;tr&gt;&lt;td&gt;Stad og tid:&lt;/td&gt;  &lt;td&gt;Stad og tid:&lt;/td&gt;&lt;/tr&gt;
@@ -163,7 +163,7 @@
                     Man skal altså legge til eller slette de to siste radene før <strong>&lt;/table&gt;</strong>
                 </p>
                 <p>
-                    Når dette er gjort, må man sjekke om kontrakten er fylt ut korrekt. Start opp forrest som forklart i <a href="http://divvun.no/doc/infra/forrest-howto.html#Reading+the+documentation">oppsett av forrest</a>. Når det er klart er kontrakten <a href="http://localhost:8888/adm/legal/sd-contract.pdf?locale=nb">klar til å ses over</a>. Når alt er korrekt, skriv ut like mange eksemplarer av denne kontrakten som det er interessenter. For det første eksempelet vårt blir det tre eksemplar, for det andre skal det være fem.
+                    Når dette er gjort, må man sjekke om kontrakten er fylt ut korrekt. Start opp forrest som forklart i <a href="http://divvun.no/doc/infra/forrest-howto.html#Reading+the+documentation">oppsett av forrest</a>. Når det er klart er kontrakten <a href="http://localhost:8888/adm/legal/sd-contract.pdf">klar til å ses over</a>. Når alt er korrekt, skriv ut like mange eksemplarer av denne kontrakten som det er interessenter. For det første eksempelet vårt blir det tre eksemplar, for det andre skal det være fem.
                 </p>
             </section>
             <section>
@@ -182,13 +182,13 @@
             <section>
                 <title>Vedlegg 2</title>
                 <p>
-                    Skriv ut like mange eksemplarer av <a href="sd-contract-3.pdf?locale=nb">kontraktsmalen</a> som viser hvilke formål man kan bruke tekstene under i like mange eksemplarer som kontrakten ovenfor.
+                    Skriv ut like mange eksemplarer av <a href="sd-contract-3.pdf">kontraktsmalen</a> som viser hvilke formål man kan bruke tekstene under i like mange eksemplarer som kontrakten ovenfor.
                 </p>
             </section>
             <section>
                 <title>Utsendelse av kontrakten</title>
                 <p>
-                    Anbefalt måte er å sende alle eksemplarer til en interessent av gangen med en frankert konvolutt adressert til sametinget. Om kontrakten ikke har blitt returnert innen en viss tid vet man hvor den har stoppet opp og kan kontakte interessenten for å påminne om og underskrive kontrakten. I tillegg til den ferdigfrankerte konvolutten skal det være x antall kontrakter, x antall lister over bøker og x antall vedlegg 2. 
+                    Anbefalt måte er å sende alle eksemplarer til en interessent av gangen med en frankert konvolutt adressert til sametinget. Om kontrakten ikke har blitt returnert innen en viss tid vet man hvor den har stoppet opp og kan kontakte interessenten for å påminne om og underskrive kontrakten. I tillegg til den ferdigfrankerte konvolutten skal det være x antall kontrakter, x antall lister over bøker og x antall vedlegg 2.
                 </p>
             </section>
         </section>

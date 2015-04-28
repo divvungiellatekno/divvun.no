@@ -9,9 +9,9 @@
       <section>
          <title>Muut asennusvaihtoehdot</title>
          <ul>
-            <li>Divvun MacOS X:lle: <a href="/userdocs/X-spell/install_macosx.html">ohjeet</a> kuinka asentaa
+            <li>Divvun MacOS X:lle: <a href="/userdocs/mac/install-macosx-10.6.html">ohjeet</a> kuinka asentaa
             Divvun työkalut Mac OS X:lle</li>
-            <li>Divvun Linuxille: <a href="/userdocs/X-spell/install_linux.html">ohjeet</a> kuinka asentaa
+            <li>Divvun Linuxille: <a href="/userdocs/linux/install-linux.html">ohjeet</a> kuinka asentaa
             Divvun työkalut Linuxille</li>
             <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> joka voidaan polttaa CD:lle</li>
          </ul>
