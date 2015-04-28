@@ -2,7 +2,7 @@
                       "http://forrest.apache.org/dtd/tab-cocoon-v11.dtd">
 <tabs title="Divvun"
       software="Divvun"
-      copyright="Norgga Sámedikkis"
+      copyright="Norgga árktalaš universitehta"
       xmlns:xi="http://www.w3.org/2001/XInclude" >
 <!-- The rules for tabs are:
        @dir will always have '/@indexfile' added.
@@ -13,34 +13,40 @@
        Tabs can be embedded to a depth of two. The second level of tabs will only be
         displayed when their parent tab is selected.
     -->
-<!-- The id attribute in the tab tag has to match the tab attribute in site.xml --> 
-    <tab dir="" id="Ruoktu" label="Ruoktu" indexfile="index.html" />
+<!-- The id attribute in the tab tag has to match the tab attribute in site.xml -->
+    <tab dir="" id="Ruoktu" label="Heim" indexfile="index.html"/>
+    <tab dir="" id="Korrektur" label="Korrektur" indexfile="korrektur.html"/>
+    <tab dir="" id="Tastatur" label="Tastatur" indexfile="tastatur.html"/>
+    <tab dir="" id="Tale" label="Tale" indexfile="tale.html"/>
+    <tab dir="" id="Ordbøker" label="Ordbøker" indexfile="ordboker.html"/>
+    <tab dir="" id="Oversettelse" label="Oversettelse" indexfile="oversettelse.html"/>
+    <tab dir="" id="Læring" label="Språkopplæring" indexfile="oversettelse.html"/>
+    <tab label="Giellatekno" href="http://giellatekno.uit.no"/>
 
-    <tab id="adm" label="Administrašuvdna" dir="adm" indexfile="index.html" >
+    <!--<tab id="adm" label="Administrašuvdna" dir="adm" indexfile="index.html" >
         <tab id="adm-gen" label="Oppalaš" dir="adm" indexfile="index.html" />
-        <tab id="reports" label="Raporttat" dir="adm/reports" indexfile="monthoverview.html" />
+        <tab id="reports" label="Raporttat" dir="adm/reports" indexfile="monthoverview.html" />-->
         <!--tab id="outsrc"  label="Outsourcing" dir="adm/outsourcing" indexfile="overview.html" /-->
-        <tab id="polderland" label="Polderland" dir="adm/polderland" indexfile="index.html" />
+        <!--<tab id="polderland" label="Polderland" dir="adm/polderland" indexfile="index.html" />
         <tab id="board"   label="Styringsgruppa" dir="adm/board" indexfile="index.html" />
         <tab id="legal"   label="Legal" dir="adm/legal" indexfile="index.html" />
-    </tab>
+    </tab>-->
 
-    <tab href="http://giellatekno.uit.no" label="Giellatekno" />
 
     <!-- The Tech-Doc tab -->
-    <tab href="http://divvun.no/doc/index.html" label="TechDoc" />
+<!--     <tab href="http://divvun.no/doc/index.html" label="TechDoc" /> -->
 
     <!-- The Proofing Tech-Doc tab -->
-    <tab href="http://divvun.no/doc/proof/index.html" label="Proofing" />
+<!--     <tab href="http://divvun.no/doc/proof/index.html" label="Proofing" /> -->
 
     <!-- The TTS documentation tab -->
-    <tab href="http://divvun.no/ttsdoc/index.html" label="TTS" />
+<!--     <tab href="http://divvun.no/ttsdoc/index.html" label="TTS" /> -->
 
-    <tab dir="future" id="Plan" label="Future" indexfile="index.html">
+<!--     <tab dir="future" id="Plan" label="Future" indexfile="index.html"> -->
         <!-- The Proofing plans tab -->
-        <xi:include href="future/proofing/tabs-frag.xml" />
-    </tab>
+<!--         <xi:include href="future/proofing/tabs-frag.xml" /> -->
+<!--     </tab> -->
 
-    <tab href="http://victorio.uit.no/cgi-bin/wiki/index.php/Main_Page" label="Wiki"/>
+<!--     <tab href="http://victorio.uit.no/cgi-bin/wiki/index.php/Main_Page" label="Wiki"/> -->
 
 </tabs>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+   <header>
+      <title>Divvun - Sámi proofing tools</title>
+      <meta name="description">Saami speller, Saami spell checker</meta>
+   </header>
+   <body>
+      <p>June 13th, 2013: <strong>Divvun 3.0</strong> with support for
+      Windows 8 and Microsoft Office 2013 is available for download.</p>
+
+      <warning>If you have a Divvun 2.x version installed, you must uninstall
+        the old version before installing the new. Here you can find instructions
+        for <a href="userdocs/win/remove-msoff-win7-nob.html">Windows</a> and
+        <a href="userdocs/mac/remove-msoff-2008-nob.html">MacOS X</a>.</warning>
+
+      <note>
+        <icon alt="Latest news" height="48" width="48"
+        src="images/news-icon.png"/><strong>6.2.2014:</strong>
+        The dictionary webapp <a href="http://satni.org/">sátni.org</a> <a
+        href="http://www.sametinget.no/Spraak/Fakta-om-samiske-spraak/Ny-digital-ordbok-lanseres">was
+        released.</a> The webapp is a cooperation between Divvun and <a
+        href="http://www.sametinget.no/">the Sámi Parliament</a>, and contains
+        all Sámi dictionaries and terminology collections available to Divvun and
+        <a href="http://giellatekno.uit.no/">Giellatekno</a>,
+        including terminology from <a
+        href="http://samigiellagaldu.org">Giellagáldu's</a> and Divvun's <a
+        href="http://gtsvn.uit.no/termwiki">termwiki</a>.
+      </note>
+
+      <section>
+         <title>Download Divvun</title>
+         <table class="invisible">
+         <tr>
+         <td>
+         <ul>
+           <li class="Download"><a
+            href="http://divvun.no/static_files/msofficedivvuntools.msi"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="Office" height="27" width="27"
+            src="images/MSOffice-icon.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/windows.png"/><br/>Divvun for MS Office — Windows 7 and 8</a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+                · <a href="userdocs/win/index-msoff-2013-win7-8.html">Office 2013 instructions</a>
+           <br/>· <a href="userdocs/win/index-msoff-2010-win7-8.html">Office 2010 instructions</a>
+           <br/>· <a href="userdocs/win/index-msoff-2007-win7-8.html">Office 2007 instructions</a>
+         </td>
+         <td>
+           <br/><a href="userdocs/videos/win-msoffice-video.html">
+           <icon alt="Instructions" height="48" width="48"
+            src="images/Movie-icon.png"/>Instructional videos</a></td>
+         </tr>
+         <tr><td>
+         <ul>
+           <li class="Download"><a
+            href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="Office" height="27" width="27"
+            src="images/MSOffice-icon.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/windows.png"/><br/>Divvun for MS Office — Windows XP</a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+                · <a href="userdocs/win/index-msoff-2013-xp.html">Office 2013 instructions</a>
+                - <a href="sysadmininfo.html">Known issues</a>
+           <br/>· <a href="userdocs/win/index-msoff-2010-xp.html">Office 2010 instructions</a>
+                - <a href="sysadmininfo.html">Known issues</a>
+           <br/>· <a href="userdocs/win/index-msoff-2007-xp.html">Office 2007 instructions</a>
+           <br/>· <a href="userdocs/win/index-msoff-2007-xp.html">Office 2003 instructions</a>
+         </td>
+         <td>
+           <br/><a href="userdocs/videos/win-msoffice-video.html">
+           <icon alt="Instructions" height="48" width="48"
+            src="images/Movie-icon.png"/>Instructional videos</a></td>
+         </tr>
+         <tr>
+         <td colspan="4"><p class="line"/></td>
+         </tr>
+         <tr><td>
+         <ul>
+           <li class="Download"><a
+            href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/MSOffice-icon.png"/><icon
+            alt="MacOSX" height="27" width="27"
+            src="images/mac.png" /><br/>Divvun for MS Office — MacOS X</a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+           <br/>· <a href="userdocs/mac/index-msoff-2011.html">Office 2011 instructions</a>
+           <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2008 instructions</a>
+           <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2004 instructions</a>
+         </td>
+         <td>
+         <br/><a href="userdocs/videos/mac-video.html">
+           <icon alt="Instructions" height="48" width="48"
+            src="images/Movie-icon.png"/>Instructional videos</a></td>
+         </tr>
+         <tr>
+         <td colspan="4"><p class="line"/></td>
+         </tr>
+         <tr><td>
+         <ul>
+           <li class="Download"><a
+           href="http://divvun.no/static_files/smi.oxt"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/Galaxy_OOo3_main_256.png"/><icon
+            alt="Windows" height="27" width="27"
+            src="images/LibreOfficeIcon.png"/><icon
+            alt="Windows" height="32" width="32"
+            src="images/windows.png" /><icon
+            alt="MacOSX" height="32" width="32"
+            src="images/mac.png" /><icon
+            alt="Linux" height="27" width="27"
+            src="images/Linux_Icon_256.png" /><br/>Divvun for OpenOffice &amp; LibreOffice </a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+           <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
+            alt="Linux" height="12" width="12"
+            src="images/Linux_Icon_256.png" />Linux instructions</a>
+           <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
+            alt="MacOSX" height="12" width="12"
+            src="images/mac.png" />MacOSX instructions</a>
+           <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
+            alt="Windows" height="12" width="12"
+            src="images/windows.png" />Windows instructions</a>
+         </td>
+         <td>
+         <br/><a href="userdocs/videos/ooo-video.html">
+           <icon alt="Instructions" height="48" width="48"
+            src="images/Movie-icon.png"/>Instructional videos</a></td>
+         </tr>
+         <tr>
+         <td colspan="4"><p class="line"/></td>
+         </tr>
+         <tr><td>
+         <ul>
+           <li class="Download"><a
+            href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon
+            alt="Download" height="44" width="44"
+            src="images/Crystal_Clear_app_download_manager.png" /><icon
+            alt="Right arrow" height="18" width="18"
+            src="images/arrow-right-icon.png"/><icon
+            alt="MacOSX" height="27" width="27"
+            src="images/InDesign-icon.png" /><icon
+            alt="MacOSX" height="27" width="27"
+            src="images/mac.png" /><br/>Divvun for InDesign CS3, CS5.5 — MacOS X</a>
+           </li>
+         </ul></td>
+         <td>
+           <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+         </td>
+         <td>
+         <br/><br/>
+         <br/>
+               · <a href="userdocs/mac/install-indesign-CS3.html">Instructions</a>
+               - <a href="userdocs/mac/KnownIssuesForIndesignCS3.html">Known issues</a>
+         </td>
+         <td>
+         </td>
+         </tr>
+         <tr>
+         <td colspan="4"><p class="line"/></td>
+         </tr>
+         </table>
+         <p><br/></p>
+         <ul>
+           <li><a href="downloads.html">Other installation options, older versions</a></li>
+           <li><a href="sysadmininfo.html">Info for system administrators (English only)</a></li>
+         </ul>
+      </section>
+   </body>
+</document>
