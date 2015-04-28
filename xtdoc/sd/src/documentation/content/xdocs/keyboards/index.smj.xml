@@ -12,21 +12,24 @@
         <p>Divvun har laget appen «Samiske tastaturer» med mobiltastaturer for
             nord-, lule-, sør-, pite-, enare- og skoltesamisk. Appen finnes
             for <a
-            href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">Android</a> og iOS (iPhone og iPad).</p>
-            <note>iOS-appen er til godkjenning hos Apple. Appen vil bli
-                automatisk lagt ut så fort den er godkjent. I mellomtida
-                kan du bli en beta-tester ved å sende en e-post med
-                iTunes-kontoadressa di (ei e-postadresse) til
-                <a href="mailto:feedback@divvun.no">Divvun</a>.</note>
+            href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">Android</a> og <a
+href="https://itunes.apple.com/no/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
+                >iOS (iPhone og iPad)</a>.</p>
 
     <table>
         <tr>
             <td>
-                <img alt="Android-skjermbilde"
+                <img alt="Skjermbilde av Google Play-oppføringa"
                 src="images/google_play_entry.png"
                 width="300" />
             </td>
+            <td>
+                <img alt="Skjermbilde av App Store-oppføringa"
+                src="images/app_store_entry.png"
+                width="300" />
+            </td>
         </tr>
+        <tr><td> </td></tr>
         <tr>
             <td>
                 <img alt="Android-skjermbilde"
@@ -50,13 +53,14 @@ src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
               </td>
 
               <td>
-<!-- URL for App store:
-https://itunes.apple.com/no/app/samiske-tastatur/id948386025?ls=1&amp;mt=8 -->
+                  <a
+href="https://itunes.apple.com/no/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
+                >
                 <img
         alt="Last ned fra App Store"
         class="soon"
         src="/images/Download_on_the_App_Store_Badge_NO_135x40.png"/>
-        Kommer snart!
+                </a>
               </td>
           </tr>
 
@@ -80,6 +84,6 @@ https://itunes.apple.com/no/app/samiske-tastatur/id948386025?ls=1&amp;mt=8 -->
 
         </table>
         <p>Vi har ei enkel side om <a href="privacy.html">personvern</a> og
-        tastaturappane.</p>
+        tastaturappene.</p>
    </body>
 </document>
