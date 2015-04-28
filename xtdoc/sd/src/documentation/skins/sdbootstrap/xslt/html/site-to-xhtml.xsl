@@ -373,7 +373,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
             <xsl:comment>menu - inner</xsl:comment>
             <xsl:for-each select = "div[@id='menu']/ul/li">
                 <xsl:call-template name = "innermenuli" >
-                    <xsl:with-param name="id" select="concat('1.', position())"/>
+                    <xsl:with-param name="id" select="concat('1_', position())"/>
                 </xsl:call-template>
             </xsl:for-each>
             <xsl:comment>Search box: alternative location</xsl:comment>
@@ -592,7 +592,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                     </xsl:when>
                     <xsl:otherwise>
                         <xsl:call-template name = "innermenuli">
-                            <xsl:with-param name="id" select="concat($id, '.', position())"/>
+                            <xsl:with-param name="id" select="concat($id, '_', position())"/>
                         </xsl:call-template>
                     </xsl:otherwise>
                 </xsl:choose>
