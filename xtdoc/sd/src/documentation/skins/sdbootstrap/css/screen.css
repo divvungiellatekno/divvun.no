@@ -151,7 +151,7 @@ html>body #top .searchbox {
     background-image: url(images/rc-t-l-5-1header-2searchbox-3searchbox.png);
     background-repeat: no-repeat;
     background-position: top left;
-    bottom: -1px; /* compensate for IE rendering issue */*/
+    bottom: -1px;*/ /* compensate for IE rendering issue */
 }
 
 #top .searchbox form {
@@ -487,23 +487,23 @@ img.cornersmall {
 
 #footer {
 /*    clear: both;
-    position: relative; /* IE bugfix (http://www.dracos.co.uk/web/css/ie6floatbug/) */
-    width: 100%;
+    position: relative;*/ /* IE bugfix (http://www.dracos.co.uk/web/css/ie6floatbug/) */
+/*    width: 100%;
     background: #CFDCED;
     border-top: solid 1px #4C6C8F;
     color: black;*/
 }
 
 #footer .copyright {
-/*    position: relative; /* IE bugfix cont'd */
-    padding: 5px;
+/*    position: relative;*/ /* IE bugfix cont'd */
+/*    padding: 5px;
     margin: 0;
     width: 60%;*/
 }
 
 #footer .lastmodified {
-/*    position: relative; /* IE bugfix cont'd */
-    float: right;
+/*    position: relative;*/ /* IE bugfix cont'd */
+/*    float: right;
     width: 30%;
     padding: 5px;
     margin: 0;
@@ -541,8 +541,8 @@ acronym {
 /* ==================== snail trail ============================ */
 
 .trail {
-/*    position: relative; /* IE bugfix cont'd */
-    font-size: 70%;
+/*    position: relative; *//* IE bugfix cont'd */
+/*    font-size: 70%;
     text-align: right;
     float: right;
     margin: -10px 5px 0px 5px;
@@ -562,11 +562,11 @@ acronym {
 #minitoc-area {
 /*    border-top: solid 1px #4C6C8F;
     border-bottom: solid 1px #4C6C8F;
-    margin: 15px 10% 5px 15px;
+    margin: 15px 10% 5px 15px;*/
    /* margin-bottom: 15px;
     margin-left: 15px;
     margin-right: 10%;*/
-    padding-bottom: 7px;
+/*    padding-bottom: 7px;
     padding-top: 5px;*/
 }
 
@@ -585,8 +585,8 @@ li p {
 }
 
 .pdflink {
-/*    position: relative; /* IE bugfix cont'd */
-    float: right;
+/*    position: relative;*/ /* IE bugfix cont'd */
+/*    float: right;
     margin: 0px 5px;
     padding: 0;*/
 }
@@ -611,8 +611,8 @@ li p {
 }
 
 .xmllink {
-/*    position: relative; /* IE bugfix cont'd */
-    float: right;
+/*    position: relative; */ /* IE bugfix cont'd */
+/*    float: right;
     margin: 0px 5px;
     padding: 0;*/
 }
@@ -637,8 +637,8 @@ li p {
 }
 
 .podlink {
-/*    position: relative; /* IE bugfix cont'd */
-    float: right;
+/*    position: relative; *//* IE bugfix cont'd */
+/*    float: right;
     margin: 0px 5px;
     padding: 0;*/
 }
@@ -663,8 +663,8 @@ li p {
 }
 
 .printlink {
-/*    position: relative; /* IE bugfix cont'd */
-    float: right;*/
+/*    position: relative;*/ /* IE bugfix cont'd */
+/*    float: right;*/
 }
 
 .printlink br {
