@@ -17,7 +17,7 @@
       <section>
          <title>InDesign CS3</title>
          <p>Korrekturverktøykomponentene for InDesign CS3 er bygd på samme teknologi og arkitektur som
-         korrekturverktøyene for MS Office. Det finnes <a href="/doc/proof/hyph/MSOff/index.html">en egen side</a> som
+         korrekturverktøyene for MS Office. Det finnes <a href="http://divvun.no/doc/proof/hyph/MSOff/index.html">en egen side</a> som
          dokumenterer hvordan orddelinga fungerer.</p>
          <p>Korrekturverktøy for InDesign leveres for både nord-, lule- og sørsamisk. De virker bare med
          MacOSX-versjonen av InDesign. Det kreves InDesign CS3.</p>
@@ -122,7 +122,7 @@ Polderland</source>
       </section>
       <section>
          <title>Kjente problemer</title>
-         <p>Det finnes <a href="KnownIssuesCS3.html">en egen side med ofte stilte spørsmål, kjente problemer, og
+         <p>Det finnes <a href="KnownIssuesForIndesignCS3.html">en egen side med ofte stilte spørsmål, kjente problemer, og
          løsningsforslag</a>.</p>
       </section>
       <section>
