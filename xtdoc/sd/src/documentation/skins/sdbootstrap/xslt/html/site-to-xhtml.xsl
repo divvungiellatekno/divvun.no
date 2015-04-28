@@ -31,6 +31,8 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                 <xsl:call-template name="html-meta"/>
                 <xsl:comment>Add any metadata from the documents</xsl:comment>
                 <xsl:call-template name="meta-data"/>
+                <meta charset="utf-8"/>
+                <meta name="viewport" content="width=device-width, initial-scale=1"/>
                 <xsl:comment>title</xsl:comment>
                 <title>
                     <xsl:value-of select="div[@id='content']/h1"/>
@@ -64,6 +66,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                 <link rel="stylesheet" href="{$root}skin/screen.css" type="text/css" media="screen" />
                 <link rel="stylesheet" href="{$root}skin/print.css" type="text/css" media="print" />
                 <link rel="stylesheet" href="{$root}skin/profile.css" type="text/css" />
+                <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
                 <xsl:comment>Javascripts</xsl:comment>
                 <script type="text/javascript" language="javascript" src="{$root}skin/getBlank.js"></script>
                 <script type="text/javascript" language="javascript" src="{$root}skin/getMenu.js"></script>
@@ -300,6 +303,8 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                     </xsl:if>
                     <xsl:comment>end bottomstrip</xsl:comment>
                 </div>
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"/>
+                <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"/>
             </body>
         </html>
     </xsl:template>
