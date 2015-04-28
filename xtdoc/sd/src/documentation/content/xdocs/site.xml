@@ -19,7 +19,7 @@
 
     <about label="Davvisámegiella" tab="Ruoktu">
         <index description="Bures boahttin divvun.no prošektii" href="index.html" label="Álgosiidu"/>
-        <oxts description="Beta releases of speller extensions for LibreOffice" href="libreofficeoxt.html" label="LibreOffice extensions"/>
+
         <divvun label="Dokumentašuvdna" href="userdocs/">
             <win label="MS Office for Windows" href="win/">
                 <win-msoffice-win7 description="Divvun for MS Office on Windows 7" href="install-msoff-win7.html" label="Divvun for MS Office på Windows 7" />
@@ -105,13 +105,9 @@
         </workshops>
     </about>
 
-
-    <adm href="adm/" label="Administration" tab="adm">
-        <overview description="Administrative documentation" href="index.html" label="Index" />
-    </adm>
-
-    <korrektur tab="Korrektur" label="Korrektur">
+    <korrektur tab="Release" label="Korrektur">
         <index href="korrektur/korrektur.html" label="Stavekontroll"/>
+        <oxts tab="Beta" description="Beta releases of speller extensions for LibreOffice" href="libreofficebeta.html" label="LibreOffice extensions"/>
     </korrektur>
 
     <tastatur tab="Tastatur" label="Tastatur">
@@ -133,6 +129,12 @@
     <læring tab="Læring" label="Språkopplæring">
         <index href="laring/laring.html" label="Språkopplæring"/>
     </læring>
+
+
+
+    <adm href="adm/" label="Administration" tab="adm">
+        <overview description="Administrative documentation" href="index.html" label="Index" />
+    </adm>
 
     <legal href="adm/legal/" label="Legal" tab="legal">
         <overview href="index.html" label="Overview"
