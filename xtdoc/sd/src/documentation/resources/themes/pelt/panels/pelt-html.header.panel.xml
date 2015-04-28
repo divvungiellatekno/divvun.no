@@ -17,14 +17,14 @@
 -->
 <forrest:template xmlns:forrest="http://apache.org/forrest/templates/1.0"
 xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
-    <forrest:contract name="branding-breadcrumbs">
+  <!--<forrest:contract name="branding-breadcrumbs">
     <forrest:property name="branding-breadcrumbs">
         <trail>
         <link1 name="Norgga árktalaš universitehta" href="http://uit.no/"/>
         <link2 name="Divvun" href="http://divvun.no/"/>
         </trail>
     </forrest:property>
-  </forrest:contract>
+  </forrest:contract>-->
   <forrest:hook name="header">
     <forrest:contract name="branding-tagline">
       <forrest:property name="branding-tagline-name">new
