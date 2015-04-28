@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <document>
     <header>
-        <title>Installering på iOS (iPhone / iPad / iPod)</title>
+        <title>Sajájduhttem iOS:n (iPhone / iPad / iPod)</title>
     </header>
     <body>
-        <p>Etter å ha lastet ned appen fra App Store, kan det se omtrent slik ut:
+        <p>Gå la ehpav App Storas viedtjam soajttá návti vuojnnut:
         </p>
 
         <p>
             <img width="213" src="images/ios_keyboard_home_screen.no.png" alt="Hjemmeskjerm med Samiske tastaturer"/>
         </p>
-        <p>Åpne appen:</p>
+        <p>Rabá ehpav:</p>
         <p>
             <img width="213" src="images/ios_sami_keyboards_app.no.png" alt="App-skjermbilde"/>
         </p>
-        <p>Klikk på lenka «Åpne Innstillinger»</p>
-        <p>Gå til
+        <p>Dieddela sválldasav «Åpne Innstillinger»</p>
+        <p>Maná dási:
 <strong>
 «Generelt &gt; Tastatur &gt; Tastaturer &gt; Legg til nytt tastatur..»
 </strong>
@@ -28,30 +28,27 @@
             <img width="213" src="images/ios_add_new_keyboard.no.png" alt="Velg Legg til nytt tastatur..."/>
         </p>
 
-        <p>Under teksten «Tredjepartstastaturer» velg «Samiske tastaturer»:</p>
+        <p>Tevsta «Tredjepartstastaturer» vuolen vállji «Samiske tastaturer»:</p>
 
         <p>
             <img width="213" src="images/ios_select_sami_keyboards.no.png" alt="Velg Samiske tastaturer"/>
         </p>
-        <p>Slå på de tastaturene du er interessert i å bruke:</p>
+        <p>Vállji tastatuvrajt majt lágeda:</p>
         <p>
             <img width="213" src="images/ios_enable_keyboards.no.png" alt="Slå på ønskede tastaturer"/>
         </p>
-        <p>Installasjonen er ferdig!</p>
+        <p>Sajájduhttem le gærggam!</p>
 
-        <p>For å bytte til et samisk tastatur når du skriver, trykk og hold på globustasten til
-            venstre for mellomromstasten:</p>
+        <p>Gå tjáledijn sidá tastatuvrav målssot, dieddela ja adnala globusboalov gaskaboalo gåråbielen:</p>
         <p>
             <img width="213" src="images/ios_select_active_keyboard.no.png" alt="Meny med tilgjengelige tastaturer"/>
         </p>
 
-        <p>Alternativt kan du bare trykke noen ganger på globustasten til du får
-        det tastaturet du vil ha.</p>
+        <p>Máhtá aj dåssju globusboalov moaddi dieddelit dasik boadá dan tastatuvrraj majt ájgo.</p>
 
-        <p>Merk at trykk-og-hold ikke fungerer når ett av de samiske tastaturene
-        er aktive. Dette er en <link
+        <p>Gå sáme tastatuvrra la juo anon de ij dåhkki dieddelit-ja-adnalit. Dát la  <link
         href="https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html"
-        >begrensing fra Apple</link> («there is no API to obtain a list of
+        >gártjedus Apple bieles</link> («there is no API to obtain a list of
         enabled keyboards or for picking a particular keyboard to switch to»),
         og gjelder alle tredjepartstastaturer.</p>
 
