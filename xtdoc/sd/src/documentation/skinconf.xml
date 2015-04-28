@@ -118,6 +118,14 @@ which will be used to configure the chosen Forrest skin.
 .copyright, .feedback {
     text-align: center;
 }
+.navbar {
+	margin-bottom:-1px;
+    border-radius:5px;
+}
+#level2tabs {
+    background-color: #e7e7e7;
+    margin-bottom:20px;
+}
   </extra-css>
   <colors>
   </colors>
