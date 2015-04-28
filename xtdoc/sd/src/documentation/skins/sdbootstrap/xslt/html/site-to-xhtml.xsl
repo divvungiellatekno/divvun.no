@@ -20,7 +20,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" exclude-result-prefixes="i18n">
     <xsl:import href="lm://transform.skin.common.html.site-to-xhtml"/>
 
-    <xsl:comment>Overall site template</xsl:comment>
+    <!-- Overall site template -->
     <xsl:template match="site">
         <xsl:comment>html lang="en" xml:lang="en"</xsl:comment>
         <html>
@@ -81,7 +81,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
             <body>
                 <xsl:call-template name="carry-body-attribs"/>
                 <script type="text/javascript">ndeSetTextSize();</script>
-                <xsl:comment>+Site structure
+                <xsl:comment> +Site structure
 +++++++++++++++++++++++++++
 +=========================+
 |       topstrip          |
@@ -309,7 +309,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
     //  -->]]></script>
     </xsl:template>
 
-    <xsl:comment>headings</xsl:comment>
+    <!-- headings -->
     <xsl:template match="div[@class = 'skinconf-heading-1']">
         <xsl:choose>
             <xsl:when test="//skinconfig/headings/@type='underlined'">
@@ -350,7 +350,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
         </xsl:choose>
     </xsl:template>
 
-    <xsl:comment>Add links to any standards-compliance logos</xsl:comment>
+    <!-- Add links to any standards-compliance logos -->
     <xsl:template name="compliancy-logos">
         <xsl:if test="$filename = 'index.html' and $config/disable-compliance-links = 'false'">
             <a href="http://validator.w3.org/check/referer">
@@ -595,7 +595,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
         </div>
     </xsl:template>
 
-    <xsl:comment>Generates the PDF link</xsl:comment>
+    <!-- Generates the PDF link -->
     <xsl:template match="div[@id='skinconf-pdflink']">
         <xsl:if test="not($config/disable-pdf-link) or $disable-pdf-link = 'false'">
             <div class="pdflink" title="Portable Document Format">
@@ -680,7 +680,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
         </xsl:if>
     </xsl:template>
 
-    <xsl:comment>Message of the day</xsl:comment>
+    <!-- Message of the day -->
     <xsl:template match="div[@id='motd-page']">
         <xsl:if test="$config/motd">
             <xsl:for-each select="$config/motd/motd-option">
@@ -729,7 +729,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
     </xsl:template>
 
     <xsl:template match="div[@id='skinconf-toc-page']">
-    <xsl:comment>Table of Contents ToC</xsl:comment>
+        <xsl:comment>Table of Contents ToC</xsl:comment>
         <xsl:if test="$config/toc">
             <xsl:if test="contains($minitoc-location,'page')">
                 <xsl:if test="(count(//tocitems/tocitem) >= $config/toc/@min-sections) or (//tocitems/@force = 'true')">
