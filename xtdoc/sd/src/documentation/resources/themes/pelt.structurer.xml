@@ -15,9 +15,9 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<forrest:structurer xmlns:forrest="http://apache.org/forrest/templates/1.0" 
+<forrest:structurer xmlns:forrest="http://apache.org/forrest/templates/1.0"
   xmlns:jx="http://apache.org/cocoon/templates/jx/1.0"
-  jx:cache-key="#{$cocoon/parameters/getRequest}" 
+  jx:cache-key="#{$cocoon/parameters/getRequest}"
   jx:cache-validity="${Packages.org.apache.excalibur.source.impl.validity.NOPValidity()}">
 <!-- The following variables are used to contact data models and/or contracts. -->
     <jx:set var="contextPath" value="#{$cocoon/parameters/contextPath}"/>
@@ -41,7 +41,7 @@
         <forrest:hook name="container">
             <jx:import uri="cocoon://prepare.panels.pelt-html.header" />
             <forrest:hook name="page">
-                <forrest:hook class="breadtrail" nbsp="true" />
+                <!--<forrest:hook class="breadtrail" nbsp="true" />-->
                 <jx:import uri="cocoon://prepare.panels.pelt-html.leftbar" />
                 <!--
                 <forrest:hook class="languages">
