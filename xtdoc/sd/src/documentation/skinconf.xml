@@ -115,6 +115,9 @@ which will be used to configure the chosen Forrest skin.
 .nobullet {
     list-style: none;
 }
+.copyright, .feedback {
+    text-align: center;
+}
   </extra-css>
   <colors>
   </colors>
