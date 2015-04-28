@@ -3,21 +3,19 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
     <header>
-        <title>Divvun - Saemien staeriedimmiedïrregh</title>
+        <title>Divvun - saami language technology</title>
         <meta name="description">Saemien staeriedæjja</meta>
     </header>
     <body>
-        <table>
-            <tr>
-                <td><a href="korrektur/korrektur.html">Korrektur</a></td>
-                <td><a href="keyboards/index.html">Tastatur</a></td>
-                <td><a href="tale/tale.html">Tale</a></td>
-            </tr>
-            <tr>
-                <td><a href="ordboker/ordboker.html">Ordbøker</a></td>
-                <td><a href="oversettelse/oversettelse.html">Oversettelse</a></td>
-                <td><a href="laring/laring.html">Språklæring</a></td>
-            </tr>
-        </table>
+        <p>
+            We have <a href="keyboards/index.html">saami keyboards</a>
+            for North, Lule, South, Pite, Inari and Skolt saami on both
+            <img src="/images/android.png" alt="android"/> and <img src="/images/ios8.png" alt="iOS 8"/>
+        </p>
+        <p>We have <a href="laring/laring.html">E-learning apps</a> for <img src="/images/android.png" alt="android"/> and <img src="/images/ios.png" alt="iOS"/> as well as a Webapps</p>
+        <p><a href="korrektur/korrektur.html">Spelling checkers</a> for <img alt="Linux" src="/images/linux_small.png"/>, <img alt="Windows" src="/images/windows_small.png"/> and <img alt="OS X" src="/images/osx.png"/></p>
+        <p><a href="ordboker/ordboker.html">Dictionaries</a>; both web based and downloadable ones.</p>
+        <p><a href="oversettelse/oversettelse.html">Translation memory</a></p>
+        <p>North Saami <a href="tale/tale.html">speech synthesis</a> is upcoming</p>
     </body>
 </document>
