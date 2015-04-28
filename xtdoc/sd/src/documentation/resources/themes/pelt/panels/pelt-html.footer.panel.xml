@@ -23,7 +23,7 @@ xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
                 <forrest:property name="siteinfo-copyright">
                 <copyright>
                     <year inception="true">2004</year>
-                    <vendor>Norgga sámediggi · The Norwegian Sámi Parliament.</vendor>
+                    <vendor>Norgga árktalaš universitehta</vendor>
                     <!--
                     <copyright-link>http://www.acme.org/licenses/</copyright-link>
                     -->
@@ -34,9 +34,8 @@ xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
         <forrest:contract name="siteinfo-feedback">
             <forrest:properties contract="siteinfo-feedback">
                 <forrest:property name="siteinfo-feedback">
-                <feedback to="the Webmaster"
+                <feedback to="feedback"
                     href="mailto:divvun@samediggi.no?subject=Feedback&#160;" >
-                    Send feedback about the website to:
                 </feedback>
                 </forrest:property>
             </forrest:properties>
