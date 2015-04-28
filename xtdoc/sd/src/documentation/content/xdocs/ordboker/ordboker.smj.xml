@@ -3,16 +3,16 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
-        <title>Ordbøker</title>
+        <title>Báhkogirje</title>
     </header>
     <body>
         <section>
             <title>sátni.org</title>
-            <p><a href="http://xn--stni-5na.org">Sátni</a> er en ordbok laget med språkverktøy basert på gratis og åpen kildekode fra <a href="/">Divvun</a> og <a href="http://giellatekno.uit.no">Giellatekno</a>, i samarbeid med <a href="http://sametinget.no">Sametinget</a>.</p>
+            <p><a href="http://xn--stni-5na.org">Sátni</a> le báhkogirjje dagáduvvam giellaræjdoj ma li nåvgå ja majn li rabás gálddokåvdå åvddånahteduvvam <a href="/">Divvunis</a> ja <a href="http://giellatekno.uit.no">Giellateknos</a>, aktisasjbargon <a href="http://sametinget.no">Sámedikkijn</a>.</p>
         </section>
         <section>
-            <title>Andre ordbøker</title>
-            <p><a href="http://dicts.uit.no">dicts.uit.no</a> viser en liste over andre ordbøker som bygger på teknologi utviklet av <a href="/">Divvun</a> og <a href="http://giellatekno.uit.no">Giellatekno</a>.</p>
+            <title>Ietjá báhkogirje</title>
+            <p><a href="http://dicts.uit.no">dicts.uit.no</a> vaddá listav ietjá báhkogirjijs ma li åvddånahtedum<a href="/">Divvuna</a> ja <a href="http://giellatekno.uit.no">Giellatekno</a> teknologijja baktu</p>
         </section>
    </body>
 </document>
