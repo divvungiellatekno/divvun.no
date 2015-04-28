@@ -15,7 +15,7 @@ which will be used to configure the chosen Forrest skin.
     In other words google will search the @domain for the query string.
     -->
         <search provider="google" domain="www.divvun.no" name="Divvun" />
-  
+
 <!--   <search provider="lucene" name="Divvun" /> -->
 <!--  Some forrest versions make java crash, this one is a sure choice  -->
 <!-- Disable the print link? If enabled, invalid HTML 4.0.1 -->
@@ -39,12 +39,12 @@ which will be used to configure the chosen Forrest skin.
     Use e.g. align="center" to move the compliance links logos to
     an alternate location default is left.
     (if the skin supports it) -->
-  <disable-compliance-links>false</disable-compliance-links>
+  <disable-compliance-links>true</disable-compliance-links>
 <!-- Render mailto: links unrecognisable by spam harvesters? -->
   <obfuscate-mail-links>true</obfuscate-mail-links>
   <obfuscate-mail-value>.at.</obfuscate-mail-value>
 <!-- Disable the javascript facility to change the font size -->
-  <disable-font-script>false</disable-font-script>
+  <disable-font-script>true</disable-font-script>
 <!-- mandatory project logo
        default skin: renders it at the top -->
   <project-name>Divvun - Sámi Proofing</project-name>
@@ -111,7 +111,7 @@ which will be used to configure the chosen Forrest skin.
        used in your documentation.
     -->
   <extra-css>
-<!--Example of b. 
+<!--Example of b.
         To define the css definition of a new element that you may have used
         in the class attribute of a <p> node.
         e.g. <p class="quote"/>
@@ -201,15 +201,15 @@ a:hover {
 
 /* Gradient color1 - color2 - color1 */
 /* Taken from: http://css-tricks.com/examples/hrs/ */
-		
+
 p.line {
     border: 0;
     height: 1px;
     background: #333;
-    background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc); 
-    background-image:    -moz-linear-gradient(left, #ccc, #333, #ccc); 
-    background-image:     -ms-linear-gradient(left, #ccc, #333, #ccc); 
-    background-image:      -o-linear-gradient(left, #ccc, #333, #ccc); 
+    background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc);
+    background-image:    -moz-linear-gradient(left, #ccc, #333, #ccc);
+    background-image:     -ms-linear-gradient(left, #ccc, #333, #ccc);
+    background-image:      -o-linear-gradient(left, #ccc, #333, #ccc);
 }
 
   </extra-css>
@@ -217,7 +217,7 @@ p.line {
   </colors>
 <!-- Settings specific to PDF output. -->
   <pdf>
-<!-- 
+<!--
        Supported page sizes are a0, a1, a2, a3, a4, a5, executive,
        folio, legal, ledger, letter, quarto, tabloid (default letter).
        Supported page orientations are portrait, landscape (default
@@ -261,19 +261,19 @@ p.line {
     (if the skin supports it).
   -->
   <credits>
-    <credit >
+    <!--<credit >
       <name>Built with Apache Forrest</name>
       <url>http://forrest.apache.org/</url>
       <image>images/built-with-forrest-button.png</image>
       <width>88</width>
       <height>31</height>
-    </credit>
+    </credit>-->
 <!-- A credit with @role="pdf" will be used to compose a footer
      for each page in the PDF, using either "name" or "url" or both.
     -->
-    <credit role="pdf">
+    <!--<credit role="pdf">
       <name>Built with Apache Forrest</name>
       <url>http://forrest.apache.org/</url>
-    </credit>
+    </credit>-->
   </credits>
 </skinconfig>
