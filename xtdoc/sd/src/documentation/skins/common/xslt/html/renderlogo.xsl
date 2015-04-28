@@ -32,36 +32,38 @@ Note that text and image are mandatory parts of the template.
         <xsl:param name="width"/>
         <xsl:param name="height"/>
         <xsl:param name="root"/>
-        <xsl:param name="description"/><a href="{$url}">
-        <xsl:choose>
-            <xsl:when test="$logo and not($logo = '')">
-                <img alt="{$name}" class="logoImage">
-                    <xsl:attribute name="src">
-                        <xsl:if test="not(starts-with($logo, 'http://'))">
-                            <xsl:value-of select="$root"/>
+        <xsl:param name="description"/>
+        <a href="{$url}">
+            <xsl:choose>
+                <xsl:when test="$logo and not($logo = '')">
+                    <img alt="{$name}" class="logoImage">
+                        <xsl:attribute name="src">
+                            <xsl:if test="not(starts-with($logo, 'http://'))">
+                                <xsl:value-of select="$root"/>
+                            </xsl:if>
+                            <xsl:value-of select="$logo"/>
+                        </xsl:attribute>
+                        <xsl:if test="$width">
+                            <xsl:attribute name="width">
+                                <xsl:value-of select="$width"/>
+                            </xsl:attribute>
                         </xsl:if>
-                        <xsl:value-of select="$logo"/>
-                    </xsl:attribute>
-                    <xsl:if test="$width">
-                        <xsl:attribute name="width">
-                            <xsl:value-of select="$width"/>
-                        </xsl:attribute>
-                    </xsl:if>
-                    <xsl:if test="$height">
-                        <xsl:attribute name="height">
-                            <xsl:value-of select="$height"/>
-                        </xsl:attribute>
-                    </xsl:if>
-                    <xsl:if test="$description">
-                        <xsl:attribute name="title">
-                            <xsl:value-of select="$description"/>
-                        </xsl:attribute>
-                    </xsl:if>
-                </img>
-            </xsl:when>
-            <xsl:otherwise>
-                <xsl:value-of select="$name"/>
-            </xsl:otherwise>
-        </xsl:choose></a>
+                        <xsl:if test="$height">
+                            <xsl:attribute name="height">
+                                <xsl:value-of select="$height"/>
+                            </xsl:attribute>
+                        </xsl:if>
+                        <xsl:if test="$description">
+                            <xsl:attribute name="title">
+                                <xsl:value-of select="$description"/>
+                            </xsl:attribute>
+                        </xsl:if>
+                    </img>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="$name"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </a>
     </xsl:template>
 </xsl:stylesheet>
