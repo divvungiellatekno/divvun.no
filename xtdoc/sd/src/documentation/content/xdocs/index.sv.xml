@@ -3,19 +3,19 @@
 "http://förrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sv">
     <header>
-        <title>Divvun - samiska språkteknologi</title>
-        <meta name="description">samisk stavningskontroll</meta>
+        <title>Divvun - samisk språkteknologi</title>
+        <meta name="description">samisk rättstavning</meta>
     </header>
     <body>
         <p>
-            We have <a href="keyboards/index.html">saami keyboards</a>
-            for North, Lule, South, Pite, Inari and Skolt saami on both
-            <img src="/images/android.png" alt="android"/> and <img src="/images/ios8.png" alt="iOS 8"/>
+            Vi har <a href="keyboards/index.html">samiska tangentbord</a>
+            för nord-, lule-, syd-, pite-, enare- och skoltsamiska för både
+            <img src="/images/android.png" alt="android"/> och <img src="/images/ios8.png" alt="iOS 8"/>
         </p>
-        <p>We have <a href="laring/laring.html">E-learning apps</a> for <img src="/images/android.png" alt="android"/> and <img src="/images/ios.png" alt="iOS"/> as well as a Webapps</p>
-        <p><a href="korrektur/korrektur.html">Spelling checkers</a> for <img alt="Windows" src="/images/windows_small.png"/>,  <img alt="OS X" src="/images/osx.png"/> and <img alt="Linux" src="/images/linux_small.png"/></p>
-        <p><a href="ordboker/ordboker.html">Dictionaries</a>; both web based and downloadable ones.</p>
-        <p><a href="oversettelse/oversettelse.html">Translation memory</a></p>
-        <p>North Saami <a href="tale/tale.html">speech synthesis</a> is upcoming</p>
+        <p>Vi har <a href="laring/laring.html">språkinlärningsappar</a> för <img src="/images/android.png" alt="android"/> och <img src="/images/ios.png" alt="iOS"/> och som webappar</p>
+        <p>Vi har <a href="korrektur/korrektur.html">rättstavning</a> för <img alt="Windows" src="/images/windows_small.png"/>,  <img alt="OS X" src="/images/osx.png"/> och <img alt="Linux" src="/images/linux_small.png"/></p>
+        <p>Vi har <a href="ordboker/ordboker.html">ordböcker</a>; både webbaserade och nerladdningsbara.</p>
+        <p>Vi har verktyg för <a href="oversettelse/oversettelse.html">översättning</a></p>
+        <p>Nordsamisk <a href="tale/tale.html">talsyntes</a> är på kommande</p>
     </body>
 </document>
