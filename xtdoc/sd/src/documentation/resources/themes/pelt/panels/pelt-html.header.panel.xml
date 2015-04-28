@@ -20,7 +20,7 @@ xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
     <forrest:contract name="branding-breadcrumbs">
     <forrest:property name="branding-breadcrumbs">
         <trail>
-        <link1 name="Sámediggi" href="http://uit.no/"/>
+        <link1 name="Norgga árktalaš universitehta" href="http://uit.no/"/>
         <link2 name="Divvun" href="http://divvun.no/"/>
         </trail>
     </forrest:property>
