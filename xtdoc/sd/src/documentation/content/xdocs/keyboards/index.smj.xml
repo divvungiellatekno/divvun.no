@@ -3,18 +3,17 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
-        <title>Divvun - tastaturer</title>
+        <title>Divvun - tastatuvra</title>
     </header>
     <body>
 
 <!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
 
-        <p>Divvun har laget appen «Samiske tastaturer» med mobiltastaturer for
-            nord-, lule-, sør-, pite-, enare- og skoltesamisk. Appen finnes
-            for <a
-            href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">Android</a> og <a
+        <p>Divvun la ásadam ehpav «Samiske tastaturer» gånnå li mobiltastatuvra nuortta-, julev-, oarjje-, bihtám-, anár- og gålldåsámegielajda.   Æhppa doajmmá
+            sihke <a
+            href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">Android</a> ja <a
 href="https://itunes.apple.com/no/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
-                >iOS (iPhone og iPad)</a>.</p>
+                >iOS (iPhone og iPad)</a>operatijvavuogádagájn.</p>
 
     <table>
         <tr>
@@ -69,7 +68,7 @@ href="https://itunes.apple.com/no/app/samiske-tastatur/id948386025?ls=1&amp;mt=8
                 <a href="installation_android.html">
                  <img alt="Spørsmålsteikn" width="50"
                     src="/images/240px-Blue_question_mark.jpg"/><br/>
-                    Installeringshjelp
+                    Sajájduhttemviehkke
                 </a>
               </td>
 
@@ -77,13 +76,13 @@ href="https://itunes.apple.com/no/app/samiske-tastatur/id948386025?ls=1&amp;mt=8
                 <a href="installation_ios.html">
                  <img alt="Spørsmålsteikn" width="50"
                     src="/images/240px-Blue_question_mark.jpg"/><br/>
-                    Installeringshjelp
+                    Sajájduhttemviehkke
                 </a>
               </td>
           </tr>
 
         </table>
-        <p>Vi har ei enkel side om <a href="privacy.html">personvern</a> og
-        tastaturappene.</p>
+        <p>Miján le sijddo <a href="privacy.html">persåvnåsuodjalime</a> ja
+        tastatuvrraehpa birra.</p>
    </body>
 </document>
