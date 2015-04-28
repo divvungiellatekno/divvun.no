@@ -17,7 +17,7 @@
 -->
 <forrest:template xmlns:forrest="http://apache.org/forrest/templates/1.0"
 xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
-  <!-- 
+  <!--
     @type defines this structurer to html.
     @hooksXpath defines where all hooks will be injected (as prefix).
   -->
@@ -42,6 +42,7 @@ p.quote {
  background-color: #f0f0f0;
  font-family: "DejaVu Sans Mono", monospace;
 }
+
 div.languages {
  margin-left: 200px;
  margin-right: 50px;
@@ -52,6 +53,7 @@ pre.code {
   padding: 2pt ;
   background: #efefef ;
 }
+
 div.abstract {
   border: 1pt dotted #ddd ;
   padding: 2pt ;
@@ -61,6 +63,7 @@ div.abstract {
   margin-left:  12pt;
   margin-bottom: 5pt;
 }
+
 div.abstract:before {
   display: block;
   text-align: left;
@@ -68,9 +71,11 @@ div.abstract:before {
   font-weight: bold;
   font-size: small;
 }
+
 .nonvalid, .broken {
   background-color: pink !important;
 }
+
 .correct {
   background-color: lightgreen;
 }
@@ -102,11 +107,6 @@ dt {
 #siteinfo-feedback {
   text-align: center;
 }
-
-<!--#header .search-input {
-  padding: 10px 50px 0px 5px;
-}-->
-
         </css>
       </forrest:property>
     </forrest:contract>
