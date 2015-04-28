@@ -75,22 +75,22 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
 <!--+
   |stylesheets
   +-->
-            <link rel="stylesheet" href="{$root}skin/basic.css" type="text/css" 
+            <link rel="stylesheet" href="{$root}skin/basic.css" type="text/css"
                 />
-            <link rel="stylesheet" href="{$root}skin/screen.css" 
+            <link rel="stylesheet" href="{$root}skin/screen.css"
                 type="text/css" media="screen" />
-            <link rel="stylesheet" href="{$root}skin/print.css" type="text/css" 
+            <link rel="stylesheet" href="{$root}skin/print.css" type="text/css"
                 media="print" />
-            <link rel="stylesheet" href="{$root}skin/profile.css" 
+            <link rel="stylesheet" href="{$root}skin/profile.css"
                 type="text/css" />
 <!--+
   |Javascripts
   +-->
-            <script type="text/javascript" language="javascript" 
+            <script type="text/javascript" language="javascript"
                 src="{$root}skin/getBlank.js"></script>
-	        <script type="text/javascript" language="javascript" 
+	        <script type="text/javascript" language="javascript"
 				src="{$root}skin/getMenu.js"></script>
-	        <script type="text/javascript" language="javascript" 
+	        <script type="text/javascript" language="javascript"
 				src="{$root}skin/fontsize.js"></script>
 <!--+
   |favicon
@@ -98,7 +98,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
             <xsl:if test="//skinconfig/favicon-url">
                 <link rel="shortcut icon">
                     <xsl:attribute name="href">
-                        <xsl:value-of 
+                        <xsl:value-of
                             select="concat($root,//skinconfig/favicon-url)"/>
                     </xsl:attribute>
                 </link>
@@ -124,7 +124,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
      +++++++++++++++++++++++++++
      +-->
 <!--+
-  |topstrip with logos and search box 
+  |topstrip with logos and search box
   +-->
     <div id="top">
 <!--breadcrumbs org location-->
@@ -139,10 +139,10 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
 <xsl:comment>+
     |header
     +</xsl:comment>
-    <div class="header">          
+    <div class="header">
 <xsl:comment>+
     |start group logo
-    +</xsl:comment> 
+    +</xsl:comment>
         <xsl:if test="$config/group-url">
           <div class="grouplogo">
             <xsl:call-template name="renderlogo">
@@ -159,10 +159,10 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
     +</xsl:comment>
 <xsl:comment>+
     |start Project Logo
-    +</xsl:comment> 
+    +</xsl:comment>
    <xsl:variable name="xtest">
        <xsl:choose>
-                <xsl:when 
+                <xsl:when
                     test="$config/group-url and $config/search and not($config/search/@box-location = 'alt')">
                      <xsl:text>true</xsl:text></xsl:when>
                 <xsl:otherwise><xsl:text>false</xsl:text></xsl:otherwise>
@@ -172,7 +172,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
             <xsl:if test="$xtest='false'" >
                     <xsl:attribute name="class">
                         <xsl:text>projectlogoA1</xsl:text>
-                    </xsl:attribute>      
+                    </xsl:attribute>
             </xsl:if>
           <xsl:call-template name="renderlogo">
             <xsl:with-param name="name" select="$config/project-name"/>
@@ -184,13 +184,13 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
       </div>
 <xsl:comment>+
     |end Project Logo
-    +</xsl:comment> 
+    +</xsl:comment>
 
-        <xsl:if 
+        <xsl:if
             test="$config/search and not($config/search/@box-location = 'alt')">
 <xsl:comment>+
     |start Search
-    +</xsl:comment> 
+    +</xsl:comment>
             <div class="searchbox">
              <xsl:variable name="search-prompt">
                <i18n:text>Search the site</i18n:text>
@@ -206,24 +206,18 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
 		 </form>
 	      </xsl:when>
 	      <xsl:otherwise>
-                <form class="roundtopsmall" method="get" action="http://www.google.com/search"> 
-                    <input type="hidden" name="sitesearch" value="{$config/search/@domain}"/> 
+                <form class="roundtopsmall" method="get" action="http://www.google.com/search">
+                    <input type="hidden" name="sitesearch" value="{$config/search/@domain}"/>
                     <input type="text" id="query" name="q" size="25" onFocus="getBlank (this, '{$search-prompt}');">
                       <xsl:attribute name="value"><xsl:value-of select="$search-prompt"/></xsl:attribute>
-                    </input>&#160; 
+                    </input>&#160;
                     <input type="submit" value="Search" name="Search" i18n:attr="value"/> </form>
         </xsl:otherwise>
 </xsl:choose>
-            <!--div id="roundbottomsmall">
-            <img 
-                src="{$skin-img-dir}/rc-b-l-5-1body-2menu-3menu.png" 
-                alt="" width="5" height="5" class="cornersmall" 
-                style="display: none" />
-        </div-->
             </div>
 <xsl:comment>+
     |end search
-    +</xsl:comment> 
+    +</xsl:comment>
         </xsl:if>
 <xsl:comment>+
     |start Tabs
@@ -237,13 +231,13 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
 <!--+
   |centerstrip with menu and mainarea
   +-->
-    <div id="main">       
+    <div id="main">
         <div id="publishedStrip">
 <xsl:comment>+
     |start Subtabs
     +</xsl:comment>
             <div id="level2tabs">
-		<xsl:apply-templates select="span[@id='level2tabs']/node()"/>       
+		<xsl:apply-templates select="span[@id='level2tabs']/node()"/>
             </div>
 <xsl:comment>+
     |end Endtabs
@@ -278,7 +272,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
     <xsl:apply-templates select="div[@id='content']"/>
 <xsl:comment>+
     |end content
-    +</xsl:comment>    
+    +</xsl:comment>
     <div class="clearboth">&#160;</div>
 
   </div>
@@ -403,12 +397,12 @@ document.write("]]><i18n:text >Last Published:</i18n:text><![CDATA[ " + document
   <!-- Add links to any standards-compliance logos -->
   <xsl:template name="compliancy-logos">
     <xsl:if test="$filename = 'index.html' and $config/disable-compliance-links = 'false'">
-      <a href="http://validator.w3.org/check/referer"><img class="logoImage" 
+      <a href="http://validator.w3.org/check/referer"><img class="logoImage"
           src="{$skin-img-dir}/valid-html401.png"
           alt="Valid HTML 4.01!" title="Valid HTML 4.01!" style="height: 31px; width: 88px;" /></a>
-          
-      <a href="http://jigsaw.w3.org/css-validator/check/referer"><img class="logoImage" 
-          src="{$skin-img-dir}/vcss.png" 
+
+      <a href="http://jigsaw.w3.org/css-validator/check/referer"><img class="logoImage"
+          src="{$skin-img-dir}/vcss.png"
           alt="Valid CSS!" title="Valid CSS!" style="height: 31px; width: 88px;"/></a>
     </xsl:if>
   </xsl:template>
@@ -418,7 +412,7 @@ document.write("]]><i18n:text >Last Published:</i18n:text><![CDATA[ " + document
     |start Menu
     +</xsl:comment>
    <div id="menu">
-<!--menu - inner-->	
+<!--menu - inner-->
             <xsl:for-each select = "div[@id='menu']/ul/li">
               <xsl:call-template name = "innermenuli" >
                   <xsl:with-param name="id" select="concat('1.', position())"/>
@@ -429,11 +423,11 @@ document.write("]]><i18n:text >Last Published:</i18n:text><![CDATA[ " + document
 		-->
 
 <!-- Search box: alternative location -->
-        <xsl:if 
+        <xsl:if
             test="$config/search and $config/search/@box-location='alt'">
 <xsl:comment>+
     |start Search
-    +</xsl:comment> 
+    +</xsl:comment>
             <div class="searchbox">
              <hr />
              <xsl:variable name="search-prompt">
@@ -451,10 +445,10 @@ document.write("]]><i18n:text >Last Published:</i18n:text><![CDATA[ " + document
 	      </xsl:when>
 	      <xsl:otherwise>
                 <form method="get" action="http://www.google.com/search">
-                  <input type="hidden" name="sitesearch" value="{$config/search/@domain}"/> 
+                  <input type="hidden" name="sitesearch" value="{$config/search/@domain}"/>
                   <input type="text" id="query" name="q" size="18" onFocus="getBlank (this, '{$search-prompt}');">
                     <xsl:attribute name="value"><xsl:value-of select="$search-prompt"/></xsl:attribute>
-                  </input>&#160; 
+                  </input>&#160;
                   <input type="submit" value="Search" name="Search" i18n:attr="value"/>
                 </form>
         </xsl:otherwise>
@@ -462,7 +456,7 @@ document.write("]]><i18n:text >Last Published:</i18n:text><![CDATA[ " + document
             </div>
 <xsl:comment>+
     |end search
-    +</xsl:comment> 
+    +</xsl:comment>
         </xsl:if>
 
 <!--credits in alternative location-->
@@ -516,10 +510,6 @@ document.write("]]><i18n:text >Last Published:</i18n:text><![CDATA[ " + document
 		</div>
 
         <div id="roundbottom">
-            <img 
-                src="{$skin-img-dir}/rc-b-l-15-1body-2menu-3menu.png" 
-                alt="" width="15" height="15" class="corner" 
-                style="display: none" />
         </div>
 
 <!--credits in alternative location #2-->
@@ -557,8 +547,8 @@ document.write("]]><i18n:text >Last Published:</i18n:text><![CDATA[ " + document
     |end Menu
     +</xsl:comment>
   </xsl:template>
-  
-  <xsl:template name="innermenuli">   
+
+  <xsl:template name="innermenuli">
     <xsl:param name="id"/>
     <xsl:variable name="tagid">
       <xsl:choose>
@@ -572,8 +562,8 @@ document.write("]]><i18n:text >Last Published:</i18n:text><![CDATA[ " + document
         <xsl:otherwise>menuitemgroup</xsl:otherwise>
       </xsl:choose>
     </xsl:variable>
-    
-    <div class="menutitle" id="{$tagid}Title" 
+
+    <div class="menutitle" id="{$tagid}Title"
         onclick="SwitchMenu('{$tagid}', '{$root}skin/')">
         <xsl:if test="contains($tagid, '_selected_')" >
             <xsl:attribute name="style">
@@ -643,10 +633,10 @@ document.write("]]><i18n:text >Last Published:</i18n:text><![CDATA[ " + document
   </xsl:template>
 
 <!--+
-    |Generates the PDF link 
+    |Generates the PDF link
     +-->
   <xsl:template match="div[@id='skinconf-pdflink']">
-    <xsl:if test="not($config/disable-pdf-link) or $disable-pdf-link = 'false'"> 
+    <xsl:if test="not($config/disable-pdf-link) or $disable-pdf-link = 'false'">
       <div class="pdflink" title="Portable Document Format"><a href="{$filename-noext}.pdf" class="dida">
         <img class="skin" src="{$skin-img-dir}/pdfdoc.gif" alt="PDF -icon" /><br/>
         PDF</a>
@@ -654,7 +644,7 @@ document.write("]]><i18n:text >Last Published:</i18n:text><![CDATA[ " + document
     </xsl:if>
   </xsl:template>
   <xsl:template match="div[@id='skinconf-xmllink']">
-    <xsl:if test="not($config/disable-xml-link) or $disable-xml-link = 'false'"> 
+    <xsl:if test="not($config/disable-xml-link) or $disable-xml-link = 'false'">
       <div class="xmllink" title="raw XML"><a href="{$filename-noext}.xml" class="dida">
         <img class="skin" src="{$skin-img-dir}/xmldoc.gif" alt="XML - icon" /><br/>
         XML</a>
@@ -662,7 +652,7 @@ document.write("]]><i18n:text >Last Published:</i18n:text><![CDATA[ " + document
     </xsl:if>
   </xsl:template>
   <xsl:template match="div[@id='skinconf-txtlink']">
-    <xsl:if test="not($config/disable-txt-link) or $disable-txt-link = 'false'"> 
+    <xsl:if test="not($config/disable-txt-link) or $disable-txt-link = 'false'">
       <div class="podlink" title="Plain Text Documentation"><a href="{$filename-noext}.txt" class="dida">
         <img class="skin" src="{$skin-img-dir}/txtdoc.png" alt="TXT - icon" /><br/>
         TXT</a>
@@ -670,7 +660,7 @@ document.write("]]><i18n:text >Last Published:</i18n:text><![CDATA[ " + document
     </xsl:if>
   </xsl:template>
   <xsl:template match="div[@id='skinconf-podlink']">
-    <xsl:if test="not($config/disable-pod-link) or $disable-pod-link = 'false'"> 
+    <xsl:if test="not($config/disable-pod-link) or $disable-pod-link = 'false'">
       <div class="podlink" title="Plain Old Documentation"><a href="{$filename-noext}.pod" class="dida">
         <img class="skin" src="{$skin-img-dir}/poddoc.png" alt="POD - icon" /><br/>
         POD</a>
@@ -678,7 +668,7 @@ document.write("]]><i18n:text >Last Published:</i18n:text><![CDATA[ " + document
     </xsl:if>
   </xsl:template>
   <xsl:template match="div[@id='skinconf-printlink']">
-    <xsl:if test="not($config/disable-print-link) or $disable-print-link = 'false'"> 
+    <xsl:if test="not($config/disable-print-link) or $disable-print-link = 'false'">
         <script type="text/javascript" language="Javascript">
 function printit() {
   if (window.print) {
@@ -702,12 +692,12 @@ if (VERSION > 3) {
         </script>
     </xsl:if>
   </xsl:template>
-  
+
   <xsl:template match="div[@id='disable-font-script']">
     <xsl:if test="$disable-font-script = 'false'">
 	  <div class="trail">
 	         <i18n:text>Font size:</i18n:text>
-	          &#160;<input type="button" onclick="ndeSetTextSize('reset'); return false;" title="Reset text" class="resetfont" value="Reset"/>      
+	          &#160;<input type="button" onclick="ndeSetTextSize('reset'); return false;" title="Reset text" class="resetfont" value="Reset"/>
 	          &#160;<input type="button" onclick="ndeSetTextSize('decr'); return false;" title="Shrink text" class="smallerfont" value="-a"/>
 	          &#160;<input type="button" onclick="ndeSetTextSize('incr'); return false;" title="Enlarge text" class="biggerfont" value="+a"/>
       </div>
