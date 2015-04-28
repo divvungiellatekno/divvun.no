@@ -3,9 +3,12 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
     <header>
-        <title>Divvun - events</title>
+        <title>Events</title>
     </header>
     <body>
-        <p>Events</p>
+        <ul>
+            <li><a href="seminars/cg-11/CG-kurs.html">CG-kurs 2011</a></li>
+            <li><a href="workshops/NorWEST2014/NorWEST2014.html">NorWEST2014</a></li>
+        </ul>
     </body>
 </document>
