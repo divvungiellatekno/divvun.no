@@ -110,7 +110,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                     <xsl:comment>header</xsl:comment>
                     <div class="header  col-sm-12">
                         <xsl:comment>start Tabs</xsl:comment>
-                        <nav class="navbar navbar-default">
+                        <nav class="navbar navbar-default" id="topmenu">
                             <div class="container-fluid">
                                 <div class="navbar-header">
                                     <xsl:comment>start Project Logo</xsl:comment>
@@ -154,7 +154,9 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
 
                         <xsl:comment>start Subtabs</xsl:comment>
                         <div id="level2tabs">
-                            <xsl:apply-templates select="span[@id='level2tabs']/node()"/>
+                            <nav  class="navbar navbar-default" role="navigation" id="submenu">
+                                <xsl:apply-templates select="div[@id='level2tabs']/node()"/>
+                            </nav>
                         </div>
                         <xsl:comment>end Subtabs</xsl:comment>
 

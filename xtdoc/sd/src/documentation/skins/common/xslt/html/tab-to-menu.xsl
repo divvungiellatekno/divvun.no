@@ -173,7 +173,7 @@ which is then merged by site-to-xhtml.xsl
     </xsl:choose>
   </xsl:template>
 <!-- Called from 'selected' -->
-  <xsl:template name="base-selected"><a>
+  <xsl:template name="base-selected"><a data-toogle="collapse" data-target="#">
     <xsl:attribute name="href">
       <xsl:call-template name="calculate-tab-href">
         <xsl:with-param name="tab" select="."/>
@@ -183,7 +183,7 @@ which is then merged by site-to-xhtml.xsl
     <xsl:value-of select="@label"/></a>
   </xsl:template>
 <!-- Called from 'not-selected' -->
-  <xsl:template name="base-not-selected"><a>
+  <xsl:template name="base-not-selected"><a data-toogle="collapse" data-target="#">
     <xsl:attribute name="href">
       <xsl:call-template name="calculate-tab-href">
         <xsl:with-param name="tab" select="."/>
