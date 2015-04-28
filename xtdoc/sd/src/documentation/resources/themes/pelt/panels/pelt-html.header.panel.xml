@@ -32,14 +32,14 @@ xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
       <forrest:property name="branding-tagline-tagline">powered by the
       dispatcher</forrest:property>
     </forrest:contract>
-    <forrest:hook class="logo">
+    <!--<forrest:hook class="logo">
       <forrest:contract name="branding-logo">
         <forrest:property name="branding-logo-name">UiT Norgga árktalaš universitehta</forrest:property>
         <forrest:property name="branding-logo-description">UiT Norgga árktalaš universitehta</forrest:property>
         <forrest:property name="branding-logo-url">http://uit.no/</forrest:property>
         <forrest:property name="branding-logo-logo">images/UiT_Navn_sam_rod.png</forrest:property>
       </forrest:contract>
-    </forrest:hook>
+    </forrest:hook>-->
     <forrest:hook class="logo">
       <forrest:contract name="branding-logo">
         <forrest:property name="branding-logo-name">Divvun - Sámi Proofing</forrest:property>
