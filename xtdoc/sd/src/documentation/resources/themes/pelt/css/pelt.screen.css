@@ -15,8 +15,8 @@
 * limitations under the License.
 */
 
-body { 
-    margin: 0.5em 0.5em 0.5em 0.5em ; 
+body {
+    margin: 0.5em 0.5em 0.5em 0.5em ;
 	font-family: "DejaVu Sans", Verdana, Helvetica, sans-serif;
     background-color: #FFFFFF;
     color: #000000;
@@ -33,13 +33,13 @@ p {
 
 h1, h2, h3, h4, h5, h6 { font-family: "DejaVu Sans", "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; }
 
-h1     { font-size : 1.6em; margin: 0px 0px 0px 0px;  padding: 0px; }
-h2     { font-size : 1.4em; margin: 0.9em 0px 0px 0px; padding: 0px; font-weight : bold;}
-h3     { font-size : 1.3em; margin: 0.8em 0px 0px 0px; padding: 0px; font-weight : bold; }
+h1     { font-size : 1.4em; margin: 0px 0px 0px 0px;  padding: 0px; }
+h2     { font-size : 1.2em; margin: 0.9em 0px 0px 0px; padding: 0px; font-weight : bold;}
+h3     { font-size : 1.1em; margin: 0.8em 0px 0px 0px; padding: 0px; font-weight : bold; }
 .h3 { margin: 22px 0px 3px 0px; }
-h4     { font-size : 1.1em; margin: 0.7em 0px 0px 0px; padding: 0px; font-weight : normal; text-align: left; }
+h4     { font-size : 1.0em; margin: 0.7em 0px 0px 0px; padding: 0px; font-weight : normal; text-align: left; }
 .h4 { margin: 18px 0px 0px 0px; }
-h4.faq { font-size : 1.1em; margin: 18px 0px 0px 0px; padding: 0px; font-weight : bold;   text-align: left; }
+h4.faq { font-size : 1.0em; margin: 18px 0px 0px 0px; padding: 0px; font-weight : bold;   text-align: left; }
 h5     { font-size : 0.9em; margin: 14px 0px 0px 0px; padding: 0px; font-weight : normal; text-align: left; }
 
 #content h1 { margin-bottom: .5em; }
@@ -55,7 +55,7 @@ h5     { font-size : 0.9em; margin: 14px 0px 0px 0px; padding: 0px; font-weight 
     padding: 20px 20px 20px 200px;
     margin: 0;
     font-family : Verdana, Helvetica, sans-serif;
-    font-size: 0.95em;
+    font-size: 0.85em;
 }
 
 #content ul {
@@ -66,7 +66,7 @@ h5     { font-size : 0.9em; margin: 14px 0px 0px 0px; padding: 0px; font-weight 
     padding: 0 5px;
 }
 #content li, #content th, #content td {
-  line-height: 110%;  
+  line-height: 110%;
   margin-top: .1em;
   margin-bottom: .1em;
 }
@@ -97,7 +97,7 @@ h5     { font-size : 0.9em; margin: 14px 0px 0px 0px; padding: 0px; font-weight 
 
 .codefrag {
   font-family: "Courier New", Courier, monospace;
-  font-size: 1.1em;
+  font-size: 1.0em;
 }
 
 /* Table related generic */
@@ -172,7 +172,7 @@ table caption {
   background-repeat: no-repeat;
   background-position: top left;
   background-image: url(../themes/images/roundcorner-t-l-5-bgFFFFFF-stroke4A6D8C-fg4A6D8C.png);
-  } 
+  }
 #header .round-top-right-small {
   background-repeat: no-repeat;
   background-position: top right;
@@ -182,7 +182,7 @@ table caption {
   background-repeat: no-repeat;
   background-position: bottom left;
   background-image: url(../themes/images/roundcorner-b-l-5-bgFFFFFF-stroke4A6D8C-fg4A6D8C.png);
-  } 
+  }
 .round-bottom-right-small {
   background-repeat: no-repeat;
   background-position: bottom right;
@@ -192,7 +192,7 @@ table caption {
   background-repeat: no-repeat;
   background-position: bottom left;
   background-image: url(../themes/images/roundcorner-b-l-15-bg294563-stroke4A6D8C-fg4A6D8C.png);
-  } 
+  }
 .round-bottom-right-big {
   background-repeat: no-repeat;
   background-position: bottom right;
@@ -206,7 +206,7 @@ table caption {
 /* Navigation - Top Horizontal Tabbed Navigation */
 
 #nav-main {
-    font-size: 0.9em;
+    font-size: 0.8em;
     clear: both;
     padding-left: 10px;
     margin: 0;
@@ -281,15 +281,15 @@ table caption {
 }
 
 #level2tabs {
-    color: #000000;
+    color: #BBC7D6;
     margin: 0;
     float:left;
     position:relative;
     background-color: #4A6D8C ;
 }
 #level2tabs a{padding-right: 5px;}
-#level2tabs a:link {  color: #000000; }
-#level2tabs a:visited {  color: #000000; }
+#level2tabs a:link {  color: #BBC7D6; }
+#level2tabs a:visited {  color: #BBC7D6; }
 #level2tabs a:hover { color: #000066; }
 /*
 *    border-top: solid #4A6D8C 15px;
@@ -356,9 +356,9 @@ img.cornersmall {
 }
 
 #leftbar a {  font-weight: normal;}
-#leftbar a:link { color: #000000; }
-#leftbar a:visited { color: #000000; }
-#leftbar a:active { color: #000000; }
+#leftbar a:link { color: #BBC7D6; }
+#leftbar a:visited { color: #BBC7D6; }
+#leftbar a:active { color: #BBC7D6; }
 #leftbar a:hover { color: #FFCF00; }
 
 #menuarea { width:10em;}
@@ -371,9 +371,9 @@ img.cornersmall {
     top:-15px;
     left:10px;
     z-index: 20;
-    border-color: #000000; 
+    border-color: #000000;
     background-color: #4A6D8C;
-    font-size: 0.9em;
+    font-size: 0.7em;
     color: #000000;
 }
 
@@ -396,15 +396,15 @@ img.cornersmall {
 }
 #nav-section .pagegroup span {
         background-image: url('../themes/images/chapter.gif');
-        color: #000000;
+        color: #BBC7D6;
 }
 .pagegroupselected span {
         background-image: url('../themes/images/chapter_open.gif');
-        color: #000000;
+        color: #BBC7D6;
 }
 .pagegroupopen span {
         background-image: url('../themes/images/chapter_open.gif');
-        color: #000000;
+        color: #BBC7D6;
 }
 
 .pagegroupselected {
@@ -551,7 +551,7 @@ acronym { cursor: help; }
 .boxed          { background-color: #4A6D8C;}
 .underlined_5   { border-bottom: solid 5px #4A6D8C;}
 .underlined_10  { border-bottom: solid 10px #4A6D8C;}
-.code           { border-color: #CFDCED;} 
+.code           { border-color: #CFDCED;}
 
 
 /* ==================== snail trail ============================ */
@@ -641,7 +641,7 @@ p.instruction {
   list-style-image: url('../themes/images/instruction_arrow.png');
   list-style-position: outside;
   margin-left: 2em;
-} 
+}
 
 .breadtrail {
     background: #CFDCED;
@@ -672,8 +672,8 @@ p.instruction {
     display: none;
 }
 
-a:link { color: #0F3660; } 
-a:visited { color: #009999; } 
+a:link { color: #0F3660; }
+a:visited { color: #009999; }
 a:hover { color: #000066; }
 
 /* This stuff was in pelt.basic.css. Any duplicate code or other code that
@@ -710,9 +710,9 @@ img { border: 0; }
   border: solid black 1px;
   margin: 1em 3em;
 }
-.fixme    { border-color: #CC6600;} 
-.note     { border-color: #006699;} 
-.warning  { border-color: #990000;} 
+.fixme    { border-color: #CC6600;}
+.note     { border-color: #006699;}
+.warning  { border-color: #990000;}
 
 /* Label */
 .note    .label { background: #336699; }
