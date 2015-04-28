@@ -767,3 +767,10 @@ img { border: 0; }
     padding: 1em ;
     text-align: center ;
 }
+
+.row .help {
+    display: table-cell ;
+    padding: 1em ;
+    text-align: center ;
+    underline: none ;
+}
