@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <document>
     <header>
-        <title>Installering på Android</title>
+        <title>Installation på Android</title>
     </header>
     <body>
-        <p>Etter at du har hentet programmet i Google Play, kan det se slik ut:</p>
+        <p>När du har laddat ner appen från Google Play, kan det se ut såhär:</p>
         <p>
             <img width="240" src="images/android_app_downloaded.no.png"
-        alt="Hjemmeskjerm med installert tastaturapp"/>
+        alt="Hemskärm med installerad tangentbordsapp"/>
         </p>
-        <p>Start appen:</p>
+        <p>Starta appen:</p>
         <p>
             <img width="240" src="images/android_app_start.no.png"
-        alt="App-velkomstskjerm"/>
+        alt="App-välkomstskärm"/>
         </p>
-        <p>Gå videre til konfigureringa:</p>
+        <p>Gå vidare till inställningarna:</p>
         <p>
             <img width="240" src="images/android_app_steg1.no.png"
-        alt="Første konfigureringssteg i appen"/>
+        alt="Första inställningssteg i appen"/>
         </p>
-        <p>Trykk på lenka som tar deg til innstillingspanelet for å slå på de samiske
-        tastaturene:</p>
+        <p>Tryck på länken som tar dig till inställningspanelen för att slå på
+            de samiska tangentborden:</p>
         <p>
             <img width="240" src="images/android_config_steg1.no.png"
-        alt="Android-konfigurering, første steg"/>
+        alt="Android-inställning, första steg"/>
         </p>
-        <p>Når du slår dem på, får du en advarsel. Divvun registrerer ikke noe
-        av det du skriver, så du kan trygt trykke ok:</p>
+        <p>När du slår på dem, dyker det upp en varning. Divvun registrerar
+            inget av det du skriver, så du kan tryggt trycka ok:</p>
         <p>
             <img width="240" src="images/android_config_steg1_warning.no.png"
-            alt="Advarsel om å gi full tilgang til utvikleren til alt du skriver"/>
+            alt="Varning om full åtgång för utvecklaren till allt du skriver"/>
         </p>
-        <p>Etter at du har aktivert Samiske tastaturer, må du bytte til det -
-            trykk på «Bytt inndatametode»:</p>
+        <p>Efter att du har aktiverat Samiske tastaturer, måste du byta till det -
+            tryck på «Byta indatametod»:</p>
         <p>
             <img width="240" src="images/android_app_steg2.no.png"
-        alt="Andre konfigureringssteg i appen"/>
+        alt="Andra inställningssteg i appen"/>
             <img width="240" src="images/android_config_steg2.no.png"
-        alt="Android-konfigurering, andre steg"/>
+        alt="Android-inställning, andra steg"/>
         </p>
-        <p>Det kan se ut som om du er ferdig, men for å aktivere de samiske
-        tastaturene i appen må du klikke på «Konfigurer flere språk»:</p>
+        <p>Det kan värka som om du är klar, men för att ta i användning de samiska
+        tangentborden i appen måste du trycka på «Använd flera språk»:</p>
         <p>
             <img width="240" src="images/android_app_steg3.no.png"
-        alt="Tredje konfigureringssteg i appen"/>
+        alt="Tredje inställningssteg i appen"/>
         </p>
-        <p>Fjern det øverste krysset i lista («Bruk systemspråk»):</p>
+        <p>Ta bort den översta hakan i listan («Använd systemspråk»):</p>
         <p>
             <img width="240" src="images/android_config_steg3a.no.png"
-        alt="Android-konfigurering, tredje steg"/>
+        alt="Android-inställning, tredje steg"/>
         </p>
-        <p>Deretter kan du krysse av de språkene du vil bruke:</p>
+        <p>Sen kan du kryssa för de tangentborden du vill använda:</p>
         <p>
             <img width="240" src="images/android_config_steg3b.no.png"
-        alt="Android-konfigurering, fjerde steg"/>
+        alt="Android-inställning, fjärde steg"/>
         </p>
-        <p>Nå er du ferdig!</p>
+        <p>Nu är du klar!</p>
         <p>
             <img width="240" src="images/android_app_steg3.no.png"
-        alt="Tredje konfigureringssteg i appen - ferdig"/>
+        alt="Tredje inställningssteg i appen - klar!"/>
         </p>
-        <p>Du bytter tastatur når du skriver ved å trykke og holde på
-        globustasten til venstre for mellomromstasten:</p>
+        <p>Du växlar tangentbord medan du skriver genom att trycka och hålla
+        globtangenten till vänster om mellanslagstangenten:</p>
         <p>
             <img width="240" src="images/android_writing.no.png"
-        alt="Skriv med samisk tastatur"/>
+        alt="Skriv med samiskt tangentbord"/>
             <img width="240" src="images/android_switching_keyboards.no.png"
-        alt="Bytt til et annet tastatur"/>
+        alt="Byt till ett annat tangentbord"/>
         </p>
-        <p>Du kan også bla mellom de ulike tastaturene ved å bare trykke på
-        globustasten.</p>
-        <p>Dersom du har byttet til et fabrikktastatur, kommer du tilbake til de
-        samiske tastaturene ved å dra med én finger fra toppen av skjermen to
-        ganger. Da kommer det opp en liste med alternativ, bl.a. for å
-        velge inndatametode (tastatur):</p>
+        <p>Du kan också växla mellan de olika tangentborden genom att enbart
+            trycka på globtangenten.</p>
+        <p>Om du har växlat till ett fabrikstangentbord, kommer du tillbaka till
+            de samiska tangentborden genom att dra med ett finger från skärmens
+            topp två gånger. Då kommer det upp en lista med alternativ, bl.a.
+            för att välja indatametod (tangentbord):</p>
         <p>
             <img width="240" src="images/android_switch_keyboard_alt.no.png"
-        alt="Alternativ for å bytte tastatur"/>
+        alt="Alternativ för att byta tangentbord"/>
         </p>
     </body>
 </document>

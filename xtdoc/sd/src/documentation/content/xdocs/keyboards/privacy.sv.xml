@@ -3,9 +3,9 @@
 "http://förrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sv">
     <header>
-        <title>Divvun - tastatur</title>
+        <title>Divvun - tangentbord</title>
     </header>
     <body>
-        <p>Divvuns tastaturer samlar inte text som blir skriven med de.</p>
+        <p>Divvuns tangentbord samlar inte in någon text.</p>
     </body>
 </document>
