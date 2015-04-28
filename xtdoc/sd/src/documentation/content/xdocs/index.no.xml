@@ -8,14 +8,14 @@
     </header>
     <body>
         <p>
-            We have <a href="keyboards/index.html">saami keyboards</a>
-            for North, Lule, South, Pite, Inari and Skolt saami on both
-            <img src="/images/android.png" alt="android"/> and <img src="/images/ios8.png" alt="iOS 8"/>
+            Vi har <a href="keyboards/index.html">samiske tastatur</a>
+            for nord-, lule-, sør-, pite-, inari- and skoltesamisk for både
+            <img src="/images/android.png" alt="android"/> og <img src="/images/ios8.png" alt="iOS 8"/>
         </p>
-        <p>We have <a href="laring/laring.html">E-learning apps</a> for <img src="/images/android.png" alt="android"/> and <img src="/images/ios.png" alt="iOS"/> as well as a Webapps</p>
-        <p><a href="korrektur/korrektur.html">Spelling checkers</a> for <img alt="Linux" src="/images/linux_small.png"/>, <img alt="Windows" src="/images/windows_small.png"/> and <img alt="OS X" src="/images/osx.png"/></p>
-        <p><a href="ordboker/ordboker.html">Dictionaries</a>; both web based and downloadable ones.</p>
-        <p><a href="oversettelse/oversettelse.html">Translation memory</a></p>
-        <p>North Saami <a href="tale/tale.html">speech synthesis</a> is upcoming</p>
+        <p>Vi har <a href="laring/laring.html">E-læringsprogrammer</a> for <img src="/images/android.png" alt="android"/> og <img src="/images/ios.png" alt="iOS"/> samt som nettapper</p>
+        <p>Vi har nord-, lule- og sørsamiske <a href="korrektur/korrektur.html">stavekontroller</a> for <img alt="Windows" src="/images/windows_small.png"/>, <img alt="OS X" src="/images/osx.png"/> og <img alt="Linux" src="/images/linux_small.png"/></p>
+        <p>Nettbaserte og nedlastbare <a href="ordboker/ordboker.html">ordbøker</a></p>
+        <p>Nordsamisk <a href="tale/tale.html">talesyntese</a> er på gang</p>
+        <p><a href="oversettelse/oversettelse.html">Oversettelsesminne</a></p>
     </body>
 </document>
