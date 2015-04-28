@@ -151,6 +151,10 @@ table caption {
     text-align: left;
 }
 
+#header .logo .logoImage{
+    height: 120px;
+}
+
 #header .searchbox {
     position: absolute;
     margin: 0;
