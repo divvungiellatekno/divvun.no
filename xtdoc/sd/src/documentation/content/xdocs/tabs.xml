@@ -19,7 +19,7 @@
     </tab>
     <tab  dir="korrektur" id="Korrektur" label="Korrektur" indexfile="korrektur.html"       >
         <tab dir="korrektur" id="MSOffice"  label="For MSOffice"  indexfile="korrektur.html"      />
-        <tab dir="korrektur" id="AndreProgram" label="For andre program"  indexfile="downloads.html" />
+        <tab dir="korrektur" id="AndreProgram" label="For andre program"  indexfile="otherapps.html" />
         <tab dir="korrektur" id="Beta"  label="Betaversjoner" indexfile="libreofficebeta.html"/>
     </tab>
     <tab dir="keyboards/" id="Tastatur" label="Tastatur" indexfile="index.html"/>
