@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
           "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="sv">
-   <header>
-      <title>Nedlastbara filer</title>
-   </header>
-   <body>
+<document xml:lang="smj">
+    <header>
+        <title>Downloadsa</title>
+    </header>
+    <body>
       <section>
-         <title>Andra installationsalternativ</title>
+         <title>Ietjá installerimmáhttelisvuoda</title>
          <ul>
-            <li>Divvun för hela MacOS X: <a href="userdocs/X-spell/install_macosx.html">instruktioner</a> för hur
-            man installerar och använder Divvun-verktygen i hela Mac OS X</li>
-            <li>Divvun för hela Linux:<a href="userdocs/X-spell/install_linux.html">instruktioner</a> för hur man
-            installerar och använder Divvun-verktygen i hela Linux</li>
-            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> för att bränna en
-            installerings-cd för alla tre operativsystem</li>
+            <li>Divvun divna MacOS X:j: <a  href="/userdocs/X-spell/install_macosx.html">bagádisá</a> gåktu
+            installerit ja adnet Divvun-nævojt divna Mac OS X:n</li>
+            <li>Divvun divna Linuxij: <a href="/userdocs/X-spell/install_linux.html">bagádisá</a> gåktå
+            installerit ja adnet Divvun-nævojt divna Linuxin</li>
+            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-gåvvå</a> mav boalldá
+            installerim-cd:n gájka gålmå operativsystemaj</li>
          </ul>
       </section>
 	  	  <section>
-         <title>Gamla versioner</title>
+		  <title>Oabme versjåvnå</title>
          <section>
             <title>Divvun 2.x</title>
             <ul>
@@ -81,49 +81,50 @@
          </section>
       </section>
       <section>
-         <title>Versionshistoria</title>
+         <title>Versjåvnnåhiståvrrå</title>
          <section>
             <title>Divvun 2.3</title>
-            <p>Språklige oppdateringer for nordsamisk:</p>
+            <p>Gielalasj ådåsmahttema nuorttasámegiellaj:</p>
             <ul>
-               <li>ca 40 000 nye ord, fra korpus og fra brukere</li>
-               <li>justeringer i forhold til nye rettskrivingsvedtak</li>
-               <li>mange andre smårettinger</li>
+               <li>Birrusin 40 000 ådå bágo, tækstatjoahkkes ja addnijs</li>
+               <li>hiebadime ådå duollatjállemmærrádusájda</li>
+               <li>moadda ietjá unnep divádusá</li>
             </ul>
          </section>
          <section>
             <title>Divvun 2.2</title>
             <ul>
-               <li>stöd för 64-bits Windows</li>
-               <li>stöd för massinstallering på Windows</li>
-               <li>andra smårättningar</li>
+               <li>64-bits Windows dårja</li>
+               <li>Windows masseinstallerimdårja</li>
+               <li>ietjá divudime</li>
             </ul>
          </section>
          <section>
             <title>Divvun 2.1</title>
             <ul>
-               <li>språkliga uppdateringar för sydsamiska</li>
+               <li>oarjjelijsámegiela ådåstuhttema</li>
+               <li>Windows MS Office 2010 dårja</li>
             </ul>
          </section>
          <section>
             <title>Divvun 2.0 - 2010-12-08</title>
             <ul>
-               <li>sydsamisk version 1</li>
-               <li>nytt installeringsprogram</li>
-               <li>stöd för MS Office 2011 för Mac</li>
+               <li>oarjjelijsámegiel versjåvnnå 1</li>
+               <li>ådå installerimprográmma</li>
+               <li>Mac MS Office 2011 dårja</li>
             </ul>
          </section>
          <section>
             <title>Divvun 1.1</title>
             <ul>
-               <li>språkliga uppdateringar för nord- og lulesamiska</li>
-               <li>stöd för MS Office 2011 för Mac</li>
+               <li>nuortta- ja julevsámegiela ådåstuhttema</li>
+               <li>Mac MS Office 2008 dårja</li>
             </ul>
          </section>
          <section>
             <title>Divvun 1.0 2007-12-12</title>
             <ul>
-               <li>första version</li>
+               <li>vuostasj versjåvnnå</li>
             </ul>
          </section>
       </section>

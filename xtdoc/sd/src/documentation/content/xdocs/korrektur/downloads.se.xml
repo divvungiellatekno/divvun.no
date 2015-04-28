@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-"http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="en">
-   <header>
-      <title>Downloads</title>
-   </header>
-   <body>
+          "http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="se">
+    <header>
+        <title>Vieččahahtti fiillat</title>
+    </header>
+    <body>
       <section>
-         <title>Other installation options</title>
+         <title>Eará sajáiduhttineavttut</title>
          <ul>
-            <li>Divvun for MacOS X: <a href="userdocs/X-spell/install_macosx.html">instructions</a> on how to install
-            and use the Divvun tools in Mac OS X</li>
-            <li>Divvun for Linux: <a href="userdocs/X-spell/install_linux.html">instructions</a> on how to install and
-            use the Divvun tools in Linux</li>
-            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> to burn an installation CD for
-            all three operating systems</li>
+            <li>Divvun olles MacOS X:i <a href="/userdocs/X-spell/install_macosx.html">dokumeanta</a> mii čájeha mo
+            sajáiduhttá ja geavaha Divvuma olles Mac OS X:s</li>
+            <li>Divvun olles Linuxii: <a href="/userdocs/X-spell/install_linux.html">dokumeanta</a> mii čájeha mo
+            sajáiduhttá ja geavaha Divvuma olles Linuxis</li>
+            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-govva</a> maid boaldá
+            sajáiduhttin-cd:n buot golmma operatiivavuogádahkii</li>
          </ul>
       </section>
+
+
       <section>
-         <title>Old versions</title>
+         <title>Boares veršuvnnat</title>
          <section>
             <title>Divvun 2.x</title>
             <ul>
@@ -81,7 +83,7 @@
          </section>
       </section>
       <section>
-         <title>Version history</title>
+         <title>Veršuvdnahistorjá</title>
          <section>
             <title>Divvun 2.3</title>
             <p>Språklige oppdateringer for nordsamisk:</p>
@@ -94,39 +96,40 @@
          <section>
             <title>Divvun 2.2</title>
             <ul>
-               <li>support for 64-bits Windows</li>
-               <li>support for mass deployment on Windows</li>
-               <li>other small corrections</li>
+               <li>doarju 64-bits Windows</li>
+               <li>doarju automáhtalaš sajáiduhttima Windowsii</li>
+               <li>eará smávit divvomat</li>
             </ul>
          </section>
          <section>
             <title>Divvun 2.1</title>
             <ul>
-               <li>linguistic updates for South Sámi</li>
-               <li>support for MS Office 2010 for 32-bit Windows</li>
+               <li>lullisámegiela ođasmahttin</li>
+               <li>doarju MS Office 2010 32-bits Windowsis</li>
             </ul>
          </section>
          <section>
             <title>Divvun 2.0 - 2010-12-08</title>
             <ul>
-               <li>South Sámi version 1</li>
-               <li>new installer</li>
-               <li>support for MS Office 2011 for Mac</li>
+               <li>vuosttaš lullisámegiela veršuvdna</li>
+               <li>ođđa sajáiduhttinprográmma</li>
+               <li>doarju MS Office 2011 MacOS X:s</li>
             </ul>
          </section>
          <section>
             <title>Divvun 1.1</title>
             <ul>
-               <li>linguistic updates for North and Lule Sámi</li>
-               <li>support for MS Office 2008 for Mac</li>
+               <li>davvi- ja julevsámegielaid ođasmahttimat</li>
+               <li>doarju MS Office 2008 MacOS X:s</li>
             </ul>
          </section>
          <section>
             <title>Divvun 1.0 2007-12-12</title>
             <ul>
-               <li>initial release</li>
+               <li>vuosttaš veršuvdna</li>
             </ul>
          </section>
       </section>
-   </body>
+
+	</body>
 </document>

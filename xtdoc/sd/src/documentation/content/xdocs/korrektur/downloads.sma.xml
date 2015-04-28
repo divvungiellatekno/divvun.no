@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-"http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="no">
+          "http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="sma">
    <header>
-      <title>Nedlastbare filer</title>
+      <title>Downloads</title>
    </header>
    <body>
       <section>
-         <title>Andre installeringsalternativ</title>
+         <title>Jeatjh-laakan sijjiedehtedh</title>
          <ul>
-            <li>Divvun for hele MacOS X: <a href="userdocs/X-spell/install_macosx.html">instruksjoner</a> for hvordan
-            man installerer og bruker Divvun-verktøyene i hele Mac OS X</li>
-            <li>Divvun for hele Linux: <a href="userdocs/X-spell/install_linux.html">instruksjoner</a> for hvordan man
-            installerer og bruker Divvun-verktøyene i hele Linux</li>
-            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> for å brenne en installerings-cd
-            for alle tre operativsystemene</li>
+            <li>Divvun MacOS Xese: <a href="/userdocs/X-spell/install_macosx.html">instruksjovnh</a> guktie
+            sijjiedehtedh jïh provhkedh Divvundïrregidie Mac OS Xesne </li>
+            <li>Divvun Linuxese: <a href="/userdocs/X-spell/install_linux.html">instruksjovnh</a> guktie
+            sijjiedehtedh jïh provhkedh Divvundïrregidie Linuxesne</li>
+            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> maam båalta
+            instaleereme-cd:ine gaajhken golmen operativsysteemese</li>
          </ul>
       </section>
-      <section>
-         <title>Gamle versjoner</title>
+	  <section>
+		  <title>Båeries versjovnh</title>
          <section>
             <title>Divvun 2.x</title>
             <ul>
@@ -81,7 +81,7 @@
          </section>
       </section>
       <section>
-         <title>Versjonshistorie</title>
+         <title>Versjovnehistovrije</title>
          <section>
             <title>Divvun 2.3</title>
             <p>Språklige oppdateringer for nordsamisk:</p>
@@ -94,37 +94,37 @@
          <section>
             <title>Divvun 2.2</title>
             <ul>
-               <li>støtte for 64-bits Windows</li>
-               <li>støtte for masseinstallering på Windows</li>
-               <li>andre smårettinger</li>
+               <li>64-bits Windows dåarjege</li>
+               <li>Windows masseinstalleeremedåarjege</li>
+               <li>jeatjah staeriedimmieh</li>
             </ul>
          </section>
          <section>
             <title>Divvun 2.1</title>
             <ul>
-               <li>språklige oppdateringer for sørsamisk</li>
-               <li>støtte for MS Office 2010 for 32-bit Windows</li>
+               <li>åarjelsaemiengïelen orrestehtemh</li>
+               <li>Windows MS Office 2010 dåarjege</li>
             </ul>
          </section>
          <section>
             <title>Divvun 2.0 - 2010-12-08</title>
             <ul>
-               <li>sørsamisk versjon 1</li>
-               <li>nytt installeringsprogram</li>
-               <li>støtte for MS Office 2011 for Mac</li>
+               <li>åarjelsaemiengïelen versjovne 1</li>
+               <li>orre installeeremeprogramme</li>
+               <li>Mac MS Office 2011 dåarjege</li>
             </ul>
          </section>
          <section>
             <title>Divvun 1.1</title>
             <ul>
-               <li>språklige oppdateringer for nord- og lulesamisk</li>
-               <li>støtte for MS Office 2008 for Mac</li>
+               <li>noerhte- jïh julevusaemiengïelen orrestehtemh</li>
+               <li>Mac MS Office 2008 dåarjege</li>
             </ul>
          </section>
          <section>
             <title>Divvun 1.0 2007-12-12</title>
             <ul>
-               <li>første versjon</li>
+               <li>voestes versjovne</li>
             </ul>
          </section>
       </section>
