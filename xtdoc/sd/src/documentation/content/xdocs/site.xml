@@ -19,9 +19,8 @@
 
     <about label="Davvisámegiella" tab="Ruoktu">
         <index description="Bures boahttin divvun.no prošektii" href="index.html" label="Álgosiidu"/>
+        <contact href="contact.html" label="Contact info"/>
 
-        <timetable description="Prošeavtta plánat" href="timetable.html" label="Prošeavtta plánat" />
-        <spelling description="Mo reaiddut ráhkaduvvot" href="howmake.html" label="Mo reaiddut ráhkaduvvojit" />
         <download_log description="Download log for the Divvun tools" href="Download_log.html" label="Download log" />
         <pr href="pr/" label="Preassadieđáhusat">
             <pr1 description="divvun.no almmuhus"
@@ -36,19 +35,25 @@
             <pr4 href="pressrelease-20101208.html"
                  label="PRD: 2010.12.08" />
         </pr>
-        <contact href="contact.html" label="Contact info"/>
-        <seminars href="events/seminars/" label="Seminars &amp; courses">
+        <aboutdivvun tab="AboutUs" href="about/" label="About Divvun">
+          <index href="about_divvun.html" label="About Divvun"/>
+        </aboutdivvun>
+    </about>
+
+    <events href="events/" tab="Events" label="Events">
+        <index href="events.html" label="Event overview"/>
+        <seminars href="seminars/" label="Seminars &amp; courses">
             <cg-11 href="cg-11/" label="CG-kurs -11">
                     <program href="CG-kurs.html" label="Program"/>
             </cg-11>
         </seminars>
-        <workshops href="events/workshops/" label="Workshops">
+        <workshops href="workshops/" label="Workshops">
             <NorWEST2014 href="NorWEST2014/" label="NorWEST2014">
                 <wscfp   href="NorWEST2014.html" label="NorWEST2014 CFP"/>
                 <program href="WorkshopProgramme.html" label="Programme"/>
             </NorWEST2014>
         </workshops>
-    </about>
+    </events>
 
     <korrektur tab="Korrektur" href="korrektur/" label="Korrektur">
         <msoff tab="MSOffice" label="Korrekturverktøy for MS Office">
