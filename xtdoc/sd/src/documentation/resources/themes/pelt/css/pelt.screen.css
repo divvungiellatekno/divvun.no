@@ -24,6 +24,10 @@ body {
 
 }
 
+.soon {
+    opacity: .2;
+}
+
 p {
   line-height: 120%;
   text-align: left;
