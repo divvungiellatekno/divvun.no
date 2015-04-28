@@ -3,19 +3,33 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
     <header>
-        <title>Divvun - saami language technology</title>
+        <title>Divvun - saamekieliteknologia</title>
         <meta name="description">saamen kielten korjausohjelmat</meta>
     </header>
     <body>
-        <p>
+      <div class="col-sm-12">
+        <p class="col-sm-4">
             We have <a href="keyboards/index.html">saami keyboards</a>
             for North, Lule, South, Pite, Inari and Skolt saami on both
             <img src="/images/android.png" alt="android"/> and <img src="/images/ios8.png" alt="iOS 8"/>
         </p>
-        <p>We have <a href="laring/laring.html">E-learning apps</a> for <img src="/images/android.png" alt="android"/> and <img src="/images/ios.png" alt="iOS"/> as well as a Webapps</p>
-        <p><a href="korrektur/korrektur.html">Spelling checkers</a> for <img alt="Linux" src="/images/linux_small.png"/>, <img alt="Windows" src="/images/windows_small.png"/> and <img alt="OS X" src="/images/osx.png"/></p>
-        <p><a href="ordboker/ordboker.html">Dictionaries</a>; both web based and downloadable ones.</p>
-        <p><a href="oversettelse/oversettelse.html">Translation memory</a></p>
-        <p>North Saami <a href="tale/tale.html">speech synthesis</a> is upcoming</p>
+        <p class="col-sm-4">
+            We have <a href="laring/laring.html">E-learning apps</a> for <img src="/images/android.png" alt="android"/> and <img src="/images/ios.png" alt="iOS"/> as well as a Webapps
+        </p>
+        <p class="col-sm-4">
+            <a href="korrektur/korrektur.html">Spelling checkers</a> for <img alt="Linux" src="/images/linux_small.png"/>, <img alt="Windows" src="/images/windows_small.png"/> and <img alt="OS X" src="/images/osx.png"/>
+        </p>
+      </div>
+      <div class="col-sm-12">
+        <p class="col-sm-4">
+            <a href="ordboker/ordboker.html">Dictionaries</a>, both web based and downloadable ones.
+        </p>
+        <p class="col-sm-4">
+            <a href="oversettelse/oversettelse.html">Translation memory</a>
+        </p>
+        <p class="col-sm-4">
+            North Saami <a href="tale/tale.html">speech synthesis</a> is upcoming
+        </p>
+      </div>
     </body>
 </document>
