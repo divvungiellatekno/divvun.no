@@ -49,6 +49,7 @@
 
         </section>
       </section>
+    <p class="pageBreakAfter"></p>
 
     <section>
       <title>Meininga med denne avtalen</title>
@@ -68,7 +69,7 @@
       <title>Omfanget av bruksretten</title>
 
       <p>3.1 <code>Tekstane</code> som får bruksretten sin overført blir
-      lista opp i Vedlegg 1 til denne kontrakten.</p>
+      lista opp i denne kontrakten.</p>
 
       <p>3.2 Opphavsretten og den immaterielle retten til desse
       <code>tekstane</code> høyrer til <code>avgjevaren</code>.</p>
@@ -106,16 +107,16 @@
 
       <p>3.7 <code>Mottakar</code> kan gje personleg bruksrett til
       <code>tekstsamlinga</code> til personar som har skrive under på
-      bruksrettskontrakten i Vedlegg 2. <code>Mottakar</code> skal
+      bruksrettskontrakten i vedlegget til denne kontrakten. <code>Mottakar</code> skal
       ikkje gje bruksrett til <code>tekstsamlinga</code> til personar som
       ein har grunn til å tru vil bryte vilkåra i kontrakten.
       <code>Mottakar</code> forpliktar seg til å informere
       <code>avgjevar</code> med ein gong han/ho får kjennskap til
       mogleg brot på desse vilkåra.</p>
 
-      <p>3.8 Bruksrett gjeld rett til å bruke <code>tekstsamlinga</code>  i
-      elektronisk format til desse formåla (i samsvar med lov og reglar for
-      opphavsrett og med god vitskapleg skikk):</p>
+        <p>3.8 Bruksrett gjeld rett til å bruke <code>tekstsamlinga</code>  i
+        elektronisk format til desse formåla (i samsvar med lov og reglar for
+        opphavsrett og med god vitskapleg skikk):</p>
 
       <ul>
         <li>driva vitskapleg forsking</li>
@@ -153,7 +154,7 @@
     </section>
 
     <p class="pageBreakAfter"></p>
-    
+
     <section>
         <title>Tekstane kontrakten gjeld for</title>
         <ul>
@@ -173,13 +174,12 @@
             <tr><td>Stad og tid:</td></tr>
             <tr><td>Underskrift, forlag:</td></tr>
           </table>
-          
+
           <table>
               <tr><th>Mottakar</th></tr>
             <tr><td>Stad og tid:</td></tr>
             <tr><td>Underskrift, Sametinget:</td></tr>
           </table>
-
 
       </section>
 
