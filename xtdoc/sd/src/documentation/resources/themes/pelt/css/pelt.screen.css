@@ -24,10 +24,6 @@ body {
 
 }
 
-.soon {
-    opacity: .2;
-}
-
 p {
   line-height: 120%;
   text-align: left;
@@ -745,3 +741,29 @@ img { border: 0; }
   padding: 5px 10px;
 }
 
+/* Divvun / local adaptions */
+
+.soon {
+    opacity: .2;
+}
+
+.apptable {
+    display: table ;
+    width: 80% ;
+    border-spacing: 5px ;
+    margin-left: 5% ;
+    margin-right: 15% ;
+    text-align: center ;
+}
+
+.row {
+    display: table-row ;
+    width: auto ;
+    text-align: center ;
+}
+
+.screenshots, .appstore-block {
+    display: table-cell ;
+    padding: 1em ;
+    text-align: center ;
+}
