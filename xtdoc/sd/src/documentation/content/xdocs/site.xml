@@ -89,6 +89,30 @@
     <overview description="Administrative documentation" href="index.html" label="Index" />
   </adm>
 
+  <korrektur tab="Korrektur" label="Korrektur">
+      <index href="korrektur.html" label="Stavekontroll"/>
+  </korrektur>
+
+  <tastatur tab="Tastatur" label="Tastatur">
+      <index href="tastatur.html" label="Tastatur"/>
+  </tastatur>
+
+  <tale tab="Tale" label="Tale">
+      <index href="tale.html" label="Tale"/>
+  </tale>
+
+  <ordbøker tab="Ordbøker" label="Ordbøker">
+      <index href="ordboker.html" label="Ordbøker"/>
+  </ordbøker>
+
+  <oversettelse tab="Oversettelse" label="Oversettelse">
+      <index href="oversettelse.html" label="Oversettelse"/>
+  </oversettelse>
+
+  <læring tab="Læring" label="Språkopplæring">
+      <index href="laring.html" label="Språkopplæring"/>
+  </læring>
+
   <legal href="adm/legal/" label="Legal" tab="legal">
     <overview href="index.html" label="Overview" description="Legal documents" />
     <oslo href="oslo-standard-contract.html" label="Oslo Contract" description="Oslo Contract" />
