@@ -13,9 +13,9 @@
 
          <table>
          <tr>
-           <th>Language</th>
-           <th colspan="2">Download                               </th>
-           <th>Documentation and source code</th>
+           <th>Language:</th>
+           <th colspan="2">     Download:                     </th><!-- lots of nbsp to force a larger width of the column - leave as is -->
+           <th>Documentation and source code:</th>
          </tr>
          <tr>
            <td>Finnish</td>
