@@ -95,7 +95,7 @@ table caption {
 /*    position: relative;
     float: left;
     width: 100%;
-    background: #294563; /* if you want a background in the header, put it here */*/
+    background: #294563;*/ /* if you want a background in the header, put it here */
 }
 
 #top .breadtrail {
@@ -198,7 +198,7 @@ html>body #top .searchbox {
     background-repeat: no-repeat;
     background-position: top left;
     padding: 5px 15px 4px;
-    width: .1em; /* IE/Win fix */
+    width: .1em; */ /* IE/Win fix */
 }
 
 #tabs li a:hover {
@@ -210,7 +210,7 @@ html>body #top .searchbox {
 /*    width: auto;*/
 } /* Rest of IE/Win fix */
 
-/* Commented Backslash Hack hides rule from IE5-Mac \*/
+/* Commented Backslash Hack hides rule from IE5-Mac */
 #tabs a {
 /*    float: none;*/
 }
