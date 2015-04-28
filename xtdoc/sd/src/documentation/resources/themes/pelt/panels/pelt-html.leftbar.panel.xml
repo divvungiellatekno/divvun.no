@@ -40,7 +40,7 @@ xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
             <forrest:contract name="siteinfo-credits">
                 <forrest:property name="box-location">credit</forrest:property>
                 <forrest:property name="top-separator">true</forrest:property>
-                <forrest:property name="siteinfo-credits">
+<!--                <forrest:property name="siteinfo-credits">
                     <credits>
                         <credit>
                             <name>Built with Apache Forrest</name>
@@ -50,7 +50,7 @@ xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
                             <height>31</height>
                         </credit>
                     </credits>
-                </forrest:property>
+                </forrest:property>-->
             </forrest:contract>
             <!-- <forrest:contract name="genericMarkup">
                 <forrest:property name="genericMarkup">
