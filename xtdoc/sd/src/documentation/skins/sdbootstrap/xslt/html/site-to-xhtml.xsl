@@ -101,12 +101,12 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                 <xsl:comment>topstrip with logos and search box</xsl:comment>
                 <div id="top">
                     <xsl:comment>breadcrumbs org location</xsl:comment>
-                    <xsl:if test="not ($config/trail/@location)">
+                    <!--<xsl:if test="not ($config/trail/@location)">
                         <xsl:comment>breadtrail</xsl:comment>
                         <div class="breadtrail">
                             <xsl:call-template name="breadcrumbs"/>
                         </div>
-                    </xsl:if>
+                    </xsl:if>-->
                     <xsl:comment>header</xsl:comment>
                     <div class="header  col-sm-12">
                         <xsl:comment>start Tabs</xsl:comment>
@@ -202,7 +202,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                         <xsl:call-template name="last-published"/>
                     </div>-->
                     <xsl:comment>breadtrail</xsl:comment>
-                    <div class="breadtrail">
+                    <!--<div class="breadtrail">
                         <xsl:choose>
                             <xsl:when test="$config/trail/@location='alt'">
                                 <xsl:call-template name="breadcrumbs"/>
@@ -212,7 +212,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                                     &#160;
                             </xsl:otherwise>
                         </xsl:choose>
-                    </div>
+                    </div>-->
                     <xsl:comment>start Menu, mainarea</xsl:comment>
                     <xsl:if test="div[@id='menu']/ul/li">
                         <xsl:call-template name="menu"/>
