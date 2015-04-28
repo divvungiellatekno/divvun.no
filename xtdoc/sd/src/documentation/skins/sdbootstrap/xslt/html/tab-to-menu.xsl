@@ -45,14 +45,16 @@ which is then merged by site-to-xhtml.xsl
             <xsl:call-template name="base-tabs"/>
         </ul>
     </div>
-    <div id="level2tabs">
-      <ul class="nav navbar-nav">
-          <xsl:attribute name="id">
-              <xsl:value-of select="tab[@id=$matching-id]/@id"/>
-          </xsl:attribute>
-      <xsl:call-template name="level2tabs"/>
-      </ul>
-    </div>
+    <xsl:if test="tab[@id=$matching-id]/tab">
+      <div id="level2tabs">
+        <ul class="nav navbar-nav">
+            <xsl:attribute name="id">
+                <xsl:value-of select="tab[@id=$matching-id]/@id"/>
+            </xsl:attribute>
+        <xsl:call-template name="level2tabs"/>
+        </ul>
+      </div>
+    </xsl:if>
   </xsl:template>
   <xsl:template name="pre-separator"></xsl:template>
   <xsl:template name="post-separator"></xsl:template>
