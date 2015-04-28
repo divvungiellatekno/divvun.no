@@ -40,7 +40,7 @@ which is then merged by site-to-xhtml.xsl
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:import href="lm://transform.skin.common.html.tab-to-menu"/>
   <xsl:template match="tabs">
-    <ul id="tabs">
+    <ul id="tabs" class="nav navbar-nav">
       <xsl:call-template name="base-tabs"/>
     </ul>
     <span id="level2tabs">
@@ -52,7 +52,7 @@ which is then merged by site-to-xhtml.xsl
   <xsl:template name="separator"></xsl:template>
   <xsl:template name="level2-separator"></xsl:template>
   <xsl:template name="selected">
-    <li class="current"><xsl:call-template name="base-selected"/></li>
+    <li class="active"><xsl:call-template name="base-selected"/></li>
   </xsl:template>
   <xsl:template name="not-selected">
     <li><xsl:call-template name="base-not-selected"/></li>
