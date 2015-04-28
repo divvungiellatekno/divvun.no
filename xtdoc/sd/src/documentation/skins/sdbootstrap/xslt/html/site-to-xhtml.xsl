@@ -81,7 +81,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                 </xsl:if>
             </head>
             <xsl:comment>HTML-body</xsl:comment>
-            <body>
+            <body class="container-fluid">
                 <xsl:call-template name="carry-body-attribs"/>
                 <script type="text/javascript">ndeSetTextSize();</script>
                 <xsl:comment> +Site structure
