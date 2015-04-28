@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document>
+    <header>
+        <title>Installering på Android</title>
+    </header>
+    <body>
+        <p>Etter at du har hentet programmet i Google Play, kan det se slik ut:</p>
+        <p>
+            <img width="240" src="images/android_app_downloaded.png"
+        alt="images/android_app_downloaded.png"/>
+        </p>
+        <p>Start appen:</p>
+        <p>
+            <img width="240" src="images/android_app_start.png"
+        alt="images/android_app_start.png"/>
+        </p>
+        <p>Gå videre til konfigureringa:</p>
+        <p>
+            <img width="240" src="images/android_app_steg1.png"
+        alt="images/android_app_steg1.png"/>
+        </p>
+        <p>Trykk på lenka som tar deg til innstillingspanelet for å slå på de samiske
+        tastaturene:</p>
+        <p>
+            <img width="240" src="images/android_config_steg1.png"
+        alt="images/android_config_steg1.png"/>
+        </p>
+        <p>Når du slår dem på, får du en advarsel. Divvun registrerer ikke noe
+        av det du skriver, så du kan trygt trykke ok:</p>
+        <p>
+            <img width="240" src="images/android_config_steg1_warning.png"
+            alt="images/android_config_steg1_warning.png"/>
+        </p>
+        <p>Etter at du har aktivert Samiske tastaturer, må du bytte til det -
+            trykk på «Bytt inndatametode»:</p>
+        <p>
+            <img width="240" src="images/android_app_steg2.png"
+        alt="images/android_app_steg2.png"/>
+            <img width="240" src="images/android_config_steg2.png"
+        alt="images/android_config_steg2.png"/>
+        </p>
+        <p>Det kan se ut som om du er ferdig, men for å aktivere de samiske
+        tastaturene i appen må du klikke på «Konfigurer flere språk»:</p>
+        <p>
+            <img width="240" src="images/android_app_steg3.png"
+        alt="images/android_app_steg3.png"/>
+        </p>
+        <p>Fjern det øverste krysset i lista («Bruk systemspråk»):</p>
+        <p>
+            <img width="240" src="images/android_config_steg3a.png"
+        alt="images/android_config_steg3a.png"/>
+        </p>
+        <p>Deretter kan du krysse av de språkene du vil bruke:</p>
+        <p>
+            <img width="240" src="images/android_config_steg3b.png"
+        alt="images/android_config_steg3b.png"/>
+        </p>
+        <p>Nå er du ferdig!</p>
+        <p>
+            <img width="240" src="images/android_app_steg3.png"
+        alt="images/android_app_steg3.png"/>
+        </p>
+        <p>Du bytter tastatur når du skriver ved å trykke og holde på
+        globustasten til venstre for mellomromstasten:</p>
+        <p>
+            <img width="240" src="images/android_writing.png"
+        alt="images/android_writing.png"/>
+            <img width="240" src="images/android_switching_keyboards.png"
+        alt="images/android_switching_keyboards.png"/>
+        </p>
+        <p>Du kan også bla mellom de ulike tastaturene ved å bare trykke på
+        globustasten.</p>
+        <p>Dersom du har byttet til et fabrikktastatur, kommer du tilbake til de
+        samiske tastaturene ved å dra med én finger fra toppen av skjermen to
+        ganger. Da kommer det opp en liste med alternativ, bl.a. et valg for å
+        velge inndatametode (tastatur):</p>
+        <p>
+            <img width="240" src="images/android_switch_keyboard_alt.png"
+        alt="images/android_switch_keyboard_alt.png"/>
+        </p>
+    </body>
+</document>
