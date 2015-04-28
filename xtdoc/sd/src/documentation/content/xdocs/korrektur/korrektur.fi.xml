@@ -30,15 +30,15 @@
                         <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
                     </td>
                     <td>
-                        · <a href="/userdocs/win/index-msoff-2013-win7-8.html">Office 2013-ohjeet</a>
+                        · <a href="userdocs/win/index-msoff-2013-win7-8.html">Office 2013-ohjeet</a>
                         <br/>
-                        · <a href="/userdocs/win/index-msoff-2010-win7-8.html">Office 2010-ohjeet</a>
+                        · <a href="userdocs/win/index-msoff-2010-win7-8.html">Office 2010-ohjeet</a>
                         <br/>
-                        · <a href="/userdocs/win/index-msoff-2007-win7-8.html">Office 2007-ohjeet</a>
+                        · <a href="userdocs/win/index-msoff-2007-win7-8.html">Office 2007-ohjeet</a>
                     </td>
                     <td>
                         <br/>
-                        <a href="/userdocs/videos/win-msoffice-video.html">
+                        <a href="userdocs/videos/win-msoffice-video.html">
                             <icon alt="Instructions" height="48" width="48" src="images/Movie-icon.png"/>
                             ohjevideot
                         </a>
@@ -64,19 +64,19 @@
                         <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
                     </td>
                     <td>
-                        · <a href="/userdocs/win/index-msoff-2013-xp.html">Office 2013-ohjeet</a>
+                        · <a href="userdocs/win/index-msoff-2013-xp.html">Office 2013-ohjeet</a>
                         - <a href="sysadmininfo.html">Tunnettuja ongelmia</a>
                         <br/>
-                        · <a href="/userdocs/win/index-msoff-2010-xp.html">Office 2010-ohjeet</a>
+                        · <a href="userdocs/win/index-msoff-2010-xp.html">Office 2010-ohjeet</a>
                         - <a href="sysadmininfo.html">Tunnettuja ongelmia</a>
                         <br/>
-                        · <a href="/userdocs/win/index-msoff-2007-xp.html">Office 2007-ohjeet </a>
+                        · <a href="userdocs/win/index-msoff-2007-xp.html">Office 2007-ohjeet </a>
                         <br/>
-                        · <a href="/userdocs/win/index-msoff-2007-xp.html">Office 2003-ohjeet </a>
+                        · <a href="userdocs/win/index-msoff-2007-xp.html">Office 2003-ohjeet </a>
                     </td>
                     <td>
                         <br/>
-                        <a href="/userdocs/videos/win-msoffice-video.html">
+                        <a href="userdocs/videos/win-msoffice-video.html">
                             <icon alt="Instructions" height="48" width="48" src="images/Movie-icon.png"/>
                             ohjevideot
                         </a>
@@ -107,13 +107,13 @@
                     <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
                 </td>
                 <td>
-                    <br/>· <a href="/userdocs/mac/index-msoff-2011.html">Office 2011-ohjeet</a>
-                    <br/>· <a href="/userdocs/mac/index-msoff-2008.html">Office 2008-ohjeet</a>
-                    <br/>· <a href="/userdocs/mac/index-msoff-2008.html">Office 2004-ohjeet</a>
+                    <br/>· <a href="userdocs/mac/index-msoff-2011.html">Office 2011-ohjeet</a>
+                    <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2008-ohjeet</a>
+                    <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2004-ohjeet</a>
                 </td>
                 <td>
                     <br/>
-                        <a href="/userdocs/videos/mac-video.html">
+                        <a href="userdocs/videos/mac-video.html">
                             <icon alt="Instructions" height="48" width="48" src="images/Movie-icon.png"/>
                             ohjevideot
                         </a>
@@ -148,24 +148,24 @@
                     </td>
                     <td>
                         <br/>
-                        · <a href="/userdocs/mac/install-OOo-3.html">
+                        · <a href="userdocs/mac/install-OOo-3.html">
                             <icon alt="Linux" height="12" width="12" src="images/Linux_Icon_256.png" />
                             Linux-ohjeet
                         </a>
                         <br/>
-                        · <a href="/userdocs/mac/install-OOo-3.html">
+                        · <a href="userdocs/mac/install-OOo-3.html">
                             <icon alt="MacOSX" height="12" width="12" src="images/mac.png" />
                             MacOSX-ohjeet
                         </a>
                         <br/>
-                        · <a href="/userdocs/mac/install-OOo-3.html">
+                        · <a href="userdocs/mac/install-OOo-3.html">
                             <icon alt="Windows" height="12" width="12" src="images/windows.png" />
                             Windows-ohjeet
                         </a>
                     </td>
                     <td>
                         <br/>
-                        <a href="/userdocs/videos/ooo-video.html">
+                        <a href="userdocs/videos/ooo-video.html">
                             <icon alt="Instructions" height="48" width="48" src="images/Movie-icon.png"/>
                             ohjevideot
                         </a>
@@ -197,7 +197,7 @@
                         <br/>
                         <br/>
                         <br/>
-                        · <a href="/userdocs/mac/install-indesign-CS3.html">ohjeet</a>
+                        · <a href="userdocs/mac/install-indesign-CS3.html">ohjeet</a>
                     </td>
                     <td>
                     </td>
