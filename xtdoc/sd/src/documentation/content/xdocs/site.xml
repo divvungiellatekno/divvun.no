@@ -94,7 +94,7 @@
   </korrektur>
 
   <tastatur tab="Tastatur" label="Tastatur">
-      <index href="tastatur/tastatur.html" label="Tastatur"/>
+      <index href="keyboards/index.html" label="Tastatur"/>
   </tastatur>
 
   <tale tab="Tale" label="Tale">
