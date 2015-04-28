@@ -33,9 +33,15 @@ Note that text and image are mandatory parts of the template.
         <xsl:param name="height"/>
         <xsl:param name="root"/>
         <xsl:param name="description"/>
+        <xsl:param name="aclass"/>
         <a href="{$url}">
             <xsl:choose>
                 <xsl:when test="$logo and not($logo = '')">
+                    <xsl:if test="$aclass">
+                        <xsl:attribute name="class">
+                            <xsl:value-of select="$aclass"/>
+                        </xsl:attribute>
+                    </xsl:if>
                     <img alt="{$name}" class="logoImage">
                         <xsl:attribute name="src">
                             <xsl:if test="not(starts-with($logo, 'http://'))">
