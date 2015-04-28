@@ -9,12 +9,21 @@
 
 <!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
 
-        <p>Divvun har laget apper med mobiltastaturer for nord-, lule-, sør-,
-            pite-, enare- og skoltesamisk. Appene finnes for <a
+        <p>Divvun har laget appen «Samiske tastaturer» med mobiltastaturer for
+            nord-, lule-, sør-, pite-, enare- og skoltesamisk. Appen finnes
+            for <a
             href="#">Android</a> og <a
 href="#"
     >iOS</a> (iPhone og iPad).</p>
+
     <div class="apptable">
+        <div class="row">
+            <div class="screenshots">
+                <img alt="Android-skjermbilde"
+                src="images/google_play_entry.png"
+                width="300" />
+            </div>
+        </div>
         <div class="row">
             <div class="screenshots">
                 <img alt="Android-skjermbilde"
