@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+    <header>
+        <title>Tale</title>
+    </header>
+    <body>
+        <p><a href="/index.html">Divvun</a> og <a
+        href="http://sametinget.no">Sametinget</a> har utviklet nordsamisk
+        talesyntese i samarbeid med <a
+        href="http://www.acapela-group.com/">Acapela</a>. Talesynteste, eller
+        tekst-til-tale, gjør det mulig for datamaskinen å lese opp tekst, slik
+        at teksten blir tilgjengelig også når den ikke kan leses på skjermen.
+        </p>
+        <p>Det nordsamiske tekst-til-tale-systemet finnes i flere versjoner:</p>
+        <ul>
+            <li>for Windows på egen datamaskin</li>
+            <li>for MacOSX på egen datamaskin</li>
+            <li>for Windows server</li>
+            <li>for Linux server</li>
+            <li>for utviklere som vil integrere talesyntesen i egne program</li>
+        </ul>
+        <p>Test.</p>
+   </body>
+</document>
