@@ -15,11 +15,16 @@
         </p>
         <p>Det nordsamiske tekst-til-tale-systemet finnes i flere versjoner:</p>
         <ul>
-            <li>for Windows på egen datamaskin</li>
-            <li>for MacOSX på egen datamaskin</li>
-            <li>for Windows server</li>
-            <li>for Linux server</li>
-            <li>for utviklere som vil integrere talesyntesen i egne program</li>
+            <li>Infovox 4 - for Windows på egen datamaskin</li>
+            <li>iVox - for MacOSX på egen datamaskin</li>
+            <li>som utviklerpakke for integrering i andre program:
+              <ul>
+                <li>SDK: Acapela TTS for Windows – PC    </li>
+                <li>SDK: Acapela TTS for Windows – Server</li>
+                <li>SDK: Acapela TTS for Linux – Server  </li>
+                <li>SDK: Acapela TTS for MAC OS X        </li>
+              </ul>
+            </li>
         </ul>
         <p>Test.</p>
    </body>
