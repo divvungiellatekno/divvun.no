@@ -6,6 +6,7 @@
         <title>Tale</title>
     </header>
     <body>
+        <note label="Nyhet!">Lansert 6.5.2015!</note>
         <p><a href="/index.html">Divvun</a> og <a
         href="http://sametinget.no">Sametinget</a> har utviklet nordsamisk
         talesyntese i samarbeid med <a
@@ -26,6 +27,5 @@
               </ul>
             </li>
         </ul>
-        <p>Test.</p>
    </body>
 </document>
