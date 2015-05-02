@@ -25,23 +25,27 @@ img {
 }
 
 .note, .warning, .fixme {
-/*    clear:right;
-    border: solid black 1px;
-    margin: 1em 3em;*/
+    clear:right;
+    border: solid #E1E1E1 1px;
+    margin: 1em 3em;
+    box-shadow: 5px 5px 5px #888888 ;
+    box-sizing: border-box;
 }
 
 .note .label {
-/*    background: #369;
-    color: white;
+    background: #E1E1E1;
+    color: black;
     font-weight: bold;
-    padding: 5px 10px;*/
+    padding: 5px 10px;
+    display: block;
+    text-align: left;
 }
 .note .content {
-/*    background: #F0F0FF;
+    background: #F6F6F6;
     color: black;
     line-height: 120%;
     font-size: 90%;
-    padding: 5px 10px;*/
+    padding: 5px 10px;
 }
 .warning .label {
 /*    background: #C00;
