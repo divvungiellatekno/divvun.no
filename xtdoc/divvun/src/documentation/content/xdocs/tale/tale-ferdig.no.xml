@@ -7,14 +7,15 @@
     </header>
     <body>
         <note label="Nyhet!">Lansert 6.5.2015!</note>
+
         <p><a href="/index.html">Divvun</a> og <a
         href="http://sametinget.no">Sametinget</a> har utviklet nordsamisk
         talesyntese i samarbeid med <a
         href="http://www.acapela-group.com/">Acapela</a>. Talesyntese, eller
         tekst-til-tale, gjør det mulig for datamaskinen å omforme tekst til
-        menneskelig tale, slik at teksten blir tilgjengelig også når man ikke
-        kan lese den.
+        menneskelig tale.
         </p>
+
         <p>Det nordsamiske tekst-til-tale-systemet finnes i flere versjoner:</p>
         <ul>
             <li>Infovox 4 - for Windows på egen datamaskin</li>
@@ -28,5 +29,33 @@
               </ul>
             </li>
         </ul>
+
+        <p>Nordsamisk Infovox (for Windows) leveres på en USB-stikke som kan
+        bestilles gratis fra Sametinget eller <a
+        href="mailto:feedback@divvun.no">fra Divvun-gruppa ved
+        UiT (feedback@divvun.no)</a>. USB-stikka kan fjernes etter
+        installeringa, og gjør det samtidig mulig å bruke nordsamisk talesyntese
+        på andre datamaskiner enn den egne ved at man tar med seg USB-stikka.
+        Mere detaljerte instruksjoner finnes
+        <a href="infovox4.se.html">her</a>.</p>
+
+        <p>iVox for MacOS X kan lastes ned gratis <a
+        href="http://www.assistiveware.com/product/infovox-ivox/resources"
+        >herifra</a>. For å aktivere og ta i bruk de nordsamiske stemmene
+        behøver man en aktiveringskode, som man får gratis <a
+        href="mailto:feedback@divvun.no">fra Divvun-gruppa ved
+        UiT (feedback@divvun.no)</a>. Instruksjoner for installering og bruk
+        finnes <a class="fork"
+        href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%20Swedish%204.1.pdf"
+        >her (på svensk)</a> og <a class="fork"
+        href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%204.0.1.pdf"
+        >her (på engelsk)</a>.
+        </p>
+
+        <p>SDK-versjonene for utviklere må bestilles direkte fra Acapela. Ta
+        kontakt med Susanne Magnusson (<a
+        href="mailto:susanne.magnusson@acapela-group.com"
+        >susanne.magnusson@acapela-group.com</a>, tlf +46 8 799 86 02).</p>
+
    </body>
 </document>
