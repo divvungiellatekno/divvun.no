@@ -27,7 +27,6 @@ img {
 .note, .warning, .fixme {
     clear:right;
     margin: 1em 3em;
-    box-sizing: border-box;
     border-radius: 5px;
     background: #F6F6F6;
 }
