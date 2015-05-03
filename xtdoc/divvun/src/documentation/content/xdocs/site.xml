@@ -153,6 +153,7 @@
 
     <tale tab="Tale" label="Tale">
         <index href="tale/tale.html" label="Tale"/>
+        <indx2 href="tale/tale-ferdig.no.html" label="Tale - lansert"/>
     </tale>
 
     <ordbøker href="ordboker/" tab="Ordbøker" label="Ordbøker">
