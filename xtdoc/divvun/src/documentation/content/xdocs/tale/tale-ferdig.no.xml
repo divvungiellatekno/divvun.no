@@ -16,18 +16,11 @@
         menneskelig tale.
         </p>
 
-        <p>Det nordsamiske tekst-til-tale-systemet finnes i flere versjoner:</p>
+        <p>Det nordsamiske tekst-til-tale-systemet finnes i to versjoner for
+        sluttbrukere:</p>
         <ul>
-            <li>Infovox 4 - for Windows på egen datamaskin</li>
-            <li>iVox - for MacOSX på egen datamaskin</li>
-            <li>som utviklerpakke for integrering i andre program:
-              <ul>
-                <li>SDK: Acapela TTS for Windows – PC    </li>
-                <li>SDK: Acapela TTS for Windows – Server</li>
-                <li>SDK: Acapela TTS for Linux – Server  </li>
-                <li>SDK: Acapela TTS for MAC OS X        </li>
-              </ul>
-            </li>
+            <li>Infovox 4 - for Windows</li>
+            <li>iVox - for MacOSX</li>
         </ul>
 
         <p>Nordsamisk Infovox (for Windows) leveres på en USB-stikke som kan
@@ -52,10 +45,26 @@
         >her (på engelsk)</a>.
         </p>
 
-        <p>SDK-versjonene for utviklere må bestilles direkte fra Acapela. Ta
-        kontakt med Susanne Magnusson (<a
-        href="mailto:susanne.magnusson@acapela-group.com"
-        >susanne.magnusson@acapela-group.com</a>, tlf +46 8 799 86 02).</p>
+        <section>
+            <title>For utviklere</title>
+
+            <p>Det nordsamiske tekst-til-tale-systemet finnes i flere versjoner
+            beregnet på utviklere og andre som vil integrere talesyntesen i
+            andre program og systemer:</p>
+
+            <ul>
+              <li>SDK: Acapela TTS for Windows – PC    </li>
+              <li>SDK: Acapela TTS for Windows – Server</li>
+              <li>SDK: Acapela TTS for Linux – Server  </li>
+              <li>SDK: Acapela TTS for MAC OS X        </li>
+            </ul>
+
+            <p>SDK-versjonene må bestilles direkte fra Acapela. Ta
+            kontakt med Susanne Magnusson (<a
+            href="mailto:susanne.magnusson@acapela-group.com"
+            >susanne.magnusson@acapela-group.com</a>, tlf +46 8 799 86 02).</p>
+
+        </section>
 
    </body>
 </document>
