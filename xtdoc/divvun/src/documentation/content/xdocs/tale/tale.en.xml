@@ -3,65 +3,65 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
     <header>
-        <title>Tekst-til-tale</title>
+        <title>Text-to-speech</title>
     </header>
     <body>
-        <note label="Nyhet!">Nordsamisk teskt-til-tale blir lansert
+        <note label="News!">North Sámi text-to-speech is being released
         6.5.2015!</note>
 
-        <p><a href="/index.html">Divvun</a> og <a
-        href="http://sametinget.no">Sametinget</a> har utviklet en nordsamisk
-        talesyntese i samarbeid med <a
-        href="http://www.acapela-group.com/">Acapela</a>. Talesyntese, eller
-        tekst-til-tale, gjør det mulig for datamaskinen å omforme tekst til
-        naturlig tale i de fleste programmer. Ved hjelp av et
-        skjermleserprogram (må skaffes separat) kan all tekst som vises på
-        skjermen leses opp. Det finnes to samiske stemmer, en damestemme
-        ("Elle") og en mannsstemme ("Biera").
+        <p><a href="/index.html">Divvun</a> and <a
+        href="http://sametinget.no">the Norwegian Sámi Parliament</a> has
+        developed a North Sámi speech synthesis system in cooperation with <a
+        href="http://www.acapela-group.com/">Acapela</a>. Speech syntehsis, or
+        text-to-speech (TTS), allows the computer to transform text to
+        natural speech in many applications. By using a screen reader
+        (must be installed separately) all text on the screen can be read aloud.
+        There are two Sámi voices, one female voice ("Elle") and one male voice
+        ("Biera").
         </p>
 
-        <p>Det nordsamiske tekst-til-tale-systemet finnes i to versjoner for
-        sluttbrukere:</p>
+        <p>The North Sámi text-to-speech system is available in two versions
+        for end users:</p>
         <ul>
-            <li><strong>Nordsamisk Infovox 4 for Windows</strong></li>
-            <li><strong>Nordsamisk iVox for MacOSX</strong></li>
+            <li><strong>North Sámi Infovox 4 for Windows</strong></li>
+            <li><strong>North Sámi iVox for MacOSX</strong></li>
         </ul>
 
-        <p>Nordsamisk Infovox (for Windows) leveres på en USB-stikke som kan
-        bestilles gratis fra Sametinget eller <a
-        href="mailto:feedback@divvun.no">fra Divvun-gruppa ved UiT
-        (feedback@divvun.no)</a>. USB-stikka er personlig, men kan fjernes etter
-        installering. USB-stikka gjør det samtidig mulig å bruke den nordsamiske
-        talesyntesen på andre datamaskiner enn ens egen ved at man tar med seg
-        USB-stikka og setter den inn i andre datamaskiner, og bruker
-        talesyntesen rett fra stikka uten å installere syntesen. Mer detaljerte
-        instruksjoner finnes <a href="infovox4.se.html">her (på
-        nordsamisk)</a>.</p>
+        <p>North Sámi Infovox (for Windows) is delivered on a USB dongle, which
+        can be ordered free of charge from the Norwegian Sámi Parliament or <a
+        href="mailto:feedback@divvun.no">from the Divvun group at UiT
+        (feedback@divvun.no)</a>. The USB dongle is for one user only, but can
+        be removed from the computer after installation. The USB dongle makes it
+        possible to use the North Sámi speech syntheis on other computers than
+        one's own, by bringing it along and plug it into a different computer
+        and then starting the speech synthesis application directly from the
+        USB dongle without installing anything. More detailed instructions can
+        be found <a href="infovox4.se.html">here (in
+        North Sámi)</a>.</p>
 
-        <p>iVox for MacOS X kan lastes ned gratis <a
-        href="http://www.assistiveware.com/product/infovox-ivox/resources"
-        >herfra</a>. For å aktivere og ta i bruk de nordsamiske stemmene
-        behøver man en aktiveringskode, som man får gratis <a
-        href="mailto:feedback@divvun.no">fra Divvun-gruppa ved
-        UiT (feedback@divvun.no)</a>. Instruksjoner for installering og bruk
-        finnes <a class="fork"
+        <p>iVox for MacOS X can be downloaded and installed free of charge from
+        <a href="http://www.assistiveware.com/product/infovox-ivox/resources"
+        >here</a>. To activate and put the North Sámi voices to use one needs an
+        activation code. This code can be had free of charge by contacting the
+        <a href="mailto:feedback@divvun.no">Divvun group at
+        UiT (feedback@divvun.no)</a>. Instructions for installation and use
+        can be found <a class="fork"
         href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%20Swedish%204.1.pdf"
-        >her (på svensk)</a> og <a class="fork"
+        >here (in Swedish)</a> and <a class="fork"
         href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%204.0.1.pdf"
-        >her (på engelsk)</a>.
+        >here (in English)</a>.
         </p>
 
-        <p>Acapela har <a class="fork" href="http://www.acapela-group.com/">en
-        egen demoside</a> der man <em>snart</em> kan prøve ut de samiske
-        stemmene på fritt valgt tekst.
+        <p>Acapela has <a class="fork" href="http://www.acapela-group.com/">a demo page</a> where you can <em>soon</em> try the North Sámi
+        voices on a text of your own.
         </p>
 
         <section>
-            <title>For utviklere</title>
+            <title>For developers</title>
 
-            <p>Det nordsamiske tekst-til-tale-systemet finnes i flere versjoner
-            beregnet på utviklere og andre som vil integrere talesyntesen i
-            andre programmer og systemer:</p>
+            <p>The North Sámi text-to-speech system is available in several
+            versions targeted at developers and others who want to integrate
+            the synthesis in specific applications and systems:</p>
 
             <ul>
               <li>SDK: Acapela TTS for Windows – PC    </li>
@@ -70,11 +70,11 @@
               <li>SDK: Acapela TTS for MAC OS X        </li>
             </ul>
 
-            <p>SDK-versjonene må bestilles direkte fra Acapela. Ta
-            kontakt med Susanne Magnusson (<a
+            <p>The SDK versions must be ordered directly from Acapela. Get in
+            touch with Susanne Magnusson (<a
             href="mailto:susanne.magnusson@acapela-group.com"
             >susanne.magnusson@acapela-group.com</a>, tlf +46 8 799 86 02) for
-            spørsmål knyttet til disse versjonene.</p>
+            questions related to these versions.</p>
 
         </section>
 
