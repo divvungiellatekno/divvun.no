@@ -151,9 +151,13 @@
         <index href="keyboards/index.html" label="Tastatur"/>
     </tastatur>
 
-    <tale tab="Tale" label="Tale">
-        <index href="tale/tale.html" label="Tale"/>
-        <indx2 href="tale/tale-ferdig.no.html" label="Tale - lansert"/>
+    <tale tab="Tale" label="Taleteknologi">
+        <index href="tale/tale.html" label="Tekst-til-tale"/>
+        <userdocs  label="Brukerdokumentasjon">
+          <win href="tale/infovox4.se.html" label="Infovox4 (Windows)"/>
+          <mac_sv href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%20Swedish%204.1.pdf" label="iVox (MacOSX - svensk)"/>
+          <mac_en href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%204.0.1.pdf" label="iVox (MacOSX - engelsk)"/>
+        </userdocs>
     </tale>
 
     <ordbøker href="ordboker/" tab="Ordbøker" label="Ordbøker">
