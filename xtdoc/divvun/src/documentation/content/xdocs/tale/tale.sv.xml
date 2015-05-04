@@ -3,78 +3,78 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sv">
     <header>
-        <title>Tekst-til-tale</title>
+        <title>Text-till-tal</title>
     </header>
     <body>
-        <note label="Nyhet!">Nordsamisk teskt-til-tale blir lansert
+        <note label="Nyhet!">Nordsamisk teskt-til-tale lanseras
         6.5.2015!</note>
 
-        <p><a href="/index.html">Divvun</a> og <a
-        href="http://sametinget.no">Sametinget</a> har utviklet en nordsamisk
-        talesyntese i samarbeid med <a
-        href="http://www.acapela-group.com/">Acapela</a>. Talesyntese, eller
-        tekst-til-tale, gjør det mulig for datamaskinen å omforme tekst til
-        naturlig tale i de fleste programmer. Ved hjelp av et
-        skjermleserprogram (må skaffes separat) kan all tekst som vises på
-        skjermen leses opp. Det finnes to samiske stemmer, en damestemme
-        ("Elle") og en mannsstemme ("Biera").
+        <p><a href="/index.html">Divvun</a> och <a
+        href="http://sametinget.no">Sametinget i Norge</a> har utvecklat en
+        nordsamisk talsyntes i samarbete med <a
+        href="http://www.acapela-group.com/">Acapela</a>. Talsyntes, eller
+        text-til-tal, gör det möjligt för datorn att förvandla text till
+        naturligt tal i många programmer. Genom att använda en
+        skärmläsare (måste skaffas separat) kan all text som syns på
+        skärmen läsas upp. Det finns två samiska röster: en kvinnoröst
+        ("Elle") och en mansröst ("Biera").
         </p>
 
-        <p>Det nordsamiske tekst-til-tale-systemet finnes i to versjoner for
-        sluttbrukere:</p>
+        <p>Det nordsamiska text-till-tal-systemet finns i två versioner för
+        slutanvändare:</p>
         <ul>
-            <li><strong>Nordsamisk Infovox 4 for Windows</strong></li>
-            <li><strong>Nordsamisk iVox for MacOSX</strong></li>
+            <li><strong>Nordsamisk Infovox 4 för Windows</strong></li>
+            <li><strong>Nordsamisk iVox för MacOSX</strong></li>
         </ul>
 
-        <p>Nordsamisk Infovox (for Windows) leveres på en USB-stikke som kan
-        bestilles gratis fra Sametinget eller <a
-        href="mailto:feedback@divvun.no">fra Divvun-gruppa ved UiT
-        (feedback@divvun.no)</a>. USB-stikka er personlig, men kan fjernes etter
-        installering. USB-stikka gjør det samtidig mulig å bruke den nordsamiske
-        talesyntesen på andre datamaskiner enn ens egen ved at man tar med seg
-        USB-stikka og setter den inn i andre datamaskiner, og bruker
-        talesyntesen rett fra stikka uten å installere syntesen. Mer detaljerte
-        instruksjoner finnes <a href="infovox4.se.html">her (på
-        nordsamisk)</a>.</p>
+        <p>Nordsamisk Infovox (för Windows) leveras på en USB-sticka som kan
+        beställas gratis från Sametinget eller <a
+        href="mailto:feedback@divvun.no">från Divvun-gruppen vid UiT
+        (feedback@divvun.no)</a>. USB-stickan är personlig, men kan tas bort
+        efter installation. USB-stickan gör det möjligt att använda den
+        nordsamiska talsyntesen på andra datorer än sin egen genom att man tar
+        med sig USB-stickan och pluggar in den i den andra datorn, och startar
+        talsyntesen direkt från stickan utan att installera något. Mer
+        detaljerade instruktioner finns <a href="infovox4.se.html">här (på
+        nordsamiska)</a>.</p>
 
-        <p>iVox for MacOS X kan lastes ned gratis <a
+        <p>iVox för MacOS X kan laddas ner gratis <a
         href="http://www.assistiveware.com/product/infovox-ivox/resources"
-        >herfra</a>. For å aktivere og ta i bruk de nordsamiske stemmene
-        behøver man en aktiveringskode, som man får gratis <a
-        href="mailto:feedback@divvun.no">fra Divvun-gruppa ved
-        UiT (feedback@divvun.no)</a>. Instruksjoner for installering og bruk
-        finnes <a class="fork"
+        >härifrån</a>. För att aktivera och börja använda de nordsamiska
+        rösterna behöver man en aktiveringskod, som man får gratis <a
+        href="mailto:feedback@divvun.no">från Divvun-gruppen vid UiT
+        (feedback@divvun.no)</a>. Instruktioner för installation och användning
+        finns <a class="fork"
         href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%20Swedish%204.1.pdf"
-        >her (på svensk)</a> og <a class="fork"
+        >här (på svenska)</a> och <a class="fork"
         href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%204.0.1.pdf"
-        >her (på engelsk)</a>.
+        >här (på engelska)</a>.
         </p>
 
         <p>Acapela har <a class="fork" href="http://www.acapela-group.com/">en
-        egen demoside</a> der man <em>snart</em> kan prøve ut de samiske
-        stemmene på fritt valgt tekst.
+        egen demosida</a> där man <em>snart</em> kan prova och testa de samiska
+        rösterna med egen text.
         </p>
 
         <section>
-            <title>For utviklere</title>
+            <title>För utvecklare</title>
 
-            <p>Det nordsamiske tekst-til-tale-systemet finnes i flere versjoner
-            beregnet på utviklere og andre som vil integrere talesyntesen i
-            andre programmer og systemer:</p>
+            <p>Det nordsamiska text-till-tal-systemet finns i flera versioner
+            avsädda för utvecklare och andra som vil integrera talsyntesen i
+            andra program och system:</p>
 
             <ul>
-              <li>SDK: Acapela TTS for Windows – PC    </li>
-              <li>SDK: Acapela TTS for Windows – Server</li>
-              <li>SDK: Acapela TTS for Linux – Server  </li>
-              <li>SDK: Acapela TTS for MAC OS X        </li>
+              <li>SDK: Acapela TTS för Windows – PC    </li>
+              <li>SDK: Acapela TTS för Windows – Server</li>
+              <li>SDK: Acapela TTS för Linux – Server  </li>
+              <li>SDK: Acapela TTS för MAC OS X        </li>
             </ul>
 
-            <p>SDK-versjonene må bestilles direkte fra Acapela. Ta
-            kontakt med Susanne Magnusson (<a
+            <p>SDK-versionerna måste beställas direkt från Acapela. Kontakta
+            Susanne Magnusson (<a
             href="mailto:susanne.magnusson@acapela-group.com"
-            >susanne.magnusson@acapela-group.com</a>, tlf +46 8 799 86 02) for
-            spørsmål knyttet til disse versjonene.</p>
+            >susanne.magnusson@acapela-group.com</a>, tlf +46 8 799 86 02) med
+            förfrågningar gällande dessa versioner.</p>
 
         </section>
 
