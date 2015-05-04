@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
-        <title>Tale</title>
+        <title>Tekst-til-tale</title>
     </header>
     <body>
         <note label="Nyhet!">Lansert 6.5.2015!</note>
@@ -13,7 +13,10 @@
         talesyntese i samarbeid med <a
         href="http://www.acapela-group.com/">Acapela</a>. Talesyntese, eller
         tekst-til-tale, gjør det mulig for datamaskinen å omforme tekst til
-        menneskelig tale.
+        menneskelig tale i de fleste programmer. Ved hjelp av et
+        skjermleserprogram (må skaffes separat) kan all tekst som vises på
+        skjermen leses opp. Det finnes to samiske stemmer, en damestemme
+        ("Elle") og en mannsstemme ("Biera").
         </p>
 
         <p>Det nordsamiske tekst-til-tale-systemet finnes i to versjoner for
@@ -25,10 +28,10 @@
 
         <p>Nordsamisk Infovox (for Windows) leveres på en USB-stikke som kan
         bestilles gratis fra Sametinget eller <a
-        href="mailto:feedback@divvun.no">fra Divvun-gruppa ved
-        UiT (feedback@divvun.no)</a>. USB-stikka kan fjernes etter
+        href="mailto:feedback@divvun.no">fra Divvun-gruppa ved UiT
+        (feedback@divvun.no)</a>. USB-stikka er personlig, men kan fjernes etter
         installeringa, og gjør det samtidig mulig å bruke nordsamisk talesyntese
-        på andre datamaskiner enn den egne ved at man tar med seg USB-stikka.
+        på andre datamaskiner enn ens egen ved at man tar med seg USB-stikka.
         Mere detaljerte instruksjoner finnes
         <a href="infovox4.se.html">her (på nordsamisk)</a>.</p>
 
@@ -45,12 +48,17 @@
         >her (på engelsk)</a>.
         </p>
 
+        <p>Acapela har <a class="fork" href="http://www.acapela-group.com/">en
+        egen demoside</a> der man kan prøve ut de samiske stemmene
+        på tekst som man selv velger.
+        </p>
+
         <section>
             <title>For utviklere</title>
 
             <p>Det nordsamiske tekst-til-tale-systemet finnes i flere versjoner
             beregnet på utviklere og andre som vil integrere talesyntesen i
-            andre program og systemer:</p>
+            andre programmer og systemer:</p>
 
             <ul>
               <li>SDK: Acapela TTS for Windows – PC    </li>
