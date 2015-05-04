@@ -6,7 +6,7 @@
         <title>Tekst-til-tale</title>
     </header>
     <body>
-        <note label="Nyhet!">Nordsamisk teskt-til-tale ble lansert
+        <note label="Nyhet!">Nordsamisk teskt-til-tale blir lansert
         6.5.2015!</note>
 
         <p><a href="/index.html">Divvun</a> og <a
@@ -31,10 +31,12 @@
         bestilles gratis fra Sametinget eller <a
         href="mailto:feedback@divvun.no">fra Divvun-gruppa ved UiT
         (feedback@divvun.no)</a>. USB-stikka er personlig, men kan fjernes etter
-        installering, og gjør det samtidig mulig å bruke nordsamisk talesyntese
-        på andre datamaskiner enn ens egen ved at man tar med seg USB-stikka.
-        Mer detaljerte instruksjoner finnes
-        <a href="infovox4.se.html">her (på nordsamisk)</a>.</p>
+        installering. USB-stikka gjør det samtidig mulig å bruke den nordsamiske
+        talesyntesen på andre datamaskiner enn ens egen ved at man tar med seg
+        USB-stikka og setter den inn i andre datamaskiner, og bruker
+        talesyntesen rett fra stikka uten å installere syntesen. Mer detaljerte
+        instruksjoner finnes <a href="infovox4.se.html">her (på
+        nordsamisk)</a>.</p>
 
         <p>iVox for MacOS X kan lastes ned gratis <a
         href="http://www.assistiveware.com/product/infovox-ivox/resources"
@@ -50,7 +52,7 @@
         </p>
 
         <p>Acapela har <a class="fork" href="http://www.acapela-group.com/">en
-        egen demoside</a> der man kan prøve ut de samiske stemmene
+        egen demoside</a> der man snart kan prøve ut de samiske stemmene
         på fritt valgt tekst.
         </p>
 
@@ -71,7 +73,8 @@
             <p>SDK-versjonene må bestilles direkte fra Acapela. Ta
             kontakt med Susanne Magnusson (<a
             href="mailto:susanne.magnusson@acapela-group.com"
-            >susanne.magnusson@acapela-group.com</a>, tlf +46 8 799 86 02).</p>
+            >susanne.magnusson@acapela-group.com</a>, tlf +46 8 799 86 02) for
+            spørsmål knyttet til disse versjonene.</p>
 
         </section>
 
