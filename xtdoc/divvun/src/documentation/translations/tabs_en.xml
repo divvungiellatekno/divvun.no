@@ -30,5 +30,16 @@
   <message key="TTS">TTS</message>
   <message key="Future">Future</message>
   <message key="Wiki">Wiki</message>
-  <message key="Tale">Tekst-til-tale</message>
+
+  <message key="AboutUs">About us</message>
+  <message key="Events">Events</message>
+  <message key="Korrektur">Proofing</message>
+    <message key="MSOffice">För MS Office</message>
+    <message key="AndreProgram">For other programs</message>
+    <message key="Beta">Beta versions</message>
+  <message key="Tastatur">Keyboards</message>
+  <message key="Tale">Text-to-speech</message>
+  <message key="Ordbøker">Dictionaries</message>
+  <message key="Oversettelse">Translation</message>
+  <message key="Læring">Language learning</message>
 </catalogue>

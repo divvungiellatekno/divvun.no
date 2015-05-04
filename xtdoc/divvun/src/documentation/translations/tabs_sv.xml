@@ -30,5 +30,16 @@
   <message key="TechDoc">TechDoc</message>
   <message key="TTS">TTS</message>
   <message key="Wiki">Wiki</message>
-  <message key="Tale">Tekst-til-tale</message>
+
+  <message key="AboutUs">Om oss</message>
+  <message key="Events">Händelser</message>
+  <message key="Korrektur">Skrivstöd</message>
+    <message key="MSOffice">För MS Office</message>
+    <message key="AndreProgram">För andra program</message>
+    <message key="Beta">Beta-versioner</message>
+  <message key="Tastatur">Tangentbord</message>
+  <message key="Tale">Text-till-tal</message>
+  <message key="Ordbøker">Ordböcker</message>
+  <message key="Oversettelse">Översättning</message>
+  <message key="Læring">Språkinlärning</message>
 </catalogue>
