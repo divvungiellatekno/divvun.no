@@ -34,12 +34,12 @@
   <message key="AboutUs">Om oss</message>
   <message key="Events">Arrangement</message>
   <message key="Korrektur">Korrektur</message>
-    <message key="MSOffice">För MS Office</message>
+    <message key="MSOffice">For MS Office</message>
     <message key="AndreProgram">For andre program</message>
     <message key="Beta">Beta-versjoner</message>
   <message key="Tastatur">Tastatur</message>
   <message key="Tale">Tekst-til-tale</message>
   <message key="Ordbøker">Ordbøker</message>
   <message key="Oversettelse">Oversettelse</message>
-  <message key="Læring">Språklæring</message>
+  <message key="LangLearn">Språklæring</message>
 </catalogue>

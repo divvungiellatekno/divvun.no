@@ -20,15 +20,15 @@
         <tab id="TechDoc" href="http://divvun.no/doc/index.html" label="Developer documentation"/>
     </tab>
     <tab  dir="korrektur" id="Korrektur" label="Korrektur" indexfile="korrektur.html"       >
-        <tab dir="korrektur" id="MSOffice"  label="For MSOffice"  indexfile="korrektur.html"      />
-        <tab dir="korrektur" id="AndreProgram" label="For andre program"  indexfile="otherapps.html" />
-        <tab dir="korrektur" id="Beta"  label="Betaversjoner" indexfile="libreofficebeta.html"/>
+        <tab dir="korrektur" id="MSOffice"     label="MSOffice"     indexfile="korrektur.html"      />
+        <tab dir="korrektur" id="AndreProgram" label="AndreProgram" indexfile="otherapps.html"      />
+        <tab dir="korrektur" id="Beta"         label="Beta"         indexfile="libreofficebeta.html"/>
     </tab>
-    <tab dir="keyboards/" id="Tastatur" label="Tastatur" indexfile="index.html"/>
-    <tab dir="tale/" id="Tale" label="Tale" indexfile="tale.html"/>
-    <tab dir="ordboker/" id="Ordbøker" label="Ordbøker" indexfile="ordboker.html"/>
+    <tab dir="keyboards/"    id="Tastatur"     label="Tastatur"     indexfile="index.html"       />
+    <tab dir="tale/"         id="Tale"         label="Tale"         indexfile="tale.html"        />
+    <tab dir="ordboker/"     id="Ordbøker"     label="Ordbøker"     indexfile="ordboker.html"    />
     <tab dir="oversettelse/" id="Oversettelse" label="Oversettelse" indexfile="oversettelse.html"/>
-    <tab dir="laring/" id="Læring" label="Språkopplæring" indexfile="laring.html"/>
+    <tab dir="laring/"       id="LangLearn"    label="LangLearn"    indexfile="laring.html"      />
 
     <!--<tab id="adm" label="Administrašuvdna" dir="adm" indexfile="index.html" >
         <tab id="adm-gen" label="Oppalaš" dir="adm" indexfile="index.html" />
