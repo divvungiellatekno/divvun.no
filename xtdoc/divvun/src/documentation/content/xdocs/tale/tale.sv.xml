@@ -24,7 +24,7 @@
         slutanvändare:</p>
         <ul>
             <li><strong>Nordsamisk Infovox 4 för Windows</strong></li>
-            <li><strong>Nordsamisk iVox för MacOSX</strong></li>
+            <li><strong>Nordsamisk iVox för OS X</strong></li>
         </ul>
 
         <p>Nordsamisk Infovox (för Windows) leveras på en USB-sticka som kan
@@ -38,7 +38,7 @@
         talsyntesen direkt från stickan utan att installera något. Mer
         detaljerade instruktioner finns <a href="infovox4.sv.pdf">här</a>.</p>
 
-        <p>iVox för MacOS X kan laddas ner gratis <a
+        <p>iVox för OS X kan laddas ner gratis <a
         href="http://www.assistiveware.com/product/infovox-ivox/resources"
         >härifrån</a>. För att aktivera och börja använda de nordsamiska
         rösterna behöver man en aktiveringskod, som man får gratis <a
@@ -67,7 +67,7 @@
               <li>SDK: Acapela TTS för Windows – PC    </li>
               <li>SDK: Acapela TTS för Windows – Server</li>
               <li>SDK: Acapela TTS för Linux – Server  </li>
-              <li>SDK: Acapela TTS för MAC OS X        </li>
+              <li>SDK: Acapela TTS för OS X        </li>
             </ul>
 
             <p>SDK-versionerna måste beställas direkt från Acapela. Kontakta

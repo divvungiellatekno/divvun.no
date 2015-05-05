@@ -18,7 +18,7 @@
         <p>Noerhtesaemien tekste-soptsestæmman-systeeme gööktene versjovnesne leah, utniejidie:</p>
         <ul>
             <li><strong>Noerhtesaemien Infovox 4 for Windows</strong></li>
-            <li><strong>Noerhtesaemien iVox for MacOSX</strong></li>
+            <li><strong>Noerhtesaemien iVox for OS X</strong></li>
         </ul>
 
         <p>Noerhtesaemien Infovox (for Windows) maahta namhtah saemiedigkeste dongkedh jïh debpede mojhtessaegkie
@@ -26,7 +26,7 @@
         href="mailto:feedback@divvun.no">Divvun-dåehkeste UiT:esne
         (feedback@divvun.no)</a>. Mojhtessaegkie lea persovneladtje, dam maahta destie vaeltedh, goh lea sijjiedahteme. Mojhtessaegkie aaj nuepiem vadta soptsestimmie-syntesem jeatjah maskinine utnedh, juktie gåarede vaeltedh dam mealtan jïh tsagkedh jeatjah maskinide, jïh rïekte mojhtessaegkeste soptsestimmiessyntesem utnedh. Vielie bïhkedassh dan bïjre daestie gaavnh <a href="infovox4.se.pdf"> daesnie (noerhtesaemien)</a>.</p>
 
-        <p>iVox for MacOS X:m maahta namhtah vïedtjedh <a
+        <p>iVox for OS X:m maahta namhtah vïedtjedh <a
         href="http://www.assistiveware.com/product/infovox-ivox/resources"
         >daestie</a>. Gosse dejtie noerhtesaemien gïelide utnedh, dle kodem daarpsjh. Dam kodem åadtjoeh namhtah <a
         href="mailto:feedback@divvun.no">Divvun-dåehkeste 
@@ -52,7 +52,7 @@
               <li>SDK: Acapela TTS Windowsasse – PC    </li>
               <li>SDK: Acapela TTS Windowsasse – Server</li>
               <li>SDK: Acapela TTS Linuxasse – Server  </li>
-              <li>SDK: Acapela TTS MAC OS X:ese        </li>
+              <li>SDK: Acapela TTS OS X:ese        </li>
             </ul>
 
             <p>SDK-versjovnh maahta rïekte Acapeleste dængkedh. Bïeljelh

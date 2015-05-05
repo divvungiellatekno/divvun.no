@@ -22,7 +22,7 @@
         <p>Pohjoissaamen puheentuottojärjestelmästa on saatavilla kaksi versiota:</p>
         <ul>
             <li><strong>Pohjoissaamen Infovox 4 Windows:lle</strong></li>
-            <li><strong>Pohjoissaamen iVox MacOSX:lle</strong></li>
+            <li><strong>Pohjoissaamen iVox OS X:lle</strong></li>
         </ul>
 
         <p>Pohjoissaamen Infovox (Windows:lle) toimitetaan USB-tikulla jonka voi
@@ -35,7 +35,7 @@
         puheentuotto-ohjelma asentamatta sitä. Lisää tietoa asennuksesta löydät
         <a href="infovox4.fi.pdf">täältä</a>.</p>
 
-        <p>iVox MacOSX:lle voidaan ladata ja asentaa ilmaiseksi <a
+        <p>iVox OS X:lle voidaan ladata ja asentaa ilmaiseksi <a
         href="http://www.assistiveware.com/product/infovox-ivox/resources"
         >täältä</a>. Päästäksesi käyttämään pohjoissaamen ääniä tarvitset aktivointikoodin,
         jonka saat ilmaiseksi <a
@@ -62,7 +62,7 @@
               <li>SDK: Acapela TTS Windows:lle – PC    </li>
               <li>SDK: Acapela TTS Windows:lle – Server</li>
               <li>SDK: Acapela TTS Linux:lle – Server  </li>
-              <li>SDK: Acapela TTS MAC OS X :lle       </li>
+              <li>SDK: Acapela TTS OS X :lle       </li>
             </ul>
 
             <p>SDK-versiot tilataan suoraan Acapelalta. Ota yhteyttä

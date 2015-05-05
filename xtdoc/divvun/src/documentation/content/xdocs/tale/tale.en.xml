@@ -24,7 +24,7 @@
         for end users:</p>
         <ul>
             <li><strong>North Sámi Infovox 4 for Windows</strong></li>
-            <li><strong>North Sámi iVox for MacOSX</strong></li>
+            <li><strong>North Sámi iVox for OS X</strong></li>
         </ul>
 
         <p>North Sámi Infovox (for Windows) is delivered on a USB dongle, which
@@ -38,7 +38,7 @@
         USB dongle without installing anything. More detailed instructions can
         be found <a href="infovox4.en.pdf">here</a>.</p>
 
-        <p>iVox for MacOS X can be downloaded and installed free of charge from
+        <p>iVox for OS X can be downloaded and installed free of charge from
         <a href="http://www.assistiveware.com/product/infovox-ivox/resources"
         >here</a>. To activate and put the North Sámi voices to use one needs an
         activation code. This code can be had free of charge by contacting the
@@ -66,7 +66,7 @@
               <li>SDK: Acapela TTS for Windows – PC    </li>
               <li>SDK: Acapela TTS for Windows – Server</li>
               <li>SDK: Acapela TTS for Linux – Server  </li>
-              <li>SDK: Acapela TTS for MAC OS X        </li>
+              <li>SDK: Acapela TTS for OS X        </li>
             </ul>
 
             <p>The SDK versions must be ordered directly from Acapela. Get in
