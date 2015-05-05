@@ -18,9 +18,9 @@
 <catalogue xml:lang="se">
   <message key="Ruoktu">Ruoktu</message>
   <message key="Administrašuvdna">Hálddahus</message>
-  <message key="Oppalaš">Oahpasmahttin</message>
+  <message key="Oppalaš">Oahpásmahttin</message>
   <message key="Raporttat">Raporttat</message>
-  <message key="Outsourcing">Olggoldas bargu</message>
+  <message key="Outsourcing">Olgguldas bargu</message>
   <message key="Styringsgruppa">Stivrenjoavku</message>
   <message key="Legal">Juridihkalaš áššit</message>
   <message key="Proofing">Čállindárkkisteapmi</message>
@@ -31,15 +31,15 @@
   <message key="TTS">TTS</message>
   <message key="Wiki">Wiki</message>
 
-  <message key="AboutUs">Om oss</message>
-  <message key="Events">Arrangement</message>
-  <message key="Korrektur">Korrektur</message>
-    <message key="MSOffice">För MS Office</message>
-    <message key="AndreProgram">For andre program</message>
-    <message key="Beta">Beta-versjoner</message>
-  <message key="Tastatur">Tastatur</message>
-  <message key="Tale">Tekst-til-tale</message>
-  <message key="Ordbøker">Ordbøker</message>
-  <message key="Oversettelse">Oversettelse</message>
-  <message key="Læring">Språklæring</message>
+  <message key="AboutUs">Dieđut min birra</message>
+  <message key="Events">Lágideamit</message>
+  <message key="Korrektur">Čallindárkkisteapmi</message>
+  <message key="MSOffice">MS Officii</message>
+  <message key="AndreProgram">Eará prográmmaide</message>
+  <message key="Beta">Beta-veršuvnnat</message>
+  <message key="Tastatur">Boallobeavddit</message>
+  <message key="Tale">Hállansyntesa</message>
+  <message key="Ordbøker">Sátnegirjjit</message>
+  <message key="Oversettelse">Jorgalus</message>
+  <message key="Læring">Giellaoahppan</message>
 </catalogue>

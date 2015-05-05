@@ -15,7 +15,7 @@
   limitations under the License.
 -->
 <catalogue xml:lang="se">
-  <message key="About">Dieđut Divvumis</message>
+  <message key="About">Dieđut min birra</message>
   <message key="Davvisámegiella">Ruoktu</message>
   <message key="Álgosiidu">Álgosiidu</message>
   <message key="Giellapolitihkka">Giellapolitihkka</message>
@@ -27,7 +27,7 @@
   <message key="Administration">Administrašuvdna</message>
   <message key="Index">Álgu</message>
   <message key="Legal">Juridihkka</message>
-  <message key="Overview">Várddus</message>
+  <message key="Overview">Oahpásmahttin</message>
   <message key="Oslo contract">Oslo-kontrákta</message>
   <message key="Helsinki, 1. Contract">Vuosttaš oassi, Helsset</message>
   <message key="Helsinki, 2. Contract">Nubbi oassi, Helsset</message>
@@ -36,7 +36,7 @@
   <message key="SD Contract, 2. part">Sámedikki nubbi kontrákta</message>
   <message key="SD Contract, 3. part">Sámedikki goalmmát kontrákta</message>
   <message key="Outsourcing">Olgguldas barggut</message>
-  <message key="Overview">Introdukšuvdna</message>
+  <message key="Overview">Oahpásmahttin</message>
   <message key="Qualification Criterias">Kvalifiserenkriteriat</message>
   <message key="Selection Criterias">Válljenkriteriat</message>
   <message key="Deliverables">Buktagat</message>
@@ -74,7 +74,7 @@
   <message key="Dokumentašuvdna">Dokumentašuvdna</message>
   <message key="MS Office for Windows">MS Office Windowsis</message>
   <message key="Divvun for MS Office">Divvun MS Officii</message>
-  <message key="MS Office for MacOSX">MS Office MacOSX:i</message>
+  <message key="MS Office for MacOSX">MS Office Mac OS Xii</message>
   <message key="MS Office 2011">MS Office 2011</message>
   <message key="Install Divvun">Sajáiduhttit Divvuma</message>
   <message key="Using Divvun for MS Office">Geavahit Divvun MS Offices</message>
@@ -88,7 +88,7 @@
   <message key="Known issues">Dovddus váttisvuođat</message>
   <message key="Hunspell">Hunspell</message>
   <message key="Hunspell on Linux">Hunspell Linuxis</message>
-  <message key="Hunspell on MacOSX">Hunspell on MacOSX:s</message>
+  <message key="Hunspell on MacOSX">Hunspell on Mac OS Xs</message>
   <message key="Videot">Videot</message>
   <message key="Windows/Microsoft Office">Windows/Microsoft Office</message>
   <message key="Mac OS X">Mac OS X</message>
