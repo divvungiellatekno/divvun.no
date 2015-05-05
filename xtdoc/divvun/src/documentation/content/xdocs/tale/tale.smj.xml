@@ -3,78 +3,76 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="smj">
     <header>
-        <title>Tekst-til-tale</title>
+        <title>Tevstas-hållaj</title>
     </header>
     <body>
-        <note label="Nyhet!">Nordsamisk teskt-til-tale blir lansert
-        6.5.2015!</note>
+        <note label="Nyhet!">Nuorttasáme tevstas-hållåj almoduvvá 6.5.2.15!</note>
 
-        <p><a href="/index.html">Divvun</a> og <a
-        href="http://sametinget.no">Sametinget</a> har utviklet en nordsamisk
-        talesyntese i samarbeid med <a
-        href="http://www.acapela-group.com/">Acapela</a>. Talesyntese, eller
-        tekst-til-tale, gjør det mulig for datamaskinen å omforme tekst til
-        naturlig tale i mange programmer. Ved hjelp av et
-        skjermleserprogram (må skaffes separat) kan all tekst som vises på
-        skjermen leses opp. Det finnes to samiske stemmer, en damestemme
-        ("Elle") og en mannsstemme ("Biera").
+        <p><a href="/index.html">Divvun</a> ja <a
+        href="http://sametinget.no">Sámdigge</a> li åvddånahttám nuorttasáme 
+        hållamsyntiesav aktan <a
+        href="http://www.acapela-group.com/">Acapelajn</a>. Hållamsyntiesajn, jali 
+        tevstas-hållåj-vuogádagájn, le vejulasj dáhtámasjijnnaj moatten prográmman 
+        ietjájduhttet tevstav luondulasj hållaj. Sjærmmalåhkåmprográmma 
+        baktu (viertti sierra åttjuduvvat) máhttá divna tæksta mij sjerman vuojnnu 
+        jieddnát lågåduvvat. Gávnnuji guokta sáme giela, nissungiella ("Elle") ja 
+        ålmåjgiella ("Biera").
         </p>
 
-        <p>Det nordsamiske tekst-til-tale-systemet finnes i to versjoner for
-        sluttbrukere:</p>
+        <p>Nuorttasáme tevstas-hållåj-vuogádahka gávnnu addnijda guovten 
+        versjåvnån:</p>
         <ul>
-            <li><strong>Nordsamisk Infovox 4 for Windows</strong></li>
-            <li><strong>Nordsamisk iVox for MacOSX</strong></li>
+            <li><strong>Nuorttasáme Infovox 4 Windowsij</strong></li>
+            <li><strong>Nuorttasáme iVox MacOSX:j</strong></li>
         </ul>
 
-        <p>Nordsamisk Infovox (for Windows) leveres på en USB-stikke som kan
-        bestilles gratis fra Sametinget eller <a
-        href="mailto:feedback@divvun.no">fra Divvun-gruppa ved UiT
-        (feedback@divvun.no)</a>. USB-stikka er personlig, men kan fjernes etter
-        installering. USB-stikka gjør det samtidig mulig å bruke den nordsamiske
-        talesyntesen på andre datamaskiner enn ens egen ved at man tar med seg
-        USB-stikka og setter den inn i andre datamaskiner, og bruker
-        talesyntesen rett fra stikka uten å installere syntesen. Mer detaljerte
-        instruksjoner finnes <a href="infovox4.html">her (på
-        nordsamisk)</a>.</p>
+        <p>Nuorttasáme Infowox (Windowsij) buvteduvvá USB-sákke baktu majt 
+        nåvgå máhttá diŋŋgut Sámedikkes jali <a 
+        href="mailto:feedback@divvun.no">Divvun-juohkusis UiT:n
+        (feedback@divvun.no)</a>. USB-ságge la persåvnålasj, valla máhttá gádoduvvat
+        sajájduhttema maŋŋela. Sæmmi båttå la USB-sákke baktu vejulasj addnuj válldet
+        nuorttasáme hållamsyntiesav ietjá dáhtámasjijnajn dan jur ietjat. Dåhkki dav 
+        maŋen válldet ja ietjá dáhtámasjijnajda biedjat, ja navti hållamsyntiesav adnet 
+        sajájduhttema dagi. Sniváp bagádusáv gávna 
+        <a href="infovox4.html">dánna (nuorttasámegiellaj</a>.</p>
 
-        <p>iVox for MacOS X kan lastes ned gratis <a
+        <p>Nuorttasáme iVox MacOS X:j máhtá viedtjat nåvgå <a 
         href="http://www.assistiveware.com/product/infovox-ivox/resources"
-        >herfra</a>. For å aktivere og ta i bruk de nordsamiske stemmene
-        behøver man en aktiveringskode, som man får gratis <a
-        href="mailto:feedback@divvun.no">fra Divvun-gruppa ved
-        UiT (feedback@divvun.no)</a>. Instruksjoner for installering og bruk
-        finnes <a class="fork"
+        >dássta</a>. Aktivieritjit ja addnuj váldátjit nuorttasáme gielajt 
+        dárbaha aktivierimkåvdåv majt nåvgå oadtjo <a 
+        href="mailto:feedback@divvun.no">Divvun-juohkusis 
+        UiT:n (feedback@divvun.no)</a>. Bagádusá gåktu sajájduhttet ja vuogádagáv adnet 
+        gávna <a class="fork"
         href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%20Swedish%204.1.pdf"
-        >her (på svensk)</a> og <a class="fork"
+        >dánna (svierigadárogiellaj)</a> ja <a class="fork"
         href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%204.0.1.pdf"
-        >her (på engelsk)</a>.
+        >dánna (ieŋŋilsgiellaj)</a>.
         </p>
 
-        <p>Acapela har <a class="fork" href="http://www.acapela-group.com/">en
-        egen demoside</a> der man <em>snart</em> kan prøve ut de samiske
-        stemmene på fritt valgt tekst.
+        <p>Acapelan la <a class="fork" href="http://www.acapela-group.com/">
+        sierra demobielle</a> gånnå <em>ruvva</em> besa gæhttjalit sáme 
+        gielajt akta ber makkir tevstan
         </p>
 
         <section>
-            <title>For utviklere</title>
+            <title>Åvddånahttijda</title>
 
-            <p>Det nordsamiske tekst-til-tale-systemet finnes i flere versjoner
-            beregnet på utviklere og andre som vil integrere talesyntesen i
-            andre programmer og systemer:</p>
+            <p>Nuorttasáme tevstas-hållaj-vuogádahka gávnnu moatten versjåvnån 
+            åvdånahttijda ja iehtjádijda gudi sihti hållamsyntiesav avtastahttet 
+            ietja prográmmaj ja vuogádagáj:</p>
 
             <ul>
-              <li>SDK: Acapela TTS for Windows – PC    </li>
-              <li>SDK: Acapela TTS for Windows – Server</li>
-              <li>SDK: Acapela TTS for Linux – Server  </li>
-              <li>SDK: Acapela TTS for MAC OS X        </li>
+              <li>SDK: Acapela TTS Windowsij – PC    </li>
+              <li>SDK: Acapela TTS Windowsij – Server</li>
+              <li>SDK: Acapela TTS Linuxij – Server  </li>
+              <li>SDK: Acapela TTS MAC OS X:j        </li>
             </ul>
 
-            <p>SDK-versjonene må bestilles direkte fra Acapela. Ta
-            kontakt med Susanne Magnusson (<a
+            <p>SDK-versjåvnå vierttiji diŋgoduvvat njuolgga Acapelas. Válde 
+            aktijvuodav Susanne Magnussonajn (<a
             href="mailto:susanne.magnusson@acapela-group.com"
-            >susanne.magnusson@acapela-group.com</a>, tlf +46 8 799 86 02) for
-            spørsmål knyttet til disse versjonene.</p>
+            >susanne.magnusson@acapela-group.com</a>, tlf +46 8 799 86 02) jus 
+            li gatjálvisá dáj versjåvnåj birra.</p>
 
         </section>
 
