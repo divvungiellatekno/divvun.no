@@ -31,15 +31,15 @@
   <message key="TTS">TTS</message>
   <message key="Wiki">Wiki</message>
 
-  <message key="AboutUs">Om oss</message>
-  <message key="Events">Arrangement</message>
-  <message key="Korrektur">Korrektur</message>
-    <message key="MSOffice">För MS Office</message>
-    <message key="AndreProgram">For andre program</message>
-    <message key="Beta">Beta-versjoner</message>
-  <message key="Tastatur">Tastatur</message>
-  <message key="Tale">Tekst-til-tale</message>
-  <message key="Ordbøker">Ordbøker</message>
-  <message key="Oversettelse">Oversettelse</message>
-  <message key="Læring">Språklæring</message>
+  <message key="AboutUs">Mijjen bïjre</message>
+  <message key="Events">Arrangementh</message>
+  <message key="Korrektur">Korrektuvre</message>
+    <message key="MSOffice">MS Officasse</message>
+    <message key="AndreProgram">Jeatjah programmide</message>
+    <message key="Beta">Beta-versjovnh</message>
+  <message key="Tastatur">Båaloebuertie</message>
+  <message key="Tale">Tekste-soptsestæmman</message>
+  <message key="Ordbøker">Baakoegærjah</message>
+  <message key="Oversettelse">Jarkoestimmie</message>
+  <message key="Læring">Gïeleööhpehtimmie</message>
 </catalogue>
