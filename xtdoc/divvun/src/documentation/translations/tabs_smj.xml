@@ -19,11 +19,11 @@
   <message key="Ruoktu">Sijdda</message>
   <message key="Administrašuvdna">Háldadus</message>
   <message key="Oppalaš">Oahpásmahttem</message>
-  <message key="Raporttat">Diedádusat</message>
+  <message key="Raporttat">Diedádusá</message>
   <message key="Outsourcing">Ålgoldis bargo</message>
-  <message key="Styringsgruppa">Stivrremjuogos</message>
-  <message key="Legal">Juridihkka</message>
-  <message key="Proofing">Stávimdárkestibme</message>
+  <message key="Styringsgruppa">Stivrrimjuogos</message>
+  <message key="Legal">juridihkalasj ássje</message>
+  <message key="Proofing">Korrektuvrratjála</message>
   <message key="Future">Boahtte ájgge</message>
   <message key="Polderland">Polderland</message>
   <message key="Giellatekno">Giellatekno</message>
@@ -31,15 +31,15 @@
   <message key="TTS">TTS</message>
   <message key="Wiki">Wiki</message>
 
-  <message key="AboutUs">Om oss</message>
-  <message key="Events">Arrangement</message>
-  <message key="Korrektur">Korrektur</message>
-    <message key="MSOffice">För MS Office</message>
-    <message key="AndreProgram">For andre program</message>
-    <message key="Beta">Beta-versjoner</message>
-  <message key="Tastatur">Tastatur</message>
-  <message key="Tale">Tekst-til-tale</message>
-  <message key="Ordbøker">Ordbøker</message>
-  <message key="Oversettelse">Oversettelse</message>
-  <message key="Læring">Språklæring</message>
+  <message key="AboutUs">Mijá birra</message>
+  <message key="Events">Ásadime</message>
+  <message key="Korrektur">Korrektuvrra</message>
+    <message key="MSOffice">MS Office</message>
+    <message key="AndreProgram">Ietjá prográmma</message>
+    <message key="Beta">Beta-versjåvnå</message>
+  <message key="Tastatur">Tastatuvra</message>
+  <message key="Tale">Tevstas-hållaj</message>
+  <message key="Ordbøker">Báhkogirje</message>
+  <message key="Oversettelse">Jårggålibme</message>
+  <message key="Læring">Giellaoahppam</message>
 </catalogue>
