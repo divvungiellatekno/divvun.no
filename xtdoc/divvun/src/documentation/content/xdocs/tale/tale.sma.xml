@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
@@ -6,62 +6,48 @@
         <title>Tekst-til-tale</title>
     </header>
     <body>
-        <note label="Nyhet!">Nordsamisk teskt-til-tale blir lansert
+        <note label="Nyhet!"> Noerhtesaemien tekste-soptsestæmman bæjhkoehtåvva  
         6.5.2015!</note>
 
-        <p><a href="/index.html">Divvun</a> og <a
-        href="http://sametinget.no">Sametinget</a> har utviklet en nordsamisk
-        talesyntese i samarbeid med <a
-        href="http://www.acapela-group.com/">Acapela</a>. Talesyntese, eller
-        tekst-til-tale, gjør det mulig for datamaskinen å omforme tekst til
-        naturlig tale i mange programmer. Ved hjelp av et
-        skjermleserprogram (må skaffes separat) kan all tekst som vises på
-        skjermen leses opp. Det finnes to samiske stemmer, en damestemme
-        ("Elle") og en mannsstemme ("Biera").
+        <p><a href="/index.html">Divvun</a> jïh <a
+        href="http://sametinget.no">Saemiedigkie</a> leah noerhtesaemien tekste-soptsestæmman-programmem <a
+        href="http://www.acapela-group.com/">Acapeline ektine</a> dorjeme. Soptsestimmiesyntese, jallh
+        tekste-soptsestæmman, nuepiem maskinese vadta tekstem soptsestæmman jeatjahtehtedh gelline programmine. Skjeermelohkemepgrogrammine maahta gaajhke tekste mij skjeermesne vååjnoe, lohkesovvedh. Göökte saemien gïeleh leah, akten nyjsenæjjan  ("Elle") jïh mubpie gaarmanæjjan lea.("Biera").
         </p>
 
-        <p>Det nordsamiske tekst-til-tale-systemet finnes i to versjoner for
-        sluttbrukere:</p>
+        <p>Noerhtesaemien tekste-soptsestæmman-systeeme gööktene versjovnesne leah, utniejidie:</p>
         <ul>
-            <li><strong>Nordsamisk Infovox 4 for Windows</strong></li>
-            <li><strong>Nordsamisk iVox for MacOSX</strong></li>
+            <li><strong>Noerhtesaemien Infovox 4 for Windows</strong></li>
+            <li><strong>Noerhtesaemien iVox for MacOSX</strong></li>
         </ul>
 
-        <p>Nordsamisk Infovox (for Windows) leveres på en USB-stikke som kan
-        bestilles gratis fra Sametinget eller <a
-        href="mailto:feedback@divvun.no">fra Divvun-gruppa ved UiT
-        (feedback@divvun.no)</a>. USB-stikka er personlig, men kan fjernes etter
-        installering. USB-stikka gjør det samtidig mulig å bruke den nordsamiske
-        talesyntesen på andre datamaskiner enn ens egen ved at man tar med seg
-        USB-stikka og setter den inn i andre datamaskiner, og bruker
-        talesyntesen rett fra stikka uten å installere syntesen. Mer detaljerte
-        instruksjoner finnes <a href="infovox4.html">her (på
+        <p>Noerhtesaemien Infovox (for Windows) maahta namhtah saemiedigkeste dongkedh jïh debpede mojhtessaegkie
+ seedtesåvva<a
+        href="mailto:feedback@divvun.no">Divvun-dåehkeste UiT:esne
+        (feedback@divvun.no)</a>. mojhtessaegkie lea persovneladtje, dam maahta destie vaeltedh, goh lea sijjiedahteme. Mojhtessaegkie aaj nuepiem vadta soptsestimmie-syntesem jeatjah maskinine utnedh, juktie gåarede vaeltedh dam mealtan jïh tsagkedh jeatjah maskinide, jïh rïekte mojhtessaegkeste soptsestimmiessyntesem utnedh.Vielie bïhkedassh dan bïjre daestie gaavnh <a href="infovox4.html"> daesnie(på
         nordsamisk)</a>.</p>
 
-        <p>iVox for MacOS X kan lastes ned gratis <a
+        <p>iVox for MacOS X:m maahta namhtah vïedtjedh <a
         href="http://www.assistiveware.com/product/infovox-ivox/resources"
-        >herfra</a>. For å aktivere og ta i bruk de nordsamiske stemmene
-        behøver man en aktiveringskode, som man får gratis <a
-        href="mailto:feedback@divvun.no">fra Divvun-gruppa ved
-        UiT (feedback@divvun.no)</a>. Instruksjoner for installering og bruk
-        finnes <a class="fork"
+        >herfra</a>. Gosse dejtie noerhtesaemien gïelide utnedh, dle kodem daarpsjh. Dam kodem åadtjoeh namhtah <a
+        href="mailto:feedback@divvun.no">Divvun-dåehkeste 
+        UiT:esne (feedback@divvun.no)</a>. Bïhkedassh guktie sijjiedehtedh jïh dam utnedh, daestie åadtjoeh
+        <a class="fork"
         href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%20Swedish%204.1.pdf"
-        >her (på svensk)</a> og <a class="fork"
+        >daesnie (på svensk)</a> og <a class="fork"
         href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%204.0.1.pdf"
-        >her (på engelsk)</a>.
+        >daesnie (på engelsk)</a>.
         </p>
 
-        <p>Acapela har <a class="fork" href="http://www.acapela-group.com/">en
-        egen demoside</a> der man <em>snart</em> kan prøve ut de samiske
-        stemmene på fritt valgt tekst.
+        <p>Acapelan lea  <a class="fork" href="http://www.acapela-group.com/">en
+        jŋijtse demobielie</a> gusnie <em>snart</em> åådtje dejtie saemien gïelide prövedh tekstijste.
         </p>
 
         <section>
-            <title>For utviklere</title>
+            <title>evtiedæjjide
+</title>
 
-            <p>Det nordsamiske tekst-til-tale-systemet finnes i flere versjoner
-            beregnet på utviklere og andre som vil integrere talesyntesen i
-            andre programmer og systemer:</p>
+            <p>Noerhtesaemien tekste-soptsestæmman-systeeme gelline versjovnine leah, sjïehtesjamme evtiedæjjide jïh jeatjabidie mah sijhtieh soptsestimmie-syntesem  jeatjah programmide jïh systeemide bïejedh:</p>
 
             <ul>
               <li>SDK: Acapela TTS for Windows – PC    </li>
@@ -70,11 +56,11 @@
               <li>SDK: Acapela TTS for MAC OS X        </li>
             </ul>
 
-            <p>SDK-versjonene må bestilles direkte fra Acapela. Ta
-            kontakt med Susanne Magnusson (<a
+            <p>SDK-versjovnh maahta rïekte Acapeleste dongkedh.Bïeljelh
+
+            Susanne Magnussonem (<a
             href="mailto:susanne.magnusson@acapela-group.com"
-            >susanne.magnusson@acapela-group.com</a>, tlf +46 8 799 86 02) for
-            spørsmål knyttet til disse versjonene.</p>
+            >susanne.magnusson@acapela-group.com</a>, tlf +46 8 799 86 02) jïs åtnah maam joem gihtjedh daej versjovni bïjre.</p>
 
         </section>
 
