@@ -7,6 +7,8 @@
         <meta name="description">samisk rättstavning</meta>
     </header>
     <body>
+        <note label="Nyhet!">Nordsamiskt text-till-tal lanseras
+        6.5.2015! <a href="tale/tale.html">Läs mer här!</a></note>
       <ul class="col-sm-12 nobullet">
         <li class="col-sm-4">
             Vi har <a href="keyboards/index.html">smarttelefontangentbord</a>

@@ -7,6 +7,9 @@
         <meta name="description">sáme tjállemdárkastus</meta>
     </header>
     <body>
+        <note label="Ådås!">Nuorttasáme tevstas-hållåj almoduvvá 6.5.2.15!
+        <a href="tale/tale.html">Lågå ienebut dánna!</a></note>
+
       <ul class="col-sm-12 nobullet">
         <li class="col-sm-4">
             Miján li <a href="keyboards/index.html">mobijllatastatuvra</a>

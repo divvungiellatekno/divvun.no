@@ -7,6 +7,9 @@
         <meta name="description">Saami speller, Saami spell checker</meta>
     </header>
     <body>
+        <note label="News!">North Sámi text-to-speech is being released
+        6.5.2015! <a href="tale/tale.html">Read more here!</a></note>
+
       <ul class="col-sm-12 nobullet">
         <li class="col-sm-4">
             We have <a href="keyboards/index.html">mobile phone keyboards</a>

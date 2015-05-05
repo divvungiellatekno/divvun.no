@@ -7,6 +7,9 @@
         <meta name="description">samisk stavekontroll</meta>
     </header>
     <body>
+        <note label="Nyhet!">Nordsamisk tekst-til-tale blir lansert
+        6.5.2015! <a href="tale/tale.html">Les mer her!</a></note>
+
       <ul class="col-sm-12 nobullet">
         <li class="col-sm-4">
             Vi har <a href="keyboards/index.html">mobiltastatur</a>
