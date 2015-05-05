@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
     <header>
-        <title>Tekst-til-tale</title>
+        <title>Tekste-soptsestæmman</title>
     </header>
     <body>
         <note label="Nyhet!"> Noerhtesaemien tekste-soptsestæmman bæjhkoehtåvva  
@@ -24,8 +24,7 @@
         <p>Noerhtesaemien Infovox (for Windows) maahta namhtah saemiedigkeste dongkedh jïh debpede mojhtessaegkie
  seedtesåvva <a
         href="mailto:feedback@divvun.no">Divvun-dåehkeste UiT:esne
-        (feedback@divvun.no)</a>. Mojhtessaegkie lea persovneladtje, dam maahta destie vaeltedh, goh lea sijjiedahteme. Mojhtessaegkie aaj nuepiem vadta soptsestimmie-syntesem jeatjah maskinine utnedh, juktie gåarede vaeltedh dam mealtan jïh tsagkedh jeatjah maskinide, jïh rïekte mojhtessaegkeste soptsestimmiessyntesem utnedh. Vielie bïhkedassh dan bïjre daestie gaavnh <a href="infovox4.html"> daesnie (på
-        nordsamisk)</a>.</p>
+        (feedback@divvun.no)</a>. Mojhtessaegkie lea persovneladtje, dam maahta destie vaeltedh, goh lea sijjiedahteme. Mojhtessaegkie aaj nuepiem vadta soptsestimmie-syntesem jeatjah maskinine utnedh, juktie gåarede vaeltedh dam mealtan jïh tsagkedh jeatjah maskinide, jïh rïekte mojhtessaegkeste soptsestimmiessyntesem utnedh. Vielie bïhkedassh dan bïjre daestie gaavnh <a href="infovox4.html"> daesnie (noerhtesaemien)</a>.</p>
 
         <p>iVox for MacOS X:m maahta namhtah vïedtjedh <a
         href="http://www.assistiveware.com/product/infovox-ivox/resources"
@@ -34,13 +33,13 @@
         UiT:esne (feedback@divvun.no)</a>. Bïhkedassh guktie sijjiedehtedh jïh dam utnedh, daestie åadtjoeh
         <a class="fork"
         href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%20Swedish%204.1.pdf"
-        >daesnie (på svensk)</a> og <a class="fork"
+        >daesnie (sveerjengïelesne)</a> og <a class="fork"
         href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%204.0.1.pdf"
-        >daesnie (på engelsk)</a>.
+        >daesnie (englaantegïelesne)</a>.
         </p>
 
-        <p>Acapelan lea  <a class="fork" href="http://www.acapela-group.com/">en
-        jŋijtse demobielie</a> gusnie åådtje dejtie saemien gïelide prövedh tekstijste.
+        <p>Acapelan lea  <a class="fork" href="http://www.acapela-group.com/">
+        jïjtse demo-bielie</a> gusnie åådtje dejtie saemien gïelide prövedh tekstijste.
         </p>
 
         <section>
@@ -50,13 +49,13 @@
             <p>Noerhtesaemien tekste-soptsestæmman-systeeme gelline versjovnine leah, sjïehtesjamme evtiedæjjide jïh jeatjabidie mah sijhtieh soptsestimmie-syntesem  jeatjah programmide jïh systeemide bïejedh:</p>
 
             <ul>
-              <li>SDK: Acapela TTS for Windows – PC    </li>
-              <li>SDK: Acapela TTS for Windows – Server</li>
-              <li>SDK: Acapela TTS for Linux – Server  </li>
-              <li>SDK: Acapela TTS for MAC OS X        </li>
+              <li>SDK: Acapela TTS Windowsasse – PC    </li>
+              <li>SDK: Acapela TTS Windowsasse – Server</li>
+              <li>SDK: Acapela TTS Linuxasse – Server  </li>
+              <li>SDK: Acapela TTS MAC OS X:ese        </li>
             </ul>
 
-            <p>SDK-versjovnh maahta rïekte Acapeleste dongkedh. Bïeljelh
+            <p>SDK-versjovnh maahta rïekte Acapeleste dængkedh. Bïeljelh
 
             Susanne Magnussonem (<a
             href="mailto:susanne.magnusson@acapela-group.com"
