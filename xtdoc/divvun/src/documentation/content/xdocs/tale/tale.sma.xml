@@ -12,7 +12,7 @@
         <p><a href="/index.html">Divvun</a> jïh <a
         href="http://sametinget.no">Saemiedigkie</a> leah noerhtesaemien tekste-soptsestæmman-programmem <a
         href="http://www.acapela-group.com/">Acapeline ektine</a> dorjeme. Soptsestimmiesyntese, jallh
-        tekste-soptsestæmman, nuepiem maskinese vadta tekstem soptsestæmman jeatjahtehtedh gelline programmine. Skjeermelohkemepgrogrammine maahta gaajhke tekste mij skjeermesne vååjnoe, lohkesovvedh. Göökte saemien gïeleh leah, akten nyjsenæjjan  ("Elle") jïh mubpie gaarmanæjjan lea.("Biera").
+        tekste-soptsestæmman, nuepiem maskinese vadta tekstem soptsestæmman jeatjahtehtedh gelline programmine. Skjeermelohkemepgrogrammine maahta gaajhke tekste mij skjeermesne vååjnoe, lohkesovvedh. Göökte saemien gïeleh leah, akten nyjsenæjjan  ("Elle") jïh mubpie gaarmanæjjan lea ("Biera").
         </p>
 
         <p>Noerhtesaemien tekste-soptsestæmman-systeeme gööktene versjovnesne leah, utniejidie:</p>
@@ -22,9 +22,9 @@
         </ul>
 
         <p>Noerhtesaemien Infovox (for Windows) maahta namhtah saemiedigkeste dongkedh jïh debpede mojhtessaegkie
- seedtesåvva<a
+ seedtesåvva <a
         href="mailto:feedback@divvun.no">Divvun-dåehkeste UiT:esne
-        (feedback@divvun.no)</a>. mojhtessaegkie lea persovneladtje, dam maahta destie vaeltedh, goh lea sijjiedahteme. Mojhtessaegkie aaj nuepiem vadta soptsestimmie-syntesem jeatjah maskinine utnedh, juktie gåarede vaeltedh dam mealtan jïh tsagkedh jeatjah maskinide, jïh rïekte mojhtessaegkeste soptsestimmiessyntesem utnedh.Vielie bïhkedassh dan bïjre daestie gaavnh <a href="infovox4.html"> daesnie(på
+        (feedback@divvun.no)</a>. Mojhtessaegkie lea persovneladtje, dam maahta destie vaeltedh, goh lea sijjiedahteme. Mojhtessaegkie aaj nuepiem vadta soptsestimmie-syntesem jeatjah maskinine utnedh, juktie gåarede vaeltedh dam mealtan jïh tsagkedh jeatjah maskinide, jïh rïekte mojhtessaegkeste soptsestimmiessyntesem utnedh. Vielie bïhkedassh dan bïjre daestie gaavnh <a href="infovox4.html"> daesnie (på
         nordsamisk)</a>.</p>
 
         <p>iVox for MacOS X:m maahta namhtah vïedtjedh <a
@@ -40,11 +40,11 @@
         </p>
 
         <p>Acapelan lea  <a class="fork" href="http://www.acapela-group.com/">en
-        jŋijtse demobielie</a> gusnie <em>snart</em> åådtje dejtie saemien gïelide prövedh tekstijste.
+        jŋijtse demobielie</a> gusnie åådtje dejtie saemien gïelide prövedh tekstijste.
         </p>
 
         <section>
-            <title>evtiedæjjide
+            <title>Evtiedæjjide
 </title>
 
             <p>Noerhtesaemien tekste-soptsestæmman-systeeme gelline versjovnine leah, sjïehtesjamme evtiedæjjide jïh jeatjabidie mah sijhtieh soptsestimmie-syntesem  jeatjah programmide jïh systeemide bïejedh:</p>
@@ -56,7 +56,7 @@
               <li>SDK: Acapela TTS for MAC OS X        </li>
             </ul>
 
-            <p>SDK-versjovnh maahta rïekte Acapeleste dongkedh.Bïeljelh
+            <p>SDK-versjovnh maahta rïekte Acapeleste dongkedh. Bïeljelh
 
             Susanne Magnussonem (<a
             href="mailto:susanne.magnusson@acapela-group.com"
