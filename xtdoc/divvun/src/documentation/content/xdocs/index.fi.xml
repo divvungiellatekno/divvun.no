@@ -7,6 +7,9 @@
         <meta name="description">saamen kielten korjausohjelmat</meta>
     </header>
     <body>
+        <note label="Uutisia!">Pohjoissaamen puhentuottojärjestelmä julkaistaan
+        6.5.2015! <a href="tale/tale.html">Lue lisää täältä!</a></note>
+
       <ul class="col-sm-12 nobullet">
         <li class="col-sm-4">
             Meillä on <a href="keyboards/index.html">matkapuhelinnäppäimistöt</a>
