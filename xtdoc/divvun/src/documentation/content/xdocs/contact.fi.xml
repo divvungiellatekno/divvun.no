@@ -3,18 +3,18 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="fi">
    <header>
-      <title>Contact</title>
+      <title>Yhteystiedot</title>
    </header>
    <body>
 	<ul>
-		<li><a href="mailto:feedback@divvun.no">Mail address: feedback@divvun.no</a></li>
-		<li>Project manager Sjur Nørstebø Moshagen:
+		<li><a href="mailto:feedback@divvun.no">Sähköpostiosoite: feedback@divvun.no</a></li>
+		<li>Projektipäällikkö Sjur Nørstebø Moshagen:
 			<ul>
 				<li><a href="mailto:sjur.n.moshagen@uit.no">sjur.n.moshagen@uit.no</a></li>
-				<li>Phone number: +358 505 634 319</li>
+				<li>Puhelinnumero: +358 505 634 319</li>
 			</ul>
 		</li>
-		<li><a href="http://www.divvun.no/doc/admin/people.html">Mail and chat addresses to the other project members</a></li>
+		<li><a href="http://www.divvun.no/doc/admin/people.html">Muiden jäsenten sähköposti- ja chat-osoitteet</a></li>
 	</ul>
    </body>
 </document>
