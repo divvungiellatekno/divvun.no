@@ -12,26 +12,26 @@
 
       <ul class="col-sm-12 nobullet">
         <li class="col-sm-4">
+            Vi har nord‑, lule- og sørsamiske <a href="korrektur/korrektur.html">stavekontroller</a> for <img alt="Windows" src="/images/windows_small.png"/>, <img alt="OS X" src="/images/osx.png"/> og <img alt="Linux" src="/images/linux_small.png"/>
+        </li>
+        <li class="col-sm-4">
             Vi har <a href="keyboards/index.html">mobiltastatur</a>
             for nord‑, lule‑, sør‑, pite‑, enare‑ og skoltesamisk for både
             <img src="/images/android.png" alt="android"/> og <img src="/images/ios8.png" alt="iOS 8"/>
         </li>
         <li class="col-sm-4">
-            Vi har <a href="laring/laring.html">E-læringsprogrammer</a> for <img src="/images/android.png" alt="android"/> og <img src="/images/ios.png" alt="iOS"/> samt som nettapper
-        </li>
-        <li class="col-sm-4">
-            Vi har nord‑, lule- og sørsamiske <a href="korrektur/korrektur.html">stavekontroller</a> for <img alt="Windows" src="/images/windows_small.png"/>, <img alt="OS X" src="/images/osx.png"/> og <img alt="Linux" src="/images/linux_small.png"/>
+            Vi har nordsamisk <a href="tale/tale.html">talesyntese</a> for <img alt="Windows" src="/images/windows_small.png"/> og <img alt="OS X" src="/images/osx.png"/>
         </li>
       </ul>
       <ul class="col-sm-12 nobullet">
         <li class="col-sm-4">
-            Nettbaserte og nedlastbare <a href="ordboker/ordboker.html">ordbøker</a>
+            Vi har <a href="laring/laring.html">e-læringsprogrammer</a> for <img src="/images/android.png" alt="android"/> og <img src="/images/ios.png" alt="iOS"/> samt som nettapper
         </li>
         <li class="col-sm-4">
-            <a href="oversettelse/oversettelse.html">Oversettelsesminne</a>
+            Vi har nettbaserte og nedlastbare <a href="ordboker/ordboker.html">ordbøker</a>
         </li>
         <li class="col-sm-4">
-            Nordsamisk <a href="tale/tale.html">talesyntese</a> er på gang
+            Vi har <a href="oversettelse/oversettelse.html">oversettelsesminne</a>
         </li>
       </ul>
     </body>
