@@ -51,18 +51,16 @@
         demosivu</a> jossa voit kokeilla pohjoissaamen puhetta valitsemallasi tekstillä.
         </p>
 
-        <p>Det er mulig å tilpasse stemmene etter eget behov. Nærmere
-        instruksjoner finnes i Acapela's <a href="Manual_Sami.pdf">språkmanual
-        for nordsamisk.</a> Manualen beskriver først og fremst hvordan stemmene
-        leser opp visse typer konstruksjoner, men kapittel 6 og 7 beskriver
-        hvordan man kan gjøre egne tilpasninger.</p>
+        <p>Ääniä voi mukauttaa omien tarpeiden mukaisesti. Tarkemmat ohjeet löytyvät
+        Acapelan <a href="Manual_Sami.pdf">pohjoissaamen käyttöohjeesta.</a>
+        Käyttöohje kuvaa ensisijaisesti kuinka äänet lukevat tietyt konstruktiot,
+        mutta luvut 6 ja 7 kuvaavat miten tehdä omia muutoksia.</p>
 
         <section>
-            <title>Institusjonslisenser</title>
-            <p><a href="mailto:feedback@divvun.no">Kontakt Divvun</a> dersom
-            det er behov for lisenser til mange brukere på en gang, f.eks. til
-            en hel institusjon. Dersom du vil sette opp en server med
-            TTS-tjenester, ta kontakt med Acapela (kontaktinfo nedenfor).</p>
+            <title>Laitoslisenssit</title>
+            <p><a href="mailto:feedback@divvun.no">Ota yhteyttä</a> jos tarvitset
+            lisenssejä useammalle käyttäjälle, esim. koko laitokselle. Jos haluat
+            perustaa TTS-palvelun, ota yhteyttä Acapelaan (yhteystiedot alla).</p>
         </section>
 
         <section>
