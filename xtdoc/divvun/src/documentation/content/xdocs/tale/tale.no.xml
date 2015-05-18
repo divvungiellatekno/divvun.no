@@ -55,6 +55,20 @@
         stemmene på fritt valgt tekst.
         </p>
 
+        <p>Det er mulig å tilpasse stemmene etter eget behov. Nærmere
+        instruksjoner finnes i Acapela's <a href="Manual_Sami.pdf">språkmanual
+        for nordsamisk.</a> Manualen beskriver først og fremst hvordan stemmene
+        leser opp visse typer konstruksjoner, men kapittel 6 og 7 beskriver
+        hvordan man kan gjøre egne tilpasninger.</p>
+
+        <section>
+            <title>Institusjonslisenser</title>
+            <p><a href="mailto:feedback@divvun.no">Kontakt Divvun</a> dersom
+            det er behov for lisenser til mange brukere på en gang, f.eks. til
+            en hel institusjon. Dersom du vil sette opp en server med
+            TTS-tjenester, ta kontakt med Acapela (kontaktinfo nedenfor).</p>
+        </section>
+
         <section>
             <title>For utviklere</title>
 
