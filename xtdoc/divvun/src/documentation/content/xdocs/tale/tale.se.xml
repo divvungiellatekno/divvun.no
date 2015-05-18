@@ -6,14 +6,18 @@
         <title>Hállansyntesa</title>
     </header>
     <body>
-        <note label="Ođđasat!">Davvisámi hállansyntesa almmuhuvvo
+        <note label="Ođđasat!">Davvisámi hállansyntesa lea almmuhuvvon
         6.5.2015!</note>
 
         <p><a href="/index.html">Divvun</a> ja <a
         href="http://sametinget.no">Sámediggi</a> leat ráhkadan davvisámi
         hállansyntesa ovttas <a
-        href="http://www.acapela-group.com/">Acapelain</a>. Hállansyntesain, dehe
-        teavsttas-hállamii, šaddá vejolaš dihtorii lohkat teavstta jitnosit ollu prográmmain. Šearbmalohkanprográmma olis (ferte sierra háhkkojuvvot) sáhttá dihtor jitnosit lohkat visot teavstta mii oidno šearpmas. Gávdnojit guokte sámi jiena, nubbi lea nissonjietna ("Elle"), nubbi fas dievddujietna ("Biera").
+        href="http://www.acapela-group.com/">Acapelain</a>. Hállansyntesain,
+        dehe teavsttas-hállamii, šaddá vejolaš dihtorii lohkat teavstta jitnosit
+        ollu prográmmain. Šearbmalohkanprográmma olis (ferte sierra
+        háhkkojuvvot) sáhttá dihtor jitnosit lohkat visot teavstta mii oidno
+        šearpmas. Gávdnojit guokte sámi jiena, nubbi lea nissonjietna ("Elle"),
+        nubbi fas dievddujietna ("Biera").
         </p>
 
         <p>Davvisámi hállansyntesa gávdno guovtti veršuvnnas:</p>
@@ -22,23 +26,30 @@
             <li><strong>Davvisámi iVox OS Xii</strong></li>
         </ul>
 
-        <p>Davvisámi Infovox (Windowsii) boahtá USB-sákkis,  mii diŋgojuvvo nuvttá Sámedikkis dehe <a
+        <p>Davvisámi Infovox (Windowsii) boahtá USB-sákkis,  mii diŋgojuvvo
+        nuvttá Sámedikkis dehe <a
         href="mailto:feedback@divvun.no">Divvumis UiT:s
-        (feedback@divvun.no)</a>. USB-sággi lea peršuvnnalaš, muhte sáhttá váldojuvvot eret dihtoris sajáiduhttima maŋŋil. USB-sággi dahká maid vejolažžan atnit davvisámi hállansyntesa
-        iežá dihtoriin go prográmma sáhttá vuddjot njuolga sákkis sajáiduhttima haga. Eanet bagadus <a href="infovox4.se.pdf">dás</a>.</p>
+        (feedback@divvun.no)</a>. USB-sággi lea peršuvnnalaš, muhte sáhttá
+        váldojuvvot eret dihtoris sajáiduhttima maŋŋil. USB-sággi dahká maid
+        vejolažžan atnit davvisámi hállansyntesa iežá dihtoriin go prográmma
+        sáhttá vuddjot njuolga sákkis sajáiduhttima haga. Eanet bagadus <a
+        href="infovox4.se.pdf">dás</a>.</p>
 
         <p>iVox OS Xii sáhttá nuvttá viežžat <a
         href="http://www.assistiveware.com/product/infovox-ivox/resources"
         >dás</a>. Davvisámi jienaide dárbbaha sierra koda maid nuvttá oažžu <a
         href="mailto:feedback@divvun.no">Divvumis
-        UiT:s (feedback@divvun.no)</a>. Bagadusat sajáiduhttimii ja geavaheapmái gávdnojit <a class="fork"
+        UiT:s (feedback@divvun.no)</a>. Bagadusat sajáiduhttimii ja geavaheapmái
+        gávdnojit <a class="fork"
         href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%20Swedish%204.1.pdf"
         >dás (ruoŧagillii)</a> ja <a class="fork"
         href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%204.0.1.pdf"
         >dás (eŋgelasgillii)</a>.
         </p>
 
-        <p>Acapelas lea <a class="fork" href="http://www.acapela-group.com/">alddiset demo-siidu</a> goste daid sámi jienaid sáhttá guldalit iešválljejuvvon teavsttain.
+        <p>Acapelas lea <a class="fork"
+        href="http://www.acapela-group.com/">alddiset demo-siidu</a> goste daid
+        sámi jienaid sáhttá guldalit iešválljejuvvon teavsttain.
         </p>
 
         <p>Det er mulig å tilpasse stemmene etter eget behov. Nærmere
@@ -69,9 +80,11 @@
               <li>SDK: Acapela TTS OS Xii        </li>
             </ul>
 
-            <p>SDK-veršuvnnaid ferte diŋgot njuolga Acapelas. Váldet oktavuohta Susanne Magnussonain (<a
+            <p>SDK-veršuvnnaid ferte diŋgot njuolga Acapelas. Váldet oktavuohta
+            Susanne Magnussonain (<a
             href="mailto:susanne.magnusson@acapela-group.com"
-            >susanne.magnusson@acapela-group.com</a>, tlf +46 8 799 86 02) jos jearaldagat leat dáid veršuvnnaid birra.</p>
+            >susanne.magnusson@acapela-group.com</a>, tlf +46 8 799 86 02) jos
+            jearaldagat leat dáid veršuvnnaid birra.</p>
 
         </section>
 
