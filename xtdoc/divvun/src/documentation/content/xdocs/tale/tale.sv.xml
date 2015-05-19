@@ -56,9 +56,9 @@
         rösterna med egen text.
         </p>
 
-        <p>Det är möjligt att anpasse rösterna enligt eget behov.
+        <p>Det är möjligt att anpassa rösterna enligt eget behov.
         Instruktioner finns i Acapelas <a href="Manual_Sami.pdf">språkmanual
-        för nordsamiska.</a> Manualen beskriver i förs hand hur rösterna
+        för nordsamiska.</a> Manualen beskriver i första hand hur rösterna
         läser upp vissa typer konstruktioner, men kapittel 6 och 7 beskriver
         hur man kan göra egna anpassningar.</p>
 
@@ -67,14 +67,14 @@
             <p><a href="mailto:feedback@divvun.no">Kontakt Divvun</a> om
             det behövs licenser för många användare på en gång, t.ex. för
             en hel institution. Om du vil installera rösterna på en server med
-            TTS-tjänster, kontakta med Acapela (kontaktinfo längre ned).</p>
+            TTS-tjänster, kontakta Acapela (kontaktinfo längre ned).</p>
         </section>
 
         <section>
             <title>För utvecklare</title>
 
             <p>Det nordsamiska text-till-tal-systemet finns i flera versioner
-            avsädda för utvecklare och andra som vil integrera talsyntesen i
+            avsedda för utvecklare och andra som vil integrera talsyntesen i
             andra program och system:</p>
 
             <ul>
