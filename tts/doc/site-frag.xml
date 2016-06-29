@@ -35,12 +35,8 @@
 
     <sme href="sme/" label="Northern Sámi">
       <index href="index.html" label="Overview" />
+      <preprocess href="PreprocessingArchitecture.html" label="Preprocessing architecture" />
     </sme>
   </lang>
   
-  <tools href="tools/" label="Tools">
-    <index href="index.html" label="Index" />
-    <preprocess href="PreprocessingArchitecture.html" label="Preprocessing architecture" />
-  </tools>
-
 </tts>
