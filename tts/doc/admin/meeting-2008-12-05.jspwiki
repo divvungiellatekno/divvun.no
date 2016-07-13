@@ -166,7 +166,7 @@ Tasks for making the voice:
 ** Note that the cost of adding one more voice is relatively small,
    compared to other frameworks
 * Make the hmm model  <==================
-** [with a unit selection model, it is not 1mth/lg but 6-12mth/lg]
+** [[with a unit selection model, it is not 1mth/lg but 6-12mth/lg]
 * Syntax (external project)
 ** Find the grammatical cues needed
 * Intonation (syntactic and information structure to prosodic phrasing)
