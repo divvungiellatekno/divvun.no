@@ -51,9 +51,7 @@ Credit: original from the jakarta-avalon project
     <body>
       <div class="background"> 
         <img id="head-icon" alt="graphic with four colored squares" src="icon-blue.png" /> 
-        <object id="head-logo" title="Vector graphic logo" data="logo-white.svg" type="image/svg+xml">
-          <img id="head-logo-fallback" alt="Fallback logo" src="logo-white.png" />
-        </object>
+        <img id="head-logo" alt="Logo" src="logo-white.png" />
       </div>
       <xsl:apply-templates/>
     </body>
