@@ -23,13 +23,13 @@ Bestilt i går? Sjur sjekkar med Bitte
 Lenker til filer for IPA-konverteringa:
 
 * Konverterte filer:
-  [https://victorio.uit.no/langtech/trunk/langs/sme/tools/shellscripts/]
+  [https://gtsvn.uit.no/langtech/trunk/langs/sme/tools/shellscripts/]
 * Regelfil:
-  [https://victorio.uit.no/langtech/trunk/langs/sme/src/phonetics/]
+  [https://gtsvn.uit.no/langtech/trunk/langs/sme/src/phonetics/]
 * Kjeldefiler som skal merkast opp:
-** [https://victorio.uit.no/langtech/trunk/langs/sme/src/morphology/stems/]
+** [https://gtsvn.uit.no/langtech/trunk/langs/sme/src/morphology/stems/]
    (her er mesteparten samisk, men med låneord innimellom)
-** [https://victorio.uit.no/langtech/trunk/gtcore/langs-templates/smi/src/morphology/stems/smi-propernouns.lexc]
+** [https://gtsvn.uit.no/langtech/trunk/gtcore/langs-templates/smi/src/morphology/stems/smi-propernouns.lexc]
    (her er så godt som alt ikkje-samisk, og skal merkast opp med språk)
 
 IPA-konverteringa er no delt i fleire parallelle prosessar:

@@ -35,7 +35,7 @@ kansa (folk) vs kanssa (pp ‘med’)
 __Problem:__
 Vi har merkelig syllabifisering av lange vokaler i finsk - dei blir delt på to stavingar.
 
-Oppdeling i stavingar blir gjort i denne fila: [https://victorio.uit.no/langtech/trunk/langs/sme/src/hyphenation/hyphenation.xfscript] - ho må tilpassast finske lange vokalar.
+Oppdeling i stavingar blir gjort i denne fila: [https://gtsvn.uit.no/langtech/trunk/langs/sme/src/hyphenation/hyphenation.xfscript] - ho må tilpassast finske lange vokalar.
 
 Problemet er at reglane er laga for samisk (primært) og norsk (sekundært), og alle ikkje-samiske lange vokalar blir oppfatta som to stavingar. Dette må endrast.
 
