@@ -15,13 +15,11 @@
                 <em>Sámi Text-to-speech</em> (also called
                 <em>TTS</em>) project.
             </p>
-            <p>
-                Under the TTS tab above you will find:
-            </p>
             <ul>
-                <li>The <em>Administration</em> tab containing meeting minutes</li>
-                <li>The <em>Tools</em> tab documenting the tools used in the TTS project (FIX: find this tab)</li>
-                <li>The <em>Language</em> gives documentation on the different languages (so far: Northern Sámi)</li>
+                <li>Documenting the tools used in the TTS project (FIX: find this tab)</li>
+                <li>The <em>Languages</em> in the upper menu gives documentation on the different languages (so far: North Saami)</li>
+                <li><a href="admin/public_tender/RequirementsAndSpecifications.html">Requirements and specifications</a></li>
+                <li><a href="admin/index.html">Meetings</a></li>
 	      </ul>
 	      <p>After selecting the tabs, the submenues are found to the left.</p>
             
