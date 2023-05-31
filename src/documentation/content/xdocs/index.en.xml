@@ -8,9 +8,8 @@
     </header>
     <body>
 
-        <note>Den første grammatikkontrollen for samisk,
-            GramDivvun, er ute i versjon 1.0.
-            Fungerer for Google Docs og MS Office.
+        <note>Our grammarchecker, GramDivvun, corrects South-, Lule- and North sami.
+            Works in Google Docs and MS Office.
             <br />
             <a href="/korrektur/gramcheck.html">More info!</a>
         </note>
