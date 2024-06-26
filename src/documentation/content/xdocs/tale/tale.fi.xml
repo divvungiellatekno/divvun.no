@@ -6,84 +6,22 @@
         <title>Puheentuotto</title>
     </header>
     <body>
-        <note label="Uutisia!">Pohjoissaamen puhentuottojärjestelmä julkaistu
-        6.5.2015!</note>
+        <note label="Nyhet!">Lule Sámi text-to-speech has been released
+        25.6.2024!</note>
 
-        <p><a href="/index.html">Divvun</a> ja <a
-        href="http://sametinget.no">Norjan Saamelaiskäräjät</a> ovat kehittäneet
-        pohjoissaamen puheentuottojärjestelmän yhdessä <a
-        href="http://www.acapela-group.com/">Acapelan</a> kanssa. Puheentuotto, tai
-        tekstistä-puheeksi, mahdollistaa tekstin muuntamisen puheeksi monissa
-        ohjelmissa. Näytönlukijan avulla (asennettava erikseen) näytöllä oleva teksti
-        voidaan lukea ääneen. Järjestelmä sisältää kaksi saamenkielistä ääntä,
-        yhden naispuolisen ("Elle") ja yhden miespuolisen ("Biera").
+        <p><a href="/index.html">Divvun</a> has developed a completely new Lule Sámi
+        speech synthesis, and an updated North Sámi version. Speech synthesis, or
+        speech-to-text, makes it possible for the computer to convert text to natural
+        speech in many apps. By8 using a screen reader all text visible on the screen
+        can be read aloud. There are three lule Sámi voices: one female voice
+        ("Siggá"), and two male voices ("Nihkol" and "Ábmut"). There is one
+        North Sámi female voice ("Biret").
         </p>
 
-        <p>Pohjoissaamen puheentuottojärjestelmästa on saatavilla kaksi versiota:</p>
-        <ul>
-            <li><strong>Pohjoissaamen Infovox 4 Windows:lle</strong></li>
-            <li><strong>Pohjoissaamen iVox OS X:lle</strong></li>
-        </ul>
-
-        <p>Pohjoissaamen Infovox (Windows:lle) toimitetaan USB-tikulla jonka voi
-        tilata ilmaiseksi Norjan Saamelaiskäräjiltä tai <a
-        href="mailto:feedback@divvun.no">Tromssan yliopiston Divvun-ryhmältä
-        (feedback@divvun.no)</a>. USB-tikku on tarkoitettu ainoastaan yhdelle käyttäjälle,
-        mutta se voidaan poistaa tietokoneesta asennuksen jälkeen. USB-tikun ansiosta
-        pohjoissaamen puheentuottojärjestelmää voidaan käyttää myös muissa tietokoneissa
-        kuin omassa, liittämällä se toiseen tietokoneeseen ja käynnistämällä
-        puheentuotto-ohjelma asentamatta sitä. Lisää tietoa asennuksesta löydät
-        <a href="infovox4.fi.pdf">täältä</a>.</p>
-
-        <p>iVox OS X:lle voidaan ladata ja asentaa ilmaiseksi <a
-        href="https://www.assistiveware.com/support/infovox-ivox/software"
-        >täältä</a>. Päästäksesi käyttämään pohjoissaamen ääniä tarvitset aktivointikoodin,
-        jonka saat ilmaiseksi <a
-        href="mailto:feedback@divvun.no">Tromssan yliopiston Divvun-ryhmältä
-        (feedback@divvun.no)</a>. Asennus- ja käyttöohjeet löytyvät <a class="fork"
-        href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%20Swedish%204.1.pdf"
-        >täältä (ruotsiksi)</a> ja <a class="fork"
-        href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%204.0.1.pdf"
-        >täältä (englanniksi)</a>.
+        <p>The voices are installed using Divvun Manager. More information and
+            a demo can be found on
+            <a href="https://borealium.org/sv/category/voices/">Borealium.org</a>.
         </p>
-
-        <p>Acapela-sivustolla on <a class="fork" href="http://www.acapela-group.com/">
-        demosivu</a> jossa voit kokeilla pohjoissaamen puhetta valitsemallasi tekstillä.
-        </p>
-
-        <p>Ääniä voi mukauttaa omien tarpeiden mukaisesti. Tarkemmat ohjeet löytyvät
-        Acapelan <a href="Manual_Sami.pdf">pohjoissaamen käyttöohjeesta.</a>
-        Käyttöohje kuvaa ensisijaisesti kuinka äänet lukevat tietyt konstruktiot,
-        mutta luvut 6 ja 7 kuvaavat miten tehdä omia muutoksia.</p>
-
-        <section>
-            <title>Laitoslisenssit</title>
-            <p><a href="mailto:feedback@divvun.no">Ota yhteyttä</a> jos tarvitset
-            lisenssejä useammalle käyttäjälle, esim. koko laitokselle. Jos haluat
-            perustaa TTS-palvelun, ota yhteyttä Acapelaan (yhteystiedot alla).</p>
-        </section>
-
-        <section>
-            <title>Kehittäjille</title>
-
-            <p>Pohjoissaamen puheentuottojärjestelmästä on saatavilla useampia
-            versioita jotka on tarkoitettu kehittäjille ja muille jotka haluavat
-            sisällyttää puheentuoton muissa ohjelmissa ja järjestelmissä:</p>
-
-            <ul>
-              <li>SDK: Acapela TTS Windows:lle – PC    </li>
-              <li>SDK: Acapela TTS Windows:lle – Server</li>
-              <li>SDK: Acapela TTS Linux:lle – Server  </li>
-              <li>SDK: Acapela TTS OS X :lle       </li>
-            </ul>
-
-            <p>SDK-versiot tilataan suoraan Acapelalta. Ota yhteyttä
-            Susanne Magnussoniin (<a
-            href="mailto:susanne.magnusson@acapela-group.com"
-            >susanne.magnusson@acapela-group.com</a>, puh. +46 8 799 86 02) jos
-            haluat lisätietoja näistä versioista.</p>
-
-        </section>
 
    </body>
 </document>
