@@ -32,18 +32,18 @@
   <!--<message key="Wiki">Wiki</message>-->
   <message key="AboutUs">Meistä</message>
   <message key="Events">Tapahtumat</message>
-  <message key="Korrektur">Oikolukuvälineet</message>
+  <message key="Korrektur">Oikolukutyökalut</message>
   <message key="MSOffice">MS Office:lle</message>
   <message key="Browsers">Selaimille</message>
-  <message key="OSWide">Koko järjestelmässä</message>
-  <message key="AndreProgram">Muille ohjelmoille</message>
+  <message key="OSWide">Koko käyttöjärjestelmässä</message>
+  <message key="AndreProgram">Muille ohjelmille</message>
   <message key="AndreSprak">Muille kielille</message>
-  <message key="DevInfo">Tiedot kehittäjille</message>
+  <message key="DevInfo">Tietoja kehittäjille</message>
   <message key="Tastatur">Näppäimistöt</message>
   <message key="Tale">Puhesynteesi</message>
   <message key="Ordbøker">Sanakirjat</message>
-  <message key="Oversettelse">Kääntäminen</message>
-  <message key="LangLearn">Kielioppiminen</message>
+  <message key="Oversettelse">Käännöstyökalut</message>
+  <message key="LangLearn">Kielenoppimistyökalut</message>
   <message key="Mobile">Mobile</message>
   <message key="Desktop">Desktop</message>
 </catalogue>

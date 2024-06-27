@@ -18,11 +18,11 @@
 <catalogue xml:lang="fi">
   <!-- HTML translations: -->
   <message key="Font size:">Fonttikoko:</message>
-  <message key="Last Published:">Julkaistu viimeeksi:</message>
+  <message key="Last Published:">Julkaistu viimeksi:</message>
   <message key="Search">Hae</message>
   <message key="More">Lisää</message>
   <message key="Reset">Reset</message>
-  <message key="Search the site">Hae internetistä</message>
+  <message key="Search the site">Hae sivustolta</message>
   <!-- PDF/fo translations: -->
   <message key="NOTICE:">HUOMAA:</message>
   <message key="by"> </message>
