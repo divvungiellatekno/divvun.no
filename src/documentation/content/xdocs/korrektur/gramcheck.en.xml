@@ -8,13 +8,6 @@
     </header>
     <body>
 
-        <p>Spelling and grammar checker in one tool!</p>
-
-        <note>The first grammar checker for a Sámi language,
-            <em
-      >GramDivvun 1.0</em>, is released. Works for Google Docs and Microsoft Office.
-        </note>
-
             <section>
                 <title>Installation</title>
 
@@ -92,9 +85,9 @@
         >wrongly compounded words, should have been written separately</li>
                 <li>word forms with <strong>a</strong> and <strong
           >á</strong> in different contexts
-                   (f.ex. <em>log<strong>a</strong>t</em> vs <em>log<strong
+                   (e.g. <em>log<strong>a</strong>t</em> vs <em>log<strong
             >á</strong>t</em>)</li>
-                <li>consonant gradation errors (f.ex. <em>bi<strong
+                <li>consonant gradation errors (e.g. <em>bi<strong
             >ddj</strong>ui</em> vs <em>bi<strong>dj</strong>ui</em>)</li>
             </ol>
 
@@ -102,12 +95,10 @@
 
         <section>
             <title>Other Sámi languages</title>
-            <p>Other Sámi langauges, like South, Lule, Inari and Skolt Sámi, are
-                also available in GramDivvun. But these mostly contain the
-                spelling checker and nothing else. This is still very useful, as
-                it gives access to the spelling checker in places blocked for
-                the regular spelling checker, such as on the Chromebook, or in
-                the browser version of Office365.</p>
+            <p>
+              Other Sámi langauges, like South, Lule, Inari and Skolt Sámi, are
+              also available in GramDivvun.
+          </p>
         </section>
 
     </body>
