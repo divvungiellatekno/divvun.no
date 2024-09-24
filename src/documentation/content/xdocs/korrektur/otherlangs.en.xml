@@ -14,32 +14,6 @@
          <p>The Kven proofing tools are under development, and the linguistic
          quality is varying. Use the tools critically, and update often!</p>
 
-         <table>
-         <tr>
-           <th>Download: </th>
-           <th>Description:</th>
-           <th>User guides:</th>
-         </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
-           <td>Kven speller extension for LibreOffice (4.4+)</td>
-           <td>
-             <ul>
-               <li><a href="userdocs/win/install-use-Voikko-LO5-win8.html">Windows</a></li>
-               <li><a href="userdocs/mac/install-use-Voikko-LO5-osx.html">OSX</a></li>
-             </ul>
-           </td>
-         </tr>
-         <!--tr>
-           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows &amp; OSX)</a> </td>
-           <td>Kven speller extension for Firefox and other Mozilla applications</td>
-         </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">MacVoikko (OSX)</a> </td>
-           <td>Kven speller for all of OSX</td>
-         </tr-->
-         </table>
-
          <p>The Kven project has its own <a
          href="http://giellalt.uit.no/lang/fkv/KvenDocumentation.html"
          >project page</a>, and the source code can be found <a
@@ -59,16 +33,6 @@
            <th>Download: </th>
            <th>Description:</th>
            <th>User guides:</th>
-         </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
-           <td>Inari Sámi speller extension for LibreOffice (4.4+)</td>
-           <td>
-             <ul>
-               <li><a href="userdocs/win/install-use-Voikko-LO5-win8.html">Windows</a></li>
-               <li><a href="userdocs/mac/install-use-Voikko-LO5-osx.html">OSX</a></li>
-             </ul>
-           </td>
          </tr>
          <tr>
            <td><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-smn-latest.exe">MS Office (Windows)</a></td>
@@ -108,16 +72,6 @@
            <th>Download: </th>
            <th>Description:</th>
            <th>User guides:</th>
-         </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/oxts/sms_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
-           <td>Skolt Sámi speller extension for LibreOffice (4.4+)</td>
-           <td>
-             <ul>
-               <li><a href="userdocs/win/install-use-Voikko-LO5-win8.html">Windows</a></li>
-               <li><a href="userdocs/mac/install-use-Voikko-LO5-osx.html">OSX</a></li>
-             </ul>
-           </td>
          </tr>
          <tr>
            <td><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sms-latest.exe">MS Office (Windows)</a></td>

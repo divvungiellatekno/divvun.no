@@ -1,34 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="no">
+<document xml:lang="en">
     <header>
-        <title>Språklæring</title>
+        <title>Language learning</title>
     </header>
     <body>
         <section>
             <title>Gïelese</title>
-            <p>Dette er et sørsamisk læreprogram utviklet i samarbeid mellom <a href="/index.html">Divvun</a> og <a href="http://aajege.no">Aajege</a></p>
+            <p>South Sámi program developed by <a href="/index.html">Divvun</a> and <a href="http://aajege.no">Aajege</a></p>
             <ul>
-                <li><a href="http://gielese.no/play/">Nettprogram</a></li>
-                <li><a href="https://play.google.com/store/apps/details?id=com.phonegap.gielese">App for Android</a></li>
                 <li><a href="https://itunes.apple.com/us/app/gielese/id945846042?mt=8">App for iPhone/iPad</a></li>
             </ul>
         </section>
         <section>
             <title>Oahpa!</title>
-            <p><a href="http://oahpa.no/">Oahpa!</a> er et interaktivt
-            språklæringsprogram utviklet av Giellatekno-gruppa, og som bygger
-            på språkteknologien utviklet av
-            <a href="/index.html">Divvun</a> og
+            <p><a href="http://oahpa.no/">Oahpa!</a> is an interactive language
+            learning developde by Giellatekno and based on technology by
+            <a href="/index.html">Divvun</a> and
             <a href="http://giellatekno.uit.no">Giellatekno</a>.</p>
             <ul>
-                <li><a href="http://oahpa.no/">Startside for alle språk</a></li>
-                <li>Direkte til <a href="http://oahpa.no/davvi/" >nordsamisk   Oahpa!</a></li>
-                <li>Direkte til <a href="http://oahpa.no/aarjel/">sørsamisk    Oahpa!</a></li>
-                <li>Direkte til <a href="http://oahpa.no/kiilt/" >kildinsamisk Oahpa!</a></li>
-                <li>Direkte til <a href="http://oahpa.no/nuorti/">skoltesamisk Oahpa!</a></li>
-                <li>Direkte til <a href="http://oahpa.no/aanaar/">enaresamisk  Oahpa!</a></li>
+                <li><a href="http://oahpa.no/">Starting page</a></li>
+                <li><a href="http://oahpa.no/davvi/" >North Sámi   Oahpa!</a></li>
+                <li><a href="http://oahpa.no/aarjel/">South Sámi    Oahpa!</a></li>
+                <li><a href="http://oahpa.no/kiilt/" >Kildin Sámi Oahpa!</a></li>
+                <li><a href="http://oahpa.no/nuorti/">Skolt Sámi Oahpa!</a></li>
+                <li><a href="http://oahpa.no/aanaar/">Inari Sámi Oahpa!</a></li>
                 </ul>
         </section>
    </body>

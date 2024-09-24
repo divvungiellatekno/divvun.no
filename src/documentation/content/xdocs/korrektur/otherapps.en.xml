@@ -10,64 +10,18 @@
       <section>
          <title>Install multiple languages</title>
 
-            <p>To install multiple languages you download and install separate
+            <p>To install multiple languages you can download and install separate
             language files (so-called zhfst files).</p>
 
-            <note label="NB!">The receipt below does not apply for <a
+            <note label="NB!">The instruction below does not apply for <a
             href="korrektur.html#Proofing+tools+for+MS+Office">
-            the MS Office proofing tools</a>. For those, you install the complete
+              the MS Office proofing tools</a>. For those, you need to
+              install the complete
             proofing tool for every language.</note>
 
-            <ol>
-              <li>Download one or more zhfst files:
-                <table>
-                <tr>
-                  <th>Language: </th>
-                  <th>Version: </th>
-                  <th>Documentation and source code:</th>
-                </tr>
-                <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst"><icon
-                  alt="Download" height="44" width="44"
-                  src="images/Crystal_Clear_app_download_manager.png" />
-                  North Sámi</a> </td>
-                  <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html"
-                      >Project documentation</a>
-                      and
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme"
-                      >source code</a>.
-                  </td>
-                </tr>
-                <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst"><icon
-                  alt="Download" height="44" width="44"
-                  src="images/Crystal_Clear_app_download_manager.png" />
-                  Julev Sámi</a> </td>
-                  <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html"
-                      >Project documentation</a>
-                      and
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj"
-                      >source code</a>.
-                  </td>
-                </tr>
-                <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst"><icon
-                  alt="Download" height="44" width="44"
-                  src="images/Crystal_Clear_app_download_manager.png" />
-                  South Sámi</a> </td>
-                  <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html"
-                      >Project documentation</a>
-                      and
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma"
-                      >source code</a>.
-                  </td>
-                </tr>
-                </table>
-              </li>
-              <li>Move the downloaded zhfst file(s) to one of the directories searched by the spellers:
+          <ol>
+            <li>Follow <a href="https://divvun.org/proofing/otherapps.html">instructions here on how to acquire ZHFST files</a></li>
+              <li>Move the zhfst file(s) to one of the directories searched by the spellers:
                   <ul>
                     <li>Windows: <code>&lt;User&gt;\AppData\Local\voikko\3</code><br/>
                     (≤ Windows 7: <code>C:\Documents and Settings\&lt;User&gt;\Local
@@ -182,11 +136,6 @@ sudo make install</source>
 
         <section>
             <title>OpenOffice, InDesign and other applications using Hunspell files</title>
-
-            <warning label="NB!">The Hunspell files and the other files one can
-            download below are old and not actively maintained. They can still
-            be an alternative for applications not accepting anything
-            else.</warning>
 
             <table>
             <tr><td>

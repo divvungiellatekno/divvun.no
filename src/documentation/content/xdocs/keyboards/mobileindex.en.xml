@@ -9,9 +9,9 @@
 
 <!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
 
-        <p>Divvun has made the app «Samiske tastaturer» (Sami keyboards)
+        <p>Divvun has made the app Divvun Keyboards
             containing mobile phone and tablet keyboards for North, Julev, South,
-            Pite, Inari and Skolt Sami. Since 12/20/2018 the app also contains
+            Pite, Inari and Skolt Sami. The app also contains
             spell checkers for North, Julev, South and Inari Sami.
             The app is available for <a
 href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami"
@@ -48,11 +48,11 @@ src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
 
       <section>
         <title>Help</title>
-        <ul class="col-sm-12 nobullet center">
+        <ul class="col-sm-12 nobullet">
           <li class="col-sm-6">
             <ul>
               <li>
-                <a href="installation_android.html">
+                <a href="installation_android.html">Android<br/>
                    <img alt="Question mark icon" width="50"
                       src="/images/240px-Blue_question_mark.jpg"/>
                       Installation guide
@@ -66,7 +66,7 @@ src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
           <li class="col-sm-6">
             <ul>
               <li>
-                <a href="installation_ios.html">
+                <a href="installation_ios.html">iPhone/iPad<br/>
                    <img alt="Question mark icon" width="50"
                       src="/images/240px-Blue_question_mark.jpg"/>
                       Installation guide
@@ -79,7 +79,7 @@ src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
       </section>
 
       <section>
-        <title>Screen shots</title>
+        <title>Screenshots</title>
 
       <ul class="col-sm-12 nobullet center">
         <li class="col-sm-6">
