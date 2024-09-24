@@ -9,14 +9,14 @@
 
 <!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
 
-        <p>Divvun tekee näppäimistöt molemmille tietokoneille ja käsinpideltäville
-       laitteille. Klikkaa asiaankuuluvaa osaa alhaalla ladataksesi linkit!</p>
+        <p>Divvun tekee näppäimistöt tietokoneille ja kännyköille
+        Klikkaa asiaankuuluvaa osaa alla:</p>
 
       <ul class="col-sm-12 nobullet center">
         <li class="col-sm-6">
             <a href="mobileindex.html">
             <img alt="icon" class="scaling" src="../images/divvun_ikon_mobiltastatur.png"/><br/>
-            Matkapuhelinnäppäimistöt</a>
+            Mobiilinäppäimistöt</a>
         </li>
         <li class="col-sm-6">
             <a href="desktopindex.html">

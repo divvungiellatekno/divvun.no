@@ -6,27 +6,25 @@
         <title>Näppäimistöleiska koltansaamelle</title>
     </header>
     <body>
-        <p>Saamen kirjeet ovat merkattu
+        <p>Lähinnä saamen kielissä käytetyt merkit on merkitty
         <em class="samikey">oranssilla taustalla</em>.
-        Saamelaisilla kirjaimilla on alkuperäinen kirjain AltGr: n kautta: paina
-        AltGr + saamelaista kirjainta saadaksesi kirjeen joka on korvattu
-        saamelaisella.</p>
+        Saamelaisilla kirjaimilla on alkuperäinen kirjain AltGr:n takana: paina
+        AltGr + saamelaista kirjainta saadaksesi saamelainen kirjain.</p>
 
         <p>Esimerkki: Kirjoita suomalainen kirjain <code>Ö</code>, paina
         <code>AltGr + Õ</code>.</p>
 
-        <p>Några icke-samiska bokstäver har också bytt plats för att få en mera
-        logisk layout. He ovat merkattu <em class="nonsamikey">sinisillä
+      <p>Jotkin ei-saamelaiset kirjaimet on siirretty järjestelmän systematisoimiseksi.
+        Näitä on merkitty <em class="nonsamikey">sinisellä
         taustalla</em>.</p>
 
-        <p>Kaikki muut kirjaimet ja symbolit sijoitetaan norjalaiseen
-        näppäimistöön.</p>
+        <p>Kaikki muut kirjaimet ja symbolit vastaavat norjalaista näppäimistöä.</p>
 
         <section>
             <title>Koltansaame (Windows &amp; macOS)</title>
 
             <p>
-                <img alt="layout for Inari Sámi" src="images/sms-layout.png"/>
+                <img alt="layout for Skolt Sámi" src="images/sms-layout.png"/>
             </p>
         </section>
 

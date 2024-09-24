@@ -6,18 +6,18 @@
         <title>Näppäimistöleiskat eteläsaamelle</title>
     </header>
     <body>
-      <p>Saamen kirjeet on merkattu
+      <p>Saamen kirjaimet on merkattu
         <em class="samikey">oranssilla taustalla</em>.
         Saamelaisilla kirjaimilla on alkuperäinen kirjain
-        AltGr: n kautta: paina AltGr + saamelaista kirjainta saadaksesi kirjeen
+        AltGr:n kautta: paina AltGr + saamelaista kirjainta saadaksesi kirjeen
         joka on korvattu saamelaisella.
         </p>
 
         <p>Esimerkki: Kirjoita norjalainen kirjain <code>Ø</code>, paina
         <code>AltGr + Ö</code>.</p>
 
-        <p>Kaikki muut kirjaimet ja symbolit sijoitetaan norjalaiseen
-        näppäimistöön.</p>
+        <p>Kaikki muut kirjaimet ja symbolit vastaavat norjalaista
+        näppäimistöä.</p>
 
         <section>
             <title>Eteläsaame, Norja (Windows)</title>

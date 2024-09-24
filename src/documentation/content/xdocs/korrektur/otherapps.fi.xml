@@ -19,49 +19,9 @@
             kaikille kielille.</note>
 
             <ol>
-              <li>Lataa yksi tai useampi zhfst-tiedosto:
-                <table>
-                <tr>
-                  <th>Kieli: </th>
-                  <th>Versio: </th>
-                  <th>Dokumentointi ja lähdekoodi:</th>
-                </tr>
-                <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst"><icon
-                  alt="Download" height="44" width="44"
-                  src="images/Crystal_Clear_app_download_manager.png" />
-                  Pohjoissaame</a> </td>
-                  <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Projektidokumentaatio</a>
-                      ja
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme">lähdekoodi</a>.
-                  </td>
-                </tr>
-                <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst"><icon
-                  alt="Download" height="44" width="44"
-                  src="images/Crystal_Clear_app_download_manager.png" />
-                  Luulajansaame</a> </td>
-                  <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Projektidokumentaatio</a>
-                      ja
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj">lähdekoodi</a>.
-                  </td>
-                </tr>
-                <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst"><icon
-                  alt="Download" height="44" width="44"
-                  src="images/Crystal_Clear_app_download_manager.png" />
-                  Eteläsaame</a> </td>
-                  <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">PProjektidokumentaatio</a>
-                      ja
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma">lähdekoodi</a>.
-                  </td>
-                </tr>
-                </table>
+              <li>Seuraa <a href="https://divvun.org/proofing/otherapps.html">ohjeita tällä sivulla ZHFST-tiedostojen aikaansaamiseksi</a>.
               </li>
-              <li>Siirrä ladatut zhfst-tiedostot yhteen seuraavista kansioista:
+              <li>Siirrä zhfst-tiedostot yhteen seuraavista kansioista:
                   <ul>
                     <li>Windows: <code>&lt;User&gt;\AppData\Local\voikko\3</code><br/>
                     (≤ Windows 7: <code>C:\Documents and Settings\&lt;User&gt;\Local
@@ -69,7 +29,7 @@
                     <li>OSX: <code>~/Library/Spelling/voikko/3</code></li>
                     <li>Linux: <code>~/.voikko/3</code></li>
                   </ul>
-                  Tiedostot voi siirtää useampaan paikkaan, nämä ovat
+                  Tiedostot toimivat useammassa paikassa, nämä ovat
                   tarkennettu <a
                   href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
                   >täällä</a>. Etsi «Search order for dictionary
@@ -79,8 +39,8 @@
               <li>Uudelleenkirjaudu sisään</li>
             </ol>
 
-            <p>Jos tarvitset muita kieliä kuin saame, löydät muita
-            kieliä <a href="http://divvun.org/">divvun.org</a>.</p>
+            <p>Jos tarvitset muita kieliä kuin saamelaiskielet, löydät lisää
+            kieliä <a href="http://divvun.org/">divvun.org-sivuilta</a>.</p>
 
       </section>
 
@@ -171,8 +131,6 @@ sudo make install</source>
         <section>
             <title>OpenOffice, InDesign ja muut ohjelmat jotka käyttävät Hunspell-tiedostoja</title>
 
-            <warning label="HUOMIO!">Hunspell-tiedostot ja muut tiedostot jotka voi ladata
-            täältä ovat vanhoja, eivätkä ole päivitetty. Ne ovat kuitenkin vaihtoehto jos ei löydy muuta.</warning>
 
             <table>
             <tr><td>
@@ -250,7 +208,7 @@ sudo make install</source>
             </tr>
             </table>
 
-            <p>Pura Hunspell-pakkaus, ja sijoita aff- og dic-tiedostot oikeaan
+            <p>Pura Hunspell-paketti, ja sijoita aff- og dic-tiedostot oikeaan
             kansioon.</p>
 
             <section>

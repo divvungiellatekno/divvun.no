@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="no">
+<document xml:lang="fi">
     <header>
-        <title>Installation and setup on Chromebook</title>
+        <title>Asennus Chromebookille</title>
     </header>
     <body>
         <p>
-            The sami keyboards are available <a href="https://chrome.google.com/webstore/detail/sami-keyboards/dnihbfekindancgddjehgonciaopmkbe">here</a>.
+            Divvun keyboards on <a href="https://chrome.google.com/webstore/detail/sami-keyboards/dnihbfekindancgddjehgonciaopmkbe">Google-kaupassa</a>.
         </p>
 
         <p>

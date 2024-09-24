@@ -22,12 +22,12 @@
             <table>
             <tr>
             <th class="halfwidth">Lataukset</th>
-            <th>Layouts</th>
+            <th>Asetelmat</th>
             <th>Käyttöohjeet</th>
             </tr>
             <tr>
             <td>
-                Download the <a href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"><icon alt="Viečča" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png" />Divvun Manager</a> and install keyboards from it.
+                Lataa <a href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"><icon alt="Viečča" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png" />Divvun Manager</a> ja asenna sieltä.
             </td>
             <td>
             <ul>
@@ -65,12 +65,12 @@
             <table>
             <tr>
             <th class="halfwidth">Lataukset</th>
-            <th>Layouts</th>
+            <th>Asettelut</th>
             <th>Käyttöohjeet</th>
             </tr>
             <tr>
             <td>
-                Download the <a href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=macos"><icon alt="Viečča" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png" />Divvun Manager</a> and install keyboards from it.
+                Lataa <a href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=macos"><icon alt="Viečča" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png" />Divvun Manager</a> ja asenna näppäimistöt sieltä.
             </td>
             <td>
             <ul>
@@ -104,11 +104,11 @@
         </section>
 
         <section>
-            <title>Chromebook näppäimistö</title>
+            <title>Chromebook-näppäimistö</title>
             <table>
             <tr>
             <th class="halfwidth">Lataukset</th>
-            <th>Layouts</th>
+            <th>Asettelut</th>
             <th>Käyttöohjeet</th>
             </tr>
             <tr>
@@ -161,18 +161,18 @@
         </section>
 
         <section>
-            <title>Linux näppäimistöt</title>
+            <title>Linux-näppäimistöt</title>
             <table>
             <tr>
             <th class="halfwidth">Lataukset</th>
             <th>Layouts</th>
-            <th>Käyttöohjeet (englanti vain)</th>
+            <th>Käyttöohjeet (englanti)</th>
             </tr>
             <tr>
             <td>
-            Linux näppäimistöt pitää sisällytttää ydin järjestelmään
-            kehittäjien kautta. Kuten näppäimistöt monille kielille asettuvat,
-            me tulemme antautumaan ne järjestelmän sisllyttämiseen.
+            Linux-näppäimistöt lisätään suoraan varsinaisiin järjestelmiin.
+            Kun näppäimistöt monille kielille valmistuvat, lähetämme niitä
+              eteenpäin kehittäjille.
             </td>
             <td>
             <ul>
@@ -192,10 +192,10 @@
             <ul>
               <li><a href="userdocs/linux/EnableKeyboardsInLinuxMint.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
-              Linux Minttu / Kaneli</a></li>
+              Linux Mint / Cinnamon</a></li>
               <li><a href="userdocs/linux/EnableKeyboardsInUbuntu.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
-              Ubuntu / Yhtenäisyys</a></li>
+              Ubuntu / Unity</a></li>
               <li><a href="userdocs/linux/EnableKeyboardsInGNOME.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
               GNOME</a></li>

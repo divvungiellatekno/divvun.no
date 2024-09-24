@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document>
+<document xml:lang="fi">
    <header>
-      <title>Uninstallation of Divvun-ohjelman</title>
+      <title>Divvun-ohjelman poisto</title>
    </header>
    <body>
       <section>
          <title>Divvun 2.x</title>
          <ul>
-            <li>Open the folder <strong>DivvunTools</strong> in the <strong>/Library</strong> folder:<figure
+            <li>Avaa kansio <strong>DivvunTools</strong> kansiossa <strong>/Library</strong>:<figure
             alt="Divvun 2 Uninstallation program" src="images/Mac_10_Divvun2_Uninstallation.png" /></li>
             <li>Run the <strong>Remove Divvun for Office</strong> application in the subfolder for the application
             you want to remove Divvun from, and confirm that you want to remove Divvun when asked:<figure

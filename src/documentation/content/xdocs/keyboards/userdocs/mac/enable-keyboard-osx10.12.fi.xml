@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="fi">
    <header>
-        <title>Asennus, konfigurointi ja vaihtaminen näppäimistöt macOS
+        <title>Näppäimistöjen asennus, konfigurointi ja vaihtaminen macOS
         10.9-10.12</title>
    </header>
    <body>
@@ -14,9 +14,8 @@
         <title>Asennus</title>
         <ol>
           <li>Mene <a
-            href="http://divvun.no/no/keyboards/desktopindex.html">Divvun
-            näppäimistö lataus sivu</a>, ja klikkaa
-            <strong>lataus linkkiä näppäimistö asennukseen</strong>:
+            href="http://divvun.no/no/keyboards/desktopindex.html">Divvun-näppäimistönlataussivu</a>, ja klikkaa
+            <strong>latauslinkki näppäimistön asennukseen</strong>:
             <p><img alt="Download installer"
             src="images/01-10.12-download-keyboard-fin.png" /></p>
           </li>
@@ -33,7 +32,7 @@
             <p><img alt="Start installation"
             src="images/04-10.12-installer-start-fin.png" /></p>
           </li>
-          <li>Jotkin asentajat tulevat sisältämään tietoa näppäimistöistä:
+          <li>Jotkin asentimet tulevat sisältämään tietoa näppäimistöistä:
             <p><img alt="Installer Readme"
             src="images/05-10.12-installer-readme-eng.png" /></p>
           </li>
@@ -56,11 +55,11 @@
 
       <section>
         <title>Ota käyttöön</title>
-        <p>Jälkeen asennuksen tarvitset vielä ottaa käyttöön uudet näppäimistöt
-        jotta voit käyttää sitä/niitä. Tee kuten seuraa:</p>
+        <p>Asennuksen jälkeen tarvitset vielä ottaa käyttöön uudet näppäimistöt
+        jotta voit käyttää niitä:</p>
 
         <ol>
-          <li>Avaa <strong>Järjestelmäasetukset…</strong> Apple valikosta:
+          <li>Avaa <strong>Järjestelmäasetukset…</strong> Apple-valikosta:
             <p><img alt="Åpne &quot;Systemvalg…&quot;"
             src="images/20-10.12-systempref_menu-fin.png" /></p>
             Tai Dockista:
@@ -74,12 +73,12 @@
             src="images/21-10.12-systempref-fin.png" /></p>
           </li>
 
-          <li>Klikkaa <strong>Syöttölähteet</strong> välilehteä ja klikkaa
-            plusmerkkiä alavasenkulmassa:
+          <li>Klikkaa <strong>Syöttölähteet</strong>-välilehteä ja klikkaa
+            plusmerkkiä vasemmassa alakulmassa:
             <p><img alt="Legge til samisk tastatur"
             src="images/22-10.12-systempref_input_method-fin.png" /><br/>
-            Varmista että <strong>Show Input valikko </strong> tsekkaa
-            laatikko on tsekattu.</p>
+            Varmista että <strong>Show Input -valikko</strong>
+            on valittu.</p>
           </li>
 
           <li>Valitse Saamen näppäimistö jonka haluat ja klikkaa
@@ -91,8 +90,8 @@
       </section>
 
       <section>
-        <title>Vaihtaminen näppäistöjä</title>
-        <p>Valitse Saamen näppäimistö näppäimistö valikosta oikealla
+        <title>Näppäimistön vaihto</title>
+        <p>Valitse Saamen näppäimistö näppäimistövalikosta oikealla
         valikkolistassa kun kirjoitat saamea:</p>
 
         <p><img alt="Velg samisk tastatur for skriving"

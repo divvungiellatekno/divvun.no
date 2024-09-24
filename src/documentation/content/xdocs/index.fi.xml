@@ -8,33 +8,33 @@
   </header>
   <body>
 
-    <note>Grammatikkontrollen vår, GramDivvun, retter sør-, lule- og nordsamisk.
-            GramDivvun toimii Google Docs:ssa ja MS Office:ssa.
+    <note>Kieliopintarkistin GramDivvun toimii etelä-, pohjois- ja luulajansaameiksi.
+            GramDivvun toimii Google Docsissa ja MS Officessa.
       <br />
-      <a href="/korrektur/gramcheck.html">Lisätietoja!</a>
+      <a href="/korrektur/gramcheck.html">Lisää tietoa.</a>
     </note>
 
     <section>
-      <title>Hanki suurin osa kirjoitustyökaluista yhdestä paikasta!</title>
+      <title>Hanki suurin osa kirjoitustyökaluista täältä.</title>
       <ul class="row nobullet">
         <li class="col-sm-4">
           <img src="images/DivvunManagerIcon.png" class="scaling" alt="DivvunManager" />
         </li>
         <li class="col-sm-8">
-          <em>Yksi</em> lataus, sitten: asenna, suorita ja valitse kieli
+          <em>Yksi</em> ladattu paketti, ja sitten: asenna, aja ja valitse kieli
           — muut käsitellään automaattisesti, myös työkalujen pitäminen ajan tasalla. Sisältää:
           <ul>
             <li>Näppäimistöt ja oikolukuohjelmat saamelaiskielille</li>
             <li>Oikolukuohjelmat koko järjestelmälle</li>
-            <li>Oikolukuohjelmat MS Office:lle (vain Windows)</li>
-            <li>Oikolukuohjelmat LibreOffice:lle</li>
+            <li>Oikolukuohjelmat MS Officelle (vain Windows)</li>
+            <li>Oikolukuohjelmat LibreOfficelle</li>
           </ul>
           <strong>Lataa</strong> Divvun Installer:
           <ul class="row nobullet">
             <li class="col-sm-6">
               <a href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows">
                 <icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png" />
-                <strong>Windows:lle</strong>
+                <strong>Windowsille</strong>
               </a>
             </li>
             <li class="col-sm-6">
@@ -49,7 +49,7 @@
     </section>
 
     <section>
-      <title>Kaikki meidän työkalumme:</title>
+      <title>Kaikki työkalumme:</title>
       <ul class="row nobullet">
         <li class="col-sm-4">
           <a href="korrektur/korrektur.html">

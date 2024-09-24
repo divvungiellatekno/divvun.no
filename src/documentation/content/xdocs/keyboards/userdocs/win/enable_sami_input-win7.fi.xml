@@ -2,13 +2,13 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="fi">
     <header>
-        <title>Pohjoissaame tekstipalveluna Windows 7:lle</title>
+        <title>Pohjoissaame Windows 7:lle</title>
     </header>
     <body>
         <section>
-            <title>Asetukset Windows 7:ssa voidaksesi kirjoittaa pohjoissaameksi</title>
+            <title>Asetukset Windows 7:ssa pohjoissaamen kirjoittamiseksi</title>
 
-            <p>Näytämme kuinka asennetaan pohjoissaame sisäänkieleksi. Kun valitsee pohjoissaamen sisäänkieleksi, oikoluku tehdään automaattisesi pohjoissaameksi kun on asentanut Divvun-työkalut.</p>
+            <p>Näytämme kuinka asennetaan pohjoissaame. Kun pohjoissaame on käyttökielenä, oikoluku tehdään automaattisesi pohjoissaameksi jos on asenettu Divvun-työkalut.</p>
             <ol>
                 <li>Mene <strong>Start</strong>, valitse <strong>Ohjauspaneeli</strong>
                     <p><img src="images/win7_start_fi.png" alt="Alkumenu" /></p>

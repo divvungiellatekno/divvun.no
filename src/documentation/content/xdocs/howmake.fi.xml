@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="fi">
   <header>
-    <title>Miten oikolukuohjelma tuotetaan?</title>
+    <title>Miten oikolukuohjelmat tuotetaan?</title>
 
     <authors>
 	    <person email="borre.gaup@samediggi.no" name="Børre Gaup" />
@@ -12,12 +12,12 @@
 
   <body>
     <section>
-      <title>Miten oikolukuohjelma tuotetaan?</title>
+      <title>Miten oikolukuohjelmat tuotetaan?</title>
 
-      <p>Oikolukuohjelma tehdään läheisessä yhteistyössä Tromsan yliopiston
+      <p>Oikolukuohjelmat tehdään läheisessä yhteistyössä Tromssan yliopiston
       saamen kielen kieliteknologiaprojektin kanssa <a
       href="http://giellatekno.uit.no">(Saamen kieliteknologiaprojekti)</a>.
-      Tromsan projekti on tuottanut ohjelman, joka voi taivuttaa saamen kielen
+      Tromssan projekti on tuottanut ohjelman, joka voi taivuttaa saamen kielen
       sanoja perusmuodoista muihin muotoihin, ja tietää taivutetun sanan
       kieliopillisen muodon. Tätä ohjelmaa käytetään oikeinkirjoitusohjelman
       perustana.</p>
@@ -39,7 +39,7 @@
       testiversioita. Nämä laitetaan projektin nettisivuille, jotta asiasta
       kiinnostuneet voisivat ladata versiot ja testata niitä.</p>
 
-      
+
     </section>
   </body>
 </document>

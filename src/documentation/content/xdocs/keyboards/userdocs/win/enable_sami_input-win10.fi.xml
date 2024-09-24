@@ -2,37 +2,36 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="fi">
     <header>
-        <title>Asennus, konfigurointi ja vaihtaminen näppäimistöt
+        <title>Näppäimistöjen asennus, konfigurointi ja vaihtaminen
         Windows 10</title>
     </header>
     <body>
       <section>
-        <title>Installation</title>
+        <title>Asennus</title>
         <ol>
           <li>Mene <a
-            href="http://divvun.no/no/keyboards/desktopindex.html">Divvun
-            näppäimistö lataus sivu</a>, ja klikkaa
-            <strong>lataus linkkiä Windows 10</strong>:
+            href="http://divvun.no/no/keyboards/desktopindex.html">Divvun-näppäimistön lataussivulle</a>, ja klikkaa
+            <strong>latauslinkkiä Windows 10:lle</strong>:
             <p><img src="images/win10/01_download-sme-en.png"
             alt="Download"/></p>
           </li>
-          <li><strong>Aja</strong> lataus asentaja:
+          <li><strong>Aja</strong> asennin:
             <p><img src="images/win10/02_run-installer-sme-en.png"
             alt="Run installer"/></p>
           </li>
-          <li><strong>Anna</strong> asentajan tehdä muutoksia:
+          <li><strong>Anna</strong> asentimen tehdä muutoksia:
             <p><img src="images/win10/03_allow_changes-sme-en.png"
             alt="Allow changes"/></p>
           </li>
-          <li>Valitse asentaja kieli:
+          <li>Valitse asennuskieli:
             <p><img src="images/win10/04_select_inst_lang-sme-en.png"
             alt="Select installer language"/></p>
           </li>
-          <li>Valitse asennus paikka, defaultti on hyvä:
+          <li>Valitse asennuspaikka, oletus on hyvä:
             <p><img src="images/win10/05_inst_location-sme-en.png"
             alt="Installation location"/></p>
           </li>
-          <li>Valitse Aloitus Valikko paikka, defaultti on hyvä:
+          <li>Valitse aloitusvalikon paikka, oletus on hyvä:
             <p><img src="images/win10/06_start_menu-sme-en.png"
             alt="Start menu"/></p>
           </li>
@@ -42,11 +41,11 @@
             <p><img src="images/win10/08_installing-sme-en.png"
             alt="Installing"/></p>
           </li>
-          <li>Sinun täytyy <strong>Uudelleenkäynnistää</strong> jälkeen asennus
+          <li>Sinun täytyy <strong>Uudelleenkäynnistää</strong> asennuksen jälkeen
             jotta näppäimistö toimii oikein:
             <p><img src="images/win10/09_restart-sme-en.png" alt="Restart"/></p>
           </li>
-          <li>Uudelleenkäynnistyksen jälkeen, uudet näppäimistöt tulisi esiintyä
+          <li>Uudelleenkäynnistyksen jälkeen, uudet näppäimistöt ovat
             ylhäällä näppäimistö valikossa (jos ei, jatka kuten alla):
             <p><img src="images/win10/10_keyboard_menu-sme-en.png"
             alt="Keyboard menu"/></p>
@@ -55,8 +54,8 @@
       </section>
       <section>
         <title>Konfiguraatio</title>
-        <p>Asennus tehty ylhäällä tulisi automaattisesti olla pistää päälle
-        asennetut näppäimistöt. Siinä tapauksessa että ei näin käy, tai haluat vaihtaa
+        <p>Jos asennus on tehty kuten yllä tulisi automaattisesti olla pistää päälle
+        asennetut näppäimistöt. Jollei näin käy, tai haluat vaihtaa
         konfiguraation, tee:</p>
 
         <ol>
@@ -64,7 +63,7 @@
               <strong>Asetukset</strong>:
               <p><img src="images/win10/start_menu-fi.png" alt="Startmeny"/></p>
           </li>
-          <li>Mene <strong>Aika ja kieli</strong>:
+          <li>Valitse <strong>Aika ja kieli</strong>:
               <p><img src="images/win10/prefs-fi.png" alt="Kontrollpanel"/></p>
           </li>
           <li>Paina <strong>Lisää kieli</strong>:
@@ -80,7 +79,7 @@
               <p><img src="images/win10/prefs-add-sme-finland-fi.png"
               alt="Regionale varianter"/></p>
           </li>
-          <li>Merkkaa <strong>Davvisámegiella</strong> ja paina
+          <li>Valitse <strong>Davvisámegiella</strong> ja paina
               <strong>Asetukset</strong>:
               <p><img src="images/win10/prefs-modify-sme-fi.png"
               alt="Språk etter å ha valgt nordsamisk"/></p>
@@ -93,7 +92,7 @@
               <p><img src="images/win10/prefs-add-sme-finland-sweden-fi.png"
               alt="Inndatametode"/></p>
           </li>
-          <li>Merkkaa <strong>Suomi ja saame</strong> ja paina
+          <li>Valitse <strong>Suomi ja saame</strong> ja paina
               <strong>Poista</strong>:
               <p><img
               src="images/win10/prefs-remove-finnish_with_sami-keyboard-fi.png"
@@ -108,10 +107,10 @@
         </ol>
       </section>
       <section>
-        <title>Vaihtaminen näppäimistöt</title>
+        <title>Näppäimistöjen vaihtaminen</title>
         <p>
           Vaihtaminen kielten välillä tapahtuu
-          <strong>Windows+väli</strong> kunnes pohjoissaame näppäimistö on
+          <strong>Windows+välilyönti-näppäimillä</strong> kunnes pohjoissaamen näppäimistö on
           aktiivinen:
         </p>
         <p><img src="images/win10/switching-keyboards-sme-fi.png"

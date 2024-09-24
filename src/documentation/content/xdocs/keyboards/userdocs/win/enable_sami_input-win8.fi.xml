@@ -6,9 +6,10 @@
     </header>
     <body>
         <section>
-            <title>Asetukset Windows 8:lle voidaksesi kirjoittaa pohjoissaameksi</title>
+            <title>Asetukset Windows 8:lle pohjoissaamea varten</title>
 
-            <p>Näytämme kuinka asennetaan pohjoissaame tekstipalveluksi. Kun valitsee pohjoissaamen sisäänkieleksi, oikoluku tehdään automaattisesi pohjoissaameksi kun on asentanut Divvun-työkalut.</p>
+            <p>Näytämme kuinka asennetaan pohjoissaame.
+            Kun valitsee pohjoissaamen, oikoluku tehdään automaattisesi pohjoissaameksi kun on asentanut Divvun-työkalut.</p>
 
             <ol>
                 <li>Mene <strong>Start</strong>, kirjoita <strong>ohjauspaneeli</strong>, avaa <strong>Ohjauspaneeli</strong>

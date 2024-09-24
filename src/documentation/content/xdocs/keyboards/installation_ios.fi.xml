@@ -3,10 +3,10 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="fi">
     <header>
-        <title>iOS asennus (iPhone / iPad / iPod)</title>
+        <title>iOS-asennus (iPhone / iPad / iPod)</title>
     </header>
     <body>
-        <p>Latauksen jälkeen ohjelmisto App Storesta, kotiruutusi voi näyttää tältä:
+        <p>Lataa ohjelma App Storesta:
         </p>
 
         <p>
@@ -17,7 +17,7 @@
             <img width="213" src="images/ios_sami_keyboards_app.no.png" alt="App-skjermbilde"/>
         </p>
         <p>Paina linkkiä «Avaa Asetukset»</p>
-        <p>Gå til
+        <p>Avaa
 <strong>
 Yleinen &gt; Näppäimistö &gt; Näppäimistöt &gt; Lisää uusi näppäimistö..»
 </strong>
@@ -30,19 +30,19 @@ Yleinen &gt; Näppäimistö &gt; Näppäimistöt &gt; Lisää uusi näppäimist�
             <img width="213" src="images/ios_add_new_keyboard.no.png" alt="Velg Legg til nytt tastatur..."/>
         </p>
 
-        <p>Tekstin alla «Kolmannen osapuolen näppäimistöt» valitse «Saamelaiset näppäimistöt»:</p>
+        <p>Valitse «Kolmannen osapuolen näppäimistöt» alta «Saamelaiset näppäimistöt»:</p>
 
         <p>
             <img width="213" src="images/ios_select_sami_keyboards.no.png" alt="Velg Samiske tastaturer"/>
         </p>
-        <p>Mahdollista näppäimistöt joita haluat käyttää:</p>
+        <p>Ota käyttöön näppäimistöt joita haluat käyttää:</p>
         <p>
             <img width="213" src="images/ios_enable_keyboards.no.png" alt="Slå på ønskede tastaturer"/>
         </p>
         <p>Asennus on valmis!</p>
 
         <p>Vaihtaaksesi Saamen näppäimistöön, kosketa ja pidä maapallonäppäintä
-          vasemmalle välinäppäimestä:</p>
+          välilyönnin vasemalla puolella:</p>
         <p>
             <img width="213" src="images/ios_select_active_keyboard.no.png" alt="Meny med tilgjengelige tastaturer"/>
         </p>
@@ -53,7 +53,7 @@ Yleinen &gt; Näppäimistö &gt; Näppäimistöt &gt; Lisää uusi näppäimist�
         <p>Huomaa että kosketa-ja-paina ei toimi kun yksi Saamen näppäimistöistä
           on toiminnassa. Tämä on <a
         href="https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html"
-        >rajaus Applelta</a> («Ei ole APIa jolla saadaan lista valituista
+        >rajaus Applelta</a> («Ei ole APIa jolla saada lista valituista
         näppäimistöistä tai poimia tietty näppäimistö johon vaihtaa»),
         ja koskee kaikkia kolmannen osapuolen näppäimistöjä.</p>
 

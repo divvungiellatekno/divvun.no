@@ -19,9 +19,9 @@
                     src="images/Crystal_Clear_app_download_manager.png" />
                  Divvunasentaja</a>
          </p>
-         <p>Ladattuasi Divvun-asentajan voit käynnistää sen ja valita, mille kieliile haluat korhausohjelman.
+         <p>Ladattuasi Divvun-asentajan voit käynnistää sen ja valita, mille kielille haluat korhausohjelman.
          </p>
-         <note>Tämä korjausohjelma ei toimi LibreOfficessa eikä Microsoft Wordissa. Korjausohjelma näille kielille löydät
+         <note>Tämä korjausohjelma ei toimi LibreOfficessa eikä Microsoft Wordissa. Korjausohjelman näille kielille löydät
               <a href="korrektur.html">täältä</a>.
          </note>
       </section>
@@ -44,16 +44,15 @@
                  <td>
                      <a href="/divvuninstaller/macos.html">
                          <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
-                         User guide
+                         Käyttöohje
                      </a>
                  </td>
              </tr>
          </table>
-         <p>Ladattuasi Divvun-asentajan voit käynnistää sen ja valita, mille kieliile haluat korhausohjelman.
+         <p>Ladattuasi Divvun-asentajan voit käynnistää sen ja valita, mille kielille haluat korhausohjelman.
          </p>
-         <note>Dát čállindárkkisteaddji ii doaimma
-             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
-             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         <note>Tämä korjausohjelma ei toimi Libreofficessa eikä Microsoftin Wordissä. Korjaimen näille ohjelmille löydät
+             <a href="korrektur.html">täältä</a>.
          </note>
       </section>
 
@@ -61,11 +60,11 @@
          <title>Linux</title>
 
          <p>Kaikki ohjelmat käyttävät järjestelmän oikolukua.
-         Toistaiseksi oikolukuohjelma tulee kääntää itse, mutta pyrimme saamaan
-          kaikki tarvittavat paketit, myös meidän omat kielimallit, tavanomaisten
-          paketointirepositorien kautta .</p>
+          Toistaiseksi oikolukuohjelma tulee kääntää itse, mutta pyrimme saamaan
+          kaikki tarvittavat paketit, myös kielimallimme, tavanomaisten
+          paketointirepositorioiden kautta.</p>
 
-         <p>Ohjeet läydät <a
+         <p>Ohjeita läydät <a
          href="otherapps.html#Käännä+oma+oikolukuohjelma">täältä</a>.</p>
 
       </section>

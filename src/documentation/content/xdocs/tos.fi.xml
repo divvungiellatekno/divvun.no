@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="en">
+<document xml:lang="fi">
     <header>
-        <title>Terms of Service</title>
+        <title>Käyttöehdot</title>
     </header>
     <body>
       <section>
-        <title>Keyboard apps</title>
-        <p>There are no restrictions. All parts are open source. See the
-            licenses for each keyboard and the apps for details.</p>
+        <title>Näppäimistöt</title>
+        <p>Ei käyttörajoituksia. Kaikki osat ovat avointa lähdekoodia. Näppämistöissä on
+        mukana lisenssit tarkempia tietoja varten.</p>
       </section>
 
       <section>
-        <title>Grammar checkers</title>
-        <p>There are no restrictions on the use of the grammar checkers. All
-            source code is open. See the license of each languge repository and
-            of the grammar checker components for details.</p>
+        <title>Kieliopintarkistimet</title>
+        <p>Ei käyttörajoituksia kieliopin tarkistimille. Kaikki lähdekoodit ovat
+        saatavilla avoimesti. Jokaisessa kieliaineistossa ja kieliopin tarkistimessa
+        on mukana tarkemmat lisenssitiedot.</p>
       </section>
 
       <section>
-        <title>Other tools</title>
-        <p>There are no restrictions on the use of our tools. See the relevant
-            licenses for details.</p>
+        <title>Muut työkalut</title>
+        <p>Ei käyttörajoituksia muille työkaluille. Tarkemmat lisenssit työkalukohtaisesti.</p>
       </section>
 
     </body>

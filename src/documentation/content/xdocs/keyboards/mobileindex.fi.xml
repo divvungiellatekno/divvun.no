@@ -3,22 +3,22 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="fi">
     <header>
-        <title>Näppäimistöt matkapuhelimille</title>
+        <title>Näppäimistöt kännyköille</title>
     </header>
     <body>
 
 <!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
 
-        <p>Divvun on tehnyt ohjelman «Samiske tastaturer» (Saamen näppäimistöt),
-          joka siältää matkapuhelin- ja tablettinäppäimistöt pohjois-, luulajan-,
+        <p>Divvun on tehnyt ohjelman «Divvun keyboards»,
+          joka sisältää mobiili- ja tablettinäppäimistöt pohjois-, luulajan-,
           etelä-, inarin- ja koltansaamelle.
-          20.12.2018 lähtien näppäimistöt sisältävät myös korjausohjelmat pohjois-, luulajan-,
+          Näppäimistöt sisältävät myös korjausohjelmat pohjois-, luulajan-,
           etelä- ja inarinsaamelle.
           Ohjelmisto on saatavilla <a
 href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami"
                 >Androidille</a> ja <a
 href="https://itunes.apple.com/us/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
-                >iOSlle (iPhone and iPad)</a>.</p>
+                >iOSille (iPhone and iPad)</a>.</p>
 
       <section>
         <title>Lataa</title>
@@ -48,9 +48,10 @@ src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
       </section>
 
       <section>
-        <title>Apu</title>
+        <title>Ohjeita</title>
         <ul class="col-sm-12 nobullet center">
           <li class="col-sm-6">
+            Android
                 <a href="installation_android.html">
                  <img alt="Question mark icon" width="50"
                     src="/images/240px-Blue_question_mark.jpg"/>
@@ -59,6 +60,7 @@ src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
           </li>
 
           <li class="col-sm-6">
+            iPhone/iPad
                 <a href="installation_ios.html">
                  <img alt="Question mark icon" width="50"
                     src="/images/240px-Blue_question_mark.jpg"/>
@@ -88,8 +90,8 @@ src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
 
       <section>
         <title>Yksityisyys</title>
-        <p>Näe meidän <a href="/privacy.html">yksityisyyslausunto</a>
-        joka koskee näppäimistöohjelmistoa.</p>
+        <p><a href="/privacy.html">Tietosuoja</a>
+        koskien näppäimistöohjelmistoja.</p>
       </section>
 
    </body>

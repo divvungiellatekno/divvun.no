@@ -1,22 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
   "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="no">
+<document xml:lang="fi">
     <header>
         <title>GramDivvun 1.0</title>
-        <meta name="description">samisk grammatikkontroll</meta>
+        <meta name="description">pohjoissaamen kieliopintarkistus</meta>
     </header>
     <body>
 
-        <p>Stavekontroll og grammatikkontroll i samme verktøy!</p>
-
-        <note>Den første grammatikkontrollen for samisk,
-            <em
-      >GramDivvun 1.0</em>, er ute. Fungerer for Google Docs og Microsoft Office.
-        </note>
+        <p>Oikaisuluku ja kieliopintarkistus yhdessä työkalussa</p>
 
             <section>
-                <title>Installering</title>
+                <title>Asennus</title>
 
                 <table>
                   <tr>
@@ -48,63 +43,59 @@
               /></a></td>
                   </tr>
                   <tr>
-                    <td>Grammatikkontrollen finnes under menyen:<br />
-                    <strong>Tillegg > Divvun Grammar<br />
+                    <td>Kieliopintarkistus löytyy valikoista:<br />
+                    <strong>Add-ons > Divvun Grammar<br />
                     Checker > Grammar check</strong></td>
-                    <td>Grammatikkontrollen finnes under fliken:<br />
+                    <td>Kieliopintarkistus on välilehdellä:<br />
                     <strong>Home > Divvun Grammar Checker</strong></td>
                   </tr>
                 </table>
             </section>
 
             <section>
-                <title>Slik bruker du GramDivvun</title>
-                <p>Velg språk, og klikk på <strong>Check</strong>.</p>
+                <title>GramDivvunin käyttäminen</title>
+                <p>Valitse kieli ja paina nappia <strong>Check</strong>.</p>
 
-                <p>Grammatikkontrollen må brukes på
-                nytt etter at man har endra på teksten, den oppfatter ikke at teksten endres. Dette
-                er en begrensning i Office og GDocs, og utenfor vår kontroll.</p>
+                <p>Kieliopintarkistin pitää ajaa tekstin muuttamisen jälkeen aina
+                käsin, tämä on rajoitus nykyisessä GDocsissa ja Officessa jota emme voi tällä hetkellä ohittaa.</p>
             </section>
 
         <section>
-            <title>Nordsamisk grammatikkontroll</title>
+            <title>Pohjoissaamen kieliopintarkistin</title>
 
-            <p>I denne versjonen
-               prøver vi å finne og rette disse feilene:
+            <p>Tässä versiossa, korjataan seuraavia virhetyyppejä:
             </p>
 
             <ol>
-                <li>tradisjonelle skrivefeil (=stavekontroll)</li>
+                <li>kirjoitusvirheet (=oikaisuluku)</li>
                 <!--li>noen tilfeller av skrivefeil som ser ut som korrekte ord</li-->
-                <li>feil ved tegnsetting:
+                <li>kirjoitusvirheet:
                     <ul>
-                        <li>manglende mellomrom før og etter parentes</li>
+                        <li>välilyönnit ennen ja jälkeen sulkeita</li>
                         <li
-            >mellomrom inne i parentes, men før og etter teksten</li>
+            >välilyönnit sulkeiden sisällä</li>
                         <li
-            >manglende mellomrom etter komma, utropstegn m.m.</li>
-                        <li>for mange mellomrom</li>
+            >puuttuvat välilyönnit ennen pilkkuja ja huutomerkkejä yms.</li>
+                        <li>liikaa välilyöntejä</li>
                     </ul>
                 </li>
-                <li>sammensatte ord skrevet hver for seg</li>
-                <li>ord skrevet sammen som skal skrives hver for seg</li>
-                <li>ordformer med <strong>a</strong> og <strong
-          >á</strong> i ulik kontekst
-                   (f.eks <em>log<strong>a</strong>t</em> vs <em>log<strong
+                <li>yhdyssanat erikseen</li>
+                <li>erilliset sanat yhteen kirjoitettuna</li>
+                <li>sanamuodot joissa <strong>a</strong> ja <strong
+          >á</strong> merkitsevät eri asioita
+                   (esim. <em>log<strong>a</strong>t</em> ja <em>log<strong
             >á</strong>t</em>)</li>
-                <li>stadievekslingsfeil (f.eks. <em>bi<strong
-            >ddj</strong>ui</em> vs <em>bi<strong>dj</strong>ui</em>)</li>
+                <li>astevaihteluvirheet (esim. <em>bi<strong
+            >ddj</strong>ui</em> ja <em>bi<strong>dj</strong>ui</em>)</li>
             </ol>
 
         </section>
 
         <section>
-            <title>Andre samiske språk</title>
+            <title>Muut saamelaiskielet</title>
             <p
-      >De andre samiske språka, sør-, lule-, enare- og skoltesamisk, er også tilgjengelige
-            i GramDivvun. Men disse inneholder bare stavekontrollen. Det er likevel veldig nyttig,
-            fordi det gjør det mulig å bruke stavekontrollen i sammenhenger der det ikke har vært
-            mulig før, som for eksempel på Chromebook, eller i nettversjonen av Office365.</p>
+              >Muille saamen kielille kuten etelä-, inarnin- ja koltansaamelle on myös GramDivvun saatavilla.
+            </p>
         </section>
 
     </body>

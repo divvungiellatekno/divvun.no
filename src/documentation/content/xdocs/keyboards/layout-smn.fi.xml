@@ -6,16 +6,16 @@
         <title>Näppäimistöleiska inarinsaamelle</title>
     </header>
     <body>
-        <p>Saamen kirjeet on merkattu
+        <p>Saamen kirjaimet on merkattu
         <em class="samikey">oranssilla taustalla</em>.
-        Saamelaisilla kirjaimilla on alkuperäinen kirjain AltGr: n kautta: paina
-        AltGr + saamelaista kirjainta saadaksesi kirjeen joka on korvattu
+        Saamelaisilla kirjaimilla on alkuperäinen kirjain AltGr:n kautta: paina
+        AltGr + saamelaista kirjainta saadaksesi kirjain joka on korvattu
         saamelaisella.</p>
 
         <p>Esimerkki: Kirjoita suomalainen kirjain <code>Ö</code>, paina
         <code>AltGr + Đ</code>.</p>
 
-        <p>Kaikki muut kirjaimet ja symbolit sijoitetaan norjalaiseen
+        <p>Kaikki muut kirjaimet ja symbolit vastaavat norjalaista näppäimistöä
         näppäimistöön.</p>
 
         <section>

@@ -3,24 +3,20 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="fi">
     <header>
-        <title>Puheentuotto</title>
+        <title>Puheteknologia</title>
     </header>
     <body>
-        <note label="Nyhet!">Lule Sámi text-to-speech has been released
+        <note label="Uutta!">Luulajansaamen puhesynteesi julkistettiin
         25.6.2024!</note>
 
-        <p><a href="/index.html">Divvun</a> has developed a completely new Lule Sámi
-        speech synthesis, and an updated North Sámi version. Speech synthesis, or
-        speech-to-text, makes it possible for the computer to convert text to natural
-        speech in many apps. By8 using a screen reader all text visible on the screen
-        can be read aloud. There are three lule Sámi voices: one female voice
-        ("Siggá"), and two male voices ("Nihkol" and "Ábmut"). There is one
-        North Sámi female voice ("Biret").
+      <p><a href="/index.html">Divvun</a> on kehittänyt uuden luulajansaamen puhesynteesin ja päivittänyt pohjoissaamen version. Puhesyunteesi mahdollistaa tekstin muuntamisen puheeksi.
+      Näytönlukijasovellus voi lukea näytöllä näkyvää tekstiä ääneen. Luulajansaameksi
+      on kolme ääntä: Yksi naisääni (Siggá) ja kaksi miesääntä (Nihkol ja Ábmut). Pohjoissaameksi on Naisääni (Biret).
         </p>
 
-        <p>The voices are installed using Divvun Manager. More information and
-            a demo can be found on
-            <a href="https://borealium.org/sv/category/voices/">Borealium.org</a>.
+        <p>
+Ääne voi asentaa Divvun Managerilla. Lisätietoja ja demoja 
+            <a href="https://borealium.org/sv/category/voices/">Borealium.orgissa</a>.
         </p>
 
    </body>

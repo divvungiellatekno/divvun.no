@@ -14,32 +14,6 @@
          <p>Kveeninkielen oikeinkirjoitusohjelma on kehitteillä, ja sen kiellinen laatu vaihtelee.
         Käyttäkää harkiten ja päivittäkää usein!</p>
 
-         <table>
-         <tr>
-           <th>Lataa: </th>
-           <th>Kuvaus:</th>
-           <th>Ohjeet:</th>
-         </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
-           <td>Kveeninkielen oikoluku LibreOfficelle (4.4+)</td>
-           <td>
-             <ul>
-               <li><a href="userdocs/win/install-use-Voikko-LO5-win8.html">Windows</a></li>
-               <li><a href="userdocs/mac/install-use-Voikko-LO5-osx.html">OSX</a></li>
-             </ul>
-           </td>
-         </tr>
-         <!--tr>
-           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows &amp; OSX)</a> </td>
-           <td>Kveeninkielen oikoluku Firefoxille ja muille Mozilla-ohjelmille</td>
-         </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">MacVoikko (OSX)</a> </td>
-           <td>Kveeninkielen oikoluku koko OSX:lle</td>
-         </tr-->
-         </table>
-
          <p>Kveeniprojektilla on oma <a
          href="http://giellalt.uit.no/lang/fkv/KvenDocumentation.html"
          >projektisivu</a>, lähdekoodin kveenille löydät <a
@@ -59,16 +33,6 @@
            <th>Lataa: </th>
            <th>Kuvaus:</th>
            <th>Ohjeet:</th>
-         </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
-           <td>Inarinsaamenkielen oikoluku LibreOfficelle (4.4+)</td>
-           <td>
-             <ul>
-               <li><a href="userdocs/win/install-use-Voikko-LO5-win8.html">Windows</a></li>
-               <li><a href="userdocs/mac/install-use-Voikko-LO5-osx.html">OSX</a></li>
-             </ul>
-           </td>
          </tr>
          <tr>
            <td><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-smn-latest.exe">MS Office (Windows)</a></td>
@@ -110,16 +74,6 @@
            <th>Ohjeet:</th>
          </tr>
          <tr>
-           <td><a href="http://divvun.no/static_files/oxts/sms_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
-           <td>Koltansaamenkielen oikoluku LibreOfficelle (4.4+)</td>
-           <td>
-             <ul>
-               <li><a href="userdocs/win/install-use-Voikko-LO5-win8.html">Windows</a></li>
-               <li><a href="userdocs/mac/install-use-Voikko-LO5-osx.html">OSX</a></li>
-             </ul>
-           </td>
-         </tr>
-         <tr>
            <td><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sms-latest.exe">MS Office (Windows)</a></td>
            <td>Koltansaamenkielen oikoluku MS Officelle (rakennettu joka yö)</td>
            <td>
@@ -151,7 +105,7 @@
 
          <p>Divvun-ryhmällä on oma sivusto ei-saamenkielisille oikeinkirjoitusohjelmille,
         kehitetty yhteistyössä muiden orrganisaatioiden kanssa.
-         Mene <a href="http://divvun.org/">divvun.org</a> saadaksesi lisätietoja
+         Mene <a href="http://divvun.org/">divvun.org-sivustolle</a> saadaksesi lisätietoja
          ja ladataksesi oikeinkirjoitusohjelmia.</p>
 
       </section>

@@ -6,10 +6,10 @@
         <title>Näppäimistöleiskat pohjoissaamelle</title>
     </header>
     <body>
-        <p>Saamen kirjeet on merkattu
+        <p>Saamen kirjaimet on merkattu
           <em class="samikey">oranssilla taustalla</em>.
           Saamelaisilla kirjaimilla on alkuperäinen kirjain
-          AltGr: n kautta: paina AltGr + saamelaista kirjainta saadaksesi
+          AltGr:n kautta: paina AltGr + saamelaista kirjainta saadaksesi
           kirjeen joka on korvattu saamelaisella.
           </p>
 
@@ -19,8 +19,7 @@
           <p>Kaikki muut kirjaimet ja symbolit sijoitetaan norjalaiseen
           näppäimistöön.</p>
 
-          <p>Huomaa, että pohjoissaamen kirjain <code>Ŧ</code> on saatavilla
-          kautta <code>AltGr + T</code>.</p>
+          <p>Huomaa, että pohjoissaamen kirjain <code>Ŧ</code> on <code>AltGr + T</code>.</p>
 
         <section>
             <title>Pohjoissaame, Norja (Windows)</title>

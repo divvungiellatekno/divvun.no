@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="en">
+<document xml:lang="fi">
    <header>
-      <title>InDesign Proofing Tools Documentation</title>
+      <title>InDesign Proofing Tools -ohjeet</title>
    </header>
    <body>
       <p>The Divvun tools for InDesign has earlier only supported InDesign CS3 due to lack of support for newer versions

@@ -6,18 +6,18 @@
         <title>Näppäimitöleiskat luulajansaamelle</title>
     </header>
     <body>
-      <p>Saamen kirjeet on merkattu
+      <p>Saamen kirjaimet on merkitty
         <em class="samikey">oranssilla taustalla</em>.
         Saamelaisilla kirjaimilla on alkuperäinen kirjain
-        AltGr: n kautta: paina AltGr + saamelaista kirjainta saadaksesi kirjeen
+        AltGr:n kautta: paina AltGr + saamelaista kirjainta saadaksesi kirjain
         joka on korvattu saamelaisella.
         </p>
 
         <p>Esimerkki: Kirjoita kirjain <code>Q</code>, paina
         <code>AltGr + Á</code>.</p>
 
-        <p>Kaikki muut kirjaimet ja symbolit sijoitetaan norjalaiseen
-        näppäimistöön.</p>
+        <p>Kaikki muut kirjaimet ja symbolit vastaavat norjalaista
+        näppäimistöä.</p>
 
         <section>
             <title>Luulajansaame, Norja (Windows)</title>
