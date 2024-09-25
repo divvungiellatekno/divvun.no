@@ -6,18 +6,36 @@
         <title>Puheteknologia</title>
     </header>
     <body>
-        <note label="Uutta!">Luulajansaamen puhesynteesi julkistettiin
-        25.6.2024!</note>
+      <note label="Uutta!">
+        Luulajansaamen puhesynteesi julkistettiin
+        25.6.2024!
+      </note>
 
-      <p><a href="/index.html">Divvun</a> on kehittänyt uuden luulajansaamen puhesynteesin ja päivittänyt pohjoissaamen version. Puhesyunteesi mahdollistaa tekstin muuntamisen puheeksi.
-      Näytönlukijasovellus voi lukea näytöllä näkyvää tekstiä ääneen. Luulajansaameksi
-      on kolme ääntä: Yksi naisääni (Siggá) ja kaksi miesääntä (Nihkol ja Ábmut). Pohjoissaameksi on Naisääni (Biret).
-        </p>
+      <p>
+        <a href="/index.html">
+          Divvun
+        </a>
+        on kehittänyt uuden luulajansaamen puhesynteesin ja päivittänyt
+        pohjoissaamen version.
+      </p>
+      <p>
+        Luulajansaameksi on kolme ääntä: Yksi naisääni (Siggá) ja kaksi
+        miesääntä (Nihkol ja Ábmut). Pohjoissaameksi on Naisääni (Biret).
+      </p>
+      <p>
+        Puhesynteesin voi asentaa Windowsissa Divvun Managerilla. Lisätietoja
+        ja demoja
+        <a href="https://borealium.org/sv/category/voices/">
+          Borealium.orgissa
+        </a>.
+      </p>
 
-        <p>
-Ääne voi asentaa Divvun Managerilla. Lisätietoja ja demoja 
-            <a href="https://borealium.org/sv/category/voices/">Borealium.orgissa</a>.
-        </p>
+      <p>
+        Puhesyunteesi mahdollistaa tekstin muuntamisen puheeksi.
+        Näytönlukijasovellus (asennettava erikseen) voi lukea näytöllä näkyvää
+        tekstiä ääneen.
+      </p>
+
 
    </body>
 </document>
