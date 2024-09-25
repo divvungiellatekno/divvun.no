@@ -6,23 +6,25 @@
         <title>Tevstas-hållaj</title>
     </header>
     <body>
-        <note label="Nyhet!">Lulesamisk tekst-til-tale har blitt lansert
-        25.6.2024!</note>
 
-        <p><a href="/index.html">Divvun</a> har utvikla en helt ny lulesamisk
-        talesyntese, og en oppdatert nordsamisk versjon. Talesyntese, eller
-        tekst-til-tale, gjør det mulig for datamaskina å omvandle tekst til
-        naturlig tale i mange programmer. Ved å bruke en
-        skjermleser kan all tekst som vises på
-        skjermen leses opp. Det finnes tre lulesamiske stemmer: en kvinnestemme
-        ("Siggá"), og to mannsstemmer ("Nihkol" og "Ábmut"). Det finnes en
-        nordsamisk kvinnestemme ("Biret").
+        <note label="Ođas!">25.6.2024 almmuheimmeet julevsámi
+        hállansyntesa!</note>
+
+        <p><a href="/index.html">Divvun</a> lea ráhkadan áibbas ođđa julevsámi
+        hállansyntesa, ja ođasmahttán davvisámi veršuvnna.</p>
+        
+        <p>Leat golbma julevsámi jiena: okta nissonjietna ("Siggá"), ja guokte
+        dievdujiena ("Nihkol" ja "Ábmut"). Lea okta davvisámi nissonjietna
+        ("Biret"). </p>
+        
+        <p>Sajáiduhte hállansyntesa Divvun Manageris. Eanet dieđut ja demo
+        gávnnat <a
+        href="https://borealium.org/sv/category/voices/">Borealium.org</a>:s.
         </p>
 
-        <p>Stemmene installeres med Divvun Manager. Mer informasjon og
-            en demo finnes på
-            <a href="https://borealium.org/sv/category/voices/">Borealium.org</a>.
-        </p>
+        <p>Hállánsyntesa (TTS) lea prográmma mii transformere teavstta hállamii.
+        Šearbmalogan (mii lea sierra prográmma) geavaha hupmansyntesa ja lohká
+        teavsttaid jitnosit eanáš programmain.</p>
 
    </body>
 </document>
