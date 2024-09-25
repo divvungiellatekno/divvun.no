@@ -1,27 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-"http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="en">
-    <header>
-        <title>Text-to-speech</title>
-    </header>
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE document PUBLIC "-//APACHE//DTD
+Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en"> 
+    <header> 
+        <title>Text-to-speech</title> 
+    </header> 
     <body>
+    
         <note label="Nyhet!">Lule Sámi text-to-speech has been released
         25.6.2024!</note>
 
-        <p><a href="/index.html">Divvun</a> has developed a completely new Lule Sámi
-        speech synthesis, and an updated North Sámi version. Speech synthesis, or
-        speech-to-text, makes it possible for the computer to convert text to natural
-        speech in many apps. By8 using a screen reader all text visible on the screen
-        can be read aloud. There are three lule Sámi voices: one female voice
-        ("Siggá"), and two male voices ("Nihkol" and "Ábmut"). There is one
-        North Sámi female voice ("Biret").
-        </p>
+        <p><a href="/index.html">Divvun</a> has developed a completely new Lule
+        Sámi speech synthesis, and an updated North Sámi version.</p>
+        
+        <p>There are three lule Sámi voices: one female voice ("Siggá"), and two
+        male voices ("Nihkol" and "Ábmut"). There is one North Sámi female voice
+        ("Biret").</p>
 
-        <p>The voices are installed using Divvun Manager. More information and
-            a demo can be found on
-            <a href="https://borealium.org/sv/category/voices/">Borealium.org</a>.
-        </p>
+        <p>Install speech syntehsis for Lule and North Sámi on Windows using
+        Divvun Manager. More information and a demo can be found on <a
+        href="https://borealium.org/sv/category/voices/">Borealium.org</a>. </p>
 
-   </body>
+        <p>Speech syntehsis, or text-to-speech (TTS), is a program that
+        transforms text to speech. A screen reader (which must be installed
+        separately) reads aloud text on the screen by using the speech
+        syntehsis.</p> 
+        
+    </body> 
 </document>
