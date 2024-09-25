@@ -1,28 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-"http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="no">
-    <header>
-        <title>Tekst-til-tale</title>
-    </header>
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE document PUBLIC "-//APACHE//DTD
+Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no"> 
+    <header> 
+        <title>Tekst-til-tale</title> 
+    </header> 
     <body>
+
         <note label="Nyhet!">Lulesamisk tekst-til-tale har blitt lansert
         25.6.2024!</note>
 
-        <p><a href="/index.html">Divvun</a> har utvikla en helt ny lulesamisk
-        talesyntese, og en oppdatert nordsamisk versjon. Talesyntese, eller
-        tekst-til-tale, gjør det mulig for datamaskina å omvandle tekst til
-        naturlig tale i mange programmer. Ved å bruke en
-        skjermleser kan all tekst som vises på
-        skjermen leses opp. Det finnes tre lulesamiske stemmer: en kvinnestemme
-        ("Siggá"), og to mannsstemmer ("Nihkol" og "Ábmut"). Det finnes en
-        nordsamisk kvinnestemme ("Biret").
-        </p>
+        <p><a href="/index.html">Divvun</a> har utviklet en helt ny lulesamisk
+        talesyntese, og en oppdatert nordsamisk versjon.</p>
+        
+        <p>Det finnes tre lulesamiske stemmer: en kvinnestemme ("Siggá"), og to
+        mannsstemmer ("Nihkol" og "Ábmut"). Det finnes en nordsamisk
+        kvinnestemme ("Biret").</p>
 
-        <p>Stemmene installeres med Divvun Manager. Mer informasjon og
-            en demo finnes på
-            <a href="https://borealium.org/sv/category/voices/">Borealium.org</a>.
-        </p>
+        <p>Installer tekst-til-tale for lulesamisk og nordsamisk på Windows i
+        Divvun Manager. Mer informasjon og en demo finnes på <a
+        href="https://borealium.org/sv/category/voices/">Borealium.org</a>. </p>
 
-   </body>
+
+        <p>Talesyntese, eller tekst-til-tale (TTS), er ett program som
+        transformerer tekst til tale.  
+        En skjermleser (som må installeres separat) leser tekst på skjermen høyt
+        ved å bruke talesyntesen.</p> 
+        
+    </body> 
 </document>
