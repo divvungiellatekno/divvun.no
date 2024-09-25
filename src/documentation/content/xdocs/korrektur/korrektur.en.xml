@@ -161,8 +161,8 @@
             <title>Proofing tools for Linux<icon
                 alt="Linux" height="27" width="27"
                 src="images/Linux_Icon_256.png"/></title>
-            <p>The Divvun proofing tools can be installed on Linux by following
-            the instructions <a href="otherapps.html">on this page</a>.</p>
+            <p>The Divvun proofing tools, including the grammarchecker, can be installed on Linux by following
+            the instructions <a href="https://giellalt.github.io/proof/gramcheck/install.html">on this page</a>.</p>
         </section>
     </body>
 </document>
