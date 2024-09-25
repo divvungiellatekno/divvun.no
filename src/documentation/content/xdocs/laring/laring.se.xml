@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="no">
+<document xml:lang="se">
     <header>
-        <title>Språklæring</title>
+        <title>Giellaoahppa</title>
     </header>
     <body>
         <section>
             <title>Oahpa!</title>
-            <p><a href="http://oahpa.no/">Oahpa!</a> er et interaktivt
-            språklæringsprogram utviklet av Giellatekno-gruppa, og som bygger
-            på språkteknologien utviklet av
-            <a href="/index.html">Divvun</a> og
-            <a href="http://giellatekno.uit.no">Giellatekno</a>.</p>
+            <p><a href="http://oahpa.no/">Oahpa!</a> lea interaktiiva giellaoahppaprográmma maid Giellatekno lea ráhkadan. Giellateknologaš vuođu dán prográmmas leat
+            <a href="/index.html">Divvun</a> ja
+            <a href="http://giellatekno.uit.no">Giellatekno</a> ovdánahttan.</p>
             <ul>
-                <li><a href="http://oahpa.no/">Startside for alle språk</a></li>
-                <li>Direkte til <a href="http://oahpa.no/davvi/" >nordsamisk   Oahpa!</a></li>
-                <li>Direkte til <a href="http://oahpa.no/aarjel/">sørsamisk    Oahpa!</a></li>
-                <li>Direkte til <a href="http://oahpa.no/kiilt/" >kildinsamisk Oahpa!</a></li>
-                <li>Direkte til <a href="http://oahpa.no/nuorti/">skoltesamisk Oahpa!</a></li>
-                <li>Direkte til <a href="http://oahpa.no/aanaar/">enaresamisk  Oahpa!</a></li>
+                <li><a href="http://oahpa.no/">Buot gielaid álgosiidu</a></li>
+                <li>Njuolga <a href="http://oahpa.no/davvi/" >davvisámi Oahpa!:i</a></li>
+                <li>Njuolga <a href="http://oahpa.no/aarjel/">máttasámi Oahpa:i</a></li>
+                <li>Njuolga <a href="http://oahpa.no/kiilt/" >gielddasámi Oahpa:i</a></li>
+                <li>Njuolga <a href="http://oahpa.no/nuorti/">nuorttalašgiel Oahpa:i</a></li>
+                <li>Njuolga <a href="http://oahpa.no/aanaar/">anársámi Oahpa:i</a></li>
                 </ul>
         </section>
    </body>
