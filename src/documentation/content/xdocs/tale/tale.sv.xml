@@ -6,23 +6,25 @@
         <title>Text-till-tal</title>
     </header>
     <body>
+
         <note label="Nyhet!">Lulesamisk text-till-tal har lanserats
         25.6.2024!</note>
 
         <p><a href="/index.html">Divvun</a> har utvecklat helt ny lulesamisk
-        talsyntes, och en uppdaterad nordsamisk version. Talsyntes, eller
-        text-til-tal, gör det möjligt för datorn att förvandla text till
-        naturligt tal i många programmer. Genom att använda en
-        skärmläsare kan all text som syns på
-        skärmen läsas upp. Det finns tre lulesamiska röster: en kvinnoröst
-        ("Siggá") och två mansröster ("Nihkol" och "Ábmut"). Det finns en
-        nordsamisk kvinnoröst ("Biret").
+        talsyntes, och en uppdaterad nordsamisk version.</p>
+        
+        <p>Det finns tre lulesamiska röster: en kvinnoröst ("Siggá") och två
+        mansröster ("Nihkol" och "Ábmut"). Det finns en nordsamisk kvinnoröst
+        ("Biret"). </p>
+        
+        <p>Installera talsyntes för lulesamiska och nordsamiska på Windows med
+        Divvun Manager. Mer information och en demo finns på <a
+        href="https://borealium.org/sv/category/voices/">Borealium.org</a>.</p>
+        
+        <p>Text-till-tal (TTS) är ett program som transformerar text till tal.
+        En skärmläsare (som måste installeras separat) läser text på skärmen
+        högt genom att använda text-till-tal.  
         </p>
-
-        <p>Rösterna installeras med Divvun Manager. Mera information och
-            en demo finns på
-            <a href="https://borealium.org/sv/category/voices/">Borealium.org</a>.
-        </p>
-
+        
    </body>
 </document>
