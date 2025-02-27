@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+  "http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Divvun - Sámi language technology</title>
+        <meta name="description">sámi spellchecking</meta>
+    </header>
+    <body>
+        <section>
+            <title>Welcome to Divvun</title>
+            <p>
+                Divvun develops language technology tools for Sámi languages. Our tools are free, in most cases open source and available to everyone.
+            </p>
+            <ul>
+                <li>
+                    <a href="https://borealium.org/nb/resource/divvun-manager/">Divvun Manager</a> helps you install and automatically update spell checkers, keyboard layouts and speech synthesis for, among others, Southern, Lule and Northern Sámi on Windows and macOS.
+                </li>
+                <li>
+                    <a href="https://borealium.org/nb/resource/gramdivvun/">Grammar checker</a> that works in MS Word (also the web version) and Google Docs. It supports South, Lule. Inari, Skolt and North Sámi.
+                </li>
+                <li>
+                    <a href="https://borealium.org/nb/resource/divvun-keyboard/">Mobile keyboards</a> with built-in spell checker for most Sámi languages.
+                </li>
+                <li>
+                    <a href="korrektur/speller-demo.html">Online</a> spell checker for Southern, Lule, Inari, Skolt and Northern Sámi.
+                </li>
+            </ul>
+            <p>
+                More info about our tools can be found at <a href="https://borealium.org">borealium.org</a>.
+            </p>
+        </section>
+    </body>
+</document>

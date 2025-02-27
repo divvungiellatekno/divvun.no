@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+  "http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="se">
+    <header>
+        <title>Divvun - Sámi giellateknologiija</title>
+        <meta name="description">sámi čállindárkkisteapmi</meta>
+    </header>
+    <body>
+        <section>
+            <title>Bures boahtin Divvumii</title>
+            <p>
+                Divvun ráhkada giellateknologalaš reaidduid sámegielaide. Min reaiddut leat nuvttá, eanaš oassi rabas gáldokoda ja buohkaide olámuttos.
+            </p>
+            <ul>
+                <li>
+                    <a href="https://borealium.org/nb/resource/divvun-manager/">Divvun Manager</a> veahkeha sajáduhttit ja automáhtalaččat ođasmahttit earret eará lulli-, julev- ja davvisámegielat čállindárkkisteddjiid boallabevddiid- ja hupmansyntesaid Windowsas ja macOSas. 
+                </li>
+                <li>
+                    <a href="https://borealium.org/nb/resource/gramdivvun/">Grammatihkkadárkkisteapmi</a> mii doaibmá MS Wordas (maiddái neahttaveršuvnnas) ja Google Docsas. Dat sisttisdoallá nuorttalaš-, lulli-, julev-, anáraš- ja davvisámegielat dárkkisteaddjiid.
+                </li>
+                <li>
+                    <a href="https://borealium.org/nb/resource/divvun-keyboard/">Mobilboallobeavddit</a> main leat sisahuksejuvvon čállindárkkisteddjjid eanáš sámi gielaide.
+                </li>
+                <li>
+                    Lulli-, julev-, anáraš-, nuortalaš- ja davvisámegielat <a href="korrektur/speller-demo.html">neahttačállindárkkisteapmi</a>.
+                </li>
+            </ul>
+            <p>
+                Eanet dieđuid min reaidduid birra gávnnat <a href="https://borealium.org">borealium.org:s</a>.
+            </p>
+        </section>
+    </body>
+</document>

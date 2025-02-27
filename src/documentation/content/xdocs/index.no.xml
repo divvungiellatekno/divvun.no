@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+  "http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+    <header>
+        <title>Divvun - samisk språkteknologi</title>
+        <meta name="description">samisk stavekontroll</meta>
+    </header>
+    <body>
+        <section>
+            <title>Velkommen til Divvun</title>
+            <p>
+                Divvun utvikler språkteknologiske verktøy for samiske språk. Våre verktøy er gratis, i de fleste tilfeller åpen kildekode og tilgjengelige for alle. 
+            </p>
+            <ul>
+                <li>
+                    <a href="https://borealium.org/nb/resource/divvun-manager/">Divvun Manager</a> hjelper deg å installere og automatisk oppdatere stavekontroller, tastaturer og talesynteseer for bl.a. sør-, lule- og nordsamisk på Windows og macOS. 
+                </li>
+                <li>
+                    <a href="https://borealium.org/nb/resource/gramdivvun/">Grammatikkontroll</a> som fungerer i MS Word (også webversjonen) og Google Docs. Den støtter sør-, lule-. inari-, skolte- og nordsamisk.
+                </li>
+                <li>
+                    <a href="https://borealium.org/nb/resource/divvun-keyboard/">Mobiltastatur</a> med innebygd stavekontroll for de fleste samiske språk.
+                </li>
+                <li>
+                    <a href="korrektur/speller-demo.html">Online</a> stavekontroll for sør-, lule-, inari-, skolte- og nordsamisk.
+                </li>
+            </ul>
+            <p>
+                Mer info om våre verktøy finner du på <a href="https://borealium.org">borealium.org</a>.
+            </p>
+        </section>
+    </body>
+</document>
