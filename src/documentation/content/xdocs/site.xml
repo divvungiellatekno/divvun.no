@@ -19,7 +19,7 @@
 
     <about label="Davvisámegiella" tab="Ruoktu">
         <index description="Bures boahttin divvun.no prošektii" href="index.html" label="Álgosiidu"/>
-        <spellerdemo label="Online speller" href="https://divvun.uit.no"/>
+        <spellerdemo label="Online speller" href="korrektur/speller-demo.html"/>
         <sysadm label="Info for administratorer" href="https://divvun.github.io/enterprise/"/>
         <privacy href="privacy.html" label="Privacy"/>
         <tos href="tos.html" label="Terms of Service"/>
