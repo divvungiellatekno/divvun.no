@@ -22,8 +22,6 @@
    <accept>*/*</accept>
 
 
-   <include pattern="**ckeditor**"/>
-
    <exclude pattern="**/"/>
    <exclude pattern="**apidocs**"/>
    <exclude pattern="api/**"/>
