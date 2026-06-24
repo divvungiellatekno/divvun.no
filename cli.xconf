@@ -43,4 +43,8 @@
         dest="/Users/boerre/xtdoc/sd.disp/build/site/se/*"
          />
 
+   <uri type="insert"
+        src="jietnasiella/index.html"
+        follow-links="false"/>
+
 </cocoon>
